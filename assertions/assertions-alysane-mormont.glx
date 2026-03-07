@@ -1,0 +1,23 @@
+assertions:
+    assertion-alysane-mormont-name:
+        subject:
+            person: person-alysane-mormont
+        property: name
+        value: Alysane Mormont
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-alysane-mormont-gender:
+        subject:
+            person: person-alysane-mormont
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

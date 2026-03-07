@@ -1,0 +1,23 @@
+assertions:
+    assertion-lynesse-hightower-name:
+        subject:
+            person: person-lynesse-hightower
+        property: name
+        value: Lynesse Hightower
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-lynesse-hightower-gender:
+        subject:
+            person: person-lynesse-hightower
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

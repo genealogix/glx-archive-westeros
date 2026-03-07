@@ -1,0 +1,10 @@
+persons:
+    person-margaery-tyrell:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Margaery
+                    surname: Tyrell
+                value: Margaery Tyrell
+            rin: MH:I379

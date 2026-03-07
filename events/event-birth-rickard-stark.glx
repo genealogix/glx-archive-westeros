@@ -1,0 +1,6 @@
+events:
+    event-birth-rickard-stark:
+        type: birth
+        participants:
+            - person: person-rickard-stark
+              role: principal

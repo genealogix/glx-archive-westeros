@@ -1,0 +1,8 @@
+events:
+    event-marriage-maron-martell-and-daenerys-targaryen-304:
+        type: marriage
+        participants:
+            - person: person-maron-martell
+              role: spouse
+            - person: person-daenerys-targaryen-304
+              role: spouse

@@ -1,0 +1,23 @@
+assertions:
+    assertion-brynden-tully-blackfish-name:
+        subject:
+            person: person-brynden-tully-blackfish
+        property: name
+        value: "Ser Brynden 'Blackfish' Tully"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-brynden-tully-blackfish-gender:
+        subject:
+            person: person-brynden-tully-blackfish
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

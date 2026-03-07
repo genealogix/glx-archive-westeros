@@ -1,0 +1,23 @@
+assertions:
+    assertion-jeyne-lydden-name:
+        subject:
+            person: person-jeyne-lydden
+        property: name
+        value: Jeyne Lydden
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jeyne-lydden-gender:
+        subject:
+            person: person-jeyne-lydden
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

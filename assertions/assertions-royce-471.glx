@@ -1,0 +1,23 @@
+assertions:
+    assertion-royce-471-name:
+        subject:
+            person: person-royce-471
+        property: name
+        value: Royce
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-royce-471-gender:
+        subject:
+            person: person-royce-471
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

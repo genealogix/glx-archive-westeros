@@ -1,0 +1,6 @@
+events:
+    event-birth-redwyne:
+        type: birth
+        participants:
+            - person: person-redwyne
+              role: principal

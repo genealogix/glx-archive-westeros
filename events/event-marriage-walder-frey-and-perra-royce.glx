@@ -1,0 +1,8 @@
+events:
+    event-marriage-walder-frey-and-perra-royce:
+        type: marriage
+        participants:
+            - person: person-walder-frey
+              role: spouse
+            - person: person-perra-royce
+              role: spouse

@@ -1,0 +1,10 @@
+persons:
+    person-oberyn-martell-the-red-viper:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Oberyn 'The Red Viper'
+                    surname: Martell
+                value: Oberyn 'The Red Viper' Martell
+            rin: MH:I263

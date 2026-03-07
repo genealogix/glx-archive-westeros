@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-tyana-wylde-aegon-frey-bloodborn:
+        type: parent_child
+        participants:
+            - person: person-tyana-wylde
+              role: parent
+            - person: person-aegon-frey-bloodborn
+              role: child

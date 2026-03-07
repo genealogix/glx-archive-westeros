@@ -1,0 +1,10 @@
+persons:
+    person-elmar-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Elmar
+                    surname: Frey
+                value: Elmar Frey
+            rin: MH:I140

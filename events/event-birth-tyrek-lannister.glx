@@ -1,0 +1,6 @@
+events:
+    event-birth-tyrek-lannister:
+        type: birth
+        participants:
+            - person: person-tyrek-lannister
+              role: principal

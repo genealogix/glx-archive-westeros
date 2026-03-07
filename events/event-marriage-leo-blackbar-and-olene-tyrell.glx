@@ -1,0 +1,8 @@
+events:
+    event-marriage-leo-blackbar-and-olene-tyrell:
+        type: marriage
+        participants:
+            - person: person-leo-blackbar
+              role: spouse
+            - person: person-olene-tyrell
+              role: spouse

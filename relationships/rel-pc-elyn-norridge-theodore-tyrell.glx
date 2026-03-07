@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-elyn-norridge-theodore-tyrell:
+        type: parent_child
+        participants:
+            - person: person-elyn-norridge
+              role: parent
+            - person: person-theodore-tyrell
+              role: child

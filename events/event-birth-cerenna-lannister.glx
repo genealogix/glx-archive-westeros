@@ -1,0 +1,6 @@
+events:
+    event-birth-cerenna-lannister:
+        type: birth
+        participants:
+            - person: person-cerenna-lannister
+              role: principal

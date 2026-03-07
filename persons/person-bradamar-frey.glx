@@ -1,0 +1,10 @@
+persons:
+    person-bradamar-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Bradamar
+                    surname: Frey
+                value: Bradamar Frey
+            rin: MH:I84

@@ -1,0 +1,10 @@
+persons:
+    person-merrell-florent:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Merrell
+                    surname: Florent
+                value: Merrell Florent
+            rin: MH:I452

@@ -1,0 +1,10 @@
+persons:
+    person-aenys-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aenys
+                    surname: Frey
+                value: Aenys Frey
+            rin: MH:I5

@@ -1,0 +1,9 @@
+persons:
+    person-tully:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Tully
+                value: Tully
+            rin: MH:I255

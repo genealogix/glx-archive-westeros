@@ -1,0 +1,6 @@
+events:
+    event-birth-danwell-frey:
+        type: birth
+        participants:
+            - person: person-danwell-frey
+              role: principal

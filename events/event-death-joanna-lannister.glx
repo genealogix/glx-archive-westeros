@@ -1,0 +1,8 @@
+events:
+    event-death-joanna-lannister:
+        type: death
+        participants:
+            - person: person-joanna-lannister
+              role: principal
+        properties:
+            cause: Maternal Death

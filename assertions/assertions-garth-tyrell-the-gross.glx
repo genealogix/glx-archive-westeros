@@ -1,0 +1,23 @@
+assertions:
+    assertion-garth-tyrell-the-gross-name:
+        subject:
+            person: person-garth-tyrell-the-gross
+        property: name
+        value: "Garth 'The Gross' Tyrell"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-garth-tyrell-the-gross-gender:
+        subject:
+            person: person-garth-tyrell-the-gross
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

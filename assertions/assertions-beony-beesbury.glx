@@ -1,0 +1,23 @@
+assertions:
+    assertion-beony-beesbury-name:
+        subject:
+            person: person-beony-beesbury
+        property: name
+        value: Beony Beesbury
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-beony-beesbury-gender:
+        subject:
+            person: person-beony-beesbury
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

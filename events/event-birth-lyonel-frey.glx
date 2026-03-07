@@ -1,0 +1,6 @@
+events:
+    event-birth-lyonel-frey:
+        type: birth
+        participants:
+            - person: person-lyonel-frey
+              role: principal

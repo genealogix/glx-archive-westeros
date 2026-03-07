@@ -49,3 +49,49 @@ relationship_types:
     label: "Partner"
     description: "Domestic partnership or cohabitation"
 
+  # === ASOIAF Custom Relationship Types ===
+
+  betrothal:
+    label: "Betrothal"
+    description: "Formal engagement or marriage pact"
+
+  ward:
+    label: "Ward"
+    description: "Fostered under guardianship of another lord"
+
+  sworn_sword:
+    label: "Sworn Sword"
+    description: "Personal sworn service or knight's oath"
+
+  liege_vassal:
+    label: "Liege-Vassal"
+    description: "Feudal lord-vassal bond between houses"
+
+  kingsguard:
+    label: "Kingsguard"
+    description: "Sworn protector of the monarch"
+
+  maester:
+    label: "Maester"
+    description: "Maester assigned to serve a house or castle"
+
+  regent:
+    label: "Regent"
+    description: "Rules on behalf of a minor monarch"
+
+  hand_of_the_king:
+    label: "Hand of the King"
+    description: "Chief advisor to the monarch"
+
+  secret_lover:
+    label: "Secret Lover"
+    description: "Illicit romantic relationship"
+
+  hostage:
+    label: "Hostage"
+    description: "Held as political leverage"
+
+  alliance:
+    label: "Alliance"
+    description: "Political alliance between houses (non-marriage)"
+

@@ -1,0 +1,23 @@
+assertions:
+    assertion-rhaelle-targaryen-288-name:
+        subject:
+            person: person-rhaelle-targaryen-288
+        property: name
+        value: Rhaelle Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-rhaelle-targaryen-288-gender:
+        subject:
+            person: person-rhaelle-targaryen-288
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

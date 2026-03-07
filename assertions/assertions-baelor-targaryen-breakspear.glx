@@ -1,0 +1,23 @@
+assertions:
+    assertion-baelor-targaryen-breakspear-name:
+        subject:
+            person: person-baelor-targaryen-breakspear
+        property: name
+        value: "Baelor 'Breakspear' Targaryen"
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-baelor-targaryen-breakspear-gender:
+        subject:
+            person: person-baelor-targaryen-breakspear
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

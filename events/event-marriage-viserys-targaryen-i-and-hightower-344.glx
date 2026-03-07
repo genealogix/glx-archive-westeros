@@ -1,0 +1,8 @@
+events:
+    event-marriage-viserys-targaryen-i-and-hightower-344:
+        type: marriage
+        participants:
+            - person: person-viserys-targaryen-i
+              role: spouse
+            - person: person-hightower-344
+              role: spouse

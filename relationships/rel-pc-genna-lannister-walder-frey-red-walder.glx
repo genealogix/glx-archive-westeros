@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-genna-lannister-walder-frey-red-walder:
+        type: parent_child
+        participants:
+            - person: person-genna-lannister
+              role: parent
+            - person: person-walder-frey-red-walder
+              role: child

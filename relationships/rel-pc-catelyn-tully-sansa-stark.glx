@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-catelyn-tully-sansa-stark:
+        type: parent_child
+        participants:
+            - person: person-catelyn-tully
+              role: parent
+            - person: person-sansa-stark
+              role: child

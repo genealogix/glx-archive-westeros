@@ -1,0 +1,23 @@
+assertions:
+    assertion-garlan-tyrell-name:
+        subject:
+            person: person-garlan-tyrell
+        property: name
+        value: Ser Garlan Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-garlan-tyrell-gender:
+        subject:
+            person: person-garlan-tyrell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

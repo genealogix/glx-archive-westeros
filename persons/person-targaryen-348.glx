@@ -1,0 +1,9 @@
+persons:
+    person-targaryen-348:
+        properties:
+            gender: female
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen
+            rin: MH:I348

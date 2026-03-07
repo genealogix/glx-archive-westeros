@@ -1,0 +1,6 @@
+events:
+    event-birth-della-frey:
+        type: birth
+        participants:
+            - person: person-della-frey
+              role: principal

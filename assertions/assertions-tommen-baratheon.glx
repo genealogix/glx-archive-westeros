@@ -1,0 +1,23 @@
+assertions:
+    assertion-tommen-baratheon-name:
+        subject:
+            person: person-tommen-baratheon
+        property: name
+        value: Tommen Baratheon
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tommen-baratheon-gender:
+        subject:
+            person: person-tommen-baratheon
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

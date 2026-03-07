@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-cleos-frey-willem-frey:
+        type: parent_child
+        participants:
+            - person: person-cleos-frey
+              role: parent
+            - person: person-willem-frey
+              role: child

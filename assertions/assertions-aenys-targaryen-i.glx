@@ -1,0 +1,23 @@
+assertions:
+    assertion-aenys-targaryen-i-name:
+        subject:
+            person: person-aenys-targaryen-i
+        property: name
+        value: Aenys Targaryen I
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aenys-targaryen-i-gender:
+        subject:
+            person: person-aenys-targaryen-i
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+persons:
+    person-joanna-lannister:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Joanna
+                    surname: Lannister
+                value: Joanna Lannister
+            rin: MH:I163

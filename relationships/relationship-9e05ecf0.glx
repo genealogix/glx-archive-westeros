@@ -1,8 +1,0 @@
-relationships:
-    relationship-61:
-        type: marriage
-        participants:
-            - person: person-263
-              role: spouse
-            - person: person-264
-              role: spouse

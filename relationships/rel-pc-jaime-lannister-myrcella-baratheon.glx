@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-jaime-lannister-myrcella-baratheon:
+        type: parent_child
+        participants:
+            - person: person-jaime-lannister
+              role: parent
+            - person: person-myrcella-baratheon
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-dorna-swyft-lancel-lannister:
+        type: parent_child
+        participants:
+            - person: person-dorna-swyft
+              role: parent
+            - person: person-lancel-lannister
+              role: child

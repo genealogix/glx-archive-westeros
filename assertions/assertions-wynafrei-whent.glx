@@ -1,0 +1,23 @@
+assertions:
+    assertion-wynafrei-whent-name:
+        subject:
+            person: person-wynafrei-whent
+        property: name
+        value: Wynafrei Whent
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-wynafrei-whent-gender:
+        subject:
+            person: person-wynafrei-whent
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

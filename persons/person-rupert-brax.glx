@@ -1,0 +1,10 @@
+persons:
+    person-rupert-brax:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Rupert
+                    surname: Brax
+                value: Rupert Brax
+            rin: MH:I157

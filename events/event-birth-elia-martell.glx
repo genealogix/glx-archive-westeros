@@ -1,0 +1,6 @@
+events:
+    event-birth-elia-martell:
+        type: birth
+        participants:
+            - person: person-elia-martell
+              role: principal

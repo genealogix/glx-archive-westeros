@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-steffon-baratheon-robert-baratheon-i:
+        type: parent_child
+        participants:
+            - person: person-steffon-baratheon
+              role: parent
+            - person: person-robert-baratheon-i
+              role: child

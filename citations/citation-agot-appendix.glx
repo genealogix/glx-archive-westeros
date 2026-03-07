@@ -1,0 +1,7 @@
+citations:
+    citation-agot-appendix:
+        source: source-agot
+        properties:
+            locator: "Appendix"
+            accessed: "2013-05-31"
+        notes: "Complete appendix listing the principal houses and their members"

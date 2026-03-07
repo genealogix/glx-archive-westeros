@@ -1,0 +1,23 @@
+assertions:
+    assertion-aemond-targaryen-name:
+        subject:
+            person: person-aemond-targaryen
+        property: name
+        value: Aemond Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aemond-targaryen-gender:
+        subject:
+            person: person-aemond-targaryen
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

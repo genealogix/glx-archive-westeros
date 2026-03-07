@@ -1,0 +1,6 @@
+events:
+    event-death-unknown-336:
+        type: death
+        participants:
+            - person: person-unknown-336
+              role: principal

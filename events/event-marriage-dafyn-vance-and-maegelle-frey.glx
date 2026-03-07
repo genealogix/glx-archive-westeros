@@ -1,0 +1,8 @@
+events:
+    event-marriage-dafyn-vance-and-maegelle-frey:
+        type: marriage
+        participants:
+            - person: person-dafyn-vance
+              role: spouse
+            - person: person-maegelle-frey
+              role: spouse

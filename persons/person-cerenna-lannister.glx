@@ -1,0 +1,10 @@
+persons:
+    person-cerenna-lannister:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Cerenna
+                    surname: Lannister
+                value: Cerenna Lannister
+            rin: MH:I185

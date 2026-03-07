@@ -1,0 +1,6 @@
+events:
+    event-death-naerys:
+        type: death
+        participants:
+            - person: person-naerys
+              role: principal

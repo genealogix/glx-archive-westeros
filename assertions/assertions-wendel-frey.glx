@@ -1,0 +1,23 @@
+assertions:
+    assertion-wendel-frey-name:
+        subject:
+            person: person-wendel-frey
+        property: name
+        value: Wendel Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-wendel-frey-gender:
+        subject:
+            person: person-wendel-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

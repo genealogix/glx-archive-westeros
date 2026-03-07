@@ -1,0 +1,10 @@
+persons:
+    person-aerys-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aerys
+                    surname: Targaryen
+                value: Aerys Targaryen
+            rin: MH:I365

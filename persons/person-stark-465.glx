@@ -1,0 +1,9 @@
+persons:
+    person-stark-465:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Stark
+                value: Stark
+            rin: MH:I465

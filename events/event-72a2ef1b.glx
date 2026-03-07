@@ -1,6 +1,0 @@
-events:
-    event-22:
-        type: birth
-        participants:
-            - person: person-18
-              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-catelyn-tully:
+        type: birth
+        participants:
+            - person: person-catelyn-tully
+              role: principal

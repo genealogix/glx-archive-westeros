@@ -1,0 +1,6 @@
+events:
+    event-birth-robert-arryn:
+        type: birth
+        participants:
+            - person: person-robert-arryn
+              role: principal

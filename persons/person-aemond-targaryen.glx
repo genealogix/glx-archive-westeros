@@ -1,0 +1,10 @@
+persons:
+    person-aemond-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aemond
+                    surname: Targaryen
+                value: Aemond Targaryen
+            rin: MH:I346

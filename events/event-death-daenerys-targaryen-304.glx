@@ -1,0 +1,6 @@
+events:
+    event-death-daenerys-targaryen-304:
+        type: death
+        participants:
+            - person: person-daenerys-targaryen-304
+              role: principal

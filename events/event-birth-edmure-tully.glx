@@ -1,0 +1,6 @@
+events:
+    event-birth-edmure-tully:
+        type: birth
+        participants:
+            - person: person-edmure-tully
+              role: principal

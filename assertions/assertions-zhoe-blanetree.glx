@@ -1,0 +1,23 @@
+assertions:
+    assertion-zhoe-blanetree-name:
+        subject:
+            person: person-zhoe-blanetree
+        property: name
+        value: Zhoe Blanetree
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-zhoe-blanetree-gender:
+        subject:
+            person: person-zhoe-blanetree
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

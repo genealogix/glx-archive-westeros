@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-minisa-whent-lysa-tully:
+        type: parent_child
+        participants:
+            - person: person-minisa-whent
+              role: parent
+            - person: person-lysa-tully
+              role: child

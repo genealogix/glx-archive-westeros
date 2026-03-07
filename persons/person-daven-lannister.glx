@@ -1,0 +1,10 @@
+persons:
+    person-daven-lannister:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Daven
+                    surname: Lannister
+                value: Daven Lannister
+            rin: MH:I184

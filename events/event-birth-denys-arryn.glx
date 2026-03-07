@@ -1,0 +1,6 @@
+events:
+    event-birth-denys-arryn:
+        type: birth
+        participants:
+            - person: person-denys-arryn
+              role: principal

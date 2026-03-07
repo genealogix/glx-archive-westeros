@@ -1,0 +1,23 @@
+assertions:
+    assertion-shireen-baratheon-name:
+        subject:
+            person: person-shireen-baratheon
+        property: name
+        value: Shireen Baratheon
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-shireen-baratheon-gender:
+        subject:
+            person: person-shireen-baratheon
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

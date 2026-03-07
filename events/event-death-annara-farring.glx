@@ -1,0 +1,6 @@
+events:
+    event-death-annara-farring:
+        type: death
+        participants:
+            - person: person-annara-farring
+              role: principal

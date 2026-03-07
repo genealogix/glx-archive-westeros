@@ -1,0 +1,23 @@
+assertions:
+    assertion-anya-waynwood-name:
+        subject:
+            person: person-anya-waynwood
+        property: name
+        value: Anya Waynwood
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-anya-waynwood-gender:
+        subject:
+            person: person-anya-waynwood
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,6 @@
+events:
+    event-birth-shireen-baratheon:
+        type: birth
+        participants:
+            - person: person-shireen-baratheon
+              role: principal

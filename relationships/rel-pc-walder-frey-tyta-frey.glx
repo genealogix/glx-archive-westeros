@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-walder-frey-tyta-frey:
+        type: parent_child
+        participants:
+            - person: person-walder-frey
+              role: parent
+            - person: person-tyta-frey
+              role: child

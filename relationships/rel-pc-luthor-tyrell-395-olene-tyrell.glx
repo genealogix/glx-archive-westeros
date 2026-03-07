@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-luthor-tyrell-395-olene-tyrell:
+        type: parent_child
+        participants:
+            - person: person-luthor-tyrell-395
+              role: parent
+            - person: person-olene-tyrell
+              role: child

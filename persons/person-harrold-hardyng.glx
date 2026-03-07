@@ -1,0 +1,10 @@
+persons:
+    person-harrold-hardyng:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Harrold
+                    surname: Hardyng
+                value: Harrold Hardyng
+            rin: MH:I239

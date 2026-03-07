@@ -1,0 +1,6 @@
+events:
+    event-birth-paxter-redwyne:
+        type: birth
+        participants:
+            - person: person-paxter-redwyne
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-bradamar-frey:
+        type: birth
+        participants:
+            - person: person-bradamar-frey
+              role: principal

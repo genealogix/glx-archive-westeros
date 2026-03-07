@@ -1,0 +1,23 @@
+assertions:
+    assertion-daenerys-targaryen-206-name:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: name
+        value: Daenerys Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-daenerys-targaryen-206-gender:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

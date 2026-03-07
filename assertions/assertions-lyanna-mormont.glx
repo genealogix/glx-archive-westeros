@@ -1,0 +1,23 @@
+assertions:
+    assertion-lyanna-mormont-name:
+        subject:
+            person: person-lyanna-mormont
+        property: name
+        value: Lyanna Mormont
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-lyanna-mormont-gender:
+        subject:
+            person: person-lyanna-mormont
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

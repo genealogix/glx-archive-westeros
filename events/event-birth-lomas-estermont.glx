@@ -1,0 +1,6 @@
+events:
+    event-birth-lomas-estermont:
+        type: birth
+        participants:
+            - person: person-lomas-estermont
+              role: principal

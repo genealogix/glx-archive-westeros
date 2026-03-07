@@ -1,0 +1,11 @@
+persons:
+    person-omer-florent:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Omer
+                    prefix: Maester
+                    surname: Florent
+                value: Maester Omer Florent
+            rin: MH:I453

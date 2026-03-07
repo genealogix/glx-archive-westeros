@@ -1,0 +1,10 @@
+persons:
+    person-hobber-redwyne-slobber:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Hobber 'Slobber'
+                    surname: Redwyne
+                value: Hobber 'Slobber' Redwyne
+            rin: MH:I391

@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-merrett-frey-and-mariya-derry:
+        type: marriage
+        participants:
+            - person: person-merrett-frey
+              role: spouse
+            - person: person-mariya-derry
+              role: spouse
+        properties:
+            marriage_event: event-marriage-merrett-frey-and-mariya-derry

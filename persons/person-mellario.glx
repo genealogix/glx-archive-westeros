@@ -1,0 +1,9 @@
+persons:
+    person-mellario:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Mellario
+                value: Mellario
+            rin: MH:I276

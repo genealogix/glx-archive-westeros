@@ -1,0 +1,6 @@
+events:
+    event-birth-loreza-sand:
+        type: birth
+        participants:
+            - person: person-loreza-sand
+              role: principal

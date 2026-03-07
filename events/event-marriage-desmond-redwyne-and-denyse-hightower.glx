@@ -1,0 +1,8 @@
+events:
+    event-marriage-desmond-redwyne-and-denyse-hightower:
+        type: marriage
+        participants:
+            - person: person-desmond-redwyne
+              role: spouse
+            - person: person-denyse-hightower
+              role: spouse

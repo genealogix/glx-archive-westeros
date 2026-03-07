@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-hosman-norcross-alester-norcross:
+        type: parent_child
+        participants:
+            - person: person-hosman-norcross
+              role: parent
+            - person: person-alester-norcross
+              role: child

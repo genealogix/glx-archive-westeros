@@ -1,0 +1,6 @@
+events:
+    event-birth-hobber-redwyne-slobber:
+        type: birth
+        participants:
+            - person: person-hobber-redwyne-slobber
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-roslin-frey:
+        type: birth
+        participants:
+            - person: person-roslin-frey
+              role: principal

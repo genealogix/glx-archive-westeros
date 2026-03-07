@@ -1,0 +1,6 @@
+events:
+    event-birth-bryan-frey:
+        type: birth
+        participants:
+            - person: person-bryan-frey
+              role: principal

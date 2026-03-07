@@ -1,0 +1,6 @@
+events:
+    event-death-shiera-seastar:
+        type: death
+        participants:
+            - person: person-shiera-seastar
+              role: principal

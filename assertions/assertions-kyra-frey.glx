@@ -1,0 +1,23 @@
+assertions:
+    assertion-kyra-frey-name:
+        subject:
+            person: person-kyra-frey
+        property: name
+        value: Kyra Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-kyra-frey-gender:
+        subject:
+            person: person-kyra-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

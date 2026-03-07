@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aegon-targaryen-iv-shiera-seastar:
+        type: parent_child
+        participants:
+            - person: person-aegon-targaryen-iv
+              role: parent
+            - person: person-shiera-seastar
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-walder-rivers-walda-rivers-143:
+        type: parent_child
+        participants:
+            - person: person-walder-rivers
+              role: parent
+            - person: person-walda-rivers-143
+              role: child

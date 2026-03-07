@@ -1,0 +1,6 @@
+events:
+    event-death-alyn-velaryon:
+        type: death
+        participants:
+            - person: person-alyn-velaryon
+              role: principal

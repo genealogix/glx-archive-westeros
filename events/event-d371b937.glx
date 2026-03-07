@@ -1,8 +1,0 @@
-events:
-    event-171:
-        type: death
-        participants:
-            - person: person-158
-              role: principal
-        properties:
-            cause: Heart Attack

@@ -1,0 +1,6 @@
+events:
+    event-birth-melessa-florent:
+        type: birth
+        participants:
+            - person: person-melessa-florent
+              role: principal

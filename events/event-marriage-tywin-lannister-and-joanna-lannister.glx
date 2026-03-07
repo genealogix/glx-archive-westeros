@@ -1,0 +1,8 @@
+events:
+    event-marriage-tywin-lannister-and-joanna-lannister:
+        type: marriage
+        participants:
+            - person: person-tywin-lannister
+              role: spouse
+            - person: person-joanna-lannister
+              role: spouse

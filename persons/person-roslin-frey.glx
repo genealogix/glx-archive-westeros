@@ -1,0 +1,10 @@
+persons:
+    person-roslin-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Roslin
+                    surname: Frey
+                value: Roslin Frey
+            rin: MH:I131

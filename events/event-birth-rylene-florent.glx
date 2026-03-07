@@ -1,0 +1,6 @@
+events:
+    event-birth-rylene-florent:
+        type: birth
+        participants:
+            - person: person-rylene-florent
+              role: principal

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-deana-hardyng-steffon-frey:
+        type: parent_child
+        participants:
+            - person: person-deana-hardyng
+              role: parent
+            - person: person-steffon-frey
+              role: child

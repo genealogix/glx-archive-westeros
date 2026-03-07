@@ -1,0 +1,23 @@
+assertions:
+    assertion-dickon-tarly-name:
+        subject:
+            person: person-dickon-tarly
+        property: name
+        value: Dickon Tarly
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-dickon-tarly-gender:
+        subject:
+            person: person-dickon-tarly
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

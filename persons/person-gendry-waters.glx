@@ -1,0 +1,10 @@
+persons:
+    person-gendry-waters:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Gendry
+                    surname: Waters
+                value: Gendry Waters
+            rin: MH:I193

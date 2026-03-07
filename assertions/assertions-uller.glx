@@ -1,0 +1,23 @@
+assertions:
+    assertion-uller-name:
+        subject:
+            person: person-uller
+        property: name
+        value: Uller
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-uller-gender:
+        subject:
+            person: person-uller
+        property: gender
+        value: unknown
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

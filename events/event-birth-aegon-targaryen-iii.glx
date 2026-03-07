@@ -1,0 +1,6 @@
+events:
+    event-birth-aegon-targaryen-iii:
+        type: birth
+        participants:
+            - person: person-aegon-targaryen-iii
+              role: principal

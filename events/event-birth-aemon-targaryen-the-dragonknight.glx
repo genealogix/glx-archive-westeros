@@ -1,0 +1,6 @@
+events:
+    event-birth-aemon-targaryen-the-dragonknight:
+        type: birth
+        participants:
+            - person: person-aemon-targaryen-the-dragonknight
+              role: principal

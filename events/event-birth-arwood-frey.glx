@@ -1,0 +1,6 @@
+events:
+    event-birth-arwood-frey:
+        type: birth
+        participants:
+            - person: person-arwood-frey
+              role: principal

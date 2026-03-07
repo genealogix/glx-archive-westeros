@@ -1,0 +1,6 @@
+events:
+    event-birth-mellara-rivers:
+        type: birth
+        participants:
+            - person: person-mellara-rivers
+              role: principal

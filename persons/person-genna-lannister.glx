@@ -1,0 +1,10 @@
+persons:
+    person-genna-lannister:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Genna
+                    surname: Lannister
+                value: Genna Lannister
+            rin: MH:I28

@@ -1,0 +1,6 @@
+events:
+    event-birth-symon-santagar:
+        type: birth
+        participants:
+            - person: person-symon-santagar
+              role: principal

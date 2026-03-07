@@ -1,0 +1,11 @@
+persons:
+    person-edmure-tully:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Edmure
+                    prefix: Ser
+                    surname: Tully
+                value: Ser Edmure Tully
+            rin: MH:I225

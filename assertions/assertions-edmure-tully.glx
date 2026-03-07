@@ -1,0 +1,23 @@
+assertions:
+    assertion-edmure-tully-name:
+        subject:
+            person: person-edmure-tully
+        property: name
+        value: Ser Edmure Tully
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-edmure-tully-gender:
+        subject:
+            person: person-edmure-tully
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-waynwood-237-harrold-hardyng:
+        type: parent_child
+        participants:
+            - person: person-waynwood-237
+              role: parent
+            - person: person-harrold-hardyng
+              role: child

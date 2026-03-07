@@ -1,0 +1,6 @@
+events:
+    event-death-glover:
+        type: death
+        participants:
+            - person: person-glover
+              role: principal

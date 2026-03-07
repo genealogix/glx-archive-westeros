@@ -1,0 +1,23 @@
+assertions:
+    assertion-mya-stone-name:
+        subject:
+            person: person-mya-stone
+        property: name
+        value: Mya Stone
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-mya-stone-gender:
+        subject:
+            person: person-mya-stone
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

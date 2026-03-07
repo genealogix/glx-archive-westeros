@@ -1,6 +1,0 @@
-events:
-    event-440:
-        type: death
-        participants:
-            - person: person-335
-              role: principal

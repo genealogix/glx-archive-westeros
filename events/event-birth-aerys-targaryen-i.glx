@@ -1,0 +1,6 @@
+events:
+    event-birth-aerys-targaryen-i:
+        type: birth
+        participants:
+            - person: person-aerys-targaryen-i
+              role: principal

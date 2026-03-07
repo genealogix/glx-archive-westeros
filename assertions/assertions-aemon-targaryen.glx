@@ -1,0 +1,23 @@
+assertions:
+    assertion-aemon-targaryen-name:
+        subject:
+            person: person-aemon-targaryen
+        property: name
+        value: Maester Aemon Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aemon-targaryen-gender:
+        subject:
+            person: person-aemon-targaryen
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

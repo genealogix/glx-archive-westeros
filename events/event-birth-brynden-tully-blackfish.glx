@@ -1,0 +1,6 @@
+events:
+    event-birth-brynden-tully-blackfish:
+        type: birth
+        participants:
+            - person: person-brynden-tully-blackfish
+              role: principal

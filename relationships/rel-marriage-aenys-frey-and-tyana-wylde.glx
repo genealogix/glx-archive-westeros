@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-aenys-frey-and-tyana-wylde:
+        type: marriage
+        participants:
+            - person: person-aenys-frey
+              role: spouse
+            - person: person-tyana-wylde
+              role: spouse
+        properties:
+            marriage_event: event-marriage-aenys-frey-and-tyana-wylde

@@ -1,0 +1,6 @@
+events:
+    event-birth-maegor-targaryen-i:
+        type: birth
+        participants:
+            - person: person-maegor-targaryen-i
+              role: principal

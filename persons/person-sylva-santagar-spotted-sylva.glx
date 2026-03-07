@@ -1,0 +1,10 @@
+persons:
+    person-sylva-santagar-spotted-sylva:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Sylva 'Spotted Sylva'
+                    surname: Santagar
+                value: Sylva 'Spotted Sylva' Santagar
+            rin: MH:I479

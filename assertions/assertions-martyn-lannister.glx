@@ -1,0 +1,23 @@
+assertions:
+    assertion-martyn-lannister-name:
+        subject:
+            person: person-martyn-lannister
+        property: name
+        value: Martyn Lannister
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-martyn-lannister-gender:
+        subject:
+            person: person-martyn-lannister
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

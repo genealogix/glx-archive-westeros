@@ -1,0 +1,9 @@
+events:
+    event-death-elbert-arryn:
+        type: death
+        place: place-kings-landing
+        participants:
+            - person: person-elbert-arryn
+              role: principal
+        properties:
+            cause: Homicide

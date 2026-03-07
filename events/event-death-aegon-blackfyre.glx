@@ -1,0 +1,6 @@
+events:
+    event-death-aegon-blackfyre:
+        type: death
+        participants:
+            - person: person-aegon-blackfyre
+              role: principal

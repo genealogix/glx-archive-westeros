@@ -1,0 +1,8 @@
+events:
+    event-marriage-hosman-norcross-and-delena-florent:
+        type: marriage
+        participants:
+            - person: person-hosman-norcross
+              role: spouse
+            - person: person-delena-florent
+              role: spouse

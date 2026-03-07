@@ -1,0 +1,23 @@
+assertions:
+    assertion-alester-florent-name:
+        subject:
+            person: person-alester-florent
+        property: name
+        value: Alester Florent
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-alester-florent-gender:
+        subject:
+            person: person-alester-florent
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

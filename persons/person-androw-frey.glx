@@ -1,0 +1,10 @@
+persons:
+    person-androw-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Androw
+                    surname: Frey
+                value: Androw Frey
+            rin: MH:I73

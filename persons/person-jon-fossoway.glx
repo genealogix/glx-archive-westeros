@@ -1,0 +1,10 @@
+persons:
+    person-jon-fossoway:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    surname: Fossoway
+                value: Jon Fossoway
+            rin: MH:I388

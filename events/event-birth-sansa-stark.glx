@@ -1,0 +1,6 @@
+events:
+    event-birth-sansa-stark:
+        type: birth
+        participants:
+            - person: person-sansa-stark
+              role: principal

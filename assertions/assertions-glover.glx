@@ -1,0 +1,23 @@
+assertions:
+    assertion-glover-name:
+        subject:
+            person: person-glover
+        property: name
+        value: Glover
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-glover-gender:
+        subject:
+            person: person-glover
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,6 @@
+events:
+    event-death-aegon-targaryen-iii:
+        type: death
+        participants:
+            - person: person-aegon-targaryen-iii
+              role: principal

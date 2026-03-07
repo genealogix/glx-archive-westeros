@@ -1,0 +1,9 @@
+persons:
+    person-targaryen-281:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen
+            rin: MH:I281

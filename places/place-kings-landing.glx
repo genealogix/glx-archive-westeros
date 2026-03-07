@@ -1,0 +1,4 @@
+places:
+    place-kings-landing:
+        name: King's Landing
+        type: city

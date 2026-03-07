@@ -1,0 +1,7 @@
+events:
+    event-burial-lyanna-stark:
+        type: burial
+        place: place-winterfell-crypts
+        participants:
+            - person: person-lyanna-stark
+              role: principal

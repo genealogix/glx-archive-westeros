@@ -1,0 +1,6 @@
+events:
+    event-birth-valarr-targaryen:
+        type: birth
+        participants:
+            - person: person-valarr-targaryen
+              role: principal

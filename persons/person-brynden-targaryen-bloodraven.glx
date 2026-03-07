@@ -1,0 +1,10 @@
+persons:
+    person-brynden-targaryen-bloodraven:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Brynden 'Bloodraven'
+                    surname: Targaryen
+                value: Brynden 'Bloodraven' Targaryen
+            rin: MH:I310

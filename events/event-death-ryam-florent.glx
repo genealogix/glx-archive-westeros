@@ -1,0 +1,8 @@
+events:
+    event-death-ryam-florent:
+        type: death
+        participants:
+            - person: person-ryam-florent
+              role: principal
+        properties:
+            cause: Accident

@@ -1,0 +1,23 @@
+assertions:
+    assertion-emberlei-frey-name:
+        subject:
+            person: person-emberlei-frey
+        property: name
+        value: Emberlei Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-emberlei-frey-gender:
+        subject:
+            person: person-emberlei-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

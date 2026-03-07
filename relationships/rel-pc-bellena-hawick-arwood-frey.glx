@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-bellena-hawick-arwood-frey:
+        type: parent_child
+        participants:
+            - person: person-bellena-hawick
+              role: parent
+            - person: person-arwood-frey
+              role: child

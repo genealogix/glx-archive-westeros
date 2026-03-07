@@ -1,0 +1,8 @@
+events:
+    event-marriage-merrett-frey-and-mariya-derry:
+        type: marriage
+        participants:
+            - person: person-merrett-frey
+              role: spouse
+            - person: person-mariya-derry
+              role: spouse

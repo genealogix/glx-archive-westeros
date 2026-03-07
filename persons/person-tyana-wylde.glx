@@ -1,0 +1,10 @@
+persons:
+    person-tyana-wylde:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Tyana
+                    surname: Wylde
+                value: Tyana Wylde
+            rin: MH:I36

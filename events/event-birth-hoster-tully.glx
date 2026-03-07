@@ -1,0 +1,6 @@
+events:
+    event-birth-hoster-tully:
+        type: birth
+        participants:
+            - person: person-hoster-tully
+              role: principal

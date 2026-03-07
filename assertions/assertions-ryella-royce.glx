@@ -1,0 +1,23 @@
+assertions:
+    assertion-ryella-royce-name:
+        subject:
+            person: person-ryella-royce
+        property: name
+        value: Ryella Royce
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-ryella-royce-gender:
+        subject:
+            person: person-ryella-royce
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

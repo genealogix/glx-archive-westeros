@@ -1,0 +1,23 @@
+assertions:
+    assertion-elinor-tyrell-name:
+        subject:
+            person: person-elinor-tyrell
+        property: name
+        value: Elinor Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-elinor-tyrell-gender:
+        subject:
+            person: person-elinor-tyrell
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

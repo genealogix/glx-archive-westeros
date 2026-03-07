@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-leyton-hightower-and-rhea-florent:
+        type: marriage
+        participants:
+            - person: person-leyton-hightower
+              role: spouse
+            - person: person-rhea-florent
+              role: spouse
+        properties:
+            marriage_event: event-marriage-leyton-hightower-and-rhea-florent

@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-stevron-frey-and-marsella-waynwood:
+        type: marriage
+        participants:
+            - person: person-stevron-frey
+              role: spouse
+            - person: person-marsella-waynwood
+              role: spouse
+        properties:
+            marriage_event: event-marriage-stevron-frey-and-marsella-waynwood

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aenys-frey-rhaegar-frey:
+        type: parent_child
+        participants:
+            - person: person-aenys-frey
+              role: parent
+            - person: person-rhaegar-frey
+              role: child

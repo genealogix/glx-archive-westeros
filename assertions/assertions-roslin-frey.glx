@@ -1,0 +1,23 @@
+assertions:
+    assertion-roslin-frey-name:
+        subject:
+            person: person-roslin-frey
+        property: name
+        value: Roslin Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-roslin-frey-gender:
+        subject:
+            person: person-roslin-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

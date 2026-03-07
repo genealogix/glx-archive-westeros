@@ -1,0 +1,6 @@
+events:
+    event-birth-lewyn-martell:
+        type: birth
+        participants:
+            - person: person-lewyn-martell
+              role: principal

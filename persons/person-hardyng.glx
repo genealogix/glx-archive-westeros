@@ -1,0 +1,10 @@
+persons:
+    person-hardyng:
+        properties:
+            gender: male
+            name:
+                fields:
+                    prefix: Ser
+                    surname: Hardyng
+                value: Ser Hardyng
+            rin: MH:I238

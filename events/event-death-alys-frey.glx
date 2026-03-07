@@ -1,0 +1,6 @@
+events:
+    event-death-alys-frey:
+        type: death
+        participants:
+            - person: person-alys-frey
+              role: principal

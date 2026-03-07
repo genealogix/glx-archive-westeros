@@ -1,0 +1,6 @@
+events:
+    event-birth-jeyne-lydden:
+        type: birth
+        participants:
+            - person: person-jeyne-lydden
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-martell:
+        type: birth
+        participants:
+            - person: person-martell
+              role: principal

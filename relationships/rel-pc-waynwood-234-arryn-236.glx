@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-waynwood-234-arryn-236:
+        type: parent_child
+        participants:
+            - person: person-waynwood-234
+              role: parent
+            - person: person-arryn-236
+              role: child

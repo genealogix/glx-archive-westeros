@@ -1,0 +1,8 @@
+events:
+    event-death-cassana-estermont:
+        type: death
+        participants:
+            - person: person-cassana-estermont
+              role: principal
+        properties:
+            cause: Drowning

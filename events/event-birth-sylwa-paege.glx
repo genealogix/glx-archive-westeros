@@ -1,0 +1,6 @@
+events:
+    event-birth-sylwa-paege:
+        type: birth
+        participants:
+            - person: person-sylwa-paege
+              role: principal

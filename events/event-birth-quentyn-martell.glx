@@ -1,0 +1,6 @@
+events:
+    event-birth-quentyn-martell:
+        type: birth
+        participants:
+            - person: person-quentyn-martell
+              role: principal

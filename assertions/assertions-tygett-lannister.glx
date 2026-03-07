@@ -1,0 +1,23 @@
+assertions:
+    assertion-tygett-lannister-name:
+        subject:
+            person: person-tygett-lannister
+        property: name
+        value: Tygett Lannister
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tygett-lannister-gender:
+        subject:
+            person: person-tygett-lannister
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

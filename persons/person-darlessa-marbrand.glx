@@ -1,0 +1,10 @@
+persons:
+    person-darlessa-marbrand:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Darlessa
+                    surname: Marbrand
+                value: Darlessa Marbrand
+            rin: MH:I176

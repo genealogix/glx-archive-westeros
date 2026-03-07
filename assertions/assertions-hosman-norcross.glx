@@ -1,0 +1,23 @@
+assertions:
+    assertion-hosman-norcross-name:
+        subject:
+            person: person-hosman-norcross
+        property: name
+        value: Hosman Norcross
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-hosman-norcross-gender:
+        subject:
+            person: person-hosman-norcross
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

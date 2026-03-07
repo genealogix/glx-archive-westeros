@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-cleos-frey-and-jeyne-darry:
+        type: marriage
+        participants:
+            - person: person-cleos-frey
+              role: spouse
+            - person: person-jeyne-darry
+              role: spouse
+        properties:
+            marriage_event: event-marriage-cleos-frey-and-jeyne-darry

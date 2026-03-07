@@ -1,0 +1,10 @@
+persons:
+    person-osmund-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Osmund
+                    surname: Frey
+                value: Osmund Frey
+            rin: MH:I134

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-jaehaerys-targaryen-ii-rhaella-targaryen:
+        type: parent_child
+        participants:
+            - person: person-jaehaerys-targaryen-ii
+              role: parent
+            - person: person-rhaella-targaryen
+              role: child

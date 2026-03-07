@@ -1,0 +1,23 @@
+assertions:
+    assertion-olyvar-martell-name:
+        subject:
+            person: person-olyvar-martell
+        property: name
+        value: Olyvar Martell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-olyvar-martell-gender:
+        subject:
+            person: person-olyvar-martell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

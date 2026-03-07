@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-rhaegar-targaryen-and-lyanna-stark:
+        type: marriage
+        participants:
+            - person: person-rhaegar-targaryen
+              role: spouse
+            - person: person-lyanna-stark
+              role: spouse
+        properties:
+            marriage_event: event-marriage-rhaegar-targaryen-and-lyanna-stark-715

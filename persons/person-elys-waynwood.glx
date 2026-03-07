@@ -1,0 +1,10 @@
+persons:
+    person-elys-waynwood:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Elys
+                    surname: Waynwood
+                value: Elys Waynwood
+            rin: MH:I233

@@ -1,0 +1,10 @@
+persons:
+    person-bella-rivers:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Bella
+                    surname: Rivers
+                value: Bella Rivers
+            rin: MH:I194

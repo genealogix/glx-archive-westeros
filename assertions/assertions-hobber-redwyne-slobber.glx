@@ -1,0 +1,23 @@
+assertions:
+    assertion-hobber-redwyne-slobber-name:
+        subject:
+            person: person-hobber-redwyne-slobber
+        property: name
+        value: "Hobber 'Slobber' Redwyne"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-hobber-redwyne-slobber-gender:
+        subject:
+            person: person-hobber-redwyne-slobber
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

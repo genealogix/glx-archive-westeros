@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lythene-frey-damon-vypren:
+        type: parent_child
+        participants:
+            - person: person-lythene-frey
+              role: parent
+            - person: person-damon-vypren
+              role: child

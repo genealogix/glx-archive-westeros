@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-stark-465-stark-469:
+        type: parent_child
+        participants:
+            - person: person-stark-465
+              role: parent
+            - person: person-stark-469
+              role: child

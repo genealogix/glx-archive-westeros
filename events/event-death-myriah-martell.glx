@@ -1,0 +1,6 @@
+events:
+    event-death-myriah-martell:
+        type: death
+        participants:
+            - person: person-myriah-martell
+              role: principal

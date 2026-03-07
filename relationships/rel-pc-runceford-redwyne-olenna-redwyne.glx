@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-runceford-redwyne-olenna-redwyne:
+        type: parent_child
+        participants:
+            - person: person-runceford-redwyne
+              role: parent
+            - person: person-olenna-redwyne
+              role: child

@@ -1,0 +1,6 @@
+events:
+    event-birth-cersei-lannister:
+        type: birth
+        participants:
+            - person: person-cersei-lannister
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-arthur-dayne:
+        type: birth
+        participants:
+            - person: person-arthur-dayne
+              role: principal

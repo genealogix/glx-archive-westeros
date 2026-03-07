@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-merrett-frey-walda-frey-fat-walda:
+        type: parent_child
+        participants:
+            - person: person-merrett-frey
+              role: parent
+            - person: person-walda-frey-fat-walda
+              role: child

@@ -1,0 +1,6 @@
+events:
+    event-birth-stark-465:
+        type: birth
+        participants:
+            - person: person-stark-465
+              role: principal

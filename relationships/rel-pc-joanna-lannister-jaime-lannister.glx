@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-joanna-lannister-jaime-lannister:
+        type: parent_child
+        participants:
+            - person: person-joanna-lannister
+              role: parent
+            - person: person-jaime-lannister
+              role: child

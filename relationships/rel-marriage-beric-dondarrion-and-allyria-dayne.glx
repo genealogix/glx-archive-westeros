@@ -1,0 +1,8 @@
+relationships:
+    rel-marriage-beric-dondarrion-and-allyria-dayne:
+        type: marriage
+        participants:
+            - person: person-beric-dondarrion
+              role: spouse
+            - person: person-allyria-dayne
+              role: spouse

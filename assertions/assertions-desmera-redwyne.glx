@@ -1,0 +1,23 @@
+assertions:
+    assertion-desmera-redwyne-name:
+        subject:
+            person: person-desmera-redwyne
+        property: name
+        value: Desmera Redwyne
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-desmera-redwyne-gender:
+        subject:
+            person: person-desmera-redwyne
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

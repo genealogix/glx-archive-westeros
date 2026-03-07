@@ -1,0 +1,6 @@
+events:
+    event-birth-alys-arryn:
+        type: birth
+        participants:
+            - person: person-alys-arryn
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-medwick-tyrell:
+        type: birth
+        participants:
+            - person: person-medwick-tyrell
+              role: principal

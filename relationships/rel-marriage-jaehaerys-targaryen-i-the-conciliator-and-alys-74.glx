@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-jaehaerys-targaryen-i-the-conciliator-and-alys-74:
+        type: marriage
+        participants:
+            - person: person-jaehaerys-targaryen-i-the-conciliator
+              role: spouse
+            - person: person-alysanne-targaryen-the-good
+              role: spouse
+        properties:
+            marriage_event: event-marriage-jaehaerys-targaryen-i-the-conciliator-and-740

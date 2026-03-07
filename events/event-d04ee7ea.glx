@@ -1,8 +1,0 @@
-events:
-    event-590:
-        type: death
-        participants:
-            - person: person-440
-              role: principal
-        properties:
-            cause: Accident

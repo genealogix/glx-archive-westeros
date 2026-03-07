@@ -1,0 +1,6 @@
+events:
+    event-birth-aegon-targaryen-i-the-conqueror:
+        type: birth
+        participants:
+            - person: person-aegon-targaryen-i-the-conqueror
+              role: principal

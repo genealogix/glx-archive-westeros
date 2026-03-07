@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lannister-179-tytos-lannister:
+        type: parent_child
+        participants:
+            - person: person-lannister-179
+              role: parent
+            - person: person-tytos-lannister
+              role: child

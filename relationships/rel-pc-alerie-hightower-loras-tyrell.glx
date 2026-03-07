@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-alerie-hightower-loras-tyrell:
+        type: parent_child
+        participants:
+            - person: person-alerie-hightower
+              role: parent
+            - person: person-loras-tyrell
+              role: child

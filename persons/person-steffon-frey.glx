@@ -1,0 +1,10 @@
+persons:
+    person-steffon-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Steffon
+                    surname: Frey
+                value: Steffon Frey
+            rin: MH:I25

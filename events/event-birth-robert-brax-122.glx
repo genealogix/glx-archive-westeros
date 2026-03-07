@@ -1,0 +1,6 @@
+events:
+    event-birth-robert-brax-122:
+        type: birth
+        participants:
+            - person: person-robert-brax-122
+              role: principal

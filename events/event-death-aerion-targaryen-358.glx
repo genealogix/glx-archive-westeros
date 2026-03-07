@@ -1,0 +1,6 @@
+events:
+    event-death-aerion-targaryen-358:
+        type: death
+        participants:
+            - person: person-aerion-targaryen-358
+              role: principal

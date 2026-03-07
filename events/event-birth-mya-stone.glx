@@ -1,0 +1,6 @@
+events:
+    event-birth-mya-stone:
+        type: birth
+        participants:
+            - person: person-mya-stone
+              role: principal

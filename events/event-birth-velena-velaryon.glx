@@ -1,0 +1,6 @@
+events:
+    event-birth-velena-velaryon:
+        type: birth
+        participants:
+            - person: person-velena-velaryon
+              role: principal

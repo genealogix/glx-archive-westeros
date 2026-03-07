@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-stevron-frey-maegelle-frey:
+        type: parent_child
+        participants:
+            - person: person-stevron-frey
+              role: parent
+            - person: person-maegelle-frey
+              role: child

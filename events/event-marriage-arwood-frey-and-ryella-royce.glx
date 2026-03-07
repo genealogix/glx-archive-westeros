@@ -1,0 +1,8 @@
+events:
+    event-marriage-arwood-frey-and-ryella-royce:
+        type: marriage
+        participants:
+            - person: person-arwood-frey
+              role: spouse
+            - person: person-ryella-royce
+              role: spouse

@@ -1,0 +1,6 @@
+events:
+    event-birth-rhaegar-targaryen:
+        type: birth
+        participants:
+            - person: person-rhaegar-targaryen
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-death-aegon-targaryen-i-the-conqueror:
+        type: death
+        participants:
+            - person: person-aegon-targaryen-i-the-conqueror
+              role: principal

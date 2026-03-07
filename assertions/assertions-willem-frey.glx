@@ -1,0 +1,23 @@
+assertions:
+    assertion-willem-frey-name:
+        subject:
+            person: person-willem-frey
+        property: name
+        value: Willem Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-willem-frey-gender:
+        subject:
+            person: person-willem-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

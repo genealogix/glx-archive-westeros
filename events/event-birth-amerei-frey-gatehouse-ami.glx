@@ -1,0 +1,6 @@
+events:
+    event-birth-amerei-frey-gatehouse-ami:
+        type: birth
+        participants:
+            - person: person-amerei-frey-gatehouse-ami
+              role: principal

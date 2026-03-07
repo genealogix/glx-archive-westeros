@@ -1,0 +1,23 @@
+assertions:
+    assertion-melara-crane-name:
+        subject:
+            person: person-melara-crane
+        property: name
+        value: Melara Crane
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-melara-crane-gender:
+        subject:
+            person: person-melara-crane
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,23 @@
+assertions:
+    assertion-symond-frey-name:
+        subject:
+            person: person-symond-frey
+        property: name
+        value: Symond Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-symond-frey-gender:
+        subject:
+            person: person-symond-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

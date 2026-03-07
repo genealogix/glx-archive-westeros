@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-jon-arryn-and-rowena:
+        type: marriage
+        participants:
+            - person: person-jon-arryn
+              role: spouse
+            - person: person-rowena
+              role: spouse
+        properties:
+            marriage_event: event-marriage-jon-arryn-and-rowena

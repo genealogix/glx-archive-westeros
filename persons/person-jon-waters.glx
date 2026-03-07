@@ -1,0 +1,11 @@
+persons:
+    person-jon-waters:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    prefix: Ser
+                    surname: Waters
+                value: Ser Jon Waters
+            rin: MH:I337

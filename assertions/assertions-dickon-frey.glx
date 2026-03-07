@@ -1,0 +1,23 @@
+assertions:
+    assertion-dickon-frey-name:
+        subject:
+            person: person-dickon-frey
+        property: name
+        value: Dickon Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-dickon-frey-gender:
+        subject:
+            person: person-dickon-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

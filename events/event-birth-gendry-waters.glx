@@ -1,0 +1,6 @@
+events:
+    event-birth-gendry-waters:
+        type: birth
+        participants:
+            - person: person-gendry-waters
+              role: principal

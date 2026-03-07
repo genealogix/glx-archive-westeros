@@ -1,0 +1,6 @@
+events:
+    event-birth-sylva-santagar-spotted-sylva:
+        type: birth
+        participants:
+            - person: person-sylva-santagar-spotted-sylva
+              role: principal

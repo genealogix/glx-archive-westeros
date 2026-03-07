@@ -1,0 +1,6 @@
+events:
+    event-birth-elbert-arryn:
+        type: birth
+        participants:
+            - person: person-elbert-arryn
+              role: principal

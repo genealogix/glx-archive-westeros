@@ -1,0 +1,6 @@
+events:
+    event-birth-perra-royce:
+        type: birth
+        participants:
+            - person: person-perra-royce
+              role: principal

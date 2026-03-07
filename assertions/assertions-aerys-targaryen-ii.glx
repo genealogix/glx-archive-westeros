@@ -1,0 +1,23 @@
+assertions:
+    assertion-aerys-targaryen-ii-name:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: name
+        value: Aerys Targaryen II
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aerys-targaryen-ii-gender:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

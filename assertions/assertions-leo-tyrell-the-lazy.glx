@@ -1,0 +1,23 @@
+assertions:
+    assertion-leo-tyrell-the-lazy-name:
+        subject:
+            person: person-leo-tyrell-the-lazy
+        property: name
+        value: "Leo 'The Lazy' Tyrell"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-leo-tyrell-the-lazy-gender:
+        subject:
+            person: person-leo-tyrell-the-lazy
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

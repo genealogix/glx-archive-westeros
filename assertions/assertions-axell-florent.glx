@@ -1,0 +1,23 @@
+assertions:
+    assertion-axell-florent-name:
+        subject:
+            person: person-axell-florent
+        property: name
+        value: Ser Axell Florent
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-axell-florent-gender:
+        subject:
+            person: person-axell-florent
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

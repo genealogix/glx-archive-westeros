@@ -1,0 +1,6 @@
+events:
+    event-birth-harmen-uller:
+        type: birth
+        participants:
+            - person: person-harmen-uller
+              role: principal

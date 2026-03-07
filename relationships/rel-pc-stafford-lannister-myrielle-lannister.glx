@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-stafford-lannister-myrielle-lannister:
+        type: parent_child
+        participants:
+            - person: person-stafford-lannister
+              role: parent
+            - person: person-myrielle-lannister
+              role: child

@@ -1,0 +1,23 @@
+assertions:
+    assertion-janna-tyrell-name:
+        subject:
+            person: person-janna-tyrell
+        property: name
+        value: Janna Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-janna-tyrell-gender:
+        subject:
+            person: person-janna-tyrell
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

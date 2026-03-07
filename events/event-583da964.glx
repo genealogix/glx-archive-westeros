@@ -1,8 +1,0 @@
-events:
-    event-677:
-        type: marriage
-        participants:
-            - person: person-50
-              role: spouse
-            - person: person-52
-              role: spouse

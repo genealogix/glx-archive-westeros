@@ -1,0 +1,23 @@
+assertions:
+    assertion-jeyne-beesbury-name:
+        subject:
+            person: person-jeyne-beesbury
+        property: name
+        value: Jeyne Beesbury
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jeyne-beesbury-gender:
+        subject:
+            person: person-jeyne-beesbury
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,8 +1,0 @@
-relationships:
-    relationship-114:
-        type: parent_child
-        participants:
-            - person: person-2
-              role: parent
-            - person: person-4
-              role: child

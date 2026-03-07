@@ -1,0 +1,23 @@
+assertions:
+    assertion-theodore-tyrell-name:
+        subject:
+            person: person-theodore-tyrell
+        property: name
+        value: Ser Theodore Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-theodore-tyrell-gender:
+        subject:
+            person: person-theodore-tyrell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

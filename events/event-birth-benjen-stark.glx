@@ -1,0 +1,6 @@
+events:
+    event-birth-benjen-stark:
+        type: birth
+        participants:
+            - person: person-benjen-stark
+              role: principal

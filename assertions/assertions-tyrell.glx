@@ -1,0 +1,23 @@
+assertions:
+    assertion-tyrell-name:
+        subject:
+            person: person-tyrell
+        property: name
+        value: Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tyrell-gender:
+        subject:
+            person: person-tyrell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

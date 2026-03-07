@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-geremy-frey-and-carolei-waynwood:
+        type: marriage
+        participants:
+            - person: person-geremy-frey
+              role: spouse
+            - person: person-carolei-waynwood
+              role: spouse
+        properties:
+            marriage_event: event-marriage-geremy-frey-and-carolei-waynwood

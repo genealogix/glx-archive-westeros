@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-whalen-frey-and-sylwa-paege:
+        type: marriage
+        participants:
+            - person: person-whalen-frey
+              role: spouse
+            - person: person-sylwa-paege
+              role: spouse
+        properties:
+            marriage_event: event-marriage-whalen-frey-and-sylwa-paege

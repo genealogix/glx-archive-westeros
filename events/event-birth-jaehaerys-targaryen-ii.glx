@@ -1,0 +1,6 @@
+events:
+    event-birth-jaehaerys-targaryen-ii:
+        type: birth
+        participants:
+            - person: person-jaehaerys-targaryen-ii
+              role: principal

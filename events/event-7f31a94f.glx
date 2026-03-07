@@ -1,8 +1,0 @@
-events:
-    event-678:
-        type: marriage
-        participants:
-            - person: person-53
-              role: spouse
-            - person: person-55
-              role: spouse

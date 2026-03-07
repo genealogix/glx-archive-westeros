@@ -1,0 +1,8 @@
+events:
+    event-marriage-aerys-targaryen-i-and-aelinor-targaryen:
+        type: marriage
+        participants:
+            - person: person-aerys-targaryen-i
+              role: spouse
+            - person: person-aelinor-targaryen
+              role: spouse

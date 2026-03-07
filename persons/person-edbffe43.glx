@@ -1,9 +1,0 @@
-persons:
-    person-258:
-        properties:
-            gender: unknown
-            name:
-                fields:
-                    surname: Martell
-                value: Martell
-            rin: MH:I258

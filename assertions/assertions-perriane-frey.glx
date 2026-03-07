@@ -1,0 +1,23 @@
+assertions:
+    assertion-perriane-frey-name:
+        subject:
+            person: person-perriane-frey
+        property: name
+        value: Perriane Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-perriane-frey-gender:
+        subject:
+            person: person-perriane-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

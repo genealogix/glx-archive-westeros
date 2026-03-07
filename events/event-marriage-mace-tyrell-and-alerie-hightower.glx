@@ -1,0 +1,8 @@
+events:
+    event-marriage-mace-tyrell-and-alerie-hightower:
+        type: marriage
+        participants:
+            - person: person-mace-tyrell
+              role: spouse
+            - person: person-alerie-hightower
+              role: spouse

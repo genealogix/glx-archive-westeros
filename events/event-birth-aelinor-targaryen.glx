@@ -1,0 +1,6 @@
+events:
+    event-birth-aelinor-targaryen:
+        type: birth
+        participants:
+            - person: person-aelinor-targaryen
+              role: principal

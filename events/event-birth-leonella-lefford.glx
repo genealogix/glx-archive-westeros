@@ -1,0 +1,6 @@
+events:
+    event-birth-leonella-lefford:
+        type: birth
+        participants:
+            - person: person-leonella-lefford
+              role: principal

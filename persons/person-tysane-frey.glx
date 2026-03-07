@@ -1,0 +1,10 @@
+persons:
+    person-tysane-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Tysane
+                    surname: Frey
+                value: Tysane Frey
+            rin: MH:I110

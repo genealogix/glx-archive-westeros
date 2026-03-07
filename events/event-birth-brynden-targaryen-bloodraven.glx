@@ -1,0 +1,6 @@
+events:
+    event-birth-brynden-targaryen-bloodraven:
+        type: birth
+        participants:
+            - person: person-brynden-targaryen-bloodraven
+              role: principal

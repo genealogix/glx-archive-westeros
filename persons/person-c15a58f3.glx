@@ -1,9 +1,0 @@
-persons:
-    person-438:
-        properties:
-            gender: male
-            name:
-                fields:
-                    surname: Redwyne
-                value: Redwyne
-            rin: MH:I438

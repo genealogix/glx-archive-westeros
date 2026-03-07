@@ -1,0 +1,6 @@
+events:
+    event-birth-mathis-frey:
+        type: birth
+        participants:
+            - person: person-mathis-frey
+              role: principal

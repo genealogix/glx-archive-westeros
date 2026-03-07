@@ -1,0 +1,6 @@
+events:
+    event-birth-alyn-ambrose:
+        type: birth
+        participants:
+            - person: person-alyn-ambrose
+              role: principal

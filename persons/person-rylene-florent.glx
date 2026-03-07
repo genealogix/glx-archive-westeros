@@ -1,0 +1,10 @@
+persons:
+    person-rylene-florent:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Rylene
+                    surname: Florent
+                value: Rylene Florent
+            rin: MH:I446

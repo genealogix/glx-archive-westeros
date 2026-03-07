@@ -1,0 +1,10 @@
+persons:
+    person-lysa-tully:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Lysa
+                    surname: Tully
+                value: Lysa Tully
+            rin: MH:I224

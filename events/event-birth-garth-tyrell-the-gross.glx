@@ -1,0 +1,6 @@
+events:
+    event-birth-garth-tyrell-the-gross:
+        type: birth
+        participants:
+            - person: person-garth-tyrell-the-gross
+              role: principal

@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-emmon-frey-and-genna-lannister:
+        type: marriage
+        participants:
+            - person: person-emmon-frey
+              role: spouse
+            - person: person-genna-lannister
+              role: spouse
+        properties:
+            marriage_event: event-marriage-emmon-frey-and-genna-lannister

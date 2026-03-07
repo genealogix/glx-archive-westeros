@@ -1,0 +1,6 @@
+events:
+    event-birth-lyra-mormont:
+        type: birth
+        participants:
+            - person: person-lyra-mormont
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-walda-rivers-152:
+        type: birth
+        participants:
+            - person: person-walda-rivers-152
+              role: principal

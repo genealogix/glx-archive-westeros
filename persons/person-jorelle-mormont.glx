@@ -1,0 +1,10 @@
+persons:
+    person-jorelle-mormont:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Jorelle
+                    surname: Mormont
+                value: Jorelle Mormont
+            rin: MH:I434

@@ -1,0 +1,23 @@
+assertions:
+    assertion-daemon-targaryen-name:
+        subject:
+            person: person-daemon-targaryen
+        property: name
+        value: Daemon Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-daemon-targaryen-gender:
+        subject:
+            person: person-daemon-targaryen
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

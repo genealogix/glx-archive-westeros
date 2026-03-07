@@ -1,0 +1,10 @@
+persons:
+    person-valarr-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Valarr
+                    surname: Targaryen
+                value: Valarr Targaryen
+            rin: MH:I298

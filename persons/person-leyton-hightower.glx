@@ -1,0 +1,10 @@
+persons:
+    person-leyton-hightower:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Leyton
+                    surname: Hightower
+                value: Leyton Hightower
+            rin: MH:I406

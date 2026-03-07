@@ -1,0 +1,6 @@
+events:
+    event-death-viserys-targaryen-i:
+        type: death
+        participants:
+            - person: person-viserys-targaryen-i
+              role: principal

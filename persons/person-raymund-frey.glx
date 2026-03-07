@@ -1,0 +1,10 @@
+persons:
+    person-raymund-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Raymund
+                    surname: Frey
+                value: Raymund Frey
+            rin: MH:I68

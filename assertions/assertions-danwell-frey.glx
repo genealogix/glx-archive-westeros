@@ -1,0 +1,23 @@
+assertions:
+    assertion-danwell-frey-name:
+        subject:
+            person: person-danwell-frey
+        property: name
+        value: Ser Danwell Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-danwell-frey-gender:
+        subject:
+            person: person-danwell-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

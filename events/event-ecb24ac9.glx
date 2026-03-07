@@ -1,8 +1,0 @@
-events:
-    event-638:
-        type: death
-        participants:
-            - person: person-481
-              role: principal
-        properties:
-            cause: Suicide

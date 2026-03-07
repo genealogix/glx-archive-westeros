@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-maege-mormont-lyra-mormont:
+        type: parent_child
+        participants:
+            - person: person-maege-mormont
+              role: parent
+            - person: person-lyra-mormont
+              role: child

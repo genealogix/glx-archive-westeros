@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-eddard-stark-sansa-stark:
+        type: parent_child
+        participants:
+            - person: person-eddard-stark
+              role: parent
+            - person: person-sansa-stark
+              role: child

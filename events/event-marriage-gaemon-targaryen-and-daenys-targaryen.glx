@@ -1,0 +1,8 @@
+events:
+    event-marriage-gaemon-targaryen-and-daenys-targaryen:
+        type: marriage
+        participants:
+            - person: person-gaemon-targaryen
+              role: spouse
+            - person: person-daenys-targaryen
+              role: spouse

@@ -1,0 +1,23 @@
+assertions:
+    assertion-bella-rivers-name:
+        subject:
+            person: person-bella-rivers
+        property: name
+        value: Bella Rivers
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-bella-rivers-gender:
+        subject:
+            person: person-bella-rivers
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

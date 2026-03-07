@@ -1,0 +1,23 @@
+assertions:
+    assertion-alys-arryn-name:
+        subject:
+            person: person-alys-arryn
+        property: name
+        value: Alys Arryn
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-alys-arryn-gender:
+        subject:
+            person: person-alys-arryn
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

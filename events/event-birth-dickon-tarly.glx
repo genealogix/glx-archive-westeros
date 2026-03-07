@@ -1,0 +1,6 @@
+events:
+    event-birth-dickon-tarly:
+        type: birth
+        participants:
+            - person: person-dickon-tarly
+              role: principal

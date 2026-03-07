@@ -1,0 +1,6 @@
+events:
+    event-birth-perriane-frey:
+        type: birth
+        participants:
+            - person: person-perriane-frey
+              role: principal

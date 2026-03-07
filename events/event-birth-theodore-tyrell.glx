@@ -1,0 +1,6 @@
+events:
+    event-birth-theodore-tyrell:
+        type: birth
+        participants:
+            - person: person-theodore-tyrell
+              role: principal

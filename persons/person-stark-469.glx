@@ -1,0 +1,9 @@
+persons:
+    person-stark-469:
+        properties:
+            gender: female
+            name:
+                fields:
+                    surname: Stark
+                value: Stark
+            rin: MH:I469

@@ -1,0 +1,23 @@
+assertions:
+    assertion-elys-waynwood-name:
+        subject:
+            person: person-elys-waynwood
+        property: name
+        value: Elys Waynwood
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-elys-waynwood-gender:
+        subject:
+            person: person-elys-waynwood
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

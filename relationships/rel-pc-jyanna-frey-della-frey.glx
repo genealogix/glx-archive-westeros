@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-jyanna-frey-della-frey:
+        type: parent_child
+        participants:
+            - person: person-jyanna-frey
+              role: parent
+            - person: person-della-frey
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-garse-goodbrook-walder-goodbrook:
+        type: parent_child
+        participants:
+            - person: person-garse-goodbrook
+              role: parent
+            - person: person-walder-goodbrook
+              role: child

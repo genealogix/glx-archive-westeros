@@ -1,0 +1,6 @@
+events:
+    event-birth-lannister-182:
+        type: birth
+        participants:
+            - person: person-lannister-182
+              role: principal

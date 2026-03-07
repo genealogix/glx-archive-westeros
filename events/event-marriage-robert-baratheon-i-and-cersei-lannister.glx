@@ -1,0 +1,8 @@
+events:
+    event-marriage-robert-baratheon-i-and-cersei-lannister:
+        type: marriage
+        participants:
+            - person: person-robert-baratheon-i
+              role: spouse
+            - person: person-cersei-lannister
+              role: spouse

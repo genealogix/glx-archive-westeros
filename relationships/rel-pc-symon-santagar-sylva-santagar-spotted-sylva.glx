@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-symon-santagar-sylva-santagar-spotted-sylva:
+        type: parent_child
+        participants:
+            - person: person-symon-santagar
+              role: parent
+            - person: person-sylva-santagar-spotted-sylva
+              role: child

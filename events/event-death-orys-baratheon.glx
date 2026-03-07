@@ -1,0 +1,6 @@
+events:
+    event-death-orys-baratheon:
+        type: death
+        participants:
+            - person: person-orys-baratheon
+              role: principal

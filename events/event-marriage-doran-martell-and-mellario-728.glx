@@ -1,0 +1,8 @@
+events:
+    event-marriage-doran-martell-and-mellario-728:
+        type: marriage
+        participants:
+            - person: person-doran-martell
+              role: spouse
+            - person: person-mellario
+              role: spouse

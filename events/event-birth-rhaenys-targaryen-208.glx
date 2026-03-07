@@ -1,0 +1,6 @@
+events:
+    event-birth-rhaenys-targaryen-208:
+        type: birth
+        participants:
+            - person: person-rhaenys-targaryen-208
+              role: principal

@@ -1,0 +1,11 @@
+persons:
+    person-loras-tyrell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Loras
+                    prefix: Ser
+                    surname: Tyrell
+                value: Ser Loras Tyrell
+            rin: MH:I374

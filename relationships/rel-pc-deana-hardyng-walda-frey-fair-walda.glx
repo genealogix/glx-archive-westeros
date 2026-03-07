@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-deana-hardyng-walda-frey-fair-walda:
+        type: parent_child
+        participants:
+            - person: person-deana-hardyng
+              role: parent
+            - person: person-walda-frey-fair-walda
+              role: child

@@ -1,0 +1,6 @@
+events:
+    event-birth-mylenda-caron:
+        type: birth
+        participants:
+            - person: person-mylenda-caron
+              role: principal

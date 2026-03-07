@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-argilac-durrendon-the-arrogant-argella-durrendon:
+        type: parent_child
+        participants:
+            - person: person-argilac-durrendon-the-arrogant
+              role: parent
+            - person: person-argella-durrendon
+              role: child

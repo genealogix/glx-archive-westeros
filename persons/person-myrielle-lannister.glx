@@ -1,0 +1,10 @@
+persons:
+    person-myrielle-lannister:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Myrielle
+                    surname: Lannister
+                value: Myrielle Lannister
+            rin: MH:I186

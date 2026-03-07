@@ -1,0 +1,6 @@
+events:
+    event-birth-samwell-tarly:
+        type: birth
+        participants:
+            - person: person-samwell-tarly
+              role: principal

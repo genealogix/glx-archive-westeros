@@ -1,0 +1,6 @@
+events:
+    event-birth-sallei-paege:
+        type: birth
+        participants:
+            - person: person-sallei-paege
+              role: principal

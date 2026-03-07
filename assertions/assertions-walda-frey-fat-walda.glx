@@ -1,0 +1,23 @@
+assertions:
+    assertion-walda-frey-fat-walda-name:
+        subject:
+            person: person-walda-frey-fat-walda
+        property: name
+        value: "Walda 'Fat Walda' Frey"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-walda-frey-fat-walda-gender:
+        subject:
+            person: person-walda-frey-fat-walda
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

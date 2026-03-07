@@ -1,0 +1,23 @@
+assertions:
+    assertion-snow-437-name:
+        subject:
+            person: person-snow-437
+        property: name
+        value: Snow
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-snow-437-gender:
+        subject:
+            person: person-snow-437
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

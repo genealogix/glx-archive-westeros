@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-naerys-daeron-targaryen-ii:
+        type: parent_child
+        participants:
+            - person: person-naerys
+              role: parent
+            - person: person-daeron-targaryen-ii
+              role: child

@@ -1,0 +1,8 @@
+events:
+    event-death-jeyne-beesbury:
+        type: death
+        participants:
+            - person: person-jeyne-beesbury
+              role: principal
+        properties:
+            cause: Illness

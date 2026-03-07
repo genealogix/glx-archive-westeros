@@ -1,0 +1,6 @@
+events:
+    event-death-jeyne-westerling:
+        type: death
+        participants:
+            - person: person-jeyne-westerling
+              role: principal

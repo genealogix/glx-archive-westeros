@@ -1,0 +1,6 @@
+events:
+    event-birth-ronnel-arryn:
+        type: birth
+        participants:
+            - person: person-ronnel-arryn
+              role: principal

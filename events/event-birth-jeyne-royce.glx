@@ -1,0 +1,6 @@
+events:
+    event-birth-jeyne-royce:
+        type: birth
+        participants:
+            - person: person-jeyne-royce
+              role: principal

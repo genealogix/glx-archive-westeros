@@ -1,0 +1,10 @@
+persons:
+    person-lucias-vypren:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Lucias
+                    surname: Vypren
+                value: Lucias Vypren
+            rin: MH:I76

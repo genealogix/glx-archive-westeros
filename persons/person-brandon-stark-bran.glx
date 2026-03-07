@@ -1,0 +1,10 @@
+persons:
+    person-brandon-stark-bran:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Brandon 'Bran'
+                    surname: Stark
+                value: Brandon 'Bran' Stark
+            rin: MH:I220

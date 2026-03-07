@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-alester-florent-rhea-florent:
+        type: parent_child
+        participants:
+            - person: person-alester-florent
+              role: parent
+            - person: person-rhea-florent
+              role: child

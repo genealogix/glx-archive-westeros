@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-lothar-frey-and-leonella-lefford:
+        type: marriage
+        participants:
+            - person: person-lothar-frey
+              role: spouse
+            - person: person-leonella-lefford
+              role: spouse
+        properties:
+            marriage_event: event-marriage-lothar-frey-and-leonella-lefford

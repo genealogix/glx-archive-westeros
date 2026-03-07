@@ -1,0 +1,6 @@
+events:
+    event-birth-garrett-flowers:
+        type: birth
+        participants:
+            - person: person-garrett-flowers
+              role: principal

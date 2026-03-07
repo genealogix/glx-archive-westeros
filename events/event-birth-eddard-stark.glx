@@ -1,0 +1,6 @@
+events:
+    event-birth-eddard-stark:
+        type: birth
+        participants:
+            - person: person-eddard-stark
+              role: principal

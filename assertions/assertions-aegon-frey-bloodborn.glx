@@ -1,0 +1,23 @@
+assertions:
+    assertion-aegon-frey-bloodborn-name:
+        subject:
+            person: person-aegon-frey-bloodborn
+        property: name
+        value: "Aegon 'Bloodborn' Frey"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aegon-frey-bloodborn-gender:
+        subject:
+            person: person-aegon-frey-bloodborn
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

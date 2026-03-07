@@ -1,0 +1,6 @@
+events:
+    event-birth-tregar-ormollen:
+        type: birth
+        participants:
+            - person: person-tregar-ormollen
+              role: principal

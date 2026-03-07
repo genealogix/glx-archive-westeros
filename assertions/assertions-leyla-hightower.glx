@@ -1,0 +1,23 @@
+assertions:
+    assertion-leyla-hightower-name:
+        subject:
+            person: person-leyla-hightower
+        property: name
+        value: Leyla Hightower
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-leyla-hightower-gender:
+        subject:
+            person: person-leyla-hightower
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

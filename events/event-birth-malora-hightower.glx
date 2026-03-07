@@ -1,0 +1,6 @@
+events:
+    event-birth-malora-hightower:
+        type: birth
+        participants:
+            - person: person-malora-hightower
+              role: principal

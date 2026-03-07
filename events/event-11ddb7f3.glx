@@ -1,6 +1,0 @@
-events:
-    event-38:
-        type: birth
-        participants:
-            - person: person-33
-              role: principal

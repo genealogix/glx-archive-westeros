@@ -1,0 +1,6 @@
+events:
+    event-death-targaryen-286:
+        type: death
+        participants:
+            - person: person-targaryen-286
+              role: principal

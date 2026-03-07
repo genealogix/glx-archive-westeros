@@ -1,0 +1,8 @@
+events:
+    event-marriage-steffon-baratheon-and-cassana-estermont:
+        type: marriage
+        participants:
+            - person: person-steffon-baratheon
+              role: spouse
+            - person: person-cassana-estermont
+              role: spouse

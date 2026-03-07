@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-leyton-hightower-humfrey-hightower:
+        type: parent_child
+        participants:
+            - person: person-leyton-hightower
+              role: parent
+            - person: person-humfrey-hightower
+              role: child

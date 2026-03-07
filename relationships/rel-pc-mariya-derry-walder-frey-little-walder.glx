@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mariya-derry-walder-frey-little-walder:
+        type: parent_child
+        participants:
+            - person: person-mariya-derry
+              role: parent
+            - person: person-walder-frey-little-walder
+              role: child

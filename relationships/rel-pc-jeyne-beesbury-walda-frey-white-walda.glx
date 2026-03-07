@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-jeyne-beesbury-walda-frey-white-walda:
+        type: parent_child
+        participants:
+            - person: person-jeyne-beesbury
+              role: parent
+            - person: person-walda-frey-white-walda
+              role: child

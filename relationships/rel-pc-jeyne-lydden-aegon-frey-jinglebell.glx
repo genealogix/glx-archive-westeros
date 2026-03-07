@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-jeyne-lydden-aegon-frey-jinglebell:
+        type: parent_child
+        participants:
+            - person: person-jeyne-lydden
+              role: parent
+            - person: person-aegon-frey-jinglebell
+              role: child

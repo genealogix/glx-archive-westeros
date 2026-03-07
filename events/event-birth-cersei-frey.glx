@@ -1,0 +1,6 @@
+events:
+    event-birth-cersei-frey:
+        type: birth
+        participants:
+            - person: person-cersei-frey
+              role: principal

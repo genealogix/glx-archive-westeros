@@ -1,0 +1,6 @@
+events:
+    event-birth-andros-brax:
+        type: birth
+        participants:
+            - person: person-andros-brax
+              role: principal

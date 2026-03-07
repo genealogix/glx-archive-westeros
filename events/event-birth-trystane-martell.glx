@@ -1,0 +1,6 @@
+events:
+    event-birth-trystane-martell:
+        type: birth
+        participants:
+            - person: person-trystane-martell
+              role: principal

@@ -1,8 +1,0 @@
-events:
-    event-366:
-        type: death
-        participants:
-            - person: person-298
-              role: principal
-        properties:
-            cause: Illness

@@ -1,0 +1,8 @@
+events:
+    event-marriage-walder-frey-and-sarya-whent:
+        type: marriage
+        participants:
+            - person: person-walder-frey
+              role: spouse
+            - person: person-sarya-whent
+              role: spouse

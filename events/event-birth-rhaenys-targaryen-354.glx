@@ -1,0 +1,6 @@
+events:
+    event-birth-rhaenys-targaryen-354:
+        type: birth
+        participants:
+            - person: person-rhaenys-targaryen-354
+              role: principal

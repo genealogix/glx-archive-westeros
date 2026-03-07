@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-eleana-targaryen-maegon-targaryen:
+        type: parent_child
+        participants:
+            - person: person-eleana-targaryen
+              role: parent
+            - person: person-maegon-targaryen
+              role: child

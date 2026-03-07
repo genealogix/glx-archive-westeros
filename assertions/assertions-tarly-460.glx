@@ -1,0 +1,23 @@
+assertions:
+    assertion-tarly-460-name:
+        subject:
+            person: person-tarly-460
+        property: name
+        value: Tarly
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tarly-460-gender:
+        subject:
+            person: person-tarly-460
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

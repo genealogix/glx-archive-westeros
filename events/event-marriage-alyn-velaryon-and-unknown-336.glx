@@ -1,0 +1,8 @@
+events:
+    event-marriage-alyn-velaryon-and-unknown-336:
+        type: marriage
+        participants:
+            - person: person-alyn-velaryon
+              role: spouse
+            - person: person-unknown-336
+              role: spouse

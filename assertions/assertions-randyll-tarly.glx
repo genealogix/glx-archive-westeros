@@ -1,0 +1,23 @@
+assertions:
+    assertion-randyll-tarly-name:
+        subject:
+            person: person-randyll-tarly
+        property: name
+        value: Randyll Tarly
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-randyll-tarly-gender:
+        subject:
+            person: person-randyll-tarly
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

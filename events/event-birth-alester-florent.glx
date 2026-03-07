@@ -1,0 +1,6 @@
+events:
+    event-birth-alester-florent:
+        type: birth
+        participants:
+            - person: person-alester-florent
+              role: principal

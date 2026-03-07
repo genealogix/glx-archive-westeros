@@ -1,0 +1,10 @@
+persons:
+    person-rickard-wylde:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Rickard
+                    surname: Wylde
+                value: Rickard Wylde
+            rin: MH:I80

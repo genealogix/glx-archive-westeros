@@ -1,0 +1,23 @@
+assertions:
+    assertion-gendry-waters-name:
+        subject:
+            person: person-gendry-waters
+        property: name
+        value: Gendry Waters
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-gendry-waters-gender:
+        subject:
+            person: person-gendry-waters
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

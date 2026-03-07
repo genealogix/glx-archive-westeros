@@ -1,0 +1,23 @@
+assertions:
+    assertion-renly-norcross-name:
+        subject:
+            person: person-renly-norcross
+        property: name
+        value: Renly Norcross
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-renly-norcross-gender:
+        subject:
+            person: person-renly-norcross
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

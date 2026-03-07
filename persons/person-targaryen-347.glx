@@ -1,0 +1,9 @@
+persons:
+    person-targaryen-347:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen
+            rin: MH:I347

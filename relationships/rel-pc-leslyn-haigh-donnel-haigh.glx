@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-leslyn-haigh-donnel-haigh:
+        type: parent_child
+        participants:
+            - person: person-leslyn-haigh
+              role: parent
+            - person: person-donnel-haigh
+              role: child

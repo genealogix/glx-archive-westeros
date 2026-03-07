@@ -1,0 +1,6 @@
+events:
+    event-birth-elinor-tyrell:
+        type: birth
+        participants:
+            - person: person-elinor-tyrell
+              role: principal

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-cersei-lannister-joffrey-baratheon:
+        type: parent_child
+        participants:
+            - person: person-cersei-lannister
+              role: parent
+            - person: person-joffrey-baratheon
+              role: child

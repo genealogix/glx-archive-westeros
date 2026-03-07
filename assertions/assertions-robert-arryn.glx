@@ -1,0 +1,23 @@
+assertions:
+    assertion-robert-arryn-name:
+        subject:
+            person: person-robert-arryn
+        property: name
+        value: Robert Arryn
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-robert-arryn-gender:
+        subject:
+            person: person-robert-arryn
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

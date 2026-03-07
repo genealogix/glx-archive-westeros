@@ -1,0 +1,23 @@
+assertions:
+    assertion-elia-sand-name:
+        subject:
+            person: person-elia-sand
+        property: name
+        value: Elia Sand
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-elia-sand-gender:
+        subject:
+            person: person-elia-sand
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

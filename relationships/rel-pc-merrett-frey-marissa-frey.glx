@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-merrett-frey-marissa-frey:
+        type: parent_child
+        participants:
+            - person: person-merrett-frey
+              role: parent
+            - person: person-marissa-frey
+              role: child

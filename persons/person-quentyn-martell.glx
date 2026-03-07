@@ -1,0 +1,10 @@
+persons:
+    person-quentyn-martell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Quentyn
+                    surname: Martell
+                value: Quentyn Martell
+            rin: MH:I278

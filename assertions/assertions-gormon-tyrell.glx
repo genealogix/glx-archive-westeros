@@ -1,0 +1,23 @@
+assertions:
+    assertion-gormon-tyrell-name:
+        subject:
+            person: person-gormon-tyrell
+        property: name
+        value: Maester Gormon Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-gormon-tyrell-gender:
+        subject:
+            person: person-gormon-tyrell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

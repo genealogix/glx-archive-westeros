@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rhaegar-targaryen-jon-snow:
+        type: parent_child
+        participants:
+            - person: person-rhaegar-targaryen
+              role: parent
+            - person: person-jon-snow
+              role: child

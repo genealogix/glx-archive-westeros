@@ -1,0 +1,23 @@
+assertions:
+    assertion-gerold-hightower-the-white-bull-name:
+        subject:
+            person: person-gerold-hightower-the-white-bull
+        property: name
+        value: "Ser Gerold 'The White Bull' Hightower"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-gerold-hightower-the-white-bull-gender:
+        subject:
+            person: person-gerold-hightower-the-white-bull
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

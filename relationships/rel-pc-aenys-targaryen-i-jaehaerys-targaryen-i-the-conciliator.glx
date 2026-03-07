@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aenys-targaryen-i-jaehaerys-targaryen-i-the-conciliator:
+        type: parent_child
+        participants:
+            - person: person-aenys-targaryen-i
+              role: parent
+            - person: person-jaehaerys-targaryen-i-the-conciliator
+              role: child

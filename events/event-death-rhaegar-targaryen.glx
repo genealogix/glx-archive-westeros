@@ -1,0 +1,9 @@
+events:
+    event-death-rhaegar-targaryen:
+        type: death
+        participants:
+            - person: person-rhaegar-targaryen
+              role: principal
+        properties:
+            cause: At War
+            event_subtype: WAR

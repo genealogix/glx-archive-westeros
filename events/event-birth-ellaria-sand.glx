@@ -1,0 +1,6 @@
+events:
+    event-birth-ellaria-sand:
+        type: birth
+        participants:
+            - person: person-ellaria-sand
+              role: principal

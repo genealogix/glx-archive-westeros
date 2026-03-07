@@ -1,0 +1,6 @@
+events:
+    event-birth-jorelle-mormont:
+        type: birth
+        participants:
+            - person: person-jorelle-mormont
+              role: principal

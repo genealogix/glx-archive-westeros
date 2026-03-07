@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-walder-rivers-aemon-rivers:
+        type: parent_child
+        participants:
+            - person: person-walder-rivers
+              role: parent
+            - person: person-aemon-rivers
+              role: child

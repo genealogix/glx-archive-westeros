@@ -1,0 +1,6 @@
+events:
+    event-birth-walder-haigh:
+        type: birth
+        participants:
+            - person: person-walder-haigh
+              role: principal

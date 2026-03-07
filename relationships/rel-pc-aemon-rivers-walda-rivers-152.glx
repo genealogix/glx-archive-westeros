@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aemon-rivers-walda-rivers-152:
+        type: parent_child
+        participants:
+            - person: person-aemon-rivers
+              role: parent
+            - person: person-walda-rivers-152
+              role: child

@@ -1,0 +1,6 @@
+events:
+    event-death-daemon-blackfyre:
+        type: death
+        participants:
+            - person: person-daemon-blackfyre
+              role: principal

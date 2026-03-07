@@ -1,0 +1,6 @@
+events:
+    event-birth-blackfyre-317:
+        type: birth
+        participants:
+            - person: person-blackfyre-317
+              role: principal

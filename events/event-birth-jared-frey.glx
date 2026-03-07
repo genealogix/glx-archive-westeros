@@ -1,0 +1,6 @@
+events:
+    event-birth-jared-frey:
+        type: birth
+        participants:
+            - person: person-jared-frey
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-jeyne-waters-name:
+        subject:
+            person: person-jeyne-waters
+        property: name
+        value: Jeyne Waters
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jeyne-waters-gender:
+        subject:
+            person: person-jeyne-waters
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

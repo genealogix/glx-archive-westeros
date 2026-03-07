@@ -1,0 +1,10 @@
+persons:
+    person-sarella-sand:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Sarella
+                    surname: Sand
+                value: Sarella Sand
+            rin: MH:I269

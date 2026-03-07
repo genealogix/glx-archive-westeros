@@ -1,0 +1,23 @@
+assertions:
+    assertion-joy-hill-name:
+        subject:
+            person: person-joy-hill
+        property: name
+        value: Joy Hill
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-joy-hill-gender:
+        subject:
+            person: person-joy-hill
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

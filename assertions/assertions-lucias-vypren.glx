@@ -1,0 +1,23 @@
+assertions:
+    assertion-lucias-vypren-name:
+        subject:
+            person: person-lucias-vypren
+        property: name
+        value: Lucias Vypren
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-lucias-vypren-gender:
+        subject:
+            person: person-lucias-vypren
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

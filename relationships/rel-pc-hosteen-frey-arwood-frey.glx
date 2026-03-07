@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-hosteen-frey-arwood-frey:
+        type: parent_child
+        participants:
+            - person: person-hosteen-frey
+              role: parent
+            - person: person-arwood-frey
+              role: child

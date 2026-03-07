@@ -1,9 +1,0 @@
-persons:
-    person-236:
-        properties:
-            gender: unknown
-            name:
-                fields:
-                    surname: Arryn
-                value: Arryn
-            rin: MH:I236

@@ -1,0 +1,6 @@
+events:
+    event-birth-omer-florent:
+        type: birth
+        participants:
+            - person: person-omer-florent
+              role: principal

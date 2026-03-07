@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-doran-martell-trystane-martell:
+        type: parent_child
+        participants:
+            - person: person-doran-martell
+              role: parent
+            - person: person-trystane-martell
+              role: child

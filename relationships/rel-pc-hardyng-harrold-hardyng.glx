@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-hardyng-harrold-hardyng:
+        type: parent_child
+        participants:
+            - person: person-hardyng
+              role: parent
+            - person: person-harrold-hardyng
+              role: child

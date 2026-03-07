@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-melara-crane-melessa-florent:
+        type: parent_child
+        participants:
+            - person: person-melara-crane
+              role: parent
+            - person: person-melessa-florent
+              role: child

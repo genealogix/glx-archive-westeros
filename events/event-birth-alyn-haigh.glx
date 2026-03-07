@@ -1,0 +1,6 @@
+events:
+    event-birth-alyn-haigh:
+        type: birth
+        participants:
+            - person: person-alyn-haigh
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-hightower-426-name:
+        subject:
+            person: person-hightower-426
+        property: name
+        value: Hightower
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-hightower-426-gender:
+        subject:
+            person: person-hightower-426
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,9 +1,0 @@
-persons:
-    person-234:
-        properties:
-            gender: female
-            name:
-                fields:
-                    surname: Waynwood
-                value: Waynwood
-            rin: MH:I234

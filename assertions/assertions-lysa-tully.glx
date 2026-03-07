@@ -1,0 +1,23 @@
+assertions:
+    assertion-lysa-tully-name:
+        subject:
+            person: person-lysa-tully
+        property: name
+        value: Lysa Tully
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-lysa-tully-gender:
+        subject:
+            person: person-lysa-tully
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

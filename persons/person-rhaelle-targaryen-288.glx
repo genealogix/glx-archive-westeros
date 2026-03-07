@@ -1,0 +1,10 @@
+persons:
+    person-rhaelle-targaryen-288:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Rhaelle
+                    surname: Targaryen
+                value: Rhaelle Targaryen
+            rin: MH:I288

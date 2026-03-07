@@ -1,0 +1,6 @@
+events:
+    event-birth-humfrey-hightower:
+        type: birth
+        participants:
+            - person: person-humfrey-hightower
+              role: principal

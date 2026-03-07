@@ -1,0 +1,23 @@
+assertions:
+    assertion-rhaenyra-name:
+        subject:
+            person: person-rhaenyra
+        property: name
+        value: Rhaenyra
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-rhaenyra-gender:
+        subject:
+            person: person-rhaenyra
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

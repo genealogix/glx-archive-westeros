@@ -1,0 +1,6 @@
+events:
+    event-birth-nymeria-sand:
+        type: birth
+        participants:
+            - person: person-nymeria-sand
+              role: principal

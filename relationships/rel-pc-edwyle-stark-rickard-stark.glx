@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-edwyle-stark-rickard-stark:
+        type: parent_child
+        participants:
+            - person: person-edwyle-stark
+              role: parent
+            - person: person-rickard-stark
+              role: child

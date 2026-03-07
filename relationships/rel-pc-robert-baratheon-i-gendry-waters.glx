@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-robert-baratheon-i-gendry-waters:
+        type: parent_child
+        participants:
+            - person: person-robert-baratheon-i
+              role: parent
+            - person: person-gendry-waters
+              role: child

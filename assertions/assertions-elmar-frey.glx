@@ -1,0 +1,23 @@
+assertions:
+    assertion-elmar-frey-name:
+        subject:
+            person: person-elmar-frey
+        property: name
+        value: Elmar Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-elmar-frey-gender:
+        subject:
+            person: person-elmar-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

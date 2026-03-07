@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-cassana-estermont-robert-baratheon-i:
+        type: parent_child
+        participants:
+            - person: person-cassana-estermont
+              role: parent
+            - person: person-robert-baratheon-i
+              role: child

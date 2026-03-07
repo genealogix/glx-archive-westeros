@@ -1,0 +1,10 @@
+persons:
+    person-jasper-waynwood:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jasper
+                    surname: Waynwood
+                value: Jasper Waynwood
+            rin: MH:I246

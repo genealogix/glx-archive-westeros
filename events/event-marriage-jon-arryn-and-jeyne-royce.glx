@@ -1,0 +1,8 @@
+events:
+    event-marriage-jon-arryn-and-jeyne-royce:
+        type: marriage
+        participants:
+            - person: person-jon-arryn
+              role: spouse
+            - person: person-jeyne-royce
+              role: spouse

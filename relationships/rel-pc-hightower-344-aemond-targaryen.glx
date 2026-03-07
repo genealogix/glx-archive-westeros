@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-hightower-344-aemond-targaryen:
+        type: parent_child
+        participants:
+            - person: person-hightower-344
+              role: parent
+            - person: person-aemond-targaryen
+              role: child

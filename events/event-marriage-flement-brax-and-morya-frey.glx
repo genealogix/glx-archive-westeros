@@ -1,0 +1,8 @@
+events:
+    event-marriage-flement-brax-and-morya-frey:
+        type: marriage
+        participants:
+            - person: person-flement-brax
+              role: spouse
+            - person: person-morya-frey
+              role: spouse

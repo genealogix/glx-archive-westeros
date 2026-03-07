@@ -1,0 +1,6 @@
+events:
+    event-birth-colmar-frey:
+        type: birth
+        participants:
+            - person: person-colmar-frey
+              role: principal

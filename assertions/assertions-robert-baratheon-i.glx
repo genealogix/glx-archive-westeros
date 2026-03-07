@@ -1,0 +1,23 @@
+assertions:
+    assertion-robert-baratheon-i-name:
+        subject:
+            person: person-robert-baratheon-i
+        property: name
+        value: Robert Baratheon I
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-robert-baratheon-i-gender:
+        subject:
+            person: person-robert-baratheon-i
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

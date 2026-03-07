@@ -1,6 +1,0 @@
-events:
-    event-221:
-        type: death
-        participants:
-            - person: person-201
-              role: principal

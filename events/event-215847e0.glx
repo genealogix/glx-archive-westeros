@@ -1,8 +1,0 @@
-events:
-    event-621:
-        type: death
-        participants:
-            - person: person-467
-              role: principal
-        properties:
-            cause: Maternal Death

@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-rhaegar-targaryen-and-elia-martell:
+        type: marriage
+        participants:
+            - person: person-rhaegar-targaryen
+              role: spouse
+            - person: person-elia-martell
+              role: spouse
+        properties:
+            marriage_event: event-marriage-rhaegar-targaryen-and-elia-martell-713

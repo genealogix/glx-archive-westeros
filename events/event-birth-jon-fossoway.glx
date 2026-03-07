@@ -1,0 +1,6 @@
+events:
+    event-birth-jon-fossoway:
+        type: birth
+        participants:
+            - person: person-jon-fossoway
+              role: principal

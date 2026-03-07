@@ -1,9 +1,0 @@
-persons:
-    person-443:
-        properties:
-            gender: male
-            name:
-                fields:
-                    surname: Florent
-                value: Florent
-            rin: MH:I443

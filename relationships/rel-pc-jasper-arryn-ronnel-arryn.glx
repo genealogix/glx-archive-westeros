@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-jasper-arryn-ronnel-arryn:
+        type: parent_child
+        participants:
+            - person: person-jasper-arryn
+              role: parent
+            - person: person-ronnel-arryn
+              role: child

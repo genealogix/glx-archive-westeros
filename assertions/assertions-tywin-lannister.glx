@@ -1,0 +1,23 @@
+assertions:
+    assertion-tywin-lannister-name:
+        subject:
+            person: person-tywin-lannister
+        property: name
+        value: Tywin Lannister
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tywin-lannister-gender:
+        subject:
+            person: person-tywin-lannister
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,6 @@
+events:
+    event-birth-belmore:
+        type: birth
+        participants:
+            - person: person-belmore
+              role: principal

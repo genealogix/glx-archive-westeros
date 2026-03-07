@@ -1,0 +1,6 @@
+events:
+    event-birth-hosman-norcross:
+        type: birth
+        participants:
+            - person: person-hosman-norcross
+              role: principal

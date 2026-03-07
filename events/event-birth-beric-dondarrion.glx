@@ -1,0 +1,6 @@
+events:
+    event-birth-beric-dondarrion:
+        type: birth
+        participants:
+            - person: person-beric-dondarrion
+              role: principal

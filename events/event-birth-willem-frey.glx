@@ -1,0 +1,6 @@
+events:
+    event-birth-willem-frey:
+        type: birth
+        participants:
+            - person: person-willem-frey
+              role: principal

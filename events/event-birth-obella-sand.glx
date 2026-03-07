@@ -1,0 +1,6 @@
+events:
+    event-birth-obella-sand:
+        type: birth
+        participants:
+            - person: person-obella-sand
+              role: principal

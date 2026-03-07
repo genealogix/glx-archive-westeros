@@ -1,0 +1,23 @@
+assertions:
+    assertion-denys-arryn-name:
+        subject:
+            person: person-denys-arryn
+        property: name
+        value: Denys Arryn
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-denys-arryn-gender:
+        subject:
+            person: person-denys-arryn
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

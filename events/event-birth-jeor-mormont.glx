@@ -1,0 +1,6 @@
+events:
+    event-birth-jeor-mormont:
+        type: birth
+        participants:
+            - person: person-jeor-mormont
+              role: principal

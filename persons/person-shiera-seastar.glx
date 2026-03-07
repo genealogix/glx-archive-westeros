@@ -1,0 +1,10 @@
+persons:
+    person-shiera-seastar:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Shiera
+                    surname: Seastar
+                value: Shiera Seastar
+            rin: MH:I311

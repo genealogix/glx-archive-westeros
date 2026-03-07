@@ -1,0 +1,10 @@
+persons:
+    person-walda-frey-fair-walda:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Walda 'Fair Walda'
+                    surname: Frey
+                value: Walda 'Fair Walda' Frey
+            rin: MH:I26

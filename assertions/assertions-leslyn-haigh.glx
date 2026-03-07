@@ -1,0 +1,23 @@
+assertions:
+    assertion-leslyn-haigh-name:
+        subject:
+            person: person-leslyn-haigh
+        property: name
+        value: Leslyn Haigh
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-leslyn-haigh-gender:
+        subject:
+            person: person-leslyn-haigh
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

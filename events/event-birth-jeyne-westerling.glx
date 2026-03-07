@@ -1,0 +1,6 @@
+events:
+    event-birth-jeyne-westerling:
+        type: birth
+        participants:
+            - person: person-jeyne-westerling
+              role: principal

@@ -1,0 +1,8 @@
+events:
+    event-marriage-leslyn-haigh-and-perriane-frey:
+        type: marriage
+        participants:
+            - person: person-leslyn-haigh
+              role: spouse
+            - person: person-perriane-frey
+              role: spouse

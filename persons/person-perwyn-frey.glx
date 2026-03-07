@@ -1,0 +1,10 @@
+persons:
+    person-perwyn-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Perwyn
+                    surname: Frey
+                value: Perwyn Frey
+            rin: MH:I127

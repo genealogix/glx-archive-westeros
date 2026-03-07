@@ -1,0 +1,6 @@
+events:
+    event-death-matarys-targaryen:
+        type: death
+        participants:
+            - person: person-matarys-targaryen
+              role: principal

@@ -1,0 +1,8 @@
+events:
+    event-death-rhaenys-targaryen-208:
+        type: death
+        participants:
+            - person: person-rhaenys-targaryen-208
+              role: principal
+        properties:
+            cause: Homicide

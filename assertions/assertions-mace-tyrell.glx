@@ -1,0 +1,23 @@
+assertions:
+    assertion-mace-tyrell-name:
+        subject:
+            person: person-mace-tyrell
+        property: name
+        value: Mace Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-mace-tyrell-gender:
+        subject:
+            person: person-mace-tyrell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

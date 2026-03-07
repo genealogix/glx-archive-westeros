@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-randyll-tarly-and-melessa-florent:
+        type: marriage
+        participants:
+            - person: person-randyll-tarly
+              role: spouse
+            - person: person-melessa-florent
+              role: spouse
+        properties:
+            marriage_event: event-marriage-randyll-tarly-and-melessa-florent

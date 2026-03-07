@@ -1,0 +1,8 @@
+events:
+    event-marriage-petyr-frey-and-mylenda-caron:
+        type: marriage
+        participants:
+            - person: person-petyr-frey
+              role: spouse
+            - person: person-mylenda-caron
+              role: spouse

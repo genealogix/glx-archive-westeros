@@ -1,0 +1,23 @@
+assertions:
+    assertion-mellario-name:
+        subject:
+            person: person-mellario
+        property: name
+        value: Mellario
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-mellario-gender:
+        subject:
+            person: person-mellario
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

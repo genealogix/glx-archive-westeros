@@ -1,0 +1,10 @@
+persons:
+    person-elyn-norridge:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Elyn
+                    surname: Norridge
+                value: Elyn Norridge
+            rin: MH:I398

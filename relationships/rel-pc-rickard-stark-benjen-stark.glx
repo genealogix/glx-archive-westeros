@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rickard-stark-benjen-stark:
+        type: parent_child
+        participants:
+            - person: person-rickard-stark
+              role: parent
+            - person: person-benjen-stark
+              role: child

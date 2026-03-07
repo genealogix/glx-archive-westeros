@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-maegelle-frey-patrek-vance:
+        type: parent_child
+        participants:
+            - person: person-maegelle-frey
+              role: parent
+            - person: person-patrek-vance
+              role: child

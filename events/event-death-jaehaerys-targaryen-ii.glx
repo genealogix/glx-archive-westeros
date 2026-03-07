@@ -1,0 +1,6 @@
+events:
+    event-death-jaehaerys-targaryen-ii:
+        type: death
+        participants:
+            - person: person-jaehaerys-targaryen-ii
+              role: principal

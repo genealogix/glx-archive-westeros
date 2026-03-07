@@ -1,0 +1,10 @@
+persons:
+    person-jared-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jared
+                    surname: Frey
+                value: Jared Frey
+            rin: MH:I50

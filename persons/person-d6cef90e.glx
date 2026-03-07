@@ -1,9 +1,0 @@
-persons:
-    person-468:
-        properties:
-            gender: female
-            name:
-                fields:
-                    surname: Flint
-                value: Flint
-            rin: MH:I468

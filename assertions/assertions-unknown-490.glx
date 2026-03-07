@@ -1,0 +1,12 @@
+assertions:
+    assertion-unknown-490-gender:
+        subject:
+            person: person-unknown-490
+        property: gender
+        value: unknown
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

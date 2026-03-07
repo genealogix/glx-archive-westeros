@@ -1,0 +1,6 @@
+events:
+    event-birth-rycherd-crane:
+        type: birth
+        participants:
+            - person: person-rycherd-crane
+              role: principal

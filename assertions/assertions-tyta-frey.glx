@@ -1,0 +1,23 @@
+assertions:
+    assertion-tyta-frey-name:
+        subject:
+            person: person-tyta-frey
+        property: name
+        value: Tyta Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tyta-frey-gender:
+        subject:
+            person: person-tyta-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

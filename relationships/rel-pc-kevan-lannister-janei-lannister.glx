@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-kevan-lannister-janei-lannister:
+        type: parent_child
+        participants:
+            - person: person-kevan-lannister
+              role: parent
+            - person: person-janei-lannister
+              role: child

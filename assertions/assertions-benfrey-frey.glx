@@ -1,0 +1,23 @@
+assertions:
+    assertion-benfrey-frey-name:
+        subject:
+            person: person-benfrey-frey
+        property: name
+        value: Benfrey Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-benfrey-frey-gender:
+        subject:
+            person: person-benfrey-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+persons:
+    person-alysane-mormont:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Alysane
+                    surname: Mormont
+                value: Alysane Mormont
+            rin: MH:I432

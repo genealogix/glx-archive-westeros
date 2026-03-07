@@ -1,0 +1,6 @@
+events:
+    event-death-baelon-targaryen:
+        type: death
+        participants:
+            - person: person-baelon-targaryen
+              role: principal

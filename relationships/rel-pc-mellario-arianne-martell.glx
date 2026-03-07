@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mellario-arianne-martell:
+        type: parent_child
+        participants:
+            - person: person-mellario
+              role: parent
+            - person: person-arianne-martell
+              role: child

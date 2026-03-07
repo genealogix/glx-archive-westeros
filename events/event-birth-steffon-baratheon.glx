@@ -1,0 +1,6 @@
+events:
+    event-birth-steffon-baratheon:
+        type: birth
+        participants:
+            - person: person-steffon-baratheon
+              role: principal

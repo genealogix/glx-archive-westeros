@@ -1,0 +1,8 @@
+relationships:
+    rel-marriage-aegon-targaryen-iv-and-daena-targaryen:
+        type: marriage
+        participants:
+            - person: person-aegon-targaryen-iv
+              role: spouse
+            - person: person-daena-targaryen
+              role: spouse

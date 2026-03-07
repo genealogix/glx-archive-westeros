@@ -1,8 +1,0 @@
-events:
-    event-223:
-        type: death
-        participants:
-            - person: person-202
-              role: principal
-        properties:
-            cause: Homicide

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rhea-florent-baelor-hightower:
+        type: parent_child
+        participants:
+            - person: person-rhea-florent
+              role: parent
+            - person: person-baelor-hightower
+              role: child

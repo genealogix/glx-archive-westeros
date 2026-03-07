@@ -1,0 +1,23 @@
+assertions:
+    assertion-delena-florent-name:
+        subject:
+            person: person-delena-florent
+        property: name
+        value: Delena Florent
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-delena-florent-gender:
+        subject:
+            person: person-delena-florent
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

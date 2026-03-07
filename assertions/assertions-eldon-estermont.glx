@@ -1,0 +1,23 @@
+assertions:
+    assertion-eldon-estermont-name:
+        subject:
+            person: person-eldon-estermont
+        property: name
+        value: Eldon Estermont
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-eldon-estermont-gender:
+        subject:
+            person: person-eldon-estermont
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

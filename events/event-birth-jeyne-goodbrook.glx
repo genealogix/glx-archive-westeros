@@ -1,0 +1,6 @@
+events:
+    event-birth-jeyne-goodbrook:
+        type: birth
+        participants:
+            - person: person-jeyne-goodbrook
+              role: principal

@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-jon-fossoway-and-janna-tyrell:
+        type: marriage
+        participants:
+            - person: person-jon-fossoway
+              role: spouse
+            - person: person-janna-tyrell
+              role: spouse
+        properties:
+            marriage_event: event-marriage-jon-fossoway-and-janna-tyrell

@@ -1,0 +1,8 @@
+events:
+    event-death-aerys-targaryen-ii:
+        type: death
+        participants:
+            - person: person-aerys-targaryen-ii
+              role: principal
+        properties:
+            cause: Homicide

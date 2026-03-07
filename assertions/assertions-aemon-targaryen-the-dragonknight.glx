@@ -1,0 +1,23 @@
+assertions:
+    assertion-aemon-targaryen-the-dragonknight-name:
+        subject:
+            person: person-aemon-targaryen-the-dragonknight
+        property: name
+        value: "Aemon 'The Dragonknight' Targaryen"
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aemon-targaryen-the-dragonknight-gender:
+        subject:
+            person: person-aemon-targaryen-the-dragonknight
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

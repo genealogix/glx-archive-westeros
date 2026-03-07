@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-jorah-mormont-and-glover:
+        type: marriage
+        participants:
+            - person: person-jorah-mormont
+              role: spouse
+            - person: person-glover
+              role: spouse
+        properties:
+            marriage_event: event-marriage-jorah-mormont-and-glover

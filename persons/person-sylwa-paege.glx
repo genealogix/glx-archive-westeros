@@ -1,0 +1,10 @@
+persons:
+    person-sylwa-paege:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Sylwa
+                    surname: Paege
+                value: Sylwa Paege
+            rin: MH:I118

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-arryn-341-targaryen-342:
+        type: parent_child
+        participants:
+            - person: person-arryn-341
+              role: parent
+            - person: person-targaryen-342
+              role: child

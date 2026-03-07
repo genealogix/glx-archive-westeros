@@ -1,0 +1,23 @@
+assertions:
+    assertion-obara-sand-name:
+        subject:
+            person: person-obara-sand
+        property: name
+        value: Obara Sand
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-obara-sand-gender:
+        subject:
+            person: person-obara-sand
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

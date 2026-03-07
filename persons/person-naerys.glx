@@ -1,0 +1,9 @@
+persons:
+    person-naerys:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Naerys
+                value: Naerys
+            rin: MH:I303

@@ -1,0 +1,8 @@
+events:
+    event-death-arryn-236:
+        type: death
+        participants:
+            - person: person-arryn-236
+              role: principal
+        properties:
+            cause: At young age

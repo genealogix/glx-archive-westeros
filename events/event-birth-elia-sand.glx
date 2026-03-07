@@ -1,0 +1,6 @@
+events:
+    event-birth-elia-sand:
+        type: birth
+        participants:
+            - person: person-elia-sand
+              role: principal

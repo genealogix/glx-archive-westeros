@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-tyana-wylde-rhaegar-frey:
+        type: parent_child
+        participants:
+            - person: person-tyana-wylde
+              role: parent
+            - person: person-rhaegar-frey
+              role: child

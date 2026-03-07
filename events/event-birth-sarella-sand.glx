@@ -1,0 +1,6 @@
+events:
+    event-birth-sarella-sand:
+        type: birth
+        participants:
+            - person: person-sarella-sand
+              role: principal

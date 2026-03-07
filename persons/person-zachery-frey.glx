@@ -1,0 +1,10 @@
+persons:
+    person-zachery-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Zachery
+                    surname: Frey
+                value: Zachery Frey
+            rin: MH:I57

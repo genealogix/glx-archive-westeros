@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-leyton-hightower-alerie-hightower:
+        type: parent_child
+        participants:
+            - person: person-leyton-hightower
+              role: parent
+            - person: person-alerie-hightower
+              role: child

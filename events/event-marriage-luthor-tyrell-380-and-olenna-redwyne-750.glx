@@ -1,0 +1,8 @@
+events:
+    event-marriage-luthor-tyrell-380-and-olenna-redwyne-750:
+        type: event
+        participants:
+            - person: person-luthor-tyrell-380
+              role: spouse
+            - person: person-olenna-redwyne
+              role: spouse

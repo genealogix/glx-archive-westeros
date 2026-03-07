@@ -1,0 +1,6 @@
+events:
+    event-birth-olenna-redwyne:
+        type: birth
+        participants:
+            - person: person-olenna-redwyne
+              role: principal

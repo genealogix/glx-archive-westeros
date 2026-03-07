@@ -1,0 +1,6 @@
+events:
+    event-birth-matarys-targaryen:
+        type: birth
+        participants:
+            - person: person-matarys-targaryen
+              role: principal

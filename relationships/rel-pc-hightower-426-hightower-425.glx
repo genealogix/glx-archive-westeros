@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-hightower-426-hightower-425:
+        type: parent_child
+        participants:
+            - person: person-hightower-426
+              role: parent
+            - person: person-hightower-425
+              role: child

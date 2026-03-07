@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-cleos-frey-tywin-frey-ty:
+        type: parent_child
+        participants:
+            - person: person-cleos-frey
+              role: parent
+            - person: person-tywin-frey-ty
+              role: child

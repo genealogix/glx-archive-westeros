@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-merrett-frey-walder-frey-little-walder:
+        type: parent_child
+        participants:
+            - person: person-merrett-frey
+              role: parent
+            - person: person-walder-frey-little-walder
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-beony-beesbury-cersei-frey:
+        type: parent_child
+        participants:
+            - person: person-beony-beesbury
+              role: parent
+            - person: person-cersei-frey
+              role: child

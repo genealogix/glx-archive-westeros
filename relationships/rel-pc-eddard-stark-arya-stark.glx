@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-eddard-stark-arya-stark:
+        type: parent_child
+        participants:
+            - person: person-eddard-stark
+              role: parent
+            - person: person-arya-stark
+              role: child

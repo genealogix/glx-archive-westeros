@@ -1,9 +1,0 @@
-persons:
-    person-179:
-        properties:
-            gender: male
-            name:
-                fields:
-                    surname: Lannister
-                value: Lannister
-            rin: MH:I179

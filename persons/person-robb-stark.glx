@@ -1,0 +1,10 @@
+persons:
+    person-robb-stark:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Robb
+                    surname: Stark
+                value: Robb Stark
+            rin: MH:I217

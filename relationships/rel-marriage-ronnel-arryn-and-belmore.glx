@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-ronnel-arryn-and-belmore:
+        type: marriage
+        participants:
+            - person: person-ronnel-arryn
+              role: spouse
+            - person: person-belmore
+              role: spouse
+        properties:
+            marriage_event: event-marriage-ronnel-arryn-and-belmore

@@ -1,0 +1,23 @@
+assertions:
+    assertion-ellaria-sand-name:
+        subject:
+            person: person-ellaria-sand
+        property: name
+        value: Ellaria Sand
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-ellaria-sand-gender:
+        subject:
+            person: person-ellaria-sand
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

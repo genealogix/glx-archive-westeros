@@ -1,0 +1,6 @@
+events:
+    event-death-stark-465:
+        type: death
+        participants:
+            - person: person-stark-465
+              role: principal

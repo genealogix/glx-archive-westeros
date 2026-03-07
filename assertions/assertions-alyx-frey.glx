@@ -1,0 +1,23 @@
+assertions:
+    assertion-alyx-frey-name:
+        subject:
+            person: person-alyx-frey
+        property: name
+        value: Alyx Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-alyx-frey-gender:
+        subject:
+            person: person-alyx-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+persons:
+    person-lancel-lannister:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Lancel
+                    surname: Lannister
+                value: Lancel Lannister
+            rin: MH:I172

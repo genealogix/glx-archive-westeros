@@ -1,0 +1,6 @@
+events:
+    event-birth-snow-437:
+        type: birth
+        participants:
+            - person: person-snow-437
+              role: principal

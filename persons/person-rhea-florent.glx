@@ -1,0 +1,10 @@
+persons:
+    person-rhea-florent:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Rhea
+                    surname: Florent
+                value: Rhea Florent
+            rin: MH:I407

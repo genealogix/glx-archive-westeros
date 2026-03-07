@@ -1,0 +1,10 @@
+persons:
+    person-alyx-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Alyx
+                    surname: Frey
+                value: Alyx Frey
+            rin: MH:I83

@@ -1,0 +1,6 @@
+events:
+    event-death-aerys-targaryen:
+        type: death
+        participants:
+            - person: person-aerys-targaryen
+              role: principal

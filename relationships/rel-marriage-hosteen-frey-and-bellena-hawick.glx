@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-hosteen-frey-and-bellena-hawick:
+        type: marriage
+        participants:
+            - person: person-hosteen-frey
+              role: spouse
+            - person: person-bellena-hawick
+              role: spouse
+        properties:
+            marriage_event: event-marriage-hosteen-frey-and-bellena-hawick

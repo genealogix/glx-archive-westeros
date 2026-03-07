@@ -1,0 +1,6 @@
+events:
+    event-birth-joffrey-baratheon:
+        type: birth
+        participants:
+            - person: person-joffrey-baratheon
+              role: principal

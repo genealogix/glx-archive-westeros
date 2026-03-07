@@ -1,0 +1,23 @@
+assertions:
+    assertion-janei-lannister-name:
+        subject:
+            person: person-janei-lannister
+        property: name
+        value: Janei Lannister
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-janei-lannister-gender:
+        subject:
+            person: person-janei-lannister
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

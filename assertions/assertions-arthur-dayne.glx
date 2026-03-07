@@ -1,0 +1,23 @@
+assertions:
+    assertion-arthur-dayne-name:
+        subject:
+            person: person-arthur-dayne
+        property: name
+        value: Ser Arthur Dayne
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-arthur-dayne-gender:
+        subject:
+            person: person-arthur-dayne
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

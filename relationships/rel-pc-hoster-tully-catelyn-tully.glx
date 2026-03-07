@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-hoster-tully-catelyn-tully:
+        type: parent_child
+        participants:
+            - person: person-hoster-tully
+              role: parent
+            - person: person-catelyn-tully
+              role: child

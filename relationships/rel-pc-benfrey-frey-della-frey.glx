@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-benfrey-frey-della-frey:
+        type: parent_child
+        participants:
+            - person: person-benfrey-frey
+              role: parent
+            - person: person-della-frey
+              role: child

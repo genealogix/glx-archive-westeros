@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lyanna-stark-jon-snow:
+        type: parent_child
+        participants:
+            - person: person-lyanna-stark
+              role: parent
+            - person: person-jon-snow
+              role: child

@@ -1,0 +1,6 @@
+events:
+    event-birth-benfrey-frey:
+        type: birth
+        participants:
+            - person: person-benfrey-frey
+              role: principal

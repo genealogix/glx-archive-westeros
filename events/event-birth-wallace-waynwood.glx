@@ -1,0 +1,6 @@
+events:
+    event-birth-wallace-waynwood:
+        type: birth
+        participants:
+            - person: person-wallace-waynwood
+              role: principal

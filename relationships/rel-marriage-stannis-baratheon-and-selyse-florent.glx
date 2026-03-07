@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-stannis-baratheon-and-selyse-florent:
+        type: marriage
+        participants:
+            - person: person-stannis-baratheon
+              role: spouse
+            - person: person-selyse-florent
+              role: spouse
+        properties:
+            marriage_event: event-marriage-stannis-baratheon-and-selyse-florent

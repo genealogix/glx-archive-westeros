@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-raymund-frey-sarra-frey:
+        type: parent_child
+        participants:
+            - person: person-raymund-frey
+              role: parent
+            - person: person-sarra-frey
+              role: child

@@ -1,0 +1,6 @@
+events:
+    event-birth-rhaegar-frey:
+        type: birth
+        participants:
+            - person: person-rhaegar-frey
+              role: principal

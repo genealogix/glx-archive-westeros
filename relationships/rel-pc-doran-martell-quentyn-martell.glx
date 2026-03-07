@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-doran-martell-quentyn-martell:
+        type: parent_child
+        participants:
+            - person: person-doran-martell
+              role: parent
+            - person: person-quentyn-martell
+              role: child

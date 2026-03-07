@@ -83,3 +83,30 @@ place_types:
     description: "Cemetery or burial ground"
     category: "institution"
 
+  # === ASOIAF Custom Place Types ===
+
+  continent:
+    label: "Continent"
+    description: "Major landmass (Westeros, Essos, Sothoryos)"
+    category: "geographic"
+
+  kingdom:
+    label: "Kingdom"
+    description: "One of the Seven Kingdoms or equivalent political division"
+    category: "administrative"
+
+  castle:
+    label: "Castle"
+    description: "Fortified seat of a noble house"
+    category: "geographic"
+
+  landmark:
+    label: "Landmark"
+    description: "Notable geographic or constructed landmark (The Wall, Tower of Joy)"
+    category: "geographic"
+
+  battlefield:
+    label: "Battlefield"
+    description: "Site of a significant military engagement"
+    category: "geographic"
+

@@ -1,0 +1,23 @@
+assertions:
+    assertion-jorah-mormont-name:
+        subject:
+            person: person-jorah-mormont
+        property: name
+        value: Ser Jorah Mormont
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jorah-mormont-gender:
+        subject:
+            person: person-jorah-mormont
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

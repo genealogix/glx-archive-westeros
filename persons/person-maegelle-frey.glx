@@ -1,0 +1,10 @@
+persons:
+    person-maegelle-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Maegelle
+                    surname: Frey
+                value: Maegelle Frey
+            rin: MH:I17

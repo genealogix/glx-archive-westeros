@@ -1,0 +1,6 @@
+events:
+    event-birth-elyana-vypren:
+        type: birth
+        participants:
+            - person: person-elyana-vypren
+              role: principal

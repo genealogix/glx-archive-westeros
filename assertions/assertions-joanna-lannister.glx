@@ -1,0 +1,23 @@
+assertions:
+    assertion-joanna-lannister-name:
+        subject:
+            person: person-joanna-lannister
+        property: name
+        value: Joanna Lannister
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-joanna-lannister-gender:
+        subject:
+            person: person-joanna-lannister
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

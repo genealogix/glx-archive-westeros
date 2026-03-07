@@ -1,0 +1,10 @@
+persons:
+    person-alekyne-florent:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Alekyne
+                    surname: Florent
+                value: Alekyne Florent
+            rin: MH:I449

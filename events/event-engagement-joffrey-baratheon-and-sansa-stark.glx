@@ -1,0 +1,8 @@
+events:
+    event-engagement-joffrey-baratheon-and-sansa-stark:
+        type: engagement
+        participants:
+            - person: person-joffrey-baratheon
+              role: spouse
+            - person: person-sansa-stark
+              role: spouse

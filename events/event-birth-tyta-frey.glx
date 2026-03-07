@@ -1,0 +1,6 @@
+events:
+    event-birth-tyta-frey:
+        type: birth
+        participants:
+            - person: person-tyta-frey
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-walda-rivers-152-name:
+        subject:
+            person: person-walda-rivers-152
+        property: name
+        value: Walda Rivers
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-walda-rivers-152-gender:
+        subject:
+            person: person-walda-rivers-152
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

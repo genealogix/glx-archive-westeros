@@ -1,0 +1,23 @@
+assertions:
+    assertion-duncan-targaryen-the-small-name:
+        subject:
+            person: person-duncan-targaryen-the-small
+        property: name
+        value: "Duncan 'The Small' Targaryen"
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-duncan-targaryen-the-small-gender:
+        subject:
+            person: person-duncan-targaryen-the-small
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

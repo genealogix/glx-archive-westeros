@@ -1,0 +1,6 @@
+events:
+    event-death-aenar-targaryen:
+        type: death
+        participants:
+            - person: person-aenar-targaryen
+              role: principal

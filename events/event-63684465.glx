@@ -1,9 +1,0 @@
-events:
-    event-573:
-        type: death
-        participants:
-            - person: person-427
-              role: principal
-        properties:
-            cause: At War
-            event_subtype: WAR

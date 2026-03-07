@@ -1,0 +1,23 @@
+assertions:
+    assertion-myriah-martell-name:
+        subject:
+            person: person-myriah-martell
+        property: name
+        value: Myriah Martell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-myriah-martell-gender:
+        subject:
+            person: person-myriah-martell
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

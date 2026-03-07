@@ -1,0 +1,6 @@
+events:
+    event-birth-hoster-frey:
+        type: birth
+        participants:
+            - person: person-hoster-frey
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-death-brandon-stark-466:
+        type: death
+        participants:
+            - person: person-brandon-stark-466
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-death-alysanne-targaryen-the-good:
+        type: death
+        participants:
+            - person: person-alysanne-targaryen-the-good
+              role: principal

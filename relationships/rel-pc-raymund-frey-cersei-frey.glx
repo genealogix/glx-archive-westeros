@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-raymund-frey-cersei-frey:
+        type: parent_child
+        participants:
+            - person: person-raymund-frey
+              role: parent
+            - person: person-cersei-frey
+              role: child

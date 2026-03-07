@@ -1,0 +1,6 @@
+events:
+    event-birth-daenerys-targaryen-206:
+        type: birth
+        participants:
+            - person: person-daenerys-targaryen-206
+              role: principal

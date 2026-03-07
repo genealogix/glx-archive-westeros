@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-harys-haigh-walder-haigh:
+        type: parent_child
+        participants:
+            - person: person-harys-haigh
+              role: parent
+            - person: person-walder-haigh
+              role: child

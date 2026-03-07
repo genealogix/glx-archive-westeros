@@ -1,0 +1,6 @@
+events:
+    event-death-waynwood-240:
+        type: death
+        participants:
+            - person: person-waynwood-240
+              role: principal

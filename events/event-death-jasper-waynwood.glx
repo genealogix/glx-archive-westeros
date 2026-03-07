@@ -1,0 +1,8 @@
+events:
+    event-death-jasper-waynwood:
+        type: death
+        participants:
+            - person: person-jasper-waynwood
+              role: principal
+        properties:
+            cause: Accident

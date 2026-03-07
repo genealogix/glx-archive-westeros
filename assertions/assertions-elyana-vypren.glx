@@ -1,0 +1,23 @@
+assertions:
+    assertion-elyana-vypren-name:
+        subject:
+            person: person-elyana-vypren
+        property: name
+        value: Elyana Vypren
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-elyana-vypren-gender:
+        subject:
+            person: person-elyana-vypren
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,6 @@
+events:
+    event-birth-dickon-frey:
+        type: birth
+        participants:
+            - person: person-dickon-frey
+              role: principal

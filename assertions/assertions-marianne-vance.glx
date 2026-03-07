@@ -1,0 +1,23 @@
+assertions:
+    assertion-marianne-vance-name:
+        subject:
+            person: person-marianne-vance
+        property: name
+        value: Marianne Vance
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-marianne-vance-gender:
+        subject:
+            person: person-marianne-vance
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

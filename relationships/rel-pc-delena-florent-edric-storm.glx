@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-delena-florent-edric-storm:
+        type: parent_child
+        participants:
+            - person: person-delena-florent
+              role: parent
+            - person: person-edric-storm
+              role: child

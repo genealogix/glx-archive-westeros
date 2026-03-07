@@ -1,0 +1,6 @@
+events:
+    event-birth-aegon-frey-bloodborn:
+        type: birth
+        participants:
+            - person: person-aegon-frey-bloodborn
+              role: principal

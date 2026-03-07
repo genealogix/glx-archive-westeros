@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mellario-quentyn-martell:
+        type: parent_child
+        participants:
+            - person: person-mellario
+              role: parent
+            - person: person-quentyn-martell
+              role: child

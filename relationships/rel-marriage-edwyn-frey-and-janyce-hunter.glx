@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-edwyn-frey-and-janyce-hunter:
+        type: marriage
+        participants:
+            - person: person-edwyn-frey
+              role: spouse
+            - person: person-janyce-hunter
+              role: spouse
+        properties:
+            marriage_event: event-marriage-edwyn-frey-and-janyce-hunter

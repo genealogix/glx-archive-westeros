@@ -1,0 +1,23 @@
+assertions:
+    assertion-daenerys-targaryen-304-name:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: name
+        value: Daenerys Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-daenerys-targaryen-304-gender:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

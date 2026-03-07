@@ -1,0 +1,6 @@
+events:
+    event-birth-cassana-estermont:
+        type: birth
+        participants:
+            - person: person-cassana-estermont
+              role: principal

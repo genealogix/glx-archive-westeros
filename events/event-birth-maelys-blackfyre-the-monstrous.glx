@@ -1,0 +1,6 @@
+events:
+    event-birth-maelys-blackfyre-the-monstrous:
+        type: birth
+        participants:
+            - person: person-maelys-blackfyre-the-monstrous
+              role: principal

@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-leo-blackbar-and-olene-tyrell:
+        type: marriage
+        participants:
+            - person: person-leo-blackbar
+              role: spouse
+            - person: person-olene-tyrell
+              role: spouse
+        properties:
+            marriage_event: event-marriage-leo-blackbar-and-olene-tyrell

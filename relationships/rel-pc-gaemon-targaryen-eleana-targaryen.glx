@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-gaemon-targaryen-eleana-targaryen:
+        type: parent_child
+        participants:
+            - person: person-gaemon-targaryen
+              role: parent
+            - person: person-eleana-targaryen
+              role: child

@@ -1,0 +1,23 @@
+assertions:
+    assertion-annara-farring-name:
+        subject:
+            person: person-annara-farring
+        property: name
+        value: Annara Farring
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-annara-farring-gender:
+        subject:
+            person: person-annara-farring
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

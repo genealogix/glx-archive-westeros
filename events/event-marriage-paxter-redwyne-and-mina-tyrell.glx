@@ -1,0 +1,8 @@
+events:
+    event-marriage-paxter-redwyne-and-mina-tyrell:
+        type: marriage
+        participants:
+            - person: person-paxter-redwyne
+              role: spouse
+            - person: person-mina-tyrell
+              role: spouse

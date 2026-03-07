@@ -1,0 +1,23 @@
+assertions:
+    assertion-alerie-hightower-name:
+        subject:
+            person: person-alerie-hightower
+        property: name
+        value: Alerie Hightower
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-alerie-hightower-gender:
+        subject:
+            person: person-alerie-hightower
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

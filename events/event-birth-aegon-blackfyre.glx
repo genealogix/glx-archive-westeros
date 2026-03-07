@@ -1,0 +1,6 @@
+events:
+    event-birth-aegon-blackfyre:
+        type: birth
+        participants:
+            - person: person-aegon-blackfyre
+              role: principal

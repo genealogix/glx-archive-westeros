@@ -1,0 +1,6 @@
+events:
+    event-death-rhaena-targaryen:
+        type: death
+        participants:
+            - person: person-rhaena-targaryen
+              role: principal

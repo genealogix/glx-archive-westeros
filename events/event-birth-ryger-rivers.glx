@@ -1,0 +1,6 @@
+events:
+    event-birth-ryger-rivers:
+        type: birth
+        participants:
+            - person: person-ryger-rivers
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-omer-florent-name:
+        subject:
+            person: person-omer-florent
+        property: name
+        value: Maester Omer Florent
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-omer-florent-gender:
+        subject:
+            person: person-omer-florent
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

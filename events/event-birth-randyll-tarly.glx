@@ -1,0 +1,6 @@
+events:
+    event-birth-randyll-tarly:
+        type: birth
+        participants:
+            - person: person-randyll-tarly
+              role: principal

@@ -1,0 +1,10 @@
+persons:
+    person-walder-rivers:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walder
+                    surname: Rivers
+                value: Walder Rivers
+            rin: MH:I144

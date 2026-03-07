@@ -1,0 +1,6 @@
+events:
+    event-birth-ryella-frey:
+        type: birth
+        participants:
+            - person: person-ryella-frey
+              role: principal

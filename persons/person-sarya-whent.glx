@@ -1,0 +1,10 @@
+persons:
+    person-sarya-whent:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Sarya
+                    surname: Whent
+                value: Sarya Whent
+            rin: MH:I125

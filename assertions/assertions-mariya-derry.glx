@@ -1,0 +1,23 @@
+assertions:
+    assertion-mariya-derry-name:
+        subject:
+            person: person-mariya-derry
+        property: name
+        value: Mariya Derry
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-mariya-derry-gender:
+        subject:
+            person: person-mariya-derry
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

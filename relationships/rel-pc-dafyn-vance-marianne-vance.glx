@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-dafyn-vance-marianne-vance:
+        type: parent_child
+        participants:
+            - person: person-dafyn-vance
+              role: parent
+            - person: person-marianne-vance
+              role: child

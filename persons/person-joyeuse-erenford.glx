@@ -1,0 +1,10 @@
+persons:
+    person-joyeuse-erenford:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Joyeuse
+                    surname: Erenford
+                value: Joyeuse Erenford
+            rin: MH:I142

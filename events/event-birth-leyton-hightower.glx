@@ -1,0 +1,6 @@
+events:
+    event-birth-leyton-hightower:
+        type: birth
+        participants:
+            - person: person-leyton-hightower
+              role: principal

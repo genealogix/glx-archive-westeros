@@ -1,0 +1,11 @@
+persons:
+    person-harbert-baratheon:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Harbert
+                    prefix: Ser
+                    surname: Baratheon
+                value: Ser Harbert Baratheon
+            rin: MH:I501

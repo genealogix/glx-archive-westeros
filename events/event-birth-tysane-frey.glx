@@ -1,0 +1,6 @@
+events:
+    event-birth-tysane-frey:
+        type: birth
+        participants:
+            - person: person-tysane-frey
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-death-brynden-targaryen-bloodraven:
+        type: death
+        participants:
+            - person: person-brynden-targaryen-bloodraven
+              role: principal

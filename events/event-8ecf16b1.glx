@@ -1,6 +1,0 @@
-events:
-    event-470:
-        type: death
-        participants:
-            - person: person-350
-              role: principal

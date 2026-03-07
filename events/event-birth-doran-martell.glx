@@ -1,0 +1,6 @@
+events:
+    event-birth-doran-martell:
+        type: birth
+        participants:
+            - person: person-doran-martell
+              role: principal

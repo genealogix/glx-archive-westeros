@@ -1,0 +1,6 @@
+events:
+    event-birth-lia-serry:
+        type: birth
+        participants:
+            - person: person-lia-serry
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-edwyn-frey-name:
+        subject:
+            person: person-edwyn-frey
+        property: name
+        value: Edwyn Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-edwyn-frey-gender:
+        subject:
+            person: person-edwyn-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

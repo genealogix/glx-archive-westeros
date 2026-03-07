@@ -1,0 +1,6 @@
+events:
+    event-birth-ashara-dayne:
+        type: birth
+        participants:
+            - person: person-ashara-dayne
+              role: principal

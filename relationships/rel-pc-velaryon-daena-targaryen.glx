@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-velaryon-daena-targaryen:
+        type: parent_child
+        participants:
+            - person: person-velaryon
+              role: parent
+            - person: person-daena-targaryen
+              role: child

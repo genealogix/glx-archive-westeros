@@ -1,0 +1,23 @@
+assertions:
+    assertion-joyeuse-erenford-name:
+        subject:
+            person: person-joyeuse-erenford
+        property: name
+        value: Joyeuse Erenford
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-joyeuse-erenford-gender:
+        subject:
+            person: person-joyeuse-erenford
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+persons:
+    person-lia-serry:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Lia
+                    surname: Serry
+                value: Lia Serry
+            rin: MH:I402

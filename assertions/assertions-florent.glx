@@ -1,0 +1,23 @@
+assertions:
+    assertion-florent-name:
+        subject:
+            person: person-florent
+        property: name
+        value: Florent
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-florent-gender:
+        subject:
+            person: person-florent
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

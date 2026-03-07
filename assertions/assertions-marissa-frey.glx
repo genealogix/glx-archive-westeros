@@ -1,0 +1,23 @@
+assertions:
+    assertion-marissa-frey-name:
+        subject:
+            person: person-marissa-frey
+        property: name
+        value: Marissa Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-marissa-frey-gender:
+        subject:
+            person: person-marissa-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

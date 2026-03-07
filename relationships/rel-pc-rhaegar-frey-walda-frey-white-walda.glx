@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rhaegar-frey-walda-frey-white-walda:
+        type: parent_child
+        participants:
+            - person: person-rhaegar-frey
+              role: parent
+            - person: person-walda-frey-white-walda
+              role: child

@@ -39,6 +39,20 @@ repository_types:
     label: "Government Agency"
     description: "Government record-keeping agency"
   
+  # === ASOIAF Custom Repository Types ===
+
+  published_series:
+    label: "Published Series"
+    description: "Published book series (A Song of Ice and Fire novels)"
+
+  broadcast_series:
+    label: "Broadcast Series"
+    description: "Television or streaming series (HBO Game of Thrones)"
+
+  digital_archive:
+    label: "Digital Archive"
+    description: "Digital genealogy platform export (MyHeritage, Ancestry)"
+
   other:
     label: "Other"
     description: "Other institution type"

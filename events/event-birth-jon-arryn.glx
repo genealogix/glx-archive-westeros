@@ -1,0 +1,6 @@
+events:
+    event-birth-jon-arryn:
+        type: birth
+        participants:
+            - person: person-jon-arryn
+              role: principal

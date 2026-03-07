@@ -1,0 +1,9 @@
+persons:
+    person-waynwood-249:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Waynwood
+                value: Waynwood
+            rin: MH:I249

@@ -1,0 +1,8 @@
+events:
+    event-marriage-jorah-mormont-and-lynesse-hightower-767:
+        type: marriage
+        participants:
+            - person: person-jorah-mormont
+              role: spouse
+            - person: person-lynesse-hightower
+              role: spouse

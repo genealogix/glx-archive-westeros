@@ -1,0 +1,23 @@
+assertions:
+    assertion-rupert-brax-name:
+        subject:
+            person: person-rupert-brax
+        property: name
+        value: Rupert Brax
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-rupert-brax-gender:
+        subject:
+            person: person-rupert-brax
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

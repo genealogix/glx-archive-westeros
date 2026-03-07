@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-paxter-redwyne-desmera-redwyne:
+        type: parent_child
+        participants:
+            - person: person-paxter-redwyne
+              role: parent
+            - person: person-desmera-redwyne
+              role: child

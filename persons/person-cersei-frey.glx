@@ -1,0 +1,10 @@
+persons:
+    person-cersei-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Cersei
+                    surname: Frey
+                value: Cersei Frey
+            rin: MH:I100

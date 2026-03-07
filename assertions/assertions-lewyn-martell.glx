@@ -1,0 +1,23 @@
+assertions:
+    assertion-lewyn-martell-name:
+        subject:
+            person: person-lewyn-martell
+        property: name
+        value: Lewyn Martell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-lewyn-martell-gender:
+        subject:
+            person: person-lewyn-martell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

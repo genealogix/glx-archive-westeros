@@ -1,0 +1,6 @@
+events:
+    event-death-martell:
+        type: death
+        participants:
+            - person: person-martell
+              role: principal

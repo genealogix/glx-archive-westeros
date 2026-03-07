@@ -1,0 +1,6 @@
+events:
+    event-birth-aemond-targaryen:
+        type: birth
+        participants:
+            - person: person-aemond-targaryen
+              role: principal

@@ -1,0 +1,9 @@
+persons:
+    person-royce-470:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Royce
+                value: Royce
+            rin: MH:I470

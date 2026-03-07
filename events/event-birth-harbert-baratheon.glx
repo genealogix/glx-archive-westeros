@@ -1,0 +1,6 @@
+events:
+    event-birth-harbert-baratheon:
+        type: birth
+        participants:
+            - person: person-harbert-baratheon
+              role: principal

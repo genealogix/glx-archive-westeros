@@ -1,0 +1,8 @@
+events:
+    event-marriage-whalen-frey-and-sylwa-paege:
+        type: marriage
+        participants:
+            - person: person-whalen-frey
+              role: spouse
+            - person: person-sylwa-paege
+              role: spouse

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-tywin-lannister-cersei-lannister:
+        type: parent_child
+        participants:
+            - person: person-tywin-lannister
+              role: parent
+            - person: person-cersei-lannister
+              role: child

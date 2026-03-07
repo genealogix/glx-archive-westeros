@@ -1,0 +1,8 @@
+events:
+    event-marriage-aerion-targaryen-358-and-velena-velaryon:
+        type: marriage
+        participants:
+            - person: person-aerion-targaryen-358
+              role: spouse
+            - person: person-velena-velaryon
+              role: spouse

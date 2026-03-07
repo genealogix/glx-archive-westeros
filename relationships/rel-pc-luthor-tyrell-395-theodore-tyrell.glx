@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-luthor-tyrell-395-theodore-tyrell:
+        type: parent_child
+        participants:
+            - person: person-luthor-tyrell-395
+              role: parent
+            - person: person-theodore-tyrell
+              role: child

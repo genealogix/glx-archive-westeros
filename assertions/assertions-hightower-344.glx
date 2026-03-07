@@ -1,0 +1,23 @@
+assertions:
+    assertion-hightower-344-name:
+        subject:
+            person: person-hightower-344
+        property: name
+        value: Hightower
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-hightower-344-gender:
+        subject:
+            person: person-hightower-344
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+persons:
+    person-andros-brax:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Andros
+                    surname: Brax
+                value: Andros Brax
+            rin: MH:I153

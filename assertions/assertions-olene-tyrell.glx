@@ -1,0 +1,23 @@
+assertions:
+    assertion-olene-tyrell-name:
+        subject:
+            person: person-olene-tyrell
+        property: name
+        value: Olene Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-olene-tyrell-gender:
+        subject:
+            person: person-olene-tyrell
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-jon-cupps-and-leyla-hightower:
+        type: marriage
+        participants:
+            - person: person-jon-cupps
+              role: spouse
+            - person: person-leyla-hightower
+              role: spouse
+        properties:
+            marriage_event: event-marriage-jon-cupps-and-leyla-hightower

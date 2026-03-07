@@ -1,0 +1,6 @@
+events:
+    event-birth-tywin-lannister:
+        type: birth
+        participants:
+            - person: person-tywin-lannister
+              role: principal

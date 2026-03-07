@@ -1,0 +1,6 @@
+events:
+    event-birth-arianne-martell:
+        type: birth
+        participants:
+            - person: person-arianne-martell
+              role: principal

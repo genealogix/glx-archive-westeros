@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-leonella-lefford-emberlei-frey:
+        type: parent_child
+        participants:
+            - person: person-leonella-lefford
+              role: parent
+            - person: person-emberlei-frey
+              role: child

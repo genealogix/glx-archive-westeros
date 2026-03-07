@@ -1,0 +1,23 @@
+assertions:
+    assertion-zachery-frey-name:
+        subject:
+            person: person-zachery-frey
+        property: name
+        value: Zachery Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-zachery-frey-gender:
+        subject:
+            person: person-zachery-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,6 @@
+events:
+    event-birth-beony-beesbury:
+        type: birth
+        participants:
+            - person: person-beony-beesbury
+              role: principal

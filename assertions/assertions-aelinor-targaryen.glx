@@ -1,0 +1,23 @@
+assertions:
+    assertion-aelinor-targaryen-name:
+        subject:
+            person: person-aelinor-targaryen
+        property: name
+        value: Aelinor Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aelinor-targaryen-gender:
+        subject:
+            person: person-aelinor-targaryen
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

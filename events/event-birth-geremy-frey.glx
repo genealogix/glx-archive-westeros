@@ -1,0 +1,6 @@
+events:
+    event-birth-geremy-frey:
+        type: birth
+        participants:
+            - person: person-geremy-frey
+              role: principal

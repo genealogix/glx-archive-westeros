@@ -1,0 +1,10 @@
+persons:
+    person-melessa-florent:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Melessa
+                    surname: Florent
+                value: Melessa Florent
+            rin: MH:I450

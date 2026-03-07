@@ -1,0 +1,10 @@
+persons:
+    person-alester-florent:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Alester
+                    surname: Florent
+                value: Alester Florent
+            rin: MH:I444

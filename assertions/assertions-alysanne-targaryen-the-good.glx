@@ -1,0 +1,23 @@
+assertions:
+    assertion-alysanne-targaryen-the-good-name:
+        subject:
+            person: person-alysanne-targaryen-the-good
+        property: name
+        value: "Alysanne 'The Good' Targaryen"
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-alysanne-targaryen-the-good-gender:
+        subject:
+            person: person-alysanne-targaryen-the-good
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

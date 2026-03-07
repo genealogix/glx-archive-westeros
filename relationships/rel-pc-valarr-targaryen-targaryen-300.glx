@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-valarr-targaryen-targaryen-300:
+        type: parent_child
+        participants:
+            - person: person-valarr-targaryen
+              role: parent
+            - person: person-targaryen-300
+              role: child

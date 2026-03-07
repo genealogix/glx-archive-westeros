@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-tygett-lannister-and-darlessa-marbrand:
+        type: marriage
+        participants:
+            - person: person-tygett-lannister
+              role: spouse
+            - person: person-darlessa-marbrand
+              role: spouse
+        properties:
+            marriage_event: event-marriage-tygett-lannister-and-darlessa-marbrand-706

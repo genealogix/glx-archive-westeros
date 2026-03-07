@@ -1,0 +1,6 @@
+events:
+    event-birth-genna-lannister:
+        type: birth
+        participants:
+            - person: person-genna-lannister
+              role: principal

@@ -1,0 +1,8 @@
+events:
+    event-marriage-hoster-tully-and-minisa-whent:
+        type: marriage
+        participants:
+            - person: person-hoster-tully
+              role: spouse
+            - person: person-minisa-whent
+              role: spouse

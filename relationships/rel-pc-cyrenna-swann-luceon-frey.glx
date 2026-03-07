@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-cyrenna-swann-luceon-frey:
+        type: parent_child
+        participants:
+            - person: person-cyrenna-swann
+              role: parent
+            - person: person-luceon-frey
+              role: child

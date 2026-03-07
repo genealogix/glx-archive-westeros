@@ -1,0 +1,6 @@
+events:
+    event-birth-barra-waters:
+        type: birth
+        participants:
+            - person: person-barra-waters
+              role: principal

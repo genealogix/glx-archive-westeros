@@ -1,0 +1,6 @@
+events:
+    event-birth-edwyle-stark:
+        type: birth
+        participants:
+            - person: person-edwyle-stark
+              role: principal

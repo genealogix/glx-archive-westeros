@@ -1,0 +1,10 @@
+persons:
+    person-olyvar-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Olyvar
+                    surname: Frey
+                value: Olyvar Frey
+            rin: MH:I130

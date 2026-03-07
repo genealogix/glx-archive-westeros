@@ -1,0 +1,23 @@
+assertions:
+    assertion-jon-snow-name:
+        subject:
+            person: person-jon-snow
+        property: name
+        value: Jon Snow
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jon-snow-gender:
+        subject:
+            person: person-jon-snow
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

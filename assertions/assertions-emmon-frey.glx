@@ -1,0 +1,23 @@
+assertions:
+    assertion-emmon-frey-name:
+        subject:
+            person: person-emmon-frey
+        property: name
+        value: Emmon Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-emmon-frey-gender:
+        subject:
+            person: person-emmon-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

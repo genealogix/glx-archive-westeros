@@ -1,0 +1,10 @@
+persons:
+    person-tyrion-lannister:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tyrion
+                    surname: Lannister
+                value: Tyrion Lannister
+            rin: MH:I166

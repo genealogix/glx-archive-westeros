@@ -1,6 +1,0 @@
-events:
-    event-402:
-        type: death
-        participants:
-            - person: person-316
-              role: principal

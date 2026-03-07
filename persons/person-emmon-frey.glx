@@ -1,0 +1,10 @@
+persons:
+    person-emmon-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Emmon
+                    surname: Frey
+                value: Emmon Frey
+            rin: MH:I4

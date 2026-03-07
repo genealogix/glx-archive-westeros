@@ -1,0 +1,10 @@
+persons:
+    person-stannis-baratheon:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Stannis
+                    surname: Baratheon
+                value: Stannis Baratheon
+            rin: MH:I195

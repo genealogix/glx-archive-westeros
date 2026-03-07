@@ -1,0 +1,10 @@
+persons:
+    person-amerei-frey-gatehouse-ami:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Amerei 'Gatehouse Ami'
+                    surname: Frey
+                value: Amerei 'Gatehouse Ami' Frey
+            rin: MH:I87

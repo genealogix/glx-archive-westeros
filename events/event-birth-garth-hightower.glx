@@ -1,0 +1,6 @@
+events:
+    event-birth-garth-hightower:
+        type: birth
+        participants:
+            - person: person-garth-hightower
+              role: principal

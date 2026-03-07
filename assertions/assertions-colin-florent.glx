@@ -1,0 +1,23 @@
+assertions:
+    assertion-colin-florent-name:
+        subject:
+            person: person-colin-florent
+        property: name
+        value: Ser Colin Florent
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-colin-florent-gender:
+        subject:
+            person: person-colin-florent
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

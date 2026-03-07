@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-dafyn-vance-walder-vance:
+        type: parent_child
+        participants:
+            - person: person-dafyn-vance
+              role: parent
+            - person: person-walder-vance
+              role: child

@@ -1,0 +1,7 @@
+citations:
+    citation-twoiaf-targaryen:
+        source: source-twoiaf
+        properties:
+            locator: "The Targaryen Kings"
+            accessed: "2013-05-31"
+        notes: "Detailed Targaryen dynasty history and genealogy"

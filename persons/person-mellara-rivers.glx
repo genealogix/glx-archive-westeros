@@ -1,0 +1,10 @@
+persons:
+    person-mellara-rivers:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Mellara
+                    surname: Rivers
+                value: Mellara Rivers
+            rin: MH:I150

@@ -1,0 +1,6 @@
+events:
+    event-birth-daenys-targaryen:
+        type: birth
+        participants:
+            - person: person-daenys-targaryen
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-jeyne-darry:
+        type: birth
+        participants:
+            - person: person-jeyne-darry
+              role: principal

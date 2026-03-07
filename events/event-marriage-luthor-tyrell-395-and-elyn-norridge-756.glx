@@ -1,0 +1,8 @@
+events:
+    event-marriage-luthor-tyrell-395-and-elyn-norridge-756:
+        type: event
+        participants:
+            - person: person-luthor-tyrell-395
+              role: spouse
+            - person: person-elyn-norridge
+              role: spouse

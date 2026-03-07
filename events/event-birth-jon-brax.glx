@@ -1,0 +1,6 @@
+events:
+    event-birth-jon-brax:
+        type: birth
+        participants:
+            - person: person-jon-brax
+              role: principal

@@ -1,0 +1,9 @@
+persons:
+    person-snow-437:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Snow
+                value: Snow
+            rin: MH:I437

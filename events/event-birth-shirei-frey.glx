@@ -1,0 +1,6 @@
+events:
+    event-birth-shirei-frey:
+        type: birth
+        participants:
+            - person: person-shirei-frey
+              role: principal

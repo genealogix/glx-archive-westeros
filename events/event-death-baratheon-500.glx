@@ -1,0 +1,6 @@
+events:
+    event-death-baratheon-500:
+        type: death
+        participants:
+            - person: person-baratheon-500
+              role: principal

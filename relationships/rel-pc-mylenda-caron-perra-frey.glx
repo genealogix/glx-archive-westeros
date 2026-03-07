@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mylenda-caron-perra-frey:
+        type: parent_child
+        participants:
+            - person: person-mylenda-caron
+              role: parent
+            - person: person-perra-frey
+              role: child

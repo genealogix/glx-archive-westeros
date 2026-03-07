@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aerion-targaryen-285-targaryen-286:
+        type: parent_child
+        participants:
+            - person: person-aerion-targaryen-285
+              role: parent
+            - person: person-targaryen-286
+              role: child

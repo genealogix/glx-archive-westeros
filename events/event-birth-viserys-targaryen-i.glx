@@ -1,0 +1,6 @@
+events:
+    event-birth-viserys-targaryen-i:
+        type: birth
+        participants:
+            - person: person-viserys-targaryen-i
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-aegon-targaryen-iii-name:
+        subject:
+            person: person-aegon-targaryen-iii
+        property: name
+        value: Aegon Targaryen III
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aegon-targaryen-iii-gender:
+        subject:
+            person: person-aegon-targaryen-iii
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

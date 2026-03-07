@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-aegon-targaryen-and-eleana-targaryen:
+        type: marriage
+        participants:
+            - person: person-aegon-targaryen
+              role: spouse
+            - person: person-eleana-targaryen
+              role: spouse
+        properties:
+            marriage_event: event-marriage-aegon-targaryen-and-eleana-targaryen

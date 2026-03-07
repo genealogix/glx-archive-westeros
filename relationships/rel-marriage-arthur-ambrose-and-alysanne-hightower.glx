@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-arthur-ambrose-and-alysanne-hightower:
+        type: marriage
+        participants:
+            - person: person-arthur-ambrose
+              role: spouse
+            - person: person-alysanne-hightower
+              role: spouse
+        properties:
+            marriage_event: event-marriage-arthur-ambrose-and-alysanne-hightower

@@ -1,0 +1,11 @@
+persons:
+    person-aenys-targaryen-i:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aenys
+                    suffix: I
+                    surname: Targaryen
+                value: Aenys Targaryen I
+            rin: MH:I352

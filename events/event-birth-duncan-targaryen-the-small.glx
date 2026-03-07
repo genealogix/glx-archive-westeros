@@ -1,0 +1,6 @@
+events:
+    event-birth-duncan-targaryen-the-small:
+        type: birth
+        participants:
+            - person: person-duncan-targaryen-the-small
+              role: principal

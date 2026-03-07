@@ -1,0 +1,23 @@
+assertions:
+    assertion-walder-brax-name:
+        subject:
+            person: person-walder-brax
+        property: name
+        value: Walder Brax
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-walder-brax-gender:
+        subject:
+            person: person-walder-brax
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

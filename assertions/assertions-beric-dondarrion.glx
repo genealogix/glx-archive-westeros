@@ -1,0 +1,23 @@
+assertions:
+    assertion-beric-dondarrion-name:
+        subject:
+            person: person-beric-dondarrion
+        property: name
+        value: Beric Dondarrion
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-beric-dondarrion-gender:
+        subject:
+            person: person-beric-dondarrion
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

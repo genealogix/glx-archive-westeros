@@ -1,0 +1,23 @@
+assertions:
+    assertion-shiera-seastar-name:
+        subject:
+            person: person-shiera-seastar
+        property: name
+        value: Shiera Seastar
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-shiera-seastar-gender:
+        subject:
+            person: person-shiera-seastar
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

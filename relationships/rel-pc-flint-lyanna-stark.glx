@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-flint-lyanna-stark:
+        type: parent_child
+        participants:
+            - person: person-flint
+              role: parent
+            - person: person-lyanna-stark
+              role: child

@@ -1,0 +1,6 @@
+events:
+    event-birth-jaehaerys-targaryen-i-the-conciliator:
+        type: birth
+        participants:
+            - person: person-jaehaerys-targaryen-i-the-conciliator
+              role: principal

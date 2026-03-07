@@ -1,0 +1,10 @@
+persons:
+    person-alester-norcross:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Alester
+                    surname: Norcross
+                value: Alester Norcross
+            rin: MH:I455

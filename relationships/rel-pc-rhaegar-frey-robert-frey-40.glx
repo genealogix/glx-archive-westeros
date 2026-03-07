@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rhaegar-frey-robert-frey-40:
+        type: parent_child
+        participants:
+            - person: person-rhaegar-frey
+              role: parent
+            - person: person-robert-frey-40
+              role: child

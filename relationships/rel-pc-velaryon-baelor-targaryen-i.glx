@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-velaryon-baelor-targaryen-i:
+        type: parent_child
+        participants:
+            - person: person-velaryon
+              role: parent
+            - person: person-baelor-targaryen-i
+              role: child

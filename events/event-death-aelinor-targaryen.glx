@@ -1,0 +1,6 @@
+events:
+    event-death-aelinor-targaryen:
+        type: death
+        participants:
+            - person: person-aelinor-targaryen
+              role: principal

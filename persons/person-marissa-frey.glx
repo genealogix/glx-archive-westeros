@@ -1,0 +1,10 @@
+persons:
+    person-marissa-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Marissa
+                    surname: Frey
+                value: Marissa Frey
+            rin: MH:I90

@@ -1,0 +1,6 @@
+events:
+    event-birth-naerys:
+        type: birth
+        participants:
+            - person: person-naerys
+              role: principal

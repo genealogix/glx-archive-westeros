@@ -1,0 +1,23 @@
+assertions:
+    assertion-tyrek-lannister-name:
+        subject:
+            person: person-tyrek-lannister
+        property: name
+        value: Tyrek Lannister
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tyrek-lannister-gender:
+        subject:
+            person: person-tyrek-lannister
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

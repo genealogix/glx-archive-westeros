@@ -1,9 +1,0 @@
-persons:
-    person-322:
-        properties:
-            gender: female
-            name:
-                fields:
-                    surname: Velaryon
-                value: Velaryon
-            rin: MH:I322

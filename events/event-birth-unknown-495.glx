@@ -1,0 +1,6 @@
+events:
+    event-birth-unknown-495:
+        type: birth
+        participants:
+            - person: person-unknown-495
+              role: principal

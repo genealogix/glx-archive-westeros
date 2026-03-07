@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-tytos-frey-and-zhoe-blanetree:
+        type: marriage
+        participants:
+            - person: person-tytos-frey
+              role: spouse
+            - person: person-zhoe-blanetree
+              role: spouse
+        properties:
+            marriage_event: event-marriage-tytos-frey-and-zhoe-blanetree

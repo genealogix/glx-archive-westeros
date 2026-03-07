@@ -1,0 +1,23 @@
+assertions:
+    assertion-aegon-targaryen-i-the-conqueror-name:
+        subject:
+            person: person-aegon-targaryen-i-the-conqueror
+        property: name
+        value: "Aegon 'The Conqueror' Targaryen I"
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aegon-targaryen-i-the-conqueror-gender:
+        subject:
+            person: person-aegon-targaryen-i-the-conqueror
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

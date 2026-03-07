@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mariya-derry-amerei-frey-gatehouse-ami:
+        type: parent_child
+        participants:
+            - person: person-mariya-derry
+              role: parent
+            - person: person-amerei-frey-gatehouse-ami
+              role: child

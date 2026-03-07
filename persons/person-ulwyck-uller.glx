@@ -1,0 +1,10 @@
+persons:
+    person-ulwyck-uller:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Ulwyck
+                    surname: Uller
+                value: Ulwyck Uller
+            rin: MH:I275

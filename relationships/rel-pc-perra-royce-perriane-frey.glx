@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-perra-royce-perriane-frey:
+        type: parent_child
+        participants:
+            - person: person-perra-royce
+              role: parent
+            - person: person-perriane-frey
+              role: child

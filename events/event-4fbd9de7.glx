@@ -1,8 +1,0 @@
-events:
-    event-354:
-        type: death
-        participants:
-            - person: person-292
-              role: principal
-        properties:
-            cause: Accident

@@ -1,0 +1,6 @@
+events:
+    event-birth-morton-waynwood:
+        type: birth
+        participants:
+            - person: person-morton-waynwood
+              role: principal

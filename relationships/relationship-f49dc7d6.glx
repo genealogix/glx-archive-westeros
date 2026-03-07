@@ -1,8 +1,0 @@
-relationships:
-    relationship-82:
-        type: marriage
-        participants:
-            - person: person-196
-              role: spouse
-            - person: person-374
-              role: spouse

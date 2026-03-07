@@ -1,0 +1,6 @@
+events:
+    event-birth-stannis-baratheon:
+        type: birth
+        participants:
+            - person: person-stannis-baratheon
+              role: principal

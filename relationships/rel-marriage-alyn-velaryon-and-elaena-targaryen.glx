@@ -1,0 +1,8 @@
+relationships:
+    rel-marriage-alyn-velaryon-and-elaena-targaryen:
+        type: marriage
+        participants:
+            - person: person-alyn-velaryon
+              role: spouse
+            - person: person-elaena-targaryen
+              role: spouse

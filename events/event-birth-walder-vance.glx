@@ -1,0 +1,6 @@
+events:
+    event-birth-walder-vance:
+        type: birth
+        participants:
+            - person: person-walder-vance
+              role: principal

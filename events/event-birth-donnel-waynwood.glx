@@ -1,0 +1,6 @@
+events:
+    event-birth-donnel-waynwood:
+        type: birth
+        participants:
+            - person: person-donnel-waynwood
+              role: principal

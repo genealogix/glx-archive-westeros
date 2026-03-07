@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-ryella-royce-androw-frey:
+        type: parent_child
+        participants:
+            - person: person-ryella-royce
+              role: parent
+            - person: person-androw-frey
+              role: child

@@ -1,0 +1,10 @@
+persons:
+    person-aegon-frey-bloodborn:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegon 'Bloodborn'
+                    surname: Frey
+                value: Aegon 'Bloodborn' Frey
+            rin: MH:I37

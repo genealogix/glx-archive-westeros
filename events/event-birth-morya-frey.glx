@@ -1,0 +1,6 @@
+events:
+    event-birth-morya-frey:
+        type: birth
+        participants:
+            - person: person-morya-frey
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-whalen-frey:
+        type: birth
+        participants:
+            - person: person-whalen-frey
+              role: principal

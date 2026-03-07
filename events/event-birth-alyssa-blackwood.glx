@@ -1,0 +1,6 @@
+events:
+    event-birth-alyssa-blackwood:
+        type: birth
+        participants:
+            - person: person-alyssa-blackwood
+              role: principal

@@ -1,0 +1,9 @@
+events:
+    event-death-brandon-stark-213:
+        type: death
+        place: place-kings-landing
+        participants:
+            - person: person-brandon-stark-213
+              role: principal
+        properties:
+            cause: Homicide

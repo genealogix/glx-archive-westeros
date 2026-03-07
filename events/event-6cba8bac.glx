@@ -1,8 +1,0 @@
-events:
-    event-237:
-        type: death
-        participants:
-            - person: person-210
-              role: principal
-        properties:
-            cause: Maternal Death

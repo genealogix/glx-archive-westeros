@@ -1,0 +1,23 @@
+assertions:
+    assertion-jaime-frey-name:
+        subject:
+            person: person-jaime-frey
+        property: name
+        value: Jaime Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jaime-frey-gender:
+        subject:
+            person: person-jaime-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

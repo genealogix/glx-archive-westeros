@@ -1,0 +1,8 @@
+events:
+    event-marriage-aegon-targaryen-iii-and-velaryon:
+        type: marriage
+        participants:
+            - person: person-aegon-targaryen-iii
+              role: spouse
+            - person: person-velaryon
+              role: spouse

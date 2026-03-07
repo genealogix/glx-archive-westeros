@@ -1,0 +1,6 @@
+events:
+    event-birth-glover:
+        type: birth
+        participants:
+            - person: person-glover
+              role: principal

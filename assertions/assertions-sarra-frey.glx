@@ -1,0 +1,23 @@
+assertions:
+    assertion-sarra-frey-name:
+        subject:
+            person: person-sarra-frey
+        property: name
+        value: Sarra Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-sarra-frey-gender:
+        subject:
+            person: person-sarra-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

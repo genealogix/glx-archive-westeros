@@ -1,0 +1,10 @@
+persons:
+    person-lyanna-stark:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Lyanna
+                    surname: Stark
+                value: Lyanna Stark
+            rin: MH:I210

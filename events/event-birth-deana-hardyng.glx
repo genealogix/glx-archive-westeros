@@ -1,0 +1,6 @@
+events:
+    event-birth-deana-hardyng:
+        type: birth
+        participants:
+            - person: person-deana-hardyng
+              role: principal

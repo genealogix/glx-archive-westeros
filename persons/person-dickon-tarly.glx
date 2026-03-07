@@ -1,0 +1,10 @@
+persons:
+    person-dickon-tarly:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Dickon
+                    surname: Tarly
+                value: Dickon Tarly
+            rin: MH:I462

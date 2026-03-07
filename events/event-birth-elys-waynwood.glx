@@ -1,0 +1,6 @@
+events:
+    event-birth-elys-waynwood:
+        type: birth
+        participants:
+            - person: person-elys-waynwood
+              role: principal

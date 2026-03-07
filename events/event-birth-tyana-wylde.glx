@@ -1,0 +1,6 @@
+events:
+    event-birth-tyana-wylde:
+        type: birth
+        participants:
+            - person: person-tyana-wylde
+              role: principal

@@ -1,0 +1,10 @@
+persons:
+    person-jonos-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jonos
+                    surname: Frey
+                value: Jonos Frey
+            rin: MH:I42

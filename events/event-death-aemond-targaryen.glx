@@ -1,0 +1,6 @@
+events:
+    event-death-aemond-targaryen:
+        type: death
+        participants:
+            - person: person-aemond-targaryen
+              role: principal

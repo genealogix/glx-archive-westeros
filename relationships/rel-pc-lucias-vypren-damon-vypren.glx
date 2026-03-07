@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lucias-vypren-damon-vypren:
+        type: parent_child
+        participants:
+            - person: person-lucias-vypren
+              role: parent
+            - person: person-damon-vypren
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-dayne-482-ashara-dayne:
+        type: parent_child
+        participants:
+            - person: person-dayne-482
+              role: parent
+            - person: person-ashara-dayne
+              role: child

@@ -1,0 +1,6 @@
+events:
+    event-birth-baelon-targaryen:
+        type: birth
+        participants:
+            - person: person-baelon-targaryen
+              role: principal

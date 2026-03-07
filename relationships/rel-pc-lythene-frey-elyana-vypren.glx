@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lythene-frey-elyana-vypren:
+        type: parent_child
+        participants:
+            - person: person-lythene-frey
+              role: parent
+            - person: person-elyana-vypren
+              role: child

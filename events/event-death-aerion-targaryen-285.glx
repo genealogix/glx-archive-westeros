@@ -1,0 +1,6 @@
+events:
+    event-death-aerion-targaryen-285:
+        type: death
+        participants:
+            - person: person-aerion-targaryen-285
+              role: principal

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-jammos-frey-dickon-frey:
+        type: parent_child
+        participants:
+            - person: person-jammos-frey
+              role: parent
+            - person: person-dickon-frey
+              role: child

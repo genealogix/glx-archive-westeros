@@ -1,0 +1,6 @@
+events:
+    event-birth-melara-crane:
+        type: birth
+        participants:
+            - person: person-melara-crane
+              role: principal

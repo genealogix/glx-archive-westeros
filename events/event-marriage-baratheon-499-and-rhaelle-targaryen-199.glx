@@ -1,0 +1,8 @@
+events:
+    event-marriage-baratheon-499-and-rhaelle-targaryen-199:
+        type: marriage
+        participants:
+            - person: person-baratheon-499
+              role: spouse
+            - person: person-rhaelle-targaryen-199
+              role: spouse

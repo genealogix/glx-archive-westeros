@@ -1,0 +1,9 @@
+events:
+    event-death-elia-martell:
+        type: death
+        place: place-kings-landing
+        participants:
+            - person: person-elia-martell
+              role: principal
+        properties:
+            cause: Homicide

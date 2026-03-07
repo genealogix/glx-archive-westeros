@@ -1,0 +1,23 @@
+assertions:
+    assertion-carolei-waynwood-name:
+        subject:
+            person: person-carolei-waynwood
+        property: name
+        value: Carolei Waynwood
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-carolei-waynwood-gender:
+        subject:
+            person: person-carolei-waynwood
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

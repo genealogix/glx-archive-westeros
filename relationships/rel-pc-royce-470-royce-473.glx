@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-royce-470-royce-473:
+        type: parent_child
+        participants:
+            - person: person-royce-470
+              role: parent
+            - person: person-royce-473
+              role: child

@@ -1,0 +1,8 @@
+events:
+    event-death-jeyne-royce:
+        type: death
+        participants:
+            - person: person-jeyne-royce
+              role: principal
+        properties:
+            cause: Maternal Death

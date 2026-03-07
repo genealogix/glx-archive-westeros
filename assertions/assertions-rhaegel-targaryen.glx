@@ -1,0 +1,23 @@
+assertions:
+    assertion-rhaegel-targaryen-name:
+        subject:
+            person: person-rhaegel-targaryen
+        property: name
+        value: Rhaegel Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-rhaegel-targaryen-gender:
+        subject:
+            person: person-rhaegel-targaryen
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

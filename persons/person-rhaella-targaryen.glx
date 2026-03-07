@@ -1,0 +1,10 @@
+persons:
+    person-rhaella-targaryen:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Rhaella
+                    surname: Targaryen
+                value: Rhaella Targaryen
+            rin: MH:I203

@@ -1,0 +1,6 @@
+events:
+    event-birth-talla-tarly:
+        type: birth
+        participants:
+            - person: person-talla-tarly
+              role: principal

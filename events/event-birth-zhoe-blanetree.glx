@@ -1,0 +1,6 @@
+events:
+    event-birth-zhoe-blanetree:
+        type: birth
+        participants:
+            - person: person-zhoe-blanetree
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-lyra-mormont-name:
+        subject:
+            person: person-lyra-mormont
+        property: name
+        value: Lyra Mormont
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-lyra-mormont-gender:
+        subject:
+            person: person-lyra-mormont
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

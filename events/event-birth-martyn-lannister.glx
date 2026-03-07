@@ -1,0 +1,6 @@
+events:
+    event-birth-martyn-lannister:
+        type: birth
+        participants:
+            - person: person-martyn-lannister
+              role: principal

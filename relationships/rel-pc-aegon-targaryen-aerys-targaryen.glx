@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aegon-targaryen-aerys-targaryen:
+        type: parent_child
+        participants:
+            - person: person-aegon-targaryen
+              role: parent
+            - person: person-aerys-targaryen
+              role: child

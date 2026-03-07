@@ -1,0 +1,23 @@
+assertions:
+    assertion-jyanna-frey-name:
+        subject:
+            person: person-jyanna-frey
+        property: name
+        value: Jyanna Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jyanna-frey-gender:
+        subject:
+            person: person-jyanna-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

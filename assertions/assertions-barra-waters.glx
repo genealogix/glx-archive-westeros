@@ -1,0 +1,23 @@
+assertions:
+    assertion-barra-waters-name:
+        subject:
+            person: person-barra-waters
+        property: name
+        value: Barra Waters
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-barra-waters-gender:
+        subject:
+            person: person-barra-waters
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

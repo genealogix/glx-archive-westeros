@@ -1,0 +1,6 @@
+events:
+    event-birth-joyeuse-erenford:
+        type: birth
+        participants:
+            - person: person-joyeuse-erenford
+              role: principal

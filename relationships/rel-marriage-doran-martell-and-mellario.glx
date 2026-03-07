@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-doran-martell-and-mellario:
+        type: marriage
+        participants:
+            - person: person-doran-martell
+              role: spouse
+            - person: person-mellario
+              role: spouse
+        properties:
+            marriage_event: event-marriage-doran-martell-and-mellario-728

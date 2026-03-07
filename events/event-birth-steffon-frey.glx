@@ -1,0 +1,6 @@
+events:
+    event-birth-steffon-frey:
+        type: birth
+        participants:
+            - person: person-steffon-frey
+              role: principal

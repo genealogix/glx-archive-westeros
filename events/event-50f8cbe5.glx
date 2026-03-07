@@ -1,8 +1,0 @@
-events:
-    event-233:
-        type: death
-        participants:
-            - person: person-208
-              role: principal
-        properties:
-            cause: Homicide

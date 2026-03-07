@@ -1,0 +1,23 @@
+assertions:
+    assertion-tyana-wylde-name:
+        subject:
+            person: person-tyana-wylde
+        property: name
+        value: Tyana Wylde
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tyana-wylde-gender:
+        subject:
+            person: person-tyana-wylde
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

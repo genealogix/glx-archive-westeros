@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-pate-and-amerei-frey-gatehouse-ami:
+        type: marriage
+        participants:
+            - person: person-pate
+              role: spouse
+            - person: person-amerei-frey-gatehouse-ami
+              role: spouse
+        properties:
+            marriage_event: event-marriage-pate-and-amerei-frey-gatehouse-ami

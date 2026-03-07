@@ -1,8 +1,0 @@
-events:
-    event-291:
-        type: death
-        participants:
-            - person: person-246
-              role: principal
-        properties:
-            cause: Accident

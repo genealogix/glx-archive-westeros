@@ -1,0 +1,10 @@
+persons:
+    person-beony-beesbury:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Beony
+                    surname: Beesbury
+                value: Beony Beesbury
+            rin: MH:I95

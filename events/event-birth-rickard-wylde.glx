@@ -1,0 +1,6 @@
+events:
+    event-birth-rickard-wylde:
+        type: birth
+        participants:
+            - person: person-rickard-wylde
+              role: principal

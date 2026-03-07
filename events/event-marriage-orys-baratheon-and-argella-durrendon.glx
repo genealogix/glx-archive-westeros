@@ -1,0 +1,8 @@
+events:
+    event-marriage-orys-baratheon-and-argella-durrendon:
+        type: marriage
+        participants:
+            - person: person-orys-baratheon
+              role: spouse
+            - person: person-argella-durrendon
+              role: spouse

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mina-tyrell-hobber-redwyne-slobber:
+        type: parent_child
+        participants:
+            - person: person-mina-tyrell
+              role: parent
+            - person: person-hobber-redwyne-slobber
+              role: child

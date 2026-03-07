@@ -1,0 +1,23 @@
+assertions:
+    assertion-robert-frey-96-name:
+        subject:
+            person: person-robert-frey-96
+        property: name
+        value: Robert Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-robert-frey-96-gender:
+        subject:
+            person: person-robert-frey-96
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

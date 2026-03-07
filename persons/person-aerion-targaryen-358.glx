@@ -1,0 +1,10 @@
+persons:
+    person-aerion-targaryen-358:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aerion
+                    surname: Targaryen
+                value: Aerion Targaryen
+            rin: MH:I358

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-genna-lannister-cleos-frey:
+        type: parent_child
+        participants:
+            - person: person-genna-lannister
+              role: parent
+            - person: person-cleos-frey
+              role: child

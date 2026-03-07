@@ -1,0 +1,6 @@
+events:
+    event-birth-mormont:
+        type: birth
+        participants:
+            - person: person-mormont
+              role: principal

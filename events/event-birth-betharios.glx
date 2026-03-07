@@ -1,0 +1,7 @@
+events:
+    event-birth-betharios:
+        type: birth
+        place: place-braavos
+        participants:
+            - person: person-betharios
+              role: principal

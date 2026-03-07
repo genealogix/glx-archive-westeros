@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-daeron-targaryen-ii-baelor-targaryen-breakspear:
+        type: parent_child
+        participants:
+            - person: person-daeron-targaryen-ii
+              role: parent
+            - person: person-baelor-targaryen-breakspear
+              role: child

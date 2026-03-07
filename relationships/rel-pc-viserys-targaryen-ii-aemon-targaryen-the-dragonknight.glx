@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-viserys-targaryen-ii-aemon-targaryen-the-dragonknight:
+        type: parent_child
+        participants:
+            - person: person-viserys-targaryen-ii
+              role: parent
+            - person: person-aemon-targaryen-the-dragonknight
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rhaelle-targaryen-199-steffon-baratheon:
+        type: parent_child
+        participants:
+            - person: person-rhaelle-targaryen-199
+              role: parent
+            - person: person-steffon-baratheon
+              role: child

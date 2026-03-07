@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-stafford-lannister-cerenna-lannister:
+        type: parent_child
+        participants:
+            - person: person-stafford-lannister
+              role: parent
+            - person: person-cerenna-lannister
+              role: child

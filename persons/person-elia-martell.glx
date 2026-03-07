@@ -1,0 +1,10 @@
+persons:
+    person-elia-martell:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Elia
+                    surname: Martell
+                value: Elia Martell
+            rin: MH:I207

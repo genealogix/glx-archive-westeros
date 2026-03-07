@@ -1,0 +1,11 @@
+persons:
+    person-garlan-tyrell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Garlan
+                    prefix: Ser
+                    surname: Tyrell
+                value: Ser Garlan Tyrell
+            rin: MH:I377

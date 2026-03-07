@@ -1,0 +1,6 @@
+events:
+    event-death-tully:
+        type: death
+        participants:
+            - person: person-tully
+              role: principal

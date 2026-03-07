@@ -1,0 +1,6 @@
+events:
+    event-birth-cyrenna-swann:
+        type: birth
+        participants:
+            - person: person-cyrenna-swann
+              role: principal

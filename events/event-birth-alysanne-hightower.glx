@@ -1,0 +1,6 @@
+events:
+    event-birth-alysanne-hightower:
+        type: birth
+        participants:
+            - person: person-alysanne-hightower
+              role: principal

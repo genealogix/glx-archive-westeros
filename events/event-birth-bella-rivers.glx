@@ -1,0 +1,6 @@
+events:
+    event-birth-bella-rivers:
+        type: birth
+        participants:
+            - person: person-bella-rivers
+              role: principal

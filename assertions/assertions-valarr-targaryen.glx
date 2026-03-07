@@ -1,0 +1,23 @@
+assertions:
+    assertion-valarr-targaryen-name:
+        subject:
+            person: person-valarr-targaryen
+        property: name
+        value: Valarr Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-valarr-targaryen-gender:
+        subject:
+            person: person-valarr-targaryen
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

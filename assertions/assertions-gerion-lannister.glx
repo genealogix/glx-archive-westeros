@@ -1,0 +1,23 @@
+assertions:
+    assertion-gerion-lannister-name:
+        subject:
+            person: person-gerion-lannister
+        property: name
+        value: Gerion Lannister
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-gerion-lannister-gender:
+        subject:
+            person: person-gerion-lannister
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

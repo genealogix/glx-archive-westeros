@@ -1,0 +1,6 @@
+events:
+    event-death-argilac-durrendon-the-arrogant:
+        type: death
+        participants:
+            - person: person-argilac-durrendon-the-arrogant
+              role: principal

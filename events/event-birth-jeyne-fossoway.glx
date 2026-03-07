@@ -1,0 +1,6 @@
+events:
+    event-birth-jeyne-fossoway:
+        type: birth
+        participants:
+            - person: person-jeyne-fossoway
+              role: principal

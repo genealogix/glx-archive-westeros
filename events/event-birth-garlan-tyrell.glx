@@ -1,0 +1,6 @@
+events:
+    event-birth-garlan-tyrell:
+        type: birth
+        participants:
+            - person: person-garlan-tyrell
+              role: principal

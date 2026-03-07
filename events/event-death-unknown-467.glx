@@ -1,0 +1,8 @@
+events:
+    event-death-unknown-467:
+        type: death
+        participants:
+            - person: person-unknown-467
+              role: principal
+        properties:
+            cause: Maternal Death

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mariya-derry-marissa-frey:
+        type: parent_child
+        participants:
+            - person: person-mariya-derry
+              role: parent
+            - person: person-marissa-frey
+              role: child

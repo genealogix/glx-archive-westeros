@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-benfrey-frey-and-jyanna-frey:
+        type: marriage
+        participants:
+            - person: person-benfrey-frey
+              role: spouse
+            - person: person-jyanna-frey
+              role: spouse
+        properties:
+            marriage_event: event-marriage-benfrey-frey-and-jyanna-frey

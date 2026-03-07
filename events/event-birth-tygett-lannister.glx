@@ -1,0 +1,6 @@
+events:
+    event-birth-tygett-lannister:
+        type: birth
+        participants:
+            - person: person-tygett-lannister
+              role: principal

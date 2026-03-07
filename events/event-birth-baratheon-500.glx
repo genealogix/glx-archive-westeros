@@ -1,0 +1,6 @@
+events:
+    event-birth-baratheon-500:
+        type: birth
+        participants:
+            - person: person-baratheon-500
+              role: principal

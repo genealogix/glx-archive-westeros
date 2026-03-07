@@ -1,9 +1,0 @@
-persons:
-    person-425:
-        properties:
-            gender: male
-            name:
-                fields:
-                    surname: Hightower
-                value: Hightower
-            rin: MH:I425

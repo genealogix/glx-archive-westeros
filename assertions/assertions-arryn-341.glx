@@ -1,0 +1,23 @@
+assertions:
+    assertion-arryn-341-name:
+        subject:
+            person: person-arryn-341
+        property: name
+        value: Arryn
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-arryn-341-gender:
+        subject:
+            person: person-arryn-341
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

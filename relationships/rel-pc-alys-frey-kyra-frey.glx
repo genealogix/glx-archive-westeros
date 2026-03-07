@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-alys-frey-kyra-frey:
+        type: parent_child
+        participants:
+            - person: person-alys-frey
+              role: parent
+            - person: person-kyra-frey
+              role: child

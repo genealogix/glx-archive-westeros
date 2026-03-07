@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-stark-469-royce-471:
+        type: parent_child
+        participants:
+            - person: person-stark-469
+              role: parent
+            - person: person-royce-471
+              role: child

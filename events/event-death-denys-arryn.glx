@@ -1,0 +1,9 @@
+events:
+    event-death-denys-arryn:
+        type: death
+        participants:
+            - person: person-denys-arryn
+              role: principal
+        properties:
+            cause: At War
+            event_subtype: WAR

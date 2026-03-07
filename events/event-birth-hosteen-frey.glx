@@ -1,0 +1,6 @@
+events:
+    event-birth-hosteen-frey:
+        type: birth
+        participants:
+            - person: person-hosteen-frey
+              role: principal

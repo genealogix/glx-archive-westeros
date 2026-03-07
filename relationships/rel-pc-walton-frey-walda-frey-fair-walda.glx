@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-walton-frey-walda-frey-fair-walda:
+        type: parent_child
+        participants:
+            - person: person-walton-frey
+              role: parent
+            - person: person-walda-frey-fair-walda
+              role: child

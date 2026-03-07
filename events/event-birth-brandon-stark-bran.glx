@@ -1,0 +1,6 @@
+events:
+    event-birth-brandon-stark-bran:
+        type: birth
+        participants:
+            - person: person-brandon-stark-bran
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-moryn-tyrell-name:
+        subject:
+            person: person-moryn-tyrell
+        property: name
+        value: Ser Moryn Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-moryn-tyrell-gender:
+        subject:
+            person: person-moryn-tyrell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

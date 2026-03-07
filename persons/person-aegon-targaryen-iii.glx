@@ -1,0 +1,11 @@
+persons:
+    person-aegon-targaryen-iii:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegon
+                    suffix: III
+                    surname: Targaryen
+                value: Aegon Targaryen III
+            rin: MH:I321

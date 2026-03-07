@@ -1,0 +1,6 @@
+events:
+    event-birth-janei-lannister:
+        type: birth
+        participants:
+            - person: person-janei-lannister
+              role: principal

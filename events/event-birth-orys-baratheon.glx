@@ -1,0 +1,6 @@
+events:
+    event-birth-orys-baratheon:
+        type: birth
+        participants:
+            - person: person-orys-baratheon
+              role: principal

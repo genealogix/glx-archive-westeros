@@ -1,0 +1,6 @@
+events:
+    event-birth-zachery-frey:
+        type: birth
+        participants:
+            - person: person-zachery-frey
+              role: principal

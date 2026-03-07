@@ -1,0 +1,6 @@
+events:
+    event-death-cyrenna-swann:
+        type: death
+        participants:
+            - person: person-cyrenna-swann
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-death-hightower-344:
+        type: death
+        participants:
+            - person: person-hightower-344
+              role: principal

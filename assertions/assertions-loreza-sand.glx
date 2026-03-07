@@ -1,0 +1,23 @@
+assertions:
+    assertion-loreza-sand-name:
+        subject:
+            person: person-loreza-sand
+        property: name
+        value: Loreza Sand
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-loreza-sand-gender:
+        subject:
+            person: person-loreza-sand
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

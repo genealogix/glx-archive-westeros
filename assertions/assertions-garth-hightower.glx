@@ -1,0 +1,23 @@
+assertions:
+    assertion-garth-hightower-name:
+        subject:
+            person: person-garth-hightower
+        property: name
+        value: Garth Hightower
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-garth-hightower-gender:
+        subject:
+            person: person-garth-hightower
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

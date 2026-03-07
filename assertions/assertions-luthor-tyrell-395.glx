@@ -1,0 +1,23 @@
+assertions:
+    assertion-luthor-tyrell-395-name:
+        subject:
+            person: person-luthor-tyrell-395
+        property: name
+        value: Ser Luthor Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-luthor-tyrell-395-gender:
+        subject:
+            person: person-luthor-tyrell-395
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

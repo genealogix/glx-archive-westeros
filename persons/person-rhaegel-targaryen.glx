@@ -1,0 +1,10 @@
+persons:
+    person-rhaegel-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Rhaegel
+                    surname: Targaryen
+                value: Rhaegel Targaryen
+            rin: MH:I295

@@ -1,0 +1,6 @@
+events:
+    event-birth-jon-wylde:
+        type: birth
+        participants:
+            - person: person-jon-wylde
+              role: principal

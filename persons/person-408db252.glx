@@ -1,9 +1,0 @@
-persons:
-    person-460:
-        properties:
-            gender: female
-            name:
-                fields:
-                    surname: Tarly
-                value: Tarly
-            rin: MH:I460

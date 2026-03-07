@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rhaella-targaryen-viserys-targaryen-iii:
+        type: parent_child
+        participants:
+            - person: person-rhaella-targaryen
+              role: parent
+            - person: person-viserys-targaryen-iii
+              role: child

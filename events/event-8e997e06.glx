@@ -1,6 +1,0 @@
-events:
-    event-19:
-        type: birth
-        participants:
-            - person: person-16
-              role: principal

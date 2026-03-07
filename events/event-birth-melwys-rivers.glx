@@ -1,0 +1,6 @@
+events:
+    event-birth-melwys-rivers:
+        type: birth
+        participants:
+            - person: person-melwys-rivers
+              role: principal

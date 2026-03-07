@@ -1,0 +1,6 @@
+events:
+    event-birth-lyanna-stark:
+        type: birth
+        participants:
+            - person: person-lyanna-stark
+              role: principal

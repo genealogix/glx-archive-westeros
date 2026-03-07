@@ -1,0 +1,10 @@
+persons:
+    person-hoster-tully:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Hoster
+                    surname: Tully
+                value: Hoster Tully
+            rin: MH:I222

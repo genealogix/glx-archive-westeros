@@ -1,0 +1,6 @@
+events:
+    event-birth-darlessa-marbrand:
+        type: birth
+        participants:
+            - person: person-darlessa-marbrand
+              role: principal

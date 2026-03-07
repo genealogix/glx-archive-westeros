@@ -1,0 +1,23 @@
+assertions:
+    assertion-dorna-swyft-name:
+        subject:
+            person: person-dorna-swyft
+        property: name
+        value: Dorna Swyft
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-dorna-swyft-gender:
+        subject:
+            person: person-dorna-swyft
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,6 @@
+events:
+    event-birth-alysanne-targaryen-the-good:
+        type: birth
+        participants:
+            - person: person-alysanne-targaryen-the-good
+              role: principal

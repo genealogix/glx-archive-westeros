@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-corenna-swann-ryman-frey:
+        type: parent_child
+        participants:
+            - person: person-corenna-swann
+              role: parent
+            - person: person-ryman-frey
+              role: child

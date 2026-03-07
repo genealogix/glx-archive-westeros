@@ -1,0 +1,8 @@
+events:
+    event-death-valarr-targaryen:
+        type: death
+        participants:
+            - person: person-valarr-targaryen
+              role: principal
+        properties:
+            cause: Illness

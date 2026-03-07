@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-florent-axell-florent:
+        type: parent_child
+        participants:
+            - person: person-florent
+              role: parent
+            - person: person-axell-florent
+              role: child

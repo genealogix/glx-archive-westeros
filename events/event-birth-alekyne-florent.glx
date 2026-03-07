@@ -1,0 +1,6 @@
+events:
+    event-birth-alekyne-florent:
+        type: birth
+        participants:
+            - person: person-alekyne-florent
+              role: principal

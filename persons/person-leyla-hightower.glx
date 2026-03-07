@@ -1,0 +1,10 @@
+persons:
+    person-leyla-hightower:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Leyla
+                    surname: Hightower
+                value: Leyla Hightower
+            rin: MH:I419

@@ -1,0 +1,6 @@
+events:
+    event-birth-jon-cupps:
+        type: birth
+        participants:
+            - person: person-jon-cupps
+              role: principal

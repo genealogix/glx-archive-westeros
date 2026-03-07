@@ -1,0 +1,10 @@
+persons:
+    person-benfrey-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Benfrey
+                    surname: Frey
+                value: Benfrey Frey
+            rin: MH:I128

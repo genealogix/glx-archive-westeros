@@ -1,0 +1,23 @@
+assertions:
+    assertion-walder-rivers-name:
+        subject:
+            person: person-walder-rivers
+        property: name
+        value: Walder Rivers
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-walder-rivers-gender:
+        subject:
+            person: person-walder-rivers
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

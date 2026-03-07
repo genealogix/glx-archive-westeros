@@ -1,0 +1,6 @@
+events:
+    event-birth-waynwood-245:
+        type: birth
+        participants:
+            - person: person-waynwood-245
+              role: principal

@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-lucias-vypren-and-lythene-frey:
+        type: marriage
+        participants:
+            - person: person-lucias-vypren
+              role: spouse
+            - person: person-lythene-frey
+              role: spouse
+        properties:
+            marriage_event: event-marriage-lucias-vypren-and-lythene-frey

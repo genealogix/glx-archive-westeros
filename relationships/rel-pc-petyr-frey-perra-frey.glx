@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-petyr-frey-perra-frey:
+        type: parent_child
+        participants:
+            - person: person-petyr-frey
+              role: parent
+            - person: person-perra-frey
+              role: child

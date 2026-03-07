@@ -1,8 +1,0 @@
-events:
-    event-665:
-        type: marriage
-        participants:
-            - person: person-8
-              role: spouse
-            - person: person-11
-              role: spouse

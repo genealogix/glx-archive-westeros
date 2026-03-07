@@ -1,0 +1,23 @@
+assertions:
+    assertion-blackfyre-319-name:
+        subject:
+            person: person-blackfyre-319
+        property: name
+        value: Blackfyre
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-blackfyre-319-gender:
+        subject:
+            person: person-blackfyre-319
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

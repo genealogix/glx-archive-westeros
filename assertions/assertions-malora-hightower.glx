@@ -1,0 +1,23 @@
+assertions:
+    assertion-malora-hightower-name:
+        subject:
+            person: person-malora-hightower
+        property: name
+        value: Malora Hightower
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-malora-hightower-gender:
+        subject:
+            person: person-malora-hightower
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

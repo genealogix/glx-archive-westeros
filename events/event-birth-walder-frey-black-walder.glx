@@ -1,0 +1,6 @@
+events:
+    event-birth-walder-frey-black-walder:
+        type: birth
+        participants:
+            - person: person-walder-frey-black-walder
+              role: principal

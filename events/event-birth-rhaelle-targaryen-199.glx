@@ -1,0 +1,6 @@
+events:
+    event-birth-rhaelle-targaryen-199:
+        type: birth
+        participants:
+            - person: person-rhaelle-targaryen-199
+              role: principal

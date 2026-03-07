@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-emmon-frey-tion-frey:
+        type: parent_child
+        participants:
+            - person: person-emmon-frey
+              role: parent
+            - person: person-tion-frey
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-leonella-lefford-walda-frey-111:
+        type: parent_child
+        participants:
+            - person: person-leonella-lefford
+              role: parent
+            - person: person-walda-frey-111
+              role: child

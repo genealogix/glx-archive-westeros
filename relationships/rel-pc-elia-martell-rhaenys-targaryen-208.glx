@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-elia-martell-rhaenys-targaryen-208:
+        type: parent_child
+        participants:
+            - person: person-elia-martell
+              role: parent
+            - person: person-rhaenys-targaryen-208
+              role: child

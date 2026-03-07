@@ -1,0 +1,23 @@
+assertions:
+    assertion-damon-vypren-name:
+        subject:
+            person: person-damon-vypren
+        property: name
+        value: Damon Vypren
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-damon-vypren-gender:
+        subject:
+            person: person-damon-vypren
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

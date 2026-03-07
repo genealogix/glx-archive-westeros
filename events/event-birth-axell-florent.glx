@@ -1,0 +1,6 @@
+events:
+    event-birth-axell-florent:
+        type: birth
+        participants:
+            - person: person-axell-florent
+              role: principal

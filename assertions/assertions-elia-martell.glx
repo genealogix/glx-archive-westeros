@@ -1,0 +1,23 @@
+assertions:
+    assertion-elia-martell-name:
+        subject:
+            person: person-elia-martell
+        property: name
+        value: Elia Martell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-elia-martell-gender:
+        subject:
+            person: person-elia-martell
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

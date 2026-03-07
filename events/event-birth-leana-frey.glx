@@ -1,0 +1,6 @@
+events:
+    event-birth-leana-frey:
+        type: birth
+        participants:
+            - person: person-leana-frey
+              role: principal

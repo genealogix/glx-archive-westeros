@@ -1,0 +1,6 @@
+events:
+    event-birth-dafyn-vance:
+        type: birth
+        participants:
+            - person: person-dafyn-vance
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-arthur-ambrose:
+        type: birth
+        participants:
+            - person: person-arthur-ambrose
+              role: principal

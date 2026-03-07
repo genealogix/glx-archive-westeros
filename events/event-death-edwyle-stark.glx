@@ -1,0 +1,6 @@
+events:
+    event-death-edwyle-stark:
+        type: death
+        participants:
+            - person: person-edwyle-stark
+              role: principal

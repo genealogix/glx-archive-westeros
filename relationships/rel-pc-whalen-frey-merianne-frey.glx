@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-whalen-frey-merianne-frey:
+        type: parent_child
+        participants:
+            - person: person-whalen-frey
+              role: parent
+            - person: person-merianne-frey
+              role: child

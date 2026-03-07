@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-arryn-341-rhaenyra:
+        type: parent_child
+        participants:
+            - person: person-arryn-341
+              role: parent
+            - person: person-rhaenyra
+              role: child

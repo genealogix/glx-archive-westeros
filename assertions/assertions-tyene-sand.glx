@@ -1,0 +1,23 @@
+assertions:
+    assertion-tyene-sand-name:
+        subject:
+            person: person-tyene-sand
+        property: name
+        value: Tyene Sand
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tyene-sand-gender:
+        subject:
+            person: person-tyene-sand
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

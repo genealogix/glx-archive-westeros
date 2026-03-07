@@ -1,0 +1,23 @@
+assertions:
+    assertion-corenna-swann-name:
+        subject:
+            person: person-corenna-swann
+        property: name
+        value: Corenna Swann
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-corenna-swann-gender:
+        subject:
+            person: person-corenna-swann
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

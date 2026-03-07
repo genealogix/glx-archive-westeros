@@ -1,6 +1,0 @@
-events:
-    event-418:
-        type: death
-        participants:
-            - person: person-324
-              role: principal

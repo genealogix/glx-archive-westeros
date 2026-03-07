@@ -1,0 +1,23 @@
+assertions:
+    assertion-mormont-name:
+        subject:
+            person: person-mormont
+        property: name
+        value: Mormont
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-mormont-gender:
+        subject:
+            person: person-mormont
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

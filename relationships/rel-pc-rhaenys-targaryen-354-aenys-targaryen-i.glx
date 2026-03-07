@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rhaenys-targaryen-354-aenys-targaryen-i:
+        type: parent_child
+        participants:
+            - person: person-rhaenys-targaryen-354
+              role: parent
+            - person: person-aenys-targaryen-i
+              role: child

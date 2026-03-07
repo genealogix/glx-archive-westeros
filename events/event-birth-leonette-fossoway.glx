@@ -1,0 +1,6 @@
+events:
+    event-birth-leonette-fossoway:
+        type: birth
+        participants:
+            - person: person-leonette-fossoway
+              role: principal

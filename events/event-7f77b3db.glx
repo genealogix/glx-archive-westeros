@@ -1,6 +1,0 @@
-events:
-    event-453:
-        type: birth
-        participants:
-            - person: person-342
-              role: principal

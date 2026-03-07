@@ -1,9 +1,0 @@
-persons:
-    person-393:
-        properties:
-            gender: male
-            name:
-                fields:
-                    surname: Tyrell
-                value: Tyrell
-            rin: MH:I393

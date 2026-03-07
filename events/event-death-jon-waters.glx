@@ -1,0 +1,6 @@
+events:
+    event-death-jon-waters:
+        type: death
+        participants:
+            - person: person-jon-waters
+              role: principal

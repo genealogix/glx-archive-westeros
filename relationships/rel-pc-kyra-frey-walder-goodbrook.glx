@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-kyra-frey-walder-goodbrook:
+        type: parent_child
+        participants:
+            - person: person-kyra-frey
+              role: parent
+            - person: person-walder-goodbrook
+              role: child

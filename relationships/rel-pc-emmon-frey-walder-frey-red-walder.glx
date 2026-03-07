@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-emmon-frey-walder-frey-red-walder:
+        type: parent_child
+        participants:
+            - person: person-emmon-frey
+              role: parent
+            - person: person-walder-frey-red-walder
+              role: child

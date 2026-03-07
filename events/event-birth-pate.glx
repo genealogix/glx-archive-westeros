@@ -1,0 +1,6 @@
+events:
+    event-birth-pate:
+        type: birth
+        participants:
+            - person: person-pate
+              role: principal

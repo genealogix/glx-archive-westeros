@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-geremy-frey-sandor-frey:
+        type: parent_child
+        participants:
+            - person: person-geremy-frey
+              role: parent
+            - person: person-sandor-frey
+              role: child

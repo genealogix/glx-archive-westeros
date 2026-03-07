@@ -1,0 +1,6 @@
+events:
+    event-birth-kevan-lannister:
+        type: birth
+        participants:
+            - person: person-kevan-lannister
+              role: principal

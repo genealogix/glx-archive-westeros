@@ -1,0 +1,6 @@
+events:
+    event-birth-kyra-frey:
+        type: birth
+        participants:
+            - person: person-kyra-frey
+              role: principal

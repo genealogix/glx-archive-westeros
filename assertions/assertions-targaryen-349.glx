@@ -1,0 +1,23 @@
+assertions:
+    assertion-targaryen-349-name:
+        subject:
+            person: person-targaryen-349
+        property: name
+        value: Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-targaryen-349-gender:
+        subject:
+            person: person-targaryen-349
+        property: gender
+        value: unknown
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

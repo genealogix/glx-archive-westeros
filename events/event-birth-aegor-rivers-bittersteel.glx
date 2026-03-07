@@ -1,0 +1,6 @@
+events:
+    event-birth-aegor-rivers-bittersteel:
+        type: birth
+        participants:
+            - person: person-aegor-rivers-bittersteel
+              role: principal

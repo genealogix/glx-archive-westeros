@@ -1,0 +1,8 @@
+relationships:
+    rel-marriage-jaime-lannister-and-cersei-lannister:
+        type: marriage
+        participants:
+            - person: person-jaime-lannister
+              role: spouse
+            - person: person-cersei-lannister
+              role: spouse

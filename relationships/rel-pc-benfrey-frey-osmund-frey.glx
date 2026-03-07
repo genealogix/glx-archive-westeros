@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-benfrey-frey-osmund-frey:
+        type: parent_child
+        participants:
+            - person: person-benfrey-frey
+              role: parent
+            - person: person-osmund-frey
+              role: child

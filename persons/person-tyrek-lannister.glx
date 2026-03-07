@@ -1,0 +1,10 @@
+persons:
+    person-tyrek-lannister:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tyrek
+                    surname: Lannister
+                value: Tyrek Lannister
+            rin: MH:I177

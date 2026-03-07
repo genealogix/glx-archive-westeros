@@ -1,0 +1,23 @@
+assertions:
+    assertion-sallei-paege-name:
+        subject:
+            person: person-sallei-paege
+        property: name
+        value: Sallei Paege
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-sallei-paege-gender:
+        subject:
+            person: person-sallei-paege
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

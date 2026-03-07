@@ -1,0 +1,23 @@
+assertions:
+    assertion-walder-frey-big-walder-name:
+        subject:
+            person: person-walder-frey-big-walder
+        property: name
+        value: "Walder 'Big Walder' Frey"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-walder-frey-big-walder-gender:
+        subject:
+            person: person-walder-frey-big-walder
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

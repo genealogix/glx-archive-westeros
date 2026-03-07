@@ -1,0 +1,6 @@
+events:
+    event-birth-jeyne-waters:
+        type: birth
+        participants:
+            - person: person-jeyne-waters
+              role: principal

@@ -1,0 +1,8 @@
+events:
+    event-marriage-stark-465-and-unknown-467:
+        type: marriage
+        participants:
+            - person: person-stark-465
+              role: spouse
+            - person: person-unknown-467
+              role: spouse

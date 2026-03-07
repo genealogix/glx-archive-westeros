@@ -1,0 +1,8 @@
+events:
+    event-death-olyvar-martell:
+        type: death
+        participants:
+            - person: person-olyvar-martell
+              role: principal
+        properties:
+            cause: At young age

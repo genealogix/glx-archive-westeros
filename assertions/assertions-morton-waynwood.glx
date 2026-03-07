@@ -1,0 +1,23 @@
+assertions:
+    assertion-morton-waynwood-name:
+        subject:
+            person: person-morton-waynwood
+        property: name
+        value: Morton Waynwood
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-morton-waynwood-gender:
+        subject:
+            person: person-morton-waynwood
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

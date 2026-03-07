@@ -1,0 +1,23 @@
+assertions:
+    assertion-perwyn-frey-name:
+        subject:
+            person: person-perwyn-frey
+        property: name
+        value: Perwyn Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-perwyn-frey-gender:
+        subject:
+            person: person-perwyn-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,23 @@
+assertions:
+    assertion-baelor-hightower-name:
+        subject:
+            person: person-baelor-hightower
+        property: name
+        value: Baelor Hightower
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-baelor-hightower-gender:
+        subject:
+            person: person-baelor-hightower
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,6 @@
+events:
+    event-birth-dayne-482:
+        type: birth
+        participants:
+            - person: person-dayne-482
+              role: principal

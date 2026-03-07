@@ -1,0 +1,23 @@
+assertions:
+    assertion-edric-storm-name:
+        subject:
+            person: person-edric-storm
+        property: name
+        value: Edric Storm
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-edric-storm-gender:
+        subject:
+            person: person-edric-storm
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

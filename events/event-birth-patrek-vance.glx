@@ -1,0 +1,6 @@
+events:
+    event-birth-patrek-vance:
+        type: birth
+        participants:
+            - person: person-patrek-vance
+              role: principal

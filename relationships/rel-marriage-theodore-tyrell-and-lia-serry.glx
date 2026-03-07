@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-theodore-tyrell-and-lia-serry:
+        type: marriage
+        participants:
+            - person: person-theodore-tyrell
+              role: spouse
+            - person: person-lia-serry
+              role: spouse
+        properties:
+            marriage_event: event-marriage-theodore-tyrell-and-lia-serry

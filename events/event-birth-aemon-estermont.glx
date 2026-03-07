@@ -1,0 +1,6 @@
+events:
+    event-birth-aemon-estermont:
+        type: birth
+        participants:
+            - person: person-aemon-estermont
+              role: principal

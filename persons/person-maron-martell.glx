@@ -1,0 +1,10 @@
+persons:
+    person-maron-martell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Maron
+                    surname: Martell
+                value: Maron Martell
+            rin: MH:I305

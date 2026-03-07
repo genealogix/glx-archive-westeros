@@ -1,0 +1,6 @@
+events:
+    event-birth-baelor-targaryen-breakspear:
+        type: birth
+        participants:
+            - person: person-baelor-targaryen-breakspear
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-alerie-hightower:
+        type: birth
+        participants:
+            - person: person-alerie-hightower
+              role: principal

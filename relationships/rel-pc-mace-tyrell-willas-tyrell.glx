@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mace-tyrell-willas-tyrell:
+        type: parent_child
+        participants:
+            - person: person-mace-tyrell
+              role: parent
+            - person: person-willas-tyrell
+              role: child

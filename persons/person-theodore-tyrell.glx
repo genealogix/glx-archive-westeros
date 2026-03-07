@@ -1,0 +1,11 @@
+persons:
+    person-theodore-tyrell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Theodore
+                    prefix: Ser
+                    surname: Tyrell
+                value: Ser Theodore Tyrell
+            rin: MH:I399

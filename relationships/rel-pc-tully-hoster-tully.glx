@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-tully-hoster-tully:
+        type: parent_child
+        participants:
+            - person: person-tully
+              role: parent
+            - person: person-hoster-tully
+              role: child

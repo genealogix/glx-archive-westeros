@@ -1,0 +1,6 @@
+events:
+    event-birth-walton-frey:
+        type: birth
+        participants:
+            - person: person-walton-frey
+              role: principal

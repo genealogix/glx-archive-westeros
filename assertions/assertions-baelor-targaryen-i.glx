@@ -1,0 +1,23 @@
+assertions:
+    assertion-baelor-targaryen-i-name:
+        subject:
+            person: person-baelor-targaryen-i
+        property: name
+        value: Baelor Targaryen I
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-baelor-targaryen-i-gender:
+        subject:
+            person: person-baelor-targaryen-i
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

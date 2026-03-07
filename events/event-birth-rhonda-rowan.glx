@@ -1,0 +1,6 @@
+events:
+    event-birth-rhonda-rowan:
+        type: birth
+        participants:
+            - person: person-rhonda-rowan
+              role: principal

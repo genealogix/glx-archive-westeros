@@ -1,0 +1,23 @@
+assertions:
+    assertion-leonella-lefford-name:
+        subject:
+            person: person-leonella-lefford
+        property: name
+        value: Leonella Lefford
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-leonella-lefford-gender:
+        subject:
+            person: person-leonella-lefford
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

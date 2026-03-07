@@ -1,0 +1,6 @@
+events:
+    event-death-velaryon:
+        type: death
+        participants:
+            - person: person-velaryon
+              role: principal

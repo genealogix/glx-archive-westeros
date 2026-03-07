@@ -1,0 +1,6 @@
+events:
+    event-birth-jyanna-frey:
+        type: birth
+        participants:
+            - person: person-jyanna-frey
+              role: principal

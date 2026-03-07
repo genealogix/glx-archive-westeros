@@ -1,0 +1,6 @@
+events:
+    event-birth-sandor-frey:
+        type: birth
+        participants:
+            - person: person-sandor-frey
+              role: principal

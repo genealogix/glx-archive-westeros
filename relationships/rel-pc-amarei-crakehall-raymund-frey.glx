@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-amarei-crakehall-raymund-frey:
+        type: parent_child
+        participants:
+            - person: person-amarei-crakehall
+              role: parent
+            - person: person-raymund-frey
+              role: child

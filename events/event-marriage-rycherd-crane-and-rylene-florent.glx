@@ -1,0 +1,8 @@
+events:
+    event-marriage-rycherd-crane-and-rylene-florent:
+        type: marriage
+        participants:
+            - person: person-rycherd-crane
+              role: spouse
+            - person: person-rylene-florent
+              role: spouse

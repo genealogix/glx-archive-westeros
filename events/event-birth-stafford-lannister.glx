@@ -1,0 +1,6 @@
+events:
+    event-birth-stafford-lannister:
+        type: birth
+        participants:
+            - person: person-stafford-lannister
+              role: principal

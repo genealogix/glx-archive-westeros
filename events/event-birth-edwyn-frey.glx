@@ -1,0 +1,6 @@
+events:
+    event-birth-edwyn-frey:
+        type: birth
+        participants:
+            - person: person-edwyn-frey
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-maegelle-frey-name:
+        subject:
+            person: person-maegelle-frey
+        property: name
+        value: Maegelle Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-maegelle-frey-gender:
+        subject:
+            person: person-maegelle-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

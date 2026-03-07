@@ -1,0 +1,8 @@
+events:
+    event-death-minisa-whent:
+        type: death
+        participants:
+            - person: person-minisa-whent
+              role: principal
+        properties:
+            cause: Maternal Death

@@ -1,0 +1,6 @@
+events:
+    event-birth-flint:
+        type: birth
+        participants:
+            - person: person-flint
+              role: principal

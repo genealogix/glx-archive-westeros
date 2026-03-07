@@ -1,0 +1,23 @@
+assertions:
+    assertion-robert-brax-122-name:
+        subject:
+            person: person-robert-brax-122
+        property: name
+        value: Robert Brax
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-robert-brax-122-gender:
+        subject:
+            person: person-robert-brax-122
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

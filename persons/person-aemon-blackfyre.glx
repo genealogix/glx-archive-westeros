@@ -1,0 +1,10 @@
+persons:
+    person-aemon-blackfyre:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aemon
+                    surname: Blackfyre
+                value: Aemon Blackfyre
+            rin: MH:I314

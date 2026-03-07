@@ -1,0 +1,10 @@
+persons:
+    person-garse-goodbrook:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Garse
+                    surname: Goodbrook
+                value: Garse Goodbrook
+            rin: MH:I58

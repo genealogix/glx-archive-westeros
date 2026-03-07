@@ -1,0 +1,23 @@
+assertions:
+    assertion-alester-norcross-name:
+        subject:
+            person: person-alester-norcross
+        property: name
+        value: Alester Norcross
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-alester-norcross-gender:
+        subject:
+            person: person-alester-norcross
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+persons:
+    person-aegon-blackfyre:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegon
+                    surname: Blackfyre
+                value: Aegon Blackfyre
+            rin: MH:I313

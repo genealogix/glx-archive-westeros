@@ -1,0 +1,6 @@
+events:
+    event-birth-colin-florent:
+        type: birth
+        participants:
+            - person: person-colin-florent
+              role: principal

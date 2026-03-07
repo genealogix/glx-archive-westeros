@@ -1,0 +1,23 @@
+assertions:
+    assertion-erren-florent-name:
+        subject:
+            person: person-erren-florent
+        property: name
+        value: Ser Erren Florent
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-erren-florent-gender:
+        subject:
+            person: person-erren-florent
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

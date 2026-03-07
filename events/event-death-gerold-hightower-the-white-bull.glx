@@ -1,0 +1,9 @@
+events:
+    event-death-gerold-hightower-the-white-bull:
+        type: death
+        participants:
+            - person: person-gerold-hightower-the-white-bull
+              role: principal
+        properties:
+            cause: At War
+            event_subtype: WAR

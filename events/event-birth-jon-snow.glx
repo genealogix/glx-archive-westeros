@@ -1,0 +1,6 @@
+events:
+    event-birth-jon-snow:
+        type: birth
+        participants:
+            - person: person-jon-snow
+              role: principal

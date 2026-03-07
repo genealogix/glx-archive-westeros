@@ -1,0 +1,9 @@
+sources:
+    source-twoiaf:
+        title: "The World of Ice and Fire"
+        type: companion
+        properties:
+            author: "George R.R. Martin, Elio M. Garcia Jr., Linda Antonsson"
+            published: "2014"
+            isbn: "978-0553805444"
+        repository: repository-asoiaf-novels

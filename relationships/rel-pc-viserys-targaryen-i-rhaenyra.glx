@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-viserys-targaryen-i-rhaenyra:
+        type: parent_child
+        participants:
+            - person: person-viserys-targaryen-i
+              role: parent
+            - person: person-rhaenyra
+              role: child

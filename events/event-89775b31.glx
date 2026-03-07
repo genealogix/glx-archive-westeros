@@ -1,8 +1,0 @@
-events:
-    event-311:
-        type: death
-        participants:
-            - person: person-261
-              role: principal
-        properties:
-            cause: At young age

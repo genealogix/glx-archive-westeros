@@ -1,0 +1,23 @@
+assertions:
+    assertion-jon-arryn-name:
+        subject:
+            person: person-jon-arryn
+        property: name
+        value: Jon Arryn
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jon-arryn-gender:
+        subject:
+            person: person-jon-arryn
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

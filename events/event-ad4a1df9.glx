@@ -1,6 +1,0 @@
-events:
-    event-61:
-        type: death
-        participants:
-            - person: person-52
-              role: principal

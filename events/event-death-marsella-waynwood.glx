@@ -1,0 +1,8 @@
+events:
+    event-death-marsella-waynwood:
+        type: death
+        participants:
+            - person: person-marsella-waynwood
+              role: principal
+        properties:
+            cause: Maternal Death

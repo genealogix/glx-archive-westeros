@@ -1,0 +1,23 @@
+assertions:
+    assertion-renly-baratheon-name:
+        subject:
+            person: person-renly-baratheon
+        property: name
+        value: Renly Baratheon
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-renly-baratheon-gender:
+        subject:
+            person: person-renly-baratheon
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

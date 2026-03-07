@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-alyssa-blackwood-morya-frey:
+        type: parent_child
+        participants:
+            - person: person-alyssa-blackwood
+              role: parent
+            - person: person-morya-frey
+              role: child

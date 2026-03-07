@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-merrett-frey-amerei-frey-gatehouse-ami:
+        type: parent_child
+        participants:
+            - person: person-merrett-frey
+              role: parent
+            - person: person-amerei-frey-gatehouse-ami
+              role: child

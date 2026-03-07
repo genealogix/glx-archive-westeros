@@ -1,0 +1,6 @@
+events:
+    event-birth-lysa-tully:
+        type: birth
+        participants:
+            - person: person-lysa-tully
+              role: principal

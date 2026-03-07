@@ -1,0 +1,10 @@
+persons:
+    person-loreza-sand:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Loreza
+                    surname: Sand
+                value: Loreza Sand
+            rin: MH:I272

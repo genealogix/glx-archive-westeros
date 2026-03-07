@@ -1,0 +1,10 @@
+persons:
+    person-jeyne-waters:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Waters
+                value: Jeyne Waters
+            rin: MH:I338

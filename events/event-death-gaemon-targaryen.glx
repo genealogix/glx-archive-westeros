@@ -1,0 +1,6 @@
+events:
+    event-death-gaemon-targaryen:
+        type: death
+        participants:
+            - person: person-gaemon-targaryen
+              role: principal

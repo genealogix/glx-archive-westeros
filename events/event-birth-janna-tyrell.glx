@@ -1,0 +1,6 @@
+events:
+    event-birth-janna-tyrell:
+        type: birth
+        participants:
+            - person: person-janna-tyrell
+              role: principal

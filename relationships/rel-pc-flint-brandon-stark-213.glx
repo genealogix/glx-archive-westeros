@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-flint-brandon-stark-213:
+        type: parent_child
+        participants:
+            - person: person-flint
+              role: parent
+            - person: person-brandon-stark-213
+              role: child

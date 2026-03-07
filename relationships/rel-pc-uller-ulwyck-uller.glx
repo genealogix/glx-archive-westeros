@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-uller-ulwyck-uller:
+        type: parent_child
+        participants:
+            - person: person-uller
+              role: parent
+            - person: person-ulwyck-uller
+              role: child

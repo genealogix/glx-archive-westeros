@@ -1,0 +1,23 @@
+assertions:
+    assertion-brax-name:
+        subject:
+            person: person-brax
+        property: name
+        value: Brax
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-brax-gender:
+        subject:
+            person: person-brax
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

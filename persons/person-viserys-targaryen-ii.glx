@@ -1,0 +1,11 @@
+persons:
+    person-viserys-targaryen-ii:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Viserys
+                    suffix: II
+                    surname: Targaryen
+                value: Viserys Targaryen II
+            rin: MH:I306

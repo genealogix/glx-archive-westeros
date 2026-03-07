@@ -1,0 +1,6 @@
+events:
+    event-birth-myrcella-baratheon:
+        type: birth
+        participants:
+            - person: person-myrcella-baratheon
+              role: principal

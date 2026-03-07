@@ -1,0 +1,6 @@
+events:
+    event-birth-zia-frey:
+        type: birth
+        participants:
+            - person: person-zia-frey
+              role: principal

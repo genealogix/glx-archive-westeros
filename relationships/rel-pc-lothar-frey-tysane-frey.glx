@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lothar-frey-tysane-frey:
+        type: parent_child
+        participants:
+            - person: person-lothar-frey
+              role: parent
+            - person: person-tysane-frey
+              role: child

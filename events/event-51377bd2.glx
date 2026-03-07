@@ -1,8 +1,0 @@
-events:
-    event-723:
-        type: marriage
-        participants:
-            - person: person-235
-              role: spouse
-            - person: person-234
-              role: spouse

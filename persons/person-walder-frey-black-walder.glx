@@ -1,0 +1,10 @@
+persons:
+    person-walder-frey-black-walder:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walder 'Black Walder'
+                    surname: Frey
+                value: Walder 'Black Walder' Frey
+            rin: MH:I9

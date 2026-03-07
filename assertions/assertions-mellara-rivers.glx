@@ -1,0 +1,23 @@
+assertions:
+    assertion-mellara-rivers-name:
+        subject:
+            person: person-mellara-rivers
+        property: name
+        value: Mellara Rivers
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-mellara-rivers-gender:
+        subject:
+            person: person-mellara-rivers
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

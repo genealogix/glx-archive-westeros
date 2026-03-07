@@ -1,0 +1,23 @@
+assertions:
+    assertion-walton-frey-name:
+        subject:
+            person: person-walton-frey
+        property: name
+        value: Walton Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-walton-frey-gender:
+        subject:
+            person: person-walton-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

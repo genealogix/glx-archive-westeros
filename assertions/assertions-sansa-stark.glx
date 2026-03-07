@@ -1,0 +1,23 @@
+assertions:
+    assertion-sansa-stark-name:
+        subject:
+            person: person-sansa-stark
+        property: name
+        value: Sansa Stark
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-sansa-stark-gender:
+        subject:
+            person: person-sansa-stark
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

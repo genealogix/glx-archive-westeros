@@ -1,0 +1,10 @@
+persons:
+    person-baelon-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Baelon
+                    surname: Targaryen
+                value: Baelon Targaryen
+            rin: MH:I367

@@ -1,0 +1,6 @@
+events:
+    event-birth-tyene-sand:
+        type: birth
+        participants:
+            - person: person-tyene-sand
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-jaehaerys-targaryen-i-the-conciliator-name:
+        subject:
+            person: person-jaehaerys-targaryen-i-the-conciliator
+        property: name
+        value: "Jaehaerys 'The Conciliator' Targaryen I"
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jaehaerys-targaryen-i-the-conciliator-gender:
+        subject:
+            person: person-jaehaerys-targaryen-i-the-conciliator
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

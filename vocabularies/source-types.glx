@@ -63,6 +63,32 @@ source_types:
     label: "Photograph Collection"
     description: "Photo collections"
   
+  # === ASOIAF Custom Source Types ===
+
+  novel:
+    label: "Novel"
+    description: "Published novel in the ASOIAF series"
+
+  companion:
+    label: "Companion Volume"
+    description: "Published companion or reference book (TWOIAF, Fire & Blood)"
+
+  television:
+    label: "Television Series"
+    description: "TV adaptation episode"
+
+  wiki:
+    label: "Wiki"
+    description: "Fan-maintained wiki reference (AWOIAF, Fandom)"
+
+  author_statement:
+    label: "Author Statement"
+    description: "Direct statement from George R.R. Martin (So Spake Martin)"
+
+  digital_record:
+    label: "Digital Record"
+    description: "Digitally compiled record or family tree export"
+
   other:
     label: "Other"
     description: "Other source types"

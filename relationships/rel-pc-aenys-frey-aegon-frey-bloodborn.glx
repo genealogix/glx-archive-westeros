@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aenys-frey-aegon-frey-bloodborn:
+        type: parent_child
+        participants:
+            - person: person-aenys-frey
+              role: parent
+            - person: person-aegon-frey-bloodborn
+              role: child

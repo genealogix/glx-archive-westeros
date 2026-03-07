@@ -1,0 +1,8 @@
+events:
+    event-marriage-walton-frey-and-deana-hardyng:
+        type: marriage
+        participants:
+            - person: person-walton-frey
+              role: spouse
+            - person: person-deana-hardyng
+              role: spouse

@@ -1,0 +1,23 @@
+assertions:
+    assertion-flint-name:
+        subject:
+            person: person-flint
+        property: name
+        value: Flint
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-flint-gender:
+        subject:
+            person: person-flint
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-elyana-vypren-rickard-wylde:
+        type: parent_child
+        participants:
+            - person: person-elyana-vypren
+              role: parent
+            - person: person-rickard-wylde
+              role: child

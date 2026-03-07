@@ -1,0 +1,6 @@
+events:
+    event-death-redwyne:
+        type: death
+        participants:
+            - person: person-redwyne
+              role: principal

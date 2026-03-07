@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-ryam-florent-erren-florent:
+        type: parent_child
+        participants:
+            - person: person-ryam-florent
+              role: parent
+            - person: person-erren-florent
+              role: child

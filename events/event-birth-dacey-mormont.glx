@@ -1,0 +1,6 @@
+events:
+    event-birth-dacey-mormont:
+        type: birth
+        participants:
+            - person: person-dacey-mormont
+              role: principal

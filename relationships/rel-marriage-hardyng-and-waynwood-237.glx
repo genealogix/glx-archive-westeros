@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-hardyng-and-waynwood-237:
+        type: marriage
+        participants:
+            - person: person-hardyng
+              role: spouse
+            - person: person-waynwood-237
+              role: spouse
+        properties:
+            marriage_event: event-marriage-hardyng-and-waynwood-237

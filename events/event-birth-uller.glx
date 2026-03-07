@@ -1,0 +1,6 @@
+events:
+    event-birth-uller:
+        type: birth
+        participants:
+            - person: person-uller
+              role: principal

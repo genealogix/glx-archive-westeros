@@ -1,0 +1,10 @@
+persons:
+    person-merianne-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Merianne
+                    surname: Frey
+                value: Merianne Frey
+            rin: MH:I120

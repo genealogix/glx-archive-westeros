@@ -1,0 +1,11 @@
+persons:
+    person-jaehaerys-targaryen-i-the-conciliator:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jaehaerys 'The Conciliator'
+                    suffix: I
+                    surname: Targaryen
+                value: Jaehaerys 'The Conciliator' Targaryen I
+            rin: MH:I350

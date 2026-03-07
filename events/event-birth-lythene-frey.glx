@@ -1,0 +1,6 @@
+events:
+    event-birth-lythene-frey:
+        type: birth
+        participants:
+            - person: person-lythene-frey
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-lyanna-mormont:
+        type: birth
+        participants:
+            - person: person-lyanna-mormont
+              role: principal

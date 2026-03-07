@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-kyra-frey-jeyne-goodbrook:
+        type: parent_child
+        participants:
+            - person: person-kyra-frey
+              role: parent
+            - person: person-jeyne-goodbrook
+              role: child

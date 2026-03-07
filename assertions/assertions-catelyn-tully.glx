@@ -1,0 +1,23 @@
+assertions:
+    assertion-catelyn-tully-name:
+        subject:
+            person: person-catelyn-tully
+        property: name
+        value: Catelyn Tully
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-catelyn-tully-gender:
+        subject:
+            person: person-catelyn-tully
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

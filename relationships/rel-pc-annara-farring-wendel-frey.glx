@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-annara-farring-wendel-frey:
+        type: parent_child
+        participants:
+            - person: person-annara-farring
+              role: parent
+            - person: person-wendel-frey
+              role: child

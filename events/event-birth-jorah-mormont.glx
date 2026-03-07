@@ -1,0 +1,6 @@
+events:
+    event-birth-jorah-mormont:
+        type: birth
+        participants:
+            - person: person-jorah-mormont
+              role: principal

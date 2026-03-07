@@ -1,0 +1,6 @@
+events:
+    event-birth-merrett-frey:
+        type: birth
+        participants:
+            - person: person-merrett-frey
+              role: principal

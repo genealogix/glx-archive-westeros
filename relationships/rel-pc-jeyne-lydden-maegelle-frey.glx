@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-jeyne-lydden-maegelle-frey:
+        type: parent_child
+        participants:
+            - person: person-jeyne-lydden
+              role: parent
+            - person: person-maegelle-frey
+              role: child

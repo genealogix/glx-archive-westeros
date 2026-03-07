@@ -1,0 +1,23 @@
+assertions:
+    assertion-visenya-targaryen-name:
+        subject:
+            person: person-visenya-targaryen
+        property: name
+        value: Visenya Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-visenya-targaryen-gender:
+        subject:
+            person: person-visenya-targaryen
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

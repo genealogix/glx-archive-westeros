@@ -1,0 +1,8 @@
+events:
+    event-marriage-tygett-lannister-and-darlessa-marbrand-705:
+        type: event
+        participants:
+            - person: person-tygett-lannister
+              role: spouse
+            - person: person-darlessa-marbrand
+              role: spouse

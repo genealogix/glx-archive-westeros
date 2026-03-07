@@ -1,0 +1,23 @@
+assertions:
+    assertion-hostella-frey-name:
+        subject:
+            person: person-hostella-frey
+        property: name
+        value: Hostella Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-hostella-frey-gender:
+        subject:
+            person: person-hostella-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

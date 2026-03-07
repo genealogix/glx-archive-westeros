@@ -1,0 +1,10 @@
+persons:
+    person-arianne-martell:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Arianne
+                    surname: Martell
+                value: Arianne Martell
+            rin: MH:I277

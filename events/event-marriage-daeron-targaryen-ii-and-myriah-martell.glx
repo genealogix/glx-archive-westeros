@@ -1,0 +1,8 @@
+events:
+    event-marriage-daeron-targaryen-ii-and-myriah-martell:
+        type: marriage
+        participants:
+            - person: person-daeron-targaryen-ii
+              role: spouse
+            - person: person-myriah-martell
+              role: spouse

@@ -1,0 +1,23 @@
+assertions:
+    assertion-tysane-frey-name:
+        subject:
+            person: person-tysane-frey
+        property: name
+        value: Tysane Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-tysane-frey-gender:
+        subject:
+            person: person-tysane-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

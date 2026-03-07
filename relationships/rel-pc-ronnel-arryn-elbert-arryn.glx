@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-ronnel-arryn-elbert-arryn:
+        type: parent_child
+        participants:
+            - person: person-ronnel-arryn
+              role: parent
+            - person: person-elbert-arryn
+              role: child

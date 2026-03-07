@@ -1,0 +1,6 @@
+events:
+    event-birth-daven-lannister:
+        type: birth
+        participants:
+            - person: person-daven-lannister
+              role: principal

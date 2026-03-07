@@ -1,0 +1,6 @@
+events:
+    event-death-harbert-baratheon:
+        type: death
+        participants:
+            - person: person-harbert-baratheon
+              role: principal

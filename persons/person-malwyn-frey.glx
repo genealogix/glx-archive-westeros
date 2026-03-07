@@ -1,0 +1,10 @@
+persons:
+    person-malwyn-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Malwyn
+                    surname: Frey
+                value: Malwyn Frey
+            rin: MH:I97

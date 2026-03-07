@@ -1,0 +1,8 @@
+events:
+    event-marriage-stevron-frey-and-corenna-swann:
+        type: marriage
+        participants:
+            - person: person-stevron-frey
+              role: spouse
+            - person: person-corenna-swann
+              role: spouse

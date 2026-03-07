@@ -1,0 +1,6 @@
+events:
+    event-birth-allyria-dayne:
+        type: birth
+        participants:
+            - person: person-allyria-dayne
+              role: principal

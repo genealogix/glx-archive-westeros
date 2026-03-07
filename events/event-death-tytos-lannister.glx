@@ -1,0 +1,8 @@
+events:
+    event-death-tytos-lannister:
+        type: death
+        participants:
+            - person: person-tytos-lannister
+              role: principal
+        properties:
+            cause: Heart Attack

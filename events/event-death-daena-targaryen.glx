@@ -1,0 +1,6 @@
+events:
+    event-death-daena-targaryen:
+        type: death
+        participants:
+            - person: person-daena-targaryen
+              role: principal

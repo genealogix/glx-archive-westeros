@@ -1,0 +1,23 @@
+assertions:
+    assertion-walder-goodbrook-name:
+        subject:
+            person: person-walder-goodbrook
+        property: name
+        value: Walder Goodbrook
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-walder-goodbrook-gender:
+        subject:
+            person: person-walder-goodbrook
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

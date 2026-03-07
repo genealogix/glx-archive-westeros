@@ -1,9 +1,0 @@
-events:
-    event-235:
-        type: death
-        place: place-2
-        participants:
-            - person: person-209
-              role: principal
-        properties:
-            cause: Homicide

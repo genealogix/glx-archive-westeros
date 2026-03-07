@@ -1,0 +1,10 @@
+persons:
+    person-rycherd-crane:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Rycherd
+                    surname: Crane
+                value: Rycherd Crane
+            rin: MH:I451

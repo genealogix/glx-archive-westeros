@@ -1,0 +1,10 @@
+persons:
+    person-daenerys-targaryen-304:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Daenerys
+                    surname: Targaryen
+                value: Daenerys Targaryen
+            rin: MH:I304

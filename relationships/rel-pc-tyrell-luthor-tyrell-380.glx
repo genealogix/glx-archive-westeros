@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-tyrell-luthor-tyrell-380:
+        type: parent_child
+        participants:
+            - person: person-tyrell
+              role: parent
+            - person: person-luthor-tyrell-380
+              role: child

@@ -1,0 +1,23 @@
+assertions:
+    assertion-whalen-frey-name:
+        subject:
+            person: person-whalen-frey
+        property: name
+        value: Whalen Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-whalen-frey-gender:
+        subject:
+            person: person-whalen-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

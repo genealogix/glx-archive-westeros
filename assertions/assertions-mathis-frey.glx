@@ -1,0 +1,23 @@
+assertions:
+    assertion-mathis-frey-name:
+        subject:
+            person: person-mathis-frey
+        property: name
+        value: Mathis Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-mathis-frey-gender:
+        subject:
+            person: person-mathis-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,23 @@
+assertions:
+    assertion-luthor-tyrell-404-name:
+        subject:
+            person: person-luthor-tyrell-404
+        property: name
+        value: Luthor Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-luthor-tyrell-404-gender:
+        subject:
+            person: person-luthor-tyrell-404
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,23 @@
+assertions:
+    assertion-obella-sand-name:
+        subject:
+            person: person-obella-sand
+        property: name
+        value: Obella Sand
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-obella-sand-gender:
+        subject:
+            person: person-obella-sand
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

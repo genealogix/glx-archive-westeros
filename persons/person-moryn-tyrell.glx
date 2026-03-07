@@ -1,0 +1,11 @@
+persons:
+    person-moryn-tyrell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Moryn
+                    prefix: Ser
+                    surname: Tyrell
+                value: Ser Moryn Tyrell
+            rin: MH:I384

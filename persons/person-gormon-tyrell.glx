@@ -1,0 +1,11 @@
+persons:
+    person-gormon-tyrell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Gormon
+                    prefix: Maester
+                    surname: Tyrell
+                value: Maester Gormon Tyrell
+            rin: MH:I385

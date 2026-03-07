@@ -1,0 +1,10 @@
+persons:
+    person-jeyne-royce:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Royce
+                value: Jeyne Royce
+            rin: MH:I228

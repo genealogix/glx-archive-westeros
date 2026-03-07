@@ -1,0 +1,8 @@
+events:
+    event-marriage-walder-frey-and-amarei-crakehall:
+        type: marriage
+        participants:
+            - person: person-walder-frey
+              role: spouse
+            - person: person-amarei-crakehall
+              role: spouse

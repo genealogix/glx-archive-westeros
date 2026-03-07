@@ -1,0 +1,10 @@
+persons:
+    person-aenar-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aenar
+                    surname: Targaryen
+                value: Aenar Targaryen
+            rin: MH:I373

@@ -1,0 +1,9 @@
+persons:
+    person-arryn-474:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Arryn
+                value: Arryn
+            rin: MH:I474

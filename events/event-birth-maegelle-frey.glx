@@ -1,0 +1,6 @@
+events:
+    event-birth-maegelle-frey:
+        type: birth
+        participants:
+            - person: person-maegelle-frey
+              role: principal

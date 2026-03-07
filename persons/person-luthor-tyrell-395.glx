@@ -1,0 +1,11 @@
+persons:
+    person-luthor-tyrell-395:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Luthor
+                    prefix: Ser
+                    surname: Tyrell
+                value: Ser Luthor Tyrell
+            rin: MH:I395

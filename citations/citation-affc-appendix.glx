@@ -1,0 +1,7 @@
+citations:
+    citation-affc-appendix:
+        source: source-affc
+        properties:
+            locator: "Appendix"
+            accessed: "2013-05-31"
+        notes: "Updated appendix with house listings after events of AFFC"

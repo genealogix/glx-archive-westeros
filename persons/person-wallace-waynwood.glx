@@ -1,0 +1,10 @@
+persons:
+    person-wallace-waynwood:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Wallace
+                    surname: Waynwood
+                value: Wallace Waynwood
+            rin: MH:I254

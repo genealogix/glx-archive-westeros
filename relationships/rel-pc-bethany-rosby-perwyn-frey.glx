@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-bethany-rosby-perwyn-frey:
+        type: parent_child
+        participants:
+            - person: person-bethany-rosby
+              role: parent
+            - person: person-perwyn-frey
+              role: child

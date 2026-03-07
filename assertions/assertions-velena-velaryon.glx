@@ -1,0 +1,23 @@
+assertions:
+    assertion-velena-velaryon-name:
+        subject:
+            person: person-velena-velaryon
+        property: name
+        value: Velena Velaryon
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-velena-velaryon-gender:
+        subject:
+            person: person-velena-velaryon
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

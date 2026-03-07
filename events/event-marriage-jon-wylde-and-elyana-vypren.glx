@@ -1,0 +1,8 @@
+events:
+    event-marriage-jon-wylde-and-elyana-vypren:
+        type: marriage
+        participants:
+            - person: person-jon-wylde
+              role: spouse
+            - person: person-elyana-vypren
+              role: spouse

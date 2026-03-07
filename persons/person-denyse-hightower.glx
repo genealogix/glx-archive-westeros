@@ -1,0 +1,10 @@
+persons:
+    person-denyse-hightower:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Denyse
+                    surname: Hightower
+                value: Denyse Hightower
+            rin: MH:I412

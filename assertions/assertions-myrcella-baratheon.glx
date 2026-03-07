@@ -1,0 +1,23 @@
+assertions:
+    assertion-myrcella-baratheon-name:
+        subject:
+            person: person-myrcella-baratheon
+        property: name
+        value: Myrcella Baratheon
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-myrcella-baratheon-gender:
+        subject:
+            person: person-myrcella-baratheon
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

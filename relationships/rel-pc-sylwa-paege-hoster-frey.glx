@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-sylwa-paege-hoster-frey:
+        type: parent_child
+        participants:
+            - person: person-sylwa-paege
+              role: parent
+            - person: person-hoster-frey
+              role: child

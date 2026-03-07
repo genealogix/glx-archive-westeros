@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-colin-florent-omer-florent:
+        type: parent_child
+        participants:
+            - person: person-colin-florent
+              role: parent
+            - person: person-omer-florent
+              role: child

@@ -1,0 +1,23 @@
+assertions:
+    assertion-haegon-blackfyre-name:
+        subject:
+            person: person-haegon-blackfyre
+        property: name
+        value: Haegon Blackfyre
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-haegon-blackfyre-gender:
+        subject:
+            person: person-haegon-blackfyre
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

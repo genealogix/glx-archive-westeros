@@ -1,0 +1,23 @@
+assertions:
+    assertion-jeyne-fossoway-name:
+        subject:
+            person: person-jeyne-fossoway
+        property: name
+        value: Jeyne Fossoway
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jeyne-fossoway-gender:
+        subject:
+            person: person-jeyne-fossoway
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

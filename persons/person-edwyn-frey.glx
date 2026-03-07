@@ -1,0 +1,10 @@
+persons:
+    person-edwyn-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Edwyn
+                    surname: Frey
+                value: Edwyn Frey
+            rin: MH:I8

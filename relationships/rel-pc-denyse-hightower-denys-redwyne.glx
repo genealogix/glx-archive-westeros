@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-denyse-hightower-denys-redwyne:
+        type: parent_child
+        participants:
+            - person: person-denyse-hightower
+              role: parent
+            - person: person-denys-redwyne
+              role: child

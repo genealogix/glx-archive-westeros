@@ -1,0 +1,10 @@
+persons:
+    person-emberlei-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Emberlei
+                    surname: Frey
+                value: Emberlei Frey
+            rin: MH:I112

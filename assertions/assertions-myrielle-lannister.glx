@@ -1,0 +1,23 @@
+assertions:
+    assertion-myrielle-lannister-name:
+        subject:
+            person: person-myrielle-lannister
+        property: name
+        value: Myrielle Lannister
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-myrielle-lannister-gender:
+        subject:
+            person: person-myrielle-lannister
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

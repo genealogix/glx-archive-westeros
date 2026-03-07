@@ -1,0 +1,23 @@
+assertions:
+    assertion-waynwood-237-name:
+        subject:
+            person: person-waynwood-237
+        property: name
+        value: Waynwood
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-waynwood-237-gender:
+        subject:
+            person: person-waynwood-237
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

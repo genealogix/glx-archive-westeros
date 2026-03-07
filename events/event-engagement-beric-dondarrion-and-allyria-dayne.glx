@@ -1,0 +1,8 @@
+events:
+    event-engagement-beric-dondarrion-and-allyria-dayne:
+        type: engagement
+        participants:
+            - person: person-beric-dondarrion
+              role: spouse
+            - person: person-allyria-dayne
+              role: spouse

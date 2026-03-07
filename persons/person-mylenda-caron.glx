@@ -1,0 +1,10 @@
+persons:
+    person-mylenda-caron:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Mylenda
+                    surname: Caron
+                value: Mylenda Caron
+            rin: MH:I13

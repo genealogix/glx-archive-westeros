@@ -1,0 +1,23 @@
+assertions:
+    assertion-serra-frey-name:
+        subject:
+            person: person-serra-frey
+        property: name
+        value: Serra Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-serra-frey-gender:
+        subject:
+            person: person-serra-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

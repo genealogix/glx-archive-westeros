@@ -1,8 +1,0 @@
-events:
-    event-46:
-        type: death
-        participants:
-            - person: person-39
-              role: principal
-        properties:
-            cause: Illness

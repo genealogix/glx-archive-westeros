@@ -1,0 +1,10 @@
+persons:
+    person-myrcella-baratheon:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Myrcella
+                    surname: Baratheon
+                value: Myrcella Baratheon
+            rin: MH:I169

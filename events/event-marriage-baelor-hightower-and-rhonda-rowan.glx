@@ -1,0 +1,8 @@
+events:
+    event-marriage-baelor-hightower-and-rhonda-rowan:
+        type: marriage
+        participants:
+            - person: person-baelor-hightower
+              role: spouse
+            - person: person-rhonda-rowan
+              role: spouse

@@ -1,0 +1,6 @@
+events:
+    event-birth-tion-frey:
+        type: birth
+        participants:
+            - person: person-tion-frey
+              role: principal

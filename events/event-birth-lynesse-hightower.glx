@@ -1,0 +1,6 @@
+events:
+    event-birth-lynesse-hightower:
+        type: birth
+        participants:
+            - person: person-lynesse-hightower
+              role: principal

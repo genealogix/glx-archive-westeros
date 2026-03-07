@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-luthor-tyrell-380-janna-tyrell:
+        type: parent_child
+        participants:
+            - person: person-luthor-tyrell-380
+              role: parent
+            - person: person-janna-tyrell
+              role: child

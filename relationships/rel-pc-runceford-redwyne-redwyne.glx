@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-runceford-redwyne-redwyne:
+        type: parent_child
+        participants:
+            - person: person-runceford-redwyne
+              role: parent
+            - person: person-redwyne
+              role: child

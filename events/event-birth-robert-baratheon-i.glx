@@ -1,0 +1,6 @@
+events:
+    event-birth-robert-baratheon-i:
+        type: birth
+        participants:
+            - person: person-robert-baratheon-i
+              role: principal

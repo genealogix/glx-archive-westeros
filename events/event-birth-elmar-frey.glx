@@ -1,0 +1,6 @@
+events:
+    event-birth-elmar-frey:
+        type: birth
+        participants:
+            - person: person-elmar-frey
+              role: principal

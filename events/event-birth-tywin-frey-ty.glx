@@ -1,0 +1,6 @@
+events:
+    event-birth-tywin-frey-ty:
+        type: birth
+        participants:
+            - person: person-tywin-frey-ty
+              role: principal

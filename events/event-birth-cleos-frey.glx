@@ -1,0 +1,6 @@
+events:
+    event-birth-cleos-frey:
+        type: birth
+        participants:
+            - person: person-cleos-frey
+              role: principal

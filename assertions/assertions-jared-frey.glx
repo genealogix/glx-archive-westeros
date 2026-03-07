@@ -1,0 +1,23 @@
+assertions:
+    assertion-jared-frey-name:
+        subject:
+            person: person-jared-frey
+        property: name
+        value: Jared Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jared-frey-gender:
+        subject:
+            person: person-jared-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

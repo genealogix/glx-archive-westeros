@@ -1,0 +1,6 @@
+events:
+    event-birth-maege-mormont:
+        type: birth
+        participants:
+            - person: person-maege-mormont
+              role: principal

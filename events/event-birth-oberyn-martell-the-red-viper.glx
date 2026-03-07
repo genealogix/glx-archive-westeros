@@ -1,0 +1,6 @@
+events:
+    event-birth-oberyn-martell-the-red-viper:
+        type: birth
+        participants:
+            - person: person-oberyn-martell-the-red-viper
+              role: principal

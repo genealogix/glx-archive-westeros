@@ -1,0 +1,11 @@
+persons:
+    person-aemon-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aemon
+                    prefix: Maester
+                    surname: Targaryen
+                value: Maester Aemon Targaryen
+            rin: MH:I287

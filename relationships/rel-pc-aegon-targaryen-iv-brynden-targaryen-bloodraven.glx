@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aegon-targaryen-iv-brynden-targaryen-bloodraven:
+        type: parent_child
+        participants:
+            - person: person-aegon-targaryen-iv
+              role: parent
+            - person: person-brynden-targaryen-bloodraven
+              role: child

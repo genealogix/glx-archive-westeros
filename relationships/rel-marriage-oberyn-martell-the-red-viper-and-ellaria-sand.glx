@@ -1,0 +1,8 @@
+relationships:
+    rel-marriage-oberyn-martell-the-red-viper-and-ellaria-sand:
+        type: marriage
+        participants:
+            - person: person-oberyn-martell-the-red-viper
+              role: spouse
+            - person: person-ellaria-sand
+              role: spouse

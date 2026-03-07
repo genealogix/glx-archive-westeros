@@ -1,0 +1,6 @@
+events:
+    event-birth-leo-tyrell-the-lazy:
+        type: birth
+        participants:
+            - person: person-leo-tyrell-the-lazy
+              role: principal

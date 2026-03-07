@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-jon-arryn-robert-arryn:
+        type: parent_child
+        participants:
+            - person: person-jon-arryn
+              role: parent
+            - person: person-robert-arryn
+              role: child

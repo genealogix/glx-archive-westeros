@@ -1,0 +1,10 @@
+persons:
+    person-paxter-redwyne:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Paxter
+                    surname: Redwyne
+                value: Paxter Redwyne
+            rin: MH:I389

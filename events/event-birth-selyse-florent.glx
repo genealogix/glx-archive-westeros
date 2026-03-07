@@ -1,0 +1,6 @@
+events:
+    event-birth-selyse-florent:
+        type: birth
+        participants:
+            - person: person-selyse-florent
+              role: principal

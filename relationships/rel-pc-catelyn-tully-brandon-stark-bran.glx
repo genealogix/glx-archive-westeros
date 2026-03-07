@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-catelyn-tully-brandon-stark-bran:
+        type: parent_child
+        participants:
+            - person: person-catelyn-tully
+              role: parent
+            - person: person-brandon-stark-bran
+              role: child

@@ -1,0 +1,10 @@
+persons:
+    person-stevron-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Stevron
+                    surname: Frey
+                value: Stevron Frey
+            rin: MH:I3

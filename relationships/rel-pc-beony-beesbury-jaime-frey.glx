@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-beony-beesbury-jaime-frey:
+        type: parent_child
+        participants:
+            - person: person-beony-beesbury
+              role: parent
+            - person: person-jaime-frey
+              role: child

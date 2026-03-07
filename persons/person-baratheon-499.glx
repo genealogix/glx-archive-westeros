@@ -1,0 +1,9 @@
+persons:
+    person-baratheon-499:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Baratheon
+                value: Baratheon
+            rin: MH:I499

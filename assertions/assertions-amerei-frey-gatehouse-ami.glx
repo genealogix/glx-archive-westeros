@@ -1,0 +1,23 @@
+assertions:
+    assertion-amerei-frey-gatehouse-ami-name:
+        subject:
+            person: person-amerei-frey-gatehouse-ami
+        property: name
+        value: "Amerei 'Gatehouse Ami' Frey"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-amerei-frey-gatehouse-ami-gender:
+        subject:
+            person: person-amerei-frey-gatehouse-ami
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

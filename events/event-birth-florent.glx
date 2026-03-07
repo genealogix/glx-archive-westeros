@@ -1,0 +1,6 @@
+events:
+    event-birth-florent:
+        type: birth
+        participants:
+            - person: person-florent
+              role: principal

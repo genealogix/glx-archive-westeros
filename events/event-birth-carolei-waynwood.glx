@@ -1,0 +1,6 @@
+events:
+    event-birth-carolei-waynwood:
+        type: birth
+        participants:
+            - person: person-carolei-waynwood
+              role: principal

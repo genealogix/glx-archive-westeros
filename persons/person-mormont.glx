@@ -1,0 +1,9 @@
+persons:
+    person-mormont:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Mormont
+                value: Mormont
+            rin: MH:I429

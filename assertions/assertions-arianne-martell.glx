@@ -1,0 +1,23 @@
+assertions:
+    assertion-arianne-martell-name:
+        subject:
+            person: person-arianne-martell
+        property: name
+        value: Arianne Martell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-arianne-martell-gender:
+        subject:
+            person: person-arianne-martell
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

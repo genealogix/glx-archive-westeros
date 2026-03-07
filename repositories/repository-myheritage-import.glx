@@ -1,0 +1,9 @@
+repositories:
+    repository-myheritage-import:
+        name: "MyHeritage Family Tree Builder Export"
+        type: digital_archive
+        properties:
+            software: "MyHeritage Family Tree Builder 7.0"
+            export_format: "GEDCOM 5.5"
+            export_date: "31 MAY 2013"
+        notes: "Original GEDCOM export from MyHeritage, imported to GLX format."

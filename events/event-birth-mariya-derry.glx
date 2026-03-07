@@ -1,0 +1,6 @@
+events:
+    event-birth-mariya-derry:
+        type: birth
+        participants:
+            - person: person-mariya-derry
+              role: principal

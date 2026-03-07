@@ -1,0 +1,23 @@
+assertions:
+    assertion-willem-lannister-name:
+        subject:
+            person: person-willem-lannister
+        property: name
+        value: Willem Lannister
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-willem-lannister-gender:
+        subject:
+            person: person-willem-lannister
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

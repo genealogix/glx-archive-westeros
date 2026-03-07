@@ -1,8 +1,0 @@
-events:
-    event-766:
-        type: event
-        participants:
-            - person: person-423
-              role: spouse
-            - person: person-422
-              role: spouse

@@ -1,0 +1,6 @@
+events:
+    event-birth-emberlei-frey:
+        type: birth
+        participants:
+            - person: person-emberlei-frey
+              role: principal

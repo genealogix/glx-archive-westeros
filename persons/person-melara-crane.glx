@@ -1,0 +1,10 @@
+persons:
+    person-melara-crane:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Melara
+                    surname: Crane
+                value: Melara Crane
+            rin: MH:I448

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-blackfyre-317-maelys-blackfyre-the-monstrous:
+        type: parent_child
+        participants:
+            - person: person-blackfyre-317
+              role: parent
+            - person: person-maelys-blackfyre-the-monstrous
+              role: child

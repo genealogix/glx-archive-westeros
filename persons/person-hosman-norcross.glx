@@ -1,0 +1,10 @@
+persons:
+    person-hosman-norcross:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Hosman
+                    surname: Norcross
+                value: Hosman Norcross
+            rin: MH:I454

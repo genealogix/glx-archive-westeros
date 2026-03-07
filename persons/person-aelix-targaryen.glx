@@ -1,0 +1,10 @@
+persons:
+    person-aelix-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aelix
+                    surname: Targaryen
+                value: Aelix Targaryen
+            rin: MH:I366

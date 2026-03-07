@@ -1,0 +1,8 @@
+events:
+    event-marriage-viserys-targaryen-i-and-arryn-341:
+        type: marriage
+        participants:
+            - person: person-viserys-targaryen-i
+              role: spouse
+            - person: person-arryn-341
+              role: spouse

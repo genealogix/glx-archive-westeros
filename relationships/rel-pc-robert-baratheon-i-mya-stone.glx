@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-robert-baratheon-i-mya-stone:
+        type: parent_child
+        participants:
+            - person: person-robert-baratheon-i
+              role: parent
+            - person: person-mya-stone
+              role: child

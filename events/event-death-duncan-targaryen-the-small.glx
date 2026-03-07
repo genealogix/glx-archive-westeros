@@ -1,0 +1,6 @@
+events:
+    event-death-duncan-targaryen-the-small:
+        type: death
+        participants:
+            - person: person-duncan-targaryen-the-small
+              role: principal

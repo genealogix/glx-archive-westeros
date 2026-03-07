@@ -1,0 +1,23 @@
+assertions:
+    assertion-cersei-frey-name:
+        subject:
+            person: person-cersei-frey
+        property: name
+        value: Cersei Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-cersei-frey-gender:
+        subject:
+            person: person-cersei-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

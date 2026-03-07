@@ -1,0 +1,6 @@
+events:
+    event-birth-ronel-rivers:
+        type: birth
+        participants:
+            - person: person-ronel-rivers
+              role: principal

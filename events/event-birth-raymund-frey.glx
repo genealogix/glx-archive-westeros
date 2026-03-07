@@ -1,0 +1,6 @@
+events:
+    event-birth-raymund-frey:
+        type: birth
+        participants:
+            - person: person-raymund-frey
+              role: principal

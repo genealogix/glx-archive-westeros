@@ -1,0 +1,23 @@
+assertions:
+    assertion-aegon-frey-jinglebell-name:
+        subject:
+            person: person-aegon-frey-jinglebell
+        property: name
+        value: "Aegon 'Jinglebell' Frey"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aegon-frey-jinglebell-gender:
+        subject:
+            person: person-aegon-frey-jinglebell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

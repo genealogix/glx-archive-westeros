@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-gaemon-targaryen-aegon-targaryen:
+        type: parent_child
+        participants:
+            - person: person-gaemon-targaryen
+              role: parent
+            - person: person-aegon-targaryen
+              role: child

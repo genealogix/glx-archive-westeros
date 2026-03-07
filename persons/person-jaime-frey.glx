@@ -1,0 +1,10 @@
+persons:
+    person-jaime-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jaime
+                    surname: Frey
+                value: Jaime Frey
+            rin: MH:I102

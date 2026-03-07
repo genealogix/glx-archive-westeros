@@ -1,0 +1,6 @@
+events:
+    event-birth-leslyn-haigh:
+        type: birth
+        participants:
+            - person: person-leslyn-haigh
+              role: principal

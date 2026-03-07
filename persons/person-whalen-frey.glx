@@ -1,0 +1,10 @@
+persons:
+    person-whalen-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Whalen
+                    surname: Frey
+                value: Whalen Frey
+            rin: MH:I106

@@ -1,0 +1,6 @@
+events:
+    event-birth-lucias-vypren:
+        type: birth
+        participants:
+            - person: person-lucias-vypren
+              role: principal

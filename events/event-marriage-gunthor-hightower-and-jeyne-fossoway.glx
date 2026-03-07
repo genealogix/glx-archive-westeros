@@ -1,0 +1,8 @@
+events:
+    event-marriage-gunthor-hightower-and-jeyne-fossoway:
+        type: marriage
+        participants:
+            - person: person-gunthor-hightower
+              role: spouse
+            - person: person-jeyne-fossoway
+              role: spouse

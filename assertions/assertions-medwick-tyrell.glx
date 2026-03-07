@@ -1,0 +1,23 @@
+assertions:
+    assertion-medwick-tyrell-name:
+        subject:
+            person: person-medwick-tyrell
+        property: name
+        value: Maester Medwick Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-medwick-tyrell-gender:
+        subject:
+            person: person-medwick-tyrell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

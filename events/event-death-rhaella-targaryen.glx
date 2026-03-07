@@ -1,0 +1,8 @@
+events:
+    event-death-rhaella-targaryen:
+        type: death
+        participants:
+            - person: person-rhaella-targaryen
+              role: principal
+        properties:
+            cause: Maternal Death

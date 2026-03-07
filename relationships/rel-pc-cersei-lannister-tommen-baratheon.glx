@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-cersei-lannister-tommen-baratheon:
+        type: parent_child
+        participants:
+            - person: person-cersei-lannister
+              role: parent
+            - person: person-tommen-baratheon
+              role: child

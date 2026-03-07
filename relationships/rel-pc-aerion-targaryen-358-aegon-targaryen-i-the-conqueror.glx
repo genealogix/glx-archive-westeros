@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aerion-targaryen-358-aegon-targaryen-i-the-conqueror:
+        type: parent_child
+        participants:
+            - person: person-aerion-targaryen-358
+              role: parent
+            - person: person-aegon-targaryen-i-the-conqueror
+              role: child

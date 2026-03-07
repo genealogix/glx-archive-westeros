@@ -1,0 +1,6 @@
+events:
+    event-birth-lothar-frey:
+        type: birth
+        participants:
+            - person: person-lothar-frey
+              role: principal

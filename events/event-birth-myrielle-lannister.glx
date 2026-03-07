@@ -1,0 +1,6 @@
+events:
+    event-birth-myrielle-lannister:
+        type: birth
+        participants:
+            - person: person-myrielle-lannister
+              role: principal

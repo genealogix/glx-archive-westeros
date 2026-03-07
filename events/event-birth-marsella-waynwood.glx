@@ -1,0 +1,6 @@
+events:
+    event-birth-marsella-waynwood:
+        type: birth
+        participants:
+            - person: person-marsella-waynwood
+              role: principal

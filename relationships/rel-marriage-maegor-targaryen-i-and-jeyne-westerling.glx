@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-maegor-targaryen-i-and-jeyne-westerling:
+        type: marriage
+        participants:
+            - person: person-maegor-targaryen-i
+              role: spouse
+            - person: person-jeyne-westerling
+              role: spouse
+        properties:
+            marriage_event: event-marriage-maegor-targaryen-i-and-jeyne-westerling

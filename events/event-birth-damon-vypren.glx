@@ -1,0 +1,6 @@
+events:
+    event-birth-damon-vypren:
+        type: birth
+        participants:
+            - person: person-damon-vypren
+              role: principal

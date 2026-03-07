@@ -1,0 +1,6 @@
+events:
+    event-birth-targaryen-296:
+        type: birth
+        participants:
+            - person: person-targaryen-296
+              role: principal

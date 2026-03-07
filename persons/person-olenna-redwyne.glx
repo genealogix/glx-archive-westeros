@@ -1,0 +1,10 @@
+persons:
+    person-olenna-redwyne:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Olenna
+                    surname: Redwyne
+                value: Olenna Redwyne
+            rin: MH:I382

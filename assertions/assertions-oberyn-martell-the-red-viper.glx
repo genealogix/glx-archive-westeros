@@ -1,0 +1,23 @@
+assertions:
+    assertion-oberyn-martell-the-red-viper-name:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: name
+        value: "Oberyn 'The Red Viper' Martell"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-oberyn-martell-the-red-viper-gender:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

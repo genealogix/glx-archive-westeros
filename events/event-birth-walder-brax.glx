@@ -1,0 +1,6 @@
+events:
+    event-birth-walder-brax:
+        type: birth
+        participants:
+            - person: person-walder-brax
+              role: principal

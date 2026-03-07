@@ -1,0 +1,6 @@
+events:
+    event-death-maelys-blackfyre-the-monstrous:
+        type: death
+        participants:
+            - person: person-maelys-blackfyre-the-monstrous
+              role: principal

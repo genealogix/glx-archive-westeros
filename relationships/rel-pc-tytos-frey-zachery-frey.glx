@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-tytos-frey-zachery-frey:
+        type: parent_child
+        participants:
+            - person: person-tytos-frey
+              role: parent
+            - person: person-zachery-frey
+              role: child

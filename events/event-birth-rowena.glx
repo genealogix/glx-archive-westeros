@@ -1,0 +1,6 @@
+events:
+    event-birth-rowena:
+        type: birth
+        participants:
+            - person: person-rowena
+              role: principal

@@ -1,0 +1,10 @@
+persons:
+    person-alysanne-hightower:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Alysanne
+                    surname: Hightower
+                value: Alysanne Hightower
+            rin: MH:I410

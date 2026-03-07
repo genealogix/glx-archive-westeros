@@ -1,0 +1,6 @@
+events:
+    event-birth-arwyn-frey:
+        type: birth
+        participants:
+            - person: person-arwyn-frey
+              role: principal

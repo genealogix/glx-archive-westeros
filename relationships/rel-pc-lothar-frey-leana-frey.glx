@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lothar-frey-leana-frey:
+        type: parent_child
+        participants:
+            - person: person-lothar-frey
+              role: parent
+            - person: person-leana-frey
+              role: child

@@ -1,0 +1,6 @@
+events:
+    event-birth-ryella-royce:
+        type: birth
+        participants:
+            - person: person-ryella-royce
+              role: principal

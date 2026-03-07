@@ -1,0 +1,6 @@
+events:
+    event-birth-gormon-tyrell:
+        type: birth
+        participants:
+            - person: person-gormon-tyrell
+              role: principal

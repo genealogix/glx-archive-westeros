@@ -1,0 +1,6 @@
+events:
+    event-birth-ulwyck-uller:
+        type: birth
+        participants:
+            - person: person-ulwyck-uller
+              role: principal

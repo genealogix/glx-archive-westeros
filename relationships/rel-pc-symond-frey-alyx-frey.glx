@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-symond-frey-alyx-frey:
+        type: parent_child
+        participants:
+            - person: person-symond-frey
+              role: parent
+            - person: person-alyx-frey
+              role: child

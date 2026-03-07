@@ -1,0 +1,6 @@
+events:
+    event-birth-amarei-crakehall:
+        type: birth
+        participants:
+            - person: person-amarei-crakehall
+              role: principal

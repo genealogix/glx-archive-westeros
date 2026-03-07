@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lannister-179-lannister-181:
+        type: parent_child
+        participants:
+            - person: person-lannister-179
+              role: parent
+            - person: person-lannister-181
+              role: child

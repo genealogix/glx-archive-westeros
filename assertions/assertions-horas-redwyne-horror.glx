@@ -1,0 +1,23 @@
+assertions:
+    assertion-horas-redwyne-horror-name:
+        subject:
+            person: person-horas-redwyne-horror
+        property: name
+        value: "Horas 'Horror' Redwyne"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-horas-redwyne-horror-gender:
+        subject:
+            person: person-horas-redwyne-horror
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

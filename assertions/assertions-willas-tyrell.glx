@@ -1,0 +1,23 @@
+assertions:
+    assertion-willas-tyrell-name:
+        subject:
+            person: person-willas-tyrell
+        property: name
+        value: Willas Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-willas-tyrell-gender:
+        subject:
+            person: person-willas-tyrell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

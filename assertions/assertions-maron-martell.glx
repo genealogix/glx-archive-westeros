@@ -1,0 +1,23 @@
+assertions:
+    assertion-maron-martell-name:
+        subject:
+            person: person-maron-martell
+        property: name
+        value: Maron Martell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-maron-martell-gender:
+        subject:
+            person: person-maron-martell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,23 @@
+assertions:
+    assertion-jon-waters-name:
+        subject:
+            person: person-jon-waters
+        property: name
+        value: Ser Jon Waters
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jon-waters-gender:
+        subject:
+            person: person-jon-waters
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

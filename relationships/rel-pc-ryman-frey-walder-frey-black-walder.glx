@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-ryman-frey-walder-frey-black-walder:
+        type: parent_child
+        participants:
+            - person: person-ryman-frey
+              role: parent
+            - person: person-walder-frey-black-walder
+              role: child

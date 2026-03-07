@@ -1,0 +1,6 @@
+events:
+    event-birth-jonos-frey:
+        type: birth
+        participants:
+            - person: person-jonos-frey
+              role: principal

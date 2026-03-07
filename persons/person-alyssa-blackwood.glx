@@ -1,0 +1,10 @@
+persons:
+    person-alyssa-blackwood:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Alyssa
+                    surname: Blackwood
+                value: Alyssa Blackwood
+            rin: MH:I103

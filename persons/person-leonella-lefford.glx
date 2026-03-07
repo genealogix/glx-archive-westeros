@@ -1,0 +1,10 @@
+persons:
+    person-leonella-lefford:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Leonella
+                    surname: Lefford
+                value: Leonella Lefford
+            rin: MH:I109

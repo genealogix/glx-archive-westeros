@@ -1,0 +1,6 @@
+events:
+    event-birth-jaime-frey:
+        type: birth
+        participants:
+            - person: person-jaime-frey
+              role: principal

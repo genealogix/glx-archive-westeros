@@ -1,0 +1,8 @@
+events:
+    event-marriage-garlan-tyrell-and-leonette-fossoway:
+        type: marriage
+        participants:
+            - person: person-garlan-tyrell
+              role: spouse
+            - person: person-leonette-fossoway
+              role: spouse

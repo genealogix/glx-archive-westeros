@@ -1,0 +1,8 @@
+events:
+    event-death-baelor-targaryen-breakspear:
+        type: death
+        participants:
+            - person: person-baelor-targaryen-breakspear
+              role: principal
+        properties:
+            cause: Accident

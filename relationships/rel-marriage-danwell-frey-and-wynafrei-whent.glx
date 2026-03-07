@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-danwell-frey-and-wynafrei-whent:
+        type: marriage
+        participants:
+            - person: person-danwell-frey
+              role: spouse
+            - person: person-wynafrei-whent
+              role: spouse
+        properties:
+            marriage_event: event-marriage-danwell-frey-and-wynafrei-whent

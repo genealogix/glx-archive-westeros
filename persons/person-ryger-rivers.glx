@@ -1,0 +1,10 @@
+persons:
+    person-ryger-rivers:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Ryger
+                    surname: Rivers
+                value: Ryger Rivers
+            rin: MH:I148

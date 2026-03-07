@@ -1,0 +1,10 @@
+persons:
+    person-arthur-ambrose:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Arthur
+                    surname: Ambrose
+                value: Arthur Ambrose
+            rin: MH:I411

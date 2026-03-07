@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-raymund-frey-and-beony-beesbury:
+        type: marriage
+        participants:
+            - person: person-raymund-frey
+              role: spouse
+            - person: person-beony-beesbury
+              role: spouse
+        properties:
+            marriage_event: event-marriage-raymund-frey-and-beony-beesbury

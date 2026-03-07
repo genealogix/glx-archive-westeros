@@ -1,0 +1,6 @@
+events:
+    event-birth-tytos-brax:
+        type: birth
+        participants:
+            - person: person-tytos-brax
+              role: principal

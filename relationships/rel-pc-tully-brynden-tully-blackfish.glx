@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-tully-brynden-tully-blackfish:
+        type: parent_child
+        participants:
+            - person: person-tully
+              role: parent
+            - person: person-brynden-tully-blackfish
+              role: child

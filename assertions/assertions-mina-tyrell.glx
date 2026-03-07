@@ -1,0 +1,23 @@
+assertions:
+    assertion-mina-tyrell-name:
+        subject:
+            person: person-mina-tyrell
+        property: name
+        value: Mina Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-mina-tyrell-gender:
+        subject:
+            person: person-mina-tyrell
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

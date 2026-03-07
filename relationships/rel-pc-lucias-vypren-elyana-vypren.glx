@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lucias-vypren-elyana-vypren:
+        type: parent_child
+        participants:
+            - person: person-lucias-vypren
+              role: parent
+            - person: person-elyana-vypren
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-daemon-blackfyre-aegon-blackfyre:
+        type: parent_child
+        participants:
+            - person: person-daemon-blackfyre
+              role: parent
+            - person: person-aegon-blackfyre
+              role: child

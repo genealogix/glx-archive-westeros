@@ -1,0 +1,6 @@
+events:
+    event-birth-runceford-redwyne:
+        type: birth
+        participants:
+            - person: person-runceford-redwyne
+              role: principal

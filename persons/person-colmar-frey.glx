@@ -1,0 +1,10 @@
+persons:
+    person-colmar-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Colmar
+                    surname: Frey
+                value: Colmar Frey
+            rin: MH:I138

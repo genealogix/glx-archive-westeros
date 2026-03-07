@@ -1,0 +1,6 @@
+events:
+    event-birth-robb-stark:
+        type: birth
+        participants:
+            - person: person-robb-stark
+              role: principal

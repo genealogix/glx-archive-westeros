@@ -1,0 +1,6 @@
+events:
+    event-birth-renly-baratheon:
+        type: birth
+        participants:
+            - person: person-renly-baratheon
+              role: principal

@@ -1,0 +1,12 @@
+assertions:
+    assertion-unknown-467-gender:
+        subject:
+            person: person-unknown-467
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

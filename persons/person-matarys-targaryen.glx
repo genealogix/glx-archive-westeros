@@ -1,0 +1,10 @@
+persons:
+    person-matarys-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Matarys
+                    surname: Targaryen
+                value: Matarys Targaryen
+            rin: MH:I299

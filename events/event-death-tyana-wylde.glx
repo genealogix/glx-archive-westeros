@@ -1,0 +1,8 @@
+events:
+    event-death-tyana-wylde:
+        type: death
+        participants:
+            - person: person-tyana-wylde
+              role: principal
+        properties:
+            cause: Maternal Death

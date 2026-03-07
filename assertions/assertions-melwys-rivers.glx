@@ -1,0 +1,23 @@
+assertions:
+    assertion-melwys-rivers-name:
+        subject:
+            person: person-melwys-rivers
+        property: name
+        value: Melwys Rivers
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-melwys-rivers-gender:
+        subject:
+            person: person-melwys-rivers
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

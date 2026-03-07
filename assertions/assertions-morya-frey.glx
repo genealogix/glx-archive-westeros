@@ -1,0 +1,23 @@
+assertions:
+    assertion-morya-frey-name:
+        subject:
+            person: person-morya-frey
+        property: name
+        value: Morya Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-morya-frey-gender:
+        subject:
+            person: person-morya-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,6 @@
+events:
+    event-birth-mors-martell:
+        type: birth
+        participants:
+            - person: person-mors-martell
+              role: principal

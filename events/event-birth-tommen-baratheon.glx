@@ -1,0 +1,6 @@
+events:
+    event-birth-tommen-baratheon:
+        type: birth
+        participants:
+            - person: person-tommen-baratheon
+              role: principal

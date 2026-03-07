@@ -1,0 +1,6 @@
+events:
+    event-birth-robert-frey-96:
+        type: birth
+        participants:
+            - person: person-robert-frey-96
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-hardyng-name:
+        subject:
+            person: person-hardyng
+        property: name
+        value: Ser Hardyng
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-hardyng-gender:
+        subject:
+            person: person-hardyng
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

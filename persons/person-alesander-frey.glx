@@ -1,0 +1,10 @@
+persons:
+    person-alesander-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Alesander
+                    surname: Frey
+                value: Alesander Frey
+            rin: MH:I82

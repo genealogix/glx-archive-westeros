@@ -1,0 +1,10 @@
+persons:
+    person-trystane-martell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Trystane
+                    surname: Martell
+                value: Trystane Martell
+            rin: MH:I279

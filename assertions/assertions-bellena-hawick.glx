@@ -1,0 +1,23 @@
+assertions:
+    assertion-bellena-hawick-name:
+        subject:
+            person: person-bellena-hawick
+        property: name
+        value: Bellena Hawick
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-bellena-hawick-gender:
+        subject:
+            person: person-bellena-hawick
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

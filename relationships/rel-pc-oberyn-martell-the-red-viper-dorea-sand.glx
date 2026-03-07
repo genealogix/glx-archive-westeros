@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-oberyn-martell-the-red-viper-dorea-sand:
+        type: parent_child
+        participants:
+            - person: person-oberyn-martell-the-red-viper
+              role: parent
+            - person: person-dorea-sand
+              role: child

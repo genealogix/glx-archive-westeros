@@ -1,0 +1,23 @@
+assertions:
+    assertion-dayne-483-name:
+        subject:
+            person: person-dayne-483
+        property: name
+        value: Dayne
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-dayne-483-gender:
+        subject:
+            person: person-dayne-483
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

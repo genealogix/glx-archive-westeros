@@ -1,0 +1,8 @@
+events:
+    event-death-lyanna-stark:
+        type: death
+        participants:
+            - person: person-lyanna-stark
+              role: principal
+        properties:
+            cause: Maternal Death

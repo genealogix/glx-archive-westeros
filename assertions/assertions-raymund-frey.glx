@@ -1,0 +1,23 @@
+assertions:
+    assertion-raymund-frey-name:
+        subject:
+            person: person-raymund-frey
+        property: name
+        value: Raymund Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-raymund-frey-gender:
+        subject:
+            person: person-raymund-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

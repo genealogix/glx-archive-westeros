@@ -1,0 +1,8 @@
+events:
+    event-marriage-royce-470-and-stark-469:
+        type: marriage
+        participants:
+            - person: person-royce-470
+              role: spouse
+            - person: person-stark-469
+              role: spouse

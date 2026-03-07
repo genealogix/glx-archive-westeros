@@ -1,0 +1,8 @@
+events:
+    event-death-ronnel-arryn:
+        type: death
+        participants:
+            - person: person-ronnel-arryn
+              role: principal
+        properties:
+            cause: Illness

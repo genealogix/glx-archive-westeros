@@ -1,0 +1,9 @@
+persons:
+    person-velaryon:
+        properties:
+            gender: female
+            name:
+                fields:
+                    surname: Velaryon
+                value: Velaryon
+            rin: MH:I322

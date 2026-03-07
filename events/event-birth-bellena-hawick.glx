@@ -1,0 +1,6 @@
+events:
+    event-birth-bellena-hawick:
+        type: birth
+        participants:
+            - person: person-bellena-hawick
+              role: principal

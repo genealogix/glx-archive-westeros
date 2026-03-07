@@ -1,0 +1,10 @@
+persons:
+    person-jeyne-lydden:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Lydden
+                value: Jeyne Lydden
+            rin: MH:I15

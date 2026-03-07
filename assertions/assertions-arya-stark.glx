@@ -1,0 +1,23 @@
+assertions:
+    assertion-arya-stark-name:
+        subject:
+            person: person-arya-stark
+        property: name
+        value: Arya Stark
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-arya-stark-gender:
+        subject:
+            person: person-arya-stark
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

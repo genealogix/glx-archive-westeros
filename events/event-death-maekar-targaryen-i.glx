@@ -1,0 +1,6 @@
+events:
+    event-death-maekar-targaryen-i:
+        type: death
+        participants:
+            - person: person-maekar-targaryen-i
+              role: principal

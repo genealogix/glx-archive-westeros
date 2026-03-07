@@ -1,0 +1,23 @@
+assertions:
+    assertion-aegon-targaryen-vi-name:
+        subject:
+            person: person-aegon-targaryen-vi
+        property: name
+        value: Aegon Targaryen VI
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aegon-targaryen-vi-gender:
+        subject:
+            person: person-aegon-targaryen-vi
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

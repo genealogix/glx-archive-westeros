@@ -1,0 +1,9 @@
+events:
+    event-death-rickard-stark:
+        type: death
+        place: place-kings-landing
+        participants:
+            - person: person-rickard-stark
+              role: principal
+        properties:
+            cause: Homicide

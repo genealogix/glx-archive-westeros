@@ -1,0 +1,10 @@
+persons:
+    person-obella-sand:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Obella
+                    surname: Sand
+                value: Obella Sand
+            rin: MH:I270

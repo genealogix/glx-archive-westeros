@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-beony-beesbury-sarra-frey:
+        type: parent_child
+        participants:
+            - person: person-beony-beesbury
+              role: parent
+            - person: person-sarra-frey
+              role: child

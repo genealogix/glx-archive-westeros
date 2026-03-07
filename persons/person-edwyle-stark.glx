@@ -1,0 +1,10 @@
+persons:
+    person-edwyle-stark:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Edwyle
+                    surname: Stark
+                value: Edwyle Stark
+            rin: MH:I464

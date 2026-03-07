@@ -1,0 +1,10 @@
+persons:
+    person-garth-tyrell-the-gross:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Garth 'The Gross'
+                    surname: Tyrell
+                value: Garth 'The Gross' Tyrell
+            rin: MH:I383

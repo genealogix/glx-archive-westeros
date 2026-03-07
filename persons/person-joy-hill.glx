@@ -1,0 +1,10 @@
+persons:
+    person-joy-hill:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Joy
+                    surname: Hill
+                value: Joy Hill
+            rin: MH:I178

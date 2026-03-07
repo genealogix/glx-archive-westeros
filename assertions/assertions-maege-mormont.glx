@@ -1,0 +1,23 @@
+assertions:
+    assertion-maege-mormont-name:
+        subject:
+            person: person-maege-mormont
+        property: name
+        value: Maege Mormont
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-maege-mormont-gender:
+        subject:
+            person: person-maege-mormont
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

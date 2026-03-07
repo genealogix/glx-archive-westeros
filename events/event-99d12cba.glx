@@ -1,6 +1,0 @@
-events:
-    event-493:
-        type: death
-        participants:
-            - person: person-362
-              role: principal

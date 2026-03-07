@@ -1,0 +1,23 @@
+assertions:
+    assertion-maelys-blackfyre-the-monstrous-name:
+        subject:
+            person: person-maelys-blackfyre-the-monstrous
+        property: name
+        value: "Maelys 'The Monstrous' Blackfyre"
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-maelys-blackfyre-the-monstrous-gender:
+        subject:
+            person: person-maelys-blackfyre-the-monstrous
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

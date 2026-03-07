@@ -1,0 +1,6 @@
+events:
+    event-death-rhaenys-targaryen-354:
+        type: death
+        participants:
+            - person: person-rhaenys-targaryen-354
+              role: principal

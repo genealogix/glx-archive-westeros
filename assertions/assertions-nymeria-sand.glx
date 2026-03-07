@@ -1,0 +1,23 @@
+assertions:
+    assertion-nymeria-sand-name:
+        subject:
+            person: person-nymeria-sand
+        property: name
+        value: Nymeria Sand
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-nymeria-sand-gender:
+        subject:
+            person: person-nymeria-sand
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

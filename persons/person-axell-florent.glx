@@ -1,0 +1,11 @@
+persons:
+    person-axell-florent:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Axell
+                    prefix: Ser
+                    surname: Florent
+                value: Ser Axell Florent
+            rin: MH:I445

@@ -1,0 +1,8 @@
+events:
+    event-marriage-jaehaerys-targaryen-i-the-conciliator-and-740:
+        type: marriage
+        participants:
+            - person: person-jaehaerys-targaryen-i-the-conciliator
+              role: spouse
+            - person: person-alysanne-targaryen-the-good
+              role: spouse

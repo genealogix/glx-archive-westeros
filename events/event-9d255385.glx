@@ -1,8 +1,0 @@
-events:
-    event-681:
-        type: marriage
-        participants:
-            - person: person-62
-              role: spouse
-            - person: person-69
-              role: spouse

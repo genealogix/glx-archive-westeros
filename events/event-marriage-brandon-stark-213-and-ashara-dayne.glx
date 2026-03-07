@@ -1,0 +1,8 @@
+events:
+    event-marriage-brandon-stark-213-and-ashara-dayne:
+        type: event
+        participants:
+            - person: person-brandon-stark-213
+              role: spouse
+            - person: person-ashara-dayne
+              role: spouse

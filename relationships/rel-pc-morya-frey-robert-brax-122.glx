@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-morya-frey-robert-brax-122:
+        type: parent_child
+        participants:
+            - person: person-morya-frey
+              role: parent
+            - person: person-robert-brax-122
+              role: child

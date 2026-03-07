@@ -1,0 +1,11 @@
+persons:
+    person-jaehaerys-targaryen-ii:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jaehaerys
+                    suffix: II
+                    surname: Targaryen
+                value: Jaehaerys Targaryen II
+            rin: MH:I201

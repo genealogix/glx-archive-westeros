@@ -1,0 +1,10 @@
+persons:
+    person-hostella-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Hostella
+                    surname: Frey
+                value: Hostella Frey
+            rin: MH:I75

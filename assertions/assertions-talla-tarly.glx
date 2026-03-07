@@ -1,0 +1,23 @@
+assertions:
+    assertion-talla-tarly-name:
+        subject:
+            person: person-talla-tarly
+        property: name
+        value: Talla Tarly
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-talla-tarly-gender:
+        subject:
+            person: person-talla-tarly
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

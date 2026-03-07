@@ -1,0 +1,6 @@
+events:
+    event-death-rhaelle-targaryen-199:
+        type: death
+        participants:
+            - person: person-rhaelle-targaryen-199
+              role: principal

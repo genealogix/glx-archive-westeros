@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-melessa-florent-dickon-tarly:
+        type: parent_child
+        participants:
+            - person: person-melessa-florent
+              role: parent
+            - person: person-dickon-tarly
+              role: child

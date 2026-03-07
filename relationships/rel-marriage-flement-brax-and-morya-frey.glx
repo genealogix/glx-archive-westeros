@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-flement-brax-and-morya-frey:
+        type: marriage
+        participants:
+            - person: person-flement-brax
+              role: spouse
+            - person: person-morya-frey
+              role: spouse
+        properties:
+            marriage_event: event-marriage-flement-brax-and-morya-frey

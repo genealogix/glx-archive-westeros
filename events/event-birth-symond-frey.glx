@@ -1,0 +1,6 @@
+events:
+    event-birth-symond-frey:
+        type: birth
+        participants:
+            - person: person-symond-frey
+              role: principal

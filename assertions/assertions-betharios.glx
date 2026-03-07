@@ -1,0 +1,23 @@
+assertions:
+    assertion-betharios-name:
+        subject:
+            person: person-betharios
+        property: name
+        value: Betharios
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-betharios-gender:
+        subject:
+            person: person-betharios
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

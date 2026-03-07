@@ -1,0 +1,6 @@
+events:
+    event-birth-malwyn-frey:
+        type: birth
+        participants:
+            - person: person-malwyn-frey
+              role: principal

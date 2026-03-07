@@ -1,0 +1,8 @@
+repositories:
+    repository-hbo-series:
+        name: "Game of Thrones (HBO Television Series)"
+        type: broadcast_series
+        properties:
+            network: "HBO"
+            years: "2011-2019"
+        notes: "Television adaptation of A Song of Ice and Fire."

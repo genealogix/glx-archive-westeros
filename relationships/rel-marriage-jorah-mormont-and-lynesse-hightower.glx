@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-jorah-mormont-and-lynesse-hightower:
+        type: marriage
+        participants:
+            - person: person-jorah-mormont
+              role: spouse
+            - person: person-lynesse-hightower
+              role: spouse
+        properties:
+            marriage_event: event-marriage-jorah-mormont-and-lynesse-hightower-767

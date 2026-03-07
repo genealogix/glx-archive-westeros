@@ -1,0 +1,8 @@
+events:
+    event-marriage-jammos-frey-and-sallei-paege:
+        type: marriage
+        participants:
+            - person: person-jammos-frey
+              role: spouse
+            - person: person-sallei-paege
+              role: spouse

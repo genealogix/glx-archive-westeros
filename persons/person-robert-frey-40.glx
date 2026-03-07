@@ -1,0 +1,10 @@
+persons:
+    person-robert-frey-40:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Robert
+                    surname: Frey
+                value: Robert Frey
+            rin: MH:I40

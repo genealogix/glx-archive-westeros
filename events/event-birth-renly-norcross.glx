@@ -1,0 +1,6 @@
+events:
+    event-birth-renly-norcross:
+        type: birth
+        participants:
+            - person: person-renly-norcross
+              role: principal

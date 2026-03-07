@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-flint-benjen-stark:
+        type: parent_child
+        participants:
+            - person: person-flint
+              role: parent
+            - person: person-benjen-stark
+              role: child

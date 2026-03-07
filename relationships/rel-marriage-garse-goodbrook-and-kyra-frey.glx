@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-garse-goodbrook-and-kyra-frey:
+        type: marriage
+        participants:
+            - person: person-garse-goodbrook
+              role: spouse
+            - person: person-kyra-frey
+              role: spouse
+        properties:
+            marriage_event: event-marriage-garse-goodbrook-and-kyra-frey

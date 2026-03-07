@@ -1,0 +1,5 @@
+persons:
+    person-unknown-326:
+        properties:
+            gender: unknown
+            rin: MH:I326

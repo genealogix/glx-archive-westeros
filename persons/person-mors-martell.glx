@@ -1,0 +1,10 @@
+persons:
+    person-mors-martell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Mors
+                    surname: Martell
+                value: Mors Martell
+            rin: MH:I261

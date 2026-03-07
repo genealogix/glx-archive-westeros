@@ -1,0 +1,6 @@
+events:
+    event-birth-rupert-brax:
+        type: birth
+        participants:
+            - person: person-rupert-brax
+              role: principal

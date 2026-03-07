@@ -1,0 +1,10 @@
+persons:
+    person-alys-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Alys
+                    surname: Frey
+                value: Alys Frey
+            rin: MH:I52

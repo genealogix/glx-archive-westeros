@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-sallei-paege-mathis-frey:
+        type: parent_child
+        participants:
+            - person: person-sallei-paege
+              role: parent
+            - person: person-mathis-frey
+              role: child

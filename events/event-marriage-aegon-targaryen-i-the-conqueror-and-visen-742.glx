@@ -1,0 +1,8 @@
+events:
+    event-marriage-aegon-targaryen-i-the-conqueror-and-visen-742:
+        type: marriage
+        participants:
+            - person: person-aegon-targaryen-i-the-conqueror
+              role: spouse
+            - person: person-visenya-targaryen
+              role: spouse

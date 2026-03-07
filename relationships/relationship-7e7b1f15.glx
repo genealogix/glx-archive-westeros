@@ -1,8 +1,0 @@
-relationships:
-    relationship-67:
-        type: marriage
-        participants:
-            - person: person-302
-              role: spouse
-            - person: person-308
-              role: spouse

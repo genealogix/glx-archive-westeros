@@ -1,0 +1,6 @@
+events:
+    event-birth-leo-blackbar:
+        type: birth
+        participants:
+            - person: person-leo-blackbar
+              role: principal

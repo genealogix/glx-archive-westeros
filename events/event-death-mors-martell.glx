@@ -1,0 +1,8 @@
+events:
+    event-death-mors-martell:
+        type: death
+        participants:
+            - person: person-mors-martell
+              role: principal
+        properties:
+            cause: At young age

@@ -1,0 +1,23 @@
+assertions:
+    assertion-jeyne-westerling-name:
+        subject:
+            person: person-jeyne-westerling
+        property: name
+        value: Jeyne Westerling
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jeyne-westerling-gender:
+        subject:
+            person: person-jeyne-westerling
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

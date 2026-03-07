@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-tyrell-gormon-tyrell:
+        type: parent_child
+        participants:
+            - person: person-tyrell
+              role: parent
+            - person: person-gormon-tyrell
+              role: child

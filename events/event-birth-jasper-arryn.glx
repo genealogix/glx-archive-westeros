@@ -1,0 +1,6 @@
+events:
+    event-birth-jasper-arryn:
+        type: birth
+        participants:
+            - person: person-jasper-arryn
+              role: principal

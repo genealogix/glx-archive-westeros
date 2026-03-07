@@ -1,0 +1,6 @@
+events:
+    event-death-blackfyre-317:
+        type: death
+        participants:
+            - person: person-blackfyre-317
+              role: principal

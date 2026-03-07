@@ -1,0 +1,10 @@
+persons:
+    person-lythene-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Lythene
+                    surname: Frey
+                value: Lythene Frey
+            rin: MH:I63

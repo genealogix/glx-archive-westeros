@@ -1,0 +1,10 @@
+persons:
+    person-luthor-tyrell-404:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Luthor
+                    surname: Tyrell
+                value: Luthor Tyrell
+            rin: MH:I404

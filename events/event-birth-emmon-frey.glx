@@ -1,0 +1,6 @@
+events:
+    event-birth-emmon-frey:
+        type: birth
+        participants:
+            - person: person-emmon-frey
+              role: principal

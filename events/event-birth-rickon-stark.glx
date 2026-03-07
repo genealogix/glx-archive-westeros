@@ -1,0 +1,6 @@
+events:
+    event-birth-rickon-stark:
+        type: birth
+        participants:
+            - person: person-rickon-stark
+              role: principal

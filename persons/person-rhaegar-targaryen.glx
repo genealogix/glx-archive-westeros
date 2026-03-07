@@ -1,0 +1,10 @@
+persons:
+    person-rhaegar-targaryen:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Rhaegar
+                    surname: Targaryen
+                value: Rhaegar Targaryen
+            rin: MH:I204

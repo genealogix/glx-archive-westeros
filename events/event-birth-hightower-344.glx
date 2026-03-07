@@ -1,0 +1,6 @@
+events:
+    event-birth-hightower-344:
+        type: birth
+        participants:
+            - person: person-hightower-344
+              role: principal

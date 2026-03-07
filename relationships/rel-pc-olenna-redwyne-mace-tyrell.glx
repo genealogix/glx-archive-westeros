@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-olenna-redwyne-mace-tyrell:
+        type: parent_child
+        participants:
+            - person: person-olenna-redwyne
+              role: parent
+            - person: person-mace-tyrell
+              role: child

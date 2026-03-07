@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-whalen-frey-hoster-frey:
+        type: parent_child
+        participants:
+            - person: person-whalen-frey
+              role: parent
+            - person: person-hoster-frey
+              role: child

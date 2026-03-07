@@ -1,0 +1,9 @@
+persons:
+    person-uller:
+        properties:
+            gender: unknown
+            name:
+                fields:
+                    surname: Uller
+                value: Uller
+            rin: MH:I274

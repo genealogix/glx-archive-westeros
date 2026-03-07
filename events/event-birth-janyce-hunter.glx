@@ -1,0 +1,6 @@
+events:
+    event-birth-janyce-hunter:
+        type: birth
+        participants:
+            - person: person-janyce-hunter
+              role: principal

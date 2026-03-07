@@ -1,0 +1,10 @@
+persons:
+    person-tytos-lannister:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tytos
+                    surname: Lannister
+                value: Tytos Lannister
+            rin: MH:I158

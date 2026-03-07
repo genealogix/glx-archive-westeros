@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-brax-andros-brax:
+        type: parent_child
+        participants:
+            - person: person-brax
+              role: parent
+            - person: person-andros-brax
+              role: child

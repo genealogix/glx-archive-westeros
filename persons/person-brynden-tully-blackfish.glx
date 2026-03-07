@@ -1,0 +1,11 @@
+persons:
+    person-brynden-tully-blackfish:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Brynden 'Blackfish'
+                    prefix: Ser
+                    surname: Tully
+                value: Ser Brynden 'Blackfish' Tully
+            rin: MH:I256

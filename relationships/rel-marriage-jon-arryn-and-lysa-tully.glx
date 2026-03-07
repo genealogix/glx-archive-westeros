@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-jon-arryn-and-lysa-tully:
+        type: marriage
+        participants:
+            - person: person-jon-arryn
+              role: spouse
+            - person: person-lysa-tully
+              role: spouse
+        properties:
+            marriage_event: event-marriage-jon-arryn-and-lysa-tully

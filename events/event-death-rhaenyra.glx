@@ -1,0 +1,6 @@
+events:
+    event-death-rhaenyra:
+        type: death
+        participants:
+            - person: person-rhaenyra
+              role: principal

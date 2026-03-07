@@ -1,8 +1,0 @@
-events:
-    event-720:
-        type: marriage
-        participants:
-            - person: person-226
-              role: spouse
-            - person: person-228
-              role: spouse

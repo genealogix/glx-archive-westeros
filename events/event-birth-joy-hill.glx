@@ -1,0 +1,6 @@
+events:
+    event-birth-joy-hill:
+        type: birth
+        participants:
+            - person: person-joy-hill
+              role: principal

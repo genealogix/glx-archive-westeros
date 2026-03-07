@@ -1,0 +1,23 @@
+assertions:
+    assertion-aenar-targaryen-name:
+        subject:
+            person: person-aenar-targaryen
+        property: name
+        value: Aenar Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aenar-targaryen-gender:
+        subject:
+            person: person-aenar-targaryen
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,9 @@
+sources:
+    source-asos:
+        title: "A Storm of Swords"
+        type: novel
+        properties:
+            author: "George R.R. Martin"
+            published: "2000"
+            isbn: "978-0553106633"
+        repository: repository-asoiaf-novels

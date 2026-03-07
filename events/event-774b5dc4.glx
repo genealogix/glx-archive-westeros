@@ -1,8 +1,0 @@
-events:
-    event-780:
-        type: engagement
-        participants:
-            - person: person-168
-              role: spouse
-            - person: person-218
-              role: spouse

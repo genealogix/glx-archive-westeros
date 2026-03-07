@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aegon-targaryen-iv-daenerys-targaryen-304:
+        type: parent_child
+        participants:
+            - person: person-aegon-targaryen-iv
+              role: parent
+            - person: person-daenerys-targaryen-304
+              role: child

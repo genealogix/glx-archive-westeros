@@ -1,0 +1,6 @@
+events:
+    event-birth-aerion-targaryen-285:
+        type: birth
+        participants:
+            - person: person-aerion-targaryen-285
+              role: principal

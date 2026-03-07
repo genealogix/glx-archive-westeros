@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-arthur-ambrose-alyn-ambrose:
+        type: parent_child
+        participants:
+            - person: person-arthur-ambrose
+              role: parent
+            - person: person-alyn-ambrose
+              role: child

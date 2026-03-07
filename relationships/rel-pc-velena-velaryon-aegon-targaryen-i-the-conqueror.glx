@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-velena-velaryon-aegon-targaryen-i-the-conqueror:
+        type: parent_child
+        participants:
+            - person: person-velena-velaryon
+              role: parent
+            - person: person-aegon-targaryen-i-the-conqueror
+              role: child

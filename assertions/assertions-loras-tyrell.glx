@@ -1,0 +1,23 @@
+assertions:
+    assertion-loras-tyrell-name:
+        subject:
+            person: person-loras-tyrell
+        property: name
+        value: Ser Loras Tyrell
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-loras-tyrell-gender:
+        subject:
+            person: person-loras-tyrell
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

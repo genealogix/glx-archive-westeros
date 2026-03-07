@@ -1,0 +1,6 @@
+events:
+    event-birth-petyr-frey:
+        type: birth
+        participants:
+            - person: person-petyr-frey
+              role: principal

@@ -1,0 +1,10 @@
+persons:
+    person-lothar-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Lothar
+                    surname: Frey
+                value: Lothar Frey
+            rin: MH:I104

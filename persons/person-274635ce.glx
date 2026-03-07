@@ -1,9 +1,0 @@
-persons:
-    person-349:
-        properties:
-            gender: unknown
-            name:
-                fields:
-                    surname: Targaryen
-                value: Targaryen
-            rin: MH:I349

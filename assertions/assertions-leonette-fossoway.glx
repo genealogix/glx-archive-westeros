@@ -1,0 +1,23 @@
+assertions:
+    assertion-leonette-fossoway-name:
+        subject:
+            person: person-leonette-fossoway
+        property: name
+        value: Leonette Fossoway
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-leonette-fossoway-gender:
+        subject:
+            person: person-leonette-fossoway
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

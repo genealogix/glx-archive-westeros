@@ -1,0 +1,23 @@
+assertions:
+    assertion-deana-hardyng-name:
+        subject:
+            person: person-deana-hardyng
+        property: name
+        value: Deana Hardyng
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-deana-hardyng-gender:
+        subject:
+            person: person-deana-hardyng
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

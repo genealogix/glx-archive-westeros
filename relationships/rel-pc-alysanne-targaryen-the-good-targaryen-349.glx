@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-alysanne-targaryen-the-good-targaryen-349:
+        type: parent_child
+        participants:
+            - person: person-alysanne-targaryen-the-good
+              role: parent
+            - person: person-targaryen-349
+              role: child

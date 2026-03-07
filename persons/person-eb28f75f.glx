@@ -1,9 +1,0 @@
-persons:
-    person-240:
-        properties:
-            gender: female
-            name:
-                fields:
-                    surname: Waynwood
-                value: Waynwood
-            rin: MH:I240

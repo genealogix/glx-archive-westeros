@@ -1,0 +1,10 @@
+persons:
+    person-argilac-durrendon-the-arrogant:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Argilac 'The Arrogant'
+                    surname: Durrendon
+                value: Argilac 'The Arrogant' Durrendon
+            rin: MH:I363

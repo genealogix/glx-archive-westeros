@@ -1,0 +1,23 @@
+assertions:
+    assertion-selyse-florent-name:
+        subject:
+            person: person-selyse-florent
+        property: name
+        value: Selyse Florent
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-selyse-florent-gender:
+        subject:
+            person: person-selyse-florent
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

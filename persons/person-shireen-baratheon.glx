@@ -1,0 +1,10 @@
+persons:
+    person-shireen-baratheon:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Shireen
+                    surname: Baratheon
+                value: Shireen Baratheon
+            rin: MH:I198

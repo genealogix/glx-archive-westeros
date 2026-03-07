@@ -1,0 +1,6 @@
+events:
+    event-birth-denyse-hightower:
+        type: birth
+        participants:
+            - person: person-denyse-hightower
+              role: principal

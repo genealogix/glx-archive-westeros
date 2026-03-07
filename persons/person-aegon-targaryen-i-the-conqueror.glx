@@ -1,0 +1,11 @@
+persons:
+    person-aegon-targaryen-i-the-conqueror:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegon 'The Conqueror'
+                    suffix: I
+                    surname: Targaryen
+                value: Aegon 'The Conqueror' Targaryen I
+            rin: MH:I353

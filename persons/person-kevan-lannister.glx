@@ -1,0 +1,10 @@
+persons:
+    person-kevan-lannister:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Kevan
+                    surname: Lannister
+                value: Kevan Lannister
+            rin: MH:I160

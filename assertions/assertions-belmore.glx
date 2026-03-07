@@ -1,0 +1,23 @@
+assertions:
+    assertion-belmore-name:
+        subject:
+            person: person-belmore
+        property: name
+        value: Belmore
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-belmore-gender:
+        subject:
+            person: person-belmore
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

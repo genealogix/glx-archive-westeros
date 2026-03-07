@@ -1,0 +1,23 @@
+assertions:
+    assertion-harmen-uller-name:
+        subject:
+            person: person-harmen-uller
+        property: name
+        value: Harmen Uller
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-harmen-uller-gender:
+        subject:
+            person: person-harmen-uller
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,6 @@
+events:
+    event-birth-luthor-tyrell-380:
+        type: birth
+        participants:
+            - person: person-luthor-tyrell-380
+              role: principal

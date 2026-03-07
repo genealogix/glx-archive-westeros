@@ -1,0 +1,11 @@
+persons:
+    person-danwell-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Danwell
+                    prefix: Ser
+                    surname: Frey
+                value: Ser Danwell Frey
+            rin: MH:I65

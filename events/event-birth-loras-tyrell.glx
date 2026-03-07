@@ -1,0 +1,6 @@
+events:
+    event-birth-loras-tyrell:
+        type: birth
+        participants:
+            - person: person-loras-tyrell
+              role: principal

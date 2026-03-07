@@ -1,0 +1,6 @@
+events:
+    event-birth-alys-frey:
+        type: birth
+        participants:
+            - person: person-alys-frey
+              role: principal

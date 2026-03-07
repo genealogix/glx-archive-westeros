@@ -1,0 +1,10 @@
+persons:
+    person-duncan-targaryen-the-small:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Duncan 'The Small'
+                    surname: Targaryen
+                value: Duncan 'The Small' Targaryen
+            rin: MH:I280

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-alysane-mormont-snow-436:
+        type: parent_child
+        participants:
+            - person: person-alysane-mormont
+              role: parent
+            - person: person-snow-436
+              role: child

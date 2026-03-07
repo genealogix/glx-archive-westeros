@@ -1,0 +1,6 @@
+events:
+    event-death-aegor-rivers-bittersteel:
+        type: death
+        participants:
+            - person: person-aegor-rivers-bittersteel
+              role: principal

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-hightower-426-gerold-hightower-the-white-bull:
+        type: parent_child
+        participants:
+            - person: person-hightower-426
+              role: parent
+            - person: person-gerold-hightower-the-white-bull
+              role: child

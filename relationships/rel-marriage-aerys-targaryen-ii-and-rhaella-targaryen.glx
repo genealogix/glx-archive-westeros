@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-aerys-targaryen-ii-and-rhaella-targaryen:
+        type: marriage
+        participants:
+            - person: person-aerys-targaryen-ii
+              role: spouse
+            - person: person-rhaella-targaryen
+              role: spouse
+        properties:
+            marriage_event: event-marriage-aerys-targaryen-ii-and-rhaella-targaryen

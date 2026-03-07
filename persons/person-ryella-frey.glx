@@ -1,0 +1,10 @@
+persons:
+    person-ryella-frey:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Ryella
+                    surname: Frey
+                value: Ryella Frey
+            rin: MH:I72

@@ -1,0 +1,10 @@
+persons:
+    person-aegor-rivers-bittersteel:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegor 'Bittersteel'
+                    surname: Rivers
+                value: Aegor 'Bittersteel' Rivers
+            rin: MH:I309

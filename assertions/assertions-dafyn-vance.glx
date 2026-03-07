@@ -1,0 +1,23 @@
+assertions:
+    assertion-dafyn-vance-name:
+        subject:
+            person: person-dafyn-vance
+        property: name
+        value: Dafyn Vance
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-dafyn-vance-gender:
+        subject:
+            person: person-dafyn-vance
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

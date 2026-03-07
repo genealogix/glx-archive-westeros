@@ -1,9 +1,0 @@
-persons:
-    person-341:
-        properties:
-            gender: female
-            name:
-                fields:
-                    surname: Arryn
-                value: Arryn
-            rin: MH:I341

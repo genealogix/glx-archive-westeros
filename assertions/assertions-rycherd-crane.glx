@@ -1,0 +1,23 @@
+assertions:
+    assertion-rycherd-crane-name:
+        subject:
+            person: person-rycherd-crane
+        property: name
+        value: Rycherd Crane
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-rycherd-crane-gender:
+        subject:
+            person: person-rycherd-crane
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

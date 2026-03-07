@@ -1,0 +1,6 @@
+events:
+    event-birth-alester-norcross:
+        type: birth
+        participants:
+            - person: person-alester-norcross
+              role: principal

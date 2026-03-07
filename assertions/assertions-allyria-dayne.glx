@@ -1,0 +1,23 @@
+assertions:
+    assertion-allyria-dayne-name:
+        subject:
+            person: person-allyria-dayne
+        property: name
+        value: Allyria Dayne
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-allyria-dayne-gender:
+        subject:
+            person: person-allyria-dayne
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

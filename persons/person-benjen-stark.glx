@@ -1,0 +1,10 @@
+persons:
+    person-benjen-stark:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Benjen
+                    surname: Stark
+                value: Benjen Stark
+            rin: MH:I215

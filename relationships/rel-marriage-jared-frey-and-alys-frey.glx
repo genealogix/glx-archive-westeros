@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-jared-frey-and-alys-frey:
+        type: marriage
+        participants:
+            - person: person-jared-frey
+              role: spouse
+            - person: person-alys-frey
+              role: spouse
+        properties:
+            marriage_event: event-marriage-jared-frey-and-alys-frey

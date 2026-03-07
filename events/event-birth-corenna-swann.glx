@@ -1,0 +1,6 @@
+events:
+    event-birth-corenna-swann:
+        type: birth
+        participants:
+            - person: person-corenna-swann
+              role: principal

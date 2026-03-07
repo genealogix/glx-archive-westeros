@@ -204,3 +204,60 @@ event_types:
     category: "other"
     gedcom: "EVEN"
 
+  # === ASOIAF Custom Event Types ===
+
+  coronation:
+    label: "Coronation"
+    description: "Ascension to a throne"
+    category: "other"
+
+  battle:
+    label: "Battle"
+    description: "Military engagement"
+    category: "other"
+
+  tournament:
+    label: "Tournament"
+    description: "Tourney or martial contest"
+    category: "other"
+
+  execution:
+    label: "Execution"
+    description: "Formal execution"
+    category: "lifecycle"
+
+  trial:
+    label: "Trial"
+    description: "Trial by court or combat"
+    category: "legal"
+
+  rebellion:
+    label: "Rebellion"
+    description: "Open revolt against a sovereign"
+    category: "other"
+
+  betrothal_ceremony:
+    label: "Betrothal Ceremony"
+    description: "Formal announcement of betrothal"
+    category: "lifecycle"
+
+  abdication:
+    label: "Abdication"
+    description: "Voluntary or forced renunciation of a title"
+    category: "other"
+
+  exile:
+    label: "Exile"
+    description: "Forced departure from a domain"
+    category: "other"
+
+  legitimization:
+    label: "Legitimization"
+    description: "Bastard legitimized by royal decree"
+    category: "legal"
+
+  knighting:
+    label: "Knighting"
+    description: "Elevation to knighthood"
+    category: "other"
+

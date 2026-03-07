@@ -1,0 +1,23 @@
+assertions:
+    assertion-jon-fossoway-name:
+        subject:
+            person: person-jon-fossoway
+        property: name
+        value: Jon Fossoway
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jon-fossoway-gender:
+        subject:
+            person: person-jon-fossoway
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

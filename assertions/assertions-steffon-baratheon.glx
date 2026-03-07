@@ -1,0 +1,23 @@
+assertions:
+    assertion-steffon-baratheon-name:
+        subject:
+            person: person-steffon-baratheon
+        property: name
+        value: Steffon Baratheon
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-steffon-baratheon-gender:
+        subject:
+            person: person-steffon-baratheon
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-carolei-waynwood-cynthea-frey:
+        type: parent_child
+        participants:
+            - person: person-carolei-waynwood
+              role: parent
+            - person: person-cynthea-frey
+              role: child

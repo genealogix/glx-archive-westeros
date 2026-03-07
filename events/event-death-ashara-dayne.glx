@@ -1,0 +1,8 @@
+events:
+    event-death-ashara-dayne:
+        type: death
+        participants:
+            - person: person-ashara-dayne
+              role: principal
+        properties:
+            cause: Suicide

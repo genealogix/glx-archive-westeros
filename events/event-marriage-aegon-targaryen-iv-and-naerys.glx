@@ -1,0 +1,8 @@
+events:
+    event-marriage-aegon-targaryen-iv-and-naerys:
+        type: marriage
+        participants:
+            - person: person-aegon-targaryen-iv
+              role: spouse
+            - person: person-naerys
+              role: spouse

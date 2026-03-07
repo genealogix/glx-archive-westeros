@@ -1,0 +1,6 @@
+events:
+    event-birth-olyvar-martell:
+        type: birth
+        participants:
+            - person: person-olyvar-martell
+              role: principal

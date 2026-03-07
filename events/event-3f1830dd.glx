@@ -1,8 +1,0 @@
-events:
-    event-759:
-        type: marriage
-        participants:
-            - person: person-405
-              role: spouse
-            - person: person-400
-              role: spouse

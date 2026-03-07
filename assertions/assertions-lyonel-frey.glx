@@ -1,0 +1,23 @@
+assertions:
+    assertion-lyonel-frey-name:
+        subject:
+            person: person-lyonel-frey
+        property: name
+        value: Lyonel Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-lyonel-frey-gender:
+        subject:
+            person: person-lyonel-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

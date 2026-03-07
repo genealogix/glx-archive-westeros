@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-maegelle-frey-marianne-vance:
+        type: parent_child
+        participants:
+            - person: person-maegelle-frey
+              role: parent
+            - person: person-marianne-vance
+              role: child

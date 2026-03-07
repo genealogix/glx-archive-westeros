@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-edwyn-frey-walda-frey-12:
+        type: parent_child
+        participants:
+            - person: person-edwyn-frey
+              role: parent
+            - person: person-walda-frey-12
+              role: child

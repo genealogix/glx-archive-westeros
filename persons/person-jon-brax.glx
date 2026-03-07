@@ -1,0 +1,10 @@
+persons:
+    person-jon-brax:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    surname: Brax
+                value: Jon Brax
+            rin: MH:I124

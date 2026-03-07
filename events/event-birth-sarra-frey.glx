@@ -1,0 +1,6 @@
+events:
+    event-birth-sarra-frey:
+        type: birth
+        participants:
+            - person: person-sarra-frey
+              role: principal

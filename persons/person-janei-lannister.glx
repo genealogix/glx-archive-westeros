@@ -1,0 +1,10 @@
+persons:
+    person-janei-lannister:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Janei
+                    surname: Lannister
+                value: Janei Lannister
+            rin: MH:I175

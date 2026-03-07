@@ -1,0 +1,6 @@
+events:
+    event-birth-flement-brax:
+        type: birth
+        participants:
+            - person: person-flement-brax
+              role: principal

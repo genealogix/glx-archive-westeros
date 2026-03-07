@@ -1,0 +1,6 @@
+events:
+    event-birth-hostella-frey:
+        type: birth
+        participants:
+            - person: person-hostella-frey
+              role: principal

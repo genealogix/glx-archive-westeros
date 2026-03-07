@@ -1,0 +1,10 @@
+persons:
+    person-runceford-redwyne:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Runceford
+                    surname: Redwyne
+                value: Runceford Redwyne
+            rin: MH:I439

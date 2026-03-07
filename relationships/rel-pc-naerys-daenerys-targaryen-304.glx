@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-naerys-daenerys-targaryen-304:
+        type: parent_child
+        participants:
+            - person: person-naerys
+              role: parent
+            - person: person-daenerys-targaryen-304
+              role: child

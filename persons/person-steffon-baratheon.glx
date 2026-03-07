@@ -1,0 +1,10 @@
+persons:
+    person-steffon-baratheon:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Steffon
+                    surname: Baratheon
+                value: Steffon Baratheon
+            rin: MH:I187

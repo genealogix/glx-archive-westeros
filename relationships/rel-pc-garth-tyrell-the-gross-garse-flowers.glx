@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-garth-tyrell-the-gross-garse-flowers:
+        type: parent_child
+        participants:
+            - person: person-garth-tyrell-the-gross
+              role: parent
+            - person: person-garse-flowers
+              role: child

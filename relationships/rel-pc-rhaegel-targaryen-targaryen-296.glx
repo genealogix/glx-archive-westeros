@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rhaegel-targaryen-targaryen-296:
+        type: parent_child
+        participants:
+            - person: person-rhaegel-targaryen
+              role: parent
+            - person: person-targaryen-296
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mormont-jeor-mormont:
+        type: parent_child
+        participants:
+            - person: person-mormont
+              role: parent
+            - person: person-jeor-mormont
+              role: child

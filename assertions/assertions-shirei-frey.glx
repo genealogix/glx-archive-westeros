@@ -1,0 +1,23 @@
+assertions:
+    assertion-shirei-frey-name:
+        subject:
+            person: person-shirei-frey
+        property: name
+        value: Shirei Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-shirei-frey-gender:
+        subject:
+            person: person-shirei-frey
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

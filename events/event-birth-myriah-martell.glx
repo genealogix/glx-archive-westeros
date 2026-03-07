@@ -1,0 +1,6 @@
+events:
+    event-birth-myriah-martell:
+        type: birth
+        participants:
+            - person: person-myriah-martell
+              role: principal

@@ -1,0 +1,23 @@
+assertions:
+    assertion-malwyn-frey-name:
+        subject:
+            person: person-malwyn-frey
+        property: name
+        value: Malwyn Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-malwyn-frey-gender:
+        subject:
+            person: person-malwyn-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

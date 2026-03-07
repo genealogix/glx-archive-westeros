@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-arryn-474-and-royce-471:
+        type: marriage
+        participants:
+            - person: person-arryn-474
+              role: spouse
+            - person: person-royce-471
+              role: spouse
+        properties:
+            marriage_event: event-marriage-arryn-474-and-royce-471

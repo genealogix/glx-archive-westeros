@@ -1,0 +1,10 @@
+persons:
+    person-jasper-arryn:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jasper
+                    surname: Arryn
+                value: Jasper Arryn
+            rin: MH:I230

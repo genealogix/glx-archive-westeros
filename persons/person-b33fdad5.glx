@@ -1,9 +1,0 @@
-persons:
-    person-247:
-        properties:
-            gender: female
-            name:
-                fields:
-                    surname: Belmore
-                value: Belmore
-            rin: MH:I247

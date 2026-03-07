@@ -1,0 +1,23 @@
+assertions:
+    assertion-daena-targaryen-name:
+        subject:
+            person: person-daena-targaryen
+        property: name
+        value: Daena Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-daena-targaryen-gender:
+        subject:
+            person: person-daena-targaryen
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

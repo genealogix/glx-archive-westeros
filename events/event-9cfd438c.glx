@@ -1,6 +1,0 @@
-events:
-    event-505:
-        type: death
-        participants:
-            - person: person-368
-              role: principal

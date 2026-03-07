@@ -1,0 +1,23 @@
+assertions:
+    assertion-walda-frey-white-walda-name:
+        subject:
+            person: person-walda-frey-white-walda
+        property: name
+        value: "Walda 'White Walda' Frey"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-walda-frey-white-walda-gender:
+        subject:
+            person: person-walda-frey-white-walda
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

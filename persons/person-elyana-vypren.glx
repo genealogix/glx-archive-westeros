@@ -1,0 +1,10 @@
+persons:
+    person-elyana-vypren:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Elyana
+                    surname: Vypren
+                value: Elyana Vypren
+            rin: MH:I78

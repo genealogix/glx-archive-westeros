@@ -1,0 +1,10 @@
+persons:
+    person-harmen-uller:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Harmen
+                    surname: Uller
+                value: Harmen Uller
+            rin: MH:I273

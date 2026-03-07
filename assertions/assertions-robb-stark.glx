@@ -1,0 +1,23 @@
+assertions:
+    assertion-robb-stark-name:
+        subject:
+            person: person-robb-stark
+        property: name
+        value: Robb Stark
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-robb-stark-gender:
+        subject:
+            person: person-robb-stark
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-rhaegar-frey-and-jeyne-beesbury:
+        type: marriage
+        participants:
+            - person: person-rhaegar-frey
+              role: spouse
+            - person: person-jeyne-beesbury
+              role: spouse
+        properties:
+            marriage_event: event-marriage-rhaegar-frey-and-jeyne-beesbury

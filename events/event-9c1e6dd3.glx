@@ -1,8 +1,0 @@
-events:
-    event-273:
-        type: death
-        participants:
-            - person: person-236
-              role: principal
-        properties:
-            cause: At young age

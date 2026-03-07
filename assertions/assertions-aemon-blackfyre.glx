@@ -1,0 +1,23 @@
+assertions:
+    assertion-aemon-blackfyre-name:
+        subject:
+            person: person-aemon-blackfyre
+        property: name
+        value: Aemon Blackfyre
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-aemon-blackfyre-gender:
+        subject:
+            person: person-aemon-blackfyre
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

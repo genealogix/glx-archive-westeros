@@ -1,0 +1,6 @@
+events:
+    event-birth-margaery-tyrell:
+        type: birth
+        participants:
+            - person: person-margaery-tyrell
+              role: principal

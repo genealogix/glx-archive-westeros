@@ -1,0 +1,8 @@
+events:
+    event-marriage-symond-frey-and-betharios:
+        type: marriage
+        participants:
+            - person: person-symond-frey
+              role: spouse
+            - person: person-betharios
+              role: spouse

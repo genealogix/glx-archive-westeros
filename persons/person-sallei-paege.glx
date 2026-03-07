@@ -1,0 +1,10 @@
+persons:
+    person-sallei-paege:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Sallei
+                    surname: Paege
+                value: Sallei Paege
+            rin: MH:I114

@@ -1,0 +1,23 @@
+assertions:
+    assertion-rickard-wylde-name:
+        subject:
+            person: person-rickard-wylde
+        property: name
+        value: Rickard Wylde
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-rickard-wylde-gender:
+        subject:
+            person: person-rickard-wylde
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

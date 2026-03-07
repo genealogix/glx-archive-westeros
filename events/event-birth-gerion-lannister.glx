@@ -1,0 +1,6 @@
+events:
+    event-birth-gerion-lannister:
+        type: birth
+        participants:
+            - person: person-gerion-lannister
+              role: principal

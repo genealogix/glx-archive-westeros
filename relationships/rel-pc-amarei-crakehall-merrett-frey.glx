@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-amarei-crakehall-merrett-frey:
+        type: parent_child
+        participants:
+            - person: person-amarei-crakehall
+              role: parent
+            - person: person-merrett-frey
+              role: child

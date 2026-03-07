@@ -1,0 +1,6 @@
+events:
+    event-death-perra-royce:
+        type: death
+        participants:
+            - person: person-perra-royce
+              role: principal

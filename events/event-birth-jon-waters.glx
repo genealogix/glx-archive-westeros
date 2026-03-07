@@ -1,0 +1,6 @@
+events:
+    event-birth-jon-waters:
+        type: birth
+        participants:
+            - person: person-jon-waters
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-sarya-whent:
+        type: birth
+        participants:
+            - person: person-sarya-whent
+              role: principal

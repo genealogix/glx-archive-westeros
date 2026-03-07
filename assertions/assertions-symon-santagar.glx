@@ -1,0 +1,23 @@
+assertions:
+    assertion-symon-santagar-name:
+        subject:
+            person: person-symon-santagar
+        property: name
+        value: Ser Symon Santagar
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-symon-santagar-gender:
+        subject:
+            person: person-symon-santagar
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

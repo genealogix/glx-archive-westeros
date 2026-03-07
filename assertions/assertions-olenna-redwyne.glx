@@ -1,0 +1,23 @@
+assertions:
+    assertion-olenna-redwyne-name:
+        subject:
+            person: person-olenna-redwyne
+        property: name
+        value: Olenna Redwyne
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-olenna-redwyne-gender:
+        subject:
+            person: person-olenna-redwyne
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

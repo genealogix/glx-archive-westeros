@@ -1,0 +1,6 @@
+events:
+    event-birth-moryn-tyrell:
+        type: birth
+        participants:
+            - person: person-moryn-tyrell
+              role: principal

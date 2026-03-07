@@ -1,0 +1,8 @@
+events:
+    event-marriage-eldon-estermont-and-sylva-santagar-spotted-sylva:
+        type: marriage
+        participants:
+            - person: person-eldon-estermont
+              role: spouse
+            - person: person-sylva-santagar-spotted-sylva
+              role: spouse

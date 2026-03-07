@@ -1,0 +1,6 @@
+events:
+    event-birth-dorna-swyft:
+        type: birth
+        participants:
+            - person: person-dorna-swyft
+              role: principal

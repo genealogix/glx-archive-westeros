@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-annara-farring-arwyn-frey:
+        type: parent_child
+        participants:
+            - person: person-annara-farring
+              role: parent
+            - person: person-arwyn-frey
+              role: child

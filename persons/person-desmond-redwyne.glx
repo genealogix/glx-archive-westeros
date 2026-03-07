@@ -1,0 +1,10 @@
+persons:
+    person-desmond-redwyne:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Desmond
+                    surname: Redwyne
+                value: Desmond Redwyne
+            rin: MH:I413

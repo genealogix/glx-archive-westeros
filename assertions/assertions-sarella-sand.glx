@@ -1,0 +1,23 @@
+assertions:
+    assertion-sarella-sand-name:
+        subject:
+            person: person-sarella-sand
+        property: name
+        value: Sarella Sand
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-sarella-sand-gender:
+        subject:
+            person: person-sarella-sand
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

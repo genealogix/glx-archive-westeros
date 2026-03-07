@@ -1,0 +1,8 @@
+events:
+    event-marriage-alester-florent-and-melara-crane:
+        type: marriage
+        participants:
+            - person: person-alester-florent
+              role: spouse
+            - person: person-melara-crane
+              role: spouse

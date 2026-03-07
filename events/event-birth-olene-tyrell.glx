@@ -1,0 +1,6 @@
+events:
+    event-birth-olene-tyrell:
+        type: birth
+        participants:
+            - person: person-olene-tyrell
+              role: principal

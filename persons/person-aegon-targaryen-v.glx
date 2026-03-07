@@ -1,0 +1,11 @@
+persons:
+    person-aegon-targaryen-v:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegon
+                    suffix: V
+                    surname: Targaryen
+                value: Aegon Targaryen V
+            rin: MH:I200

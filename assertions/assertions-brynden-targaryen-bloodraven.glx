@@ -1,0 +1,23 @@
+assertions:
+    assertion-brynden-targaryen-bloodraven-name:
+        subject:
+            person: person-brynden-targaryen-bloodraven
+        property: name
+        value: "Brynden 'Bloodraven' Targaryen"
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-brynden-targaryen-bloodraven-gender:
+        subject:
+            person: person-brynden-targaryen-bloodraven
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

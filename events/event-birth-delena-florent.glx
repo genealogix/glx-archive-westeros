@@ -1,0 +1,6 @@
+events:
+    event-birth-delena-florent:
+        type: birth
+        participants:
+            - person: person-delena-florent
+              role: principal

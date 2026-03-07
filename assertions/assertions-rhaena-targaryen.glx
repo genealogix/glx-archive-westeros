@@ -1,0 +1,23 @@
+assertions:
+    assertion-rhaena-targaryen-name:
+        subject:
+            person: person-rhaena-targaryen
+        property: name
+        value: Septa Rhaena Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-rhaena-targaryen-gender:
+        subject:
+            person: person-rhaena-targaryen
+        property: gender
+        value: female
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

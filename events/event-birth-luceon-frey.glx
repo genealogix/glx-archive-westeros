@@ -1,0 +1,6 @@
+events:
+    event-birth-luceon-frey:
+        type: birth
+        participants:
+            - person: person-luceon-frey
+              role: principal

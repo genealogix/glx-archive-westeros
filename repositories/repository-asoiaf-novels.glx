@@ -1,0 +1,8 @@
+repositories:
+    repository-asoiaf-novels:
+        name: "A Song of Ice and Fire (Novels)"
+        type: published_series
+        properties:
+            author: "George R.R. Martin"
+            publisher: "Bantam Books"
+        notes: "The primary novel series. Five published volumes as of 2025."

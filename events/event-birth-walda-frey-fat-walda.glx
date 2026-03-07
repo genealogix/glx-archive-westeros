@@ -1,0 +1,6 @@
+events:
+    event-birth-walda-frey-fat-walda:
+        type: birth
+        participants:
+            - person: person-walda-frey-fat-walda
+              role: principal

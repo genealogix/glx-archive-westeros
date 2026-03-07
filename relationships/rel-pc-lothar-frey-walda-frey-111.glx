@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-lothar-frey-walda-frey-111:
+        type: parent_child
+        participants:
+            - person: person-lothar-frey
+              role: parent
+            - person: person-walda-frey-111
+              role: child

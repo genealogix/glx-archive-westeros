@@ -1,0 +1,6 @@
+events:
+    event-birth-tytos-lannister:
+        type: birth
+        participants:
+            - person: person-tytos-lannister
+              role: principal

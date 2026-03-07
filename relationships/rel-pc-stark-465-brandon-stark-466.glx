@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-stark-465-brandon-stark-466:
+        type: parent_child
+        participants:
+            - person: person-stark-465
+              role: parent
+            - person: person-brandon-stark-466
+              role: child

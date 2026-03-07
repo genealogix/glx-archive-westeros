@@ -1,0 +1,23 @@
+assertions:
+    assertion-sandor-frey-name:
+        subject:
+            person: person-sandor-frey
+        property: name
+        value: Sandor Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-sandor-frey-gender:
+        subject:
+            person: person-sandor-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

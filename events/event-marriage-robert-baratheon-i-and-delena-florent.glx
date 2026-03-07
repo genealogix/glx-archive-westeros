@@ -1,0 +1,8 @@
+events:
+    event-marriage-robert-baratheon-i-and-delena-florent:
+        type: event
+        participants:
+            - person: person-robert-baratheon-i
+              role: spouse
+            - person: person-delena-florent
+              role: spouse

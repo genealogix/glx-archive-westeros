@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aerys-targaryen-ii-daenerys-targaryen-206:
+        type: parent_child
+        participants:
+            - person: person-aerys-targaryen-ii
+              role: parent
+            - person: person-daenerys-targaryen-206
+              role: child

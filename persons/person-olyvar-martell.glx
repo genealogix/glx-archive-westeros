@@ -1,0 +1,10 @@
+persons:
+    person-olyvar-martell:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Olyvar
+                    surname: Martell
+                value: Olyvar Martell
+            rin: MH:I262

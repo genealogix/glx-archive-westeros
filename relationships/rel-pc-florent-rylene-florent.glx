@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-florent-rylene-florent:
+        type: parent_child
+        participants:
+            - person: person-florent
+              role: parent
+            - person: person-rylene-florent
+              role: child

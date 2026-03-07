@@ -1,0 +1,23 @@
+assertions:
+    assertion-merrett-frey-name:
+        subject:
+            person: person-merrett-frey
+        property: name
+        value: Merrett Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-merrett-frey-gender:
+        subject:
+            person: person-merrett-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

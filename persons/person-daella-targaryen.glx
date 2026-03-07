@@ -1,0 +1,10 @@
+persons:
+    person-daella-targaryen:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Daella
+                    surname: Targaryen
+                value: Daella Targaryen
+            rin: MH:I289

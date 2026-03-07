@@ -1,0 +1,10 @@
+persons:
+    person-walton-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walton
+                    surname: Frey
+                value: Walton Frey
+            rin: MH:I23

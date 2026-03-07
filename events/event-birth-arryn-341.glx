@@ -1,0 +1,6 @@
+events:
+    event-birth-arryn-341:
+        type: birth
+        participants:
+            - person: person-arryn-341
+              role: principal

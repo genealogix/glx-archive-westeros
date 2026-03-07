@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-tygett-lannister-tyrek-lannister:
+        type: parent_child
+        participants:
+            - person: person-tygett-lannister
+              role: parent
+            - person: person-tyrek-lannister
+              role: child

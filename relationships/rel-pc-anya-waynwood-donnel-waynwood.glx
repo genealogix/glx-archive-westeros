@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-anya-waynwood-donnel-waynwood:
+        type: parent_child
+        participants:
+            - person: person-anya-waynwood
+              role: parent
+            - person: person-donnel-waynwood
+              role: child

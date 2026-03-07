@@ -1,0 +1,10 @@
+persons:
+    person-barra-waters:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Barra
+                    surname: Waters
+                value: Barra Waters
+            rin: MH:I191

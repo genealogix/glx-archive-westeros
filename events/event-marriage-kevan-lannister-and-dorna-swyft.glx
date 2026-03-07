@@ -1,0 +1,8 @@
+events:
+    event-marriage-kevan-lannister-and-dorna-swyft:
+        type: marriage
+        participants:
+            - person: person-kevan-lannister
+              role: spouse
+            - person: person-dorna-swyft
+              role: spouse

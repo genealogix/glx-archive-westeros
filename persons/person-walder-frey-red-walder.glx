@@ -1,0 +1,10 @@
+persons:
+    person-walder-frey-red-walder:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walder 'Red Walder'
+                    surname: Frey
+                value: Walder 'Red Walder' Frey
+            rin: MH:I32

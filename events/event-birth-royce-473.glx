@@ -1,0 +1,6 @@
+events:
+    event-birth-royce-473:
+        type: birth
+        participants:
+            - person: person-royce-473
+              role: principal

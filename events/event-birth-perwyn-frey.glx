@@ -1,0 +1,6 @@
+events:
+    event-birth-perwyn-frey:
+        type: birth
+        participants:
+            - person: person-perwyn-frey
+              role: principal

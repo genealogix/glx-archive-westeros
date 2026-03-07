@@ -1,0 +1,23 @@
+assertions:
+    assertion-naerys-name:
+        subject:
+            person: person-naerys
+        property: name
+        value: Naerys
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-naerys-gender:
+        subject:
+            person: person-naerys
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

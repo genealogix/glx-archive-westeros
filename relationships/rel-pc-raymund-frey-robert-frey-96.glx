@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-raymund-frey-robert-frey-96:
+        type: parent_child
+        participants:
+            - person: person-raymund-frey
+              role: parent
+            - person: person-robert-frey-96
+              role: child

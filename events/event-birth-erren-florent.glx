@@ -1,0 +1,6 @@
+events:
+    event-birth-erren-florent:
+        type: birth
+        participants:
+            - person: person-erren-florent
+              role: principal

@@ -1,0 +1,11 @@
+persons:
+    person-aegon-targaryen-iv:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegon
+                    suffix: IV
+                    surname: Targaryen
+                value: Aegon Targaryen IV
+            rin: MH:I302

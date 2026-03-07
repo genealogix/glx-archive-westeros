@@ -1,8 +1,0 @@
-events:
-    event-205:
-        type: death
-        participants:
-            - person: person-188
-              role: principal
-        properties:
-            cause: Drowning

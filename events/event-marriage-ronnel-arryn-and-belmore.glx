@@ -1,0 +1,8 @@
+events:
+    event-marriage-ronnel-arryn-and-belmore:
+        type: marriage
+        participants:
+            - person: person-ronnel-arryn
+              role: spouse
+            - person: person-belmore
+              role: spouse

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-marsella-waynwood-walton-frey:
+        type: parent_child
+        participants:
+            - person: person-marsella-waynwood
+              role: parent
+            - person: person-walton-frey
+              role: child

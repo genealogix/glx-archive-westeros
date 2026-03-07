@@ -1,0 +1,23 @@
+assertions:
+    assertion-argella-durrendon-name:
+        subject:
+            person: person-argella-durrendon
+        property: name
+        value: Argella Durrendon
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-argella-durrendon-gender:
+        subject:
+            person: person-argella-durrendon
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

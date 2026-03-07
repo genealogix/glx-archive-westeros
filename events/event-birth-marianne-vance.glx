@@ -1,0 +1,6 @@
+events:
+    event-birth-marianne-vance:
+        type: birth
+        participants:
+            - person: person-marianne-vance
+              role: principal

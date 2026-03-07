@@ -1,0 +1,6 @@
+events:
+    event-birth-garse-goodbrook:
+        type: birth
+        participants:
+            - person: person-garse-goodbrook
+              role: principal

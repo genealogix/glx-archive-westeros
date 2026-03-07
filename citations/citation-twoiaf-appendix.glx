@@ -1,0 +1,7 @@
+citations:
+    citation-twoiaf-appendix:
+        source: source-twoiaf
+        properties:
+            locator: "Appendix: Targaryen Lineage"
+            accessed: "2013-05-31"
+        notes: "Complete Targaryen family tree diagram"

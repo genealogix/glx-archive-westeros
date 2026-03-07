@@ -1,0 +1,23 @@
+assertions:
+    assertion-jeyne-royce-name:
+        subject:
+            person: person-jeyne-royce
+        property: name
+        value: Jeyne Royce
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-jeyne-royce-gender:
+        subject:
+            person: person-jeyne-royce
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

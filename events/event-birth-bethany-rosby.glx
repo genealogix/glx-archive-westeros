@@ -1,0 +1,6 @@
+events:
+    event-birth-bethany-rosby:
+        type: birth
+        participants:
+            - person: person-bethany-rosby
+              role: principal

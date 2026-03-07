@@ -1,0 +1,6 @@
+events:
+    event-birth-anya-waynwood:
+        type: birth
+        participants:
+            - person: person-anya-waynwood
+              role: principal

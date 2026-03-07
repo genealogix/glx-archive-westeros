@@ -1,0 +1,6 @@
+events:
+    event-birth-martyn-rivers:
+        type: birth
+        participants:
+            - person: person-martyn-rivers
+              role: principal

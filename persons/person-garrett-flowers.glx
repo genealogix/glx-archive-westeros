@@ -1,0 +1,10 @@
+persons:
+    person-garrett-flowers:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Garrett
+                    surname: Flowers
+                value: Garrett Flowers
+            rin: MH:I396

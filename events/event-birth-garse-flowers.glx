@@ -1,0 +1,6 @@
+events:
+    event-birth-garse-flowers:
+        type: birth
+        participants:
+            - person: person-garse-flowers
+              role: principal

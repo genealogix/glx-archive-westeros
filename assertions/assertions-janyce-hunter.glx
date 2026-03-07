@@ -1,0 +1,23 @@
+assertions:
+    assertion-janyce-hunter-name:
+        subject:
+            person: person-janyce-hunter
+        property: name
+        value: Janyce Hunter
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-janyce-hunter-gender:
+        subject:
+            person: person-janyce-hunter
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

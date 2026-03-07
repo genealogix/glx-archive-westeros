@@ -1,0 +1,10 @@
+persons:
+    person-garse-flowers:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Garse
+                    surname: Flowers
+                value: Garse Flowers
+            rin: MH:I394

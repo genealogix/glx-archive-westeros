@@ -1,0 +1,8 @@
+events:
+    event-marriage-unknown-325-and-elaena-targaryen:
+        type: marriage
+        participants:
+            - person: person-unknown-325
+              role: spouse
+            - person: person-elaena-targaryen
+              role: spouse

@@ -1,0 +1,6 @@
+events:
+    event-birth-alesander-frey:
+        type: birth
+        participants:
+            - person: person-alesander-frey
+              role: principal

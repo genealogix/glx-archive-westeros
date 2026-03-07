@@ -1,0 +1,6 @@
+events:
+    event-death-aemon-targaryen-the-dragonknight:
+        type: death
+        participants:
+            - person: person-aemon-targaryen-the-dragonknight
+              role: principal

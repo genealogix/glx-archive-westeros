@@ -1,0 +1,6 @@
+events:
+    event-death-luthor-tyrell-395:
+        type: death
+        participants:
+            - person: person-luthor-tyrell-395
+              role: principal

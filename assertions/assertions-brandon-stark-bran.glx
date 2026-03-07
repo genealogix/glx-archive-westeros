@@ -1,0 +1,23 @@
+assertions:
+    assertion-brandon-stark-bran-name:
+        subject:
+            person: person-brandon-stark-bran
+        property: name
+        value: "Brandon 'Bran' Stark"
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-brandon-stark-bran-gender:
+        subject:
+            person: person-brandon-stark-bran
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

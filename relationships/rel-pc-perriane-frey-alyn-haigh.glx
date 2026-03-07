@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-perriane-frey-alyn-haigh:
+        type: parent_child
+        participants:
+            - person: person-perriane-frey
+              role: parent
+            - person: person-alyn-haigh
+              role: child

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-theodore-tyrell-elinor-tyrell:
+        type: parent_child
+        participants:
+            - person: person-theodore-tyrell
+              role: parent
+            - person: person-elinor-tyrell
+              role: child

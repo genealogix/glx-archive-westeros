@@ -1,0 +1,10 @@
+persons:
+    person-cersei-lannister:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Cersei
+                    surname: Lannister
+                value: Cersei Lannister
+            rin: MH:I165

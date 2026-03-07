@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-janyce-hunter-walda-frey-12:
+        type: parent_child
+        participants:
+            - person: person-janyce-hunter
+              role: parent
+            - person: person-walda-frey-12
+              role: child

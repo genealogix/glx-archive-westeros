@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-mellario-trystane-martell:
+        type: parent_child
+        participants:
+            - person: person-mellario
+              role: parent
+            - person: person-trystane-martell
+              role: child

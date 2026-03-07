@@ -1,0 +1,23 @@
+assertions:
+    assertion-viserys-targaryen-ii-name:
+        subject:
+            person: person-viserys-targaryen-ii
+        property: name
+        value: Viserys Targaryen II
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-viserys-targaryen-ii-gender:
+        subject:
+            person: person-viserys-targaryen-ii
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

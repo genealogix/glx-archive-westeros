@@ -1,0 +1,23 @@
+assertions:
+    assertion-ronnel-arryn-name:
+        subject:
+            person: person-ronnel-arryn
+        property: name
+        value: Ronnel Arryn
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-ronnel-arryn-gender:
+        subject:
+            person: person-ronnel-arryn
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

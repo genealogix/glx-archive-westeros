@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-denys-arryn-and-waynwood-234:
+        type: marriage
+        participants:
+            - person: person-denys-arryn
+              role: spouse
+            - person: person-waynwood-234
+              role: spouse
+        properties:
+            marriage_event: event-marriage-denys-arryn-and-waynwood-234

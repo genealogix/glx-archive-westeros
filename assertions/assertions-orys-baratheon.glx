@@ -1,0 +1,23 @@
+assertions:
+    assertion-orys-baratheon-name:
+        subject:
+            person: person-orys-baratheon
+        property: name
+        value: Orys Baratheon
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-orys-baratheon-gender:
+        subject:
+            person: person-orys-baratheon
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-sallei-paege-walder-frey-big-walder:
+        type: parent_child
+        participants:
+            - person: person-sallei-paege
+              role: parent
+            - person: person-walder-frey-big-walder
+              role: child

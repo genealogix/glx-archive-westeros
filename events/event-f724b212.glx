@@ -1,8 +1,0 @@
-events:
-    event-18:
-        type: death
-        participants:
-            - person: person-15
-              role: principal
-        properties:
-            cause: Accident

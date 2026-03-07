@@ -1,0 +1,10 @@
+persons:
+    person-anya-waynwood:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Anya
+                    surname: Waynwood
+                value: Anya Waynwood
+            rin: MH:I251

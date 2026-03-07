@@ -1,0 +1,6 @@
+events:
+    event-birth-gerold-hightower-the-white-bull:
+        type: birth
+        participants:
+            - person: person-gerold-hightower-the-white-bull
+              role: principal

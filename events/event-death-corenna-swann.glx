@@ -1,0 +1,8 @@
+events:
+    event-death-corenna-swann:
+        type: death
+        participants:
+            - person: person-corenna-swann
+              role: principal
+        properties:
+            cause: Illness

@@ -1,0 +1,6 @@
+events:
+    event-birth-osmund-frey:
+        type: birth
+        participants:
+            - person: person-osmund-frey
+              role: principal

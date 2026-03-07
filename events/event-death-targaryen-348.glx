@@ -1,0 +1,6 @@
+events:
+    event-death-targaryen-348:
+        type: death
+        participants:
+            - person: person-targaryen-348
+              role: principal

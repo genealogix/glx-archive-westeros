@@ -1,0 +1,6 @@
+events:
+    event-birth-joanna-lannister:
+        type: birth
+        participants:
+            - person: person-joanna-lannister
+              role: principal

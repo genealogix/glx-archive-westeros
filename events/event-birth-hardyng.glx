@@ -1,0 +1,6 @@
+events:
+    event-birth-hardyng:
+        type: birth
+        participants:
+            - person: person-hardyng
+              role: principal

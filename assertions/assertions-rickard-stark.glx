@@ -1,0 +1,23 @@
+assertions:
+    assertion-rickard-stark-name:
+        subject:
+            person: person-rickard-stark
+        property: name
+        value: Rickard Stark
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-rickard-stark-gender:
+        subject:
+            person: person-rickard-stark
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

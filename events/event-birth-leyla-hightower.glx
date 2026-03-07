@@ -1,0 +1,6 @@
+events:
+    event-birth-leyla-hightower:
+        type: birth
+        participants:
+            - person: person-leyla-hightower
+              role: principal

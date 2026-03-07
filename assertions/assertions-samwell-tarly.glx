@@ -1,0 +1,23 @@
+assertions:
+    assertion-samwell-tarly-name:
+        subject:
+            person: person-samwell-tarly
+        property: name
+        value: Samwell Tarly
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-samwell-tarly-gender:
+        subject:
+            person: person-samwell-tarly
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,23 @@
+assertions:
+    assertion-geremy-frey-name:
+        subject:
+            person: person-geremy-frey
+        property: name
+        value: Geremy Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-geremy-frey-gender:
+        subject:
+            person: person-geremy-frey
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+persons:
+    person-elia-sand:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Elia
+                    surname: Sand
+                value: Elia Sand
+            rin: MH:I265

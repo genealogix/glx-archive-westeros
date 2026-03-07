@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-eddard-stark-and-catelyn-tully:
+        type: marriage
+        participants:
+            - person: person-eddard-stark
+              role: spouse
+            - person: person-catelyn-tully
+              role: spouse
+        properties:
+            marriage_event: event-marriage-eddard-stark-and-catelyn-tully

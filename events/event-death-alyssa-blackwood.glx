@@ -1,0 +1,6 @@
+events:
+    event-death-alyssa-blackwood:
+        type: death
+        participants:
+            - person: person-alyssa-blackwood
+              role: principal

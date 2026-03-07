@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-orys-baratheon-and-argella-durrendon:
+        type: marriage
+        participants:
+            - person: person-orys-baratheon
+              role: spouse
+            - person: person-argella-durrendon
+              role: spouse
+        properties:
+            marriage_event: event-marriage-orys-baratheon-and-argella-durrendon

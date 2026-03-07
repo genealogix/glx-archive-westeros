@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-symond-frey-bradamar-frey:
+        type: parent_child
+        participants:
+            - person: person-symond-frey
+              role: parent
+            - person: person-bradamar-frey
+              role: child

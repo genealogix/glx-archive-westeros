@@ -1,0 +1,23 @@
+assertions:
+    assertion-martyn-rivers-name:
+        subject:
+            person: person-martyn-rivers
+        property: name
+        value: Martyn Rivers
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-martyn-rivers-gender:
+        subject:
+            person: person-martyn-rivers
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

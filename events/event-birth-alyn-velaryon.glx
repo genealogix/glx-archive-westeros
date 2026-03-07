@@ -1,0 +1,6 @@
+events:
+    event-birth-alyn-velaryon:
+        type: birth
+        participants:
+            - person: person-alyn-velaryon
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-birth-minisa-whent:
+        type: birth
+        participants:
+            - person: person-minisa-whent
+              role: principal

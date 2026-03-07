@@ -1,0 +1,10 @@
+persons:
+    person-eddard-stark:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Eddard
+                    surname: Stark
+                value: Eddard Stark
+            rin: MH:I214

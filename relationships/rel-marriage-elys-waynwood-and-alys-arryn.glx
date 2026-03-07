@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-elys-waynwood-and-alys-arryn:
+        type: marriage
+        participants:
+            - person: person-elys-waynwood
+              role: spouse
+            - person: person-alys-arryn
+              role: spouse
+        properties:
+            marriage_event: event-marriage-elys-waynwood-and-alys-arryn

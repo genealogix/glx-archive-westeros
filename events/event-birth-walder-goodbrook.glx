@@ -1,0 +1,6 @@
+events:
+    event-birth-walder-goodbrook:
+        type: birth
+        participants:
+            - person: person-walder-goodbrook
+              role: principal

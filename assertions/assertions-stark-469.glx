@@ -1,0 +1,23 @@
+assertions:
+    assertion-stark-469-name:
+        subject:
+            person: person-stark-469
+        property: name
+        value: Stark
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-stark-469-gender:
+        subject:
+            person: person-stark-469
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

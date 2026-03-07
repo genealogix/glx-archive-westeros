@@ -1,0 +1,6 @@
+events:
+    event-birth-imry-florent:
+        type: birth
+        participants:
+            - person: person-imry-florent
+              role: principal

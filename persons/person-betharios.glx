@@ -1,0 +1,9 @@
+persons:
+    person-betharios:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Betharios
+                value: Betharios
+            rin: MH:I81

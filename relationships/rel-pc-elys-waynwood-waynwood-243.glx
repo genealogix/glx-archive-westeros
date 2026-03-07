@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-elys-waynwood-waynwood-243:
+        type: parent_child
+        participants:
+            - person: person-elys-waynwood
+              role: parent
+            - person: person-waynwood-243
+              role: child

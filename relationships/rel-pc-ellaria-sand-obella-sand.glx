@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-ellaria-sand-obella-sand:
+        type: parent_child
+        participants:
+            - person: person-ellaria-sand
+              role: parent
+            - person: person-obella-sand
+              role: child

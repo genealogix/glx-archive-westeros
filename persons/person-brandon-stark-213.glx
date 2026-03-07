@@ -1,0 +1,10 @@
+persons:
+    person-brandon-stark-213:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Brandon
+                    surname: Stark
+                value: Brandon Stark
+            rin: MH:I213

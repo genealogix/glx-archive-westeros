@@ -1,0 +1,6 @@
+events:
+    event-birth-cynthea-frey:
+        type: birth
+        participants:
+            - person: person-cynthea-frey
+              role: principal

@@ -1,0 +1,6 @@
+events:
+    event-death-bethany-rosby:
+        type: death
+        participants:
+            - person: person-bethany-rosby
+              role: principal

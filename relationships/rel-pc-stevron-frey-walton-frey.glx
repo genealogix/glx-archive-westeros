@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-stevron-frey-walton-frey:
+        type: parent_child
+        participants:
+            - person: person-stevron-frey
+              role: parent
+            - person: person-walton-frey
+              role: child

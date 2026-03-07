@@ -1,0 +1,6 @@
+events:
+    event-birth-olyvar-frey:
+        type: birth
+        participants:
+            - person: person-olyvar-frey
+              role: principal

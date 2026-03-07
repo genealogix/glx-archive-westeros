@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-walder-frey-mellara-rivers:
+        type: parent_child
+        participants:
+            - person: person-walder-frey
+              role: parent
+            - person: person-mellara-rivers
+              role: child

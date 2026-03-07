@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-randyll-tarly-dickon-tarly:
+        type: parent_child
+        participants:
+            - person: person-randyll-tarly
+              role: parent
+            - person: person-dickon-tarly
+              role: child

@@ -1,0 +1,9 @@
+persons:
+    person-royce-471:
+        properties:
+            gender: female
+            name:
+                fields:
+                    surname: Royce
+                value: Royce
+            rin: MH:I471

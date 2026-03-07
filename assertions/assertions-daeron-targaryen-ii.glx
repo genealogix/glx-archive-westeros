@@ -1,0 +1,23 @@
+assertions:
+    assertion-daeron-targaryen-ii-name:
+        subject:
+            person: person-daeron-targaryen-ii
+        property: name
+        value: Daeron Targaryen II
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-daeron-targaryen-ii-gender:
+        subject:
+            person: person-daeron-targaryen-ii
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

@@ -1,0 +1,10 @@
+persons:
+    person-delena-florent:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Delena
+                    surname: Florent
+                value: Delena Florent
+            rin: MH:I189

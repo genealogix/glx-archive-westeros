@@ -1,0 +1,10 @@
+persons:
+    person-jeyne-goodbrook:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Goodbrook
+                value: Jeyne Goodbrook
+            rin: MH:I60

@@ -1,0 +1,8 @@
+relationships:
+    rel-marriage-joffrey-baratheon-and-sansa-stark:
+        type: marriage
+        participants:
+            - person: person-joffrey-baratheon
+              role: spouse
+            - person: person-sansa-stark
+              role: spouse

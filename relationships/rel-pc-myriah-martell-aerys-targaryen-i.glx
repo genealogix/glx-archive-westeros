@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-myriah-martell-aerys-targaryen-i:
+        type: parent_child
+        participants:
+            - person: person-myriah-martell
+              role: parent
+            - person: person-aerys-targaryen-i
+              role: child

@@ -1,8 +1,0 @@
-events:
-    event-523:
-        type: death
-        participants:
-            - person: person-380
-              role: principal
-        properties:
-            cause: Accident

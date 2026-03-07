@@ -1,0 +1,10 @@
+persons:
+    person-willem-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Willem
+                    surname: Frey
+                value: Willem Frey
+            rin: MH:I35

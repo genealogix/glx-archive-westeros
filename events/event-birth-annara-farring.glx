@@ -1,0 +1,6 @@
+events:
+    event-birth-annara-farring:
+        type: birth
+        participants:
+            - person: person-annara-farring
+              role: principal

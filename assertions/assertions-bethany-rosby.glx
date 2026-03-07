@@ -1,0 +1,23 @@
+assertions:
+    assertion-bethany-rosby-name:
+        subject:
+            person: person-bethany-rosby
+        property: name
+        value: Bethany Rosby
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-bethany-rosby-gender:
+        subject:
+            person: person-bethany-rosby
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

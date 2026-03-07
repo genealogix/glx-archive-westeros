@@ -1,0 +1,23 @@
+assertions:
+    assertion-maegon-targaryen-name:
+        subject:
+            person: person-maegon-targaryen
+        property: name
+        value: Maegon Targaryen
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-maegon-targaryen-gender:
+        subject:
+            person: person-maegon-targaryen
+        property: gender
+        value: male
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

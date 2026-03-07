@@ -1,0 +1,10 @@
+persons:
+    person-bethany-rosby:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Bethany
+                    surname: Rosby
+                value: Bethany Rosby
+            rin: MH:I126

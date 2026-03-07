@@ -1,0 +1,23 @@
+assertions:
+    assertion-walda-frey-12-name:
+        subject:
+            person: person-walda-frey-12
+        property: name
+        value: Walda Frey
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."
+    assertion-walda-frey-12-gender:
+        subject:
+            person: person-walda-frey-12
+        property: gender
+        value: female
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        confidence: medium
+        status: accepted
+        notes: "Imported from GEDCOM. Verify against novel appendix."

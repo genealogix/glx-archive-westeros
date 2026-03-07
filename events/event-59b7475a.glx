@@ -1,6 +1,0 @@
-events:
-    event-409:
-        type: birth
-        participants:
-            - person: person-320
-              role: principal

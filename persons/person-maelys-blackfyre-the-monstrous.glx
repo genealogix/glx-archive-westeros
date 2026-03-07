@@ -1,0 +1,10 @@
+persons:
+    person-maelys-blackfyre-the-monstrous:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Maelys 'The Monstrous'
+                    surname: Blackfyre
+                value: Maelys 'The Monstrous' Blackfyre
+            rin: MH:I320

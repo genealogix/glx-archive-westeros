@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-rhea-florent-garth-hightower:
+        type: parent_child
+        participants:
+            - person: person-rhea-florent
+              role: parent
+            - person: person-garth-hightower
+              role: child

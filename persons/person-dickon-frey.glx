@@ -1,0 +1,10 @@
+persons:
+    person-dickon-frey:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Dickon
+                    surname: Frey
+                value: Dickon Frey
+            rin: MH:I116

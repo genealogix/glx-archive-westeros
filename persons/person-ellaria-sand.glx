@@ -1,0 +1,10 @@
+persons:
+    person-ellaria-sand:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Ellaria
+                    surname: Sand
+                value: Ellaria Sand
+            rin: MH:I264

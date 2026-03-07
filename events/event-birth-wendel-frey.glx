@@ -1,0 +1,6 @@
+events:
+    event-birth-wendel-frey:
+        type: birth
+        participants:
+            - person: person-wendel-frey
+              role: principal

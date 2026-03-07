@@ -1,0 +1,6 @@
+events:
+    event-birth-edric-storm:
+        type: birth
+        participants:
+            - person: person-edric-storm
+              role: principal

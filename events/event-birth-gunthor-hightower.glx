@@ -1,0 +1,6 @@
+events:
+    event-birth-gunthor-hightower:
+        type: birth
+        participants:
+            - person: person-gunthor-hightower
+              role: principal

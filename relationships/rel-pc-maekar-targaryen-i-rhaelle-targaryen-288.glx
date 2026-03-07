@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-maekar-targaryen-i-rhaelle-targaryen-288:
+        type: parent_child
+        participants:
+            - person: person-maekar-targaryen-i
+              role: parent
+            - person: person-rhaelle-targaryen-288
+              role: child

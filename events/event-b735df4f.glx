@@ -1,8 +1,0 @@
-events:
-    event-715:
-        type: marriage
-        participants:
-            - person: person-204
-              role: spouse
-            - person: person-210
-              role: spouse

@@ -1,0 +1,6 @@
+events:
+    event-birth-walda-frey-111:
+        type: birth
+        participants:
+            - person: person-walda-frey-111
+              role: principal

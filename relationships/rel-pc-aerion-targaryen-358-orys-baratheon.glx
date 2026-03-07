@@ -1,0 +1,8 @@
+relationships:
+    rel-pc-aerion-targaryen-358-orys-baratheon:
+        type: parent_child
+        participants:
+            - person: person-aerion-targaryen-358
+              role: parent
+            - person: person-orys-baratheon
+              role: child
