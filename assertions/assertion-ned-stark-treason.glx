@@ -1,0 +1,23 @@
+assertions:
+    assertion-ned-stark-treason-official:
+        subject:
+            person: person-eddard-stark
+        property: treason_charge
+        value: "Traitor who plotted with Robert's brothers to deny Joffrey the throne"
+        citations:
+            - citation-agot-eddard-xv
+            - citation-agot-sansa-iv
+        confidence: low
+        status: disproven
+        notes: "Official Lannister/Joffrey charge. Ned did oppose Joffrey's succession on the grounds that Joffrey is not Robert's trueborn son, but this was based on his investigation into the succession — not treason. His actual crime in Lannister terms was knowing the truth of Joffrey's parentage and trying to act on it. Sansa's letter to her family, written under duress, repeated the charge."
+
+    assertion-ned-stark-protector-of-realm:
+        subject:
+            person: person-eddard-stark
+        property: title
+        value: "Lord Protector of the Realm"
+        citations:
+            - citation-agot-eddard-xiv
+        confidence: high
+        status: proven
+        notes: "Robert Baratheon named Ned Stark Lord Regent and Protector of the Realm in his deathbed will. Ned secretly wrote 'my heir' rather than 'my son Joffrey.' Robert sealed the letter. Ser Barristan Selmy confirmed the seal was unbroken. Cersei tore the letter up in the throne room."

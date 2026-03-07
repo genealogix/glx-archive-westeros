@@ -1,0 +1,16 @@
+events:
+    event-battle-lhazareen-town:
+        type: battle
+        date: "298"
+        participants:
+            - person: person-khal-drogo
+              role: commander
+            - person: person-khal-ogo
+              role: enemy_commander
+            - person: person-daenerys-targaryen
+              role: witness
+            - person: person-jorah-mormont
+              role: participant
+        properties:
+            description: "Khal Drogo's khalasar catches Khal Ogo's khalasar attacking a Lhazareen town. Drogo defeats Ogo, kills him and his son Fogo, and sacks the town. Drogo is wounded by an arrow and arakh cut. Daenerys claims Lhazareen women as slaves to protect them from rape."
+        notes: "Approximately 10,000 captives taken as slaves. Drogo's arakh cut removed his left nipple — a wide but shallow wound. Arrow wound through his upper arm. Mirri Maz Duur (Lhazareen godswife) treats Drogo's wounds with poultices, stitching, and leaf-plasters. Mago (of Ko Jhaqo's khas) challenged Daenerys's claim of his 'prize' — Drogo sided with Dany. Qotho bloodrider warned Mirri that if Drogo suffered, she would too. Ser Jorah Mormont fought in the battle in full armor — Dothraki mocked him but he fought well. One rider taunted Jorah for wearing armor; they dueled, Jorah killed him."

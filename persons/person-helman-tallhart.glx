@@ -1,0 +1,15 @@
+persons:
+    person-helman-tallhart:
+        properties:
+            name:
+                value: "Helman Tallhart"
+                fields:
+                    type: "birth"
+                    given: "Helman"
+                    surname: "Tallhart"
+                    prefix: "Ser"
+            gender: "male"
+            house: "Tallhart"
+            title:
+                - value: "Ser"
+        notes: "Knight bannerman of House Stark. Sigil: three sentinel trees. Rallied to Robb Stark's call to arms. Present at Moat Cailin when Catelyn arrived. One of the lords bannermen who discussed strategy for the march south. Left with 400 mixed archers and swordsmen to garrison the Twins after the Frey negotiation, by Catelyn's suggestion."

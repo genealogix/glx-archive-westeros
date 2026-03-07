@@ -1,0 +1,12 @@
+relationships:
+    rel-betrothal-arya-elmar-frey:
+        type: betrothal
+        participants:
+            - person: person-arya-stark
+              role: betrothed
+            - person: person-elmar-frey
+              role: betrothed
+        properties:
+            start_date: "298"
+            context: "Part of the Frey crossing terms negotiated by Catelyn Stark at the Twins. Arya Stark to marry Elmar Frey, Lord Walder's youngest son, when both come of age. Neither party was present or consenting."
+        notes: "Robb noted 'Arya won't like that one bit.' This betrothal was never fulfilled as Arya was never returned to her family."

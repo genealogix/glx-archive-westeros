@@ -1,0 +1,22 @@
+assertions:
+    assertion-robert-death-boar:
+        subject:
+            event: event-death-robert-baratheon
+        property: cause
+        value: "Gored by a boar while hunting in the kingswood, wound mortified"
+        citations:
+            - citation-agot-eddard-xiv
+        confidence: high
+        status: proven
+        notes: "Robert Baratheon died from a boar-hunting wound. The boar gored him from groin to nipple with its tusks. He killed the boar himself despite his wounds. Two days elapsed before he was brought back to the Red Keep. Varys later implied that Lancel Lannister (Cersei's instrument) kept Robert drunk with wine on Cersei's orders, diminishing his hunting reflexes. This is consistent with an assassination by negligence rather than direct action."
+
+    assertion-robert-death-wine-cersei:
+        subject:
+            event: event-death-robert-baratheon
+        property: contributing_cause
+        value: "Lancel Lannister kept Robert supplied with strong wine at Cersei's orders"
+        citations:
+            - citation-agot-eddard-xvi
+        confidence: high
+        status: proven
+        notes: "Varys confirmed to Ned in the black cells: 'Cersei gave him the wineskins, and told him it was Robert's favourite vintage.' Lancel was the elder squire who fetched Robert's wine during the hunt. Varys: 'It was not wine that killed the king. It was your mercy.' (Meaning Ned's mercy in warning Cersei allowed her to arrange this.)"

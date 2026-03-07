@@ -1,0 +1,12 @@
+persons:
+    person-halder:
+        properties:
+            name:
+                value: "Halder"
+                fields:
+                    type: "birth"
+                    given: "Halder"
+            gender: "male"
+            title:
+                - value: "Builder, Night's Watch"
+        notes: "Night's Watch builder at Castle Black. Friend of Jon Snow. Assigned to the builders' order. Was a stonemason before joining the Watch. Helped carve the wolf's-head stone pommel for Longclaw."

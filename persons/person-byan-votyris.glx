@@ -1,0 +1,10 @@
+persons:
+    person-byan-votyris:
+        properties:
+            name:
+                value: "Byan Votyris"
+                fields:
+                    type: "birth"
+                    given: "Byan"
+                    surname: "Votyris"
+        notes: "Merchant captain. Diminutive Norvoshi man with skin like old leather and a bristling blue mustachio that swept up to his ears. Commanded a caravan of four hundred horses that arrived at Vaes Dothrak from Pentos by way of Norvos and Qohor. Likely carried a letter from Magister Illyrio to Viserys Targaryen (which Ser Jorah was secretly reading — revealing Robert Baratheon's assassination plot against Daenerys). Took custody of the poisoner sent to kill Daenerys."

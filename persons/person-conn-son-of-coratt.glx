@@ -1,0 +1,10 @@
+persons:
+    person-conn-son-of-coratt:
+        properties:
+            name:
+                value: "Conn son of Coratt"
+                fields:
+                    type: "birth"
+                    given: "Conn"
+            gender: "male"
+        notes: "Member of the Stone Crows mountain clan of the Mountains of the Moon. Joined Tyrion Lannister's party on his journey from the Eyrie to his father's army. Described as potentially handsome if washed. Spoke with pride about the Stone Crows' prowess. Agreed to ride with Lord Tywin Lannister against the Starks."

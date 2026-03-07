@@ -1,0 +1,14 @@
+relationships:
+    rel-ward-frey-grandsons-winterfell:
+        type: ward
+        participants:
+            - person: person-walder-frey-big-walder
+              role: ward
+            - person: person-walder-frey-little-walder
+              role: ward
+            - person: person-robb-stark
+              role: guardian
+        properties:
+            start_date: "298"
+            context: "Two of Lord Walder Frey's grandsons — both named Walder, aged eight and seven — sent as wards to Winterfell as part of the Frey crossing agreement. Intended as companions for Bran Stark."
+        notes: "The two boys (Big Walder and Little Walder) were escorted north to Winterfell by some of Robb's men. Both grandsons appear in later novels at Winterfell and the Twins."

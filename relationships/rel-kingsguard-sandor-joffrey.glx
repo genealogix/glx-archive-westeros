@@ -1,0 +1,12 @@
+relationships:
+    rel-kingsguard-sandor-joffrey:
+        type: kingsguard
+        participants:
+            - person: person-sandor-clegane
+              role: sworn_sword
+            - person: person-joffrey-baratheon
+              role: monarch
+        properties:
+            start_date: "298"
+            context: "Sandor Clegane (the Hound) appointed to the Kingsguard at Joffrey's first court session, replacing Barristan Selmy. Notably he refused to take a knight's vows — the first non-knight in the Sworn Brotherhood of the Kingsguard."
+        notes: "Ser Boros Blount protested that Kingsguard had always been knights. Sandor replied 'Until now.' The appointment was confirmed. Joffrey called him 'dog' in the throne room."

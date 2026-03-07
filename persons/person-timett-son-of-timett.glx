@@ -1,0 +1,13 @@
+persons:
+    person-timett-son-of-timett:
+        properties:
+            name:
+                value: "Timett son of Timett"
+                fields:
+                    type: "birth"
+                    given: "Timett"
+            gender: "male"
+            alias:
+                - value: "Red Hand"
+                  notes: "Title of war-chief among the Burned Men"
+        notes: "War-chief (red hand) of the Burned Men, a mountain clan of the Vale's Mountains of the Moon. Had not yet seen his twentieth year when he joined Tyrion Lannister. Upon reaching manhood, he burned out his own left eye with a white-hot knife — an act so extreme (most burn off a nipple, finger, or ear) that his clansmen named him a red hand. All clans in the Mountains of the Moon fear the Burned Men. Joined Tyrion's party on his way to his father's army, following Tyrion's promise of silk and steel."

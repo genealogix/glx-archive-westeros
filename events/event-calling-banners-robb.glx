@@ -1,0 +1,27 @@
+events:
+    event-calling-banners-robb:
+        type: council
+        date: "298"
+        place: place-winterfell
+        participants:
+            - person: person-robb-stark
+              role: commander
+            - person: person-jon-umber-greatjon
+              role: bannerman
+            - person: person-roose-bolton
+              role: bannerman
+            - person: person-rickard-karstark
+              role: bannerman
+            - person: person-galbart-glover
+              role: bannerman
+            - person: person-robett-glover
+              role: bannerman
+            - person: person-maege-mormont
+              role: bannerman
+            - person: person-helman-tallhart
+              role: bannerman
+            - person: person-theon-greyjoy
+              role: bannerman
+        properties:
+            description: "Robb Stark calls his father's bannermen to Winterfell after Eddard Stark's arrest in King's Landing. Approximately 12,000 men assembled."
+        notes: "Lords present: Rickard Karstark (with sons Harrion, Eddard, and Torrhen; ~2,300 men from Karhold), Greatjon Umber (threatened to go home over march order, Grey Wind bit off two of his fingers), Roose Bolton (Lord of the Dreadfort, unnerving demeanor), Galbart and Robett Glover (demanded battle command), Maege Mormont (wore mail like a man, offered a granddaughter for Robb to marry), Lord Cerwyn (brought his daughter as a potential match), Lord Hornwood (brought gifts, asked favors), Helman Tallhart. The Greatjon became Robb's loudest champion after Grey Wind bit his fingers. Bran acted as lord in Robb's place at feasts. Total host approximately 18,000 by the time they reached Moat Cailin."

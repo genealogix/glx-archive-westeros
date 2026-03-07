@@ -1,0 +1,19 @@
+events:
+    event-ned-stark-imprisoned:
+        type: trial
+        date: "298"
+        place: place-red-keep
+        participants:
+            - person: person-eddard-stark
+              role: subject
+            - person: person-cersei-lannister
+              role: accuser
+            - person: person-joffrey-baratheon
+              role: authority
+            - person: person-janos-slynt
+              role: executor
+            - person: person-petyr-baelish
+              role: betrayer
+        properties:
+            description: "Eddard Stark is arrested in the throne room after presenting Robert's letter naming him Protector of the Realm. Cersei tears up the letter, declares him traitor. The City Watch, bribed by Littlefinger, supports the Lannisters. Ned's household guards are slaughtered. Ned is imprisoned in the black cells."
+        notes: "Tomard (Fat Tom), Varly, Cayn, and other Stark household guards killed in the throne room. Littlefinger held a dagger to Ned's throat. Varys stood by and watched without intervening. Ned charged with treason for plotting with Robert's brothers to deny Joffrey the throne. Cersei tore Robert's sealed letter."

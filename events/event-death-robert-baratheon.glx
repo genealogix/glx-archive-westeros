@@ -1,0 +1,20 @@
+events:
+    event-death-robert-baratheon:
+        type: death
+        date: "298"
+        place: place-red-keep
+        participants:
+            - person: person-robert-baratheon
+              role: subject
+            - person: person-eddard-stark
+              role: witness
+            - person: person-renly-baratheon
+              role: witness
+            - person: person-grand-maester-pycelle
+              role: witness
+            - person: person-cersei-lannister
+              role: witness
+        properties:
+            cause: "Gored by a boar while hunting in the kingswood. Wound mortified over two days. Grand Maester Pycelle could not save him."
+            also_known_as: "Death of King Robert"
+        notes: "Robert Baratheon died from a boar-hunting wound sustained in the kingswood. Lancel Lannister, his squire, kept him supplied with strong wine at Cersei's orders, dulling his reactions. Varys implied this wine was responsible — the boar could not have killed a sober Robert. Robert dictated his will naming Ned Stark as Protector of the Realm. He died after Grand Maester Pycelle administered milk of the poppy."

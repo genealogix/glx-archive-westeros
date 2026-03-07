@@ -1,0 +1,13 @@
+persons:
+    person-donal-noye:
+        properties:
+            name:
+                value: "Donal Noye"
+                fields:
+                    type: "birth"
+                    given: "Donal"
+                    surname: "Noye"
+            gender: "male"
+            title:
+                - value: "Armorer, Castle Black"
+        notes: "One-armed armorer of the Night's Watch at Castle Black. Lost his arm in battle. Worked in the armory at Castle Black. Helped reforge the pommel of Longclaw after the wight fire. Known to have forged Robert Baratheon's famous war hammer in his earlier life."

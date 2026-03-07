@@ -1,0 +1,17 @@
+events:
+    event-wight-attack-castle-black:
+        type: battle
+        date: "298"
+        place: place-castle-black
+        participants:
+            - person: person-jon-snow
+              role: defender
+            - person: person-othor
+              role: attacker
+            - person: person-jeor-mormont
+              role: subject
+            - person: person-jaremy-rykker
+              role: victim
+        properties:
+            description: "The reanimated corpse of ranger Othor (one of Benjen Stark's missing men) attacked Lord Commander Mormont in his solar at Castle Black. A second wight (Jafer Flowers) attacked elsewhere. Jon Snow destroyed Othor with fire, burning his own right hand badly."
+        notes: "Jon Snow burned the drapes to destroy the wight after discovering fire was its weakness. The Lord Commander's Tower's upper floors were gutted by fire. Ser Jaremy Rykker was killed by the headless wight Jafer Flowers — it pulled his own dagger and stabbed him. Four others also slain. The guard outside Jon's cell was killed (neck twisted around). This was the first confirmed wight attack at Castle Black. The phrase 'Burn!' was cried by Mormont's raven, which seemed to understand."

@@ -1,0 +1,15 @@
+persons:
+    person-wylis-manderly:
+        properties:
+            name:
+                value: "Wylis Manderly"
+                fields:
+                    type: "birth"
+                    given: "Wylis"
+                    surname: "Manderly"
+                    prefix: "Ser"
+            gender: "male"
+            house: "Manderly"
+            title:
+                - value: "Ser"
+        notes: "Son of Lord Wyman Manderly of White Harbor. Elder of two Manderly sons who escorted Catelyn Stark to Robb's army at Moat Cailin, leading approximately 1,500 men. Described as nearly as rotund as his father — could barely mount his own horse. Quiet and formal. Commanded Manderly forces; stayed behind with the men to make camp while his brother Wendel escorted Catelyn to Robb."

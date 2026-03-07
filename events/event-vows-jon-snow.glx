@@ -1,0 +1,15 @@
+events:
+    event-vows-jon-snow:
+        type: knighting
+        date: "298"
+        place: place-weirwood-grove-beyond-wall
+        participants:
+            - person: person-jon-snow
+              role: subject
+            - person: person-samwell-tarly
+              role: subject
+            - person: person-bowen-marsh
+              role: officiant
+        properties:
+            description: "Jon Snow and Samwell Tarly take their Night's Watch vows at a grove of nine weirwood trees half a league north of Castle Black, beyond the Wall. Jon chose the heart tree over the sept because he keeps the old gods."
+        notes: "Jon assigned to stewards (Mormont's personal steward). Sam assigned to stewards (assisting Maester Aemon). Grenn, Pyp, Matthar, Todder assigned to rangers. Halder, Albett assigned to builders. Dareon assigned to stewards (Eastwatch). Immediately after the ceremony, Ghost returned with a severed human hand."

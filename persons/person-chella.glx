@@ -1,0 +1,10 @@
+persons:
+    person-chella:
+        properties:
+            name:
+                value: "Chella daughter of Cheyk"
+                fields:
+                    type: "birth"
+                    given: "Chella"
+            gender: "female"
+        notes: "Leader (or prominent member) of the Black Ears clan, a mountain clan of the Vale's Mountains of the Moon. Small, hard woman, flat as a boy. Her sons have taken fifty ears among them (the Black Ears take the ears of slain enemies as trophies). Not a fool, as she herself states. Scouted ahead for Tyrion and reported Lord Tywin's army of 20,000 at the crossroads. Joined Tyrion's party on his way to his father's army, following his promises of horses and steel."

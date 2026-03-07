@@ -1,0 +1,13 @@
+persons:
+    person-othell-yarwyck:
+        properties:
+            name:
+                value: "Othell Yarwyck"
+                fields:
+                    type: "birth"
+                    given: "Othell"
+                    surname: "Yarwyck"
+            gender: "male"
+            title:
+                - value: "First Builder, Castle Black"
+        notes: "First Builder of the Night's Watch at Castle Black. Commanded the builders' order. Present at the ceremony where Jon Snow, Samwell Tarly, and others took their Night's Watch vows."

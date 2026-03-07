@@ -1,0 +1,12 @@
+persons:
+    person-dareon:
+        properties:
+            name:
+                value: "Dareon"
+                fields:
+                    type: "birth"
+                    given: "Dareon"
+            gender: "male"
+            title:
+                - value: "Steward, Night's Watch"
+        notes: "Night's Watch steward. Former singer who performed at high lords' tables. Assigned to Eastwatch-by-the-Sea to assist Cotter Pyke with trade negotiations, leveraging his social skills with merchant galleys. Joined the Watch because he seduced a knight's daughter."

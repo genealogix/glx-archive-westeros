@@ -1,0 +1,13 @@
+persons:
+    person-othor:
+        properties:
+            name:
+                value: "Othor"
+                fields:
+                    type: "birth"
+                    given: "Othor"
+            gender: "male"
+            title:
+                - value: "Ranger, Night's Watch"
+            cause_of_death: "Killed beyond the Wall, reanimated as a wight, destroyed by fire"
+        notes: "Night's Watch ranger. One of six men who rode out with Benjen Stark on his ranging. Found dead beyond the Wall near Castle Black along with Jafer Flowers. His body showed signs of the Others: blue eyes, black hands, no blood from his wounds, no rot. Ghost found the bodies. Reanimated as a wight and attacked Lord Commander Mormont in his solar. Jon Snow destroyed it with fire, severely burning his right hand in the process."

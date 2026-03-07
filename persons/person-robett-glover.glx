@@ -1,0 +1,12 @@
+persons:
+    person-robett-glover:
+        properties:
+            name:
+                value: "Robett Glover"
+                fields:
+                    type: "birth"
+                    given: "Robett"
+                    surname: "Glover"
+            gender: "male"
+            house: "Glover"
+        notes: "Lord bannerman of House Stark. House Glover sigil: a mailed fist, silver on scarlet. Rallied to Robb Stark's call to arms. Present at Moat Cailin council. Along with Galbart Glover, he was one of the Glovers who urged Robb to go around Tywin's army rather than attack it directly. Also demanded the honor of battle command."

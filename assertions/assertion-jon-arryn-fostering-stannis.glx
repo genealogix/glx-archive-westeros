@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-arryn-fostering-stannis:
+        subject:
+            person: person-jon-arryn
+        property: planned_action
+        value: "Jon Arryn intended to foster his son Robert Arryn with Stannis Baratheon on Dragonstone, not with Tywin Lannister at Casterly Rock"
+        citations:
+            - citation-agot-catelyn-xi
+        confidence: medium
+        status: speculative
+        notes: "Lord Walder Frey told Catelyn: 'It was Lord Stannis … Do you think I can't tell Lord Stannis from Lord Tywin?' Catelyn had believed the fostering was planned with Tywin. This revelation was confirmed by Walder who was present at the meeting in King's Landing where Jon Arryn made the arrangement. Lysa Arryn reacted with great offense and stormed off — possibly because Lysa feared or distrusted Stannis, or because she had other reasons to keep her son from Dragonstone. Jon Arryn died before the fostering could occur. This detail suggests Jon Arryn was more closely allied with or trusting of Stannis than previously understood."

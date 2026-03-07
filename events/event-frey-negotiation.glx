@@ -1,0 +1,17 @@
+events:
+    event-frey-negotiation:
+        type: council
+        date: "298"
+        place: place-the-twins
+        participants:
+            - person: person-catelyn-stark
+              role: negotiator
+            - person: person-walder-frey
+              role: host
+            - person: person-stevron-frey
+              role: intermediary
+            - person: person-robb-stark
+              role: beneficiary
+        properties:
+            description: "Catelyn Stark negotiates alone with Lord Walder Frey for passage across the Green Fork of the Trident. Terms agreed allow Robb's host to cross with Frey forces joining them."
+        notes: "Terms: Robb to marry a Frey daughter of his choosing after the war; Arya Stark betrothed to Elmar Frey (both children, to wed when of age); Olyvar Frey to serve as Robb's personal squire; two Frey grandsons (Big Walder and Little Walder) fostered at Winterfell. Catelyn left Helman Tallhart with 400 men to garrison the Twins. Lord Walder revealed Jon Arryn had intended to foster his son with Stannis Baratheon (not Tywin as Catelyn believed). Ser Perwyn Frey served as hostage during negotiations. Robb's cavalry crosses the Twins; Roose Bolton commands foot continuing south."

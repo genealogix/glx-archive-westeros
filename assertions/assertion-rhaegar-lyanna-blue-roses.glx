@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaegar-lyanna-tourney-harrenhal:
+        subject:
+            person: person-rhaegar-targaryen
+        property: relationship
+        value: "At the Tourney at Harrenhal (year of false spring), Rhaegar Targaryen crowned Lyanna Stark queen of love and beauty, bypassing his own wife Elia Martell"
+        citations:
+            - citation-agot-eddard-xvi
+        confidence: high
+        status: proven
+        notes: "Recalled by Ned Stark in the black cells: 'He remembered the moment when all the smiles died, when Prince Rhaegar Targaryen urged his horse past his own wife, the Dornish princess Elia Martell, to lay the queen of beauty's laurel in Lyanna's lap. He could see it still: a crown of winter roses, blue as frost.' This is corroborated by multiple POV memories across the novels. Rhaegar also defeated Brandon Stark, Bronze Yohn Royce, Arthur Dayne, and Barristan Selmy in the jousting that day. Ned was 18 at the time. Jaime Lannister took his Kingsguard vows at the same tourney."

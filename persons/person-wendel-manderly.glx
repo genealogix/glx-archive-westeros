@@ -1,0 +1,15 @@
+persons:
+    person-wendel-manderly:
+        properties:
+            name:
+                value: "Wendel Manderly"
+                fields:
+                    type: "birth"
+                    given: "Wendel"
+                    surname: "Manderly"
+                    prefix: "Ser"
+            gender: "male"
+            house: "Manderly"
+            title:
+                - value: "Ser"
+        notes: "Younger son of Lord Wyman Manderly of White Harbor. Escorted Catelyn Stark south to join Robb's army at Moat Cailin along with his brother Ser Wylis. Loud and boisterous by nature. Both brothers share their father's great girth and walrus mustaches. Accompanied Catelyn when she rode to present their father's respects to Robb. Spoke up at the council suggesting Lord Frey should open his gates rather than demanding Robb enter alone."

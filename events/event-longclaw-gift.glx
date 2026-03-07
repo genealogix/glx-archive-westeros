@@ -1,0 +1,13 @@
+events:
+    event-longclaw-gift:
+        type: knighting
+        date: "298"
+        place: place-castle-black
+        participants:
+            - person: person-jeor-mormont
+              role: subject
+            - person: person-jon-snow
+              role: recipient
+        properties:
+            description: "Lord Commander Jeor Mormont gives Jon Snow the Valyrian steel bastard sword Longclaw, the ancestral Mormont blade, in recognition of Jon's courage in fighting the wight Othor and saving Mormont's life."
+        notes: "The sword's original pommel (a silver bear's head, worn smooth) was replaced with a wolf's head carved from pale stone by a Night's Watch builder, with garnet eyes purchased in Mole's Town by Samwell Tarly. Mormont had laid the sword aside because it reminded him of his son Jorah's disgrace. He passed it to Jorah when he took the black, Jorah left it behind when he fled, and Mormont's sister returned it. Found undamaged in the ashes of the burned solar — Valyrian steel does not melt. The sword was named Longclaw. Jon's right hand was burned in the fight, scarred permanently."

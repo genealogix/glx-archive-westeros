@@ -1,0 +1,11 @@
+assertions:
+    assertion-aemon-targaryen-identity:
+        subject:
+            person: person-aemon-targaryen-maester
+        property: lineage
+        value: "Aemon Targaryen, son of Maekar I, brother of Aegon V"
+        citations:
+            - citation-agot-jon-x
+        confidence: high
+        status: proven
+        notes: "Maester Aemon revealed his Targaryen identity to Jon Snow in the Night's Watch rookery at Castle Black. His exact words: 'My father was Maekar, the First of his Name, and my brother Aegon reigned after him in my stead. My grandfather named me for Prince Aemon the Dragonknight, who was his uncle, or his father, depending on which tale you believe. Aemon, he called me … Aemon Targaryen.' He took the black rather than contest the Iron Throne, and served as maester at Castle Black for decades, watching his family be destroyed. This makes him great-uncle to Aerys II (the Mad King)."

@@ -1,0 +1,15 @@
+persons:
+    person-jaremy-rykker:
+        properties:
+            name:
+                value: "Jaremy Rykker"
+                fields:
+                    type: "birth"
+                    given: "Jaremy"
+                    surname: "Rykker"
+                    prefix: "Ser"
+            gender: "male"
+            title:
+                - value: "Ser"
+                - value: "Commander of Rangers, Castle Black"
+        notes: "Knight of the Night's Watch. Commanded the rangers at Castle Black in the absence of Benjen Stark. Identified the bodies of Othor and Jafer Flowers (two of Benjen Stark's missing rangers) beyond the Wall. Killed by the wight Jafer Flowers — the headless corpse pulled his dagger and stabbed him in the bowels. Ser Endrew Tarth replaced him as master-at-arms."

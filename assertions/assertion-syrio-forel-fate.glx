@@ -1,0 +1,11 @@
+assertions:
+    assertion-syrio-forel-fate:
+        subject:
+            person: person-syrio-forel
+        property: fate
+        value: "Last seen holding Ser Meryn Trant at bay with a broken wooden sword; fate unknown"
+        citations:
+            - citation-agot-arya-iv
+        confidence: low
+        status: speculative
+        notes: "Syrio Forel disabled five Lannister guardsmen with a wooden practice sword before facing Ser Meryn Trant alone, a Kingsguard knight in full plate armor. His stick was cut in two. Arya fled as he was still fighting. He was not confirmed dead in AGOT. In the text Ser Meryn slashed at him, but no death blow was described — only the stick being cut in half. His ultimate fate is disputed by fans and never definitively resolved in published books through ADWD."

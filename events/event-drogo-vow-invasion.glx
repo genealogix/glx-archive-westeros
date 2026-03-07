@@ -1,0 +1,15 @@
+events:
+    event-drogo-vow-invasion:
+        type: council
+        date: "298"
+        place: place-vaes-dothrak
+        participants:
+            - person: person-khal-drogo
+              role: subject
+            - person: person-daenerys-targaryen
+              role: witness
+            - person: person-jorah-mormont
+              role: witness
+        properties:
+            description: "After a failed assassination attempt on Daenerys Targaryen (wine merchant sent by King Robert), Khal Drogo swears a great oath before the Mother of Mountains to invade the Seven Kingdoms and win the Iron Throne for his unborn son Rhaego."
+        notes: "Drogo's exact vow: 'I will take my khalasar west to where the world ends, and ride the wooden horses across the black salt water as no khal has done before. I will kill the men in the iron suits and tear down their stone houses. I will rape their women, take their children as slaves, and bring their broken gods back to Vaes Dothrak to bow down beneath the Mother of Mountains.' The khalasar departed Vaes Dothrak two days later, marching south and west. The poisoner was chained to Dany's silver as punishment. Ser Jorah Mormont revealed Robert Baratheon had offered lands and lordships for Dany's death, based on Illyrio's letter."

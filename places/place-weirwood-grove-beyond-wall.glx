@@ -1,0 +1,8 @@
+places:
+    place-weirwood-grove-beyond-wall:
+        name: "The Weirwood Grove Beyond Castle Black"
+        type: landmark
+        parent: place-haunted-forest
+        properties:
+            description: "A sacred grove of nine weirwood trees growing in a rough circle, half a league north of Castle Black beyond the Wall. All nine faces of the weirwoods stare inward. The forest floor is carpeted with fallen leaves, bloodred on top, black rot beneath. In the wolfswood around Winterfell one rarely finds more than two or three weirwoods together — nine in a grove is extraordinary."
+        notes: "Site where Jon Snow and Samwell Tarly took their Night's Watch vows, choosing to swear before the old gods rather than in Castle Black's sept. Lord Commander Mormont told them: 'Beyond the Wall the haunted forest stands as it stood in the Dawn Age, long before the Andals brought the Seven across the narrow sea. You will find a grove of weirwoods half a league from this spot, and mayhap your gods as well.'"

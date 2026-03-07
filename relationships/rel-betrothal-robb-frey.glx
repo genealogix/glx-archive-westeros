@@ -1,0 +1,12 @@
+relationships:
+    rel-betrothal-robb-frey:
+        type: betrothal
+        participants:
+            - person: person-robb-stark
+              role: betrothed
+            - person: person-walder-frey
+              role: guardian
+        properties:
+            start_date: "298"
+            context: "Part of the agreement for passage across the Twins. Robb Stark agreed to marry a Frey daughter of his choosing after the war, as negotiated by his mother Catelyn Stark with Lord Walder Frey."
+        notes: "Robb consented to the terms even knowing he had no choice. The specific Frey bride was not named at time of agreement — Robb was to choose from among Lord Walder's daughters and granddaughters. This betrothal is later broken when Robb marries Jeyne Westerling in ASOS, precipitating the Red Wedding."

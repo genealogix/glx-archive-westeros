@@ -1,0 +1,14 @@
+persons:
+    person-khal-ogo:
+        properties:
+            name:
+                value: "Khal Ogo"
+                fields:
+                    type: "birth"
+                    given: "Ogo"
+                    prefix: "Khal"
+            gender: "male"
+            title:
+                - value: "Khal"
+            cause_of_death: "Killed by Khal Drogo"
+        notes: "Dothraki khal who had shared the high bench with Drogo and Viserys at the naming feast in Vaes Dothrak. His khalasar was attacking the Lhazareen town when Khal Drogo caught him. Slain by Drogo in the battle. His son Fogo became khal on his death, but Fogo was also slain by Drogo the same day. The bloodriders cut the bells from their hair and added them to Drogo's braid."

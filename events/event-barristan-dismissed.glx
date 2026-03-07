@@ -1,0 +1,15 @@
+events:
+    event-barristan-dismissed:
+        type: abdication
+        date: "298"
+        place: place-throne-room-kings-landing
+        participants:
+            - person: person-barristan-selmy
+              role: subject
+            - person: person-joffrey-baratheon
+              role: authority
+            - person: person-cersei-lannister
+              role: authority
+        properties:
+            description: "Ser Barristan Selmy is dismissed from the Kingsguard by royal decree at Joffrey's first court session. He strips off his white armor in the throne room, declares himself a knight, and vows to die as one. Sandor Clegane (the Hound) is appointed to the Kingsguard in his place."
+        notes: "Ser Barristan was offered a hall to retire in and land north of Lannisport by Lord Varys on behalf of Lord Tywin. He rejected it with contempt. He flung his sword at the foot of the Iron Throne and walked out. Janos Slynt ordered his arrest — Barristan killed two gold cloaks and escaped. He called Jaime Lannister 'the Kingslayer' and warned that Stannis would take the throne. Sandor Clegane accepted the Kingsguard post but refused to take a knight's vows since he is not a knight."
