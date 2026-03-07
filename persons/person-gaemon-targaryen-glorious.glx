@@ -1,0 +1,16 @@
+persons:
+    person-gaemon-targaryen-glorious:
+        properties:
+            name:
+                value: "Gaemon Targaryen"
+                fields:
+                    given: "Gaemon"
+                    surname: "Targaryen"
+                    type: "birth"
+            alias:
+                - value: "Gaemon the Glorious"
+            gender: "male"
+            house: "Targaryen"
+            title:
+                - value: "Lord of Dragonstone"
+        notes: "Son of Aenar Targaryen, succeeded his father as Lord of Dragonstone after the Doom of Valyria. He was the brother and husband of Daenys the Dreamer (following Valyrian custom), and became known as Gaemon the Glorious. For the century following the Doom (the Century of Blood), House Targaryen looked east, not west. Gaemon was succeeded by his son Aegon and daughter Elaena, who ruled together; after them came their son Maegon, then his brother Aerys, and Aerys's sons Aelyx, Baelon, and Daemion. Daemion's son Aerion then succeeded, and Aerion's son Aegon became Aegon the Conqueror."

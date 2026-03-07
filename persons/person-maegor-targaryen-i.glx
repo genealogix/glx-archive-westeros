@@ -9,3 +9,10 @@ persons:
                     surname: Targaryen
                 value: Maegor Targaryen I
             rin: MH:I356
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+            alias:
+                - value: "Maegor the Cruel"
+            died_on: "48"
+        notes: "Son of Aegon the Conqueror and Visenya Targaryen. Reigned 42–48 AC. Known as Maegor the Cruel — 'no crueler king ever sat the Iron Throne.' A born warrior: defeated hardened knights in the melee at thirteen, knighted by Aegon at sixteen. Took the Valyrian sword Blackfyre as his own. Exiled by Aenys I in 39 AC for secretly taking Alys Harroway as a second wife in a Valyrian ceremony (officiated by Visenya). Came to the throne after Aenys's death, wielded brutal power against the Faith Militant (his wars wiped out the Warrior's Sons and Poor Fellows). Took multiple wives: Ceryse Hightower (first, barren), Alys Harroway, and others. Known for violence and absolute cruelty. Found dead on the Iron Throne in 48 AC — his death was likely by suicide or assassination, with many suspects."

@@ -1,0 +1,33 @@
+assertions:
+    assertion-aegon-conquest-start-date:
+        subject:
+            event: event-aegons-conquest
+        property: date
+        value: "2 BC (Aegon's Landing) — 2 AC (Coronation at Oldtown)"
+        citations:
+            - citation-twoiaf-conquest
+        confidence: high
+        status: proven
+        notes: "TWOIAF clarifies the often-misunderstood dating: Aegon landed at the Blackwater in 2 BC, but his reign is dated from his coronation at Oldtown (1 AC). Most conquering happened in 2 BC to 1 BC. Dorne remained unsubdued for nearly two more centuries."
+
+    assertion-orys-baratheon-first-hand:
+        subject:
+            person: person-orys-baratheon
+        property: title
+        value: "First Hand of the King"
+        citations:
+            - citation-twoiaf-conquest
+        confidence: high
+        status: proven
+        notes: "TWOIAF states directly: 'Thus Baratheon is reckoned by the maesters the first King's Hand.' Aegon proclaimed him 'my shield, my stalwart, my strong right hand' at the Aegonfort ceremony."
+
+    assertion-kingsguard-founded-by-visenya:
+        subject:
+            person: person-visenya-targaryen
+        property: role
+        value: "Conceived and created the Kingsguard"
+        citations:
+            - citation-twoiaf-aegon-i
+        confidence: high
+        status: proven
+        notes: "TWOIAF: 'It was Visenya, not Aegon, who decided the nature of the Kingsguard.' She modeled their vows on the Night's Watch. When Aegon suggested a grand tourney to choose members, Visenya dissuaded him, saying he needed loyalty more than skill. She personally selected the first seven members. The first Lord Commander was Ser Corlys Velaryon."

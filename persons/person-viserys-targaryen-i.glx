@@ -9,3 +9,8 @@ persons:
                     surname: Targaryen
                 value: Viserys Targaryen I
             rin: MH:I340
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+            died_on: "129"
+        notes: "Viserys I. Reigned 103–129 AC. Grandson of Jaehaerys I, son of Baelon the Brave and Princess Alyssa. Inherited a secure throne, full treasury, and legacy of goodwill. The Targaryen dynasty reached its peak power during his reign — more dragons existed at this time (103–129 AC) than at any other. His chief problem was succession: his first wife Queen Aemma Arryn died in childbirth in 105 AC; he then named his daughter Rhaenyra his heir (Princess of Dragonstone). He later wed Alicent Hightower, who bore him sons Aegon, Aemond, and Daeron — creating the succession dispute that ignited the Dance of the Dragons after his death. His reign saw the rise of his brother Daemon Targaryen as a mercurial, dangerous prince. Died 129 AC, his succession disputed between Rhaenyra (his named heir) and Aegon II (his eldest son by Alicent)."

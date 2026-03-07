@@ -9,3 +9,15 @@ persons:
                     surname: Targaryen
                 value: Aegon Targaryen V
             rin: MH:I200
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+                - value: "Prince of Dragonstone"
+            alias:
+                - value: "Aegon the Unlikely"
+                - value: "Aegon the Fortunate"
+                - value: "Egg"
+            born_on: "200"
+            died_on: "259"
+            religion: "Faith of the Seven"
+        notes: "Aegon V, the Unlikely. Reigned 233–259 AC. Fourth son of Maekar I, known as 'Egg' during his years fostered with hedge knight Ser Duncan the Tall. Selected by the Great Council of 233 AC after his elder brothers were dead or had renounced their claims. Married Betha Blackwood (Black Betha) — a love match. A reformist king who championed the smallfolk against the nobility; his reforms were repeatedly blocked by proud lords. Dreamed of dragons returning to give him leverage over the lords. His children all married for love rather than following his planned political betrothals: Prince Duncan ('the Prince of Dragonflies') wed Jenny of Oldstones, Prince Jaehaerys wed his sister Shaera, Prince Daeron (who died young) refused his match. Died at Summerhall in 259 AC in a catastrophic fire while attempting to hatch dragon eggs with wildfire and pyromancers. His son Jaehaerys II succeeded him."

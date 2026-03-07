@@ -1,0 +1,13 @@
+persons:
+    person-ghost-of-high-heart:
+        properties:
+            name:
+                value: "The Ghost of High Heart"
+                fields:
+                    given: "The Ghost of High Heart"
+                    type: "alias"
+            alias:
+                - value: "The Woods Witch"
+                - value: "Jenny's Woods Witch"
+            gender: "female"
+        notes: "A dwarfish, albino woman who accompanied Jenny of Oldstones to the court of Aegon V. Lady Jenny claimed she was a child of the forest; she was known as a woods witch of the riverlands. She is reputed to have prophesied that the prince who was promised would be born of the line of Aerys and Rhaella — a prophecy that drove Prince Jaehaerys II to wed his children Aerys and Rhaella to each other. She later appears in the riverlands during the War of the Five Kings as an elderly woman haunting the hill of High Heart where Erreg the Kinslayer slaughtered the children of the forest, demanding payment in songs from the Brotherhood Without Banners in exchange for her prophetic dreams."

@@ -1,0 +1,14 @@
+events:
+    event-first-blackfyre-rebellion:
+        type: rebellion
+        date: "196"
+        participants:
+            - person: person-aegon-blackfyre
+              role: subject
+            - person: person-daeron-targaryen-ii
+              role: opponent
+            - person: person-brynden-targaryen-bloodraven
+              role: participant
+        properties:
+            description: "The First Blackfyre Rebellion (196 AC). Daemon Blackfyre — legitimized bastard son of Aegon IV and Daena the Defiant (his cousin), bearing the Valyrian steel sword Blackfyre — raised rebellion against his half-brother Daeron II. Many lords who chafed under Daeron's Dornish-friendly policies supported him. The rebellion ended at the Battle of the Redgrass Field, where Daemon Blackfyre and his eldest two sons were killed by an arrow loosed by Brynden Rivers (Bloodraven). The Blackfyre line continued through Daemon's other sons and descendants, launching four further rebellions over the following century."
+            also_known_as: "The First Blackfyre Rebellion"

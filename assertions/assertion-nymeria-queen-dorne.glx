@@ -1,0 +1,23 @@
+assertions:
+    assertion-nymeria-burned-ships:
+        subject:
+            person: person-nymeria
+        property: action
+        value: "Burned the Rhoynish fleet on arriving in Dorne to prevent retreat"
+        citations:
+            - citation-twoiaf-ten-thousand-ships
+            - citation-twoiaf-nymeria
+        confidence: high
+        status: proven
+        notes: "TWOIAF: Nymeria burned the ships on arrival in Dorne and declared 'Our wanderings are at an end. We have found a new home, and here we shall live and die.' In the light of their burning, she named Mors Martell the Prince of Dorne. Some Rhoynar mourned the loss; they became the orphans of the Greenblood who still ply that river to this day."
+
+    assertion-nymeria-ruled-dorne-27-years:
+        subject:
+            person: person-nymeria
+        property: role
+        value: "Unquestioned ruler of Dorne for nearly twenty-seven years"
+        citations:
+            - citation-twoiaf-nymeria
+        confidence: high
+        status: proven
+        notes: "TWOIAF states Nymeria 'remained the unquestioned ruler of Dorne for almost twenty-seven years, her husbands serving only as counselors and consorts.' She survived three marriages (Mors Martell, Lord Uller, Ser Davos Dayne of Starfall), twelve assassination attempts, two rebellions, and three foreign invasions."

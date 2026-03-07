@@ -1,0 +1,13 @@
+events:
+    event-tragedy-summerhall:
+        type: death
+        date: "259"
+        place: place-summerhall
+        participants:
+            - person: person-aegon-targaryen-v
+              role: subject
+            - person: person-jenny-of-oldstones
+              role: participant
+        properties:
+            description: "The tragedy at Summerhall (259 AC). King Aegon V, obsessed with restoring dragons to give the Crown power over the lords, summoned family and court to Summerhall for both a celebration (the imminent birth of his great-grandchild Rhaegar, to Aerys and Rhaella) and a dragon-hatching attempt using seven eggs, wildfire, pyromancers, and ancient lore. The fire grew out of control; the castle burned. Aegon V died in the catastrophe, as did his son Prince Duncan (the Prince of Dragonflies), Jenny of Oldstones, and others present. The only survivor of note was Ser Duncan the Tall (Lord Commander of the Kingsguard, Aegon's old friend and hedge knight mentor). Rhaegar Targaryen was born amidst the smoke and ashes. Archmaester Gyldayn's account of what truly happened was heavily damaged — a page of his history was blotted by ink, and the witnesses would not speak of it."
+            also_known_as: "The Tragedy at Summerhall; The Fire at Summerhall"

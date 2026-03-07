@@ -9,3 +9,13 @@ persons:
                     surname: Targaryen
                 value: Baelor Targaryen I
             rin: MH:I335
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+                - value: "High Septon (self-proclaimed)"
+            alias:
+                - value: "Baelor the Blessed"
+                - value: "Baelor the Beloved"
+            died_on: "171"
+            religion: "Faith of the Seven"
+        notes: "Baelor I, the Blessed (or the Beloved). Reigned 161–171 AC. Second son of Aegon III, succeeded his brother Daeron I. Extremely pious — nearly a fanatic of the Faith. Walked barefoot through the Boneway to negotiate peace with Dorne; was bitten by vipers and nearly died. Freed his cousin Aemon the Dragonknight from the snake pit. Annulled his own marriage to his sister Daena (the Defiant) without consummating it. Imprisoned his sisters Daena, Rhaena, and Elaena in the Maidenvault to protect their virtue from lustful eyes. Demolished the Dragonpit and had dragon eggs destroyed. Commissioned the Grand Sept of Baelor. Died 171 AC, possibly of prolonged fasting. Because he had no children, his uncle Viserys II succeeded him."

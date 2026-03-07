@@ -1,0 +1,17 @@
+persons:
+    person-meria-martell:
+        properties:
+            name:
+                value: "Meria Martell"
+                fields:
+                    given: "Meria"
+                    surname: "Martell"
+                    type: "birth"
+            alias:
+                - value: "The Yellow Toad of Dorne"
+            gender: "female"
+            house: "Martell"
+            title:
+                - value: "Princess of Dorne"
+            born_on: "ABT 0"
+        notes: "Princess of Dorne at the time of Aegon's Conquest. She was eighty years old, had ruled for sixty of those years, and was very fat, blind, and almost bald — yet her wits were fully intact. When Rhaenys Targaryen rode Meraxes to Sunspear, Meria refused to fight or kneel. She told Rhaenys: 'I will not fight you, nor will I kneel to you. Dorne has no king. Tell your brother that.' She promised the Targaryens would not bend, break, or bow Dorne, invoking the Martell words 'Unbowed, Unbent, Unbroken.' Argilac the Arrogant had named her 'the Yellow Toad of Dorne.' Her defiance began the long resistance that kept Dorne outside the realm for nearly two centuries after the Conquest."

@@ -1,0 +1,14 @@
+persons:
+    person-garin-of-chroyane:
+        properties:
+            name:
+                value: "Garin of Chroyane"
+                fields:
+                    given: "Garin"
+                    type: "birth"
+            alias:
+                - value: "Garin the Great"
+            gender: "male"
+            title:
+                - value: "Prince of Chroyane"
+        notes: "The greatest Rhoynish prince, ruler of Chroyane (the festival city). He called together the greatest Rhoynish alliance ever assembled — a quarter million warriors — after Valyria destroyed the city of Sarhoy. His host marched down the Rhoyne destroying Valyrian outposts and winning victories at Selhorys, Valysar, and Volon Therys (where he defeated three dragonlords). But when the Freehold sent three hundred or more dragons in response, his army was annihilated. Garin was captured alive and locked in a golden cage to witness the destruction of Chroyane. According to legend, he called down a curse on the Valyrian conquerors from his cage, entreating Mother Rhoyne to avenge her children — and that night the river flooded and a thick fog brought greyscale upon the victors. Chroyane has been a haunted, fog-shrouded ruin ever since."

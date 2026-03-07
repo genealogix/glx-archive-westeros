@@ -1,0 +1,12 @@
+persons:
+    person-symeon-star-eyes:
+        properties:
+            name:
+                value: "Symeon Star-Eyes"
+                fields:
+                    given: "Symeon"
+                    type: "alias"
+            alias:
+                - value: "Symeon Star-Eyes"
+            gender: "male"
+        notes: "Legendary hero of the Age of Heroes, mentioned alongside Serwyn of the Mirror Shield as one of the great heroes celebrated by singers. No details of his deeds survive in the TWOIAF text save his name. The maesters note that, like all Age of Heroes figures, the tales of Symeon Star-Eyes have been so altered by singers over the centuries that little if any historical truth can be extracted. The name 'Star-Eyes' suggests legendary blindness replaced by some form of seeing — perhaps stars used in place of eyes, like the legend of the blind prophet."

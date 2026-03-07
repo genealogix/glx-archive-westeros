@@ -1,0 +1,18 @@
+persons:
+    person-azor-ahai:
+        properties:
+            name:
+                value: "Azor Ahai"
+                fields:
+                    given: "Azor Ahai"
+                    type: "birth"
+            gender: "male"
+            religion: "R'hllor"
+            alias:
+                - value: "The Last Hero"
+                - value: "Hyrkoon the Hero"
+                - value: "Yin Tar"
+                - value: "Neferion"
+                - value: "Eldric Shadowchaser"
+                - value: "The Prince That Was Promised"
+        notes: "Legendary hero of the Long Night, known in Asshai as Azor Ahai. Said to have fought the darkness with a blazing sword called Lightbringer. Known by different names in different cultures: Hyrkoon the Hero in the Further East, Yin Tar in Yi Ti, Neferion and Eldric Shadowchaser in other traditions. The followers of R'hllor (the Lord of Light) prophesy his return as the Prince That Was Promised. His deeds are said to predate the rise of Valyria, when Old Ghis was first forming its empire. The maesters of the Citadel note that accounts of this hero vary so widely across cultures that the original figure, if one existed, cannot be recovered."

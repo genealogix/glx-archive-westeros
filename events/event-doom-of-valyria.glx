@@ -1,0 +1,7 @@
+events:
+    event-doom-of-valyria:
+        type: rebellion
+        date: "102 BC"
+        properties:
+            description: "The destruction of the Valyrian Freehold. All fourteen of the great volcanic mountains known as the Fourteen Flames erupted simultaneously (or near-simultaneously), shaking the very earth. Every hill for five hundred miles split asunder, filling the air with ash, smoke, and fire. Great rents opened in the earth, swallowing palaces and temples. Lakes boiled or turned to acid; mountains burst; fiery fountains spewed molten rock. To the north, the ground collapsed and the sea flooded in, creating what is now the Smoking Sea. The proudest city in the world was gone in hours. Only Aenar Targaryen and his household survived among the dragonlords, having fled to Dragonstone twelve years earlier on the prophetic advice of his daughter Daenys the Dreamer. The cause remains unknown: natural eruption, failed magical rites, assassination of the mages who maintained the rituals, or the curse of Garin the Great have all been proposed. The Doom ended Valyrian dominance and began the Century of Blood."
+            also_known_as: "The Doom"

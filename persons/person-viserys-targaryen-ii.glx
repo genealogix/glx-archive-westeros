@@ -9,3 +9,11 @@ persons:
                     surname: Targaryen
                 value: Viserys Targaryen II
             rin: MH:I306
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+                - value: "Hand of the King"
+            alias:
+                - value: "Viserys II"
+            died_on: "172"
+        notes: "Viserys II. Reigned only one year, 171–172 AC. Younger brother of Aegon III, he had served effectively as Hand of the King under his nephews Daeron I and Baelor I. An able administrator who kept the realm stable. His brief reign ended when he died suddenly, possibly by poison at the hand of his own son Aegon IV, who wished the throne. Married Larra Rogare of Lys (the Lysene beauty recovered from captivity by Alyn Oakenfist). His son Aegon IV ('the Unworthy') succeeded him."

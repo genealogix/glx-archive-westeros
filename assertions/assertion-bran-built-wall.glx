@@ -1,0 +1,34 @@
+assertions:
+    assertion-bran-built-wall:
+        subject:
+            person: person-bran-the-builder
+        property: role
+        value: "Builder of the Wall"
+        citations:
+            - citation-twoiaf-nights-watch
+            - citation-twoiaf-kings-of-winter
+        confidence: low
+        status: speculative
+        notes: "Legend credits Brandon the Builder with constructing the Wall after the Long Night, working with the children of the forest and perhaps giants. The maesters of the Citadel note the Wall's construction was likely a multi-generational effort and that 'Brandon the Builder' may be a composite figure representing generations of Stark ancestors rather than a single man. The Wall's foundations may have originally been stone, though now it appears entirely as ice."
+
+    assertion-bran-built-winterfell:
+        subject:
+            person: person-bran-the-builder
+        property: role
+        value: "Builder of Winterfell"
+        citations:
+            - citation-twoiaf-kings-of-winter
+        confidence: low
+        status: speculative
+        notes: "Legend credits Brandon the Builder with founding Winterfell. A past maester at Winterfell examined the First Keep and found it had been rebuilt so many times a precise dating was impossible. The castle likely developed as a complex of linked ringforts over generations."
+
+    assertion-bran-built-storms-end:
+        subject:
+            person: person-bran-the-builder
+        property: role
+        value: "Designer of the final Storm's End"
+        citations:
+            - citation-twoiaf-durran-godsgrief
+        confidence: low
+        status: speculative
+        notes: "Tales say Bran the Builder (who would have been a boy at the time) designed the seventh and final Storm's End for Durran Godsgrief. Archmaester Vyron argues the castle's Andal-influenced design suggests it was actually rebuilt in Andal times, long after Durran and Bran. The tight stone joinery that keeps out even the wind is unparalleled among First Men construction."

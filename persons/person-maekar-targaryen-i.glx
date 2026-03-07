@@ -9,3 +9,11 @@ persons:
                     surname: Targaryen
                 value: Maekar Targaryen I
             rin: MH:I282
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+                - value: "Prince of Summerhall"
+            alias:
+                - value: "Maekar I"
+            died_on: "233"
+        notes: "Maekar I. Reigned 221–233 AC. Son of Daeron II, younger brother of Aerys I. Prince of Summerhall before coming to the throne. His succession was contested (a Great Council was required to select him). His son Aegon was initially fostered with a hedge knight (Ser Duncan the Tall) under the name 'Egg,' later becoming Aegon V. Maekar himself accidentally killed his eldest son Baelor Breakspear in a tourney. Died 233 AC in battle against a rebel lord, struck by a stone from a castle's walls. His son Aegon V ('the Unlikely') succeeded him after the Great Council of 233 AC."

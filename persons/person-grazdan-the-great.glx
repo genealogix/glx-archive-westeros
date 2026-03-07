@@ -1,0 +1,12 @@
+persons:
+    person-grazdan-the-great:
+        properties:
+            name:
+                value: "Grazdan the Great"
+                fields:
+                    given: "Grazdan"
+                    type: "alias"
+            gender: "male"
+            title:
+                - value: "Founder of Old Ghis"
+        notes: "Legendary founder of Old Ghis and the first Ghiscari empire. Credited with founding the lockstep legions — the first disciplined bodies of soldiers in history — with their tall shields and three spears. So revered by the Ghiscari that men of the slaver families are still commonly given his name thousands of years later. The ancient brick walls of Old Ghis were first erected by Grazdan. Old Ghis was ultimately destroyed by Valyria after five wars, with its fields sown with salt, lime, and skulls."

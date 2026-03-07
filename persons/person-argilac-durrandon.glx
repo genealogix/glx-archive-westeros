@@ -1,0 +1,17 @@
+persons:
+    person-argilac-durrandon:
+        properties:
+            name:
+                value: "Argilac Durrandon"
+                fields:
+                    given: "Argilac"
+                    surname: "Durrandon"
+                    type: "birth"
+            alias:
+                - value: "Argilac the Arrogant"
+            gender: "male"
+            house: "Durrandon"
+            title:
+                - value: "Storm King"
+                - value: "King of the Stormlands"
+        notes: "Last Storm King of House Durrandon, known as Argilac the Arrogant. A warrior of great renown in his prime: he turned back a Dornish invasion as a boy, crossed the narrow sea to join the alliance against Volantis, and slew Garse VII Gardener in the Battle of Summerfield twenty years before the Conquest. By Aegon's time he was old and grey, his military power declining. He approached Aegon Targaryen with a marriage alliance, offering his daughter and dower lands, but Aegon refused his daughter and countered with an offer that Argilac's daughter wed Orys Baratheon. Argilac — enraged at the suggestion that his daughter marry a bastard — had Aegon's envoy's hands cut off. This act precipitated Aegon's Conquest. He was slain in battle by Orys Baratheon."

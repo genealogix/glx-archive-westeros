@@ -9,3 +9,16 @@ persons:
                     surname: Targaryen
                 value: Aegon 'The Conqueror' Targaryen I
             rin: MH:I353
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+                - value: "Lord of the Seven Kingdoms"
+                - value: "Protector of the Realm"
+                - value: "Lord of Dragonstone"
+            alias:
+                - value: "Aegon the Conqueror"
+                - value: "Aegon the Dragon"
+            born_on: "27 BC"
+            died_on: "37"
+            religion: "Faith of the Seven"
+        notes: "Aegon Targaryen, the Conqueror. Born 27 BC on Dragonstone, only son and second child of Aerion (Lord of Dragonstone) and Lady Valaena Velaryon. Married both his sisters: Visenya (out of duty) and Rhaenys (out of desire). Rode Balerion the Black Dread. Landed at the mouth of the Blackwater Rush and in two years conquered six of the seven kingdoms. Was crowned twice: first informally at the Aegonfort, then formally at Oldtown by the High Septon (this second coronation marks Year 1 AC). Dorne was never conquered — Meria Martell refused to kneel. Founded King's Landing, built the Iron Throne from the swords of defeated foes. Died 37 AC at Dragonstone, aged 64, of a stroke while recounting tales of conquest to his grandsons. Reign marked by the First Dornish War (4–13 AC), the death of Rhaenys in Dorne (10 AC), and the founding of the Kingsguard (conceived by Visenya after Aegon was nearly assassinated)."

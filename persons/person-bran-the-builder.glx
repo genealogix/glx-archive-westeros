@@ -1,0 +1,15 @@
+persons:
+    person-bran-the-builder:
+        properties:
+            name:
+                value: "Brandon the Builder"
+                fields:
+                    given: "Brandon"
+                    surname: "Stark"
+                    type: "birth"
+            alias:
+                - value: "Bran the Builder"
+                - value: "Brandon the Builder"
+            gender: "male"
+            house: "Stark"
+        notes: "Legendary founder of House Stark and builder of both Winterfell and the Wall, according to tradition. Said to have lived during or shortly after the Long Night in the Age of Heroes. He is credited with construction of the Wall (working with the children of the forest and perhaps giants), Winterfell, Storm's End (the final design), and Moat Cailin. In order to seek the aid of the children of the forest while raising the Wall, he was taken to a secret place and had to learn their speech — described as sounding like stones in a brook, wind through leaves, or rain upon water. Some tales say he was descended from Garth Greenhand via Brandon of the Bloody Blade. The maesters are skeptical of the attribution of so many great works to one man; it is likely 'Bran the Builder' is a composite figure representing several generations of Stark ancestors. He is also remembered as 'Brandon the Breaker' in the context of the Night's King legend — as King of Winter who, allied with Joramun King-Beyond-the-Wall, brought down the Night's King and erased his name from memory."

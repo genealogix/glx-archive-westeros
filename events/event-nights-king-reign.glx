@@ -1,0 +1,14 @@
+events:
+    event-nights-king-reign:
+        type: rebellion
+        date: "BEF 6000 BC"
+        participants:
+            - person: person-nights-king
+              role: subject
+            - person: person-bran-the-builder
+              role: opponent
+            - person: person-joramun
+              role: opponent
+        properties:
+            description: "The thirteen-year reign of the Night's King, legendary thirteenth Lord Commander of the Night's Watch. He bedded a sorceress 'pale as a corpse' (the corpse queen) and declared himself a king. He committed deeds terrible enough that they were erased from memory. Brandon the Breaker (Stark King of Winter) allied with Joramun (King-Beyond-the-Wall) to bring him down. After his fall, Brandon obliterated the Night's King's very name from all records. The archmaesters believe a historical Lord Commander may have attempted to carve out a petty kingdom in the earliest days of the Watch; the supernatural elements are later embellishments."
+            also_known_as: "The Reign of the Night's King"

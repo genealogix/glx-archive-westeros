@@ -1,0 +1,7 @@
+citations:
+    citation-twoiaf-age-of-heroes:
+        source: source-twoiaf
+        properties:
+            locator: "Ancient History: The Age of Heroes"
+            accessed: "2026-03-06"
+        notes: "Overview of the Age of Heroes: Brandon the Builder, Garth Greenhand, Lann the Clever, Durran Godsgrief, Symeon Star-Eyes, Serwyn of the Mirror Shield, and other legendary figures."

@@ -9,3 +9,12 @@ persons:
                     surname: Targaryen
                 value: Daeron Targaryen I
             rin: MH:I334
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+            alias:
+                - value: "The Young Dragon"
+                - value: "Daeron the Young Dragon"
+            born_on: "143"
+            died_on: "161"
+        notes: "Daeron I, the Young Dragon. Reigned 157–161 AC. Eldest son of Aegon III. Came to the throne at fourteen; his uncle Viserys served as Hand rather than insisting on a regency. A youth of rare brilliance and forcefulness. Famously said when told he had no dragons: 'You have a dragon. He stands before you.' Conquered Dorne in a brilliant three-pronged campaign (by land via Prince's Pass under Lord Tyrell, by sea via Lord Alyn Velaryon controlling the Greenblood, and by the Boneway under the king himself). Dorne submitted; Daeron placed the Submission of Sunspear in his book The Conquest of Dorne — rightly considered a marvel of elegant prose. But the occupation proved untenable: the Dornish fought a guerrilla war, and Daeron and many of his men were killed. Died at 18, without issue. His brother Baelor I succeeded him."

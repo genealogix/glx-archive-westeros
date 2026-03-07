@@ -9,3 +9,12 @@ persons:
                     surname: Targaryen
                 value: Jaehaerys Targaryen II
             rin: MH:I201
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+                - value: "Prince of Dragonstone"
+            alias:
+                - value: "Jaehaerys II"
+            born_on: "ABT 238"
+            died_on: "262"
+        notes: "Jaehaerys II. Reigned 259–262 AC. Son of Aegon V and Betha Blackwood. Originally Prince of Dragonstone after his older brother Duncan renounced the succession to wed Jenny of Oldstones. As a teenager, he had eloped with his sister Shaera in 240 AC — following the traditional Valyrian incestuous custom despite their father's wishes. He and Shaera had two children: Aerys (the future Aerys II) and Rhaella. On the word of Jenny of Oldstones's woods witch (the Ghost of High Heart) he determined to wed Aerys to Rhaella, convinced the Prince That Was Promised would come of their line. His brief reign of only three years saw the War of the Ninepenny Kings (crushing the Band of Nine, including Maelys the Monstrous of the Blackfyre line). Died 262 AC, leaving the throne to his son Aerys II."

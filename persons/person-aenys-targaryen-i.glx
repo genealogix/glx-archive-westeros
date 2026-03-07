@@ -9,3 +9,11 @@ persons:
                     surname: Targaryen
                 value: Aenys Targaryen I
             rin: MH:I352
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+            alias:
+                - value: "Aenys I"
+            born_on: "7 BC"
+            died_on: "42"
+        notes: "Firstborn son of Aegon the Conqueror and Rhaenys Targaryen. Reigned 37–42 AC. Began life as a weak, sickly infant; rumors claimed he was not Aegon's true son. Bonded with a dragon hatchling named Quicksilver and grew strong as the dragon grew. A dreamer, dabbler in alchemy, and patron of singers — he hungered too much for approval. His reign was plagued by rebels (Harren the Red, Jonos Arryn in the Vale, a new Lodos on the Iron Islands, the Vulture King in Dorne). His greatest crisis came when he wed his daughter Rhaena to his son Aegon in 41 AC, provoking the High Septon to denounce him as 'King Abomination' and sparking the Faith Militant uprising. Fled to Dragonstone. Died 42 AC, likely aged 35, of illness. Some suspected Queen Dowager Visenya of hastening his death to bring Maegor to the throne."

@@ -1,0 +1,12 @@
+events:
+    event-ten-thousand-ships:
+        type: exile
+        date: "ABT 700 BC"
+        participants:
+            - person: person-nymeria
+              role: subject
+            - person: person-garin-of-chroyane
+              role: participant
+        properties:
+            description: "The Rhoynar exodus led by Princess Nymeria of Ny Sar. After Prince Garin the Great's catastrophic defeat at the hands of Valyrian dragonlords (who sent three hundred or more dragons against his quarter-million-strong host), Nymeria gathered every remaining Rhoynish ship and fled with the women, children, and old men of the Rhoyne. The fleet — legendary as 'ten thousand ships,' though scholars believe the number is greatly exaggerated — wandered for years: the Basilisk Isles (where corsair kings attacked them), Sothoryos (where disease devastated them), Naath (where a nameless illness drove them away), and the Summer Isles. Finally Nymeria led the remnants to Dorne, where she allied with Mors Martell. She burned the Rhoynish ships on arrival to prevent retreat: 'Our wanderings are at an end.' The union of Rhoynar and Dornish led to the unification of Dorne under House Martell."
+            also_known_as: "The Ten Thousand Ships; Nymeria's Voyage"

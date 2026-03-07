@@ -1,0 +1,14 @@
+persons:
+    person-nymeria:
+        properties:
+            name:
+                value: "Nymeria"
+                fields:
+                    given: "Nymeria"
+                    type: "birth"
+            gender: "female"
+            title:
+                - value: "Princess of Ny Sar"
+                - value: "Warrior Queen of Dorne"
+            house: "Martell"
+        notes: "Princess of Ny Sar (a Rhoynish city), leader of the Rhoynar exodus. The only Rhoynish princess to speak against Garin the Great's war against Valyria, correctly predicting they could not win. After Garin's catastrophic defeat, she gathered every remaining ship and fled with the women, children, and old men of the Rhoyne. The legend of 'ten thousand ships' is considered by scholars such as Beldecar to be tenfold exaggerated. After years of wandering — the Basilisk Isles, Sothoryos, Naath, the Summer Isles — she brought her fleet to Dorne and wed Mors Martell of the Sandship. She burned the Rhoynish ships on arrival: 'Our wanderings are at an end.' She assumed sole command after Mors Martell fell in battle against Yorick Yronwood, and finally brought Dorne under Martell rule. She ruled for nearly twenty-seven years, survived three marriages (Mors Martell, Lord Uller of Hellholt, Ser Davos Dayne of Starfall), twelve assassination attempts, two rebellions, and three foreign invasions. She died leaving her eldest daughter by Mors Martell as heir, having adopted Rhoynish inheritance customs."

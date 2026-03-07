@@ -1,0 +1,7 @@
+events:
+    event-andal-invasion:
+        type: rebellion
+        date: "BEF 2000 BC"
+        properties:
+            description: "The Andal invasion of Westeros. The Andals originally inhabited Andalos (a region near what is now Pentos) and were driven west by Valyrian expansion. They crossed the narrow sea in great numbers, landing first on the Fingers in the Vale of Arryn. Armed with iron weapons and armor (superior to First Men's bronze), they swept through the Vale, then poured through the Bloody Gate into the rest of Westeros. They fought one another as often as the First Men, but kingdom after kingdom fell to them. All the south was conquered; only the North was able to resist, thanks to the Neck's swamps and Moat Cailin. The Andals wiped out most of the remaining children of the forest; Erreg the Kinslayer slaughtered the children at High Heart. The Andal warrior Ser Artys Arryn (legend) founded the Vale kingdom; in the riverlands, seven Andal kings defeated Tristifer IV in his hundredth battle. The invasion gave Westeros its new name in Dothraki: Rhaesh Andahli, the Land of the Andals."
+            also_known_as: "The Coming of the Andals"

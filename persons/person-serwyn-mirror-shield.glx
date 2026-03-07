@@ -1,0 +1,12 @@
+persons:
+    person-serwyn-mirror-shield:
+        properties:
+            name:
+                value: "Serwyn of the Mirror Shield"
+                fields:
+                    given: "Serwyn"
+                    type: "alias"
+            alias:
+                - value: "Serwyn of the Mirror Shield"
+            gender: "male"
+        notes: "Legendary hero of the Age of Heroes (or possibly the Andal invasion era), celebrated by singers and septons alongside Symeon Star-Eyes. A notable example of how legends become corrupted: some tales number him among the Kingsguard, an institution only founded by Aegon the Conqueror thousands of years after he supposedly lived. The maesters cite this as proof that such tales cannot be trusted — a long-dead First Man transformed by singers into a knight who follows the Seven and guards Targaryen kings. He is also celebrated as one of the great warrior heroes of the Reach in a later era, listed alongside Davos the Dragonslayer, Roland of the Horn, and the Knight Without Armor."

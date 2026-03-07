@@ -9,3 +9,10 @@ persons:
                     surname: Targaryen
                 value: Aerys Targaryen I
             rin: MH:I293
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+            alias:
+                - value: "Aerys I"
+            died_on: "221"
+        notes: "Aerys I. Reigned 209–221 AC. Son of Daeron II; described as bookish and scholarly. His reign was largely administered by his Hand, Ser Brynden Rivers (Bloodraven), as the king preferred reading and scholarship to governing. His queen was barren and he had no children by her; he reportedly showed little interest in her. The Blackfyre pretenders continued to be a problem during his reign (Second and Third Blackfyre Rebellions). Died 221 AC; his brother Maekar I succeeded him."

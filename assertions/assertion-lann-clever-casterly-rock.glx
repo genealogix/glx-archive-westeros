@@ -1,0 +1,11 @@
+assertions:
+    assertion-lann-ousted-casterlys:
+        subject:
+            person: person-lann-the-clever
+        property: role
+        value: "Ousted the Casterly lords from Casterly Rock through trickery"
+        citations:
+            - citation-twoiaf-lann-the-clever
+        confidence: low
+        status: speculative
+        notes: "TWOIAF: 'All that is known for certain is that sometime during the Age of Heroes, the Casterlys vanish from the chronicles, and the hitherto-unknown Lannisters appear in their place.' Multiple irreconcilable tales exist about Lann's method. Archmaester Perestan's most plausible theory: Lann was a household guard who impregnated Lord Casterly's daughter and thus inherited the Rock through marriage. The tales of him living to 312 years are dismissed as legend."

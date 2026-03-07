@@ -1,0 +1,10 @@
+persons:
+    person-last-hero:
+        properties:
+            name:
+                value: "The Last Hero"
+                fields:
+                    given: "The Last Hero"
+                    type: "alias"
+            gender: "male"
+        notes: "Legendary figure of the Long Night in the northern tradition. According to tales told in the North, the last hero sought out the intercession of the children of the forest as his companions died one by one — felled by giants, cold servants, and the Others themselves. He finally reached the children alone, and with their aid, the first men of the Night's Watch won the Battle for the Dawn, breaking the Long Night and driving the Others back to the frozen north. Some scholars identify the last hero with Azor Ahai of the eastern traditions, though the maesters consider this uncertain. May be the same figure as Azor Ahai, or a parallel northern legend."

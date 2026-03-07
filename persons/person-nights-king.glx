@@ -1,0 +1,12 @@
+persons:
+    person-nights-king:
+        properties:
+            name:
+                value: "The Night's King"
+                fields:
+                    given: "The Night's King"
+                    type: "alias"
+            gender: "male"
+            title:
+                - value: "Lord Commander of the Night's Watch (13th)"
+        notes: "Legendary thirteenth Lord Commander of the Night's Watch. Said to have bedded a sorceress 'pale as a corpse' — sometimes called the corpse queen — and declared himself a king. For thirteen years he and his queen ruled from the Nightfort, committing terrible deeds whose nature is not specified in surviving accounts. He was brought down by an alliance of Brandon the Breaker (a Stark King of Winter) and Joramun, the King-Beyond-the-Wall. After his fall, his very name was erased from memory by Brandon the Breaker, so his true identity is lost. He has been said to be variously a Bolton, a Woodfoot, an Umber, a Flint, a Norrey, or even a Stark, depending on where the tale is told. Some archmaesters believe he may have been a historical Lord Commander who attempted to carve out a petty kingdom, and that the supernatural elements are later embellishments. The 'corpse queen' may have been a woman of the Barrowlands."

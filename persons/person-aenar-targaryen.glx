@@ -8,3 +8,9 @@ persons:
                     surname: Targaryen
                 value: Aenar Targaryen
             rin: MH:I373
+            alias:
+                - value: "Aenar the Exile"
+            house: "Targaryen"
+            title:
+                - value: "Lord of Dragonstone"
+        notes: "Targaryen lord who, twelve years before the Doom of Valyria (114 BC), sold all his holdings in the Freehold and moved his entire household — wives, wealth, slaves, dragons, siblings, kin, and children — to Dragonstone. He acted on the prophetic dreams of his maiden daughter Daenys the Dreamer, who foresaw the Doom. His departure was seen by rivals in Valyria as an act of cowardice. When the Doom came twelve years later, his family was the only surviving dragonlord house. Succeeded as Lord of Dragonstone by his son Gaemon Targaryen (Gaemon the Glorious), who was also the brother-husband of Daenys."

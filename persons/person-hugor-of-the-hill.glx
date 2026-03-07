@@ -1,0 +1,15 @@
+persons:
+    person-hugor-of-the-hill:
+        properties:
+            name:
+                value: "Hugor of the Hill"
+                fields:
+                    given: "Hugor"
+                    type: "birth"
+            alias:
+                - value: "Hukko"
+            gender: "male"
+            religion: "Faith of the Seven"
+            title:
+                - value: "King of the Andals"
+        notes: "The first Andal king, according to the holy book of the Seven-Pointed Star. The Seven themselves walked among the Andals in the hills of Andalos and crowned Hugor, promising him and his descendants great kingdoms in a foreign land — the theological explanation for the Andal invasion of Westeros. He may be the same figure as 'Hukko' in Pentoshi legend, said to have slain seven swan maidens as a sacrifice to his gods. The name Hukko may be a rendering of Hugor in the Pentoshi tongue."

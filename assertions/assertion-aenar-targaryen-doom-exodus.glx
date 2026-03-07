@@ -1,0 +1,22 @@
+assertions:
+    assertion-aenar-targaryen-doom-exodus:
+        subject:
+            person: person-aenar-targaryen
+        property: role
+        value: "Fled Valyria twelve years before the Doom on his daughter's prophetic advice"
+        citations:
+            - citation-twoiaf-doom-valyria
+        confidence: high
+        status: proven
+        notes: "The account from TWOIAF is unambiguous: Aenar Targaryen sold his holdings and moved to Dragonstone 12 years before the Doom (114 BC) because his daughter Daenys the Dreamer foresaw the cataclysm. The result — the Targaryens being the only surviving dragonlord house — is the well-established foundation of the dynasty."
+
+    assertion-doom-of-valyria-cause-unknown:
+        subject:
+            event: event-doom-of-valyria
+        property: cause
+        value: "Unknown — multiple theories, none conclusive"
+        citations:
+            - citation-twoiaf-doom-valyria
+        confidence: high
+        status: proven
+        notes: "TWOIAF explicitly states: 'To this day, no one knows what caused the Doom.' Theories include: natural volcanic eruption of all Fourteen Flames; divine punishment for Valyrian promiscuity (septon theory); failure of spells that tamed the Flames (Septon Barth's theory, referenced by Archmaester Gyldayn); assassination of mages who maintained the rituals; the curse of Garin the Great; or priests of R'hllor calling down fire. No theory is endorsed as definitive."

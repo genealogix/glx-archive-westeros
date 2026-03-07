@@ -1,0 +1,22 @@
+events:
+    event-aegons-conquest:
+        type: rebellion
+        date: "BET 2 BC AND 2"
+        participants:
+            - person: person-aegon-targaryen-i-the-conqueror
+              role: subject
+            - person: person-visenya-targaryen
+              role: participant
+            - person: person-harren-the-black
+              role: opponent
+            - person: person-argilac-durrandon
+              role: opponent
+            - person: person-orys-baratheon
+              role: participant
+            - person: person-torrhen-stark
+              role: opponent
+            - person: person-meria-martell
+              role: opponent
+        properties:
+            description: "Aegon Targaryen's conquest of the Seven Kingdoms. Aegon, his two sister-queens Visenya and Rhaenys, and their three dragons (Balerion, Vhagar, Meraxes) landed at the mouth of the Blackwater Rush. Key battles: Harrenhal burned (Harren the Black and his sons killed by Balerion); the Field of Fire (Gardeners and Lannisters defeated, Mern IX Gardener killed — last Gardener king); Battle of the Last Storm (Argilac killed by Orys Baratheon); Torrhen Stark kneels at the Trident without fighting (becomes 'the King Who Knelt'). Submission of the Vale by Visenya at the Eyrie. Dorne alone refused: Meria Martell told Rhaenys 'you may burn us, but you will not bend us.' Aegon was crowned at Oldtown by the High Septon — this coronation marks Year 1 AC. Dorne was not formally included in the realm until Daeron II."
+            also_known_as: "Aegon's Conquest; The Wars of Conquest"

@@ -9,3 +9,10 @@ persons:
                     surname: Targaryen
                 value: Aegon Targaryen II
             rin: MH:I345
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+            alias:
+                - value: "Aegon II"
+            died_on: "131"
+        notes: "Aegon II. Reigned 129–131 AC. Son of Viserys I and Alicent Hightower. Came to the throne when the greens (Alicent's faction) crowned him after Viserys I's death, bypassing Rhaenyra (the named heir). His reign was the period of civil war known as the Dance of the Dragons. Rode the dragon Sunfyre. His legs were shattered when Sunfyre was wounded in battle. Defeated and fed his half-sister Rhaenyra to Sunfyre. Died in 131 AC, poisoned by his own supporters who saw the war was lost and sought to negotiate with Rhaenyra's son Aegon III. His death ended the Dance of the Dragons."

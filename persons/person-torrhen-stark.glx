@@ -1,0 +1,18 @@
+persons:
+    person-torrhen-stark:
+        properties:
+            name:
+                value: "Torrhen Stark"
+                fields:
+                    given: "Torrhen"
+                    surname: "Stark"
+                    type: "birth"
+            alias:
+                - value: "The King Who Knelt"
+            gender: "male"
+            house: "Stark"
+            title:
+                - value: "King in the North"
+                - value: "Lord of Winterfell"
+                - value: "Warden of the North"
+        notes: "Last King in the North before the Conquest. Torrhen Stark led a host of thirty thousand Northmen south to meet Aegon Targaryen, crossing the Neck into the riverlands. When his scouts reported the ruins of Harrenhal and the massive host awaiting him on the south bank of the Trident — with Balerion, Meraxes, and Vhagar circling overhead — he spent the night negotiating via his bastard brother Brandon Snow. The next morning, Torrhen crossed the Trident, knelt before Aegon, laid the ancient crown of the Kings of Winter at his feet, and swore fealty. He rose as Lord of Winterfell and Warden of the North, no longer a king. Known ever after as 'the King Who Knelt.' His sons were reportedly less glad of the Targaryen yoke and entertained talk of rebellion, but Torrhen himself never wavered."

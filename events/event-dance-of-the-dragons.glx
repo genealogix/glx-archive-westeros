@@ -1,0 +1,14 @@
+events:
+    event-dance-of-the-dragons:
+        type: rebellion
+        date: "BET 129 AND 131"
+        participants:
+            - person: person-aegon-targaryen-ii
+              role: subject
+            - person: person-daemon-targaryen
+              role: participant
+            - person: person-aemond-targaryen
+              role: participant
+        properties:
+            description: "The Targaryen civil war between Aegon II (backed by the greens, Alicent Hightower's faction) and Rhaenyra Targaryen (backed by the blacks, Daemon Targaryen's faction). Both claimed the Iron Throne after Viserys I's death in 129 AC. The war saw most of the Targaryen dragons destroyed — nearly all were killed in the conflict. Key events: Rhaenys Targaryen died in the Battle of Rook's Rest; Aemond One-Eye killed Daemon Targaryen over the Gods Eye (both dragons destroyed); the storming of the Dragonpit in King's Landing (mob destroyed the last city dragons); the Battle of the Gullet; Second Tumbleton. Rhaenyra was briefly queen of King's Landing before being driven out, then fed to Aegon II's dragon Sunfyre in 130 AC. Aegon II was poisoned by his own men in 131 AC. The war ended with the regency of Aegon III (Rhaenyra's son)."
+            also_known_as: "The Dance of the Dragons; The Dance"

@@ -1,0 +1,11 @@
+events:
+    event-pact-of-isle-of-faces:
+        type: alliance
+        date: "BEF 8000 BC"
+        place: place-isle-of-faces
+        participants:
+            - person: person-last-hero
+              role: participant
+        properties:
+            description: "The Pact between the First Men and the children of the forest, forged on the Isle of Faces in the Gods Eye lake. After hundreds of years of war, the wisest of both peoples prevailed. The children of the forest gave up all the lands of Westeros save the deep forests; in exchange the First Men promised never again to cut down the weirwoods. All weirwoods on the Isle were carved with faces so the gods could witness the Pact. The order of the Green Men was made afterward to tend the weirwoods and protect the isle. The Pact ended the Dawn Age and began the Age of Heroes."
+            also_known_as: "The Pact"

@@ -1,0 +1,11 @@
+persons:
+    person-lann-the-clever:
+        properties:
+            name:
+                value: "Lann the Clever"
+                fields:
+                    given: "Lann"
+                    type: "alias"
+            gender: "male"
+            house: "Lannister"
+        notes: "Legendary founder of House Lannister. A golden-haired rogue who appeared 'out of the east' during the Age of Heroes and winkled the Casterly lords out of Casterly Rock by trickery. Stories of his methods vary: he discovered a secret cleft inside the Rock and worked mischief on the Casterlys (whispering threats, planting stolen treasure, rigging traps) until they believed it haunted; or he filled the Rock with mice and vermin; or he smuggled lions inside; or he fathered children on Casterly maidens in the night. Archmaester Perestan believes he was more likely a household guard who impregnated Lord Casterly's daughter and thus inherited the Rock upon his lordship's death. He supposedly lived to 312 years and sired a hundred bold sons and a hundred lissome daughters, all golden-haired. In some tales he was a bastard son of Florys the Fox (daughter of Garth Greenhand) or of Rowan Gold-Tree; in western tales he is said to have cozened Garth Greenhand himself. The first true Lannister king was Loreon Lannister (Loreon the Lion), generations after Lann."

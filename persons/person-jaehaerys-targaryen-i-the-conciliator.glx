@@ -9,3 +9,11 @@ persons:
                     surname: Targaryen
                 value: Jaehaerys 'The Conciliator' Targaryen I
             rin: MH:I350
+            house: "Targaryen"
+            title:
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+            alias:
+                - value: "The Old King"
+                - value: "The Conciliator"
+            died_on: "103"
+        notes: "Jaehaerys I, the Conciliator and the Old King. Reigned 48–103 AC — the longest reign of any Targaryen king: 55 years. Married his sister Alysanne (Good Queen Alysanne). Considered one of the wisest and most just of Targaryen kings. Reconciled the Iron Throne with the Faith — ended the Faith Militant's activities, established that the Faith's members answer to common law, and in return swore the throne would always protect the Faith. Built the Kingsroad. Oversaw construction of the first great walls of King's Landing. Called the Great Council of 101 AC at Harrenhal to settle succession, choosing Viserys (son of Baelon the Brave) over Laenor Velaryon. Died peacefully in his bed in 103 AC aged 69, while Lady Alicent Hightower read to him from Septon Barth's Unnatural History. The realm wept at his passing; even Dorne mourned."

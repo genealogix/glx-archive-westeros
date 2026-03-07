@@ -1,0 +1,16 @@
+persons:
+    person-garth-greenhand:
+        properties:
+            name:
+                value: "Garth Greenhand"
+                fields:
+                    given: "Garth"
+                    type: "birth"
+            alias:
+                - value: "Garth the Green"
+                - value: "Garth Greenhair"
+                - value: "The High King"
+            gender: "male"
+            title:
+                - value: "High King of the First Men"
+        notes: "Legendary progenitor of House Gardener and, by extension, most of the noble families of the Reach. Said to have led the First Men out of the east and across the Arm of Dorne into Westeros; some tales say he preceded them by thousands of years, wandering the land alone and treating with giants and the children of the forest. A fertility god in the oldest tales: he taught men to farm, made barren women fertile, and carried a bag of inexhaustible seeds from which he scattered all the world's plants. Some traditions give him green hands, green hair, green skin overall, or even antlers. The maesters believe he was likely a petty king or war chief of the First Men, perhaps the leader of the first migration. He fathered many children whose descendants founded most of the great houses of the Reach, including Garth the Gardener (founder of House Gardener), John the Oak, Gilbert of the Vines, Florys the Fox, Maris the Maid, Foss the Archer, Brandon of the Bloody Blade, Owen Oakenshield, Harlon and Herndon of the Horn, Bors the Breaker, Rose of Red Lake, Ellyn Ever Sweet, and Rowan Gold-Tree. Brandon the Builder is said to descend from Garth via Brandon of the Bloody Blade."

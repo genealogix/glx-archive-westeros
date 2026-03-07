@@ -8,3 +8,8 @@ persons:
                     surname: Baratheon
                 value: Orys Baratheon
             rin: MH:I361
+            house: "Baratheon"
+            title:
+                - value: "Lord of Storm's End"
+                - value: "Hand of the King"
+        notes: "Childhood friend, champion, and reputed bastard half-brother of Aegon the Conqueror. Aegon proclaimed him 'my shield, my stalwart, my strong right hand.' Considered the first Hand of the King by the maesters. He commanded the Targaryen host marching south to Storm's End during the Conquest, with Queen Rhaenys on Meraxes accompanying him. He slew Argilac the Arrogant (the last Storm King) in battle, and wed Argilac's daughter, taking the Durrandon arms (a crowned stag), words, and castle as his own. Thus he became the first Lord of Storm's End and founder of House Baratheon. Later captured and mutilated by the Dornishmen during the First Dornish War."

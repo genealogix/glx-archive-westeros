@@ -1,0 +1,12 @@
+persons:
+    person-joramun:
+        properties:
+            name:
+                value: "Joramun"
+                fields:
+                    given: "Joramun"
+                    type: "birth"
+            gender: "male"
+            title:
+                - value: "King-Beyond-the-Wall"
+        notes: "The first King-Beyond-the-Wall according to legend. Said to have possessed a great horn — the Horn of Winter (also called Joramun's Horn) — which he claimed could bring down the Wall when it woke 'the giants from the earth.' The Wall still stands, which the Citadel takes as evidence against his claims. He allied with Brandon the Breaker (the Stark King of Winter) to bring down the Night's King and his corpse queen. He was the first wildling leader to unite the free folk under a single king."

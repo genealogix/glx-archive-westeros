@@ -1,0 +1,7 @@
+citations:
+    citation-twoiaf-rise-valyria:
+        source: source-twoiaf
+        properties:
+            locator: "Ancient History: The Rise of Valyria"
+            accessed: "2026-03-06"
+        notes: "The Valyrian Freehold: dragon-taming, the Fourteen Flames, Old Ghis, the five Ghiscari wars, and the expansion of Valyria. Origins of the Free Cities."

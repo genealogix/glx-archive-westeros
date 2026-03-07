@@ -1,0 +1,13 @@
+persons:
+    person-jenny-of-oldstones:
+        properties:
+            name:
+                value: "Jenny of Oldstones"
+                fields:
+                    given: "Jenny"
+                    type: "alias"
+            alias:
+                - value: "Lady Jenny"
+                - value: "Jenny of Oldstones"
+            gender: "female"
+        notes: "A mysterious woman of uncertain origin who dwelt among the ruins of Oldstones in the riverlands. She claimed descent from the long-vanished kings of the First Men; the smallfolk dismissed her as a half-mad peasant girl, and some called her a witch. Prince Duncan Targaryen (eldest son of King Aegon V) became enamored of her while traveling in the riverlands in 239 AC and married her in defiance of his father, giving up his place as Prince of Dragonstone rather than set her aside. Thereafter known as 'the Prince of Dragonflies,' Duncan and Jenny were beloved subjects of singers. She was eventually accepted at court. She was accompanied by a dwarfish, albino woman known as the Ghost of High Heart (or the woods witch), whom Lady Jenny claimed was a child of the forest. Jenny died at Summerhall in 259 AC in the great fire that claimed Aegon V and Prince Duncan."

@@ -1,0 +1,15 @@
+persons:
+    person-durran-godsgrief:
+        properties:
+            name:
+                value: "Durran Godsgrief"
+                fields:
+                    given: "Durran"
+                    type: "birth"
+            alias:
+                - value: "Durran Godsgrief"
+            gender: "male"
+            house: "Durrandon"
+            title:
+                - value: "Storm King"
+        notes: "Legendary founder of House Durrandon and first Storm King of the Stormlands. According to legend, Durran wooed and wed Elenei, daughter of the god of the sea and the goddess of the wind. The gods were wrathful: they sent terrible storms to destroy every castle he built at the site of Storm's End. He raised six castles, each of which was destroyed. The seventh, with some accounts crediting its design to Bran the Builder (who was supposedly a boy at the time), was built with stones cunningly fitted so that the wind could find no purchase, and it has never fallen since. The number seven is considered by Archmaester Vyron to show Andal influence, suggesting the final castle was rebuilt in Andal times. The gods' wrath — storms every seventy-seven years attempting to reclaim Storm's End — is described in legend, though the maesters' records show no pattern of storms seventy-seven years apart. Durran's line, House Durrandon, ruled the Stormlands as Storm Kings until Argilac the Arrogant was slain by Orys Baratheon during Aegon's Conquest."

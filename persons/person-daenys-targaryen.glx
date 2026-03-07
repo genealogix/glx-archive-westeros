@@ -8,3 +8,7 @@ persons:
                     surname: Targaryen
                 value: Daenys Targaryen
             rin: MH:I372
+            house: "Targaryen"
+            alias:
+                - value: "Daenys the Dreamer"
+        notes: "Maiden daughter of Aenar Targaryen. Known as Daenys the Dreamer for her prophetic visions. She foresaw the Doom of Valyria in her dreams and persuaded her father Aenar to sell all Targaryen holdings in the Freehold and flee to Dragonstone twelve years before the cataclysm. Her foresight ensured the Targaryens were the only dragonlord family to survive. She later became the wife of her brother Gaemon Targaryen (Gaemon the Glorious), following Valyrian custom. Note: there is a separate person-daenys-the-dreamer.glx file with fuller notes; this entry predates it (MyHeritage import)."
