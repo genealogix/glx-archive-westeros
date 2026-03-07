@@ -1,0 +1,14 @@
+events:
+    event-duel-oberyn-mountain:
+        type: trial_by_combat
+        date: "300"
+        place: place-kings-landing
+        participants:
+            - person: person-oberyn-martell-the-red-viper
+              role: champion
+            - person: person-tyrion-lannister
+              role: accused
+        properties:
+            description: "The Trial by Combat of Tyrion Lannister — Prince Oberyn Martell (the Red Viper of Dorne) volunteered as Tyrion's champion, seeking to force a confession about the murder of his sister Elia from Ser Gregor Clegane (the Mountain), who fought as the Crown's champion. Oberyn fought brilliantly with a poisoned spear, wounding the Mountain grievously. But in his obsession to extract a confession, Oberyn moved too close. The Mountain seized him, crushed his skull, and confessed to Elia's murder as he did so."
+            also_known_as: "Oberyn vs the Mountain"
+        notes: "Oberyn had poisoned his spear with manticore venom. Though the Mountain 'won,' the poison eventually killed him — or rather, left him to be transformed by Qyburn into the monstrous Ser Robert Strong. Tyrion was sentenced to death, leading to his escape with Jaime and Varys's help."

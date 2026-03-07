@@ -1,0 +1,8 @@
+places:
+    place-the-crag:
+        name: "The Crag"
+        type: castle
+        parent: place-the-westerlands
+        properties:
+            seat_of: "House Westerling"
+        notes: "Seat of House Westerling in the Westerlands. A poor and crumbling castle. Where Robb Stark met Jeyne Westerling in the novels."

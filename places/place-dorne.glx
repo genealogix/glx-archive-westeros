@@ -1,0 +1,8 @@
+places:
+    place-dorne:
+        name: "Dorne"
+        type: kingdom
+        parent: place-westeros
+        properties:
+            seat_of: "House Martell"
+        notes: "The southernmost kingdom of Westeros, a hot, arid land. Ruled from Sunspear by House Martell. The last kingdom to join the Seven Kingdoms, through marriage rather than conquest."

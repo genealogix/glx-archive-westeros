@@ -1,0 +1,10 @@
+relationships:
+    rel-pc-roose-bolton-ramsay-bolton:
+        type: bastard_parent
+        participants:
+            - person: person-roose-bolton
+              role: parent
+            - person: person-ramsay-bolton
+              role: child
+        properties:
+            context: "Ramsay Bolton is the natural (bastard) son of Roose Bolton, Lord of the Dreadfort (ADWD Appendix)"

@@ -1,0 +1,12 @@
+events:
+    event-assassination-jon-snow:
+        type: assassination
+        date: "300"
+        place: place-castle-black
+        participants:
+            - person: person-jon-snow
+              role: victim
+        properties:
+            description: "The assassination of Jon Snow — Lord Commander Jon Snow was attacked by a group of his own Night's Watch brothers in a mutiny. They stabbed him repeatedly, each whispering 'For the Watch.' Jon had announced his intention to march on Winterfell against Ramsay Bolton, which his brothers considered a violation of the Watch's vows of neutrality."
+            also_known_as: "For the Watch"
+        notes: "The final line of ADWD. Jon's fate is left ambiguous. He had received a threatening letter from Ramsay Bolton (the 'Pink Letter') and declared he would ride south. His assassination mirrors Julius Caesar. Melisandre is at Castle Black, raising the possibility of resurrection."

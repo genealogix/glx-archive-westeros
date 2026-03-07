@@ -1,0 +1,14 @@
+events:
+    event-battle-fist-first-men:
+        type: battle
+        date: "299"
+        place: place-fist-of-the-first-men
+        participants:
+            - person: person-jeor-mormont
+              role: combatant
+            - person: person-jon-snow
+              role: subject
+        properties:
+            description: "The Battle at the Fist of the First Men — the Others and their army of wights attacked the Night's Watch encampment at the Fist of the First Men. The Watch suffered catastrophic losses and the survivors fled south in disorder toward Craster's Keep. This was the first major engagement between the Watch and the Others in thousands of years."
+            also_known_as: "The Fight at the Fist"
+        notes: "Jon Snow was not present at the battle itself, having been sent ahead with Qhorin Halfhand's ranging party. The survivors were later attacked again at Craster's Keep, where Lord Commander Jeor Mormont was murdered in a mutiny."

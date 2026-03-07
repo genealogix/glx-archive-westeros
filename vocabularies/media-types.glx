@@ -38,3 +38,25 @@ media_types:
     description: "Official certificates or licenses"
     mime_type: "image/tiff"
 
+  # === ASOIAF Custom Media Types ===
+
+  sigil:
+    label: "House Sigil"
+    description: "Heraldic sigil or coat of arms for a noble house"
+    mime_type: "image/png"
+
+  map:
+    label: "Map"
+    description: "Map of Westeros, Essos, or a specific region"
+    mime_type: "image/png"
+
+  family_tree:
+    label: "Family Tree Diagram"
+    description: "Visual family tree or lineage chart"
+    mime_type: "image/png"
+
+  chapter_excerpt:
+    label: "Chapter Excerpt"
+    description: "Text excerpt from a novel chapter used as source evidence"
+    mime_type: "text/plain"
+

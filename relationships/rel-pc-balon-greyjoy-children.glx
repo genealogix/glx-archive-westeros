@@ -1,0 +1,33 @@
+relationships:
+    rel-pc-balon-greyjoy-rodrik:
+        type: parent_child
+        participants:
+            - person: person-balon-greyjoy
+              role: parent
+            - person: person-rodrik-greyjoy
+              role: child
+        notes: "Rodrik Greyjoy, eldest son of Balon, slain during Balon's first rebellion. AFFC appendix."
+    rel-pc-balon-greyjoy-maron:
+        type: parent_child
+        participants:
+            - person: person-balon-greyjoy
+              role: parent
+            - person: person-maron-greyjoy
+              role: child
+        notes: "Maron Greyjoy, son of Balon, slain during Balon's first rebellion. AFFC appendix."
+    rel-pc-balon-greyjoy-asha:
+        type: parent_child
+        participants:
+            - person: person-balon-greyjoy
+              role: parent
+            - person: person-asha-greyjoy
+              role: child
+        notes: "Asha Greyjoy, only daughter of Balon, captain of the Black Wind. AFFC appendix."
+    rel-pc-balon-greyjoy-theon:
+        type: parent_child
+        participants:
+            - person: person-balon-greyjoy
+              role: parent
+            - person: person-theon-greyjoy
+              role: child
+        notes: "Theon Greyjoy, youngest son of Balon, called Theon Turncloak. AFFC appendix."

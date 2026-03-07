@@ -1,0 +1,8 @@
+places:
+    place-karhold:
+        name: "Karhold"
+        type: castle
+        parent: place-the-north
+        properties:
+            seat_of: "House Karstark"
+        notes: "Seat of House Karstark in the northeastern North. The Karstarks are a cadet branch of House Stark, founded by Karlon Stark."

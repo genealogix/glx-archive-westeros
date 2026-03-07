@@ -1,0 +1,12 @@
+events:
+    event-walk-of-shame:
+        type: event
+        date: "300"
+        place: place-kings-landing
+        participants:
+            - person: person-cersei-lannister
+              role: principal
+        properties:
+            description: "Cersei's Walk of Atonement — Queen Cersei Lannister, imprisoned by the Faith of the Seven on charges of adultery, fornication, and other sins, was forced to walk naked through the streets of King's Landing from the Great Sept of Baelor to the Red Keep as a form of public penance. She was shorn, stripped, and subjected to the jeers and filth of the crowd."
+            also_known_as: "The Walk of Shame, The Walk of Atonement"
+        notes: "Cersei confessed to lesser sins to be allowed the walk, but denied the more serious charges (incest, regicide). She still faces trial by the Faith. Her ordeal hardened her desire for vengeance. Ser Robert Strong (the reanimated Mountain) was presented as her champion."

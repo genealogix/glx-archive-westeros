@@ -1,0 +1,5 @@
+places:
+    place-sothoryos:
+        name: "Sothoryos"
+        type: continent
+        notes: "The southern continent, a vast jungle-covered landmass south of Essos across the Summer Sea. Largely unexplored and dangerous."

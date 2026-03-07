@@ -1,0 +1,13 @@
+events:
+    event-battle-oxcross:
+        type: battle
+        date: "299"
+        place: place-oxcross
+        participants:
+            - person: person-robb-stark
+              role: combatant
+            - person: person-stafford-lannister
+              role: combatant
+        properties:
+            description: "The Battle of Oxcross — Robb Stark's army surprised and destroyed a Lannister host under Ser Stafford Lannister at Oxcross in the Westerlands. The Lannister force was a half-trained levy still assembling when Robb's forces fell upon them. Stafford Lannister was killed."
+        notes: "Robb used Grey Wind to find a path through the hills. This was part of Robb's daring campaign deep into the Westerlands, raiding Tywin's own lands."

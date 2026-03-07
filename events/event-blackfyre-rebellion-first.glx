@@ -1,0 +1,19 @@
+events:
+    event-blackfyre-rebellion-first:
+        type: rebellion
+        date: "196"
+        participants:
+            - person: person-daemon-blackfyre
+              role: principal
+            - person: person-daeron-targaryen-ii
+              role: principal
+            - person: person-aegor-rivers-bittersteel
+              role: combatant
+            - person: person-brynden-targaryen-bloodraven
+              role: combatant
+            - person: person-baelor-targaryen-breakspear
+              role: combatant
+        properties:
+            description: "The First Blackfyre Rebellion — Daemon Blackfyre, legitimized bastard son of Aegon IV, rose against his half-brother King Daeron II Targaryen. The rebellion culminated in the Battle of the Redgrass Field, where Daemon and his twin sons were slain by Bloodraven's Raven's Teeth archers. Bittersteel fled to Essos with the remaining Blackfyre loyalists."
+            also_known_as: "First Blackfyre Rebellion"
+        notes: "Daemon wielded the Valyrian steel sword Blackfyre. Bloodraven's archers killed Daemon and his sons Aegon and Aemon. Bittersteel founded the Golden Company in exile."

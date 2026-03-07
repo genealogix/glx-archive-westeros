@@ -1,0 +1,6 @@
+places:
+    place-vaes-dothrak:
+        name: "Vaes Dothrak"
+        type: city
+        parent: place-essos
+        notes: "The only city of the Dothraki, located beneath the Mother of Mountains at the western edge of the Dothraki Sea. A sacred place where no blood may be shed and all khalasars may gather in peace. Home of the dosh khaleen."

@@ -1,0 +1,8 @@
+places:
+    place-old-wyk:
+        name: "Old Wyk"
+        type: island
+        parent: place-the-iron-islands
+        properties:
+            also_known_as: "The Holy Island"
+        notes: "One of the Iron Islands, considered the holiest. Site of Nagga's Hill where the first kingsmoot was held and where the kingsmoot for Balon Greyjoy's successor took place."

@@ -1,0 +1,6 @@
+places:
+    place-the-kingsroad:
+        name: "The Kingsroad"
+        type: road
+        parent: place-westeros
+        notes: "The principal road of Westeros, running from Castle Black at the Wall south to King's Landing and beyond to Storm's End. The main artery of north-south travel."

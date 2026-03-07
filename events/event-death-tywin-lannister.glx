@@ -1,0 +1,11 @@
+events:
+    event-death-tywin-lannister:
+        type: death
+        date: "300"
+        place: place-kings-landing
+        participants:
+            - person: person-tywin-lannister
+              role: principal
+        properties:
+            cause: "Killed by crossbow bolt, shot by his son Tyrion"
+        notes: "Lord Tywin Lannister was killed by his son Tyrion with a crossbow while on the privy. Tyrion had been freed from his cell by Jaime Lannister and Varys. Occurs at the very end of ASOS."

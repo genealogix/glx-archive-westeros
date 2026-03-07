@@ -1,0 +1,6 @@
+places:
+    place-summerhall:
+        name: "Summerhall"
+        type: ruin
+        parent: place-the-stormlands
+        notes: "A ruined Targaryen palace in the Stormlands near the Dornish Marches. Destroyed by a great fire in 259 AC, the Tragedy at Summerhall, in which King Aegon V and others perished. Rhaegar Targaryen was born on the same day."

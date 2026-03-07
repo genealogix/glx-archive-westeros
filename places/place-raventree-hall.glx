@@ -1,0 +1,8 @@
+places:
+    place-raventree-hall:
+        name: "Raventree Hall"
+        type: castle
+        parent: place-the-riverlands
+        properties:
+            seat_of: "House Blackwood"
+        notes: "Seat of House Blackwood in the Riverlands. The Blackwoods worship the Old Gods, unusual south of the Neck. Features a dead weirwood in its godswood where hundreds of ravens roost."

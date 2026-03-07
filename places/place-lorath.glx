@@ -1,0 +1,6 @@
+places:
+    place-lorath:
+        name: "Lorath"
+        type: free_city
+        parent: place-essos
+        notes: "The smallest and most isolated of the Free Cities, located on islands in the Shivering Sea. Jaqen H'ghar claims to be from Lorath."

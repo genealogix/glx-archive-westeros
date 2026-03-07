@@ -1,0 +1,16 @@
+events:
+    event-coronation-robb:
+        type: coronation
+        date: "298"
+        place: place-riverrun
+        participants:
+            - person: person-robb-stark
+              role: principal
+            - person: person-catelyn-tully
+              role: witness
+            - person: person-edmure-tully
+              role: witness
+        properties:
+            description: "Robb Stark declared King in the North — after learning of Ned Stark's execution and his victories at the Whispering Wood and the Camps, the Northern and Riverlands lords declared Robb Stark the King in the North, the first since Torrhen Stark bent the knee to Aegon the Conqueror three centuries earlier."
+            also_known_as: "The King in the North declaration"
+        notes: "Greatjon Umber was the first to declare for Robb. The Riverlords also acclaimed him, making him King of the Trident as well. This was the first secession from the Iron Throne since the Conquest."

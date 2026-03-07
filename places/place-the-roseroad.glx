@@ -1,0 +1,6 @@
+places:
+    place-the-roseroad:
+        name: "The Roseroad"
+        type: road
+        parent: place-westeros
+        notes: "A major road running from King's Landing southwest through the Reach to Highgarden and Oldtown. Named for the roses of the Reach."

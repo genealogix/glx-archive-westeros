@@ -1,0 +1,12 @@
+relationships:
+    rel-marriage-robb-stark-and-jeyne-westerling:
+        type: marriage
+        participants:
+            - person: person-robb-stark
+              role: spouse
+            - person: person-jeyne-westerling
+              role: spouse
+        properties:
+            start_date: "299"
+            end_date: "299"
+            context: "Robb married Jeyne to preserve her honor after sleeping with her. This broke his betrothal pact with House Frey, leading to the Red Wedding. Marriage ended with Robb's death."

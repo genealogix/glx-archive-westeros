@@ -261,3 +261,263 @@ event_types:
     description: "Elevation to knighthood"
     category: "other"
 
+  siege:
+    label: "Siege"
+    description: "Military siege of a castle, city, or fortification"
+    category: "military"
+
+  assassination:
+    label: "Assassination"
+    description: "Targeted killing outside of formal legal execution"
+    category: "lifecycle"
+
+  feast:
+    label: "Feast"
+    description: "Major feast, banquet, or celebration"
+    category: "other"
+
+  council:
+    label: "Council"
+    description: "Small council meeting, great council, or other formal assembly of lords"
+    category: "other"
+
+  oath:
+    label: "Oath"
+    description: "Swearing of oaths (Night's Watch vows, Kingsguard vows, fealty oaths)"
+    category: "other"
+
+  duel:
+    label: "Duel"
+    description: "Single combat, whether judicial (trial by combat) or personal"
+    category: "other"
+
+  conquest:
+    label: "Conquest"
+    description: "Military taking of a territory, kingdom, or domain"
+    category: "military"
+
+  sack:
+    label: "Sack"
+    description: "Sacking of a city, castle, or settlement"
+    category: "military"
+
+  shipwreck:
+    label: "Shipwreck"
+    description: "Maritime disaster or sinking of a vessel"
+    category: "other"
+
+  dragon_hatching:
+    label: "Dragon Hatching"
+    description: "Birth or hatching of a dragon from an egg"
+    category: "other"
+
+  wildfire_event:
+    label: "Wildfire Event"
+    description: "Significant use of wildfire as a weapon or in destruction"
+    category: "military"
+
+  guest_right_violation:
+    label: "Guest Right Violation"
+    description: "Violation of guest right — murder or betrayal of guests under a host's protection"
+    category: "other"
+
+  ranging:
+    label: "Ranging"
+    description: "Night's Watch ranging or expedition beyond the Wall"
+    category: "military"
+
+  naming:
+    label: "Naming"
+    description: "Formal naming ceremony or bestowal of a name"
+    category: "lifecycle"
+
+  fostering:
+    label: "Fostering"
+    description: "Sending a child to be raised in another lord's household"
+    category: "lifecycle"
+
+  investiture:
+    label: "Investiture"
+    description: "Formal granting of lands, titles, or offices"
+    category: "other"
+
+  disinheritance:
+    label: "Disinheritance"
+    description: "Removal of a person from the line of succession or inheritance"
+    category: "legal"
+
+  captivity:
+    label: "Captivity"
+    description: "Imprisonment, captivity, or confinement of a person"
+    category: "other"
+
+  escape:
+    label: "Escape"
+    description: "Escape from captivity, imprisonment, or confinement"
+    category: "other"
+
+  poisoning:
+    label: "Poisoning"
+    description: "Death or assassination attempt by poison (the Strangler, tears of Lys, etc.)"
+    category: "lifecycle"
+
+  coup:
+    label: "Coup"
+    description: "Seizure of power through force or conspiracy"
+    category: "other"
+
+  pact:
+    label: "Pact"
+    description: "Formal agreement, treaty, or binding pact between parties"
+    category: "legal"
+
+  voyage:
+    label: "Voyage"
+    description: "Major journey, sea voyage, or expedition"
+    category: "other"
+
+  founding:
+    label: "Founding"
+    description: "Founding of a house, order, institution, or settlement"
+    category: "other"
+
+  war:
+    label: "War"
+    description: "Extended military conflict encompassing multiple battles and campaigns"
+    category: "military"
+
+  raid:
+    label: "Raid"
+    description: "Quick military strike or pillaging action (Ironborn reaving, wildling raids)"
+    category: "military"
+
+  resurrection:
+    label: "Resurrection"
+    description: "Return from death through magical or divine means (R'hllor, Others)"
+    category: "lifecycle"
+
+  prophecy:
+    label: "Prophecy"
+    description: "Issuance or fulfillment of a prophecy (Maggy the Frog, Azor Ahai, etc.)"
+    category: "other"
+
+  election:
+    label: "Election"
+    description: "Election to an office (Lord Commander of Night's Watch, Kingsmoot)"
+    category: "other"
+
+  kingsmoot:
+    label: "Kingsmoot"
+    description: "Ironborn assembly to choose a king or ruler by acclamation"
+    category: "other"
+
+  great_council:
+    label: "Great Council"
+    description: "Assembly of lords to decide matters of succession or realm-wide importance"
+    category: "other"
+
+  surrender:
+    label: "Surrender"
+    description: "Formal surrender or capitulation in a military conflict"
+    category: "military"
+
+  ambush:
+    label: "Ambush"
+    description: "Surprise military attack or ambuscade"
+    category: "military"
+
+  naval_battle:
+    label: "Naval Battle"
+    description: "Military engagement at sea"
+    category: "military"
+
+  mutiny:
+    label: "Mutiny"
+    description: "Revolt against a commander or leader by subordinates"
+    category: "military"
+
+  maester_forging:
+    label: "Maester Chain Forging"
+    description: "Forging of a link in a maester's chain at the Citadel"
+    category: "other"
+
+  taking_the_black:
+    label: "Taking the Black"
+    description: "Joining the Night's Watch and swearing the vows"
+    category: "lifecycle"
+
+  conversion:
+    label: "Religious Conversion"
+    description: "Conversion to a new faith (Old Gods, Faith of the Seven, R'hllor, Drowned God)"
+    category: "religious"
+
+  drowning_ceremony:
+    label: "Drowning Ceremony"
+    description: "Ironborn religious ritual of ritual drowning and revival ('What is dead may never die')"
+    category: "religious"
+
+  anointing:
+    label: "Anointing"
+    description: "Anointing with the seven oils in the Faith of the Seven"
+    category: "religious"
+
+  trial_by_combat:
+    label: "Trial by Combat"
+    description: "Judicial duel to determine guilt or innocence under the laws of gods and men"
+    category: "legal"
+
+  attainder:
+    label: "Attainder"
+    description: "Stripping of titles, lands, and rights from a lord or house"
+    category: "legal"
+
+  pardon:
+    label: "Pardon"
+    description: "Royal pardon or amnesty granted for crimes or rebellion"
+    category: "legal"
+
+  ransom:
+    label: "Ransom"
+    description: "Payment of ransom for release of a captive"
+    category: "legal"
+
+  wedding_bedding:
+    label: "Bedding Ceremony"
+    description: "Traditional Westerosi wedding bedding ceremony"
+    category: "lifecycle"
+
+  nameday:
+    label: "Nameday"
+    description: "Celebration of a person's nameday (birthday equivalent)"
+    category: "lifecycle"
+
+  harvest_festival:
+    label: "Harvest Festival"
+    description: "Seasonal harvest celebration"
+    category: "other"
+
+  melee:
+    label: "Melee"
+    description: "Group combat event at a tourney"
+    category: "other"
+
+  joust:
+    label: "Joust"
+    description: "Mounted lance combat at a tourney"
+    category: "other"
+
+  dragon_riding:
+    label: "Dragon Riding"
+    description: "First bonding with and riding of a dragon"
+    category: "other"
+
+  magic_ritual:
+    label: "Magic Ritual"
+    description: "Significant magical event or ritual (blood magic, shadow binding, warging)"
+    category: "other"
+
+  enthronement:
+    label: "Enthronement"
+    description: "Formal seating upon a throne (Iron Throne, Salt Throne, Driftwood Throne)"
+    category: "other"
+

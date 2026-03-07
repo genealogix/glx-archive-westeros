@@ -1,0 +1,6 @@
+places:
+    place-oxcross:
+        name: "Oxcross"
+        type: battlefield
+        parent: place-the-westerlands
+        notes: "Site in the Westerlands where Robb Stark defeated Stafford Lannister's host during the War of the Five Kings."

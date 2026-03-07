@@ -1,0 +1,8 @@
+places:
+    place-beyond-the-wall:
+        name: "Beyond the Wall"
+        type: region
+        parent: place-westeros
+        properties:
+            also_known_as: "The Lands Beyond the Wall"
+        notes: "The vast wilderness north of the Wall, home to the Free Folk (wildlings), the Children of the Forest, and the Others. Not part of the Seven Kingdoms."

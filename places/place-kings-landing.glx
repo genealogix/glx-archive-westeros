@@ -1,4 +1,9 @@
 places:
     place-kings-landing:
-        name: King's Landing
+        name: "King's Landing"
         type: city
+        parent: place-the-crownlands
+        properties:
+            also_known_as: "The Capital"
+            seat_of: "The Iron Throne"
+        notes: "Capital of the Seven Kingdoms, situated on the eastern coast where the Blackwater Rush meets Blackwater Bay. Founded by Aegon the Conqueror."

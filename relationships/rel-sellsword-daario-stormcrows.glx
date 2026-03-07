@@ -1,0 +1,8 @@
+relationships:
+    rel-sellsword-daario-stormcrows:
+        type: commander
+        participants:
+            - person: person-daario-naharis
+              role: commander
+        properties:
+            context: "Captain and commander of the Stormcrows, five hundred horse-riders, sworn to Queen Daenerys (ADWD Appendix)"

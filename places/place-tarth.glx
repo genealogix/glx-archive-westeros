@@ -1,0 +1,9 @@
+places:
+    place-tarth:
+        name: "Tarth"
+        type: island
+        parent: place-the-stormlands
+        properties:
+            also_known_as: "The Sapphire Isle"
+            seat_of: "House Tarth"
+        notes: "An island in the Narrow Sea off the coast of the Stormlands. Called the Sapphire Isle for its beautiful blue waters. Home of Brienne of Tarth."

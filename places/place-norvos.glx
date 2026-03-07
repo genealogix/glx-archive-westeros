@@ -1,4 +1,6 @@
 places:
     place-norvos:
-        name: Norvos
-        type: city
+        name: "Norvos"
+        type: free_city
+        parent: place-essos
+        notes: "One of the Free Cities of Essos, located inland along the upper Noyne. Known for its bearded priests who rule the city."

@@ -675,3 +675,52 @@ When the archive needs a type not yet defined.
 8. **Use descriptive IDs** — `person-walder-frey` is better than `person-a1b2c3d4`
 9. **Track novel vs. show canon** — always note which canon a fact comes from; they are not interchangeable
 10. **Disambiguate carefully** — GoT reuses names heavily (Walder, Aegon, Brandon); use aliases, titles, or dates in IDs to distinguish
+
+---
+
+## Agent Teams
+
+These teams are used by the orchestrator to parallelize research and archiving work. Each agent has a focused role matching a phase of the research cycle.
+
+### researcher
+**Description:** Searches online canon references (AWOIAF, Game of Thrones Wiki, Westeros.org) to gather facts about characters, houses, events, and places. Returns structured findings with wiki citations traced back to novel chapters or episodes.
+**Tools:** Firecrawl, Chrome browser
+**Instructions:**
+- Search AWOIAF first (awoiaf.westeros.org), then cross-reference with other wikis
+- Always trace wiki claims back to the underlying novel chapter or episode
+- Return findings as structured lists: name, titles, house, relationships, key events, dates, and the canon source for each fact
+- Note any novel vs. show divergences explicitly
+- Do NOT create or modify archive files — just report findings
+
+### source-reader
+**Description:** Reads the ASOIAF novel text files (configured via `additionalDirectories` in `.claude/settings.local.json`) to find specific passages, verify citations, and extract direct quotes for `text_from_source` fields.
+**Tools:** Read, Grep, Bash
+**Instructions:**
+- Novel texts are `.txt` and `.pdf` files (agot.txt, acok.txt, asos.txt, affc.txt, adwd.txt, twoiaf.txt) in the additional directory
+- When asked to verify a claim, search the relevant novel text for corroborating passages
+- Return exact quotes with enough surrounding context to be meaningful
+- Identify the POV character and chapter when possible
+- Do NOT create or modify archive files — just return source text
+
+### archivist
+**Description:** Creates and updates GLX entity files in the archive (persons, events, relationships, places, sources, citations, assertions). Follows GLX format and evidence chain rules strictly.
+**Tools:** Read, Write, Edit, Glob, Grep
+**Instructions:**
+- Always read existing files before writing — never overwrite without checking
+- Check for duplicate entities before creating new ones (grep persons/ for name matches)
+- Follow the entity format examples in CLAUDE.md exactly
+- Every fact needs the full evidence chain: source → citation → assertion → property
+- Use descriptive IDs (`person-ned-stark`, not `person-12345`) for any new entities
+- Legacy entities use numeric IDs (e.g., `person-488`) from the MyHeritage import — do not rename these
+- Do NOT do online research — work only with findings provided by the researcher or source-reader
+
+### validator
+**Description:** Runs validation and audits archive quality. Checks referential integrity, orphaned records, impossible dates, and missing evidence chains.
+**Tools:** Bash, Read, Glob, Grep
+**Instructions:**
+- Run `glx validate` and report errors and warnings
+- Check for persons with no relationships or events (orphaned)
+- Check for properties with no backing assertions (undocumented facts)
+- Check for broken entity references (person IDs in relationships that don't exist)
+- Report findings as a prioritized list — errors first, then warnings, then suggestions
+- Do NOT modify files — report issues for the archivist to fix

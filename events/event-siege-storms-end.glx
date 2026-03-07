@@ -1,0 +1,14 @@
+events:
+    event-siege-storms-end:
+        type: siege
+        date: "BET 283 AND 283"
+        place: place-storms-end
+        participants:
+            - person: person-stannis-baratheon
+              role: principal
+            - person: person-mace-tyrell
+              role: combatant
+        properties:
+            description: "The Siege of Storm's End — Mace Tyrell and the Redwyne fleet besieged Storm's End for nearly a year during Robert's Rebellion. Stannis Baratheon held the castle with a starving garrison, eating rats and boot leather. The smuggler Davos Seaworth ran the blockade with a ship full of onions and salt fish, saving the garrison. Ned Stark lifted the siege after the war ended."
+            also_known_as: "The Siege of Storm's End"
+        notes: "Stannis never forgave Robert for giving Storm's End to Renly afterward and being sent to Dragonstone. Davos was knighted by Stannis but also had his fingertips shortened as punishment for his years of smuggling."

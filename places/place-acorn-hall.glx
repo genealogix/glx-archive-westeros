@@ -1,0 +1,8 @@
+places:
+    place-acorn-hall:
+        name: "Acorn Hall"
+        type: castle
+        parent: place-the-riverlands
+        properties:
+            seat_of: "House Smallwood"
+        notes: "Seat of House Smallwood in the Riverlands. Visited by the Brotherhood Without Banners in ASOS."

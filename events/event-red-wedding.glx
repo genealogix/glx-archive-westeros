@@ -1,0 +1,24 @@
+events:
+    event-red-wedding:
+        type: guest_right_violation
+        date: "299"
+        place: place-the-twins
+        participants:
+            - person: person-edmure-tully
+              role: subject
+            - person: person-roslin-frey
+              role: subject
+            - person: person-robb-stark
+              role: victim
+            - person: person-catelyn-tully
+              role: victim
+            - person: person-walder-frey
+              role: host
+            - person: person-lothar-frey
+              role: principal
+            - person: person-dacey-mormont
+              role: victim
+        properties:
+            description: "The wedding of Edmure Tully and Roslin Frey at the Twins, which became a massacre of the Stark-Tully forces orchestrated by Lord Walder Frey and Lord Roose Bolton, in conspiracy with Lord Tywin Lannister."
+            also_known_as: "The Red Wedding"
+        notes: "A violation of guest right. Robb Stark, Catelyn Stark, and many of their bannermen and soldiers were slaughtered during the wedding feast. Key deaths include Robb Stark, Catelyn Stark, Dacey Mormont, Smalljon Umber, Wendel Manderly, and Grey Wind (Robb's direwolf)."

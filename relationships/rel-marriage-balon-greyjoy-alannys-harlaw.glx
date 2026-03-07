@@ -1,0 +1,11 @@
+relationships:
+    rel-marriage-balon-greyjoy-alannys-harlaw:
+        type: marriage
+        participants:
+            - person: person-balon-greyjoy
+              role: spouse
+            - person: person-alannys-harlaw
+              role: spouse
+        properties:
+            start_date: "BEF 275"
+        notes: "Marriage of Balon Greyjoy and Alannys of House Harlaw. They had four children: Rodrik, Maron, Asha, and Theon. Listed in the AFFC appendix."

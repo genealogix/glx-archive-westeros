@@ -1,0 +1,24 @@
+events:
+    event-purple-wedding:
+        type: poisoning
+        date: "300"
+        place: place-kings-landing
+        participants:
+            - person: person-joffrey-baratheon
+              role: victim
+            - person: person-margaery-tyrell
+              role: bride
+            - person: person-tyrion-lannister
+              role: accused
+            - person: person-sansa-stark
+              role: witness
+            - person: person-cersei-lannister
+              role: witness
+            - person: person-tywin-lannister
+              role: witness
+            - person: person-olenna-redwyne
+              role: principal
+        properties:
+            description: "The Purple Wedding — the wedding feast of King Joffrey Baratheon and Margaery Tyrell. Joffrey was poisoned with the Strangler, dissolved in his wine. He choked and died in agony, his face turning purple. Tyrion Lannister was falsely accused of the murder by Cersei."
+            also_known_as: "The Purple Wedding"
+        notes: "The true conspirators were Olenna Tyrell (the Queen of Thorns) and Petyr Baelish. The poison was hidden in a jewel on Sansa's hairnet. Olenna plucked the jewel and dropped it in Joffrey's wine. Sansa was spirited away by Petyr's agents during the chaos."

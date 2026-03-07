@@ -1,0 +1,17 @@
+events:
+    event-dance-dragons:
+        type: war
+        date: "BET 129 AND 131"
+        participants:
+            - person: person-aegon-targaryen-ii
+              role: principal
+            - person: person-rhaenys-targaryen-354
+              role: combatant
+            - person: person-daemon-targaryen
+              role: combatant
+            - person: person-aemond-targaryen
+              role: combatant
+        properties:
+            description: "The Dance of the Dragons — a devastating Targaryen civil war fought between the rival claimants Aegon II and Rhaenyra Targaryen for the Iron Throne. Both sides used dragons in battle, resulting in the near-extinction of the species. The war lasted two years and devastated the realm."
+            also_known_as: "The Dance of the Dragons"
+        notes: "The war effectively ended the age of dragons. Most dragons on both sides were killed. Aegon II ultimately won but died shortly after, and Rhaenyra's son Aegon III succeeded."

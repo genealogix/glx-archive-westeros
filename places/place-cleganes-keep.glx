@@ -1,0 +1,8 @@
+places:
+    place-cleganes-keep:
+        name: "Clegane's Keep"
+        type: castle
+        parent: place-the-westerlands
+        properties:
+            seat_of: "House Clegane"
+        notes: "Seat of House Clegane, a minor house in the Westerlands. The first Clegane was a kennelmaster at Casterly Rock who saved Lord Tytos Lannister from a lion."

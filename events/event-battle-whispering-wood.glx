@@ -1,0 +1,15 @@
+events:
+    event-battle-whispering-wood:
+        type: battle
+        date: "298"
+        place: place-the-whispering-wood
+        participants:
+            - person: person-robb-stark
+              role: combatant
+            - person: person-jaime-lannister
+              role: combatant
+            - person: person-catelyn-tully
+              role: witness
+        properties:
+            description: "The Battle of the Whispering Wood — Robb Stark ambushed Jaime Lannister's army in the Whispering Wood near Riverrun. The Lannister force was destroyed and Jaime himself was captured after attempting to cut his way to Robb in single combat. This was Robb's first major victory."
+        notes: "Jaime killed several of Robb's bodyguards trying to reach him. The capture of Jaime was a major strategic coup but also created a hostage dilemma that would haunt the Starks."

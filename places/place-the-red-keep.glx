@@ -1,0 +1,8 @@
+places:
+    place-the-red-keep:
+        name: "The Red Keep"
+        type: castle
+        parent: place-kings-landing
+        properties:
+            seat_of: "The Iron Throne"
+        notes: "The royal castle in King's Landing, built on Aegon's High Hill. Named for the red stone of its walls. Contains the Iron Throne, the Tower of the Hand, Maegor's Holdfast, and the black cells."

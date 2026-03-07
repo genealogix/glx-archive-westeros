@@ -1,0 +1,6 @@
+places:
+    place-the-crownlands:
+        name: "The Crownlands"
+        type: region
+        parent: place-westeros
+        notes: "The region surrounding King's Landing, ruled directly by the Iron Throne rather than a great house. Includes Dragonstone, Driftmark, and the lands along Blackwater Bay."

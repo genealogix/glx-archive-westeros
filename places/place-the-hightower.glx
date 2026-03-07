@@ -1,0 +1,8 @@
+places:
+    place-the-hightower:
+        name: "The Hightower"
+        type: tower
+        parent: place-oldtown
+        properties:
+            seat_of: "House Hightower"
+        notes: "The tallest structure in Westeros, a massive lighthouse and fortress on Battle Isle in Oldtown. Seat of House Hightower. Its beacon can be seen for many leagues out to sea."

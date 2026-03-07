@@ -1,0 +1,8 @@
+places:
+    place-stone-hedge:
+        name: "Stone Hedge"
+        type: castle
+        parent: place-the-riverlands
+        properties:
+            seat_of: "House Bracken"
+        notes: "Seat of House Bracken in the Riverlands. The Brackens and Blackwoods have feuded for thousands of years, each claiming to be the older and more noble house."

@@ -1,0 +1,8 @@
+places:
+    place-duskendale:
+        name: "Duskendale"
+        type: town
+        parent: place-the-crownlands
+        properties:
+            seat_of: "House Darklyn (formerly), House Rykker"
+        notes: "Town in the Crownlands on the coast of Blackwater Bay. Site of the Defiance of Duskendale where Aerys II was held captive by Lord Darklyn, an event that deepened his madness."

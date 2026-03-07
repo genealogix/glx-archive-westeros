@@ -1,4 +1,6 @@
 places:
     place-tower-of-joy:
-        name: Tower Of Joy
-        type: landmark
+        name: "Tower of Joy"
+        type: tower
+        parent: place-dorne
+        notes: "A tower in the Red Mountains of Dorne where Rhaegar Targaryen kept Lyanna Stark. Site of a famous battle between Ned Stark and the Kingsguard at the end of Robert's Rebellion."

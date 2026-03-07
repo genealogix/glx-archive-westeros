@@ -1,0 +1,8 @@
+places:
+    place-the-stormlands:
+        name: "The Stormlands"
+        type: kingdom
+        parent: place-westeros
+        properties:
+            seat_of: "House Baratheon"
+        notes: "A kingdom in southeastern Westeros, known for its fierce storms off Shipbreaker Bay. Ruled from Storm's End by House Baratheon."

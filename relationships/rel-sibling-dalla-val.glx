@@ -1,0 +1,10 @@
+relationships:
+    rel-sibling-dalla-val:
+        type: sibling
+        participants:
+            - person: person-dalla
+              role: sibling
+            - person: person-val
+              role: sibling
+        properties:
+            context: "Val is Dalla's younger sister (ADWD Appendix)"

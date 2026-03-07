@@ -96,3 +96,313 @@ participant_roles:
     applies_to:
       - relationship
 
+  # === ASOIAF Custom Participant Roles ===
+
+  # Event Roles
+  commander:
+    label: "Commander"
+    description: "Military commander in a battle, siege, or military event"
+    applies_to:
+      - event
+
+  victor:
+    label: "Victor"
+    description: "Winning party in a battle, duel, or trial by combat"
+    applies_to:
+      - event
+
+  defeated:
+    label: "Defeated"
+    description: "Losing party in a battle, duel, or trial by combat"
+    applies_to:
+      - event
+
+  executioner:
+    label: "Executioner"
+    description: "Person who carries out an execution"
+    applies_to:
+      - event
+
+  condemned:
+    label: "Condemned"
+    description: "Person sentenced to execution or punishment"
+    applies_to:
+      - event
+
+  host:
+    label: "Host"
+    description: "Host of a feast, tourney, wedding, or other gathering"
+    applies_to:
+      - event
+
+  guest:
+    label: "Guest"
+    description: "Guest at a feast, wedding, or event held by a host"
+    applies_to:
+      - event
+
+  champion:
+    label: "Champion"
+    description: "Champion fighting on behalf of another in trial by combat or tourney"
+    applies_to:
+      - event
+
+  accused:
+    label: "Accused"
+    description: "Person accused or on trial"
+    applies_to:
+      - event
+
+  judge:
+    label: "Judge"
+    description: "Person presiding over a trial, council, or judicial proceeding"
+    applies_to:
+      - event
+
+  victim:
+    label: "Victim"
+    description: "Person harmed, killed, or targeted in an event (assassination, poisoning, sack)"
+    applies_to:
+      - event
+
+  assassin:
+    label: "Assassin"
+    description: "Person who carries out an assassination"
+    applies_to:
+      - event
+
+  conspirator:
+    label: "Conspirator"
+    description: "Person involved in a conspiracy, plot, or coup"
+    applies_to:
+      - event
+
+  defender:
+    label: "Defender"
+    description: "Defending party in a siege, battle, or military engagement"
+    applies_to:
+      - event
+
+  attacker:
+    label: "Attacker"
+    description: "Attacking party in a siege, battle, or military engagement"
+    applies_to:
+      - event
+
+  besieged:
+    label: "Besieged"
+    description: "Person or garrison under siege"
+    applies_to:
+      - event
+
+  besieger:
+    label: "Besieger"
+    description: "Person or army conducting a siege"
+    applies_to:
+      - event
+
+  captive:
+    label: "Captive"
+    description: "Person captured or imprisoned during an event"
+    applies_to:
+      - event
+
+  captor:
+    label: "Captor"
+    description: "Person who captures or imprisons another"
+    applies_to:
+      - event
+
+  rescuer:
+    label: "Rescuer"
+    description: "Person who rescues or frees another"
+    applies_to:
+      - event
+
+  claimant:
+    label: "Claimant"
+    description: "Person claiming a throne, title, or inheritance"
+    applies_to:
+      - event
+
+  crowned:
+    label: "Crowned"
+    description: "Person being crowned or enthroned"
+    applies_to:
+      - event
+
+  crowning_authority:
+    label: "Crowning Authority"
+    description: "Person or authority who crowns or legitimizes a ruler (High Septon, etc.)"
+    applies_to:
+      - event
+
+  combatant:
+    label: "Combatant"
+    description: "Participant in a battle, duel, melee, or joust"
+    applies_to:
+      - event
+
+  jouster:
+    label: "Jouster"
+    description: "Participant in a jousting match"
+    applies_to:
+      - event
+
+  poisoner:
+    label: "Poisoner"
+    description: "Person who administers poison"
+    applies_to:
+      - event
+
+  betrayer:
+    label: "Betrayer"
+    description: "Person who betrays trust or violates an oath"
+    applies_to:
+      - event
+
+  betrayed:
+    label: "Betrayed"
+    description: "Person who is betrayed"
+    applies_to:
+      - event
+
+  negotiator:
+    label: "Negotiator"
+    description: "Person negotiating a pact, treaty, or surrender"
+    applies_to:
+      - event
+
+  envoy:
+    label: "Envoy"
+    description: "Messenger or diplomatic envoy sent to negotiate"
+    applies_to:
+      - event
+
+  dragon_rider:
+    label: "Dragon Rider"
+    description: "Person riding a dragon in an event"
+    applies_to:
+      - event
+
+  legitimized:
+    label: "Legitimized"
+    description: "Person being legitimized (bastard receiving a family name)"
+    applies_to:
+      - event
+
+  legitimizer:
+    label: "Legitimizer"
+    description: "Authority who grants legitimization (king or queen)"
+    applies_to:
+      - event
+
+  knighted:
+    label: "Knighted"
+    description: "Person being elevated to knighthood"
+    applies_to:
+      - event
+
+  knighting_authority:
+    label: "Knighting Authority"
+    description: "Knight or authority who bestows knighthood"
+    applies_to:
+      - event
+
+  exile:
+    label: "Exile"
+    description: "Person being exiled or banished"
+    applies_to:
+      - event
+
+  exiling_authority:
+    label: "Exiling Authority"
+    description: "Authority who orders the exile"
+    applies_to:
+      - event
+
+  # Relationship Roles
+  ward:
+    label: "Ward"
+    description: "Person fostered or held as ward"
+    applies_to:
+      - relationship
+
+  guardian:
+    label: "Guardian"
+    description: "Lord or lady serving as guardian of a ward"
+    applies_to:
+      - relationship
+
+  liege:
+    label: "Liege"
+    description: "Liege lord in a feudal bond"
+    applies_to:
+      - relationship
+
+  vassal:
+    label: "Vassal"
+    description: "Vassal lord in a feudal bond"
+    applies_to:
+      - relationship
+
+  knight:
+    label: "Knight"
+    description: "Knight being served by a squire"
+    applies_to:
+      - relationship
+
+  squire:
+    label: "Squire"
+    description: "Squire serving a knight"
+    applies_to:
+      - relationship
+
+  master:
+    label: "Master"
+    description: "Master in a master-apprentice, master-slave, or similar relationship"
+    applies_to:
+      - relationship
+
+  apprentice:
+    label: "Apprentice"
+    description: "Apprentice learning from a master"
+    applies_to:
+      - relationship
+
+  protector:
+    label: "Protector"
+    description: "Person serving as sworn protector"
+    applies_to:
+      - relationship
+
+  protected:
+    label: "Protected"
+    description: "Person under the protection of a sworn protector"
+    applies_to:
+      - relationship
+
+  regent:
+    label: "Regent"
+    description: "Person ruling as regent"
+    applies_to:
+      - relationship
+
+  monarch:
+    label: "Monarch"
+    description: "Minor monarch on whose behalf a regent rules"
+    applies_to:
+      - relationship
+
+  khal:
+    label: "Khal"
+    description: "Dothraki warlord in a bloodrider or khaleesi relationship"
+    applies_to:
+      - relationship
+
+  bloodrider:
+    label: "Bloodrider"
+    description: "Sworn bloodrider companion to a khal"
+    applies_to:
+      - relationship
+

@@ -1,0 +1,5 @@
+places:
+    place-westeros:
+        name: "Westeros"
+        type: continent
+        notes: "The western continent, home to the Seven Kingdoms. Extends from the Lands of Always Winter in the far north to the Summer Sea in the south. Separated from Essos by the Narrow Sea."

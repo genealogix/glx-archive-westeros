@@ -53,6 +53,18 @@ repository_types:
     label: "Digital Archive"
     description: "Digital genealogy platform export (MyHeritage, Ancestry)"
 
+  fan_wiki:
+    label: "Fan Wiki"
+    description: "Fan-maintained wiki or reference site (A Wiki of Ice and Fire, Game of Thrones Wiki)"
+
+  author_blog:
+    label: "Author Blog"
+    description: "Author's personal blog or website (Not A Blog)"
+
+  fan_forum:
+    label: "Fan Forum"
+    description: "Fan discussion forum or community (Westeros.org, Reddit r/asoiaf)"
+
   other:
     label: "Other"
     description: "Other institution type"

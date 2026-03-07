@@ -1,0 +1,6 @@
+places:
+    place-flea-bottom:
+        name: "Flea Bottom"
+        type: neighborhood
+        parent: place-kings-landing
+        notes: "The poorest slum in King's Landing, a maze of narrow streets and alleys. Known for its bowl of brown stew. Where Davos Seaworth and Gendry grew up."

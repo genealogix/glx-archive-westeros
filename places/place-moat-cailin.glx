@@ -1,0 +1,6 @@
+places:
+    place-moat-cailin:
+        name: "Moat Cailin"
+        type: castle
+        parent: place-the-north
+        notes: "An ancient, partially ruined fortress at the northern edge of the Neck. Controls the causeway through the swamps, making it the key to any land invasion of the North from the south."

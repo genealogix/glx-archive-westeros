@@ -1,0 +1,8 @@
+places:
+    place-pyke:
+        name: "Pyke"
+        type: castle
+        parent: place-the-iron-islands
+        properties:
+            seat_of: "House Greyjoy"
+        notes: "Seat of House Greyjoy on the island of Pyke in the Iron Islands. Built on a headland and several sea stacks connected by rope bridges, with the sea crashing beneath."

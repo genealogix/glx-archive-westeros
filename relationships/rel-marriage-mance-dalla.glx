@@ -1,0 +1,10 @@
+relationships:
+    rel-marriage-mance-dalla:
+        type: marriage
+        participants:
+            - person: person-mance-rayder
+              role: spouse
+            - person: person-dalla
+              role: spouse
+        properties:
+            context: "Mance Rayder and Dalla, King and Queen Beyond the Wall"

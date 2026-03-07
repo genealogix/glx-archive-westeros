@@ -1,0 +1,8 @@
+places:
+    place-bear-island:
+        name: "Bear Island"
+        type: island
+        parent: place-the-north
+        properties:
+            seat_of: "House Mormont"
+        notes: "An island in the Bay of Ice off the northwestern coast of the North. Seat of House Mormont. Remote and rugged, its women are known to fight alongside the men."

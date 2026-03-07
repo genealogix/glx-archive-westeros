@@ -1,0 +1,8 @@
+places:
+    place-valyria:
+        name: "Valyria"
+        type: ruin
+        parent: place-essos
+        properties:
+            also_known_as: "The Freehold, Old Valyria"
+        notes: "The ruined peninsula that was once the heart of the Valyrian Freehold, the greatest civilization in the known world. Destroyed in the Doom of Valyria approximately 400 years before the events of AGOT. Now a smoking, demon-haunted ruin that sailors avoid."

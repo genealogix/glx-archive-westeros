@@ -1,0 +1,6 @@
+places:
+    place-shadow-tower:
+        name: "The Shadow Tower"
+        type: castle
+        parent: place-the-north
+        notes: "The westernmost manned castle of the Night's Watch on the Wall, near the Gorge where the Milkwater flows beneath the Wall."

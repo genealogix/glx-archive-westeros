@@ -1,4 +1,8 @@
 places:
     place-braavos:
-        name: Braavos
-        type: city
+        name: "Braavos"
+        type: free_city
+        parent: place-essos
+        properties:
+            also_known_as: "The Secret City"
+        notes: "Greatest and most powerful of the Free Cities. Founded by escaped slaves from Valyria. Home of the Iron Bank and the Faceless Men."

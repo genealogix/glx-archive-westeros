@@ -1,0 +1,8 @@
+places:
+    place-the-north:
+        name: "The North"
+        type: kingdom
+        parent: place-westeros
+        properties:
+            seat_of: "House Stark"
+        notes: "The largest of the Seven Kingdoms, stretching from the Neck to the Wall. Ruled from Winterfell by House Stark. The Northerners worship the Old Gods of the Forest."

@@ -1,0 +1,8 @@
+places:
+    place-stoney-sept:
+        name: "Stoney Sept"
+        type: town
+        parent: place-the-riverlands
+        properties:
+            also_known_as: "The Town of Bells"
+        notes: "Town in the Riverlands, site of the Battle of the Bells during Robert's Rebellion where Ned Stark's forces rescued Robert Baratheon from Jon Connington."

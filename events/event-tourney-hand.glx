@@ -1,0 +1,22 @@
+events:
+    event-tourney-hand:
+        type: tournament
+        date: "298"
+        place: place-kings-landing
+        participants:
+            - person: person-eddard-stark
+              role: subject
+            - person: person-loras-tyrell
+              role: combatant
+            - person: person-jaime-lannister
+              role: combatant
+            - person: person-joffrey-baratheon
+              role: guest
+            - person: person-sansa-stark
+              role: guest
+            - person: person-robert-baratheon-i
+              role: principal
+        properties:
+            description: "The Tournament of the Hand — a grand tourney held in King's Landing to celebrate the appointment of Eddard Stark as Hand of the King. Ser Loras Tyrell defeated Ser Jaime Lannister and Ser Gregor Clegane. Ser Hugh of the Vale was killed by Clegane in the lists."
+            also_known_as: "The Hand's Tourney"
+        notes: "The tourney cost the crown dearly and deepened the already dire financial situation. Sansa attended and was enchanted by the spectacle. The death of Ser Hugh raised suspicions about Jon Arryn's murder."

@@ -1,0 +1,6 @@
+places:
+    place-lys:
+        name: "Lys"
+        type: free_city
+        parent: place-essos
+        notes: "One of the Free Cities of Essos, located on a group of islands. Known for its pleasure houses, poisons (the tears of Lys), and pillow houses. The Lyseni are often fair-haired and beautiful."

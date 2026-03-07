@@ -42,3 +42,59 @@ place_properties:
     temporal: true
     multi_value: true
 
+  # === ASOIAF Custom Place Properties ===
+
+  seat_of:
+    label: "Seat Of"
+    description: "House or lord for whom this place is the ancestral seat (e.g., 'House Stark' for Winterfell)"
+    value_type: string
+    temporal: true
+
+  also_known_as:
+    label: "Also Known As"
+    description: "Common names or nicknames for a place"
+    value_type: string
+    multi_value: true
+
+  region:
+    label: "Region"
+    description: "Which of the Seven Kingdoms or Essosi region this place belongs to"
+    value_type: string
+
+  continent:
+    label: "Continent"
+    description: "Continent on which this place is located (Westeros, Essos, Sothoryos, Ulthos)"
+    value_type: string
+
+  notable_features:
+    label: "Notable Features"
+    description: "Distinctive features of the place (e.g., 'Built over hot springs', 'Melted by dragonfire')"
+    value_type: string
+    multi_value: true
+
+  builder:
+    label: "Builder"
+    description: "Person or entity who built or founded this place (e.g., 'Bran the Builder', 'Aegon the Conqueror')"
+    value_type: string
+
+  destroyed_by:
+    label: "Destroyed By"
+    description: "How or by whom the place was destroyed or ruined"
+    value_type: string
+
+  garrisoned_by:
+    label: "Garrisoned By"
+    description: "Military force or house currently garrisoning the place"
+    value_type: string
+    temporal: true
+
+  weirwood:
+    label: "Weirwood"
+    description: "Whether the place has a weirwood tree or heart tree"
+    value_type: string
+
+  strategic_importance:
+    label: "Strategic Importance"
+    description: "Military or political strategic significance of the place"
+    value_type: string
+

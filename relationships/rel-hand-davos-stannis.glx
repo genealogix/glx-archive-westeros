@@ -1,0 +1,11 @@
+relationships:
+    rel-hand-davos-stannis:
+        type: hand_of_the_king
+        participants:
+            - person: person-davos-seaworth
+              role: hand
+            - person: person-stannis-baratheon
+              role: king
+        properties:
+            start_date: "299"
+            context: "Davos Seaworth, Hand of King Stannis (ADWD Appendix)"

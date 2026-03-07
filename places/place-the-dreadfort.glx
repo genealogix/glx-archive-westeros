@@ -1,0 +1,8 @@
+places:
+    place-the-dreadfort:
+        name: "The Dreadfort"
+        type: castle
+        parent: place-the-north
+        properties:
+            seat_of: "House Bolton"
+        notes: "Seat of House Bolton along the Weeping Water. A grim fortress associated with the Bolton tradition of flaying their enemies."

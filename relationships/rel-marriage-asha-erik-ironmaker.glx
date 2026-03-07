@@ -1,0 +1,9 @@
+relationships:
+    rel-marriage-asha-erik-ironmaker:
+        type: marriage
+        participants:
+            - person: person-asha-greyjoy
+              role: spouse
+        properties:
+            start_date: "300"
+            context: "Asha Greyjoy married to Erik Ironmaker, Lord Steward of the Iron Islands, castellan of Pyke, an old man once renowned (ADWD Appendix)"

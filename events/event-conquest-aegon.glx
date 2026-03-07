@@ -1,0 +1,21 @@
+events:
+    event-conquest-aegon:
+        type: conquest
+        date: "BET 1 AND 2"
+        participants:
+            - person: person-aegon-targaryen-i-the-conqueror
+              role: principal
+            - person: person-visenya-targaryen
+              role: combatant
+            - person: person-rhaenys-targaryen-208
+              role: combatant
+            - person: person-orys-baratheon
+              role: combatant
+            - person: person-argilac-durrendon-the-arrogant
+              role: combatant
+            - person: person-mors-martell
+              role: combatant
+        properties:
+            description: "Aegon's Conquest — Aegon Targaryen and his sister-wives Visenya and Rhaenys, with three dragons, conquered six of the Seven Kingdoms of Westeros. Only Dorne resisted successfully. Aegon was crowned and established King's Landing as his capital, forging the Iron Throne from the swords of the vanquished."
+            also_known_as: "Aegon's Conquest, The Conquest"
+        notes: "Marked the beginning of the Targaryen dynasty and the AC calendar. Orys Baratheon, Aegon's rumored half-brother, slew Argilac the Arrogant and was granted Storm's End."

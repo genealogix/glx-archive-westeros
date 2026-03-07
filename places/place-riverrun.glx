@@ -1,0 +1,8 @@
+places:
+    place-riverrun:
+        name: "Riverrun"
+        type: castle
+        parent: place-the-riverlands
+        properties:
+            seat_of: "House Tully"
+        notes: "Seat of House Tully at the junction of the Tumblestone and the Red Fork of the Trident. Can be turned into an island by flooding a sluice gate, making it nearly impregnable."

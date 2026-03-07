@@ -1,0 +1,6 @@
+places:
+    place-dothraki-sea:
+        name: "The Dothraki Sea"
+        type: region
+        parent: place-essos
+        notes: "A vast, flat expanse of grassland in the interior of Essos. Home to the Dothraki horse lords and their khalasars. Named for the way the wind moves the grass like waves on an ocean."

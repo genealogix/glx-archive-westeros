@@ -1,0 +1,6 @@
+places:
+    place-gulltown:
+        name: "Gulltown"
+        type: city
+        parent: place-the-vale
+        notes: "The largest city in the Vale and its main port. Located on the coast, it is the gateway to the Vale by sea."

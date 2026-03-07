@@ -1,0 +1,8 @@
+places:
+    place-the-westerlands:
+        name: "The Westerlands"
+        type: kingdom
+        parent: place-westeros
+        properties:
+            seat_of: "House Lannister"
+        notes: "The wealthiest of the Seven Kingdoms, rich in gold and silver mines. Ruled from Casterly Rock by House Lannister."

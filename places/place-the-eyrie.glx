@@ -1,0 +1,8 @@
+places:
+    place-the-eyrie:
+        name: "The Eyrie"
+        type: castle
+        parent: place-the-vale
+        properties:
+            seat_of: "House Arryn"
+        notes: "Seat of House Arryn, perched high in the Mountains of the Moon in the Vale of Arryn. Considered impregnable due to its elevation. Features the Moon Door, an opening in the floor that leads to a six-hundred-foot drop."

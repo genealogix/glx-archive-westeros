@@ -1,0 +1,14 @@
+events:
+    event-war-ninepenny-kings:
+        type: war
+        date: "260"
+        place: place-the-stepstones
+        participants:
+            - person: person-jaehaerys-targaryen-ii
+              role: principal
+            - person: person-maelys-blackfyre-the-monstrous
+              role: combatant
+        properties:
+            description: "The War of the Ninepenny Kings — a coalition called the Band of Nine, including Maelys the Monstrous (the last Blackfyre pretender), seized the Stepstones and threatened Westeros. A Westerosi army defeated them. Barristan Selmy slew Maelys in single combat, ending the Blackfyre male line."
+            also_known_as: "The War of the Ninepenny Kings, The Fifth Blackfyre Rebellion"
+        notes: "Many future major figures fought here as young men: Tywin Lannister, Aerys Targaryen, Steffon Baratheon, Hoster Tully, Brynden Tully, and Barristan Selmy."

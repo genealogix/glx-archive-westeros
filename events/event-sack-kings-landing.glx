@@ -1,0 +1,20 @@
+events:
+    event-sack-kings-landing:
+        type: sack
+        date: "283"
+        place: place-kings-landing
+        participants:
+            - person: person-tywin-lannister
+              role: principal
+            - person: person-jaime-lannister
+              role: combatant
+            - person: person-aerys-targaryen-ii
+              role: victim
+            - person: person-elia-martell
+              role: victim
+            - person: person-aegon-targaryen
+              role: victim
+        properties:
+            description: "The Sack of King's Landing — Tywin Lannister arrived at the gates of King's Landing with his army, professing loyalty to Aerys. Once admitted, the Lannister forces sacked the city. Jaime Lannister slew King Aerys II (the Kingslayer act). Gregor Clegane murdered Princess Elia Martell and her children Aegon and Rhaenys."
+            also_known_as: "The Sack of King's Landing"
+        notes: "Aerys had ordered his pyromancers to burn the city with wildfire rather than let it fall. Jaime killed the Mad King to prevent the destruction. Ned Stark arrived to find Jaime on the Iron Throne and the Lannister forces already in control."

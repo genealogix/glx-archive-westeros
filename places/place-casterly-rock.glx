@@ -1,0 +1,8 @@
+places:
+    place-casterly-rock:
+        name: "Casterly Rock"
+        type: castle
+        parent: place-the-westerlands
+        properties:
+            seat_of: "House Lannister"
+        notes: "Seat of House Lannister, carved from a great rock overlooking the Sunset Sea. The gold mines beneath it are the source of the Lannisters' legendary wealth."

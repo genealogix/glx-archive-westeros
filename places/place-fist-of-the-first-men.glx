@@ -1,0 +1,6 @@
+places:
+    place-fist-of-the-first-men:
+        name: "Fist of the First Men"
+        type: landmark
+        parent: place-beyond-the-wall
+        notes: "Ancient ringfort beyond the Wall, a hill rising above the Milkwater. Site of the Night's Watch defeat by the Others and their wight army during the Great Ranging."

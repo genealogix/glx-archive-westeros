@@ -1,0 +1,24 @@
+events:
+    event-battle-blackwater:
+        type: battle
+        date: "299"
+        place: place-blackwater-bay
+        participants:
+            - person: person-stannis-baratheon
+              role: combatant
+            - person: person-tyrion-lannister
+              role: combatant
+            - person: person-joffrey-baratheon
+              role: principal
+            - person: person-tywin-lannister
+              role: combatant
+            - person: person-loras-tyrell
+              role: combatant
+            - person: person-garlan-tyrell
+              role: combatant
+            - person: person-cersei-lannister
+              role: subject
+        properties:
+            description: "The Battle of the Blackwater — Stannis Baratheon's fleet and army attacked King's Landing by sea and land. Tyrion Lannister organized the defense, using a massive chain to trap the fleet and wildfire to destroy it. The defenders were nearly overwhelmed until Tywin Lannister and the Tyrell army arrived, smashing Stannis's forces from behind. Stannis was routed and fled."
+            also_known_as: "The Battle of the Blackwater"
+        notes: "Tyrion was grievously wounded during the battle, his face slashed. Despite saving the city, he received no credit; Tywin and the Tyrells claimed the glory. The Tyrell alliance was cemented by the betrothal of Joffrey to Margaery Tyrell."

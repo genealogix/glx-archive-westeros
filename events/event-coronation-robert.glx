@@ -1,0 +1,13 @@
+events:
+    event-coronation-robert:
+        type: coronation
+        date: "283"
+        place: place-kings-landing
+        participants:
+            - person: person-robert-baratheon-i
+              role: principal
+            - person: person-jon-arryn
+              role: subject
+        properties:
+            description: "The coronation of Robert Baratheon as King of the Andals, the Rhoynar, and the First Men. Robert claimed the throne by right of conquest and by his Targaryen grandmother Rhaelle. Jon Arryn was named Hand of the King."
+        notes: "Robert's claim was bolstered by his Targaryen blood through his grandmother Rhaelle Targaryen. He married Cersei Lannister to cement the alliance with House Lannister."

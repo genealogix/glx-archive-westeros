@@ -89,6 +89,38 @@ source_types:
     label: "Digital Record"
     description: "Digitally compiled record or family tree export"
 
+  novella:
+    label: "Novella"
+    description: "Published novella or short story in the ASOIAF universe (Dunk and Egg stories, The Princess and the Queen)"
+
+  appendix:
+    label: "Novel Appendix"
+    description: "Appendix section of an ASOIAF novel listing houses, titles, and family members"
+
+  sample_chapter:
+    label: "Sample Chapter"
+    description: "Pre-publication sample chapter released by the author (e.g., TWOW preview chapters)"
+
+  rpg_sourcebook:
+    label: "RPG Sourcebook"
+    description: "A Song of Ice and Fire Roleplaying sourcebook or supplement"
+
+  interview:
+    label: "Interview"
+    description: "Published interview with George R.R. Martin or show creators"
+
+  fan_analysis:
+    label: "Fan Analysis"
+    description: "Detailed fan analysis or theory with textual evidence (low confidence source)"
+
+  map:
+    label: "Map"
+    description: "Official map of Westeros, Essos, or other regions"
+
+  family_tree_diagram:
+    label: "Family Tree Diagram"
+    description: "Published or official family tree diagram"
+
   other:
     label: "Other"
     description: "Other source types"

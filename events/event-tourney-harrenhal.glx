@@ -1,0 +1,26 @@
+events:
+    event-tourney-harrenhal:
+        type: tournament
+        date: "281"
+        place: place-harrenhal
+        participants:
+            - person: person-rhaegar-targaryen
+              role: principal
+            - person: person-lyanna-stark
+              role: subject
+            - person: person-aerys-targaryen-ii
+              role: guest
+            - person: person-robert-baratheon-i
+              role: combatant
+            - person: person-eddard-stark
+              role: guest
+            - person: person-brandon-stark-213
+              role: guest
+            - person: person-jaime-lannister
+              role: combatant
+            - person: person-arthur-dayne
+              role: combatant
+        properties:
+            description: "The Tournament at Harrenhal — the greatest tourney of its age, hosted by Lord Walter Whent. Prince Rhaegar Targaryen won the final joust but caused scandal by crowning Lyanna Stark as the Queen of Love and Beauty, passing over his own wife Elia Martell. This act set in motion the chain of events leading to Robert's Rebellion."
+            also_known_as: "The Tourney at Harrenhal"
+        notes: "Widely suspected to have been arranged by Rhaegar himself to gather the great lords. The mystery Knight of the Laughing Tree appeared at this tourney. Aerys II attended, his first departure from the Red Keep since the Defiance of Duskendale."

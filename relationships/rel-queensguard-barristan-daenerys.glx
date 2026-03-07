@@ -1,0 +1,10 @@
+relationships:
+    rel-queensguard-barristan-daenerys:
+        type: queensguard
+        participants:
+            - person: person-barristan-selmy
+              role: protector
+            - person: person-daenerys-targaryen-304
+              role: queen
+        properties:
+            context: "Ser Barristan Selmy, Lord Commander of the Queensguard for Queen Daenerys (ADWD Appendix)"

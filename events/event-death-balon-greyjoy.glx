@@ -1,0 +1,12 @@
+events:
+    event-death-balon-greyjoy:
+        type: death
+        date: "AFT 299"
+        place: place-pyke
+        participants:
+            - person: person-balon-greyjoy
+              role: subject
+        properties:
+            description: "King Balon Greyjoy falls from a bridge at Pyke during a storm and is killed."
+            cause_of_death: "Killed in a fall"
+        notes: "AFFC Appendix describes Balon as 'killed in a fall.' It is strongly implied that Euron Crow's Eye arranged his death via a Faceless Man."

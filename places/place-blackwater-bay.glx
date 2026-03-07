@@ -1,0 +1,6 @@
+places:
+    place-blackwater-bay:
+        name: "Blackwater Bay"
+        type: bay
+        parent: place-the-crownlands
+        notes: "Bay on the east coast of Westeros, adjacent to King's Landing. Site of the Battle of the Blackwater where Stannis Baratheon's fleet was destroyed by wildfire."

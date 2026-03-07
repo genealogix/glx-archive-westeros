@@ -1,0 +1,8 @@
+places:
+    place-maidenpool:
+        name: "Maidenpool"
+        type: town
+        parent: place-the-riverlands
+        properties:
+            seat_of: "House Mooton"
+        notes: "A town in the Riverlands with a small port on the Bay of Crabs. Seat of House Mooton."

@@ -1,0 +1,8 @@
+places:
+    place-qarth:
+        name: "Qarth"
+        type: city
+        parent: place-essos
+        properties:
+            also_known_as: "Queen of Cities, The Greatest City that Ever Was or Will Be"
+        notes: "A great trading city on the southeastern coast of Essos, at the straits between the Summer Sea and the Jade Sea. Ruled by the Pureborn and influenced by the warlocks of the House of the Undying and the Thirteen."

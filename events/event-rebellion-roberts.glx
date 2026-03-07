@@ -1,0 +1,23 @@
+events:
+    event-rebellion-roberts:
+        type: rebellion
+        date: "BET 282 AND 283"
+        participants:
+            - person: person-robert-baratheon-i
+              role: principal
+            - person: person-eddard-stark
+              role: combatant
+            - person: person-jon-arryn
+              role: combatant
+            - person: person-hoster-tully
+              role: combatant
+            - person: person-aerys-targaryen-ii
+              role: principal
+            - person: person-rhaegar-targaryen
+              role: combatant
+            - person: person-tywin-lannister
+              role: combatant
+        properties:
+            description: "Robert's Rebellion — a civil war that overthrew the Targaryen dynasty. Triggered by the abduction of Lyanna Stark by Prince Rhaegar Targaryen, and the subsequent execution of Brandon and Rickard Stark by the Mad King Aerys II. Robert Baratheon, Eddard Stark, and Jon Arryn led the rebel alliance. The war ended with Robert on the Iron Throne."
+            also_known_as: "Robert's Rebellion, The War of the Usurper"
+        notes: "The rebel alliance was cemented by the marriages of Ned Stark to Catelyn Tully and Jon Arryn to Lysa Tully, securing House Tully's support."

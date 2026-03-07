@@ -1,4 +1,6 @@
 places:
     place-the-trident:
-        name: The Trident
-        type: landmark
+        name: "The Trident"
+        type: river
+        parent: place-the-riverlands
+        notes: "Major river system in the Riverlands, formed by three forks: the Green Fork, the Blue Fork, and the Red Fork. Site of the Battle of the Trident where Robert Baratheon slew Rhaegar Targaryen."

@@ -1,0 +1,8 @@
+places:
+    place-sunspear:
+        name: "Sunspear"
+        type: castle
+        parent: place-dorne
+        properties:
+            seat_of: "House Martell"
+        notes: "Seat of House Martell, the ruling house of Dorne. Located on the southeastern coast of Westeros. Named for the sigil of House Martell: a sun pierced by a spear."

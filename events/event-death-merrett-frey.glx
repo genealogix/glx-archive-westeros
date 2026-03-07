@@ -1,0 +1,10 @@
+events:
+    event-death-merrett-frey:
+        type: death
+        date: "299"
+        participants:
+            - person: person-merrett-frey
+              role: principal
+        properties:
+            cause: "Hanged by the Brotherhood Without Banners"
+        notes: "Merrett Frey was hanged by the Brotherhood Without Banners, led by Lady Stoneheart (resurrected Catelyn Stark). This is the ASOS epilogue chapter."

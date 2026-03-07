@@ -1,0 +1,8 @@
+places:
+    place-storms-end:
+        name: "Storm's End"
+        type: castle
+        parent: place-the-stormlands
+        properties:
+            seat_of: "House Baratheon"
+        notes: "Seat of House Baratheon, a massive fortress on Durran's Point overlooking Shipbreaker Bay. Its walls are said to be imbued with magic by Brandon the Builder to withstand the fury of the storms. Legendarily built by Durran Godsgrief."

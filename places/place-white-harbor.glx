@@ -1,0 +1,8 @@
+places:
+    place-white-harbor:
+        name: "White Harbor"
+        type: city
+        parent: place-the-north
+        properties:
+            seat_of: "House Manderly"
+        notes: "The only city in the North and its primary port. Seat of House Manderly, who came north from the Reach a thousand years ago. The Manderlys worship the Seven, unusual for the North."

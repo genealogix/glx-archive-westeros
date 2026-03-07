@@ -1,0 +1,10 @@
+relationships:
+    rel-foster-connington-young-griff:
+        type: foster_parent_child
+        participants:
+            - person: person-jon-connington
+              role: parent
+            - person: person-young-griff
+              role: child
+        properties:
+            context: "Jon Connington (Griff) is the foster father of Young Griff (believed to be Aegon Targaryen). They travel together on the Rhoyne (ADWD Appendix)."

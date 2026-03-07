@@ -1,0 +1,6 @@
+places:
+    place-tyrosh:
+        name: "Tyrosh"
+        type: free_city
+        parent: place-essos
+        notes: "One of the Free Cities of Essos, built on an island. Known for its greedy merchants, dyed beards and hair, and the pear brandy produced there. Home of the sellsword trade."

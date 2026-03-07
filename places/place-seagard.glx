@@ -1,0 +1,8 @@
+places:
+    place-seagard:
+        name: "Seagard"
+        type: castle
+        parent: place-the-riverlands
+        properties:
+            seat_of: "House Mallister"
+        notes: "Seat of House Mallister on the western coast of the Riverlands. Built to defend against ironborn raiders. Features the Booming Tower, whose bell warns of approaching longships."

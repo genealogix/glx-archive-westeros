@@ -1,0 +1,11 @@
+relationships:
+    rel-marriage-tyrion-lannister-and-sansa-stark:
+        type: marriage
+        participants:
+            - person: person-tyrion-lannister
+              role: spouse
+            - person: person-sansa-stark
+              role: spouse
+        properties:
+            start_date: "299"
+            context: "Forced marriage arranged by Lord Tywin Lannister to secure Lannister claim to Winterfell. Reportedly never consummated."

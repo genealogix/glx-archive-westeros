@@ -1,0 +1,6 @@
+places:
+    place-isle-of-faces:
+        name: "Isle of Faces"
+        type: island
+        parent: place-the-riverlands
+        notes: "A sacred island in the center of the Gods Eye lake. Said to be where the Pact between the First Men and the Children of the Forest was forged. Every tree on the island is a weirwood with a carved face. Green men are said to still tend the island."

@@ -1,0 +1,6 @@
+places:
+    place-pentos:
+        name: "Pentos"
+        type: free_city
+        parent: place-essos
+        notes: "One of the Free Cities of Essos, located on the western coast across the Narrow Sea from Westeros. Ruled by a Prince chosen by the magisters. Where Daenerys and Viserys Targaryen sheltered with Illyrio Mopatis."

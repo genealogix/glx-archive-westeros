@@ -1,0 +1,8 @@
+places:
+    place-starfall:
+        name: "Starfall"
+        type: castle
+        parent: place-dorne
+        properties:
+            seat_of: "House Dayne"
+        notes: "Seat of House Dayne on an island at the mouth of the Torrentine in western Dorne. Home of the legendary sword Dawn, forged from a fallen star."

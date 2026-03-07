@@ -1,0 +1,14 @@
+events:
+    event-greyjoy-rebellion:
+        type: rebellion
+        date: "289"
+        place: place-pyke
+        participants:
+            - person: person-robert-baratheon-i
+              role: combatant
+            - person: person-eddard-stark
+              role: combatant
+        properties:
+            description: "The Greyjoy Rebellion — Balon Greyjoy declared himself King of the Iron Islands and attacked the North, burning the Lannister fleet at Lannisport. King Robert called his banners and crushed the rebellion, besieging Pyke. Balon's sons Rodrik and Maron were killed. Theon Greyjoy was taken as Ned Stark's ward to ensure Balon's loyalty."
+            also_known_as: "The Greyjoy Rebellion"
+        notes: "Jorah Mormont was among the first through the breach at Pyke and was knighted. Theon was taken as a hostage/ward at age ten and raised at Winterfell."

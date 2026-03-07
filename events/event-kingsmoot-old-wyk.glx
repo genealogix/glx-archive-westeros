@@ -1,0 +1,18 @@
+events:
+    event-kingsmoot-old-wyk:
+        type: kingsmoot
+        date: "300"
+        place: place-old-wyk
+        participants:
+            - person: person-euron-greyjoy
+              role: subject
+            - person: person-asha-greyjoy
+              role: participant
+            - person: person-victarion-greyjoy
+              role: participant
+            - person: person-aeron-greyjoy
+              role: officiant
+        properties:
+            description: "The Kingsmoot on Old Wyk to choose a new King of the Iron Islands after the death of Balon Greyjoy. Claimants included Euron, Asha, Victarion, Gylbert Farwynd, Erik Ironmaker, and Dunstan Drumm. Euron Crow's Eye won with promises of dragons."
+            also_known_as: "The Kingsmoot"
+        notes: "The first Kingsmoot in thousands of years, called by Aeron Damphair. Euron won the Seastone Chair. Listed in the AFFC appendix under Claimants to the Seastone Chair."

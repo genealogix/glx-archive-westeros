@@ -1,0 +1,17 @@
+events:
+    event-siege-riverrun:
+        type: siege
+        date: "300"
+        place: place-riverrun
+        participants:
+            - person: person-jaime-lannister
+              role: principal
+            - person: person-brynden-tully-blackfish
+              role: combatant
+            - person: person-edmure-tully
+              role: subject
+            - person: person-emmon-frey
+              role: subject
+        properties:
+            description: "The Siege of Riverrun — Jaime Lannister was sent to resolve the siege of Riverrun, the last Stark-Tully holdout. Brynden 'the Blackfish' Tully held the castle defiantly. Jaime compelled Edmure Tully (a prisoner since the Red Wedding) to order the garrison to yield. The Blackfish escaped by swimming under the Water Gate."
+        notes: "Jaime threatened to catapult Edmure's unborn child into the castle to force the surrender. Riverrun was granted to Emmon Frey. This was a key step in Jaime's character arc as he tried to resolve conflicts without bloodshed."

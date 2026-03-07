@@ -1,0 +1,8 @@
+places:
+    place-horn-hill:
+        name: "Horn Hill"
+        type: castle
+        parent: place-the-reach
+        properties:
+            seat_of: "House Tarly"
+        notes: "Seat of House Tarly in the Reach. Childhood home of Samwell Tarly."

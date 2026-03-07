@@ -135,4 +135,126 @@ person_properties:
         label: "Identifier Type"
         description: "Authority or system that issued this identifier (e.g., familysearch, ancestry, wikitree). Often a URI, especially when imported from GEDCOM 7 EXID.TYPE."
 
+  # === ASOIAF Custom Person Properties ===
+
+  alias:
+    label: "Alias"
+    description: "Nickname, epithet, or known alias (e.g., 'The Imp', 'Kingslayer', 'The Mountain That Rides')"
+    value_type: string
+    temporal: true
+    multi_value: true
+
+  house:
+    label: "House"
+    description: "Primary noble house allegiance or membership"
+    value_type: string
+    temporal: true
+
+  bastard_name:
+    label: "Bastard Name"
+    description: "Regional bastard surname (Snow, Sand, Rivers, Stone, Hill, Flowers, Storm, Waters, Pyke)"
+    value_type: string
+
+  cause_of_death:
+    label: "Cause of Death"
+    description: "Manner or cause of death (Homicide, Execution, Maternal Death, At War, Poison, Dragonfire, etc.)"
+    value_type: string
+
+  sigil:
+    label: "Personal Sigil"
+    description: "Personal heraldic sigil if different from house sigil"
+    value_type: string
+
+  weapon:
+    label: "Weapon"
+    description: "Named weapon or signature weapon (Longclaw, Widow's Wail, Needle, Ice)"
+    value_type: string
+    multi_value: true
+
+  valyrian_steel:
+    label: "Valyrian Steel"
+    description: "Valyrian steel weapon or artifact possessed"
+    value_type: string
+
+  dragon:
+    label: "Dragon"
+    description: "Dragon bonded to or ridden by this person"
+    value_type: string
+    temporal: true
+
+  direwolf:
+    label: "Direwolf"
+    description: "Direwolf bonded to this person (Stark children)"
+    value_type: string
+
+  pov_character:
+    label: "POV Character"
+    description: "Whether this person is a point-of-view character in the novels"
+    value_type: string
+
+  culture:
+    label: "Culture"
+    description: "Cultural identity (First Men, Andal, Rhoynar, Valyrian, Dothraki, Ghiscari, Ironborn, Free Folk, etc.)"
+    value_type: string
+
+  physical_description:
+    label: "Physical Description"
+    description: "Notable physical characteristics (hair color, eye color, distinguishing features)"
+    value_type: string
+
+  birth_order:
+    label: "Birth Order"
+    description: "Order among siblings (firstborn, secondborn, etc.)"
+    value_type: string
+
+  legitimacy:
+    label: "Legitimacy"
+    description: "Legitimacy status (trueborn, bastard, legitimized)"
+    value_type: string
+    temporal: true
+
+  seat:
+    label: "Seat"
+    description: "Castle or seat held by this lord or lady"
+    reference_type: places
+    temporal: true
+
+  allegiance:
+    label: "Allegiance"
+    description: "Political allegiance during a war or conflict (may change over time)"
+    value_type: string
+    temporal: true
+
+  words:
+    label: "House Words"
+    description: "Motto or words of the person's house ('Winter Is Coming', 'Hear Me Roar')"
+    value_type: string
+
+  night_watch_rank:
+    label: "Night's Watch Rank"
+    description: "Rank within the Night's Watch (Ranger, Steward, Builder, Lord Commander, First Ranger)"
+    value_type: string
+    temporal: true
+
+  maester_chain:
+    label: "Maester Chain Links"
+    description: "Links forged in a maester's chain and their associated fields of study"
+    value_type: string
+    multi_value: true
+
+  warging_ability:
+    label: "Warging Ability"
+    description: "Whether this person is a skinchanger or warg, and which animal they bond with"
+    value_type: string
+
+  prophecy:
+    label: "Associated Prophecy"
+    description: "Prophecy associated with this person (Azor Ahai, Prince That Was Promised, valonqar, etc.)"
+    value_type: string
+    multi_value: true
+
+  canon_track:
+    label: "Canon Track"
+    description: "Whether this person exists in novel canon, show canon, or both"
+    value_type: string
 

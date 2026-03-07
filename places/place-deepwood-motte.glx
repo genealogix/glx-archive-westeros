@@ -1,0 +1,8 @@
+places:
+    place-deepwood-motte:
+        name: "Deepwood Motte"
+        type: castle
+        parent: place-the-north
+        properties:
+            seat_of: "House Glover"
+        notes: "Seat of House Glover in the wolfswood of the northwestern North. A motte-and-bailey castle rather than a stone fortress."

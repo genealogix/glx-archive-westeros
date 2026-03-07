@@ -1,0 +1,13 @@
+events:
+    event-siege-storms-end-stannis:
+        type: siege
+        date: "299"
+        place: place-storms-end
+        participants:
+            - person: person-stannis-baratheon
+              role: principal
+            - person: person-renly-baratheon
+              role: subject
+        properties:
+            description: "Stannis's taking of Storm's End — after Renly Baratheon was assassinated by a shadow creature born of Melisandre's magic, his garrison at Storm's End yielded to Stannis. Most of Renly's bannermen defected to either Stannis or the Lannisters (via the Tyrells)."
+        notes: "Renly was killed by a shadow assassin in his own tent on the eve of battle with Stannis. Brienne of Tarth was present and was blamed for his death. Davos Seaworth smuggled Melisandre under Storm's End to birth the shadow."

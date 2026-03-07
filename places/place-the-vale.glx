@@ -1,0 +1,9 @@
+places:
+    place-the-vale:
+        name: "The Vale of Arryn"
+        type: kingdom
+        parent: place-westeros
+        properties:
+            also_known_as: "The Vale"
+            seat_of: "House Arryn"
+        notes: "A kingdom in eastern Westeros, protected by the Mountains of the Moon. Ruled from the Eyrie by House Arryn, one of the oldest lines of Andal nobility."

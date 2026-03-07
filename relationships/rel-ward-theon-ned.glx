@@ -1,0 +1,12 @@
+relationships:
+    rel-ward-theon-ned:
+        type: ward
+        participants:
+            - person: person-theon-greyjoy
+              role: ward
+            - person: person-eddard-stark
+              role: guardian
+        properties:
+            start_date: "289"
+            end_date: "298"
+            context: "Taken as ward/hostage after the Greyjoy Rebellion to ensure Balon Greyjoy's loyalty"

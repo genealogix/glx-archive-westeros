@@ -1,0 +1,6 @@
+places:
+    place-astapor:
+        name: "Astapor"
+        type: slave_city
+        parent: place-essos
+        notes: "One of the three great slave cities of Slaver's Bay. Famous for training the Unsullied, eunuch slave-soldiers. Conquered by Daenerys Targaryen, who freed the Unsullied and sacked the city."

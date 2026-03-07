@@ -1,0 +1,8 @@
+places:
+    place-harrenhal:
+        name: "Harrenhal"
+        type: castle
+        parent: place-the-riverlands
+        properties:
+            also_known_as: "The Black Dread's Ruin"
+        notes: "The largest castle in Westeros, built by Harren the Black on the northern shore of the Gods Eye. Its towers were melted by Balerion the Black Dread's dragonfire during the Conquest. Said to be cursed; every house that has held it has come to ruin."

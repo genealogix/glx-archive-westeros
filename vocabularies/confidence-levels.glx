@@ -21,3 +21,21 @@ confidence_levels:
     label: "Disputed"
     description: "Multiple sources conflict, resolution unclear"
 
+  # === ASOIAF Custom Confidence Levels ===
+
+  unreliable_narrator:
+    label: "Unreliable Narrator"
+    description: "Information comes from a POV character whose perspective may be biased, mistaken, or deliberately deceptive"
+
+  show_only:
+    label: "Show Only"
+    description: "Information exists only in the HBO television adaptation with no book support"
+
+  speculative:
+    label: "Speculative"
+    description: "Fan theory or speculation not confirmed by any canon source"
+
+  retconned:
+    label: "Retconned"
+    description: "Information that was stated in earlier works but contradicted or superseded in later publications"
+

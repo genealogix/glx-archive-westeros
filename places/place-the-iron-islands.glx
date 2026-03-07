@@ -1,0 +1,8 @@
+places:
+    place-the-iron-islands:
+        name: "The Iron Islands"
+        type: kingdom
+        parent: place-westeros
+        properties:
+            seat_of: "House Greyjoy"
+        notes: "An archipelago off the western coast of Westeros. Ruled from Pyke by House Greyjoy. The ironborn follow the Drowned God and have a strong seafaring and raiding tradition."

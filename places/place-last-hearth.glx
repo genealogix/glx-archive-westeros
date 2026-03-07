@@ -1,0 +1,8 @@
+places:
+    place-last-hearth:
+        name: "Last Hearth"
+        type: castle
+        parent: place-the-north
+        properties:
+            seat_of: "House Umber"
+        notes: "Seat of House Umber, the northernmost major castle south of the Wall. The Umbers are among the North's most fierce and loyal bannermen."

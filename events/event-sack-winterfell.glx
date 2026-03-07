@@ -1,0 +1,11 @@
+events:
+    event-sack-winterfell:
+        type: sack
+        date: "299"
+        place: place-winterfell
+        participants:
+            - person: person-robb-stark
+              role: subject
+        properties:
+            description: "The Sack of Winterfell — Theon Greyjoy captured Winterfell with a small force during Robb Stark's absence. When Bolton forces under Ramsay Snow besieged him, Theon's own men turned on him. Ramsay's forces then sacked and burned Winterfell, putting it to the torch. The castle was left a smoking ruin."
+        notes: "Theon had faked the deaths of Bran and Rickon Stark using two miller's boys. The sack was blamed on the Ironborn but was actually carried out by Ramsay Snow's forces. Maester Luwin was killed in the sack."

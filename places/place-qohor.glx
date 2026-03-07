@@ -1,0 +1,6 @@
+places:
+    place-qohor:
+        name: "Qohor"
+        type: free_city
+        parent: place-essos
+        notes: "One of the Free Cities of Essos, located in the great Forest of Qohor. Famous for its smiths who can rework Valyrian steel. Defended by the Unsullied after the Battle of Qohor."

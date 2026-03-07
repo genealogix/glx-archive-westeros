@@ -1,0 +1,15 @@
+events:
+    event-execution-brandon-rickard-stark:
+        type: execution
+        date: "282"
+        place: place-kings-landing
+        participants:
+            - person: person-brandon-stark-213
+              role: victim
+            - person: person-rickard-stark
+              role: victim
+            - person: person-aerys-targaryen-ii
+              role: principal
+        properties:
+            description: "The execution of Brandon and Rickard Stark by King Aerys II Targaryen. Brandon rode to King's Landing demanding Rhaegar come out and die after Lyanna's disappearance. Aerys arrested him for treason and summoned Lord Rickard. Rickard was roasted alive in his armor by wildfire while Brandon strangled himself trying to reach a sword to save his father."
+        notes: "This atrocity, combined with Aerys's demand that Jon Arryn execute his wards Ned Stark and Robert Baratheon, triggered Robert's Rebellion. Elbert Arryn and others who accompanied Brandon were also killed."

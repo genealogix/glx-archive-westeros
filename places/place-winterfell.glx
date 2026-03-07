@@ -1,0 +1,8 @@
+places:
+    place-winterfell:
+        name: "Winterfell"
+        type: castle
+        parent: place-the-north
+        properties:
+            seat_of: "House Stark"
+        notes: "Ancient seat of House Stark, Kings of Winter and later Wardens of the North. Built over natural hot springs that warm its walls and glass gardens. Said to have been built by Brandon the Builder."

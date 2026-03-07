@@ -1,0 +1,15 @@
+events:
+    event-coronation-joffrey:
+        type: coronation
+        date: "298"
+        place: place-kings-landing
+        participants:
+            - person: person-joffrey-baratheon
+              role: principal
+            - person: person-cersei-lannister
+              role: subject
+            - person: person-tywin-lannister
+              role: subject
+        properties:
+            description: "The coronation of Joffrey Baratheon as King of the Andals, the Rhoynar, and the First Men following the death of Robert Baratheon. Cersei Lannister served as regent. Tywin Lannister was named Hand of the King in absentia."
+        notes: "Joffrey's legitimacy was challenged by both Stannis and Renly Baratheon, who knew or claimed he was not Robert's true son."

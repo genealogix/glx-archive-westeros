@@ -1,0 +1,8 @@
+places:
+    place-eastwatch:
+        name: "Eastwatch-by-the-Sea"
+        type: castle
+        parent: place-the-north
+        properties:
+            also_known_as: "Eastwatch"
+        notes: "The easternmost castle of the Night's Watch on the Wall, situated where the Wall meets the Bay of Seals. Commands the sea approach from the north."

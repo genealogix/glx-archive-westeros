@@ -1,0 +1,8 @@
+places:
+    place-the-reach:
+        name: "The Reach"
+        type: kingdom
+        parent: place-westeros
+        properties:
+            seat_of: "House Tyrell"
+        notes: "The most fertile and populous of the Seven Kingdoms. Ruled from Highgarden by House Tyrell. Known for its chivalric tradition, wealth, and agricultural bounty."

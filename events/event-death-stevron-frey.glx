@@ -1,0 +1,10 @@
+events:
+    event-death-stevron-frey:
+        type: death
+        date: "299"
+        participants:
+            - person: person-stevron-frey
+              role: principal
+        properties:
+            cause: "Died after the Battle of Oxcross"
+        notes: "Ser Stevron Frey, eldest son of Lord Walder Frey and heir to the Twins, died after the Battle of Oxcross. ASOS appendix: '{SER STEVRON}, their eldest son, died after the Battle of Oxcross'. His death made Ser Ryman Frey the new heir to the Twins."

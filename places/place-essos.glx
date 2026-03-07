@@ -1,0 +1,5 @@
+places:
+    place-essos:
+        name: "Essos"
+        type: continent
+        notes: "The eastern continent, a vast landmass across the Narrow Sea from Westeros. Home to the Free Cities, the Dothraki Sea, Slaver's Bay, and the ruins of Valyria."

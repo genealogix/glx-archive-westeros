@@ -1,0 +1,12 @@
+relationships:
+    rel-marriage-joffrey-baratheon-and-margaery-tyrell:
+        type: marriage
+        participants:
+            - person: person-joffrey-baratheon
+              role: spouse
+            - person: person-margaery-tyrell
+              role: spouse
+        properties:
+            start_date: "300"
+            end_date: "300"
+            context: "Marriage between the Iron Throne and House Tyrell, sealing the Lannister-Tyrell alliance. Joffrey died at the wedding feast (the Purple Wedding). Never consummated."

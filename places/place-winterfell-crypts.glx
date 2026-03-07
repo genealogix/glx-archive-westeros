@@ -1,4 +1,6 @@
 places:
     place-winterfell-crypts:
-        name: Winterfell Crypts
-        type: landmark
+        name: "Winterfell Crypts"
+        type: crypt
+        parent: place-winterfell
+        notes: "Underground burial vaults beneath Winterfell where the Kings of Winter and Lords of Winterfell are interred with iron swords across their laps and direwolf statues at their feet."

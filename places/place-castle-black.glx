@@ -1,0 +1,8 @@
+places:
+    place-castle-black:
+        name: "Castle Black"
+        type: castle
+        parent: place-the-north
+        properties:
+            seat_of: "Night's Watch"
+        notes: "The primary castle of the Night's Watch along the Wall. Headquarters of the Lord Commander. Located at the northern end of the Kingsroad."

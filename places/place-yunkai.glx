@@ -1,0 +1,8 @@
+places:
+    place-yunkai:
+        name: "Yunkai"
+        type: slave_city
+        parent: place-essos
+        properties:
+            also_known_as: "The Yellow City"
+        notes: "One of the three great slave cities of Slaver's Bay. Known for training bed slaves. Conquered by Daenerys Targaryen but later reasserted its independence."

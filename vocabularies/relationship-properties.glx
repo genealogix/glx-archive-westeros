@@ -24,3 +24,35 @@ relationship_properties:
     description: "Detailed description of the relationship"
     value_type: string
 
+  # === ASOIAF Custom Relationship Properties ===
+
+  context:
+    label: "Context"
+    description: "Political or narrative context explaining why this relationship exists"
+    value_type: string
+
+  broken_by:
+    label: "Broken By"
+    description: "How and by whom the relationship was ended (e.g., 'Betrothal broken by Joffrey')"
+    value_type: string
+
+  oath_text:
+    label: "Oath Text"
+    description: "Text of the oath or vow that established this relationship"
+    value_type: string
+
+  canon_source:
+    label: "Canon Source"
+    description: "Whether this relationship exists in novel canon, show canon, or both"
+    value_type: string
+
+  secret:
+    label: "Secret"
+    description: "Whether this relationship is secret or hidden from the public"
+    value_type: string
+
+  political_motivation:
+    label: "Political Motivation"
+    description: "The political purpose behind this relationship (alliance, hostage, leverage)"
+    value_type: string
+

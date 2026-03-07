@@ -1,0 +1,8 @@
+places:
+    place-highgarden:
+        name: "Highgarden"
+        type: castle
+        parent: place-the-reach
+        properties:
+            seat_of: "House Tyrell"
+        notes: "Seat of House Tyrell on the banks of the Mander. Considered the most beautiful castle in the Seven Kingdoms, surrounded by groves, fountains, and gardens."

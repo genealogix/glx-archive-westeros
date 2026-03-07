@@ -1,0 +1,6 @@
+places:
+    place-volantis:
+        name: "Volantis"
+        type: free_city
+        parent: place-essos
+        notes: "The oldest and largest of the Free Cities, located at the mouth of the Rhoyne. Divided between the Old City within the Black Walls and the newer sprawl outside. Ruled by three triarchs elected by the freeborn."

@@ -95,3 +95,179 @@ relationship_types:
     label: "Alliance"
     description: "Political alliance between houses (non-marriage)"
 
+  squire:
+    label: "Squire"
+    description: "Squire serving and training under a knight"
+
+  page:
+    label: "Page"
+    description: "Page serving a lord or lady in their household"
+
+  master_apprentice:
+    label: "Master-Apprentice"
+    description: "Master-apprentice relationship (smith, alchemist, faceless man, etc.)"
+
+  night_watch_brother:
+    label: "Night's Watch Brother"
+    description: "Sworn brother of the Night's Watch"
+
+  lord_commander:
+    label: "Lord Commander"
+    description: "Lord Commander of the Night's Watch or Kingsguard commanding the order"
+
+  septon_septa:
+    label: "Septon/Septa"
+    description: "Religious advisor, teacher, or spiritual guide (Faith of the Seven)"
+
+  sellsword:
+    label: "Sellsword"
+    description: "Hired sword or mercenary contract"
+
+  milk_brother:
+    label: "Milk Brother/Sister"
+    description: "Nursed by the same wet nurse, creating a bond of milk kinship"
+
+  cupbearer:
+    label: "Cupbearer"
+    description: "Serving as cupbearer to a lord or lady"
+
+  prisoner:
+    label: "Prisoner"
+    description: "Imprisoned or held captive by another person or house"
+
+  spy:
+    label: "Spy"
+    description: "Secret informant or intelligence agent serving another"
+
+  paramour:
+    label: "Paramour"
+    description: "Official or openly acknowledged lover, especially in Dornish custom"
+
+  bastard_parent:
+    label: "Bastard Parent"
+    description: "Parent of a bastard child — distinct from biological_parent_child to capture social context and stigma"
+
+  rival:
+    label: "Rival"
+    description: "Political, personal, or military rivalry between individuals"
+
+  protector:
+    label: "Protector"
+    description: "Sworn personal protector not bound to a specific order (distinct from Kingsguard)"
+
+  master_of_coin:
+    label: "Master of Coin"
+    description: "Small council role — chief financial officer of the realm"
+
+  master_of_whisperers:
+    label: "Master of Whisperers"
+    description: "Small council role — chief of intelligence and espionage"
+
+  master_of_ships:
+    label: "Master of Ships"
+    description: "Small council role — commander of the royal fleet"
+
+  master_of_laws:
+    label: "Master of Laws"
+    description: "Small council role — chief legal officer and keeper of the king's justice"
+
+  grand_maester:
+    label: "Grand Maester"
+    description: "Grand Maester serving on the small council and advising the crown"
+
+  lord_commander_kingsguard:
+    label: "Lord Commander of the Kingsguard"
+    description: "Commander of the Kingsguard, head of the monarch's personal guard"
+
+  castellan:
+    label: "Castellan"
+    description: "Acting castellan governing a castle in the lord's absence"
+
+  heir:
+    label: "Heir"
+    description: "Designated heir to titles, lands, or a throne"
+
+  sworn_shield:
+    label: "Sworn Shield"
+    description: "Personal bodyguard sworn to protect a specific individual (e.g., Brienne to Catelyn)"
+
+  blood_rider:
+    label: "Blood Rider"
+    description: "Dothraki bloodrider — sworn companion who shares blood with a khal"
+
+  khaleesi:
+    label: "Khaleesi"
+    description: "Wife of a khal in Dothraki society"
+
+  bannerman:
+    label: "Bannerman"
+    description: "Lord who owes military service and fealty to a higher lord"
+
+  queensguard:
+    label: "Queensguard"
+    description: "Sworn protector of a queen"
+
+  warden:
+    label: "Warden"
+    description: "Warden of a cardinal direction (North, South, East, West), a military title"
+
+  commander:
+    label: "Commander"
+    description: "Military commander leading forces for a lord or king"
+
+  septa_charge:
+    label: "Septa's Charge"
+    description: "A noble child placed under a septa's religious and educational care"
+
+  silent_sister:
+    label: "Silent Sister"
+    description: "Member of the order of Silent Sisters who tend to the dead"
+
+  faceless_man:
+    label: "Faceless Man"
+    description: "Assassin of the House of Black and White serving the Many-Faced God"
+
+  red_priest:
+    label: "Red Priest/Priestess"
+    description: "Priest or priestess of R'hllor advising or serving a person"
+
+  merchant:
+    label: "Merchant"
+    description: "Commercial or trade relationship"
+
+  slave_master:
+    label: "Slave-Master"
+    description: "Slave and master relationship (Essos, Slaver's Bay)"
+
+  freedman:
+    label: "Freedman"
+    description: "Former slave freed by a master or liberator"
+
+  advisor:
+    label: "Advisor"
+    description: "Trusted advisor or counselor to a lord or ruler"
+
+  champion:
+    label: "Champion"
+    description: "Chosen champion fighting on behalf of another in trial by combat"
+
+  brother_in_arms:
+    label: "Brother in Arms"
+    description: "Comrade forged through shared military service or battle"
+
+  mentor:
+    label: "Mentor"
+    description: "Teacher or mentor outside of formal master-apprentice bonds"
+
+  nemesis:
+    label: "Nemesis"
+    description: "Sworn enemy or blood feud opponent"
+
+  second_sons:
+    label: "Second Sons Member"
+    description: "Member of the Second Sons sellsword company"
+
+  golden_company:
+    label: "Golden Company Member"
+    description: "Member of the Golden Company sellsword company"
+

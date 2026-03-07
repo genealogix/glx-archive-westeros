@@ -1,0 +1,6 @@
+places:
+    place-meereen:
+        name: "Meereen"
+        type: slave_city
+        parent: place-essos
+        notes: "The largest of the three great slave cities of Slaver's Bay. Conquered by Daenerys Targaryen, who ruled from the Great Pyramid. Known for its fighting pits and the Great Pyramid."

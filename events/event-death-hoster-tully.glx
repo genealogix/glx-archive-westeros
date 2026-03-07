@@ -1,0 +1,11 @@
+events:
+    event-death-hoster-tully:
+        type: death
+        date: "299"
+        place: place-riverrun
+        participants:
+            - person: person-hoster-tully
+              role: principal
+        properties:
+            cause: "Natural causes (prolonged illness)"
+        notes: "Lord Hoster Tully died of a prolonged illness at Riverrun early in ASOS. His funeral was a river burial in Tully tradition. His son Edmure inherited the lordship of Riverrun."

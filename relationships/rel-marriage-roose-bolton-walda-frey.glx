@@ -1,0 +1,11 @@
+relationships:
+    rel-marriage-roose-bolton-walda-frey:
+        type: marriage
+        participants:
+            - person: person-roose-bolton
+              role: spouse
+            - person: person-walda-frey-fat-walda
+              role: spouse
+        properties:
+            start_date: "299"
+            context: "Roose Bolton married Walda Frey (Fat Walda), daughter of Merrett Frey"

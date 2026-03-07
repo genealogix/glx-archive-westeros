@@ -1,0 +1,8 @@
+relationships:
+    rel-sellsword-brown-ben-second-sons:
+        type: commander
+        participants:
+            - person: person-brown-ben-plumm
+              role: commander
+        properties:
+            context: "Captain and commander of the Second Sons, five hundred horse-riders, sworn to Queen Daenerys (ADWD Appendix)"

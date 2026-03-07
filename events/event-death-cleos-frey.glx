@@ -1,0 +1,10 @@
+events:
+    event-death-cleos-frey:
+        type: death
+        date: "299"
+        participants:
+            - person: person-cleos-frey
+              role: principal
+        properties:
+            cause: "Killed by outlaws"
+        notes: "Ser Cleos Frey was killed by outlaws while escorting Jaime Lannister from Riverrun to King's Landing. Occurs during ASOS."

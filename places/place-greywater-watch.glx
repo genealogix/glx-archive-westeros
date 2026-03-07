@@ -1,0 +1,8 @@
+places:
+    place-greywater-watch:
+        name: "Greywater Watch"
+        type: castle
+        parent: place-the-north
+        properties:
+            seat_of: "House Reed"
+        notes: "Seat of House Reed in the Neck. Said to move through the swamps, making it impossible to find by outsiders. No raven can find it and no enemy has ever succeeded in attacking it."

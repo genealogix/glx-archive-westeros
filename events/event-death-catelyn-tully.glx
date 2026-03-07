@@ -1,0 +1,11 @@
+events:
+    event-death-catelyn-tully:
+        type: death
+        date: "299"
+        place: place-the-twins
+        participants:
+            - person: person-catelyn-tully
+              role: principal
+        properties:
+            cause: "Murdered at the Red Wedding"
+        notes: "Catelyn Stark (nee Tully), widow of Lord Eddard Stark, was murdered at the Twins during the Red Wedding. Her throat was cut. Later resurrected by Beric Dondarrion as Lady Stoneheart (revealed in ASOS epilogue)."

@@ -110,3 +110,203 @@ place_types:
     description: "Site of a significant military engagement"
     category: "geographic"
 
+  island:
+    label: "Island"
+    description: "Island or archipelago (Dragonstone, Iron Islands, Tarth, Bear Island)"
+    category: "geographic"
+
+  river:
+    label: "River"
+    description: "Major river or waterway (Trident, Blackwater Rush, Mander, Rhoyne)"
+    category: "geographic"
+
+  mountain:
+    label: "Mountain"
+    description: "Mountain, mountain range, or mountain pass (Mountains of the Moon, Frostfangs)"
+    category: "geographic"
+
+  forest:
+    label: "Forest"
+    description: "Major forest or woodland (Wolfswood, Kingswood, Haunted Forest, Rainwood)"
+    category: "geographic"
+
+  bay:
+    label: "Bay"
+    description: "Bay, gulf, or inlet (Blackwater Bay, Ironman's Bay, Bay of Seals)"
+    category: "geographic"
+
+  strait:
+    label: "Strait"
+    description: "Narrow sea passage or channel (the Narrow Sea passage, Redwyne Straits)"
+    category: "geographic"
+
+  wall:
+    label: "Wall"
+    description: "Fortified wall or barrier (The Wall)"
+    category: "geographic"
+
+  bridge:
+    label: "Bridge"
+    description: "Major bridge or crossing (The Twins bridge, the Bridge of Dream)"
+    category: "geographic"
+
+  sept:
+    label: "Sept"
+    description: "Religious building of the Faith of the Seven (Great Sept of Baelor)"
+    category: "religious"
+
+  godswood:
+    label: "Godswood"
+    description: "Sacred grove with a heart tree, used for worship of the Old Gods"
+    category: "religious"
+
+  harbor:
+    label: "Harbor"
+    description: "Port, harbor, or docking area"
+    category: "geographic"
+
+  inn:
+    label: "Inn"
+    description: "Notable inn or tavern (Inn at the Crossroads, Peach)"
+    category: "geographic"
+
+  ruin:
+    label: "Ruin"
+    description: "Ruined or abandoned structure (Harrenhal, Summerhall, Valyria)"
+    category: "geographic"
+
+  free_city:
+    label: "Free City"
+    description: "One of the nine Free Cities of Essos (Braavos, Pentos, Myr, etc.)"
+    category: "administrative"
+
+  keep:
+    label: "Keep"
+    description: "Fortified tower or stronghold within a larger castle or standing alone"
+    category: "geographic"
+
+  gate:
+    label: "Gate"
+    description: "Notable gate or entry point (Black Gate, King's Gate, Bloody Gate)"
+    category: "geographic"
+
+  market:
+    label: "Market"
+    description: "Major marketplace, bazaar, or trading center"
+    category: "geographic"
+
+  arena:
+    label: "Arena"
+    description: "Fighting pit, arena, or amphitheater (Daznak's Pit)"
+    category: "geographic"
+
+  palace:
+    label: "Palace"
+    description: "Palace or grand residence not primarily fortified (Illyrio's manse, Water Gardens)"
+    category: "geographic"
+
+  tower:
+    label: "Tower"
+    description: "Notable tower (Tower of the Hand, Tower of Joy, Hightower)"
+    category: "geographic"
+
+  dungeon:
+    label: "Dungeon"
+    description: "Prison, dungeon, or confinement area (sky cells, black cells, Meereenese dungeons)"
+    category: "geographic"
+
+  road:
+    label: "Road"
+    description: "Major road or highway (Kingsroad, Roseroad, Gold Road, Demon Road)"
+    category: "geographic"
+
+  lake:
+    label: "Lake"
+    description: "Lake or large body of freshwater (Gods Eye, Long Lake)"
+    category: "geographic"
+
+  swamp:
+    label: "Swamp"
+    description: "Swamp, marsh, or wetland (the Neck, the Sorrows)"
+    category: "geographic"
+
+  desert:
+    label: "Desert"
+    description: "Desert or arid wasteland (Red Waste, Dornish desert)"
+    category: "geographic"
+
+  valley:
+    label: "Valley"
+    description: "Valley or vale (the Vale of Arryn, Milkwater valley)"
+    category: "geographic"
+
+  village:
+    label: "Village"
+    description: "Small settlement or village (Mole's Town, the fishing village near Saltpans)"
+    category: "geographic"
+
+  cave:
+    label: "Cave"
+    description: "Cave, cavern, or underground space (Dragonstone caves, three-eyed raven's cave)"
+    category: "geographic"
+
+  temple:
+    label: "Temple"
+    description: "Temple of a non-Seven religion (House of Black and White, Temple of the Lord of Light, Temple of the Graces)"
+    category: "religious"
+
+  citadel:
+    label: "Citadel"
+    description: "The Citadel of the maesters in Oldtown, or similar center of learning"
+    category: "institution"
+
+  slave_city:
+    label: "Slave City"
+    description: "Slaver city of Essos (Astapor, Yunkai, Meereen)"
+    category: "administrative"
+
+  dothraki_sea:
+    label: "Dothraki Sea"
+    description: "The vast grassland plains of the Dothraki"
+    category: "geographic"
+
+  camp:
+    label: "Camp"
+    description: "Military camp, war camp, or temporary encampment"
+    category: "geographic"
+
+  pass:
+    label: "Mountain Pass"
+    description: "Mountain pass or narrow passage (Prince's Pass, Boneway)"
+    category: "geographic"
+
+  cape:
+    label: "Cape"
+    description: "Cape, headland, or peninsula (Crackclaw Point, Cape Wrath)"
+    category: "geographic"
+
+  waterfall:
+    label: "Waterfall"
+    description: "Notable waterfall (Alyssa's Tears)"
+    category: "geographic"
+
+  crypt:
+    label: "Crypt"
+    description: "Burial crypt or tomb (Winterfell crypts, Great Pyramid tombs)"
+    category: "geographic"
+
+  holdfast:
+    label: "Holdfast"
+    description: "Small fortified structure, less than a castle (towerhouse, motte-and-bailey)"
+    category: "geographic"
+
+  port_city:
+    label: "Port City"
+    description: "Major city built around a port (White Harbor, Oldtown, Lannisport)"
+    category: "geographic"
+
+  trading_post:
+    label: "Trading Post"
+    description: "Trading outpost or commercial settlement"
+    category: "geographic"
+

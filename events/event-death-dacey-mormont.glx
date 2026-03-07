@@ -1,0 +1,11 @@
+events:
+    event-death-dacey-mormont:
+        type: death
+        date: "299"
+        place: place-the-twins
+        participants:
+            - person: person-dacey-mormont
+              role: principal
+        properties:
+            cause: "Murdered at the Red Wedding"
+        notes: "Dacey Mormont, heir to Bear Island, was murdered at the Twins during the Red Wedding."

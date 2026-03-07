@@ -1,0 +1,6 @@
+places:
+    place-gods-eye:
+        name: "Gods Eye"
+        type: lake
+        parent: place-the-riverlands
+        notes: "A large lake in the Riverlands with the Isle of Faces at its center. Harrenhal sits on its northern shore. According to legend, the Pact between the First Men and the Children of the Forest was signed on the Isle of Faces."

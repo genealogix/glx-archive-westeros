@@ -1,0 +1,8 @@
+places:
+    place-dragonstone:
+        name: "Dragonstone"
+        type: castle
+        parent: place-the-crownlands
+        properties:
+            seat_of: "House Targaryen (originally), later House Baratheon of Dragonstone"
+        notes: "A castle on the volcanic island of Dragonstone in Blackwater Bay. The westernmost outpost of the Valyrian Freehold before the Doom, and the seat from which Aegon the Conqueror launched his invasion. Traditionally granted to the heir to the Iron Throne."

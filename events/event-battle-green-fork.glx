@@ -1,0 +1,15 @@
+events:
+    event-battle-green-fork:
+        type: battle
+        date: "298"
+        place: place-the-green-fork
+        participants:
+            - person: person-tywin-lannister
+              role: combatant
+            - person: person-tyrion-lannister
+              role: combatant
+            - person: person-robb-stark
+              role: principal
+        properties:
+            description: "The Battle of the Green Fork — a diversionary battle during the War of the Five Kings. Robb Stark sent a portion of his forces under Roose Bolton's command to engage Tywin Lannister's army at the Green Fork, while Robb himself took his cavalry west through the Twins to attack Jaime Lannister's forces at the Whispering Wood."
+        notes: "Tyrion fought in the vanguard with the mountain clansmen. The Stark decoy force was defeated but accomplished its strategic purpose. Tywin realized the deception too late."

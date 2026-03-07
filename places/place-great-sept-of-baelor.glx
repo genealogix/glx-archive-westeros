@@ -1,0 +1,8 @@
+places:
+    place-great-sept-of-baelor:
+        name: "Great Sept of Baelor"
+        type: sept
+        parent: place-kings-landing
+        properties:
+            also_known_as: "The Sept of Baelor"
+        notes: "The seat of the Faith of the Seven in King's Landing, built by King Baelor the Blessed on Visenya's Hill. Site of Ned Stark's execution. Destroyed by wildfire in the television adaptation."

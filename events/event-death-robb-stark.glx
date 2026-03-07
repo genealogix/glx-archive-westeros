@@ -1,0 +1,11 @@
+events:
+    event-death-robb-stark:
+        type: death
+        date: "299"
+        place: place-the-twins
+        participants:
+            - person: person-robb-stark
+              role: principal
+        properties:
+            cause: "Murdered at the Red Wedding"
+        notes: "Robb Stark, King in the North and King of the Trident, was murdered at the Twins during the wedding feast of Edmure Tully and Roslin Frey. Betrayed by Lord Walder Frey and Lord Roose Bolton."

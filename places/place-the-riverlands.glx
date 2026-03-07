@@ -1,0 +1,8 @@
+places:
+    place-the-riverlands:
+        name: "The Riverlands"
+        type: kingdom
+        parent: place-westeros
+        properties:
+            seat_of: "House Tully"
+        notes: "The central region of Westeros, defined by the Trident river system. Ruled from Riverrun by House Tully. Historically contested and vulnerable to invasion due to its lack of natural defenses."

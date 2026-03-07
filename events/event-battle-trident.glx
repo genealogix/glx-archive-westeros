@@ -1,0 +1,18 @@
+events:
+    event-battle-trident:
+        type: battle
+        date: "283"
+        place: place-the-trident
+        participants:
+            - person: person-robert-baratheon-i
+              role: combatant
+            - person: person-rhaegar-targaryen
+              role: combatant
+            - person: person-eddard-stark
+              role: combatant
+            - person: person-lewyn-martell
+              role: combatant
+        properties:
+            description: "The Battle of the Trident — the decisive battle of Robert's Rebellion. Robert Baratheon and Rhaegar Targaryen met in single combat in the waters of the Trident. Robert slew Rhaegar with his warhammer, scattering the rubies from Rhaegar's breastplate into the river. The royalist army broke and fled."
+            also_known_as: "The Battle of the Trident, The Ruby Ford"
+        notes: "The spot where Rhaegar fell became known as the Ruby Ford. Prince Lewyn Martell of the Kingsguard was also slain. Robert was wounded and sent Ned south to take King's Landing."

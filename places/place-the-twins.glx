@@ -1,0 +1,9 @@
+places:
+    place-the-twins:
+        name: "The Twins"
+        type: castle
+        parent: place-the-riverlands
+        properties:
+            also_known_as: "The Crossing"
+            seat_of: "House Frey"
+        notes: "Twin castles spanning the Green Fork of the Trident, connected by a bridge and a water tower. Seat of House Frey, who extract a toll from all who wish to cross. Site of the Red Wedding."

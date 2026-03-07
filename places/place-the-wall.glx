@@ -1,0 +1,6 @@
+places:
+    place-the-wall:
+        name: "The Wall"
+        type: wall
+        parent: place-the-north
+        notes: "A colossal fortification of ice stretching 300 miles across the northern border of the Seven Kingdoms. Said to be 700 feet tall, built by Brandon the Builder with the aid of giants and magic to defend against the Others."

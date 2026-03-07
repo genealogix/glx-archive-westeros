@@ -1,0 +1,14 @@
+events:
+    event-defiance-duskendale:
+        type: captivity
+        date: "ABT 277"
+        place: place-duskendale
+        participants:
+            - person: person-aerys-targaryen-ii
+              role: victim
+            - person: person-tywin-lannister
+              role: combatant
+        properties:
+            description: "The Defiance of Duskendale — Lord Darklyn of Duskendale refused to pay taxes and lured King Aerys II into a trap, holding him captive for six months. Ser Barristan Selmy infiltrated the Dun Fort and rescued the king single-handedly. The experience deepened Aerys's madness and paranoia."
+            also_known_as: "The Defiance of Duskendale"
+        notes: "This event is widely considered the turning point in Aerys's descent into madness. Tywin Lannister besieged the town. House Darklyn was exterminated afterward."

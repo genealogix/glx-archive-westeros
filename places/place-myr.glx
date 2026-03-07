@@ -1,0 +1,6 @@
+places:
+    place-myr:
+        name: "Myr"
+        type: free_city
+        parent: place-essos
+        notes: "One of the Free Cities of Essos. Famous for its lenses, crossbows, lace, and skilled artisans. Frequently wars with Lys and Tyrosh over the Disputed Lands."

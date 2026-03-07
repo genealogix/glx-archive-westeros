@@ -1,0 +1,10 @@
+relationships:
+    rel-red-priest-melisandre-stannis:
+        type: red_priest
+        participants:
+            - person: person-melisandre
+              role: priest
+            - person: person-stannis-baratheon
+              role: patron
+        properties:
+            context: "Lady Melisandre of Asshai serves King Stannis as priestess of R'hllor at Castle Black (ADWD Appendix)"

@@ -1,0 +1,18 @@
+events:
+    event-battle-bells:
+        type: battle
+        date: "283"
+        place: place-stoney-sept
+        participants:
+            - person: person-robert-baratheon-i
+              role: combatant
+            - person: person-eddard-stark
+              role: combatant
+            - person: person-hoster-tully
+              role: combatant
+            - person: person-jon-arryn
+              role: combatant
+        properties:
+            description: "The Battle of the Bells — Robert Baratheon was hiding in Stoney Sept after a defeat, wounded and hunted by Jon Connington's royalist forces. Ned Stark, Hoster Tully, and Jon Arryn arrived with a relief force. The battle raged through the streets of the town while the septons rang the bells. Robert emerged from hiding and joined the fighting. The royalists were routed."
+            also_known_as: "The Battle of the Bells"
+        notes: "Jon Connington searched the town house by house but failed to find Robert. This defeat led to Connington's exile by Aerys. The battle marked the turning point where the rebel alliance fully coalesced."

@@ -1,0 +1,6 @@
+places:
+    place-the-green-fork:
+        name: "The Green Fork"
+        type: river
+        parent: place-the-riverlands
+        notes: "The eastern branch of the Trident river. Site of the Battle of the Green Fork between Tywin Lannister and Roose Bolton's forces during the War of the Five Kings."

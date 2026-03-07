@@ -27,3 +27,62 @@ event_properties:
     description: "Detailed description of the event"
     value_type: string
 
+  # === ASOIAF Custom Event Properties ===
+
+  also_known_as:
+    label: "Also Known As"
+    description: "Common name or nickname for the event (e.g., 'The Red Wedding', 'The Purple Wedding')"
+    value_type: string
+    multi_value: true
+
+  war:
+    label: "Part of War"
+    description: "The larger war or conflict this event is part of (e.g., 'War of the Five Kings', 'Robert's Rebellion')"
+    value_type: string
+
+  outcome:
+    label: "Outcome"
+    description: "Result or outcome of the event (e.g., 'Stark victory', 'City sacked', 'Accused found guilty')"
+    value_type: string
+
+  casualties:
+    label: "Casualties"
+    description: "Estimated casualties or losses"
+    value_type: string
+
+  forces_involved:
+    label: "Forces Involved"
+    description: "Description of military forces involved (army sizes, house levies, sellsword companies)"
+    value_type: string
+
+  guest_right:
+    label: "Guest Right"
+    description: "Whether guest right was invoked or violated during this event"
+    value_type: string
+
+  poison_used:
+    label: "Poison Used"
+    description: "Type of poison used in a poisoning event (the Strangler, tears of Lys, manticore venom, etc.)"
+    value_type: string
+
+  wildfire_quantity:
+    label: "Wildfire Quantity"
+    description: "Amount or deployment of wildfire in the event"
+    value_type: string
+
+  dragon_involved:
+    label: "Dragon Involved"
+    description: "Name of dragon(s) involved in the event"
+    value_type: string
+    multi_value: true
+
+  canon_source:
+    label: "Canon Source"
+    description: "Whether this event occurs in novel canon, show canon, or both"
+    value_type: string
+
+  season:
+    label: "Season"
+    description: "Season during which the event occurs (summer, autumn, winter, spring — relevant to the long seasons of Westeros)"
+    value_type: string
+

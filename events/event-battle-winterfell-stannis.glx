@@ -1,0 +1,12 @@
+events:
+    event-battle-winterfell-stannis:
+        type: battle
+        date: "300"
+        place: place-winterfell
+        participants:
+            - person: person-stannis-baratheon
+              role: combatant
+        properties:
+            description: "Stannis's march on Winterfell — Stannis Baratheon marched south from the Wall with his army and Northern allies to retake Winterfell from the Boltons. His army became trapped in deep snows, starving and freezing. The outcome of the battle is unresolved at the end of ADWD."
+            also_known_as: "The Battle of Winterfell, The Battle of Ice"
+        notes: "Stannis's army included Northern mountain clansmen loyal to the Starks. Theon and Jeyne Poole (posing as Arya Stark) escaped Winterfell during his approach. Ramsay Bolton sent a letter to Jon Snow claiming Stannis was defeated, but the truth remains unknown."

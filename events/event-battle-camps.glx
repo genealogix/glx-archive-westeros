@@ -1,0 +1,13 @@
+events:
+    event-battle-camps:
+        type: battle
+        date: "298"
+        place: place-riverrun
+        participants:
+            - person: person-robb-stark
+              role: combatant
+            - person: person-edmure-tully
+              role: subject
+        properties:
+            description: "The Battle of the Camps — fought immediately after the Whispering Wood. Robb Stark's forces attacked the Lannister siege camps around Riverrun from multiple directions, routing the besiegers and lifting the siege. Edmure Tully sallied from Riverrun to join the attack."
+        notes: "The three-pronged attack at night caught the leaderless Lannister forces (their commander Jaime having been captured) completely off guard. This victory freed Riverrun and made Robb a celebrated war leader."

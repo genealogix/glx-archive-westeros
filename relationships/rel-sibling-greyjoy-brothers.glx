@@ -1,0 +1,25 @@
+relationships:
+    rel-sibling-balon-euron:
+        type: sibling
+        participants:
+            - person: person-balon-greyjoy
+              role: sibling
+            - person: person-euron-greyjoy
+              role: sibling
+        notes: "Brothers (or half-brothers) per AFFC appendix. Listed under King Balon's brothers and half brothers."
+    rel-sibling-balon-victarion:
+        type: sibling
+        participants:
+            - person: person-balon-greyjoy
+              role: sibling
+            - person: person-victarion-greyjoy
+              role: sibling
+        notes: "Brothers (or half-brothers) per AFFC appendix."
+    rel-sibling-balon-aeron:
+        type: sibling
+        participants:
+            - person: person-balon-greyjoy
+              role: sibling
+            - person: person-aeron-greyjoy
+              role: sibling
+        notes: "Brothers (or half-brothers) per AFFC appendix."
