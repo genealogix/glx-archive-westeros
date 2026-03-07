@@ -1,0 +1,22 @@
+assertions:
+    assertion-tyrion-designs-saddle-for-bran:
+        subject:
+            person: person-tyrion-lannister
+        property: action
+        value: "Designed a specialized saddle to allow Bran Stark to ride despite paralysis"
+        citations:
+            - citation-agot-bran-iv
+        confidence: high
+        status: accepted
+        notes: "Source text: 'A smart horse. The boy cannot use his legs to command the animal, so you must shape the horse to the rider, teach it to respond to the reins, to the voice. I would begin with an unbroken yearling, with no old training to be unlearned. He drew a rolled paper from his belt. Give this to your saddler.' Tyrion drew and presented a saddle design to Maester Luwin. Tyrion explains his motivation: 'Your brother Jon asked it of me. And I have a tender spot in my heart for cripples and bastards and broken things.' This quote is one of Tyrion's most famous characterizations."
+
+    assertion-tyrion-quote-cripples-bastards:
+        subject:
+            person: person-tyrion-lannister
+        property: self_characterization
+        value: "Has 'a tender spot in my heart for cripples and bastards and broken things'"
+        citations:
+            - citation-agot-bran-iv
+        confidence: high
+        status: accepted
+        notes: "Source text: 'Your brother Jon asked it of me. And I have a tender spot in my heart for cripples and bastards and broken things.' Tyrion Lannister, speaking to Robb Stark about why he would help Bran. This is a defining self-description revealing Tyrion's empathy for outcasts — as a dwarf he identifies with those society marginalizes."

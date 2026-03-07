@@ -1,0 +1,13 @@
+events:
+    event-house-of-undying:
+        type: trial
+        date: "299"
+        place: place-house-of-the-undying
+        participants:
+            - person: person-daenerys-targaryen-206
+              role: subject
+            - person: person-pyat-pree
+              role: guide
+        properties:
+            description: "Daenerys Targaryen enters the House of the Undying Ones in Qarth at Pyat Pree's urging. She witnesses a series of prophetic visions. The Undying Ones attempt to drain her life force. Her dragon Drogon burns the Undying, destroying the House and killing Pyat Pree. This ends Daenerys's time in Qarth."
+            also_known_as: "Daenerys in the House of the Undying"

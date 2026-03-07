@@ -1,0 +1,22 @@
+assertions:
+    assertion-varys-illyrio-tunnels-conversation:
+        subject:
+            person: person-varys
+        property: testimony
+        value: "Secret meeting with Illyrio beneath the Red Keep"
+        citations:
+            - citation-agot-arya-iii
+        confidence: high
+        status: accepted
+        notes: "Source text: 'One said they found one bastard. The rest will come soon. A day, two days, a fortnight. And when he learns the truth, what will he do? The gods alone know. The fools tried to kill his son, and what's worse, they made a mummer's farce of it. He's not a man to put that aside. I warn you, the wolf and lion will soon be at each other's throats, whether we will it or no.' Arya Stark overheard this conversation in tunnels beneath the Red Keep. The torchbearer (Varys) and the man with the forked yellow beard (Illyrio Mopatis) were discussing the political situation, warning about 'too soon' for war. The stout man in the steel cap (Varys) mentioned Lord Stark had 'the bastard, the book, and soon enough he'll have the truth' — referring to Ned's investigation of Jon Arryn's murder and the Baratheon bastards."
+
+    assertion-illyrio-identified:
+        subject:
+            person: person-varys
+        property: conspirator
+        value: "Met secretly with Illyrio Mopatis beneath Red Keep"
+        citations:
+            - citation-agot-arya-iii
+        confidence: medium
+        status: accepted
+        notes: "Arya Stark observed the man with the forked yellow beard as 'grossly fat, yet he seemed to walk lightly, carrying his weight on the balls of his feet as a water dancer might. His rings glimmered in the torchlight, red-gold and pale silver, crusted with rubies, sapphires, slitted yellow tiger eyes. Every finger wore a ring; some had two.' This matches the description of Magister Illyrio Mopatis from Pentos. The two were speaking about delaying the 'wolf and lion' conflict and waiting for Daenerys's child to be born before the khal would march."

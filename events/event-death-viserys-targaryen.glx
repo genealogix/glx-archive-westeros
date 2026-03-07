@@ -1,0 +1,16 @@
+events:
+    event-death-viserys-targaryen:
+        type: death
+        date: "298"
+        place: place-vaes-dothrak
+        participants:
+            - person: person-viserys-targaryen-iii
+              role: subject
+            - person: person-khal-drogo
+              role: perpetrator
+            - person: person-daenerys-targaryen-304
+              role: witness
+        properties:
+            cause_of_death: "Molten gold poured over the head"
+            description: "Viserys Targaryen drew a sword inside the sacred city of Vaes Dothrak (forbidden), threatened Daenerys and her unborn child, and demanded his crown. Khal Drogo fulfilled the promise of a 'golden crown' by pouring molten gold from a melted medallion belt over Viserys's head, burning him to death. No blood was shed, thus technically not violating the prohibition against bloodshed in the sacred city. Drogo's bloodriders Cohollo, Haggo, and Qotho held Viserys while Drogo poured the gold."
+            also_known_as: "The Golden Crown"

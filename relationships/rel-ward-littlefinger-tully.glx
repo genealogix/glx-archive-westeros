@@ -1,0 +1,10 @@
+relationships:
+    rel-ward-littlefinger-tully:
+        type: ward
+        participants:
+            - person: person-petyr-baelish
+              role: ward
+        properties:
+            context: "Petyr Baelish was fostered as a ward of Lord Hoster Tully at Riverrun. He grew up alongside Catelyn and Lysa Tully. Developed romantic feelings for Catelyn. After being wounded in a duel by Brandon Stark (who was betrothed to Catelyn), he was sent away by Lord Hoster Tully."
+            end_date: "AFT 278"
+        notes: "Revealed in AGOT Catelyn IV. The ward relationship ended when Petyr was sent away after dueling Brandon Stark."

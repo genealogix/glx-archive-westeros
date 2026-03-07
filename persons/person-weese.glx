@@ -1,0 +1,11 @@
+persons:
+    person-weese:
+        properties:
+            name:
+                value: "Weese"
+                fields:
+                    given: "Weese"
+            gender: "male"
+            died_on: "299"
+            cause_of_death: "Killed by his own dog at Jaqen H'ghar's command"
+        notes: "An understeward of Harrenhal serving in the Wailing Tower under Lord Tywin Lannister. He oversees the servants and frequently beats those in his charge, including Arya Stark (disguised as 'Weasel'). Arya names him as her first of Jaqen H'ghar's three promised deaths. He is found dead — his dog had torn out his throat."

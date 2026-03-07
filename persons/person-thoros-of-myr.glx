@@ -1,0 +1,12 @@
+persons:
+    person-thoros-of-myr:
+        properties:
+            name:
+                value: "Thoros of Myr"
+                fields:
+                    given: "Thoros"
+            alias:
+                - value: "Thoros of Myr"
+            gender: male
+            religion: "R'hllor"
+        notes: "Red priest from the Free City of Myr. Shaves his head. Fights with a flaming sword in tourneys. Won the melee at the Hand's tourney at King's Landing (AGOT, ~298 AC), besting nearly forty men over three hours. His flaming sword frightens horses. Known for winning melees before this occasion. The fire sword was described as an 'absurd firesword' by Varys."

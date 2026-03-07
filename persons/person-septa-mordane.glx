@@ -1,0 +1,11 @@
+persons:
+    person-septa-mordane:
+        properties:
+            name:
+                value: "Septa Mordane"
+                fields:
+                    given: "Mordane"
+            gender: female
+            title:
+                - value: "Septa"
+        notes: "Septa in service at Winterfell responsible for instructing Sansa and Arya Stark in the womanly arts (needlework, dancing, deportment). Described as having a bony face, sharp eyes, and a thin lipless mouth. Praised Sansa's needlework and found Arya's lacking."

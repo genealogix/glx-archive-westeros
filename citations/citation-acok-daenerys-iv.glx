@@ -1,0 +1,8 @@
+citations:
+    citation-acok-daenerys-iv:
+        source: source-acok
+        properties:
+            locator: "Daenerys IV"
+            text_from_source: "In this city of splendors, Dany had expected the House of the Undying Ones to be the most splendid of all, but she emerged from her palanquin to behold a grey and ancient ruin."
+            accessed: "2026-03-06"
+        notes: "Daenerys enters the House of the Undying (the Spire of Pyat Pree). She experiences visions of past and future. The Undying try to drain her life force; Drogon burns them and saves her. She seals her rejection of Qarth's help."

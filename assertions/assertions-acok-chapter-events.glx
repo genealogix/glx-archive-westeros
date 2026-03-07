@@ -1,0 +1,222 @@
+assertions:
+    # --- Renly Baratheon's assassination ---
+
+    assertion-renly-death-shadow:
+        subject:
+            person: person-renly-baratheon
+        property: cause_of_death
+        value: "Murdered by a shadow assassin"
+        citations:
+            - citation-acok-catelyn-v
+        confidence: high
+        status: proven
+        notes: "Catelyn Stark witnessed Renly's death in his tent at Storm's End. A shadow creature with Stannis's likeness struck him down. Source text: 'She heard Renly begin a jest, his shadow moving, lifting its sword, black on green, candles guttering, shivering, something was queer, wrong, and then she saw Renly's sword still in its scabbard, sheathed still, but the shadowsword . . .' Catelyn later concludes (ACOK Catelyn V): 'I saw a shadow. I thought it was Renly's shadow at the first, but it was his brother's.'"
+
+    assertion-renly-death-stannis-agency:
+        subject:
+            event: event-assassination-renly-baratheon
+        property: instigator
+        value: person-stannis-baratheon
+        citations:
+            - citation-acok-catelyn-v
+        confidence: high
+        status: proven
+        notes: "Catelyn identifies the shadow as bearing Stannis's likeness. Confirmed later by Catelyn's statement 'it was his brother's' shadow. Melisandre's shadow-binding power is the mechanism; Stannis's life force is the source."
+
+    assertion-renly-death-brienne-falsely-accused:
+        subject:
+            person: person-brienne-tarth
+        property: accused_of
+        value: "Murder of Renly Baratheon"
+        citations:
+            - citation-acok-catelyn-v
+        confidence: high
+        status: proven
+        notes: "Brienne of Tarth was present at Renly's death and was immediately accused by his Kingsguard. She and Catelyn fled together. The accusation is false — the killer was a supernatural shadow creature."
+
+    # --- Theon Greyjoy's betrayal and capture of Winterfell ---
+
+    assertion-balon-greyjoy-invasion-plan:
+        subject:
+            person: person-theon-greyjoy
+        property: role_in_event
+        value: "Sent to harry the Stony Shore on Lord Balon's orders"
+        citations:
+            - citation-acok-theon-ii
+        confidence: high
+        status: proven
+        notes: "Lord Balon reveals his invasion plan: Theon gets eight longships to raid the Stony Shore as a feint, while Asha takes thirty ships to Deepwood Motte, and Victarion takes the Iron Fleet to Moat Cailin. Balon rejects Robb Stark's offer of an alliance, burns the letter, and acts unilaterally."
+
+    assertion-theon-captures-winterfell:
+        subject:
+            event: event-capture-winterfell
+        property: description
+        value: "Theon Greyjoy captures Winterfell with approximately twenty ironborn"
+        citations:
+            - citation-acok-theon-iii
+        confidence: high
+        status: proven
+        notes: "Theon deviates from Lord Balon's orders to raid the Stony Shore and instead takes Winterfell. He uses Dagmer Cleftjaw to feint against Torrhen's Square, drawing Ser Rodrik Cassel and Winterfell's garrison away. With Ser Rodrik gone, Theon scales the walls of Winterfell with a small force and opens the gates. He takes Bran and Rickon Stark hostage. Source: 'Theon Greyjoy has mounted their heads on the walls of Winterfell. Theon Greyjoy, who ate at my table since he was a boy of ten.' (ACOK Catelyn VII, Catelyn reporting to Robb)."
+
+    assertion-theon-betray-starks:
+        subject:
+            person: person-theon-greyjoy
+        property: allegiance_broken
+        value: "House Stark"
+        citations:
+            - citation-acok-theon-ii
+            - citation-acok-theon-iii
+        confidence: high
+        status: proven
+        notes: "Theon Greyjoy was ward/hostage of Ned Stark for nine years and fought for Robb Stark in the War of the Five Kings. By capturing Winterfell and styling himself 'Prince of Winterfell,' he betrays the Starks who raised him. His alias 'Theon Turncloak' derives from this betrayal."
+
+    # --- Jaqen H'ghar's three deaths at Harrenhal ---
+
+    assertion-jaqen-offer-three-deaths:
+        subject:
+            person: person-jaqen-hghar
+        property: role_in_event
+        value: "Offers Arya three deaths in payment for saving him from the fire"
+        citations:
+            - citation-acok-arya-vi
+        confidence: high
+        status: proven
+        notes: "Jaqen H'ghar explains he owes Arya three deaths because she 'took three that were his' (saving him, Rorge, and Biter from the burning wagon). Source text: 'The Red God has his due, sweet girl, and only death may pay for life. This girl took three that were his. This girl must give three in their places. Speak the names, and a man will do the rest.' This reveals Jaqen's nature as a Faceless Man of Braavos."
+
+    assertion-jaqen-kills-weese:
+        subject:
+            person: person-weese
+        property: cause_of_death
+        value: "Killed by his own dog at Jaqen H'ghar's arrangement"
+        citations:
+            - citation-acok-arya-vii
+        confidence: high
+        status: proven
+        notes: "Weese, the understeward who abused Arya at Harrenhal, is the first of Jaqen's three deaths. Arya names him; shortly after he is found dead, his dog having torn out his throat."
+
+    assertion-jaqen-kills-tickler:
+        subject:
+            person: person-tickler
+        property: cause_of_death
+        value: "Killed by Jaqen H'ghar (second of Arya's three deaths)"
+        citations:
+            - citation-acok-arya-vii
+        confidence: high
+        status: proven
+        notes: "The Tickler, Ser Gregor Clegane's torturer at Harrenhal, is the second of Jaqen's three deaths named by Arya."
+
+    assertion-jaqen-iron-coin:
+        subject:
+            person: person-jaqen-hghar
+        property: faceless_man_nature
+        value: "Confirmed Faceless Man of Braavos"
+        citations:
+            - citation-acok-arya-ix
+        confidence: high
+        status: proven
+        notes: "After the three deaths are fulfilled, Jaqen H'ghar gives Arya an iron coin and the words 'Valar morghulis,' then changes his face — confirming his nature as a Faceless Man. Source text: 'Jaqen is as dead as Arry, and I have promises to keep. Valar morghulis, Arya Stark. Say it again.' The coin will later let Arya gain passage to Braavos."
+
+    # --- Jon Snow and Qhorin Halfhand beyond the Wall ---
+
+    assertion-fist-first-men-camp:
+        subject:
+            event: event-battle-fist-first-men
+        property: prelude
+        value: "Night's Watch camps at the Fist of the First Men awaiting Qhorin Halfhand"
+        citations:
+            - citation-acok-jon-vi
+        confidence: high
+        status: proven
+        notes: "The Night's Watch Great Ranging reaches the Fist of the First Men, a defensible hilltop crowned with ancient stone walls. Lord Commander Mormont camps there to await Qhorin Halfhand and the Shadow Tower rangers before deciding to confront Mance Rayder's gathering host. Source text: 'The wildlings called it the Fist of the First Men, rangers said. It did look like a fist, Jon Snow thought, punching up through earth and wood, its bare brown slopes knuckled with stone.'"
+
+    assertion-qhorin-chooses-jon:
+        subject:
+            person: person-jon-snow
+        property: assigned_mission
+        value: "Selected by Qhorin Halfhand to range into the Frostfangs"
+        citations:
+            - citation-acok-jon-vii
+        confidence: high
+        status: proven
+        notes: "Qhorin Halfhand arrives at the Fist of the First Men and selects Jon Snow to accompany him on a small ranging party into the Frostfangs to scout Mance Rayder's position. Source text: 'Qhorin Halfhand turned his head. His eyes met Jon's, and held them for a long moment. Very well. I choose Jon Snow.' He also reports that Alfyn Crowkiller has been killed."
+
+    assertion-qhorin-killed-by-jon:
+        subject:
+            person: person-qhorin-halfhand
+        property: cause_of_death
+        value: "Killed by Jon Snow to allow Jon to infiltrate the wildlings"
+        citations:
+            - citation-acok-jon-vii
+        confidence: high
+        status: proven
+        notes: "Qhorin Halfhand orders Jon to kill him as a stratagem — Jon's execution of the Halfhand will convince the wildlings Jon has truly defected from the Night's Watch. Source: wildling Ragwyle later says 'Who would have thought it? Qhorin Halfhand slain by some lordling's byblow.' (ACOK Jon XI). This is referenced in the chunk at line 16015."
+
+    # --- Daenerys in Qarth ---
+
+    assertion-dany-house-of-undying:
+        subject:
+            event: event-house-of-undying
+        property: outcome
+        value: "Daenerys escapes the House of the Undying; Drogon destroys the Undying Ones"
+        citations:
+            - citation-acok-daenerys-iv
+        confidence: high
+        status: proven
+        notes: "Daenerys enters the House of the Undying at Pyat Pree's urging, experiences visions, and the Undying Ones attempt to drain her vitality. Drogon saves her by burning the Undying and the building. Source text: 'In this city of splendors, Dany had expected the House of the Undying Ones to be the most splendid of all, but she emerged from her palanquin to behold a grey and ancient ruin.'"
+
+    assertion-xaro-refuses-ships:
+        subject:
+            person: person-xaro-xhoan-daxos
+        property: political_stance
+        value: "Refuses to provide Daenerys with ships or military aid"
+        citations:
+            - citation-acok-daenerys-iv
+        confidence: high
+        status: proven
+        notes: "Despite repeated requests, Xaro Xhoan Daxos refuses to fund ships for Daenerys. He favors her staying in Qarth or marrying him. Source: 'Xaro Xhoan Daxos is a man of peace.' Daenerys ultimately leaves Qarth after the destruction of the House of the Undying."
+
+    # --- Persons introduced in this section ---
+
+    assertion-dagmer-cleftjaw-role:
+        subject:
+            person: person-dagmer-cleftjaw
+        property: role_in_event
+        value: "Commands Theon's forces in the feint against Torrhen's Square"
+        citations:
+            - citation-acok-theon-iii
+        confidence: high
+        status: proven
+        notes: "Dagmer Cleftjaw commands Theon's ironborn longship Foamdrinker and leads the diversionary attack on Torrhen's Square that draws Ser Rodrik Cassel away from Winterfell. Source text: 'Dagmer Cleftjaw stood by the high carved prow of his longship, Foamdrinker.'"
+
+    assertion-rorge-biter-jaqen-wagon:
+        subject:
+            person: person-rorge
+        property: group_membership
+        value: "Caged with Jaqen H'ghar and Biter in Yoren's wagon"
+        citations:
+            - citation-acok-arya-vi
+        confidence: high
+        status: proven
+        notes: "Rorge, Biter, and Jaqen H'ghar were three criminals locked in a wagon as Yoren's recruits for the Night's Watch. Arya released them from the burning wagon, creating Jaqen's debt. Rorge is noseless and violent; Biter is near-mute and feral. Both later join the Brave Companions."
+
+    assertion-hot-pie-lommy-arya-companions:
+        subject:
+            person: person-arya-stark
+        property: companions
+        value: "Hot Pie and Lommy Greenhands travel with Arya in Yoren's party"
+        citations:
+            - citation-acok-arya-vi
+        confidence: high
+        status: proven
+        notes: "Hot Pie (orphan baker's son) and Lommy Greenhands (orphan dyer's apprentice) are among Yoren's recruits traveling north with Arya (disguised as 'Arry'). Lommy gives Arya the name 'Lumpyhead' and Gendry 'the Bull.' Lommy is killed by Polliver at the holdfast on the Gods Eye. Hot Pie stays at the inn when Arya and Gendry are captured and taken to Harrenhal."
+
+    assertion-lommy-death:
+        subject:
+            person: person-lommy-greenhands
+        property: cause_of_death
+        value: "Killed by Polliver (one of the Mountain's men)"
+        citations:
+            - citation-acok-arya-vi
+        confidence: high
+        status: proven
+        notes: "Lommy Greenhands was wounded in the leg during the Lannister attack on Yoren's party at the holdfast near the Gods Eye. He called for quarter but was killed by Polliver, one of Ser Gregor Clegane's men, who ran him through with Needle (Arya's sword). He is one of the names Arya silently blames herself for not protecting."

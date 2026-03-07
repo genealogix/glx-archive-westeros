@@ -1,0 +1,14 @@
+events:
+    event-daenerys-betrothal-drogo:
+        type: betrothal_ceremony
+        date: "298"
+        participants:
+            - person: person-daenerys-targaryen-206
+              role: subject
+            - person: person-khal-drogo
+              role: subject
+            - person: person-viserys-targaryen-iii
+              role: negotiator
+            - person: person-illyrio-mopatis
+              role: host
+        notes: "At Khal Drogo's manse in Pentos, Viserys and Illyrio Mopatis arrange for Daenerys to be presented to Khal Drogo. The event is the feast where Drogo first sees Daenerys. Viserys intends to trade his sister in marriage in exchange for a Dothraki army to reclaim the Iron Throne."

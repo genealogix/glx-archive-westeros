@@ -1,0 +1,13 @@
+persons:
+    person-mirri-maz-duur:
+        properties:
+            name:
+                value: "Mirri Maz Duur"
+                fields:
+                    given: "Mirri Maz Duur"
+            gender: female
+            alias:
+                - value: "The godswife"
+                - value: "Maegi"
+            religion: "Many-Faced God"
+        notes: "A godswife (healer-priestess) of the Lhazareen, captured when Khal Drogo's khalasar sacked her village. She had studied at the Temple of Lhazar, learned from a Qartheen healer, a maester at the Citadel who thought her a boy, and a bloodmage from the Shadow Lands in Asshai. Daenerys protected her from the Dothraki. She performed bloodmagic to 'save' Drogo's life after his wound became infected, resulting in him living in a vegetative state. She was bound to Drogo's funeral pyre and burned alive by Daenerys in revenge. 'Only death can pay for life.'"

@@ -1,0 +1,10 @@
+persons:
+    person-will-prologue:
+        properties:
+            name:
+                value: "Will"
+                fields:
+                    given: "Will"
+            gender: male
+            died_on: "298"
+        notes: "A ranger of the Night's Watch. Former poacher caught in the Mallister woods — given a choice between the Wall and losing a hand. A veteran of a hundred rangings; his skill in moving silently through woods was valuable to the Watch. POV character of the Prologue. Killed by the reanimated Ser Waymar Royce."

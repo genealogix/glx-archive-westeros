@@ -1,0 +1,10 @@
+persons:
+    person-gunthor-son-of-gurn:
+        properties:
+            gender: male
+            name:
+                value: "Gunthor son of Gurn"
+                fields:
+                    given: Gunthor
+            house: "Stone Crows"
+        notes: "Chief of the Stone Crows, a mountain clan in the Mountains of the Moon (Vale region). A thin man in a horned helmet armed with a long knife. He and his clan surrounded Tyrion Lannister and Bronn on the high road; Tyrion promised them the Vale of Arryn and his father's steel in exchange for safe passage."

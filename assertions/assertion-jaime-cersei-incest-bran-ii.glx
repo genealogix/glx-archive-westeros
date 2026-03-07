@@ -1,0 +1,22 @@
+assertions:
+    assertion-jaime-cersei-incest-bran-ii:
+        subject:
+            relationship: rel-secret-lover-jaime-cersei
+        property: status
+        value: "confirmed by witness"
+        citations:
+            - citation-agot-bran-ii
+        confidence: high
+        status: proven
+        notes: "Source text: 'The man had a hand down between her legs... Her hands buried themselves in his hair, his tangled golden hair... Bran saw her face. Her eyes were closed and her mouth was open, moaning. Her golden hair swung from side to side as her head moved back and forth, but still he recognized the queen.' And: 'They looked as much alike as reflections in a mirror' — confirming the man was Jaime. POV is Bran, aged 7."
+
+    assertion-jaime-pushes-bran:
+        subject:
+            person: person-brandon-stark-bran
+        property: cause_of_injury
+        value: "Pushed from First Keep window by Jaime Lannister"
+        citations:
+            - citation-agot-bran-ii
+        confidence: high
+        status: proven
+        notes: "Source text: 'The things I do for love,' he said with loathing. He gave Bran a shove.' Jaime pushed Bran from the window of the First Keep at Winterfell after Bran witnessed the incestuous encounter between Jaime and Cersei."

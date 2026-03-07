@@ -1,0 +1,15 @@
+events:
+    event-death-jory-cassel:
+        type: death
+        date: "298"
+        place: place-kings-landing
+        participants:
+            - person: person-jory-cassel
+              role: subject
+            - person: person-jaime-lannister
+              role: perpetrator
+            - person: person-eddard-stark
+              role: witness
+        properties:
+            cause_of_death: "Killed in Lannister ambush on the streets of King's Landing"
+            description: "Jory Cassel was cut down by Lannister men-at-arms during Jaime Lannister's nighttime ambush on Ned Stark's party in the streets of King's Landing. Wyl and Heward also died in the attack. Ned's leg was shattered when his horse fell."

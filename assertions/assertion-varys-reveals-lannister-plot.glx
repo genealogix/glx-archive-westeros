@@ -1,0 +1,22 @@
+assertions:
+    assertion-varys-reveals-lannister-plot:
+        subject:
+            person: person-varys
+        property: intelligence_provided
+        value: "Warned Ned Stark of Lannister plot to kill Robert in the melee; revealed Jon Arryn was poisoned"
+        citations:
+            - citation-agot-eddard-v
+        confidence: medium
+        status: accepted
+        notes: "Source text: Varys visited Ned in disguise: 'There are things you must know. You are the King's Hand, and the king is a fool... Today was a near thing. They had hoped to kill him during the melee.' And: 'The tears of Lys, they call it... Who gave him the poison?... There was one boy. All he was, he owed Jon Arryn…' Varys provides two key pieces of intelligence: (1) the Lannisters planned to kill Robert in the melee, (2) Jon Arryn was poisoned by someone close to him (implying Ser Hugh). Confidence medium — Varys is a masterful manipulator and his motives are opaque. The information may be true but could also serve his own agenda."
+
+    assertion-varys-secret-passage-red-keep:
+        subject:
+            person: person-varys
+        property: capability
+        value: "Knows secret passages inside the Red Keep"
+        citations:
+            - citation-agot-eddard-v
+        confidence: high
+        status: accepted
+        notes: "Source text: Ned asks how Varys got past his guards. 'The Red Keep has ways known only to ghosts and spiders.' Varys accessed Ned's chambers in the Tower of the Hand without being seen by three posted guards. He was in disguise (rough spun robe, smelled of sweat not lilacs). This is the first explicit reference to the Red Keep's secret passages, which become increasingly significant in later books."

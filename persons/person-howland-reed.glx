@@ -1,0 +1,12 @@
+persons:
+    person-howland-reed:
+        properties:
+            name:
+                value: "Howland Reed"
+                fields:
+                    given: "Howland"
+                    surname: "Reed"
+            gender: male
+            title:
+                - value: "Lord of Greywater Watch"
+        notes: "Lord of Greywater Watch, crannogman. One of only two survivors (with Eddard Stark) of the fight at the Tower of Joy against the Kingsguard. He took Lyanna Stark's hand from Ned's grip after her death. Mentioned in Catelyn II (AGOT Eddard I fever dream)."

@@ -1,0 +1,13 @@
+persons:
+    person-oswell-whent:
+        properties:
+            gender: male
+            name:
+                value: "Oswell Whent"
+                fields:
+                    given: Oswell
+                    surname: Whent
+            house: Whent
+            title:
+                - value: Ser
+        notes: "A knight of the Kingsguard under Aerys II Targaryen. House sigil: a black bat on white-enameled helm. He was one of three Kingsguard (with Ser Arthur Dayne and Ser Gerold Hightower) who stood guard at the Tower of Joy in the Red Mountains of Dorne during Robert's Rebellion. He was not at the Trident when Robert fought Rhaegar. He died fighting Ned Stark's party of seven at the Tower of Joy."

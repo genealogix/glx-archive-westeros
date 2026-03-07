@@ -1,0 +1,45 @@
+assertions:
+    assertion-stark-words:
+        subject:
+            person: person-eddard-stark
+        property: notes
+        value: "House Stark words: 'Winter is coming'"
+        citations:
+            - citation-agot-catelyn-i
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn I): 'The Stark words. Every noble house had its words. Family mottoes, touchstones, prayers of sorts, they boasted of honor and glory, promised loyalty and truth, swore faith and courage. All but the Starks. Winter is coming, said the Stark words.'"
+
+    assertion-stark-sigil:
+        subject:
+            person: person-eddard-stark
+        property: notes
+        value: "House Stark sigil: grey direwolf on an ice-white field"
+        citations:
+            - citation-agot-bran-i
+        confidence: high
+        status: proven
+        notes: "Source text (Bran I): 'Over their heads flapped the banner of the Starks of Winterfell: a grey direwolf racing across an ice-white field.'"
+
+    assertion-night-watch-strength-298:
+        subject:
+            person: person-benjen-stark
+        property: notes
+        value: "Night's Watch strength below 1000 at time of AGOT, losing men on rangings"
+        citations:
+            - citation-agot-catelyn-i
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn I): Ned says 'Ben writes that the strength of the Night's Watch is down below a thousand. It's not only desertions. They are losing men on rangings as well.'"
+
+    assertion-bran-climbing:
+        subject:
+            person: person-brandon-stark-bran
+        property: description
+        value: "Seven years old; could climb before he could walk; beloved hobby was climbing castle walls and roofs of Winterfell; age seven at AGOT"
+        citations:
+            - citation-agot-bran-i
+            - citation-agot-bran-ii
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn I): 'He is only seven.' Source text (Bran I): 'It was the ninth year of summer, and the seventh of Bran's life.' Source text (Bran II): 'His mother often said that Bran could climb before he could walk.'"

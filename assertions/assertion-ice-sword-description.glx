@@ -1,0 +1,23 @@
+assertions:
+    assertion-ice-sword-description:
+        subject:
+            person: person-eddard-stark
+        property: possession
+        value: "Ice — Valyrian steel greatsword, heirloom of House Stark"
+        citations:
+            - citation-agot-bran-i
+            - citation-agot-catelyn-i
+        confidence: high
+        status: proven
+        notes: "Source text (Bran I): 'Theon Greyjoy brought forth the sword. \"Ice,\" that sword was called. It was as wide across as a man's hand, and taller even than Robb. The blade was Valyrian steel, spell-forged and dark as smoke. Nothing held an edge like Valyrian steel.' Source text (Catelyn I): 'It had been forged in Valyria, before the Doom had come to the old Freehold... Four hundred years old it was, and as sharp as the day it was forged. The name it bore was older still, a legacy from the age of heroes, when the Starks were Kings in the North.'"
+
+    assertion-arya-needle-gift:
+        subject:
+            person: person-arya-stark
+        property: possession
+        value: "Needle — a slender braavo-style sword gifted by Jon Snow"
+        citations:
+            - citation-agot-jon-ii
+        confidence: high
+        status: proven
+        notes: "Source text (Jon II): '\"The scabbard was soft grey leather, supple as sin. Jon drew out the blade slowly, so she could see the deep blue sheen of the steel.\" Jon had Mikken the blacksmith make it specially. Arya names it \"Needle.\" Jon tells her: \"The bravos use swords like this in Pentos and Myr and the other Free Cities. It won't hack a man's head off, but it can poke him full of holes if you're fast enough.\""

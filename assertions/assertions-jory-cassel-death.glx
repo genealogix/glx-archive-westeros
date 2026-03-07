@@ -1,0 +1,22 @@
+assertions:
+    assertion-jory-cassel-death:
+        subject:
+            person: person-jory-cassel
+        property: cause_of_death
+        value: "Killed by Lannister men-at-arms in King's Landing"
+        citations:
+            - citation-agot-eddard-ix
+        confidence: high
+        status: proven
+        notes: "Source text: 'They cut the legs from Jory's mount and drag him to the earth, swords rising and falling as they closed in around him.' Jory Cassel was killed during Jaime Lannister's ambush on Ned Stark's party in the streets of King's Landing. Also killed were Wyl and Heward. Jaime ordered 'Kill his men' and rode away. Tregar died the following morning from injuries Ned gave him."
+
+    assertion-jory-cassel-burial:
+        subject:
+            person: person-jory-cassel
+        property: burial
+        value: "Winterfell, beside his grandfather"
+        citations:
+            - citation-agot-eddard-x
+        confidence: high
+        status: accepted
+        notes: "Source text: 'I gave them over to the silent sisters, to be sent north to Winterfell. Jory would want to lie beside his grandfather.' Ned's captain Alyn arranged for the bodies of Jory and the other slain to be sent north via the silent sisters. Jory's father Martyn Cassel died at the Tower of Joy."

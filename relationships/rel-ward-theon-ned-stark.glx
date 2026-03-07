@@ -1,0 +1,12 @@
+relationships:
+    rel-ward-theon-ned-stark:
+        type: ward
+        participants:
+            - person: person-theon-greyjoy
+              role: ward
+            - person: person-eddard-stark
+              role: guardian
+        properties:
+            start_date: "289"
+            end_date: "299"
+            context: "Theon Greyjoy was taken as a ward/hostage by Ned Stark after the Greyjoy Rebellion (289 AC) to ensure Lord Balon Greyjoy's loyalty to the Iron Throne. He was raised at Winterfell for nine years. His betrayal of the Starks by capturing Winterfell (299 AC) ended this relationship."

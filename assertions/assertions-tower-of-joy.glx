@@ -1,0 +1,44 @@
+assertions:
+    assertion-tower-of-joy-participants:
+        subject:
+            event: event-tower-of-joy
+        property: participants
+        value: "Ned Stark, Howland Reed, Martyn Cassel, Theo Wull, Ethan Glover, Ser Mark Ryswell, Lord Dustin"
+        citations:
+            - citation-agot-eddard-x
+        confidence: high
+        status: proven
+        notes: "Source text: 'In the dream his friends rode with him, as they had in life. Proud Martyn Cassel, Jory's father; faithful Theo Wull; Ethan Glover, who had been Brandon's squire; Ser Mark Ryswell, soft of speech and gentle of heart; the crannogman, Howland Reed; Lord Dustin on his great red stallion.' Seven men in Ned's party faced three Kingsguard."
+
+    assertion-tower-of-joy-kingsguard:
+        subject:
+            event: event-tower-of-joy
+        property: defenders
+        value: "Ser Arthur Dayne, Ser Oswell Whent, Ser Gerold Hightower"
+        citations:
+            - citation-agot-eddard-x
+        confidence: high
+        status: proven
+        notes: "Source text: 'They waited before the round tower, the red mountains of Dorne at their backs, their white cloaks blowing in the wind ... Ser Arthur Dayne, the Sword of the Morning ... Ser Oswell Whent ... between them stood fierce old Ser Gerold Hightower, the White Bull, Lord Commander of the Kingsguard.' All three Kingsguard died."
+
+    assertion-tower-of-joy-survivors:
+        subject:
+            event: event-tower-of-joy
+        property: survivors
+        value: "Eddard Stark and Howland Reed"
+        citations:
+            - citation-agot-eddard-x
+        confidence: high
+        status: proven
+        notes: "Source text: 'They had been seven against three, yet only two had lived to ride away; Eddard Stark himself and the little crannogman, Howland Reed.' Five of Ned's seven men died, as did all three Kingsguard."
+
+    assertion-kingsguard-absent-from-trident:
+        subject:
+            event: event-tower-of-joy
+        property: significance
+        value: "The Kingsguard were not at the Battle of the Trident"
+        citations:
+            - citation-agot-eddard-x
+        confidence: high
+        status: proven
+        notes: "Source text: 'I looked for you on the Trident. We were not there.' The three Kingsguard (Dayne, Whent, Hightower) were stationed at the Tower of Joy during Robert's Rebellion, not fighting beside King Aerys or Prince Rhaegar. They stated they had sworn a vow. This is widely interpreted as indicating they were guarding Lyanna Stark and/or Jon Snow's birth."

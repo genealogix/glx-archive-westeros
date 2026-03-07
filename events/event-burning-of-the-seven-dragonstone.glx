@@ -1,0 +1,22 @@
+events:
+    event-burning-of-the-seven-dragonstone:
+        type: execution
+        date: "299"
+        place: place-dragonstone
+        participants:
+            - person: person-melisandre
+              role: officiant
+            - person: person-selyse-florent
+              role: participant
+            - person: person-stannis-baratheon
+              role: subject
+            - person: person-davos-seaworth
+              role: witness
+            - person: person-guncer-sunglass
+              role: witness
+            - person: person-devan-seaworth
+              role: squire
+            - person: person-bryen-farring
+              role: squire
+        properties:
+            description: "Melisandre led the burning of the wooden statues of the Seven (the gods of the Faith) on the shore outside Dragonstone castle, as an offering to R'hllor the Lord of Light. Stannis then drew a sword from the flames, which Melisandre proclaimed to be Lightbringer, the Red Sword of Heroes, and Stannis to be Azor Ahai reborn. Ser Hubard Rambton and his sons died defending the sept; Guncer Sunglass and Septon Barre were imprisoned for refusing to convert. The queen's men — followers of R'hllor led by Queen Selyse and Axell Florent — orchestrated the ceremony."

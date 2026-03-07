@@ -1,0 +1,13 @@
+persons:
+    person-robar-royce:
+        properties:
+            gender: male
+            name:
+                value: "Robar Royce"
+                fields:
+                    given: Robar
+                    surname: Royce
+            house: Royce
+            title:
+                - value: Ser
+        notes: "A knight of House Royce. Son of Bronze Yohn Royce, who was hunting with King Robert. Ned Stark sent Ser Robar from the throne room to bring word of the Gregor Clegane proceedings to the king on his hunt."

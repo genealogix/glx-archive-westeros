@@ -19,3 +19,43 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Arryn section. Listed as bastard girl."
+    assertion-mya-stone-bastard-vale:
+        subject:
+            person: person-mya-stone
+        property: bastard_name
+        value: Stone
+        citations:
+            - citation-agot-catelyn-vi
+        confidence: high
+        status: proven
+        notes: "Source text: 'Stone was a bastard's name in the Vale, as Snow was in the north, and Flowers in Highgarden; in each of the Seven Kingdoms, custom had fashioned a surname for children born with no names of their own.' Mya Stone's surname confirms she is a bastard born in the Vale of Arryn."
+    assertion-mya-stone-age:
+        subject:
+            person: person-mya-stone
+        property: born_on
+        value: "ABT 281"
+        citations:
+            - citation-agot-catelyn-vi
+        confidence: medium
+        status: accepted
+        notes: "Source text: 'A wiry girl of seventeen or eighteen years.' At the time of AGOT (~298 AC) Mya Stone was seventeen or eighteen, placing her birth around 280-281 AC."
+    assertion-mya-stone-eyrie-guide:
+        subject:
+            person: person-mya-stone
+        property: occupation
+        value: "Mountain guide between Gates of the Moon and the Eyrie"
+        citations:
+            - citation-agot-catelyn-vi
+        confidence: high
+        status: proven
+        notes: "Mya Stone guided Catelyn Stark up the mountain steps by night to the Eyrie, leading mules through waycastles Stone, Snow, and Sky. She wore riding leathers and silvered ringmail and was described as having made the dark climb a hundred times."
+    assertion-mya-stone-mychel-redfort:
+        subject:
+            person: person-mya-stone
+        property: betrothed
+        value: "Mychel Redfort (squire to Ser Lyn Corbray)"
+        citations:
+            - citation-agot-catelyn-vi
+        confidence: high
+        status: accepted
+        notes: "Source text: 'Mychel's my love. Mychel Redfort. He's squire to Ser Lyn Corbray. We're to wed as soon as he becomes a knight, next year or the year after.' Catelyn privately doubted the match would happen, as Redforts were old Vale blood and would not wed a bastard."

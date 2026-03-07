@@ -6,6 +6,17 @@ events:
         participants:
             - person: person-robb-stark
               role: subject
+            - person: person-theon-greyjoy
+              role: perpetrator
+            - person: person-ramsay-bolton
+              role: perpetrator
+            - person: person-luwin
+              role: victim
+            - person: person-brandon-stark-bran
+              role: subject
+            - person: person-osha
+              role: subject
         properties:
-            description: "The Sack of Winterfell — Theon Greyjoy captured Winterfell with a small force during Robb Stark's absence. When Bolton forces under Ramsay Snow besieged him, Theon's own men turned on him. Ramsay's forces then sacked and burned Winterfell, putting it to the torch. The castle was left a smoking ruin."
-        notes: "Theon had faked the deaths of Bran and Rickon Stark using two miller's boys. The sack was blamed on the Ironborn but was actually carried out by Ramsay Snow's forces. Maester Luwin was killed in the sack."
+            description: "The Sack of Winterfell — Theon Greyjoy captured Winterfell with a small ironborn force during Robb Stark's absence. He faked the deaths of Bran and Rickon Stark (using two miller's boys). When Ramsay Snow (the Bastard of Bolton) besieged the castle with Bolton forces, Theon's own ironborn men turned on him and handed him to Ramsay. Ramsay's forces then sacked and burned Winterfell. Bran, Rickon, Hodor, Osha, Meera Reed, and Jojen Reed had hidden in the crypts and escaped undetected. Maester Luwin was mortally wounded and found dying in the godswood beneath the heart tree. Osha mercy-killed him. The party split: Osha took Rickon east; the Reeds took Bran north."
+            also_known_as: "The Burning of Winterfell"
+        notes: "The flayed man badge of House Bolton was found on corpses among the ironborn dead, confirming Ramsay's forces were responsible for the burning — not the ironborn. ACOK Bran VII: Osha says 'That's one of his ironmen. And there... And that's Greyjoy's warhorse... And here's Black Lorren... There's a badge. A little man, all red.' Bran identifies it: 'The flayed man of the Dreadfort.' Theon was taken prisoner by Ramsay. Maester Luwin's last words: 'The princes... Robb's heirs. Not... not together... do you hear?' Bran and party exited through the Hunter's Gate heading north. Rickon and Osha took the kingsroad east."

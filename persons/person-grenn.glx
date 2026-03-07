@@ -1,0 +1,11 @@
+persons:
+    person-grenn:
+        properties:
+            name:
+                value: "Grenn"
+                fields:
+                    given: "Grenn"
+            alias:
+                - value: "Aurochs"
+            gender: male
+        notes: "Night's Watch recruit at Castle Black. Trains under Ser Alliser Thorne alongside Jon Snow. Large, slow, clumsy with a sword. Called 'the Aurochs' by Ser Alliser. Repeatedly bested by Jon Snow in training. Eventually becomes one of Jon's friends among the recruits."

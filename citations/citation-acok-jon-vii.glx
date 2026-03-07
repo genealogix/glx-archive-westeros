@@ -1,0 +1,8 @@
+citations:
+    citation-acok-jon-vii:
+        source: source-acok
+        properties:
+            locator: "Jon VII"
+            text_from_source: "Qhorin Halfhand turned his head. His eyes met Jon's, and held them for a long moment. 'Very well. I choose Jon Snow.'"
+            accessed: "2026-03-06"
+        notes: "Qhorin Halfhand arrives at the Fist of the First Men. He reports on Alfyn Crowkiller's defeat. Qhorin selects Jon Snow to accompany him on a ranging into the Frostfangs to scout Mance Rayder's host."

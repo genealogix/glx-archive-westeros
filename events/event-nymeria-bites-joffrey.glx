@@ -1,0 +1,17 @@
+events:
+    event-nymeria-bites-joffrey:
+        type: battle
+        date: "298"
+        place: place-the-riverlands
+        participants:
+            - person: person-joffrey-baratheon
+              role: victim
+            - person: person-arya-stark
+              role: subject
+            - person: person-sansa-stark
+              role: witness
+            - person: person-mycah
+              role: victim
+        properties:
+            description: "Near the Trident, Joffrey Baratheon menaced Mycah the butcher's boy with his sword Lion's Tooth, cutting the boy's cheek. Arya Stark struck Joffrey from behind with a stick and then threw Lion's Tooth into the river. Joffrey's direwolf Nymeria leapt on Joffrey and bit his sword arm when he attacked Arya. Joffrey fell and was injured. Arya drove Nymeria away to spare the wolf from royal retribution. Sansa was present but did not intervene."
+            also_known_as: "The Trident Incident"

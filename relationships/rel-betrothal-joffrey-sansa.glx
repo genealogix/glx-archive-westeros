@@ -1,0 +1,11 @@
+relationships:
+    rel-betrothal-joffrey-sansa:
+        type: betrothal
+        participants:
+            - person: person-joffrey-baratheon
+              role: betrothed
+            - person: person-sansa-stark
+              role: betrothed
+        properties:
+            start_date: "298"
+            context: "Proposed by King Robert Baratheon to Eddard Stark in the Winterfell crypts. Robert's intention was to bind the Stark and Baratheon houses. Sansa was 11, Joffrey 12 at the time. Robert said 'the marriage can wait a few years.' This is a political arrangement; Sansa was charmed by the prince. The betrothal was eventually broken after Ned Stark's arrest."

@@ -1,0 +1,10 @@
+relationships:
+    rel-pc-davos-seaworth-devan-seaworth:
+        type: parent_child
+        participants:
+            - person: person-davos-seaworth
+              role: parent
+            - person: person-devan-seaworth
+              role: child
+        properties:
+            context: "Davos Seaworth is the father of Devan Seaworth. Confirmed in ACOK Davos I: 'the king had taken Devan as a royal squire.' Davos watches his son serve Stannis at the Lightbringer ceremony, noting 'It was good to see Devan looking so splendid in his squire's raiment.'"

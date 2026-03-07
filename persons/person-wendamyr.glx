@@ -1,0 +1,11 @@
+persons:
+    person-wendamyr:
+        properties:
+            gender: male
+            name:
+                value: Wendamyr
+                fields:
+                    given: Wendamyr
+            title:
+                - value: "Maester of Pyke"
+        notes: "Maester serving at Pyke under Lord Balon Greyjoy. Keeps the ravens at Pyke. His predecessor Maester Qalen had died ('sleeps in the sea') by the time of Theon Greyjoy's return in 299 AC (ACOK Theon I)."

@@ -1,0 +1,14 @@
+persons:
+    person-lommy-greenhands:
+        properties:
+            name:
+                value: "Lommy Greenhands"
+                fields:
+                    given: "Lommy"
+                    surname: "Greenhands"
+            alias:
+                - value: "Lommy Greenhands"
+            gender: "male"
+            died_on: "299"
+            cause_of_death: "Killed by Lannister men-at-arms (Polliver) at the holdfast"
+        notes: "An orphan boy, former dyer's apprentice (hence 'Greenhands' from dye stains). A member of Yoren's Night's Watch recruits. He names Arya 'Lumpyhead' and Gendry 'the Bull'. He also names the foundling girl 'Weasel'. He is killed by Polliver, one of the Mountain's men, when Lannister forces attack the group at a holdfast — he is wounded and calls for quarter but is killed regardless."

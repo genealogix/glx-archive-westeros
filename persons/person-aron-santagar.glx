@@ -1,0 +1,13 @@
+persons:
+    person-aron-santagar:
+        properties:
+            name:
+                value: "Aron Santagar"
+                fields:
+                    given: "Aron"
+                    surname: "Santagar"
+            title:
+                - value: "Ser"
+                - value: "Master-at-Arms of the Red Keep"
+            gender: male
+        notes: "King's master-at-arms at the Red Keep in King's Landing. Described by Ser Rodrik Cassel as 'a vain man, but an honest one.' Could identify weapons by their make. Catelyn intended to show him the assassin's dagger to identify its owner. Robert used his name as a joke — he sent his squires to find 'the breastplate stretcher' from Ser Aron."

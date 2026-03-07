@@ -1,0 +1,33 @@
+assertions:
+    assertion-ned-appearance-agot:
+        subject:
+            person: person-eddard-stark
+        property: description
+        value: "Long brown hair, closely trimmed beard shot with white; grey eyes; lean face; thirty-five years old at time of AGOT"
+        citations:
+            - citation-agot-bran-i
+        confidence: high
+        status: proven
+        notes: "Source text (Bran I): 'Bran's father sat solemnly on his horse, long brown hair stirring in the wind. His closely trimmed beard was shot with white, making him look older than his thirty-five years. He had a grim cast to his grey eyes this day.'"
+
+    assertion-robb-appearance-agot:
+        subject:
+            person: person-robb-stark
+        property: description
+        value: "Big and broad, with Tully coloring: fair skin, red-brown hair, blue eyes. Age 14 at time of AGOT."
+        citations:
+            - citation-agot-bran-i
+        confidence: high
+        status: proven
+        notes: "Source text (Bran I): 'Robb... was big and broad and growing every day, with his mother's coloring, the fair skin, red-brown hair, and blue eyes of the Tullys of Riverrun.'"
+
+    assertion-jon-snow-appearance-agot:
+        subject:
+            person: person-jon-snow
+        property: description
+        value: "Slender, dark; grey eyes so dark they seem almost black; graceful and quick; age 14 at AGOT"
+        citations:
+            - citation-agot-bran-i
+        confidence: high
+        status: proven
+        notes: "Source text (Bran I): 'Jon's eyes were a grey so dark they seemed almost black, but there was little they did not see. He was of an age with Robb, but they did not look alike. Jon was slender where Robb was muscular, dark where Robb was fair, graceful and quick where his half brother was strong and fast.'"

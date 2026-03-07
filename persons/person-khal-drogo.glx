@@ -1,0 +1,11 @@
+persons:
+    person-khal-drogo:
+        properties:
+            name:
+                value: "Khal Drogo"
+                fields:
+                    given: "Drogo"
+            gender: male
+            title:
+                - value: "Khal"
+        notes: "Khal of a great Dothraki khalasar of approximately 100,000 riders. Unmarried at the time of Daenerys I. His manse in Pentos was given to him by the magisters of that city. Described as a head taller than the tallest man in the room, copper-skinned, with a long oiled braid hung with bells — the braid indicating he had never been defeated in combat. No older than thirty at the time of Daenerys I."

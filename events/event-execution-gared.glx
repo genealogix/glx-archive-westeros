@@ -1,0 +1,16 @@
+events:
+    event-execution-gared:
+        type: execution
+        date: "298"
+        participants:
+            - person: person-gared
+              role: subject
+            - person: person-eddard-stark
+              role: executor
+            - person: person-brandon-stark-bran
+              role: witness
+            - person: person-robb-stark
+              role: witness
+            - person: person-jon-snow
+              role: witness
+        notes: "Eddard Stark executes the Night's Watch deserter Gared (identified only as 'the deserter' in the text) at a holdfast in the hills north of Winterfell. Ned uses the greatsword Ice. Jon Snow advises Bran not to look away. Theon Greyjoy kicks the severed head. The deserter had fled south after the encounter with the Others in the Prologue."

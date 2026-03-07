@@ -1,0 +1,11 @@
+persons:
+    person-hot-pie:
+        properties:
+            name:
+                value: "Hot Pie"
+                fields:
+                    given: "Hot Pie"
+            alias:
+                - value: "Hot Pie"
+            gender: "male"
+        notes: "An orphan boy from King's Landing, son of a baker. A member of Yoren's Night's Watch recruits traveling north. He befriends (and antagonizes) Arya Stark. His mother pushed a pie cart through the streets. He later stays at the Inn at the Crossroads when Arya, Gendry, and he are captured and taken to Harrenhal. He remains at the inn as a baker's apprentice."

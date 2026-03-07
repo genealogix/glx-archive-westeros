@@ -1,0 +1,9 @@
+persons:
+    person-rorge:
+        properties:
+            name:
+                value: "Rorge"
+                fields:
+                    given: "Rorge"
+            gender: "male"
+        notes: "A criminal bound for the Wall in Yoren's party. Noseless and violent. He and Biter were caged with Jaqen H'ghar in the wagon that Arya saved from the fire at the holdfast. Later becomes a member of the Brave Companions (Bloody Mummers) at Harrenhal."

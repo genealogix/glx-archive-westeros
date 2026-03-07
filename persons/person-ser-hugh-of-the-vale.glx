@@ -1,0 +1,11 @@
+persons:
+    person-ser-hugh-of-the-vale:
+        properties:
+            name:
+                value: "Ser Hugh of the Vale"
+                fields:
+                    given: "Hugh"
+            title:
+                - value: "Ser"
+            gender: male
+        notes: "Squire to Lord Jon Arryn, Hand of the King. Knighted after Jon Arryn's death. Killed during the jousting at the Hand's tourney at King's Landing (~298 AC) by a lance through the throat that drove under his gorget. His armor was newly made for the tourney, not yet fully paid for. Varys implies to Ned Stark that Ser Hugh was likely the one who administered 'the tears of Lys' poison to Jon Arryn — he owed everything to Arryn but remained in King's Landing rather than following Lysa Arryn to the Eyrie after Arryn's death. His cloak bore crescent moons."

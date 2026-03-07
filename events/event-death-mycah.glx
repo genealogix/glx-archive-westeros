@@ -1,0 +1,13 @@
+events:
+    event-death-mycah:
+        type: death
+        date: "298"
+        place: place-the-riverlands
+        participants:
+            - person: person-mycah
+              role: subject
+            - person: person-sandor-clegane
+              role: perpetrator
+        properties:
+            cause_of_death: "Cut nearly in half from shoulder to waist by Sandor Clegane's sword"
+            description: "Sandor Clegane ('the Hound') rode Mycah down north of the Trident. The boy ran but 'not very fast.' His body was returned slung over the Hound's destrier, cut almost in half from shoulder to waist by a blow struck from above. Ned Stark confronted the Hound: 'You rode him down.' The Hound replied: 'He ran. But not very fast.'"

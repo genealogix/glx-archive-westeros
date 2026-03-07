@@ -1,0 +1,9 @@
+persons:
+    person-tysha:
+        properties:
+            gender: female
+            name:
+                value: Tysha
+                fields:
+                    given: Tysha
+        notes: "A crofter's daughter, orphaned when her father died of fever. She was secretly hired by Jaime Lannister to act as a frightened girl on the road so thirteen-year-old Tyrion could rescue her and experience his first woman. She and Tyrion fell in love; Tyrion secretly married her with a drunken septon using fifty silver pieces. Lord Tywin Lannister discovered the marriage, had Jaime confess the truth, then had Tysha given to his guards (each paying a silver coin), forcing Tyrion to watch and go last with a gold coin. Tyrion never knew what became of her afterward."

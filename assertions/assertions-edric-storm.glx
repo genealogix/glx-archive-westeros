@@ -20,3 +20,35 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against ACOK Appendix. Listed as bastard son."
+    assertion-edric-storm-father:
+        subject:
+            person: person-edric-storm
+        property: parent
+        value: person-robert-baratheon-i
+        citations:
+            - citation-agot-eddard-ix
+            - citation-acok-appendix
+        confidence: high
+        status: proven
+        notes: "Source text (AGOT Eddard IX): Littlefinger told Ned 'He's acknowledged that boy at Storm's End, the one he fathered the night Lord Stannis wed. The mother was a Florent, niece to the Lady Selyse, one of her bedmaids.' Robert publicly acknowledged Edric Storm. Confirmed in appendices as Robert's bastard by Delena Florent."
+    assertion-edric-storm-mother-florent:
+        subject:
+            person: person-edric-storm
+        property: parent
+        value: person-delena-florent
+        citations:
+            - citation-agot-eddard-ix
+            - citation-acok-appendix
+        confidence: high
+        status: proven
+        notes: "Source text (AGOT Eddard IX): 'The mother was a Florent, niece to the Lady Selyse, one of her bedmaids.' Robert fathered Edric on the night of Stannis Baratheon's wedding to Selyse Florent. Lady Delena Florent confirmed as mother in appendices."
+    assertion-edric-storm-fostered-renly:
+        subject:
+            person: person-edric-storm
+        property: ward
+        value: "Fostered by Lord Renly Baratheon at Storm's End"
+        citations:
+            - citation-agot-eddard-ix
+        confidence: high
+        status: proven
+        notes: "Source text: 'Lord Stannis seemed to think that was a blot on the honor of his wife's House, so when the boy was born, he shipped him off to Renly.' Edric Storm (Robert's acknowledged bastard) was sent to be fostered by Lord Renly Baratheon at Storm's End."

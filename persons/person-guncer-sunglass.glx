@@ -1,0 +1,14 @@
+persons:
+    person-guncer-sunglass:
+        properties:
+            gender: male
+            name:
+                value: Guncer Sunglass
+                fields:
+                    given: Guncer
+                    surname: Sunglass
+            title:
+                - value: "Lord of Sweetport Sound"
+            house: "Sunglass"
+            religion: "Faith of the Seven"
+        notes: "A minor lord bannerman of Stannis Baratheon at Dragonstone. Described as the mildest and most pious of lords. When Melisandre's followers burned the statues of the Seven, Sunglass publicly told Stannis he could no longer support his claim. He was then imprisoned on Dragonstone (ACOK Davos I). His refusal to convert to R'hllor cost him his political support for Stannis's cause."

@@ -1,0 +1,10 @@
+persons:
+    person-irri:
+        properties:
+            gender: female
+            name:
+                value: Irri
+                fields:
+                    given: Irri
+            house: Dothraki
+        notes: "A Dothraki handmaid serving Daenerys Targaryen as khaleesi. She helped Daenerys prepare for the horse-heart ritual and the stallion ceremony at Vaes Dothrak. She taught Daenerys Dothraki phrases and customs. Qotho sometimes made her sob in the night."

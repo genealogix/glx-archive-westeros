@@ -1,0 +1,66 @@
+assertions:
+    assertion-daenerys-fireproof:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: notes
+        value: "Daenerys walked into Drogo's funeral pyre and emerged unharmed, confirming her immunity to fire (or at least fire of this magnitude)"
+        citations:
+            - citation-agot-daenerys-ix
+        confidence: high
+        status: proven
+        notes: "Source text: 'When the fire died at last and the ground became cool enough to walk upon, Ser Jorah Mormont found her amidst the ashes, surrounded by blackened logs and bits of glowing ember and the burnt bones of man and woman and stallion. She was naked, covered with soot, her clothes turned to ash, her beautiful hair all crisped away … yet she was unhurt.' Note: This is the only instance in AGOT of Daenerys walking unharmed through fire. Whether this is a permanent magical immunity or specific to this moment of dragon-birth is debated. Her hair was destroyed, suggesting it was not trivial. This contrasts with Viserys who was killed by molten gold."
+
+    assertion-dragon-hatching-event:
+        subject:
+            event: event-dragon-hatching
+        property: description
+        value: "Three dragons hatched from eggs given to Daenerys as wedding gifts, the first dragons in the world in over a century"
+        citations:
+            - citation-agot-daenerys-ix
+        confidence: high
+        status: proven
+        notes: "The three dragons: (1) black-and-scarlet, draped across Daenerys's shoulders with red eyes — later named Drogon; (2) cream-and-gold, suckling at her left breast — later named Viserion; (3) green-and-bronze, suckling at her right breast — later named Rhaegal. The eggs had been given to Daenerys by Illyrio Mopatis as a wedding gift, described as petrified but keeping their colour. The hatching was connected to Drogo's death and the burning of Mirri Maz Duur."
+
+    assertion-drogo-death-cost-rhaego:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: notes
+        value: "Mirri Maz Duur's bloodmagic cost Daenerys her son Rhaego — born dead and monstrous as the price for Drogo's continued (mindless) life"
+        citations:
+            - citation-agot-daenerys-ix
+        confidence: high
+        status: proven
+        notes: "Mirri Maz Duur warned 'only death can pay for life.' Rhaego was stillborn and described as monstrous — scaled, with leathery wings like a bat, already rotting. This fulfilled the Dothraki prophecy regarding the stallion who mounts the world being turned to ash. The dragon hatching may have been a second 'payment' — dragons for the lost son."
+
+    assertion-robb-stark-king-in-the-north:
+        subject:
+            person: person-robb-stark
+        property: title
+        value: "King in the North"
+        citations:
+            - citation-agot-catelyn-xi
+        confidence: high
+        status: proven
+        notes: "Robb Stark was acclaimed King in the North at a war council in Riverrun's Great Hall, after the victories at the Whispering Wood and the Camps and following Ned Stark's execution. The Greatjon Umber was first: 'There sits the only king I mean to bow my knee to, m'lords. The King in the North!' Lord Karstark, Lady Mormont, and then the river lords — Blackwood, Bracken, Mallister — all followed. The first such declaration since Aegon's Conquest over three hundred years earlier. Robb also became informally King of the Trident by virtue of the river lords' acclamation."
+
+    assertion-greatjon-first-acclaimer-robb:
+        subject:
+            person: person-greatjon-umber
+        property: role
+        value: "First lord to declare Robb Stark 'The King in the North'"
+        citations:
+            - citation-agot-catelyn-xi
+        confidence: high
+        status: proven
+        notes: "The Greatjon stood and drew his immense two-handed greatsword in the Great Hall of Riverrun and pointed it at Robb: 'There sits the only king I mean to bow my knee to, m'lords. The King in the North!' He then knelt and laid his sword at Robb's feet. He was immediately followed by Rickard Karstark, then Maege Mormont, then the river lords."
+
+    assertion-jon-snow-stays-at-wall:
+        subject:
+            person: person-jon-snow
+        property: notes
+        value: "Jon Snow chose to remain at the Night's Watch rather than desert to join Robb's war, after briefly attempting to desert"
+        citations:
+            - citation-agot-jon-ix
+        confidence: high
+        status: proven
+        notes: "Jon rode south from Castle Black at night to join Robb's cause after learning of Ned's execution. His friends from the Watch — Pyp, Grenn, Halder, Toad, Matthar, and Sam Tarly — rode after him and intercepted him, reciting his oath at him until he relented. Returned to Castle Black and pledged loyalty to Mormont. Mormont then told him the Night's Watch would march beyond the Wall in force to find Benjen Stark and confront the threat from the Others, and asked Jon to be his steward/squire on this ranging. Jon accepted: 'I am … yours, my lord. Your man. I swear it. I will not run again.'"

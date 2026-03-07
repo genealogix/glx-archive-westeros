@@ -1,0 +1,10 @@
+persons:
+    person-jhiqui:
+        properties:
+            gender: female
+            name:
+                value: Jhiqui
+                fields:
+                    given: Jhiqui
+            house: Dothraki
+        notes: "A Dothraki handmaid serving Daenerys Targaryen as khaleesi. She taught Daenerys about bloodrider customs and Dothraki traditions. She helped wash Daenerys's hair and roasted the meat for Viserys's supper. She taught Daenerys the Dothraki phrases for the horse-heart ceremony, including 'Khalakka dothrae mr'anha' (A prince rides inside me)."

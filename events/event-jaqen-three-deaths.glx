@@ -1,0 +1,18 @@
+events:
+    event-jaqen-three-deaths:
+        type: death
+        date: "299"
+        place: place-harrenhal
+        participants:
+            - person: person-jaqen-hghar
+              role: agent
+            - person: person-arya-stark
+              role: instigator
+            - person: person-weese
+              role: subject
+            - person: person-tickler
+              role: subject
+            - person: person-amory-lorch
+              role: subject
+        properties:
+            description: "Jaqen H'ghar fulfills his oath to kill three men in exchange for Arya saving him, Rorge, and Biter from the burning wagon. First death: Weese (killed by his own dog). Second death: the Tickler (found dead after a fall). Third death: Ser Amory Lorch — Arya names Jaqen himself as her third target to force Jaqen's help in taking Harrenhal; Jaqen arranges Lorch's death by the Brave Companions' bear. After, Jaqen gives Arya an iron coin, says 'Valar morghulis,' and changes his face."

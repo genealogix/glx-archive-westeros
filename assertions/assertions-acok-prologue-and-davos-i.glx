@@ -1,0 +1,311 @@
+assertions:
+    assertion-stannis-rightful-claim:
+        subject:
+            person: person-stannis-baratheon
+        property: title
+        value: "King of the Seven Kingdoms (rightful heir by law)"
+        citations:
+            - citation-acok-prologue
+            - citation-acok-davos-i
+        confidence: high
+        status: accepted
+        notes: "Source text (Davos I, Stannis's proclamation read by Pylos): 'All men know me for the trueborn son of Steffon Baratheon, Lord of Storm's End, by his lady wife Cassana of House Estermont. I declare upon the honor of my House that my beloved brother Robert, our late king, left no trueborn issue of his body, the boy Joffrey, the boy Tommen, and the girl Myrcella being abominations born of incest between Cersei Lannister and her brother Jaime the Kingslayer. By right of birth and blood, I do this day lay claim to the Iron Throne.' In the prologue Cressen confirms: 'Stannis Baratheon, Lord of Dragonstone and by the grace of the gods rightful heir to the Iron Throne.'"
+
+    assertion-stannis-age-acok:
+        subject:
+            person: person-stannis-baratheon
+        property: born_on
+        value: "ABT 264"
+        citations:
+            - citation-acok-prologue
+        confidence: medium
+        status: accepted
+        notes: "Source text (Prologue): 'Though he was not yet five-and-thirty, only a fringe of thin black hair remained on his head.' ACOK is set in 299 AC. Five-and-thirty = 35, so born approximately 264 AC."
+
+    assertion-stannis-parents:
+        subject:
+            person: person-stannis-baratheon
+        property: parent
+        value: "Steffon Baratheon and Cassana Estermont"
+        citations:
+            - citation-acok-davos-i
+        confidence: high
+        status: proven
+        notes: "Source text (Davos I, Stannis's proclamation): 'All men know me for the trueborn son of Steffon Baratheon, Lord of Storm's End, by his lady wife Cassana of House Estermont.' This is Stannis's own formal statement confirming his parentage."
+
+    assertion-stannis-renly-brothers:
+        subject:
+            person: person-stannis-baratheon
+        property: sibling
+        value: person-renly-baratheon
+        citations:
+            - citation-acok-prologue
+        confidence: high
+        status: proven
+        notes: "Source text (Prologue): Cressen reflects 'I never wanted Cressen at that feast. He'd angered me...I did not want him dead.' Stannis refers repeatedly to 'my brother Renly' and 'my charming young brother.' Confirmed sibling relationship between Stannis and Renly Baratheon."
+
+    assertion-shireen-age-acok:
+        subject:
+            person: person-shireen-baratheon
+        property: born_on
+        value: "ABT 289"
+        citations:
+            - citation-acok-prologue
+        confidence: high
+        status: accepted
+        notes: "Source text (Prologue): 'She would be ten on her next name day.' ACOK set in 299 AC, so Shireen born approximately 289 AC. She had greyscale that 'had almost claimed her in the crib.'"
+
+    assertion-shireen-greyscale:
+        subject:
+            person: person-shireen-baratheon
+        property: notes
+        value: "Survived greyscale as an infant; left half her face and neck stiff, cracked, and mottled black and grey"
+        citations:
+            - citation-acok-prologue
+        confidence: high
+        status: proven
+        notes: "Source text (Prologue): 'A cross half one cheek and well down her neck, her flesh was stiff and dead, the skin cracked and flaking, mottled black and grey and stony to the touch.' The greyscale 'had almost claimed her in the crib.'"
+
+    assertion-patchface-origin:
+        subject:
+            person: person-patchface
+        property: notes
+        value: "Found in Volantis as a boy, bought by Lord Steffon Baratheon; survived the wreck of the Windproud in Shipbreaker Bay; left broken in body and mind"
+        citations:
+            - citation-acok-prologue
+        confidence: high
+        status: proven
+        notes: "Source text (Prologue): 'Lord Steffon of cherished memory had found him in Volantis, across the narrow sea. The king—Aerys II Targaryen—had sent his lordship to seek a bride for Prince Rhaegar... We have found the most splendid fool... he juggles and riddles and does magic, and he can sing prettily in four tongues. We have bought his freedom.' The ship Windproud broke up in Shipbreaker Bay; Patchface washed up after two days, broken in mind. His face was tattooed in Volantene slave fashion: 'from neck to scalp the boy's skin had been patterned in squares of red and green motley.'"
+
+    assertion-cressen-death-poisoning:
+        subject:
+            person: person-cressen
+        property: cause_of_death
+        value: "Poisoned himself while attempting to poison Melisandre"
+        citations:
+            - citation-acok-prologue
+            - citation-acok-davos-i
+        confidence: high
+        status: proven
+        notes: "Source text (Davos I): 'He had seen the maester slip something into the wine cup. Poison. What else could it be? He drank a cup of death to free Stannis from Melisandre, but somehow her god shielded her.' The Prologue depicts the act itself. Cressen poisoned the wine, offered it to Melisandre, drank himself. Melisandre survived; Cressen died."
+
+    assertion-melisandre-ruby-immunity:
+        subject:
+            person: person-melisandre
+        property: notes
+        value: "Survived Cressen's poison at Dragonstone, apparently protected by her ruby and the power of R'hllor"
+        citations:
+            - citation-acok-prologue
+            - citation-acok-davos-i
+        confidence: high
+        status: proven
+        notes: "Source text (Davos I): 'He drank a cup of death to free Stannis from Melisandre, but somehow her god shielded her.' The Prologue shows Melisandre drinking from the shared cup and surviving. Cressen's last thought is of the ruby at her throat."
+
+    assertion-melisandre-origin-asshai:
+        subject:
+            person: person-melisandre
+        property: notes
+        value: "Lady Melisandre of Asshai; reads from 'ancient books of Asshai'"
+        citations:
+            - citation-acok-davos-i
+        confidence: high
+        status: accepted
+        notes: "Source text (Davos I): Melisandre speaks during the ceremony — 'In ancient books of Asshai it is written that there will come a day after a long summer when the stars bleed...' Her full title 'Lady Melisandre of Asshai' is established in the ACOK appendix."
+
+    assertion-selyse-florent-religion:
+        subject:
+            person: person-selyse-florent
+        property: religion
+        value: "R'hllor"
+        citations:
+            - citation-acok-prologue
+        confidence: high
+        status: proven
+        notes: "Source text (Prologue): 'The red woman had won her, heart and soul, turning her from the gods of the Seven Kingdoms, both old and new, to worship the one they called the Lord of Light.' Selyse echoes Melisandre's prayers during the burning ceremony and is foremost among the queen's men."
+
+    assertion-stannis-dragonstone-seat:
+        subject:
+            person: person-stannis-baratheon
+        property: title
+        value: "Lord of Dragonstone"
+        citations:
+            - citation-acok-prologue
+        confidence: high
+        status: proven
+        notes: "Source text (Prologue): 'Stannis Baratheon, Lord of Dragonstone and by the grace of the gods rightful heir to the Iron Throne.' Stannis resents having been given Dragonstone by Robert instead of Storm's End: 'I never asked for Dragonstone. I never wanted it... he gives Storm's End and its incomes to Renly.'"
+
+    assertion-davos-sons-named:
+        subject:
+            person: person-davos-seaworth
+        property: notes
+        value: "Sons Dale, Allard, Matthos, Maric, Devan (squire to Stannis), and two younger boys Stannis and Steffon"
+        citations:
+            - citation-acok-davos-i
+        confidence: high
+        status: proven
+        notes: "Source text (Davos I): 'Dale and Allard captained galleys as well, Maric was oarmaster on the Fury, Matthos served his father on Black Betha, and the king had taken Devan as a royal squire.' Also: 'Marya was mistress of a small keep on Cape Wrath.' Sons Stannis and Steffon are named as younger boys who have learned their letters. Four sons (Dale, Allard, Matthos, Maric) died at the Blackwater."
+
+    assertion-davos-wife-marya:
+        subject:
+            person: person-davos-seaworth
+        property: notes
+        value: "Wife is Marya, a carpenter's daughter; mistress of a small keep on Cape Wrath"
+        citations:
+            - citation-acok-davos-i
+        confidence: high
+        status: proven
+        notes: "Source text (Davos I): 'Marya was mistress of a small keep on Cape Wrath, with servants who called her m'lady.' Davos also reflects: 'When he thought of Nissa Nissa, it was his own Marya he pictured, a good-natured plump woman with sagging breasts and a kindly smile, the best woman in the world.'"
+
+    assertion-davos-knighted-siege-storms-end:
+        subject:
+            person: person-davos-seaworth
+        property: notes
+        value: "Knighted by Stannis Baratheon after smuggling onions and salt fish past the Redwyne blockade to relieve the garrison at Storm's End during Robert's Rebellion"
+        citations:
+            - citation-acok-prologue
+        confidence: high
+        status: proven
+        notes: "Source text (Prologue): 'Lord Stannis and a small garrison had held the castle for close to a year, against the great host of the Lords Tyrell and Redwyne... Cloaked in that darkness, Davos the smuggler had dared the Redwyne cordon... His little ship had a black hull, black sails, black oars, and a hold crammed with onions and salt fish... it had kept the garrison alive long enough for Eddard Stark to reach Storm's End and break the siege. Lord Stannis had rewarded Davos with choice lands on Cape Wrath, a small keep, and a knight's honours — but he had also decreed that he lose a joint of each finger on his left hand, to pay for all his years of smuggling.' Davos submitted on the condition that Stannis wield the knife himself."
+
+    assertion-renly-rainbow-guard-established:
+        subject:
+            person: person-renly-baratheon
+        property: notes
+        value: "Established the Rainbow Guard as his own Kingsguard, each of the seven wearing a different color; Loras Tyrell serves as Lord Commander"
+        citations:
+            - citation-acok-prologue
+        confidence: high
+        status: proven
+        notes: "Source text (Prologue, Davos reporting to Cressen): 'Renly's made his own Kingsguard, but these seven don't wear white. Each one has his own color. Loras Tyrell's their Lord Commander.' Bryce the Orange is mentioned as one of the Rainbow Guard (Bryce Caron)."
+
+    assertion-renly-age-acok:
+        subject:
+            person: person-renly-baratheon
+        property: notes
+        value: "One-and-twenty years of age at the opening of ACOK (299 AC)"
+        citations:
+            - citation-acok-prologue
+        confidence: high
+        status: proven
+        notes: "Source text (Prologue): 'The bold little boy with wild black hair and laughing eyes was a man grown now, one-and-twenty, and still he played his games.' Cressen reflecting on Renly as he knew him as a child at Storm's End."
+
+    assertion-stannis-lightbringer-ceremony:
+        subject:
+            person: person-stannis-baratheon
+        property: notes
+        value: "Participated in ceremony at Dragonstone where he drew a flaming sword from the burning statues of the Seven; Melisandre proclaimed it Lightbringer and Stannis as Azor Ahai reborn"
+        citations:
+            - citation-acok-davos-i
+        confidence: high
+        status: accepted
+        notes: "Source text (Davos I): 'Stannis Baratheon strode forward like a soldier marching into battle... The king plunged into the fire with his teeth clenched... He went straight to the Mother, grasped the sword with his gloved hand, and wrenched it free... Then he was retreating, the sword held high, jade-green flames swirling around cherry-red steel.' Melisandre proclaimed: 'Behold Lightbringer! Azor Ahai has come again!' Salladhor Saan and Davos are skeptical: 'That sword was not Lightbringer.' The sword was described as a 'burnt sword' rather than the prophesied Lightbringer."
+
+    assertion-stannis-proclamation-joffrey-illegitimate:
+        subject:
+            person: person-stannis-baratheon
+        property: notes
+        value: "Proclaimed via raven letter to all lords that Joffrey, Tommen, and Myrcella are bastards born of incest between Cersei Lannister and her brother Jaime"
+        citations:
+            - citation-acok-davos-i
+        confidence: high
+        status: proven
+        notes: "Source text (Davos I, Pylos reading the letter): 'my beloved brother Robert, our late king, left no trueborn issue of his body, the boy Joffrey, the boy Tommen, and the girl Myrcella being abominations born of incest between Cersei Lannister and her brother Jaime the Kingslayer.' Stannis ordered 117 ravens dispatched with copies of this letter. Davos was sent north to deliver letters by ship; his son Dale sent south; another son sent across the narrow sea."
+
+    assertion-edric-storm-roberts-bastard:
+        subject:
+            person: person-edric-storm
+        property: notes
+        value: "Robert Baratheon fathered Edric Storm on Delena Florent in the marriage bed prepared for Stannis and Selyse on their wedding night; Robert acknowledged the child"
+        citations:
+            - citation-acok-davos-i
+        confidence: high
+        status: proven
+        notes: "Source text (Davos I): Stannis says: 'There's proof of a sort at Storm's End. Robert's bastard. The one he fathered on my wedding night, in the very bed they'd made up for me and my bride. Delena was a Florent, and a maiden when he took her, so Robert acknowledged the babe. Edric Storm, they call him. He is said to be the very image of my brother.' Stannis describes this as an outrage and a humiliation."
+
+    assertion-aeron-greyjoy-drowned-and-reborn:
+        subject:
+            person: person-aeron-greyjoy
+        property: notes
+        value: "Was once a jovial man fond of ale and songs; went down in a storm, nearly drowned, and emerged as a devout priest of the Drowned God called Damphair"
+        citations:
+            - citation-acok-theon-i
+        confidence: high
+        status: proven
+        notes: "Source text (Theon I): Theon reflects that 'In one of his rare curt letters, Lord Balon had written of his youngest brother going down in a storm, and turning holy when he washed up safe on shore.' Aeron tells Theon: 'Young I was, and vain, but the sea washed my follies and my vanities away. That man drowned, nephew. His lungs filled with seawater, and the fish ate the scales off his eyes. When I rose again, I saw clearly.'"
+
+    assertion-theon-ward-ten-years:
+        subject:
+            person: person-theon-greyjoy
+        property: notes
+        value: "Spent approximately ten years as ward/hostage at Winterfell under Lord Eddard Stark, taken after the Greyjoy Rebellion when he was ten years old"
+        citations:
+            - citation-acok-theon-i
+        confidence: high
+        status: proven
+        notes: "Source text (Theon I): 'Ten years, or close as makes no matter. I was a boy of ten when I was taken to Winterfell as a ward of Eddard Stark.' Also: 'Nine years, is it?' Lord Balon said. 'Ten,' Theon answered. Balon: 'A boy they took. What are you now?' Theon: 'A man. Your blood and your heir.'"
+
+    assertion-rodrik-greyjoy-death:
+        subject:
+            person: person-rodrik-greyjoy
+        property: cause_of_death
+        value: "Slain by Lord Jason Mallister at Seagard during the Greyjoy Rebellion"
+        citations:
+            - citation-acok-theon-i
+        confidence: high
+        status: proven
+        notes: "Source text (Theon I): 'Rodrik had been slain by Lord Jason Mallister at Seagard.' Also: 'When my brother stormed Seagard, Lord Jason had slain Rodrik Greyjoy under the walls of the castle, and thrown the ironmen back into the bay.' Theon remembers Rodrik chiefly for his 'drunken cuffs.'"
+
+    assertion-maron-greyjoy-death:
+        subject:
+            person: person-maron-greyjoy
+        property: cause_of_death
+        value: "Crushed in the collapse of the old south tower of Pyke during the Greyjoy Rebellion"
+        citations:
+            - citation-acok-theon-i
+        confidence: high
+        status: proven
+        notes: "Source text (Theon I): 'Maron [was] crushed in the collapse of the old south tower [of Pyke].' Theon remembers Maron for his 'cruel japes and endless lies.' The new south tower at Pyke was built after the rebellion, its stone still a paler shade of grey. Robert Baratheon made the breach that collapsed the south tower."
+
+    assertion-balon-rejects-robb-alliance:
+        subject:
+            person: person-balon-greyjoy
+        property: notes
+        value: "Rejected Robb Stark's offer of alliance; declared his own plan to attack and seize the North while Robb fought in the south"
+        citations:
+            - citation-acok-theon-i
+        confidence: high
+        status: proven
+        notes: "Source text (Theon I): Lord Balon burns Robb's letter and says: 'What is given can be taken away... I mean to carve out a kingdom with fire and sword... but not from the west, and not at the bidding of King Robb the Boy... I hunger for a different plum... not so juicy sweet, to be sure, yet it hangs there ripe and undefended.' The undefended plum is the North, left with only a skeleton garrison while Robb's forces are in the south."
+
+    assertion-catelyn-robb-peace-terms:
+        subject:
+            person: person-stannis-baratheon
+        property: notes
+        value: "Robb Stark sent peace terms to Cersei: return of sisters, return of Ned's bones and Ice, release of Lannister captives, recognition of Northern independence"
+        citations:
+            - citation-acok-catelyn-i
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn I): Robb's terms to Cersei read aloud in the great hall of Riverrun include: (1) release of Sansa and Arya; (2) Ned's bones and household guard remains returned to Winterfell; (3) Ice (Ned's greatsword) returned; (4) release of northern/riverland captives held by Tywin; (5) recognition of an independent North including the Trident. Cersei never accepted these terms."
+
+    assertion-stafford-lannister-new-army:
+        subject:
+            person: person-stafford-lannister
+        property: notes
+        value: "Raising new Lannister levies at Casterly Rock to reinforce Tywin's army; his son Ser Daven Lannister described as more formidable"
+        citations:
+            - citation-acok-catelyn-i
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn I): Brynden Tully reports: 'Ser Stafford Lannister, it's said.' Catelyn: 'Another nephew?' Brynden: 'Cousin. Brother to Lord Tywin's late wife, so twice related. An old man and a bit of a dullard, but he has a son, Ser Daven, who is more formidable.' Stafford was later killed at the Battle of Oxcross."
+
+    assertion-hoster-tully-dying:
+        subject:
+            person: person-hoster-tully
+        property: notes
+        value: "Dying of illness at Riverrun by early ACOK; delirious, weakened, in constant pain managed with dreamwine and milk of the poppy"
+        citations:
+            - citation-acok-catelyn-i
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn I): 'Hoster Tully, Lord of Riverrun, lay abed in his solar... He was sleeping when Catelyn entered, his hair and beard as white as his featherbed, his once portly frame turned small and frail by the death that grew within him.' Catelyn: 'The maester gives him dreamwine and milk of the poppy for his pain, so he sleeps most of the time... He talks of his regrets, of unfinished tasks, of people long dead... Sometimes he does not know what season it is, or who I am.'"

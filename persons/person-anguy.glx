@@ -1,0 +1,9 @@
+persons:
+    person-anguy:
+        properties:
+            name:
+                value: "Anguy"
+                fields:
+                    given: "Anguy"
+            gender: male
+        notes: "Unheralded commoner from the Dornish Marches. Won the archery competition at the Hand's tourney in King's Landing (~298 AC), outshooting Ser Balon Swann and Jalabhar Xho at one hundred paces. Ned Stark offered him a position with the Hand's guard, but Anguy refused, being flush with wine, victory, and prize money."

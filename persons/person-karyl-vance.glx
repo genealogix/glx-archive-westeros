@@ -1,0 +1,13 @@
+persons:
+    person-karyl-vance:
+        properties:
+            gender: male
+            name:
+                value: "Karyl Vance"
+                fields:
+                    given: Karyl
+                    surname: Vance
+            house: Vance
+            title:
+                - value: Ser
+        notes: "A knight of House Vance in the Riverlands. Described as 'sad-eyed' and handsome but for a winestain birthmark that discolored his face. He brought survivors of the Gregor Clegane raids (at Sherrer, Wendish Town, and the Mummer's Ford) before Ned Stark on the Iron Throne. He was attending his father at the pass below the Golden Tooth when the raids occurred."

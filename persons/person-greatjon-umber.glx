@@ -1,0 +1,15 @@
+persons:
+    person-greatjon-umber:
+        properties:
+            name:
+                value: "Jon Umber"
+                fields:
+                    given: "Jon"
+                    surname: "Umber"
+            gender: male
+            alias:
+                - value: "The Greatjon"
+            house: "Umber"
+            title:
+                - value: "Lord of the Last Hearth"
+        notes: "Lord Jon Umber, called the Greatjon, is the lord of Last Hearth and head of House Umber. A huge, immensely strong man. He was one of Robb Stark's bannermen who first followed Robb south to war. He was the first lord to draw his sword and declare Robb 'The King in the North' at the war council in Riverrun's Great Hall (Catelyn XI, AGOT). He had commanded a warhorn during the Battle of the Whispering Wood. His son Smalljon Umber was also part of Robb's battle guard."

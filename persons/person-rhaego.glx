@@ -1,0 +1,11 @@
+persons:
+    person-rhaego:
+        properties:
+            gender: male
+            name:
+                value: Rhaego
+                fields:
+                    given: Rhaego
+            house: Targaryen
+            born_on: "299"
+        notes: "Unborn son of Daenerys Targaryen and Khal Drogo, named during the horse-heart ceremony at Vaes Dothrak. Named by Daenerys after her dead brother Rhaegar Targaryen. The dosh khaleen prophesied he would be the 'Stallion Who Mounts the World' — the khal of khals who would unite all Dothraki and ride to the ends of the earth. He was stillborn after Daenerys's life was saved by the maegi Mirri Maz Duur."

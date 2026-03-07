@@ -1,0 +1,13 @@
+events:
+    event-death-mandon-moore:
+        type: death
+        date: "299"
+        place: place-blackwater-bay
+        participants:
+            - person: person-mandon-moore
+              role: subject
+            - person: person-podrick-payne
+              role: agent
+        properties:
+            cause: "Pushed into the Blackwater River by Podrick Payne after attempting to assassinate Tyrion Lannister"
+            description: "Ser Mandon Moore attacked Tyrion Lannister on the bridge of boats during the Battle of the Blackwater, slashing his face open in an apparent assassination attempt. He had extended his left hand as if to help Tyrion, then struck with his sword. As Moore moved to deliver the killing blow, Podrick Payne shoved him into the river. He drowned."

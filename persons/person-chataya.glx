@@ -1,0 +1,10 @@
+persons:
+    person-chataya:
+        properties:
+            gender: female
+            name:
+                value: Chataya
+                fields:
+                    given: Chataya
+            occupation: brothel-keeper
+        notes: "Owner of a high-class brothel in King's Landing. A tall, elegant woman with skin as black as ink. She allowed Robert's paramour Barra's mother to stay for half a year after the baby was born, hoping the king would return. Littlefinger considered purchasing the establishment, saying 'Brothels are a much sounder investment than ships.'"

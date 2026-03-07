@@ -1,0 +1,44 @@
+assertions:
+    assertion-rhaego-name:
+        subject:
+            person: person-rhaego
+        property: name
+        value: Rhaego
+        citations:
+            - citation-agot-daenerys-v
+        confidence: high
+        status: proven
+        notes: "Source text: Daenerys declared: 'He shall be called Rhaego.' Named by Daenerys after her dead brother Rhaegar Targaryen."
+
+    assertion-rhaego-mother:
+        subject:
+            person: person-rhaego
+        property: parent
+        value: person-daenerys-targaryen-304
+        citations:
+            - citation-agot-daenerys-v
+        confidence: high
+        status: proven
+        notes: "Daenerys Targaryen was pregnant with Rhaego during the horse-heart ceremony at Vaes Dothrak. She named the unborn child Rhaego."
+
+    assertion-rhaego-father:
+        subject:
+            person: person-rhaego
+        property: parent
+        value: person-khal-drogo
+        citations:
+            - citation-agot-daenerys-v
+        confidence: high
+        status: proven
+        notes: "Khal Drogo is the father of Daenerys's unborn child Rhaego. The dosh khaleen prophesied he would be the Stallion Who Mounts the World."
+
+    assertion-rhaego-prophecy:
+        subject:
+            person: person-rhaego
+        property: alias
+        value: "The Stallion Who Mounts the World"
+        citations:
+            - citation-agot-daenerys-v
+        confidence: high
+        status: accepted
+        notes: "Source text: 'The prince is riding, and he shall be the stallion who mounts the world.' The dosh khaleen prophesied that Rhaego would be the khal of khals, uniting all Dothraki into one khalasar and riding to the ends of the earth. The prophecy was unfulfilled as Rhaego was stillborn."

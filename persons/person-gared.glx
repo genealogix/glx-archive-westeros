@@ -1,0 +1,11 @@
+persons:
+    person-gared:
+        properties:
+            name:
+                value: "Gared"
+                fields:
+                    given: "Gared"
+            gender: male
+            died_on: "298"
+            cause_of_death: "Execution"
+        notes: "Man-at-arms of the Night's Watch. Past fifty, with forty years of service in the Watch. Lost both ears and three toes to frostbite. Survived the encounter with the Others in the Prologue. Fled south as a deserter. Executed by Lord Eddard Stark at a holdfast in the hills north of Winterfell (Bran I). Believed by Robb to be a wildling sworn to Mance Rayder."

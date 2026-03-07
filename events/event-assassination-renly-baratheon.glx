@@ -1,0 +1,19 @@
+events:
+    event-assassination-renly-baratheon:
+        type: death
+        date: "299"
+        place: place-storms-end
+        participants:
+            - person: person-renly-baratheon
+              role: subject
+            - person: person-stannis-baratheon
+              role: instigator
+            - person: person-melisandre
+              role: agent
+            - person: person-catelyn-stark
+              role: witness
+            - person: person-brienne-tarth
+              role: witness
+        properties:
+            description: "Renly Baratheon was killed in his tent at Storm's End by a shadow creature birthed by Melisandre using Stannis's life force. Catelyn Stark and Brienne of Tarth were present. Brienne was falsely accused and fled with Catelyn."
+            also_known_as: "Murder of Renly Baratheon"

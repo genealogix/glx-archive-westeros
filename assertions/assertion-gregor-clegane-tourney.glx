@@ -1,0 +1,33 @@
+assertions:
+    assertion-gregor-clegane-size:
+        subject:
+            person: person-gregor-clegane
+        property: physical_description
+        value: "Well over seven feet tall, closer to eight; massive shoulders; arms thick as small tree trunks"
+        citations:
+            - citation-agot-eddard-v
+        confidence: high
+        status: accepted
+        notes: "Source text: 'He was huge, the biggest man that Eddard Stark had ever seen. Robert Baratheon and his brothers were all big men, as was the Hound, and back at Winterfell there was a simpleminded stableboy named Hodor who dwarfed them all, but the knight they called the Mountain That Rides would have towered over Hodor. He was well over seven feet tall, closer to eight, with massive shoulders and arms thick as the trunks of small trees.' POV: Eddard. Directly observed. Compared to Hodor (already noted as exceptionally large)."
+
+    assertion-gregor-clegane-aegon-targaryen-infant:
+        subject:
+            person: person-gregor-clegane
+        property: suspected_atrocity
+        value: "Suspected of killing infant Prince Aegon Targaryen and raping Princess Elia Martell"
+        citations:
+            - citation-agot-eddard-v
+        confidence: low
+        status: suspected
+        notes: "Source text: 'Some said it had been Gregor who'd dashed the skull of the infant prince Aegon Targaryen against a wall, and whispered that afterward he had raped the mother, the Dornish princess Elia, before putting her to the sword. These things were not said in Gregor's hearing.' POV: Eddard, reported as rumor/gossip. The text uses 'some said' and 'whispered' — this is hearsay, not confirmed. Confidence low, status suspected. Later books (ASOS) and explicit Lannister involvement provide more evidence but this citation alone is rumor."
+
+    assertion-sandor-clegane-left-brothers-keep:
+        subject:
+            person: person-sandor-clegane
+        property: background
+        value: "Left Gregor's keep the same day Gregor inherited it, never returned"
+        citations:
+            - citation-agot-eddard-v
+        confidence: high
+        status: accepted
+        notes: "Source text: 'Gregor had inherited the keep, the gold, and the family estates. His younger brother Sandor had left the same day to take service with the Lannisters as a sworn sword, and it was said that he had never returned, not even to visit.' Combined with the reference to Gregor having set the fire that burned Sandor's face, this explains Sandor's deep hatred of his brother and his loyalty to the Lannisters as escape from Gregor's shadow."

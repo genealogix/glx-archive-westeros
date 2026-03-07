@@ -1,0 +1,55 @@
+assertions:
+    assertion-ned-stark-cause-of-death:
+        subject:
+            person: person-eddard-stark
+        property: cause_of_death
+        value: "Execution by beheading"
+        citations:
+            - citation-agot-arya-v
+        confidence: high
+        status: proven
+        notes: "Eddard Stark was beheaded at the Great Sept of Baelor by Ser Ilyn Payne on the orders of King Joffrey Baratheon. The blade used was Ice, Ned's own Valyrian steel greatsword. Witnessed directly by Arya from the crowd (she was stopped by Yoren before the blow fell, but heard the crowd's reaction) and by Sansa who was brought to witness. Source: 'Ser Ilyn drew a two-handed greatsword from the scabbard on his back. As he lifted the blade above his head, sunlight seemed to ripple and dance down the dark metal, glinting off an edge sharper than any razor. Ice, she thought, he has Ice!'"
+
+    assertion-ned-stark-death-date:
+        subject:
+            person: person-eddard-stark
+        property: died_on
+        value: "299"
+        citations:
+            - citation-agot-arya-v
+        confidence: high
+        status: proven
+        notes: "Ned was executed in 299 AC at the Great Sept of Baelor, King's Landing."
+
+    assertion-ned-stark-false-confession:
+        subject:
+            event: event-execution-ned-stark
+        property: description
+        value: "Ned's confession of treason was false — given in exchange for Joffrey's implied promise of mercy (the black). Joffrey broke that promise."
+        citations:
+            - citation-agot-arya-v
+        confidence: high
+        status: proven
+        notes: "Ned confessed publicly: 'I am Eddard Stark ... and I come before you to confess my treason.' He also proclaimed Joffrey the true king. This was a false confession made to protect his daughters (Sansa was held hostage) and in hope of being sent to the Wall rather than executed. Joffrey then ordered his execution anyway, overruling Cersei and Varys who both moved to stop it."
+
+    assertion-ilyn-payne-executioner-ned:
+        subject:
+            person: person-ilyn-payne
+        property: role
+        value: "executioner at the execution of Eddard Stark"
+        citations:
+            - citation-agot-arya-v
+        confidence: high
+        status: proven
+        notes: "Ser Ilyn Payne, King's Justice, carried out the execution using Ice — Ned's own ancestral Valyrian steel greatsword. Source from Arya V: 'Ser Ilyn Payne gestured and the knight in black-and-gold gave a command. The gold cloaks flung Lord Eddard to the marble, with his head and chest out over the edge. Ser Ilyn drew a two-handed greatsword from the scabbard on his back.'"
+
+    assertion-yoren-saved-arya:
+        subject:
+            person: person-yoren
+        property: role
+        value: "rescued Arya Stark from the crowd at Ned's execution and began smuggling her north"
+        citations:
+            - citation-agot-arya-v
+        confidence: high
+        status: proven
+        notes: "Yoren grabbed Arya from the crowd, shook her so her teeth rattled, told her 'Don't look!' and then cut her hair with his knife to disguise her as a boy before taking her north with a Night's Watch recruiting party. He had recognized her and acted to protect her. He is subsequently described as the man who escorted her disguised as 'Arry' in ACOK."

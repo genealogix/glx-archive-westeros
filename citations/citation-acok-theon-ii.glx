@@ -1,0 +1,8 @@
+citations:
+    citation-acok-theon-ii:
+        source: source-acok
+        properties:
+            locator: "Theon II"
+            text_from_source: "Lord Balon rose from the Seastone Chair. 'Have done with your drink and come to my solar,' he commanded his companions on the dais. 'We have plans to lay.'"
+            accessed: "2026-03-06"
+        notes: "Lord Balon reveals his plan: Theon to harry the Stony Shore, Asha to take Deepwood Motte, Victarion to take Moat Cailin. The Greyjoy attack on the North is ordered."

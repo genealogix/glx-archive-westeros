@@ -1,0 +1,10 @@
+persons:
+    person-ygritte:
+        properties:
+            name:
+                value: "Ygritte"
+                fields:
+                    given: "Ygritte"
+            gender: "female"
+            religion: "Old Gods"
+        notes: "A wildling woman. First encountered by Jon Snow and Qhorin Halfhand's ranging party in the Frostfangs; she is the survivor of a scouted group of wildlings. Jon is ordered to kill her but ultimately does not, and she is taken captive. She later becomes Jon's lover when he infiltrates Mance Rayder's host. Known for the saying 'You know nothing, Jon Snow.'"

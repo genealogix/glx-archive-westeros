@@ -1,0 +1,12 @@
+events:
+    event-stallion-ceremony-rhaego:
+        type: birth
+        date: "298"
+        place: place-vaes-dothrak
+        participants:
+            - person: person-daenerys-targaryen-304
+              role: subject
+            - person: person-khal-drogo
+              role: participant
+        properties:
+            description: "Daenerys ate the raw heart of a wild stallion in the sacred pit of Vaes Dothrak, proclaiming her unborn son's name: Rhaego. The crones of the dosh khaleen prophesied that Rhaego would be the Stallion Who Mounts the World — the khal of khals. This was the formal naming and prophecy ceremony for Daenerys's unborn child."

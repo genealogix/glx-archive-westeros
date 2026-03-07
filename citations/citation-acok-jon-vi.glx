@@ -1,0 +1,8 @@
+citations:
+    citation-acok-jon-vi:
+        source: source-acok
+        properties:
+            locator: "Jon VI"
+            text_from_source: "The hill jutted above the dense tangle of forest, rising solitary and sudden, its windswept heights visible from miles off. The wildlings called it the Fist of the First Men, rangers said. It did look like a fist, Jon Snow thought, punching up through earth and wood, its bare brown slopes knuckled with stone."
+            accessed: "2026-03-06"
+        notes: "The Night's Watch reaches the Fist of the First Men and makes camp to await Qhorin Halfhand. Lord Commander Mormont awaits the Halfhand before deciding how to confront Mance Rayder's gathering host."

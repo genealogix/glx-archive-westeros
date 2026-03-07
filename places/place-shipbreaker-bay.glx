@@ -1,0 +1,8 @@
+places:
+    place-shipbreaker-bay:
+        name: "Shipbreaker Bay"
+        type: landmark
+        parent: place-the-stormlands
+        properties:
+            also_known_as: "The Bay below Storm's End"
+        notes: "The bay below Storm's End, notorious for its storms and ship-killing rocks. Lord Steffon Baratheon and his wife Cassana Estermont drowned here when their galley Windproud broke up within sight of Storm's End, witnessed from the castle walls by the young Stannis and Robert Baratheon. Named for the storms that smash ships on its rocks. The boy Patchface washed ashore here after surviving two days in the sea following the wreck (ACOK Prologue)."

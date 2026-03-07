@@ -1,0 +1,12 @@
+persons:
+    person-syrio-forel:
+        properties:
+            name:
+                value: "Syrio Forel"
+                fields:
+                    given: "Syrio"
+                    surname: "Forel"
+            title:
+                - value: "First Sword of Braavos"
+            gender: male
+        notes: "Braavosi water dancer. Former First Sword of Braavos. Hired by Eddard Stark to teach Arya Stark swordsmanship in King's Landing. Taught Arya the Braavosi 'water dancing' style suited to her slender blade (Needle). Unconventional training methods: blindfolded exercises to 'see with ears, nose and skin,' balancing on one leg, back flips, spinning, and catching cats. Maxim: 'Every hurt is a lesson, and every lesson makes you better.'"

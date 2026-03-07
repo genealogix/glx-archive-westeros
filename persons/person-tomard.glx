@@ -1,0 +1,12 @@
+persons:
+    person-tomard:
+        properties:
+            gender: male
+            name:
+                value: Tomard
+                fields:
+                    given: Tomard
+            alias:
+                - value: "Fat Tom"
+            house: Stark
+        notes: "A portly Winterfell guardsman with ginger-colored whiskers, called 'Fat Tom' by Ned's children. After Jory Cassel's death and Alyn's departure with Lord Beric Dondarrion, Fat Tom was given command of Ned's household guard in King's Landing. Ned trusted him to carry sensitive messages including his note to Cersei. He was near fifty and never especially energetic."

@@ -1,0 +1,33 @@
+assertions:
+    assertion-bran-wargs-three-eyed-crow:
+        subject:
+            person: person-bran-stark
+        property: greensight_dream
+        value: "Three-eyed crow dream before waking from coma"
+        citations:
+            - citation-agot-bran-iii
+        confidence: high
+        status: accepted
+        notes: "Source text: 'A crow was spiraling down with him... I'm trying, the crow replied... Now you know, the crow whispered as it sat on his shoulder. Now you know why you must live... Because winter is coming.' Bran fell in the dream and the three-eyed crow taught him to fly. The crow had 'three eyes, and the third eye was full of a terrible knowledge.' When Bran looked at the world below he saw: Maester Luwin, Robb in the yard, Hodor, the weirwood, his mother on a ship (with Ser Rodrik), Ned pleading with the king, Sansa crying, Arya holding secrets; and Jon at the Wall, and beyond the Wall into 'the heart of winter.' This establishes Bran as a greenseer/warg from his first appearance."
+
+    assertion-bran-names-wolf-summer:
+        subject:
+            person: person-bran-stark
+        property: direwolf
+        value: "Summer"
+        citations:
+            - citation-agot-bran-iii
+        confidence: high
+        status: accepted
+        notes: "Source text: Bran looked up calmly. 'His name is Summer,' he said. This is the first naming of Bran's direwolf. The wolf had grown considerably during Bran's coma and was now large enough to jump onto his bed."
+
+    assertion-jaime-golden-face-brans-dream:
+        subject:
+            person: person-bran-stark
+        property: repressed_memory
+        value: "Jaime Lannister's face in the falling dream"
+        citations:
+            - citation-agot-bran-iii
+        confidence: high
+        status: accepted
+        notes: "Source text: 'A face swam up at him out of the grey mist, shining with light, golden. The things I do for love, it said. Bran screamed. The crow took to the air, cawing. Not that, it shrieked at him. Forget that, you do not need it now, put it aside, put it away.' Bran's unconscious recalls Jaime Lannister's face and words immediately before pushing him from the tower. The crow (three-eyed raven) suppresses this memory. Jaime said 'the things I do for love' to Cersei before pushing Bran — this confirms Bran retained the memory even during the coma."

@@ -1,0 +1,8 @@
+places:
+    place-lordsport:
+        name: "Lordsport"
+        type: town
+        parent: place-the-iron-islands
+        properties:
+            seat_of: "House Botley"
+        notes: "A harbor village on Pyke, the seat of House Botley. Destroyed during Robert Baratheon's crushing of the Greyjoy Rebellion; rebuilt in stone over the following decade. Has a new inn, a harbor, and a small square keep crowned with pale green flags bearing the Botley sigil of a shoal of fish. The sept was never rebuilt after the war. First port of call for Theon Greyjoy on his return to the Iron Islands (ACOK Theon I)."

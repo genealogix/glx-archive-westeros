@@ -1,0 +1,35 @@
+events:
+    event-hands-tourney:
+        type: tournament
+        date: "298"
+        place: place-kings-landing
+        participants:
+            - person: person-sandor-clegane
+              role: participant
+            - person: person-jaime-lannister
+              role: participant
+            - person: person-gregor-clegane
+              role: participant
+            - person: person-loras-tyrell
+              role: participant
+            - person: person-thoros-of-myr
+              role: participant
+            - person: person-anguy
+              role: participant
+            - person: person-ser-hugh-of-the-vale
+              role: participant
+            - person: person-barristan-selmy
+              role: witness
+            - person: person-ned-stark
+              role: witness
+            - person: person-robert-baratheon-i
+              role: patron
+            - person: person-sansa-stark
+              role: spectator
+            - person: person-petyr-baelish
+              role: spectator
+            - person: person-renly-baratheon
+              role: spectator
+        properties:
+            also_known_as: "The Hand's Tourney"
+            description: "A great tournament held at King's Landing, nominally in honor of Ned Stark as Hand but against his wishes. Key jousting outcomes: Sandor Clegane defeated Jaime Lannister (second pass). Loras Tyrell defeated Ser Gregor Clegane using a mare in heat to unsettle Gregor's stallion. After losing, Gregor killed his horse and attacked Loras; Sandor intervened and the brothers fought until Robert halted it. Loras conceded the champion's purse to Sandor. Ser Hugh of the Vale was killed in the jousting — lance driven through throat under gorget. Anguy won the archery. Thoros of Myr won the melee with a flaming sword. Robert was talked out of participating in the melee by Ned and Ser Barristan. The prize was twenty thousand gold dragons."

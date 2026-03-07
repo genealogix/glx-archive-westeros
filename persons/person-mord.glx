@@ -1,0 +1,10 @@
+persons:
+    person-mord:
+        properties:
+            gender: male
+            name:
+                value: Mord
+                fields:
+                    given: Mord
+            occupation: gaoler
+        notes: "Turnkey (gaoler) at the Eyrie's sky cells. A large, brutish man weighing twenty stone with brown rotting teeth. The left side of his face is slick with scar where an axe cut off his ear and part of his cheek. He tormented Tyrion Lannister during his imprisonment, but was bribed with a promise of gold to deliver Tyrion's request for trial."

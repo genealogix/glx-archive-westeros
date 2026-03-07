@@ -1,0 +1,14 @@
+persons:
+    person-raymun-darry:
+        properties:
+            name:
+                value: "Raymun Darry"
+                fields:
+                    given: "Raymun"
+                    surname: "Darry"
+            title:
+                - value: "Ser"
+                - value: "Lord of Darry"
+            gender: male
+            house: "Darry"
+        notes: "Lord of Castle Darry in the Riverlands, a half day's ride south of the Trident. His family fought for Rhaegar Targaryen at the Trident; his three older brothers died there. Held an uneasy peace with King Robert, who appropriated his audience chamber during the search for Arya Stark and the butcher's boy (~298 AC). Ser Raymun 'guarded his look well' and was not pleased by the royal party's uninvited occupation."

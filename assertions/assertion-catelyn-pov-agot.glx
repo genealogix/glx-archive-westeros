@@ -1,0 +1,44 @@
+assertions:
+    assertion-catelyn-faith-of-seven:
+        subject:
+            person: person-catelyn-tully
+        property: religion
+        value: "Faith of the Seven"
+        citations:
+            - citation-agot-catelyn-i
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn I): 'Catelyn had been anointed with the seven oils and named in the rainbow of light that filled the sept of Riverrun. She was of the Faith, like her father and grandfather and his father before him. Her gods had names, and their faces were as familiar as the faces of her parents.' She also prayed to the seven faces of god in Jon II."
+
+    assertion-winterfell-hot-springs:
+        subject:
+            person: person-catelyn-tully
+        property: notes
+        value: "Winterfell was built over natural hot springs that heat the castle walls year-round"
+        citations:
+            - citation-agot-catelyn-ii
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn II): 'The castle had been built over natural hot springs, and the scalding waters rushed through its walls and chambers like blood through a man's body, driving the chill from the stone halls, filling the glass gardens with a moist warmth, keeping the earth from freezing.'"
+
+    assertion-lysa-arryn-letter-allegation:
+        subject:
+            person: person-lysa-tully
+        property: notes
+        value: "Sent secret letter to Catelyn alleging Lannisters (the queen) murdered Jon Arryn; letter concealed in false bottom of box with Myr lens; sealed in blue wax with moon-and-falcon of House Arryn"
+        citations:
+            - citation-agot-catelyn-i
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn I): 'In the blue wax was the moon-and-falcon seal of House Arryn. \"It's from Lysa.\"' And: 'Lysa says Jon Arryn was murdered... The Lannisters. The queen.' The letter was written in a private cipher the sisters shared as girls and hidden in the false bottom of a carved wooden box sent to Maester Luwin, containing a Myr lens as cover."
+
+    assertion-brandon-stark-elder-death:
+        subject:
+            person: person-brandon-stark-213
+        property: cause_of_death
+        value: "Execution by strangulation, ordered by Aerys II Targaryen"
+        citations:
+            - citation-agot-eddard-ii
+        confidence: high
+        status: proven
+        notes: "Source text (Eddard II): 'Brandon had been twenty when he died, strangled by order of the Mad King Aerys Targaryen only a few short days before he was to wed Catelyn Tully of Riverrun. His father had been forced to watch him die.' Brandon was betrothed to Catelyn; after his death, Ned (next eldest son) married Catelyn per custom."

@@ -1,0 +1,10 @@
+persons:
+    person-haggo:
+        properties:
+            gender: male
+            name:
+                value: Haggo
+                fields:
+                    given: Haggo
+            house: Dothraki
+        notes: "One of Khal Drogo's three bloodriders. Huge and silent, he often glowered as if he had forgotten who Daenerys was. He participated in the execution of Viserys Targaryen, helping restrain him while Drogo poured molten gold over his head."

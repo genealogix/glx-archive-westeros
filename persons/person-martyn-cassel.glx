@@ -1,0 +1,11 @@
+persons:
+    person-martyn-cassel:
+        properties:
+            gender: male
+            name:
+                value: "Martyn Cassel"
+                fields:
+                    given: Martyn
+                    surname: Cassel
+            house: Cassel
+        notes: "Father of Jory Cassel. He rode with Eddard Stark's party of seven to the Tower of Joy in the Red Mountains of Dorne during Robert's Rebellion, where three Kingsguard (Ser Arthur Dayne, Ser Oswell Whent, Ser Gerold Hightower) waited. He died in the fighting there. His son Jory was later buried beside him at Winterfell — 'his grandfather' (Jory's grandfather is whom Ned refers to, as Jory's father Martyn perished at the tower)."

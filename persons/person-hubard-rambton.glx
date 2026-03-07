@@ -1,0 +1,13 @@
+persons:
+    person-hubard-rambton:
+        properties:
+            gender: male
+            name:
+                value: Ser Hubard Rambton
+                fields:
+                    given: Hubard
+                    prefix: Ser
+                    surname: Rambton
+            title:
+                - value: "Ser"
+        notes: "A knight who led his three sons to the sept of Dragonstone to defend the statues of the Seven against Melisandre's followers who had come to burn them. The Rambtons slew four of the queen's men before being overwhelmed. Ser Hubard's two surviving sons were subsequently imprisoned at Dragonstone alongside Guncer Sunglass and Septon Barre (ACOK Davos I). One son was presumably killed in the fight."

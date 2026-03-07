@@ -1,0 +1,13 @@
+events:
+    event-death-luwin:
+        type: death
+        date: "299"
+        place: place-winterfell
+        participants:
+            - person: person-luwin
+              role: subject
+            - person: person-osha
+              role: witness
+        properties:
+            cause: "Mortal wounds sustained during the Sack of Winterfell; mercy-killed by Osha"
+            description: "Maester Luwin was mortally wounded during the Sack of Winterfell. Found dying in the godswood beneath the heart tree by Bran, Rickon, and their companions. He counseled the party to separate the princes for safety, then was mercy-killed by Osha at his own request."

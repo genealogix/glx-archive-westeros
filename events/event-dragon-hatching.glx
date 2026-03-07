@@ -1,0 +1,17 @@
+events:
+    event-dragon-hatching:
+        type: birth
+        date: "298"
+        participants:
+            - person: person-daenerys-targaryen-206
+              role: principal
+            - person: person-khal-drogo
+              role: subject
+            - person: person-mirri-maz-duur
+              role: subject
+            - person: person-jorah-mormont
+              role: witness
+        properties:
+            description: "Daenerys Targaryen walked into Khal Drogo's funeral pyre bearing three dragon eggs given as wedding gifts by Illyrio Mopatis. Mirri Maz Duur was bound to the pyre. When the fire died, Daenerys was found unharmed and surrounded by three newly-hatched dragons — the first dragons born in the world in over a century. The black-and-scarlet dragon was draped across her shoulders; the cream-and-gold dragon suckled at her left breast; the green-and-bronze dragon suckled at her right. Jorah Mormont found her and fell to his knees. The Dothraki remnant all pledged themselves to her. For the first time in hundreds of years, the world heard the music of dragons."
+            also_known_as: "Birth of the dragons"
+        notes: "The three dragons were later named: the black one Drogon (after Khal Drogo), the green one Rhaegal (after Rhaegar), and the cream one Viserion (after Viserys). This event confirmed Daenerys as the true blood of the dragon — fire cannot kill a dragon. The birth was apparently connected to the death of her son Rhaego, fulfilling Mirri Maz Duur's warning that 'only death can pay for life.' A red comet appeared in the sky at the moment Jhogo spied the first star."

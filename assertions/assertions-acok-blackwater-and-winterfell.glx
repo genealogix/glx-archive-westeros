@@ -1,0 +1,113 @@
+assertions:
+    assertion-blackwater-wildfire-chain:
+        subject:
+            event: event-battle-blackwater
+        property: description
+        value: "Tyrion used wildfire-stuffed hulks and a great chain across the Blackwater to trap and destroy Stannis's fleet"
+        citations:
+            - citation-acok-tyrion-xiv
+            - citation-acok-tyrion-xv
+            - citation-acok-davos-iii
+        confidence: high
+        status: proven
+        notes: "Confirmed from three POVs. Davos III (Stannis's side): 'With a grinding, splintering, tearing crash, Swordfish split the rotted hulk asunder... From inside her Davos saw green gushing from a thousand broken jars.' Tyrion XIV (King's Landing walls): 'He had stuffed full of King Aerys's fickle fruits... plumes of fire thirty and forty feet high danced upon the waters.' The chain appears at end of Davos III: 'The chain. Gods save us, they've raised the chain... a boom stretched taut, a bare two or three feet above the water.'"
+
+    assertion-blackwater-tyrion-sortie:
+        subject:
+            event: event-battle-blackwater
+        property: description
+        value: "Tyrion Lannister led a mounted sortie from the King's Gate against the battering ram, with Ser Mandon Moore and Podrick Payne"
+        citations:
+            - citation-acok-tyrion-xiv
+        confidence: high
+        status: proven
+        notes: "ACOK Tyrion XIV: 'Very well, I'll lead the sortie... Ser Mandon, you'll bear the king's banner. Pod, my helm... \"They say I'm half a man,\" he said. \"What does that make the lot of you?\" That shamed them well enough.' Sandor Clegane refused to lead the sortie. Tyrion routed the ram crew and fought along the riverfront."
+
+    assertion-mandon-moore-attacked-tyrion:
+        subject:
+            person: person-mandon-moore
+        property: status
+        value: "Attacked Tyrion Lannister on the bridge of boats; killed by Podrick Payne"
+        citations:
+            - citation-acok-tyrion-xiv
+            - citation-acok-tyrion-xv
+        confidence: high
+        status: proven
+        notes: "ACOK Tyrion XIV: 'Ser Mandon was holding out his left hand, why... The point slashed just beneath his eyes, and he felt its cold hard touch and then a blaze of pain... Ser Mandon put the point of his sword to the hollow of his throat and curled both hands around the hilt. And suddenly he lurched to the left, staggering into the rail. Wood split, and Ser Mandon Moore vanished with a shout and a splash.' Podrick Payne pushed Moore overboard. Tyrion's face was slashed open; he was scarred for life (referenced in ASOS appendix as 'wounded and scarred on the Blackwater')."
+
+    assertion-matthos-seaworth-killed-blackwater:
+        subject:
+            person: person-matthos-seaworth
+        property: cause_of_death
+        value: "Killed at the Battle of the Blackwater (wildfire)"
+        citations:
+            - citation-acok-davos-iii
+        confidence: high
+        status: proven
+        notes: "Matthos is named at Davos's side on Black Betha during the battle. ACOK Davos III: 'Matthos's shout alerted him... Matthos lent him a hand to help him back over the rail.' After the wildfire explosion, Davos thinks: 'My sons... but there was no way to look for them amidst the roaring chaos.' Black Betha is listed among the destroyed ships. Confirmed dead in ADWD appendix and in person-davos-seaworth notes: 'Sons Dale, Allard, Matthos, and Maric were killed at the Battle of the Blackwater.'"
+
+    assertion-allard-seaworth-killed-blackwater:
+        subject:
+            person: person-allard-seaworth
+        property: cause_of_death
+        value: "Killed at the Battle of the Blackwater (wildfire)"
+        citations:
+            - citation-acok-davos-iii
+        confidence: high
+        status: proven
+        notes: "Allard commanded Lady Marya alongside Davos's Black Betha. ACOK Davos III: 'He saw one shatter on the deck of Lady Marya, but Allard's crew quickly beat it out.' Lady Marya is listed among the burning ships. Confirmed dead in ADWD appendix listing."
+
+    assertion-imry-florent-commanded-stannis-fleet:
+        subject:
+            person: person-imry-florent
+        property: role
+        value: "Commander of Stannis Baratheon's fleet at the Battle of the Blackwater"
+        citations:
+            - citation-acok-davos-iii
+        confidence: high
+        status: proven
+        notes: "ACOK Davos III: 'this time he had chosen to ride with his army, trusting Fury and the command of his fleet to his wife's brother Ser Imry, who'd come over to his cause at Storm's End with Lord Alester and all the other Florents.'"
+
+    assertion-ramsay-bolton-burned-winterfell:
+        subject:
+            event: event-sack-winterfell
+        property: description
+        value: "Ramsay Snow (Bastard of Bolton) and his men burned Winterfell, not the ironborn"
+        citations:
+            - citation-acok-bran-vii
+        confidence: high
+        status: proven
+        notes: "ACOK Bran VII: Osha and Bran find corpses of both ironborn and Bolton men in the burned castle. Osha points out a badge: 'A little man, all red.' Bran: 'The flayed man of the Dreadfort.' This confirms Ramsay's forces carried out the actual burning. Theon's men are also found dead, implying they were killed when the Boltons took the castle. The archive note in event-sack-winterfell correctly states this but without a direct citation."
+
+    assertion-luwin-death-sack-winterfell:
+        subject:
+            person: person-luwin
+        property: cause_of_death
+        value: "Mortally wounded in the Sack of Winterfell; mercy-killed by Osha in the godswood"
+        citations:
+            - citation-acok-bran-vii
+        confidence: high
+        status: proven
+        notes: "ACOK Bran VII: 'On the edge of the black pool, beneath the shelter of the heart tree, Maester Luwin lay on his belly in the dirt. A trail of blood twisted back through damp leaves where he had crawled... \"I'm dying, woman.\"... Osha joined them in the yard a few moments later. She said no word of Maester Luwin.' He was mercy-killed by Osha at his own request (implied — she sent the children away, then joined them saying nothing)."
+
+    assertion-bran-escapes-winterfell-crypts:
+        subject:
+            person: person-brandon-stark-bran
+        property: status
+        value: "Escaped the Sack of Winterfell by hiding in the crypts with Rickon, Hodor, Osha, Meera Reed, and Jojen Reed"
+        citations:
+            - citation-acok-bran-vii
+        confidence: high
+        status: proven
+        notes: "ACOK Bran VII: 'We never went. Well, only to the edge, and then doubled back. I sent the wolves on to make a trail, but we hid in Father's tomb.' The six fugitives hid in the Stark crypts beneath Winterfell. After the fires died, Hodor forced open the crypt door and they emerged to find the castle burned. Bran and the Reeds departed through the Hunter's Gate heading north. Rickon and Osha departed through the East Gate heading toward the kingsroad."
+
+    assertion-bran-party-splits-north:
+        subject:
+            person: person-brandon-stark-bran
+        property: status
+        value: "Departed Winterfell north with Hodor, Meera Reed, and Jojen Reed; Rickon departed east with Osha"
+        citations:
+            - citation-acok-bran-vii
+        confidence: high
+        status: proven
+        notes: "ACOK Bran VII: Maester Luwin's dying words — 'The princes... Robb's heirs. Not... not together... do you hear?' Osha decided: 'I'll take Rickon with me... I'll try the East Gate, and follow the kingsroad a ways.' Meera said: 'We'll take the Hunter's Gate.' Jojen announced: 'Our road is north.' This separation continues through ASOS and ADWD."

@@ -1,0 +1,11 @@
+persons:
+    person-allard-seaworth:
+        properties:
+            name:
+                value: "Allard Seaworth"
+                fields:
+                    given: "Allard"
+                    surname: "Seaworth"
+            gender: male
+            house: Seaworth
+        notes: "Son of Ser Davos Seaworth. Captain of Lady Marya at the Battle of the Blackwater. Killed when the wildfire trap was sprung (299 AC). Named in ACOK Davos III: 'He saw one shatter on the deck of Lady Marya, but Allard's crew quickly beat it out.' Allard is last seen commanding Lady Marya; he and his ship are destroyed with the rest of the fleet."

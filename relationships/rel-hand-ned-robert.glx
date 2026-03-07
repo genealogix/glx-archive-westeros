@@ -1,0 +1,12 @@
+relationships:
+    rel-hand-ned-robert:
+        type: hand_of_the_king
+        participants:
+            - person: person-eddard-stark
+              role: hand
+            - person: person-robert-baratheon-i
+              role: king
+        properties:
+            start_date: "298"
+            end_date: "298"
+            context: "Offered by Robert Baratheon in the Winterfell crypts. Ned accepted after Catelyn persuaded him, partly spurred by Lysa Arryn's secret letter alleging the Lannisters murdered Jon Arryn. Ned served as Hand until his arrest and execution in King's Landing."

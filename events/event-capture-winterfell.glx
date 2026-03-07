@@ -1,0 +1,17 @@
+events:
+    event-capture-winterfell:
+        type: battle
+        date: "299"
+        place: place-winterfell
+        participants:
+            - person: person-theon-greyjoy
+              role: attacker
+            - person: person-dagmer-cleftjaw
+              role: attacker
+            - person: person-brandon-stark-bran
+              role: subject
+            - person: person-rickon-stark
+              role: subject
+        properties:
+            description: "Theon Greyjoy captures Winterfell with a small ironborn force of approximately twenty men, exploiting Robb Stark's absence at war and Ser Rodrik Cassel's distraction by Dagmer's feint against the Tallharts at Torrhen's Square. Theon betrays the Starks who had fostered him for nine years."
+            also_known_as: "Theon's Taking of Winterfell"

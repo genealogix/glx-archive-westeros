@@ -1,0 +1,9 @@
+persons:
+    person-helya:
+        properties:
+            gender: female
+            name:
+                value: Helya
+                fields:
+                    given: Helya
+        notes: "A bent-back old crone who kept Pyke castle for Lord Balon Greyjoy. The previous steward Sylas Sourmouth had been dead five years by the time of Theon's return (ACOK Theon I). She greeted Theon Greyjoy on his return to Pyke and showed him to the Bloody Keep. Smallfolk retainer of House Greyjoy."

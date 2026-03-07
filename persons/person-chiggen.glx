@@ -1,0 +1,10 @@
+persons:
+    person-chiggen:
+        properties:
+            gender: male
+            name:
+                value: Chiggen
+                fields:
+                    given: Chiggen
+            occupation: sellsword
+        notes: "A sellsword who helped capture Tyrion Lannister at the Inn at the Crossroads and escorted him as Catelyn Stark's prisoner on the high road. Wounded by a mountain clan arrow during an attack; Bronn cut his throat to silence him and told Catelyn he had died of his wound."

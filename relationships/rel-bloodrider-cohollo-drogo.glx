@@ -1,0 +1,11 @@
+relationships:
+    rel-bloodrider-cohollo-drogo:
+        type: sworn_sword
+        participants:
+            - person: person-cohollo
+              role: bloodrider
+            - person: person-khal-drogo
+              role: khal
+        properties:
+            start_date: "BEF 278"
+            context: "Cohollo saved the young khalakka Drogo from sellswords who hoped to sell him to his father's enemies, shattering Cohollo's teeth with a mace blow. His life has been bound to Drogo's from the day Drogo was born. As a bloodrider, Cohollo was Drogo's brother, shadow, and fiercest friend; Dothraki custom demands bloodriders die with their khal."

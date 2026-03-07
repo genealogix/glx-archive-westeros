@@ -1,0 +1,9 @@
+persons:
+    person-hali:
+        properties:
+            gender: female
+            name:
+                value: Hali
+                fields:
+                    given: Hali
+        notes: "A wildling woman who rode with the Night's Watch deserters Stiv and Wallen in the wolfswood south of Winterfell. Short, with a broad flat face and lank yellow hair. She carried a saw-edged knife. Killed by the direwolf Summer during the confrontation with Robb and Bran Stark."

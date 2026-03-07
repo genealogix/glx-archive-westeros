@@ -1,0 +1,9 @@
+places:
+    place-house-of-the-undying:
+        name: "House of the Undying"
+        type: landmark
+        parent: place-qarth
+        properties:
+            also_known_as: "House of the Undying Ones, the Spire, Palace of Dust"
+            seat_of: "The Undying Ones (warlocks of Qarth)"
+        notes: "An ancient, crumbling structure in Qarth, home to the Undying Ones — a council of warlocks sustained by shade-of-the-evening. Daenerys Targaryen entered the House of the Undying in 299 AC. Inside she experienced prophetic visions. The Undying attempted to drain her life force; her dragon Drogon burned the building and killed the Undying Ones, destroying the structure."

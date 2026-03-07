@@ -1,0 +1,9 @@
+persons:
+    person-stiv:
+        properties:
+            gender: male
+            name:
+                value: Stiv
+                fields:
+                    given: Stiv
+        notes: "Night's Watch deserter who led a band of brigands in the wolfswood south of Winterfell. A bald man with a raw windburnt face. He and others attacked Bran Stark in the wolfswood and held him hostage. Killed by Theon Greyjoy with a broadhead arrow through the chest."

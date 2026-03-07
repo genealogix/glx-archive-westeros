@@ -1,0 +1,33 @@
+assertions:
+    assertion-osha-wildling:
+        subject:
+            person: person-osha
+        property: origin
+        value: "Beyond the Wall (wildling)"
+        citations:
+            - citation-agot-bran-v
+        confidence: high
+        status: proven
+        notes: "Source text: 'I broke no oaths. Stiv and Wallen flew down off the Wall, not me. The black crows got no place for women.' Osha is a wildling woman, not a Night's Watch deserter. She was traveling south with the deserters Stiv and Wallen."
+
+    assertion-osha-captured:
+        subject:
+            person: person-osha
+        property: captive
+        value: "Captured by Robb Stark at the wolfswood"
+        citations:
+            - citation-agot-bran-v
+        confidence: high
+        status: proven
+        notes: "Source text: 'Give me my life, m'lord of Stark, and I am yours.' Osha threw down her spear and surrendered to Robb Stark after her companions were killed. Robb and Maester Luwin decided to question her and take her to Winterfell."
+
+    assertion-osha-mance-knowledge:
+        subject:
+            person: person-osha
+        property: testimony
+        value: "Mance Rayder would pay for a Stark hostage"
+        citations:
+            - citation-agot-bran-v
+        confidence: medium
+        status: accepted
+        notes: "Source text (the tall woman Osha speaking): 'gods be damned, think what Mance would give to have Benjen Stark's own blood to hostage!' Osha knew of Mance Rayder and his interest in the Starks, indicating she had contact with his forces beyond the Wall."

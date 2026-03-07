@@ -1,0 +1,10 @@
+events:
+    event-prologue-others-attack:
+        type: death
+        date: "298"
+        participants:
+            - person: person-waymar-royce
+              role: subject
+            - person: person-will-prologue
+              role: subject
+        notes: "The Others attack the Night's Watch ranging party beyond the Wall. Ser Waymar Royce fights and is killed by an Other's crystal sword; his own blade shatters. Royce is reanimated as a wight and kills Will. Gared escapes but later deserts. First direct appearance of the Others in the narrative."

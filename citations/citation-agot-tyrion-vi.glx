@@ -1,0 +1,8 @@
+citations:
+    citation-agot-tyrion-vi:
+        source: source-agot
+        properties:
+            locator: "Tyrion VI"
+            text_from_source: "They had taken shelter beneath a copse of aspens just off the high road."
+            accessed: "2026-03-06"
+        notes: "Tyrion and Bronn travel the high road after the trial by combat. Tyrion explains his reasoning for why Bronn would champion him. Tyrion tells Bronn the story of Tysha, his first wife. They are surrounded by Stone Crow clansmen led by Gunthor son of Gurn and Shagga son of Dolf; Tyrion promises to win them the Vale of Arryn."

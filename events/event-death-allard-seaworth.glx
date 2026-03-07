@@ -1,0 +1,11 @@
+events:
+    event-death-allard-seaworth:
+        type: death
+        date: "299"
+        place: place-blackwater-bay
+        participants:
+            - person: person-allard-seaworth
+              role: subject
+        properties:
+            cause: "Killed at the Battle of the Blackwater — wildfire destroyed Stannis's fleet including Lady Marya"
+            description: "Allard Seaworth, son of Davos Seaworth, commanded Lady Marya at the Battle of the Blackwater. The ship was destroyed by wildfire when the hulks exploded. Davos saw Lady Marya burning among the fleet and could not reach his sons."

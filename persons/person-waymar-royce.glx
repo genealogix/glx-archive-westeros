@@ -1,0 +1,14 @@
+persons:
+    person-waymar-royce:
+        properties:
+            name:
+                value: "Waymar Royce"
+                fields:
+                    given: "Waymar"
+                    surname: "Royce"
+            gender: male
+            house: "Royce"
+            title:
+                - value: "Ser"
+            died_on: "298"
+        notes: "Youngest son of House Royce. A Sworn Brother of the Night's Watch for less than half a year at the time of the Prologue. Led a ranging beyond the Wall with Will and Gared to investigate reports of dead wildlings. Killed by the Others and subsequently reanimated as a wight. Described as eighteen, grey-eyed, graceful, and slender, wearing a sable cloak."

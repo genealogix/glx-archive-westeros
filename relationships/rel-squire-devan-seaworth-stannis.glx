@@ -1,0 +1,11 @@
+relationships:
+    rel-squire-devan-seaworth-stannis:
+        type: sworn_sword
+        participants:
+            - person: person-devan-seaworth
+              role: squire
+            - person: person-stannis-baratheon
+              role: lord
+        properties:
+            start_date: "AFT 298"
+            context: "Devan Seaworth, son of Ser Davos Seaworth, was taken as royal squire by King Stannis Baratheon. Davos reflects: 'the king had taken Devan as a royal squire.' Present at the burning of the Seven and the Lightbringer ceremony at Dragonstone (ACOK Davos I)."

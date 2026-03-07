@@ -1,0 +1,9 @@
+persons:
+    person-mycah:
+        properties:
+            name:
+                value: "Mycah"
+                fields:
+                    given: "Mycah"
+            gender: male
+        notes: "Butcher's boy traveling with the Stark party from Winterfell to King's Landing. Befriended Arya Stark and practiced sword-fighting with sticks near the Trident. Joffrey Baratheon cut his cheek with Lion's Tooth when he refused to fight. Arya attacked Joffrey to protect Mycah. Mycah fled into the trees; Sandor Clegane pursued and killed him, cutting him nearly in half 'from shoulder to waist.' His body was returned slung over the Hound's destrier."

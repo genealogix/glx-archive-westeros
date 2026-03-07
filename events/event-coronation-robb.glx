@@ -1,7 +1,7 @@
 events:
     event-coronation-robb:
         type: coronation
-        date: "298"
+        date: "299"
         place: place-riverrun
         participants:
             - person: person-robb-stark
@@ -9,6 +9,22 @@ events:
             - person: person-catelyn-tully
               role: witness
             - person: person-edmure-tully
+              role: witness
+            - person: person-greatjon-umber
+              role: first_acclaimer
+            - person: person-rickard-karstark
+              role: witness
+            - person: person-maege-mormont
+              role: witness
+            - person: person-galbart-glover
+              role: witness
+            - person: person-jason-mallister
+              role: witness
+            - person: person-roose-bolton
+              role: absent
+            - person: person-theon-greyjoy
+              role: witness
+            - person: person-brynden-tully-blackfish
               role: witness
         properties:
             description: "Robb Stark declared King in the North — after learning of Ned Stark's execution and his victories at the Whispering Wood and the Camps, the Northern and Riverlands lords declared Robb Stark the King in the North, the first since Torrhen Stark bent the knee to Aegon the Conqueror three centuries earlier."

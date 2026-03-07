@@ -1,0 +1,16 @@
+events:
+    event-death-lady:
+        type: death
+        date: "298"
+        place: place-castle-darry
+        participants:
+            - person: person-ned-stark
+              role: executor
+            - person: person-sansa-stark
+              role: owner
+            - person: person-joffrey-baratheon
+              role: instigator
+            - person: person-cersei-lannister
+              role: instigator
+        properties:
+            description: "Queen Cersei Lannister demanded that a direwolf be killed in retribution for Nymeria biting Joffrey (Nymeria had fled and could not be found). King Robert ordered Lady, Sansa Stark's direwolf — who was not present at the Trident incident — to be killed. Ned Stark insisted on doing it himself rather than let Ilyn Payne act as butcher, saying 'She is of the north. She deserves better than a butcher.' Ned killed Lady with Ice, then sent her body north to be buried at Winterfell."

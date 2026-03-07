@@ -1,0 +1,12 @@
+relationships:
+    rel-sword-teacher-syrio-arya:
+        type: sworn_sword
+        participants:
+            - person: person-syrio-forel
+              role: teacher
+            - person: person-arya-stark
+              role: student
+        properties:
+            start_date: "298"
+            context: "Eddard Stark hired Syrio Forel (former First Sword of Braavos) to teach Arya the Braavosi water dancing style, suited to her small Braavosi sword Needle. Training took place in King's Landing at the Tower of the Hand."
+        notes: "AGOT Arya III. The teacher-student relationship is not a standard 'sworn_sword' bond but is the closest available type for a martial training relationship."

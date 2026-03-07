@@ -1,0 +1,35 @@
+assertions:
+    assertion-robert-appearance-298:
+        subject:
+            person: person-robert-baratheon-i
+        property: description
+        value: "Six and a half feet tall; once muscled, now greatly overweight with large belly and coarse black beard; sweating through silks; red-faced"
+        citations:
+            - citation-agot-eddard-ii
+        confidence: high
+        status: proven
+        notes: "Source text (Eddard II): 'Fifteen years past, when they had ridden forth to win a throne, the Lord of Storm's End had been clean-shaven, clear-eyed, and muscled like a maiden's fantasy. Six and a half feet tall, he towered over lesser men... Now it was perfume that clung to him like perfume, and he had a girth to match his height... the king had gained at least eight stone. A beard as coarse and black as iron wire covered his jaw to hide his double chin.'"
+
+    assertion-robert-friendship-ned:
+        subject:
+            person: person-robert-baratheon-i
+        property: notes
+        value: "Robert and Ned were wards together at the Eyrie under Jon Arryn and fought together in Robert's Rebellion; Robert loves him like a brother"
+        citations:
+            - citation-agot-catelyn-i
+            - citation-agot-eddard-ii
+        confidence: high
+        status: proven
+        notes: "Source text (Catelyn I): 'In his youth, Ned had fostered at the Eyrie, and the childless Lord Arryn had become a second father to him and his fellow ward, Robert Baratheon.' Source text (Eddard II): Robert says 'Those years we spent in the Eyrie… gods, those were good years. I want you at my side again, Ned.'"
+
+    assertion-lyanna-stark-death:
+        subject:
+            person: person-lyanna-stark
+        property: cause_of_death
+        value: "Fever/unknown; died at the Tower of Joy, Dorne"
+        citations:
+            - citation-agot-eddard-ii
+            - citation-agot-eddard-i
+        confidence: high
+        status: proven
+        notes: "Source text (Eddard II): 'I was with her when she died,' Ned reminded the king. 'She wanted to come home, to rest beside Brandon and Father.' Source text (Eddard I — Ned's fever dream): 'Promise me, Ned,' she had cried, in a room that smelled of blood and roses... The fever had taken her strength and her voice had been faint as a whisper.' Lyanna was sixteen at time of death. Ned and Howland Reed were present. Robert vowed to kill Rhaegar Targaryen for 'what he did to her.'"

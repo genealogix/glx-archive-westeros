@@ -1,0 +1,10 @@
+persons:
+    person-cohollo:
+        properties:
+            gender: male
+            name:
+                value: Cohollo
+                fields:
+                    given: Cohollo
+            house: Dothraki
+        notes: "The oldest of Khal Drogo's three bloodriders. A squat bald man with a crooked nose and a mouth full of broken teeth, shattered by a mace twenty years before when he saved the young khalakka Drogo from sellswords. His life has been bound to Drogo's since the day Drogo was born. He helped Daenerys down from her silver and escorted Drogo to the Mother of Mountains for sacrifice."

@@ -1,0 +1,16 @@
+events:
+    event-trial-by-combat-eyrie:
+        type: trial
+        date: "298"
+        place: place-the-eyrie
+        participants:
+            - person: person-tyrion-lannister
+              role: accused
+            - person: person-lysa-arryn
+              role: judge
+            - person: person-bronn
+              role: champion
+            - person: person-catelyn-stark
+              role: witness
+        properties:
+            description: "Tyrion Lannister demanded trial by combat in the High Hall of the Eyrie rather than face judgment before Robert Arryn. Lysa named Ser Vardis Egen as her champion. Tyrion secured Bronn as his champion. The combat took place and Bronn killed Ser Vardis Egen, winning Tyrion's freedom. Tyrion and Bronn were expelled through the Bloody Gate and told never to return."

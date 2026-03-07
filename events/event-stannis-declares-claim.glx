@@ -1,0 +1,14 @@
+events:
+    event-stannis-declares-claim:
+        type: coronation
+        date: "299"
+        place: place-dragonstone
+        participants:
+            - person: person-stannis-baratheon
+              role: subject
+            - person: person-pylos
+              role: scribe
+            - person: person-davos-seaworth
+              role: witness
+        properties:
+            description: "Stannis Baratheon formally proclaimed himself the rightful King of the Seven Kingdoms, declaring Joffrey, Tommen, and Myrcella to be abominations born of incest between Cersei Lannister and her brother Jaime. The proclamation letters were copied by Maester Pylos and dispatched via one hundred seventeen ravens across the realm. Davos Seaworth was tasked with sailing north to deliver letters from Gulltown to White Harbor; his son Dale was sent south along the Dornish coast to the Arbor; another son was to sail across the narrow sea to the Free Cities."

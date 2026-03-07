@@ -1,0 +1,11 @@
+persons:
+    person-devan-seaworth:
+        properties:
+            gender: male
+            name:
+                value: Devan Seaworth
+                fields:
+                    given: Devan
+                    surname: Seaworth
+            house: "Seaworth"
+        notes: "Son of Ser Davos Seaworth. Serves as squire to King Stannis Baratheon. Present at the burning of the Seven at Dragonstone where he fetched the padded glove for the king before Stannis drew Lightbringer from the fire (ACOK Davos I). Survived the Battle of the Blackwater, unlike his brothers Dale, Allard, Matthos, and Maric. Listed in the ADWD appendix as squire to King Stannis."

@@ -1,0 +1,33 @@
+assertions:
+    assertion-viserys-death-cause:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: cause_of_death
+        value: "Molten gold poured over head by Khal Drogo"
+        citations:
+            - citation-agot-daenerys-v
+        confidence: high
+        status: proven
+        notes: "Source text: 'Crown! Here. A crown for Cart King! And upended the pot over the head of the man who had been her brother.' Khal Drogo melted his gold medallion belt in an iron stew pot and poured it over Viserys's head, burning him to death. No blood was shed, technically fulfilling the prohibition against bloodshed in Vaes Dothrak. Daenerys watched: 'He was no dragon, Dany thought, curiously calm. Fire cannot kill a dragon.'"
+
+    assertion-viserys-death-place:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: died_at
+        value: place-vaes-dothrak
+        citations:
+            - citation-agot-daenerys-v
+        confidence: high
+        status: proven
+        notes: "Viserys died in Khal Drogo's feast hall in Vaes Dothrak, the sacred Dothraki city where it is forbidden to carry a blade or shed a free man's blood. He had violated the prohibition by drawing his sword inside the sacred city."
+
+    assertion-viserys-death-date:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: died_on
+        value: "298"
+        citations:
+            - citation-agot-daenerys-v
+        confidence: medium
+        status: accepted
+        notes: "Approximate date; during Khal Drogo's stay in Vaes Dothrak, which was early in the events of AGOT (~298 AC)."

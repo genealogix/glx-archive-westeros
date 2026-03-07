@@ -1,0 +1,56 @@
+assertions:
+    assertion-jon-arryn-poisoned-tears-of-lys:
+        subject:
+            person: person-petyr-baelish
+        property: cause_of_death_jon_arryn
+        value: "Poisoned with 'the tears of Lys'"
+        citations:
+            - citation-agot-eddard-v
+        confidence: high
+        status: accepted
+        notes: "Source text: Varys to Ned: 'The tears of Lys, they call it. A rare and costly thing, clear and sweet as water, and it leaves no trace. I begged Lord Arryn to use a taster, in this very room I begged him, but he would not hear of it.' The poison was administered by someone close to Jon Arryn who 'often shared meat and mead with him.' Varys implies Ser Hugh of the Vale was the poisoner, noting he stayed in King's Landing after Lysa fled to the Eyrie. POV: Eddard, sole witness to Varys's private revelation. Varys is an interested party — his information should be treated as medium-to-high confidence."
+
+    assertion-ser-hugh-suspected-poisoner:
+        subject:
+            person: person-ser-hugh-of-the-vale
+        property: suspected_role
+        value: "Suspected agent who administered poison to Jon Arryn"
+        citations:
+            - citation-agot-eddard-v
+        confidence: medium
+        status: suspected
+        notes: "Source text: Varys: 'There was one boy. All he was, he owed Jon Arryn, but when the widow fled to the Eyrie with her household, he stayed in King's Landing and prospered... He must have cut a gallant figure in the tourney, him in his bright new armor, with those crescent moons on his cloak. A pity he died so untimely, before you could talk to him…' Ned identifies him: 'The squire. Ser Hugh.' Ser Hugh was conveniently killed in the tourney before Ned could question him. His death may have been arranged. This is Varys's accusation, not confirmed by direct evidence — confidence medium."
+
+    assertion-robert-baratheon-bastard-gendry:
+        subject:
+            person: person-robert-baratheon-i
+        property: illegitimate_child
+        value: "Gendry (armorer's apprentice)"
+        citations:
+            - citation-agot-eddard-v
+            - citation-agot-arya-iii
+        confidence: high
+        status: accepted
+        notes: "Source text: 'That the armorer's sullen apprentice was the king's son, Ned had no doubt. The Baratheon look was stamped on his face, in his jaw, his eyes, that black hair. Renly was too young to have fathered a boy of that age, Stannis too cold and proud in his honor. Gendry had to be Robert's.' Gendry is an apprentice at an armorer's shop in King's Landing. He has the Baratheon black hair and jaw. Ned identified him in his investigation of Robert's bastards."
+
+    assertion-robert-bastard-daughter-vale:
+        subject:
+            person: person-robert-baratheon-i
+        property: illegitimate_child
+        value: "Unnamed daughter born in the Vale"
+        citations:
+            - citation-agot-eddard-v
+        confidence: high
+        status: accepted
+        notes: "Source text: 'Ned remembered Robert's first child as well, a daughter born in the Vale when Robert was scarcely more than a boy himself. A sweet little girl; the young lord of Storm's End had doted on her... The girl would be seventeen or eighteen now.' Robert fathered a daughter in the Vale while he was ward to Jon Arryn at the Eyrie (likely ~279-281 AC). Robert visited her frequently even after losing interest in the mother."
+
+    assertion-robert-bastard-storms-end:
+        subject:
+            person: person-robert-baratheon-i
+        property: illegitimate_child
+        value: "Acknowledged bastard son at Storm's End (Edric Storm)"
+        citations:
+            - citation-agot-eddard-v
+        confidence: high
+        status: accepted
+        notes: "Source text: 'He had openly acknowledged one of his bastards, a boy of Bran's age whose mother was highborn. The lad was being fostered by Lord Renly's castellan at Storm's End.' This is Edric Storm (though not named here), whose mother was Delena Florent. Bran is about 7 in 298 AC, so Edric would also be about 7."

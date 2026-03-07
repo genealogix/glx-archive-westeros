@@ -1,0 +1,22 @@
+assertions:
+    assertion-joffrey-cruelty-mycah:
+        subject:
+            person: person-joffrey-baratheon
+        property: behavior
+        value: "Deliberate cruelty to smallfolk"
+        citations:
+            - citation-agot-sansa-i
+        confidence: high
+        status: accepted
+        notes: "Source text: 'You're only a butcher's boy, and no knight. Joffrey lifted Lion's Tooth and laid its point on Mycah's cheek below the eye, as the butcher's boy stood trembling... A bright bud of blood blossomed where his sword pressed into Mycah's flesh, and a slow red line trickled down the boy's cheek.' Joffrey deliberately drew blood from an unarmed child. Later lied to King Robert about what happened ('You and the butcher boy beat him with clubs while you set your wolf on him'). After the hearing, 'Joffrey was smiling' at the prospect of Lady being killed. POV: Sansa, direct witness. High confidence — multiple corroborating observers."
+
+    assertion-joffrey-lies-to-robert:
+        subject:
+            person: person-joffrey-baratheon
+        property: behavior
+        value: "Lied to King Robert about Trident incident"
+        citations:
+            - citation-agot-eddard-iii
+        confidence: high
+        status: accepted
+        notes: "Source text: 'Joff told us what happened. You and the butcher boy beat him with clubs while you set your wolf on him.' Joffrey's account contradicted Arya's and the physical evidence. Even Robert Baratheon said privately: 'My son was lying, I'd stake my soul on it.' Ned Stark also knew the truth. POV: Eddard, with Robert's private admission."

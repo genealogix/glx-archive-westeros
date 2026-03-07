@@ -1,0 +1,10 @@
+persons:
+    person-marillion:
+        properties:
+            gender: male
+            name:
+                value: Marillion
+                fields:
+                    given: Marillion
+            occupation: singer
+        notes: "A young singer (woodharp player) who joins Catelyn Stark's party at the Inn at the Crossroads and travels with them to the Eyrie. He survived the mountain clan attacks on the high road. He breaks several ribs and all four fingers of his playing hand in the fighting. He acquired a magnificent shadowskin cloak from a slain brigand chief. Present at Tyrion's trial in the High Hall of the Eyrie."

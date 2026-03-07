@@ -1,0 +1,13 @@
+persons:
+    person-marq-piper:
+        properties:
+            gender: male
+            name:
+                value: "Marq Piper"
+                fields:
+                    given: Marq
+                    surname: Piper
+            house: Piper
+            title:
+                - value: Ser
+        notes: "A young knight of House Piper in the Riverlands. Described as a swaggering bantam rooster, too young and too hot-blooded. A fast friend of Edmure Tully. He named Gregor Clegane as the author of the raids on Sherrer, Wendish Town, and the Mummer's Ford, and urged vengeance. He was attending his lord at the pass below the Golden Tooth when the raids occurred."

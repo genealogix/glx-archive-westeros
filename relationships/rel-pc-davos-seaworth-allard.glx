@@ -1,0 +1,10 @@
+relationships:
+    rel-pc-davos-seaworth-allard:
+        type: parent_child
+        participants:
+            - person: person-davos-seaworth
+              role: parent
+            - person: person-allard-seaworth
+              role: child
+        properties:
+            context: "Allard Seaworth was one of four sons of Davos Seaworth killed at the Battle of the Blackwater (299 AC). He commanded Lady Marya in Stannis's fleet."

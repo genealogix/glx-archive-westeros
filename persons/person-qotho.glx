@@ -1,0 +1,10 @@
+persons:
+    person-qotho:
+        properties:
+            gender: male
+            name:
+                value: Qotho
+                fields:
+                    given: Qotho
+            house: Dothraki
+        notes: "One of Khal Drogo's three bloodriders. He had cruel eyes and quick hands that liked to hurt; he left bruises on the handmaid Doreah and made Irri sob in the night. Even his horses seemed to fear him. He helped restrain Viserys Targaryen during his execution."

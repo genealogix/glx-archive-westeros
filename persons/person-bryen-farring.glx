@@ -1,0 +1,11 @@
+persons:
+    person-bryen-farring:
+        properties:
+            gender: male
+            name:
+                value: Bryen Farring
+                fields:
+                    given: Bryen
+                    surname: Farring
+            house: "Farring"
+        notes: "A squire in the service of King Stannis Baratheon at Dragonstone. Present at the ceremony of drawing Lightbringer from the fire of the burning Seven; he tied a stiff leather cape around Stannis's neck to protect him. Wore a cream-colored doublet with a fiery heart of R'hllor on the breast, the badge of the queen's men (ACOK Davos I)."

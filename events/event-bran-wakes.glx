@@ -1,0 +1,13 @@
+events:
+    event-bran-wakes:
+        type: birth
+        date: "298"
+        place: place-winterfell
+        participants:
+            - person: person-bran-stark
+              role: subject
+            - person: person-robb-stark
+              role: witness
+        properties:
+            description: "Bran Stark woke from his coma after being pushed from the tower by Jaime Lannister. He had been unconscious for weeks. He woke after dreaming of the three-eyed crow, which pecked between his eyes. A black-haired serving woman dropped a basin of water and ran down the steps crying 'He's awake.' Bran's direwolf pup — now much larger — was on his legs when he woke. Bran named the wolf Summer. He could not feel his legs. Robb Stark was the first family member to reach him."
+            also_known_as: "Bran's Awakening"

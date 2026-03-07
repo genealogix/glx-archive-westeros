@@ -1,0 +1,44 @@
+assertions:
+    assertion-viserys-targaryen-iii-cause-of-death:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: cause_of_death
+        value: "Molten gold poured over the head by Khal Drogo"
+        citations:
+            - citation-agot-daenerys-vi
+        confidence: high
+        status: proven
+        notes: "Viserys Targaryen III was killed in Vaes Dothrak when Khal Drogo poured a pot of molten gold medallions over his head. No blood was shed, preserving the sacred prohibition on bloodshed in the sacred city. Source: 'The sound Viserys Targaryen made when that hideous iron helmet covered his face was like nothing human. His feet hammered a frantic beat against the dirt floor, slowed, stopped. Thick globs of molten gold dripped down onto his chest, setting the scarlet silk to smoldering … yet no drop of blood was spilled.'"
+
+    assertion-viserys-targaryen-iii-death-date:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: died_on
+        value: "298"
+        citations:
+            - citation-agot-daenerys-vi
+        confidence: high
+        status: proven
+        notes: "Viserys died in Vaes Dothrak in 298 AC. The exact date within the year is unknown."
+
+    assertion-viserys-targaryen-iii-alias-cart-king:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: alias
+        value: "Cart King"
+        citations:
+            - citation-agot-daenerys-vi
+        confidence: high
+        status: proven
+        notes: "Khal Drogo called Viserys 'Cart King' at the moment of his death — a Dothraki insult, implying he was fit only to ride in a cart rather than on horseback. Source: 'Crown! Here. A crown for Cart King!'"
+
+    assertion-viserys-not-a-dragon:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: notes
+        value: "Viserys was not truly of dragon blood — fire killed him"
+        citations:
+            - citation-agot-daenerys-vi
+        confidence: medium
+        status: accepted
+        notes: "Daenerys's internal observation after Viserys's death by molten gold: 'He was no dragon, Dany thought, curiously calm. Fire cannot kill a dragon.' This is contrast to Daenerys herself walking unharmed into Drogo's pyre in Daenerys IX. Whether this reflects actual magical difference or Dany's psychological interpretation is unclear, but the contrast is made explicit by the narrative."

@@ -1,0 +1,17 @@
+events:
+    event-death-khal-drogo:
+        type: death
+        date: "298"
+        participants:
+            - person: person-khal-drogo
+              role: subject
+            - person: person-daenerys-targaryen-206
+              role: principal
+            - person: person-mirri-maz-duur
+              role: principal
+            - person: person-jorah-mormont
+              role: witness
+        properties:
+            description: "Khal Drogo died in a vegetative state following an infected sword wound from his fight with Khal Mago. Mirri Maz Duur's bloodmagic 'saved' his life but left him breathing but mindless — unable to speak, ride, or recognize anyone. Daenerys smothered him with a pillow to end his suffering before burning him on a funeral pyre."
+            cause_of_death: "Infected wound, followed by mercy killing by smothering"
+        notes: "Drogo's wound was originally inflicted by Mago during a dispute over the sacking of the Lhazareen village. Mirri Maz Duur's bloodmagic required the death of Drogo's red stallion and cost Daenerys her unborn son Rhaego (who was stillborn, monstrous). Drogo's fall from his horse was the signal that a khal who cannot ride cannot rule — his khalasar began to disintegrate. His funeral pyre became the site of the dragon hatching."

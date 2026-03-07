@@ -1,0 +1,12 @@
+persons:
+    person-high-septon-agot:
+        properties:
+            name:
+                value: "The High Septon"
+                fields:
+                    given: "Unknown"
+            gender: male
+            title:
+                - value: "High Septon"
+            religion: "Faith of the Seven"
+        notes: "The High Septon at the time of Ned Stark's execution (299 AC). Described as a squat man, grey with age and ponderously fat, wearing long white robes and an immense crown of spun gold and crystal that wreathed his head with rainbows whenever he moved. He presided over Ned Stark's public confession and execution at the Great Sept of Baelor. He asked Joffrey what should be done with the traitor; when Joffrey ordered the execution he clutched at the king's cape trying to stop it. His personal name is not given in A Game of Thrones."

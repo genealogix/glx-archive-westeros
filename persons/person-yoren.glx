@@ -1,0 +1,13 @@
+persons:
+    person-yoren:
+        properties:
+            name:
+                value: "Yoren"
+                fields:
+                    given: "Yoren"
+            gender: male
+            title:
+                - value: "Brother of the Night's Watch"
+            alias:
+                - value: "Old Yoren"
+        notes: "A wandering crow of the Night's Watch, responsible for ranging south of the Wall to recruit men (poachers, debtors, criminals) for the Watch. He was at King's Landing at the time of Ned Stark's arrest and was present at the Great Sept of Baelor for the execution. He grabbed Arya Stark from the crowd during the execution, preventing her from watching, and subsequently disguised her as a boy named 'Arry' and smuggled her north with a column of Night's Watch recruits. He was known to Ned Stark and used a particular distinctive smell (sour wine). He was later killed on the kingsroad during the march north."

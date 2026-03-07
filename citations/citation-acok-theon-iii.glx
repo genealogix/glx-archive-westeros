@@ -1,0 +1,8 @@
+citations:
+    citation-acok-theon-iii:
+        source: source-acok
+        properties:
+            locator: "Theon III"
+            text_from_source: "Dagmer Cleftjaw stood by the high carved prow of his longship, Foamdrinker. Theon had assigned him the task of guarding the ships; otherwise men would have called it Dagmer's victory, not his."
+            accessed: "2026-03-06"
+        notes: "Theon executes his plan — uses Dagmer to draw Ser Rodrik Cassel away from Winterfell with a feint, then takes Winterfell with a small ironborn force."

@@ -1,0 +1,10 @@
+persons:
+    person-moreo-tumitis:
+        properties:
+            name:
+                value: "Moreo Tumitis"
+                fields:
+                    given: "Moreo"
+                    surname: "Tumitis"
+            gender: male
+        notes: "Tyroshi sea captain. Captained the Storm Dancer, a two-masted galley of sixty oars and his fourth ship. Plied the narrow sea for thirty years as oarman, quartermaster, then captain. Had a forked green beard (Tyroshi are known for dyeing their beards). Transported Catelyn Stark and Ser Rodrik Cassel from White Harbor to King's Landing. Betrayed Catelyn's location to Littlefinger for coin."

@@ -1,0 +1,12 @@
+persons:
+    person-dagmer-cleftjaw:
+        properties:
+            gender: male
+            name:
+                value: Dagmer Cleftjaw
+                fields:
+                    given: Dagmer
+            alias:
+                - value: "Cleftjaw"
+            house: "Greyjoy"
+        notes: "An ironborn warrior in the service of House Greyjoy of Pyke. Known by the alias Cleftjaw for his distinctive facial wound. A warrior Theon Greyjoy remembered fondly from his childhood at Pyke. At the time of Theon's return he had been sent to Old Wyk by Lord Balon to rouse the Stonehouses and the Drumms (ACOK Theon I). Later commands Theon's forces in the invasion of the North."

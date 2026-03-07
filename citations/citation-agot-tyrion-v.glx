@@ -1,0 +1,8 @@
+citations:
+    citation-agot-tyrion-v:
+        source: source-agot
+        properties:
+            locator: "Tyrion V"
+            text_from_source: "You want eat? Mord asked, glowering. He had a plate of boiled beans in one thick, stub-fingered hand."
+            accessed: "2026-03-06"
+        notes: "Tyrion is imprisoned in the sky cells of the Eyrie, tormented by the gaoler Mord. Tyrion's trial in the High Hall of the Eyrie; he demands trial by combat. Bronn volunteers as Tyrion's champion. Tyrion reflects on his first marriage to Tysha, a crofter's daughter arranged by Jaime as a prank, and the brutal revenge Tywin exacted."

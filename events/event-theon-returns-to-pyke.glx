@@ -1,0 +1,14 @@
+events:
+    event-theon-returns-to-pyke:
+        type: exile
+        date: "299"
+        place: place-pyke
+        participants:
+            - person: person-theon-greyjoy
+              role: subject
+            - person: person-balon-greyjoy
+              role: host
+            - person: person-aeron-greyjoy
+              role: escort
+        properties:
+            description: "After ten years as ward/hostage at Winterfell, Theon Greyjoy returned to the Iron Islands aboard the merchant ship Myraham, landing at Lordsport. He was met by his uncle Aeron Greyjoy (Damphair), now a priest of the Drowned God. Theon brought Robb Stark's letter proposing an alliance, offering Balon a crown in exchange for ironborn swords and sails against the Lannisters. Balon rejected the offer and burned the letter, announcing he would take his own crown from the North — targeting the undefended castles while Robb fought in the south."

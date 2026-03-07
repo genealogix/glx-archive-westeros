@@ -1,0 +1,8 @@
+citations:
+    citation-agot-tyrion-iv:
+        source: source-agot
+        properties:
+            locator: "Tyrion IV"
+            text_from_source: "As he stood in the predawn chill watching Chiggen butcher his horse, Tyrion Lannister chalked up one more debt owed the Starks."
+            accessed: "2026-03-06"
+        notes: "Tyrion is Catelyn's prisoner on the high road to the Eyrie. Mountain clan attack; Tyrion fights alongside his captors. Bronn kills Chiggen after he is wounded. They arrive at the Bloody Gate."

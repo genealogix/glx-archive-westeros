@@ -1,0 +1,10 @@
+persons:
+    person-shagga-son-of-dolf:
+        properties:
+            gender: male
+            name:
+                value: "Shagga son of Dolf"
+                fields:
+                    given: Shagga
+            house: "Stone Crows"
+        notes: "A massive warrior of the Stone Crows mountain clan in the Mountains of the Moon. Described as boulder-like, dressed in skins, carrying a club in his right hand and an axe in his left. He laughed loudest at Tyrion's quip about dying in bed. Tyrion promised him the Vale of Arryn and Lannister steel."

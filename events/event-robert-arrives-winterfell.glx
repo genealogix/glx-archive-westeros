@@ -1,0 +1,21 @@
+events:
+    event-robert-arrives-winterfell:
+        type: coronation
+        date: "298"
+        place: place-winterfell
+        participants:
+            - person: person-robert-baratheon-i
+              role: subject
+            - person: person-eddard-stark
+              role: host
+            - person: person-cersei-lannister
+              role: attendee
+            - person: person-jaime-lannister
+              role: attendee
+            - person: person-tyrion-lannister
+              role: attendee
+            - person: person-joffrey-baratheon
+              role: attendee
+            - person: person-sandor-clegane
+              role: attendee
+        notes: "King Robert Baratheon arrives at Winterfell with a party of approximately 300 riders, including the royal court. Robert and Ned visit the Winterfell crypts to pay respects at Lyanna Stark's tomb. Robert offers Ned the Handship and proposes a betrothal between Joffrey and Sansa. A welcoming feast is held in the Great Hall."

@@ -1,0 +1,11 @@
+events:
+    event-death-matthos-seaworth:
+        type: death
+        date: "299"
+        place: place-blackwater-bay
+        participants:
+            - person: person-matthos-seaworth
+              role: subject
+        properties:
+            cause: "Killed at the Battle of the Blackwater — wildfire destroyed Stannis's fleet including Black Betha"
+            description: "Matthos Seaworth, son of Davos Seaworth, was killed when the wildfire trap was sprung at the Battle of the Blackwater. He was aboard Black Betha beside his father when the hulks exploded, turning the river into a green inferno. Black Betha was among the ships listed as destroyed."

@@ -1,0 +1,22 @@
+assertions:
+    assertion-loras-mare-in-heat-tactic:
+        subject:
+            person: person-loras-tyrell
+        property: tourney_tactic
+        value: "Used a mare in heat to defeat Ser Gregor Clegane at the Hand's tourney"
+        citations:
+            - citation-agot-eddard-v
+        confidence: high
+        status: accepted
+        notes: "Source text: 'Ser Gregor was having trouble controlling his horse. The stallion was screaming and pawing the ground... His courser was as slim as her rider, a beautiful grey mare... Ser Gregor's huge stallion trumpeted as he caught her scent.' Littlefinger: 'Tyrell had to know the mare was in heat. I swear the boy planned the whole thing. Gregor has always favored huge, ill-tempered stallions with more spirit than sense.' Loras's grey mare was deliberately chosen. The strategy was effective but considered dishonorable by some (Ser Barristan: 'There is small honor in tricks')."
+
+    assertion-sandor-saves-loras:
+        subject:
+            person: person-sandor-clegane
+        property: action
+        value: "Intervened to save Loras Tyrell from Ser Gregor Clegane at the Hand's tourney"
+        citations:
+            - citation-agot-eddard-v
+        confidence: high
+        status: accepted
+        notes: "Source text: 'But as Gregor lifted his sword for the killing blow, a rasping voice warned, Leave him be, and a steel-clad hand wrenched him away from the boy... the two brothers stood hammering at each other as a dazed Loras Tyrell was helped to safety.' Sandor then yielded the champion's purse but 'took the victory, and the champion's purse, and, for perhaps the first time in his life, the love of the commons.' Loras afterward: 'I owe you my life. The day is yours, ser.' Sandor: 'I am no ser.' This establishes the debt Loras owes Sandor and the origin of their significant relationship in later books."

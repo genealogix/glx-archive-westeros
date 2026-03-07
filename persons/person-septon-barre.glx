@@ -1,0 +1,13 @@
+persons:
+    person-septon-barre:
+        properties:
+            gender: male
+            name:
+                value: Septon Barre
+                fields:
+                    given: Barre
+                    prefix: Septon
+            title:
+                - value: "Septon"
+            religion: "Faith of the Seven"
+        notes: "Septon who served at the sept of Dragonstone, said by Davos to have told him the statues of the Seven were carved from the masts of the ships that carried the first Targaryens from Valyria. When Melisandre's followers burned the sept's statues and overturned its altars, Septon Barre could only curse them. He was subsequently imprisoned on Dragonstone (ACOK Davos I)."

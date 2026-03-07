@@ -1,0 +1,33 @@
+assertions:
+    assertion-illyrio-role-daenerys-i:
+        subject:
+            person: person-illyrio-mopatis
+        property: description
+        value: "Magister of Pentos; dealer in spices, gemstones, dragonbone; massively fat; yellow forked beard oiled like real gold; gemstones on every finger"
+        citations:
+            - citation-agot-daenerys-i
+        confidence: high
+        status: proven
+        notes: "Source text (Daenerys I): 'Magister Illyrio was a dealer in spices, gemstones, dragonbone, and other, less savory things. He had friends in all of the Nine Free Cities... Beneath loose garments of flame-colored silk, rolls of fat jiggled as he walked. Gemstones glittered on every finger, and his man had oiled his forked yellow beard until it shone like real gold.'"
+
+    assertion-viserys-appearance-daenerys-i:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: description
+        value: "Gaunt young man with nervous hands; feverish look in pale lilac eyes; silver-blond hair pulled back tight; hard gaunt face; rested hand on sword hilt"
+        citations:
+            - citation-agot-daenerys-i
+        confidence: high
+        status: proven
+        notes: "Source text (Daenerys I): 'He was a gaunt young man with nervous hands and a feverish look in his pale lilac eyes. His hair, the same silver-blond as hers, had been pulled back tightly behind his head and fastened with a dragonbone brooch. It was a severe look that emphasized the hard, gaunt lines of his face.'"
+
+    assertion-daenerys-hair-eyes:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: description
+        value: "Silver-gold hair; violet (purple) eyes; Valyrian appearance"
+        citations:
+            - citation-agot-daenerys-i
+        confidence: high
+        status: proven
+        notes: "Source text (Daenerys I): Illyrio says 'That silver-gold hair, those purple eyes … she is the blood of old Valyria, no doubt, no doubt.' The girl's dialog describes the gown as purple 'to bring out the violet in your eyes.'"

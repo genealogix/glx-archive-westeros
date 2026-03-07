@@ -1,0 +1,33 @@
+assertions:
+    assertion-littlefinger-ward-of-tully:
+        subject:
+            person: person-petyr-baelish
+        property: early_life
+        value: "Ward of Hoster Tully at Riverrun; childhood with Catelyn and Lysa"
+        citations:
+            - citation-agot-catelyn-iv
+        confidence: high
+        status: accepted
+        notes: "Source text: 'He was my father's ward. We grew up together in Riverrun. I thought of him as a brother, but his feelings for me were … more than brotherly.' Petyr Baelish's family held 'the smallest of the Fingers' — modest holdings. He was raised at Riverrun with Catelyn and her siblings. Catelyn's brother Edmure gave him the nickname 'Littlefinger.'"
+
+    assertion-littlefinger-duel-brandon-stark:
+        subject:
+            person: person-petyr-baelish
+        property: duel
+        value: "Challenged Brandon Stark for Catelyn Tully's hand in marriage"
+        citations:
+            - citation-agot-catelyn-iv
+        confidence: high
+        status: accepted
+        notes: "Source text: 'When it was announced that I was to wed Brandon Stark, Petyr challenged for the right to my hand. It was madness. Brandon was twenty, Petyr scarcely fifteen. I had to beg Brandon to spare Petyr's life. He let him off with a scar. Afterward my father sent him away.' Petyr was approximately 15 when Brandon was 20 at the time of this duel. Brandon Stark was betrothed to Catelyn and killed Petyr in the duel but spared his life at Catelyn's pleading, leaving a scar. Petyr was then sent away from Riverrun."
+
+    assertion-catelyn-burned-littlefingers-letter:
+        subject:
+            person: person-catelyn-tully
+        property: relationship_with_baelish
+        value: "Burned Littlefinger's letter unread after Brandon Stark's death"
+        citations:
+            - citation-agot-catelyn-iv
+        confidence: high
+        status: accepted
+        notes: "Source text: 'He wrote to me at Riverrun after Brandon was killed, but I burned the letter unread. By then I knew that Ned would marry me in his brother's place.' Catelyn had no romantic interest in Petyr Baelish and burned his condolence/declaration letter without reading it."

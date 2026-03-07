@@ -9,3 +9,8 @@ persons:
                     surname: Florent
                 value: Ser Imry Florent
             rin: MH:I441
+            house: Florent
+            title:
+                - value: "Admiral of Stannis Baratheon's fleet"
+                  date: "299"
+        notes: "Brother of Selyse Florent, wife of Stannis Baratheon. Came over to Stannis's cause at Storm's End. Commanded Stannis's fleet from the flagship Fury at the Battle of the Blackwater (299 AC). ACOK Davos III: 'this time he had chosen to ride with his army, trusting Fury and the command of his fleet to his wife's brother Ser Imry, who'd come over to his cause at Storm's End with Lord Alester and all the other Florents.' Presumed killed or captured at the Blackwater."

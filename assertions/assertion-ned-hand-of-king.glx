@@ -1,0 +1,22 @@
+assertions:
+    assertion-ned-offered-hand-of-king:
+        subject:
+            person: person-eddard-stark
+        property: title
+        value: "Hand of the King"
+        citations:
+            - citation-agot-eddard-ii
+        confidence: high
+        status: proven
+        notes: "Source text: 'Lord Eddard Stark, I would name you the Hand of the King.' Offered by Robert Baratheon in the Winterfell crypts. Ned drops to one knee and accepts, though reluctantly, partly at Catelyn's urging after learning Jon Arryn was allegedly murdered by the Lannisters."
+
+    assertion-jon-arryn-death-lannister:
+        subject:
+            person: person-jon-arryn
+        property: cause_of_death
+        value: "Alleged murder by the Lannisters / the queen"
+        citations:
+            - citation-agot-catelyn-i
+        confidence: low
+        status: alleged
+        notes: "Source text: Catelyn tells Ned, 'Lysa says Jon Arryn was murdered.' And: 'The Lannisters,' she told him. 'The queen.' The allegation comes from Lysa Arryn's secret letter, written in a private cipher she and Catelyn shared as girls. Robert says in Eddard II that Jon 'sickened so quickly' and 'a fortnight later he was dead. The sickness was like a fire in his gut.' Low confidence — Lysa's accusation is potentially motivated by grief and fear."

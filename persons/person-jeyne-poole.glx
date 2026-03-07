@@ -1,0 +1,10 @@
+persons:
+    person-jeyne-poole:
+        properties:
+            name:
+                value: "Jeyne Poole"
+                fields:
+                    given: "Jeyne"
+                    surname: "Poole"
+            gender: female
+        notes: "Daughter of Vayon Poole, the steward of Winterfell. Sansa Stark's dearest friend. Appears in Arya I gossiping with Sansa about Prince Joffrey."

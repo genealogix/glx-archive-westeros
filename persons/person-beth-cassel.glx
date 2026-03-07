@@ -1,0 +1,10 @@
+persons:
+    person-beth-cassel:
+        properties:
+            name:
+                value: "Beth Cassel"
+                fields:
+                    given: "Beth"
+                    surname: "Cassel"
+            gender: female
+        notes: "Daughter of Ser Rodrik Cassel, master-at-arms of Winterfell. Appears in Arya I as a young girl listening to Sansa and Jeyne gossip about Prince Joffrey."

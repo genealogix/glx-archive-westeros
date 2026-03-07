@@ -1,0 +1,8 @@
+citations:
+    citation-acok-arya-vi:
+        source: source-acok
+        properties:
+            locator: "Arya VI"
+            text_from_source: "'The Red God has his due, sweet girl, and only death may pay for life. This girl took three that were his. This girl must give three in their places. Speak the names, and a man will do the rest.'"
+            accessed: "2026-03-06"
+        notes: "Jaqen H'ghar reveals his offer to Arya at Harrenhal: three deaths in exchange for saving him, Rorge, and Biter from the burning wagon. Arya is now serving under Weese in the Wailing Tower."

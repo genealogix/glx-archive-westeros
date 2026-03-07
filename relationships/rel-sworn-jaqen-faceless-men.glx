@@ -1,0 +1,8 @@
+relationships:
+    rel-sworn-jaqen-faceless-men:
+        type: sworn_sword
+        participants:
+            - person: person-jaqen-hghar
+              role: member
+        properties:
+            context: "Jaqen H'ghar is a Faceless Man of the Many-Faced God of Braavos. He serves as an assassin of the guild known as the Faceless Men. He gives Arya Stark an iron coin and the words 'Valar morghulis' so she may seek him out in Braavos."

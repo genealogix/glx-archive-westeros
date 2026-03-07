@@ -1,0 +1,44 @@
+assertions:
+    assertion-tyrion-appearance-jon-i:
+        subject:
+            person: person-tyrion-lannister
+        property: description
+        value: "Dwarf; half his siblings' height; large head with squashed-in face; one green eye and one black; white-blond hair; stunted legs"
+        citations:
+            - citation-agot-jon-i
+        confidence: high
+        status: proven
+        notes: "Source text (Jon I): 'Tyrion Lannister, the youngest of Lord Tywin's brood and by far the ugliest. All that the gods had given to Cersei and Jaime, they had denied Tyrion. He was a dwarf, half his brother's height, struggling to keep pace on stunted legs. His head was too large for his body, with a brute's squashed-in face beneath a swollen shelf of brow. One green eye and one black one peered out from under a lank fall of hair so blond it seemed white.'"
+
+    assertion-benjen-stark-appearance-jon-i:
+        subject:
+            person: person-benjen-stark
+        property: description
+        value: "Sharp-featured, gaunt, blue-grey eyes; tall; wears Night's Watch black"
+        citations:
+            - citation-agot-jon-i
+        confidence: high
+        status: proven
+        notes: "Source text (Jon I): 'His uncle was sharp-featured and gaunt as a mountain crag, but there was always a hint of laughter in his blue-grey eyes. He dressed in black, as befitted a man of the Night's Watch.'"
+
+    assertion-walder-frey-ward-theon-age:
+        subject:
+            person: person-theon-greyjoy
+        property: description
+        value: "Lean, dark youth of nineteen; ward of Eddard Stark"
+        citations:
+            - citation-agot-bran-i
+        confidence: high
+        status: proven
+        notes: "Source text (Bran I): 'Theon was a lean, dark youth of nineteen who found everything amusing. He laughed, put his boot on the head, and kicked it away.' Theon is also explicitly called Ned's ward: 'his ward Theon Greyjoy brought forth the sword.'"
+
+    assertion-joffrey-appearance-jon-i:
+        subject:
+            person: person-joffrey-baratheon
+        property: description
+        value: "Twelve years old; tall for his age; golden blond curls; deep green eyes; pouty lips; disdainful manner"
+        citations:
+            - citation-agot-jon-i
+        confidence: high
+        status: proven
+        notes: "Source text (Jon I): 'Sansa, two years older, drew the crown prince, Joffrey Baratheon. He was twelve, younger than Jon or Robb, but taller than either, to Jon's vast dismay. Prince Joffrey had his sister's hair and his mother's deep green eyes. A thick tangle of blond curls dripped down past his golden choker and high velvet collar.'"

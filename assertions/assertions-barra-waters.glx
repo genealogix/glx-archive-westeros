@@ -19,3 +19,13 @@ assertions:
         confidence: medium
         status: accepted
         notes: "Not found in any novel appendix. Sourced from GEDCOM import."
+    assertion-barra-father:
+        subject:
+            person: person-barra-waters
+        property: parent
+        value: person-robert-baratheon-i
+        citations:
+            - citation-agot-eddard-ix
+        confidence: high
+        status: accepted
+        notes: "Source text: 'I named her Barra. She looks so like him, does she not, milord? She has his nose, and his hair...' Ned Stark confirmed: 'She does.' The infant Barra had fine dark hair, consistent with Robert's black Baratheon hair. Her mother was a red-haired girl working at Chataya's brothel in King's Landing."

@@ -1,0 +1,9 @@
+persons:
+    person-biter:
+        properties:
+            name:
+                value: "Biter"
+                fields:
+                    given: "Biter"
+            gender: "male"
+        notes: "A criminal bound for the Wall in Yoren's party. Near-mute, enormous, and feral — known for biting people. Caged alongside Rorge and Jaqen H'ghar in the burning wagon that Arya freed them from. Later becomes a member of the Brave Companions at Harrenhal."

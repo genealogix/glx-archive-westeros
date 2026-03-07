@@ -1,0 +1,12 @@
+persons:
+    person-matthos-seaworth:
+        properties:
+            name:
+                value: "Matthos Seaworth"
+                fields:
+                    given: "Matthos"
+                    surname: "Seaworth"
+            gender: male
+            house: Seaworth
+            religion: "Faith of the Seven"
+        notes: "Son of Ser Davos Seaworth. Served aboard Black Betha at the Battle of the Blackwater. Killed when the wildfire trap was sprung and the fleet destroyed (299 AC). Named in ACOK Davos III: he relays his father's commands and is beside Davos as the battle unfolds. He converts to the Faith of the Lord of Light under Stannis's queen but retains the Seven — or is in the process of converting at time of death."

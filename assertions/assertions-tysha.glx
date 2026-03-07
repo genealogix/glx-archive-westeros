@@ -1,0 +1,33 @@
+assertions:
+    assertion-tyrion-married-tysha:
+        subject:
+            person: person-tyrion-lannister
+        property: married
+        value: person-tysha
+        citations:
+            - citation-agot-tyrion-vi
+        confidence: high
+        status: proven
+        notes: "Source text: 'I married her.' Tyrion secretly wed a crofter's daughter named Tysha when he was thirteen, using fifty silver pieces and a drunken septon. The marriage was brief — Lord Tywin Lannister discovered it, had Jaime confess the girl was actually hired by him as a prostitute, then gave Tysha to his guards."
+
+    assertion-tyrion-first-marriage-annulled:
+        subject:
+            person: person-tyrion-lannister
+        property: marriage_ended
+        value: "Annulled by Lord Tywin Lannister"
+        citations:
+            - citation-agot-tyrion-vi
+        confidence: high
+        status: proven
+        notes: "Source text: 'The septon sobered and confessed all to my lord father. That was the end of my marriage.' Lord Tywin Lannister forced an end to Tyrion's secret marriage to Tysha. As punishment, Tywin had Tysha given to his guards — each paying a silver coin — and forced Tyrion to watch, going last with a gold coin because he was a Lannister and 'worth more.' This trauma deeply scarred Tyrion."
+
+    assertion-tysha-arranged-by-jaime:
+        subject:
+            person: person-tysha
+        property: occupation
+        value: "Hired by Jaime Lannister to introduce Tyrion to women"
+        citations:
+            - citation-agot-tyrion-vi
+        confidence: high
+        status: proven
+        notes: "Source text: 'The girl was a whore, you see. Jaime arranged the whole affair, the road, the outlaws, all of it. He thought it was time I had a woman. He paid double for a maiden, knowing it would be my first time.' Jaime staged the rescue scenario on the road near Casterly Rock. Tyrion did not know this at the time and genuinely fell in love with Tysha."

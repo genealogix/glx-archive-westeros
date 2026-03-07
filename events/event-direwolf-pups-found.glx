@@ -1,0 +1,14 @@
+events:
+    event-direwolf-pups-found:
+        type: birth
+        date: "298"
+        participants:
+            - person: person-brandon-stark-bran
+              role: witness
+            - person: person-robb-stark
+              role: witness
+            - person: person-jon-snow
+              role: witness
+            - person: person-eddard-stark
+              role: witness
+        notes: "On the return from Gared's execution, the party discovers a dead direwolf with a broken antler lodged in her throat — interpreted as an omen (stag killing wolf). Five pups are found. Jon persuades Ned to let the Stark children keep them by noting there are five pups for five trueborn children. A sixth albino pup (Ghost) is discovered separately by Jon across the bridge, and he claims it for himself. The pups are later named: Grey Wind (Robb), Lady (Sansa), Nymeria (Arya), unnamed (Bran), Shaggydog (Rickon), Ghost (Jon)."

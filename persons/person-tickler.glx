@@ -1,0 +1,14 @@
+persons:
+    person-tickler:
+        properties:
+            name:
+                value: "Tickler"
+                fields:
+                    given: "Tickler"
+            alias:
+                - value: "the Tickler"
+            gender: "male"
+            house: "Clegane"
+            died_on: "299"
+            cause_of_death: "Killed by Jaqen H'ghar (second of Arya's three deaths)"
+        notes: "A torturer and man-at-arms in service to Ser Gregor Clegane (the Mountain). Stationed at Harrenhal, he interrogates prisoners by torture — always asking the same ritual questions. His name 'Tickler' is ironic. He appears in Arya's nightly litany of names she means to kill. He is killed as the second of Jaqen H'ghar's three promised deaths at Arya's naming."

@@ -1,0 +1,66 @@
+assertions:
+    assertion-joffrey-father-official:
+        subject:
+            person: person-joffrey-baratheon
+        property: parent
+        value: person-robert-baratheon-i
+        citations:
+            - citation-agot-appendix
+        confidence: low
+        status: disproven
+        notes: "Officially recorded as Robert Baratheon's son. Disproven by Ned Stark's investigation and Cersei's own confession."
+
+    assertion-joffrey-father-actual:
+        subject:
+            person: person-joffrey-baratheon
+        property: parent
+        value: person-jaime-lannister
+        citations:
+            - citation-agot-eddard-xii
+        confidence: high
+        status: proven
+        notes: "Source text: 'All three are Jaime's,' he said. It was not a question. 'Thank the gods.' Cersei confirmed directly to Ned in the godswood. Ned had deduced this from Grand Maester Malleon's tome on lineages: in every recorded Baratheon-Lannister mating, the black Baratheon hair dominated the gold. Joffrey, Myrcella, and Tommen all have golden Lannister hair — the pattern is broken, indicating they are not Robert's children."
+
+    assertion-myrcella-father-actual:
+        subject:
+            person: person-myrcella-baratheon
+        property: parent
+        value: person-jaime-lannister
+        citations:
+            - citation-agot-eddard-xii
+        confidence: high
+        status: proven
+        notes: "Source text: 'All three are Jaime's,' he said. Cersei confirmed all three children are Jaime Lannister's, not Robert's."
+
+    assertion-tommen-father-actual:
+        subject:
+            person: person-tommen-baratheon
+        property: parent
+        value: person-jaime-lannister
+        citations:
+            - citation-agot-eddard-xii
+        confidence: high
+        status: proven
+        notes: "Source text: 'All three are Jaime's,' he said. Cersei confirmed all three children are Jaime Lannister's, not Robert's."
+
+    assertion-cersei-jaime-secret-lover:
+        subject:
+            person: person-cersei-lannister
+        property: secret_lover
+        value: person-jaime-lannister
+        citations:
+            - citation-agot-eddard-xii
+        confidence: high
+        status: proven
+        notes: "Source text: 'Both. Since we were children together. And why not? The Targaryens wed brother to sister for three hundred years, to keep the bloodlines pure. And Jaime and I are more than brother and sister. We are one person in two bodies.' Cersei confessed the incestuous relationship to Ned Stark in the godswood."
+
+    assertion-seed-is-strong-arryn:
+        subject:
+            person: person-lysa-tully
+        property: testimony
+        value: "Jon Arryn's last words: 'The seed is strong'"
+        citations:
+            - citation-agot-catelyn-vii
+        confidence: high
+        status: accepted
+        notes: "Source text: 'The seed is strong, he told me. His last words. He kept saying Robert's name, and he grabbed my arm so hard he left marks. Tell them, the seed is strong. His seed. He wanted everyone to know what a good strong boy my baby was going to be.' Lysa Arryn reported Jon Arryn's dying words, which she believed referred to their son Robert Arryn. Ned Stark realized it referred to Robert Baratheon's seed — black hair dominant in all his bastards, proving Joffrey was not his."

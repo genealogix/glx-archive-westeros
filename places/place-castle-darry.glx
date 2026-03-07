@@ -1,0 +1,9 @@
+places:
+    place-castle-darry:
+        name: "Castle Darry"
+        type: castle
+        parent: place-the-riverlands
+        properties:
+            seat_of: "House Darry"
+            description: "Located a half day's ride south of the Trident in the Riverlands. Seat of House Darry, a family that fought for Rhaegar Targaryen at the Battle of the Trident. Ser Raymun Darry's three older brothers died there. The royal party occupied the castle uninvited during the search for Arya Stark (~298 AC), using Ser Raymun's audience chamber for the hearing about the direwolf incident."
+        notes: "Site of Arya Stark's hearing before King Robert (AGOT, Eddard III). Tensions between Stark, Lannister, Darry, and king's men while confined in a too-small castle."

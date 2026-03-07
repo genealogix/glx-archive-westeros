@@ -1,0 +1,8 @@
+citations:
+    citation-acok-sansa-vii:
+        source: source-acok
+        properties:
+            locator: "Sansa VII"
+            text_from_source: "The torches shimmered brightly against the hammered metal of the wall sconces, filling the Queen's Ballroom with silvery light. Yet there was still darkness in that hall. Sansa could see it in the pale eyes of Ser Ilyn Payne, who stood by the back door still as stone, taking neither food nor wine."
+            accessed: "2026-03-06"
+        notes: "Sansa's POV during the Battle of the Blackwater, from Maegor's Holdfast. Cersei and the highborn women shelter in the Queen's Ballroom. Cersei reveals Ser Ilyn is present to kill them if the castle falls. Cersei fetches Joffrey from the walls, demoralizing the defenders."

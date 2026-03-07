@@ -1,0 +1,8 @@
+citations:
+    citation-agot-sansa-iii:
+        source: source-agot
+        properties:
+            locator: "Sansa III"
+            text_from_source: "He wouldn't send Ser Loras, Sansa told Jeyne Poole that night as they shared a cold supper by lamplight."
+            accessed: "2026-03-06"
+        notes: "Sansa discusses the throne room proceedings with Jeyne Poole. Lord Baelish overheard their conversation on the gallery stairs. Sansa tells Jeyne about Yoren recruiting for the Night's Watch. Next morning Sansa and Arya quarrel; Ned tells them he is sending them back to Winterfell. Ned says Syrio Forel can accompany them if he agrees to enter Stark service."

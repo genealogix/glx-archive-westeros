@@ -1,0 +1,55 @@
+assertions:
+    assertion-daenerys-age-daenerys-i:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: born_on
+        value: "ABT 284"
+        citations:
+            - citation-agot-daenerys-i
+        confidence: high
+        status: proven
+        notes: "Source text (Daenerys I): 'Dany was thirteen, old enough to know that such gifts seldom come without their price, here in the free city of Pentos.' AGOT is set in 298 AC, making her born approximately 284-285 AC. Her mother died birthing her after fleeing to Dragonstone."
+
+    assertion-daenerys-born-dragonstone:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: born_in
+        value: "Dragonstone"
+        citations:
+            - citation-agot-daenerys-i
+        confidence: high
+        status: proven
+        notes: "Source text (Daenerys I): 'She had been born on Dragonstone nine moons after their flight, while a raging summer storm threatened to rip the island fastness apart.' Her mother died birthing her. The Targaryen fleet was smashed at anchor during the storm, earning her the name 'Stormborn.'"
+
+    assertion-daenerys-mother-died-birthing:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: parent
+        value: "Mother died in childbirth (Rhaella Targaryen)"
+        citations:
+            - citation-agot-daenerys-i
+        confidence: high
+        status: proven
+        notes: "Source text (Daenerys I): 'Her mother had died birthing her, and for that her brother Viserys had never forgiven her.'"
+
+    assertion-viserys-age-fled-kings-landing:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: notes
+        value: "Was eight years old when he fled King's Landing with Daenerys"
+        citations:
+            - citation-agot-daenerys-i
+        confidence: high
+        status: proven
+        notes: "Source text (Daenerys I): 'Viserys had been a boy of eight when they fled King's Landing to escape the advancing armies of the Usurper, but Daenerys had been only a quickening in their mother's womb.' Robert's Rebellion ended in 283 AC, confirming Viserys born approximately 275 AC."
+
+    assertion-jorah-mormont-exile-reason:
+        subject:
+            person: person-jorah-mormont
+        property: notes
+        value: "Exiled for selling poachers to a Tyroshi slaver instead of surrendering them to the Night's Watch"
+        citations:
+            - citation-agot-daenerys-i
+        confidence: high
+        status: proven
+        notes: "Source text (Daenerys I): 'The Usurper wanted his head. Some trifling affront. He sold some poachers to a Tyroshi slaver instead of giving them to the Night's Watch.' Illyrio's words. Jorah is described as 'past forty and balding, but still strong and fit' and wearing 'a dark green [tunic], embroidered with the likeness of a black bear standing on two legs' — House Mormont's sigil."
