@@ -7,9 +7,10 @@ persons:
                     given: Rhaella
                     surname: Targaryen
                 value: Rhaella Targaryen
-            rin: MH:I203
+            external_ids:
+                - "MH:I203"
             title:
                 - value: "Queen"
             house: "Targaryen"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Died in childbed on Dragonstone"

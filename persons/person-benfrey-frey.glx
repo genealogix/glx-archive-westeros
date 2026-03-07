@@ -7,4 +7,5 @@ persons:
                     given: Benfrey
                     surname: Frey
                 value: Benfrey Frey
-            rin: MH:I128
+            external_ids:
+                - "MH:I128"

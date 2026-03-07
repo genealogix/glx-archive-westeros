@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-perra-royce
               role: spouse
-        properties:
-            marriage_event: event-marriage-walder-frey-and-perra-royce
+        start_event: event-marriage-walder-frey-and-perra-royce

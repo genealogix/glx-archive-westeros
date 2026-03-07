@@ -7,4 +7,5 @@ persons:
                     given: Emmon
                     surname: Frey
                 value: Emmon Frey
-            rin: MH:I4
+            external_ids:
+                - "MH:I4"

@@ -20,5 +20,6 @@ persons:
                 - value: "Protector of the Realm"
                 - value: "Khaleesi of the Great Grass Sea"
             house: Targaryen
-            rin: MH:I304
+            external_ids:
+                - "MH:I304"
         notes: "The First of Her Name. Sole surviving child of King Aerys II Targaryen. Her dragons are Drogon, Viserion, and Rhaegal. Queen of Meereen as of ADWD Appendix."

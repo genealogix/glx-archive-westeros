@@ -4,7 +4,9 @@ persons:
             gender: female
             name:
                 fields:
-                    given: Sylva 'Spotted Sylva'
+                    given: Sylva
+                    nickname: Spotted Sylva
                     surname: Santagar
-                value: Sylva 'Spotted Sylva' Santagar
-            rin: MH:I479
+                value: Sylva Santagar
+            external_ids:
+                - "MH:I479"

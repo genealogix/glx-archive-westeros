@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-elia-martell
               role: spouse
-        properties:
-            marriage_event: event-marriage-rhaegar-targaryen-and-elia-martell-713
+        start_event: event-marriage-rhaegar-targaryen-and-elia-martell-713

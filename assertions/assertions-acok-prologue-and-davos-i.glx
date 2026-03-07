@@ -58,7 +58,7 @@ assertions:
     assertion-shireen-greyscale:
         subject:
             person: person-shireen-baratheon
-        property: notes
+        property: description
         value: "Survived greyscale as an infant; left half her face and neck stiff, cracked, and mottled black and grey"
         citations:
             - citation-acok-prologue
@@ -69,7 +69,7 @@ assertions:
     assertion-patchface-origin:
         subject:
             person: person-patchface
-        property: notes
+        property: description
         value: "Found in Volantis as a boy, bought by Lord Steffon Baratheon; survived the wreck of the Windproud in Shipbreaker Bay; left broken in body and mind"
         citations:
             - citation-acok-prologue
@@ -92,7 +92,7 @@ assertions:
     assertion-melisandre-ruby-immunity:
         subject:
             person: person-melisandre
-        property: notes
+        property: description
         value: "Survived Cressen's poison at Dragonstone, apparently protected by her ruby and the power of R'hllor"
         citations:
             - citation-acok-prologue
@@ -104,7 +104,7 @@ assertions:
     assertion-melisandre-origin-asshai:
         subject:
             person: person-melisandre
-        property: notes
+        property: description
         value: "Lady Melisandre of Asshai; reads from 'ancient books of Asshai'"
         citations:
             - citation-acok-davos-i
@@ -137,7 +137,7 @@ assertions:
     assertion-davos-sons-named:
         subject:
             person: person-davos-seaworth
-        property: notes
+        property: description
         value: "Sons Dale, Allard, Matthos, Maric, Devan (squire to Stannis), and two younger boys Stannis and Steffon"
         citations:
             - citation-acok-davos-i
@@ -148,7 +148,7 @@ assertions:
     assertion-davos-wife-marya:
         subject:
             person: person-davos-seaworth
-        property: notes
+        property: description
         value: "Wife is Marya, a carpenter's daughter; mistress of a small keep on Cape Wrath"
         citations:
             - citation-acok-davos-i
@@ -159,7 +159,7 @@ assertions:
     assertion-davos-knighted-siege-storms-end:
         subject:
             person: person-davos-seaworth
-        property: notes
+        property: description
         value: "Knighted by Stannis Baratheon after smuggling onions and salt fish past the Redwyne blockade to relieve the garrison at Storm's End during Robert's Rebellion"
         citations:
             - citation-acok-prologue
@@ -170,7 +170,7 @@ assertions:
     assertion-renly-rainbow-guard-established:
         subject:
             person: person-renly-baratheon
-        property: notes
+        property: description
         value: "Established the Rainbow Guard as his own Kingsguard, each of the seven wearing a different color; Loras Tyrell serves as Lord Commander"
         citations:
             - citation-acok-prologue
@@ -181,7 +181,7 @@ assertions:
     assertion-renly-age-acok:
         subject:
             person: person-renly-baratheon
-        property: notes
+        property: description
         value: "One-and-twenty years of age at the opening of ACOK (299 AC)"
         citations:
             - citation-acok-prologue
@@ -192,7 +192,7 @@ assertions:
     assertion-stannis-lightbringer-ceremony:
         subject:
             person: person-stannis-baratheon
-        property: notes
+        property: description
         value: "Participated in ceremony at Dragonstone where he drew a flaming sword from the burning statues of the Seven; Melisandre proclaimed it Lightbringer and Stannis as Azor Ahai reborn"
         citations:
             - citation-acok-davos-i
@@ -203,7 +203,7 @@ assertions:
     assertion-stannis-proclamation-joffrey-illegitimate:
         subject:
             person: person-stannis-baratheon
-        property: notes
+        property: description
         value: "Proclaimed via raven letter to all lords that Joffrey, Tommen, and Myrcella are bastards born of incest between Cersei Lannister and her brother Jaime"
         citations:
             - citation-acok-davos-i
@@ -214,7 +214,7 @@ assertions:
     assertion-edric-storm-roberts-bastard:
         subject:
             person: person-edric-storm
-        property: notes
+        property: description
         value: "Robert Baratheon fathered Edric Storm on Delena Florent in the marriage bed prepared for Stannis and Selyse on their wedding night; Robert acknowledged the child"
         citations:
             - citation-acok-davos-i
@@ -225,7 +225,7 @@ assertions:
     assertion-aeron-greyjoy-drowned-and-reborn:
         subject:
             person: person-aeron-greyjoy
-        property: notes
+        property: description
         value: "Was once a jovial man fond of ale and songs; went down in a storm, nearly drowned, and emerged as a devout priest of the Drowned God called Damphair"
         citations:
             - citation-acok-theon-i
@@ -236,7 +236,7 @@ assertions:
     assertion-theon-ward-ten-years:
         subject:
             person: person-theon-greyjoy
-        property: notes
+        property: description
         value: "Spent approximately ten years as ward/hostage at Winterfell under Lord Eddard Stark, taken after the Greyjoy Rebellion when he was ten years old"
         citations:
             - citation-acok-theon-i
@@ -269,7 +269,7 @@ assertions:
     assertion-balon-rejects-robb-alliance:
         subject:
             person: person-balon-greyjoy
-        property: notes
+        property: description
         value: "Rejected Robb Stark's offer of alliance; declared his own plan to attack and seize the North while Robb fought in the south"
         citations:
             - citation-acok-theon-i
@@ -280,7 +280,7 @@ assertions:
     assertion-catelyn-robb-peace-terms:
         subject:
             person: person-stannis-baratheon
-        property: notes
+        property: description
         value: "Robb Stark sent peace terms to Cersei: return of sisters, return of Ned's bones and Ice, release of Lannister captives, recognition of Northern independence"
         citations:
             - citation-acok-catelyn-i
@@ -291,7 +291,7 @@ assertions:
     assertion-stafford-lannister-new-army:
         subject:
             person: person-stafford-lannister
-        property: notes
+        property: description
         value: "Raising new Lannister levies at Casterly Rock to reinforce Tywin's army; his son Ser Daven Lannister described as more formidable"
         citations:
             - citation-acok-catelyn-i
@@ -302,7 +302,7 @@ assertions:
     assertion-hoster-tully-dying:
         subject:
             person: person-hoster-tully
-        property: notes
+        property: description
         value: "Dying of illness at Riverrun by early ACOK; delirious, weakened, in constant pain managed with dreamwine and milk of the poppy"
         citations:
             - citation-acok-catelyn-i

@@ -52,7 +52,7 @@ assertions:
     assertion-catelyn-tully-widow:
         subject:
             person: person-catelyn-tully
-        property: marital_status
+        property: description
         value: "widow"
         citations:
             - citation-asos-appendix

@@ -4,7 +4,7 @@ events:
         date: "298"
         place: place-castle-darry
         participants:
-            - person: person-ned-stark
+            - person: person-eddard-stark
               role: executor
             - person: person-sansa-stark
               role: owner

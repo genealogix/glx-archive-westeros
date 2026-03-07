@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Walder 'Red Walder'
+                    given: Walder
+                    nickname: Red Walder
                     surname: Frey
-                value: Walder 'Red Walder' Frey
-            rin: MH:I32
+                value: Walder Frey
+            external_ids:
+                - "MH:I32"

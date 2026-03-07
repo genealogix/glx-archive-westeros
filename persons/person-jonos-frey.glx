@@ -7,4 +7,5 @@ persons:
                     given: Jonos
                     surname: Frey
                 value: Jonos Frey
-            rin: MH:I42
+            external_ids:
+                - "MH:I42"

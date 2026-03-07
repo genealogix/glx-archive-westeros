@@ -7,6 +7,7 @@ persons:
                     given: Tion
                     surname: Frey
                 value: Tion Frey
-            rin: MH:I31
+            external_ids:
+                - "MH:I31"
             house: "Frey"
         notes: "Son of Ser Emmon Frey and Genna Lannister. A squire."

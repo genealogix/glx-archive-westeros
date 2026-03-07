@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-unknown-467
               role: spouse
-        properties:
-            marriage_event: event-marriage-stark-465-and-unknown-467
+        start_event: event-marriage-stark-465-and-unknown-467

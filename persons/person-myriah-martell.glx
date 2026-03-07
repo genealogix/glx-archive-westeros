@@ -7,4 +7,5 @@ persons:
                     given: Myriah
                     surname: Martell
                 value: Myriah Martell
-            rin: MH:I291
+            external_ids:
+                - "MH:I291"

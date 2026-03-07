@@ -65,10 +65,10 @@ assertions:
     assertion-robb-stark-marriage-jeyne:
         subject:
             relationship: rel-marriage-robb-stark-and-jeyne-westerling
-        property: participants
-        value: "person-robb-stark, person-jeyne-westerling"
+        participant:
+            person: person-robb-stark
+            role: spouse
+            notes: "Robb married Jeyne Westerling, breaking his betrothal to House Frey. ASOS Lannister appendix lists Jeyne as 'a maid of sixteen years' among the Westerlings. The marriage is confirmed in ASOS text."
         citations:
             - citation-asos-appendix
         confidence: high
-        status: accepted
-        notes: "Robb married Jeyne Westerling, breaking his betrothal to House Frey. ASOS Lannister appendix lists Jeyne as 'a maid of sixteen years' among the Westerlings. The marriage is confirmed in ASOS text."

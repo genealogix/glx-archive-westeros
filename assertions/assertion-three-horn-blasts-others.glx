@@ -13,7 +13,7 @@ assertions:
     assertion-wight-attack-fist-scale:
         subject:
             event: event-wight-attack-fist-first-men
-        property: participants
+        property: description
         value: "Three hundred Night's Watch brothers at the Fist"
         citations:
             - citation-asos-prologue

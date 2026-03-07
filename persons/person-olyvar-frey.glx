@@ -7,4 +7,5 @@ persons:
                     given: Olyvar
                     surname: Frey
                 value: Olyvar Frey
-            rin: MH:I130
+            external_ids:
+                - "MH:I130"

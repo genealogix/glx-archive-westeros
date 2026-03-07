@@ -2,7 +2,7 @@ assertions:
     assertion-stark-words:
         subject:
             person: person-eddard-stark
-        property: notes
+        property: description
         value: "House Stark words: 'Winter is coming'"
         citations:
             - citation-agot-catelyn-i
@@ -13,7 +13,7 @@ assertions:
     assertion-stark-sigil:
         subject:
             person: person-eddard-stark
-        property: notes
+        property: description
         value: "House Stark sigil: grey direwolf on an ice-white field"
         citations:
             - citation-agot-bran-i
@@ -24,7 +24,7 @@ assertions:
     assertion-night-watch-strength-298:
         subject:
             person: person-benjen-stark
-        property: notes
+        property: description
         value: "Night's Watch strength below 1000 at time of AGOT, losing men on rangings"
         citations:
             - citation-agot-catelyn-i

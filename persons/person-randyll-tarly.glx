@@ -7,7 +7,8 @@ persons:
                     given: Randyll
                     surname: Tarly
                 value: Randyll Tarly
-            rin: MH:I457
+            external_ids:
+                - "MH:I457"
             title:
                 - value: "Lord of Horn Hill"
             house: "Tarly"

@@ -14,7 +14,7 @@ assertions:
     assertion-rattleshirt-execution:
         subject:
             person: person-mance-rayder
-        property: notes
+        property: description
         value: "Rattleshirt burned in place of Mance Rayder by Stannis"
         citations:
             - citation-adwd-melisandre

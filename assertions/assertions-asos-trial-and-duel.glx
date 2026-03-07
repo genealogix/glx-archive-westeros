@@ -2,7 +2,7 @@ assertions:
     assertion-shae-false-testimony:
         subject:
             person: person-shae
-        property: action
+        property: description
         value: "Testified falsely against Tyrion Lannister at his murder trial"
         citations:
             - citation-asos-tyrion-trial
@@ -13,7 +13,7 @@ assertions:
     assertion-oberyn-motivation-elia:
         subject:
             person: person-oberyn-martell-the-red-viper
-        property: motivation
+        property: description
         value: "Volunteered as Tyrion's champion to force Gregor Clegane to publicly confess to raping and murdering Elia Martell and killing her children"
         citations:
             - citation-asos-tyrion-trial
@@ -25,7 +25,7 @@ assertions:
     assertion-gregor-confessed-elia:
         subject:
             person: person-gregor-clegane
-        property: confession
+        property: description
         value: "Confessed to killing Aegon Targaryen, raping Elia Martell, and smashing her head in while dying from Oberyn's poisoned spear"
         citations:
             - citation-asos-oberyn-duel
@@ -47,7 +47,7 @@ assertions:
     assertion-tyrion-condemned:
         subject:
             person: person-tyrion-lannister
-        property: legal_outcome
+        property: description
         value: "Condemned to death after Oberyn's defeat"
         citations:
             - citation-asos-oberyn-duel
@@ -58,7 +58,7 @@ assertions:
     assertion-lysa-confessed-jon-arryn-murder:
         subject:
             person: person-lysa-tully
-        property: confession
+        property: description
         value: "Confessed to poisoning Jon Arryn with 'tears in his wine' on Littlefinger's instruction, and to writing the false letter blaming the Lannisters"
         citations:
             - citation-asos-sansa-eyrie

@@ -2,7 +2,7 @@ assertions:
     assertion-daenerys-buys-unsullied:
         subject:
             person: person-daenerys-targaryen-206
-        property: action
+        property: description
         value: "Daenerys trades her dragon Drogon and her ships for 8,000 Unsullied soldiers at Astapor"
         citations:
             - citation-asos-daenerys-ii
@@ -14,7 +14,7 @@ assertions:
     assertion-daenerys-dracarys-astapor:
         subject:
             person: person-daenerys-targaryen-206
-        property: action
+        property: description
         value: "Daenerys commands 'Dracarys' — Drogon burns Kraznys mo Nakloz and the Unsullied sack Astapor, ending slavery there"
         citations:
             - citation-asos-daenerys-iii
@@ -25,7 +25,7 @@ assertions:
     assertion-daenerys-speaks-valyrian:
         subject:
             person: person-daenerys-targaryen-206
-        property: language
+        property: description
         value: "Daenerys speaks High Valyrian fluently and deliberately concealed this from Kraznys throughout negotiations"
         citations:
             - citation-asos-daenerys-ii
@@ -37,7 +37,7 @@ assertions:
     assertion-kraznys-death:
         subject:
             person: person-kraznys-mo-nakloz
-        property: death
+        property: cause_of_death
         value: "Burned alive by Drogon at the Plaza of Punishment, Astapor, 299 AC"
         citations:
             - citation-asos-daenerys-iii

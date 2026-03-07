@@ -2,7 +2,7 @@ assertions:
     assertion-beric-six-resurrections:
         subject:
             person: person-beric-dondarrion
-        property: death_count
+        property: description
         value: "Beric Dondarrion has been killed and resurrected six times by ASOS"
         citations:
             - citation-asos-arya-vi
@@ -13,7 +13,7 @@ assertions:
     assertion-beric-seventh-death-catelyn:
         subject:
             person: person-beric-dondarrion
-        property: death
+        property: description
         value: "Beric gives his final death (seventh) to resurrect Catelyn Stark as Lady Stoneheart"
         citations:
             - citation-asos-catelyn-vii
@@ -24,7 +24,7 @@ assertions:
     assertion-thoros-resurrection-method:
         subject:
             person: person-thoros-of-myr
-        property: power
+        property: description
         value: "Thoros resurrects Beric using the 'last kiss' — breathing fire into a dead man's body as a ritual of R'hllor"
         citations:
             - citation-asos-arya-vi
@@ -46,7 +46,7 @@ assertions:
     assertion-sandor-beric-three-clegane-deaths:
         subject:
             person: person-beric-dondarrion
-        property: notable_deaths
+        property: description
         value: "Three of Beric's six deaths were at the hands of House Clegane"
         citations:
             - citation-asos-arya-vi

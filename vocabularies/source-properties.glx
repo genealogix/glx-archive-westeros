@@ -56,3 +56,8 @@ source_properties:
     label: "URL"
     description: "Web address where the source can be accessed online (e.g., FamilySearch, Ancestry, FindAGrave)"
     value_type: string
+
+  isbn:
+    label: "ISBN"
+    description: "International Standard Book Number"
+    value_type: string

@@ -13,5 +13,6 @@ persons:
             alias:
                 - value: "The Late Lord Frey"
             house: Frey
-            rin: MH:I1
+            external_ids:
+                - "MH:I1"
         notes: "Patriarch of House Frey, Lord of the Crossing. ASOS appendix lists him extensively with his eight wives and numerous children. Orchestrated the Red Wedding — the massacre of Robb Stark, Catelyn Stark, and their bannermen at the wedding of Edmure Tully and Roslin Frey."

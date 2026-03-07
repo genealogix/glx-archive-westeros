@@ -7,5 +7,5 @@ relationships:
             - person: person-roslin-frey
               role: spouse
         properties:
-            start_date: "299"
+            started_on: "299"
             context: "Marriage arranged between House Tully and House Frey. The wedding at the Twins became the Red Wedding."

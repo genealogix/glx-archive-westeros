@@ -1,7 +1,16 @@
 events:
     event-long-night:
-        type: rebellion
-        date: "BEF 8000 BC"
+        type: event
+        participants:
+            - person: person-last-hero
+              role: principal
+              notes: "The last hero who sought out the children of the forest and helped end the Long Night"
+            - person: person-azor-ahai
+              role: principal
+              notes: "Legendary hero in Asshai who fought the darkness with the burning sword Lightbringer"
+            - person: person-bran-the-builder
+              role: principal
+              notes: "Traditionally credited with building the Wall at the end of the Long Night"
         properties:
             description: "A generation-long winter in which children were born, grew to adulthood, and in many cases died without seeing the spring. According to tradition, the Others (White Walkers) came from the Land of Always Winter during this darkness, riding monstrous ice spiders and dead horses, resurrecting the dead to serve them. The Long Night ended when a last hero sought the aid of the children of the forest, and the first men of the Night's Watch won the Battle for the Dawn — driving the Others back to the frozen north. In Asshai, a hero called Azor Ahai fought the darkness with a blazing sword called Lightbringer. Different cultures have parallel legends: the Rhoynar speak of a darkness and a secret song, Yi Ti of a woman with a monkey's tail who averted disaster. The Citadel dates the Long Night to roughly 6,000–8,000 years before the Conquest."
             also_known_as: "The Long Night"

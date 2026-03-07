@@ -7,7 +7,8 @@ persons:
                     given: Arianne
                     surname: Martell
                 value: Arianne Martell
-            rin: MH:I277
+            external_ids:
+                - "MH:I277"
             title:
                 - value: "Princess"
                 - value: "Heir to Sunspear"

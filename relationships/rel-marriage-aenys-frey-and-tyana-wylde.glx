@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-tyana-wylde
               role: spouse
-        properties:
-            marriage_event: event-marriage-aenys-frey-and-tyana-wylde
+        start_event: event-marriage-aenys-frey-and-tyana-wylde

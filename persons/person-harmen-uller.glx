@@ -7,4 +7,5 @@ persons:
                     given: Harmen
                     surname: Uller
                 value: Harmen Uller
-            rin: MH:I273
+            external_ids:
+                - "MH:I273"

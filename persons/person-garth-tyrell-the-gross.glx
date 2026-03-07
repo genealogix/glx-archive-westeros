@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Garth 'The Gross'
+                    given: Garth
+                    nickname: The Gross
                     surname: Tyrell
-                value: Garth 'The Gross' Tyrell
-            rin: MH:I383
+                value: Garth Tyrell
+            external_ids:
+                - "MH:I383"

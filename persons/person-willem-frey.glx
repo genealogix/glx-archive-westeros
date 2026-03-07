@@ -7,4 +7,5 @@ persons:
                     given: Willem
                     surname: Frey
                 value: Willem Frey
-            rin: MH:I35
+            external_ids:
+                - "MH:I35"

@@ -7,4 +7,5 @@ persons:
                     given: Elaena
                     surname: Targaryen
                 value: Elaena Targaryen
-            rin: MH:I323
+            external_ids:
+                - "MH:I323"

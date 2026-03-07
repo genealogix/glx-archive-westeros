@@ -7,7 +7,8 @@ persons:
                     given: Sansa
                     surname: Stark
                 value: Sansa Stark
-            rin: MH:I218
+            external_ids:
+                - "MH:I218"
             title:
                 - value: "Princess"
                   date: "FROM 298 TO 299"

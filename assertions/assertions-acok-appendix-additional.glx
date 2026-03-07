@@ -43,7 +43,7 @@ assertions:
         status: accepted
         notes: "From ACOK Appendix, House Lannister section. Source text: 'SER AMORY LORCH, a captain of foragers.'"
 
-    assertion-vargo-hoat-name-acok:
+    assertion-vargo-hoat-name-acok-2:
         subject:
             person: person-vargo-hoat
         property: name
@@ -109,7 +109,7 @@ assertions:
         status: accepted
         notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'PATCHFACE, a lackwit fool.'"
 
-    assertion-salladhor-saan-name-acok:
+    assertion-salladhor-saan-name-acok-2:
         subject:
             person: person-salladhor-saan
         property: name
@@ -120,7 +120,7 @@ assertions:
         status: accepted
         notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'SALLADHOR SAAN, of the Free City of Lys, styled Prince of the Narrow Sea.'"
 
-    assertion-cortnay-penrose-name-acok:
+    assertion-cortnay-penrose-name-acok-2:
         subject:
             person: person-cortnay-penrose
         property: name

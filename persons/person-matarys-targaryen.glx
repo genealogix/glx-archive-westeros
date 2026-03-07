@@ -7,4 +7,5 @@ persons:
                     given: Matarys
                     surname: Targaryen
                 value: Matarys Targaryen
-            rin: MH:I299
+            external_ids:
+                - "MH:I299"

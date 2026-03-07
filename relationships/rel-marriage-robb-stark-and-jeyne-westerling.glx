@@ -7,6 +7,6 @@ relationships:
             - person: person-jeyne-westerling
               role: spouse
         properties:
-            start_date: "299"
-            end_date: "299"
+            started_on: "299"
+            ended_on: "299"
             context: "Robb married Jeyne to preserve her honor after sleeping with her. This broke his betrothal pact with House Frey, leading to the Red Wedding. Marriage ended with Robb's death."

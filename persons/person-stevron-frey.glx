@@ -12,5 +12,6 @@ persons:
             house: Frey
             died_on: "299"
             cause_of_death: "Died after the Battle of Oxcross"
-            rin: MH:I3
+            external_ids:
+                - "MH:I3"
         notes: "Eldest son of Lord Walder Frey and Lady Perra Royce. Heir to the Twins. ASOS appendix marks him as dead: '{SER STEVRON}, their eldest son, died after the Battle of Oxcross'."

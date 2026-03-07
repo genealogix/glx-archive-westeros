@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-randyll-tarly
-              role: spouse
+              role: subject
             - person: person-melessa-florent
-              role: spouse
+              role: subject

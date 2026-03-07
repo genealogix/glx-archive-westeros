@@ -7,4 +7,5 @@ persons:
                     given: Daeron
                     surname: Targaryen
                 value: Daeron Targaryen
-            rin: MH:I283
+            external_ids:
+                - "MH:I283"

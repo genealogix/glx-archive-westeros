@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-aerion-targaryen-358
-              role: spouse
+              role: subject
             - person: person-velena-velaryon
-              role: spouse
+              role: subject

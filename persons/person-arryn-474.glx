@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Arryn
                 value: Arryn
-            rin: MH:I474
+            external_ids:
+                - "MH:I474"

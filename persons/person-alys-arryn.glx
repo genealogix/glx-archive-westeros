@@ -7,4 +7,5 @@ persons:
                     given: Alys
                     surname: Arryn
                 value: Alys Arryn
-            rin: MH:I231
+            external_ids:
+                - "MH:I231"

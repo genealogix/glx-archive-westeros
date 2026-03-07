@@ -7,4 +7,5 @@ persons:
                     given: Perriane
                     surname: Frey
                 value: Perriane Frey
-            rin: MH:I43
+            external_ids:
+                - "MH:I43"

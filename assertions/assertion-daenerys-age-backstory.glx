@@ -13,7 +13,7 @@ assertions:
     assertion-daenerys-born-dragonstone:
         subject:
             person: person-daenerys-targaryen-206
-        property: born_in
+        property: born_at
         value: "Dragonstone"
         citations:
             - citation-agot-daenerys-i
@@ -35,7 +35,7 @@ assertions:
     assertion-viserys-age-fled-kings-landing:
         subject:
             person: person-viserys-targaryen-iii
-        property: notes
+        property: description
         value: "Was eight years old when he fled King's Landing with Daenerys"
         citations:
             - citation-agot-daenerys-i
@@ -46,7 +46,7 @@ assertions:
     assertion-jorah-mormont-exile-reason:
         subject:
             person: person-jorah-mormont
-        property: notes
+        property: description
         value: "Exiled for selling poachers to a Tyroshi slaver instead of surrendering them to the Night's Watch"
         citations:
             - citation-agot-daenerys-i

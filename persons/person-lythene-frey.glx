@@ -7,4 +7,5 @@ persons:
                     given: Lythene
                     surname: Frey
                 value: Lythene Frey
-            rin: MH:I63
+            external_ids:
+                - "MH:I63"

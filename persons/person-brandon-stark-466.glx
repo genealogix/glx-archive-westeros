@@ -7,4 +7,5 @@ persons:
                     given: Brandon
                     surname: Stark
                 value: Brandon Stark
-            rin: MH:I466
+            external_ids:
+                - "MH:I466"

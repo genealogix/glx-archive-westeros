@@ -13,7 +13,7 @@ assertions:
     assertion-sam-tarly-king-maker:
         subject:
             person: person-samwell-tarly
-        property: action
+        property: description
         value: "Engineered Jon Snow's election as Lord Commander by privately campaigning with the rival candidates"
         citations:
             - citation-asos-jon-lord-commander
@@ -24,7 +24,7 @@ assertions:
     assertion-jon-refused-winterfell:
         subject:
             person: person-jon-snow
-        property: decision
+        property: description
         value: "Refused King Stannis's offer to legitimize him as Jon Stark, Lord of Winterfell"
         citations:
             - citation-asos-jon-lord-commander

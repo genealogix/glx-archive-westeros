@@ -2,7 +2,7 @@ assertions:
     assertion-jon-arryn-poisoned-tears-of-lys:
         subject:
             person: person-petyr-baelish
-        property: cause_of_death_jon_arryn
+        property: cause_of_death
         value: "Poisoned with 'the tears of Lys'"
         citations:
             - citation-agot-eddard-v
@@ -13,7 +13,7 @@ assertions:
     assertion-ser-hugh-suspected-poisoner:
         subject:
             person: person-ser-hugh-of-the-vale
-        property: suspected_role
+        property: description
         value: "Suspected agent who administered poison to Jon Arryn"
         citations:
             - citation-agot-eddard-v
@@ -24,7 +24,7 @@ assertions:
     assertion-robert-baratheon-bastard-gendry:
         subject:
             person: person-robert-baratheon-i
-        property: illegitimate_child
+        property: description
         value: "Gendry (armorer's apprentice)"
         citations:
             - citation-agot-eddard-v
@@ -36,7 +36,7 @@ assertions:
     assertion-robert-bastard-daughter-vale:
         subject:
             person: person-robert-baratheon-i
-        property: illegitimate_child
+        property: description
         value: "Unnamed daughter born in the Vale"
         citations:
             - citation-agot-eddard-v
@@ -47,7 +47,7 @@ assertions:
     assertion-robert-bastard-storms-end:
         subject:
             person: person-robert-baratheon-i
-        property: illegitimate_child
+        property: description
         value: "Acknowledged bastard son at Storm's End (Edric Storm)"
         citations:
             - citation-agot-eddard-v

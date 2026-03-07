@@ -4,7 +4,9 @@ persons:
             gender: female
             name:
                 fields:
-                    given: Amerei 'Gatehouse Ami'
+                    given: Amerei
+                    nickname: Gatehouse Ami
                     surname: Frey
-                value: Amerei 'Gatehouse Ami' Frey
-            rin: MH:I87
+                value: Amerei Frey
+            external_ids:
+                - "MH:I87"

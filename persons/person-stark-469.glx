@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Stark
                 value: Stark
-            rin: MH:I469
+            external_ids:
+                - "MH:I469"

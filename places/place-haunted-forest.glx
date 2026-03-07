@@ -1,0 +1,6 @@
+places:
+    place-haunted-forest:
+        name: "The Haunted Forest"
+        type: forest
+        parent: place-beyond-the-wall
+        notes: "The vast forest beyond the Wall stretching from Castle Black to the Frostfangs and the Land of Always Winter."

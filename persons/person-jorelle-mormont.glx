@@ -7,4 +7,5 @@ persons:
                     given: Jorelle
                     surname: Mormont
                 value: Jorelle Mormont
-            rin: MH:I434
+            external_ids:
+                - "MH:I434"

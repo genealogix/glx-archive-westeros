@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-dorna-swyft
               role: spouse
-        properties:
-            marriage_event: event-marriage-kevan-lannister-and-dorna-swyft
+        start_event: event-marriage-kevan-lannister-and-dorna-swyft

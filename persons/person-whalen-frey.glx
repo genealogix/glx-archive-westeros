@@ -7,4 +7,5 @@ persons:
                     given: Whalen
                     surname: Frey
                 value: Whalen Frey
-            rin: MH:I106
+            external_ids:
+                - "MH:I106"

@@ -7,4 +7,5 @@ persons:
                     given: Rickard
                     surname: Wylde
                 value: Rickard Wylde
-            rin: MH:I80
+            external_ids:
+                - "MH:I80"

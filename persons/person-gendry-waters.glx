@@ -7,4 +7,5 @@ persons:
                     given: Gendry
                     surname: Waters
                 value: Gendry Waters
-            rin: MH:I193
+            external_ids:
+                - "MH:I193"

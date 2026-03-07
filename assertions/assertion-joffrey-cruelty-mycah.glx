@@ -2,7 +2,7 @@ assertions:
     assertion-joffrey-cruelty-mycah:
         subject:
             person: person-joffrey-baratheon
-        property: behavior
+        property: description
         value: "Deliberate cruelty to smallfolk"
         citations:
             - citation-agot-sansa-i
@@ -13,7 +13,7 @@ assertions:
     assertion-joffrey-lies-to-robert:
         subject:
             person: person-joffrey-baratheon
-        property: behavior
+        property: description
         value: "Lied to King Robert about Trident incident"
         citations:
             - citation-agot-eddard-iii

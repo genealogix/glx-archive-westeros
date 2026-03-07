@@ -7,4 +7,5 @@ persons:
                     given: Alester
                     surname: Norcross
                 value: Alester Norcross
-            rin: MH:I455
+            external_ids:
+                - "MH:I455"

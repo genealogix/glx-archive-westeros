@@ -7,4 +7,5 @@ persons:
                     given: Daena
                     surname: Targaryen
                 value: Daena Targaryen
-            rin: MH:I308
+            external_ids:
+                - "MH:I308"

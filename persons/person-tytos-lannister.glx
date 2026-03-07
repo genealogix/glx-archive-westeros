@@ -7,4 +7,5 @@ persons:
                     given: Tytos
                     surname: Lannister
                 value: Tytos Lannister
-            rin: MH:I158
+            external_ids:
+                - "MH:I158"

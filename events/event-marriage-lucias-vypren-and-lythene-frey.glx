@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-lucias-vypren
-              role: spouse
+              role: subject
             - person: person-lythene-frey
-              role: spouse
+              role: subject

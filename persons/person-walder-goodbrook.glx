@@ -7,4 +7,5 @@ persons:
                     given: Walder
                     surname: Goodbrook
                 value: Walder Goodbrook
-            rin: MH:I59
+            external_ids:
+                - "MH:I59"

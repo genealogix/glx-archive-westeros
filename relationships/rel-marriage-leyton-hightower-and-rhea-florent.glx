@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-rhea-florent
               role: spouse
-        properties:
-            marriage_event: event-marriage-leyton-hightower-and-rhea-florent
+        start_event: event-marriage-leyton-hightower-and-rhea-florent

@@ -1,0 +1,12 @@
+persons:
+    person-erreg-the-kinslayer:
+        properties:
+            name:
+                value: "Erreg the Kinslayer"
+                fields:
+                    given: "Erreg"
+            gender: male
+            culture: "Andal"
+            house: "Andal"
+            canon_track: "novel"
+        notes: "Andal warlord who slaughtered the children of the forest at High Heart during the Andal invasion. His epithet 'the Kinslayer' likely refers to slaying kin-folk (those protected by the peace of the gods). Mentioned in TWOIAF."

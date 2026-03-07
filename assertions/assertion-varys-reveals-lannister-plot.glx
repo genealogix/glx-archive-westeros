@@ -2,7 +2,7 @@ assertions:
     assertion-varys-reveals-lannister-plot:
         subject:
             person: person-varys
-        property: intelligence_provided
+        property: description
         value: "Warned Ned Stark of Lannister plot to kill Robert in the melee; revealed Jon Arryn was poisoned"
         citations:
             - citation-agot-eddard-v
@@ -13,7 +13,7 @@ assertions:
     assertion-varys-secret-passage-red-keep:
         subject:
             person: person-varys
-        property: capability
+        property: description
         value: "Knows secret passages inside the Red Keep"
         citations:
             - citation-agot-eddard-v

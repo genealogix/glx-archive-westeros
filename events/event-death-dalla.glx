@@ -6,5 +6,5 @@ events:
             - person: person-dalla
               role: subject
         properties:
-            cause_of_death: "Childbirth"
+            cause: "Childbirth"
             description: "Dalla, wife of Mance Rayder, died in childbirth during the battle at Castle Black"

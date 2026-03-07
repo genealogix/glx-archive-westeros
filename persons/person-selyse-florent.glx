@@ -7,7 +7,8 @@ persons:
                     given: Selyse
                     surname: Florent
                 value: Selyse Florent
-            rin: MH:I197
+            external_ids:
+                - "MH:I197"
             title:
                 - value: "Lady"
             religion: "R'hllor"

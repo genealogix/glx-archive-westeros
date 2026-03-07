@@ -1,8 +1,8 @@
 assertions:
     assertion-bran-reaches-three-eyed-crow:
         subject:
-            person: person-bran-stark
-        property: notes
+            person: person-brandon-stark-bran
+        property: description
         value: "Bran Stark reached the cave of Brynden Rivers (Lord Bloodraven, the three-eyed crow) beyond the Wall in 300 AC, fulfilling his recurring prophetic dream from AGOT. Bloodraven confirmed Bran will never walk again but will fly — meaning he will become a greenseer."
         citations:
             - citation-adwd-bran-ii
@@ -23,8 +23,8 @@ assertions:
 
     assertion-bran-will-fly:
         subject:
-            person: person-bran-stark
-        property: notes
+            person: person-brandon-stark-bran
+        property: description
         value: "Bloodraven told Bran: 'You will never walk again, Bran, but you will fly.' This is a prophecy of Bran's destiny as a greenseer who can project his consciousness through weirwood trees and into animals."
         citations:
             - citation-adwd-bran-ii

@@ -7,4 +7,5 @@ persons:
                     given: Eldon
                     surname: Estermont
                 value: Eldon Estermont
-            rin: MH:I476
+            external_ids:
+                - "MH:I476"

@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Maelys 'The Monstrous'
+                    given: Maelys
+                    nickname: The Monstrous
                     surname: Blackfyre
-                value: Maelys 'The Monstrous' Blackfyre
-            rin: MH:I320
+                value: Maelys Blackfyre
+            external_ids:
+                - "MH:I320"

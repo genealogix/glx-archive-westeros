@@ -7,7 +7,8 @@ persons:
                     given: Arya
                     surname: Stark
                 value: Arya Stark
-            rin: MH:I219
+            external_ids:
+                - "MH:I219"
             alias:
                 - value: "Arry"
                 - value: "Nan"

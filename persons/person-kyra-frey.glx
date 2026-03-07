@@ -7,4 +7,5 @@ persons:
                     given: Kyra
                     surname: Frey
                 value: Kyra Frey
-            rin: MH:I54
+            external_ids:
+                - "MH:I54"

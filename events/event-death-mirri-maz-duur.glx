@@ -9,5 +9,5 @@ events:
               role: principal
         properties:
             description: "Mirri Maz Duur was bound to Khal Drogo's funeral pyre by Daenerys as punishment for the bloodmagic that left Drogo mindless and killed Daenerys's unborn son Rhaego. She was alive when the pyre was lit, screaming and then falling silent as the flames consumed her."
-            cause_of_death: "Burned alive on Khal Drogo's funeral pyre"
+            cause: "Burned alive on Khal Drogo's funeral pyre"
         notes: "Mirri Maz Duur said she would not scream, but she did. Her last audible act was a shuddering wail. Daenerys had warned her: 'I will hear your screams, but it is not your screams I want, only your life. I remember what you told me. Only death can pay for life.' Her death on the pyre may have contributed to the conditions for the dragon hatching."

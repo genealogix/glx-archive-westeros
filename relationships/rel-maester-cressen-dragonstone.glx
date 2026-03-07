@@ -7,6 +7,6 @@ relationships:
             - person: person-stannis-baratheon
               role: lord
         properties:
-            start_date: "AFT 287"
-            end_date: "299"
+            started_on: "AFT 287"
+            ended_on: "299"
             context: "Cressen served as Maester of Dragonstone for twelve years before his death in 299 AC. He came to Dragonstone with Lord Stannis. Source text: 'A maester must go where he is sent, so Cressen had come here with his lord some twelve years past, and he had served, and served well.' He died attempting to poison Melisandre (ACOK Prologue)."

@@ -7,4 +7,5 @@ persons:
                     given: Elbert
                     surname: Arryn
                 value: Elbert Arryn
-            rin: MH:I248
+            external_ids:
+                - "MH:I248"

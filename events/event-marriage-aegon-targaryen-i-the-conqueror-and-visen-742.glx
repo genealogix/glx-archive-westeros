@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-aegon-targaryen-i-the-conqueror
-              role: spouse
+              role: subject
             - person: person-visenya-targaryen
-              role: spouse
+              role: subject

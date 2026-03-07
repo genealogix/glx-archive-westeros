@@ -7,6 +7,7 @@ persons:
                     given: Mya
                     surname: Stone
                 value: Mya Stone
-            rin: MH:I192
+            external_ids:
+                - "MH:I192"
             bastard_name: "Stone"
         notes: "A bastard girl in service at the Eyrie. Listed in AGOT Appendix under House Arryn."

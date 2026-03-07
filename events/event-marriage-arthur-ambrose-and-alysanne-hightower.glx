@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-arthur-ambrose
-              role: spouse
+              role: subject
             - person: person-alysanne-hightower
-              role: spouse
+              role: subject

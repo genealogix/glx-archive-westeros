@@ -7,4 +7,5 @@ persons:
                     given: Rhaegel
                     surname: Targaryen
                 value: Rhaegel Targaryen
-            rin: MH:I295
+            external_ids:
+                - "MH:I295"

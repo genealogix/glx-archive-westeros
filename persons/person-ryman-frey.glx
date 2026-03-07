@@ -12,5 +12,6 @@ persons:
                 - value: "Heir to the Twins"
                   date: "FROM 299"
             house: Frey
-            rin: MH:I7
+            external_ids:
+                - "MH:I7"
         notes: "Son of Ser Stevron Frey. ASOS appendix lists him as 'SER RYMAN FREY, heir to the Twins' — became heir after his father Stevron's death at Oxcross. Father of Edwyn, Black Walder, and Petyr Pimple."

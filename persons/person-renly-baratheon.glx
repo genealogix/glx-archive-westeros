@@ -7,7 +7,8 @@ persons:
                     given: Renly
                     surname: Baratheon
                 value: Renly Baratheon
-            rin: MH:I196
+            external_ids:
+                - "MH:I196"
             title:
                 - value: "Lord of Storm's End"
                 - value: "Master of Laws"

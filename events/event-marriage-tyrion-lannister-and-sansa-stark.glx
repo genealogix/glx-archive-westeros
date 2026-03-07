@@ -5,9 +5,9 @@ events:
         place: place-kings-landing
         participants:
             - person: person-tyrion-lannister
-              role: spouse
+              role: subject
             - person: person-sansa-stark
-              role: spouse
+              role: subject
         properties:
             description: "The marriage of Tyrion Lannister and Sansa Stark at the Great Sept of Baelor in King's Landing, arranged by Tywin Lannister."
         notes: "A forced marriage arranged by Lord Tywin Lannister to secure the Lannister claim to Winterfell through Sansa. The marriage was reportedly never consummated. Occurs during ASOS."

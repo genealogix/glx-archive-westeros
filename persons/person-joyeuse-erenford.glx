@@ -7,4 +7,5 @@ persons:
                     given: Joyeuse
                     surname: Erenford
                 value: Joyeuse Erenford
-            rin: MH:I142
+            external_ids:
+                - "MH:I142"

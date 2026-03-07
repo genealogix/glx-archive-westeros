@@ -2,7 +2,7 @@ assertions:
     assertion-janos-slynt-execution:
         subject:
             person: person-janos-slynt
-        property: death
+        property: cause_of_death
         value: "Executed by beheading at Castle Black, 300 AC. Jon Snow used Longclaw."
         citations:
             - citation-adwd-jon-ii
@@ -13,7 +13,7 @@ assertions:
     assertion-janos-slynt-insubordination:
         subject:
             person: person-janos-slynt
-        property: notes
+        property: description
         value: "Refused Lord Commander Jon Snow's direct order to take command of Greyguard three separate times. Said: 'You can stick your order up your bastard's arse.' Laughed at Jon's authority. His defiance forced Jon to make an example or lose command of the Watch."
         citations:
             - citation-adwd-jon-ii

@@ -7,13 +7,14 @@ persons:
                     given: Jon
                     surname: Arryn
                 value: Jon Arryn
-            rin: MH:I226
+            external_ids:
+                - "MH:I226"
             title:
                 - value: "Lord of the Eyrie"
                 - value: "Defender of the Vale"
                 - value: "Warden of the East"
                 - value: "Hand of the King"
             house: "Arryn"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Recently deceased"
         notes: "Deceased before the events of AGOT. His death triggers the main plot."

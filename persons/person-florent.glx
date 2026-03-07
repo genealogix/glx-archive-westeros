@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Florent
                 value: Florent
-            rin: MH:I443
+            external_ids:
+                - "MH:I443"

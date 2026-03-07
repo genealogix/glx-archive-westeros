@@ -7,4 +7,5 @@ persons:
                     given: Tytos
                     surname: Brax
                 value: Tytos Brax
-            rin: MH:I154
+            external_ids:
+                - "MH:I154"

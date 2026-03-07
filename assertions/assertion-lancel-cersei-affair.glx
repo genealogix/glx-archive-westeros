@@ -2,7 +2,7 @@ assertions:
     assertion-lancel-cersei-affair:
         subject:
             person: person-cersei-lannister
-        property: secret_lover
+        property: description
         value: person-lancel-lannister
         citations:
             - citation-affc-jaime-iii
@@ -12,7 +12,7 @@ assertions:
 
     assertion-lancel-poisoned-robert:
         subject:
-            person: person-robert-baratheon
+            person: person-robert-baratheon-i
         property: cause_of_death
         value: "Poisoned wine, arranged by Cersei via Lancel (in addition to being gored by boar)"
         citations:

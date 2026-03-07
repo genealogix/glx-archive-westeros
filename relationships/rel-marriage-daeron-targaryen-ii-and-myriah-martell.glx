@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-myriah-martell
               role: spouse
-        properties:
-            marriage_event: event-marriage-daeron-targaryen-ii-and-myriah-martell
+        start_event: event-marriage-daeron-targaryen-ii-and-myriah-martell

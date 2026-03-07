@@ -2,7 +2,7 @@ assertions:
     assertion-quentyn-martell-dragon-theft-plan:
         subject:
             person: person-quentyn-martell
-        property: notes
+        property: description
         value: "Quentyn Martell plans to steal a dragon from Meereen's fighting pits with Windblown company assistance"
         citations:
             - citation-adwd-the-spurned-suitor

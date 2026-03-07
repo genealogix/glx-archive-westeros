@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Baelor 'Breakspear'
+                    given: Baelor
+                    nickname: Breakspear
                     surname: Targaryen
-                value: Baelor 'Breakspear' Targaryen
-            rin: MH:I292
+                value: Baelor Targaryen
+            external_ids:
+                - "MH:I292"

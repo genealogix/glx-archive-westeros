@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-garlan-tyrell
-              role: spouse
+              role: subject
             - person: person-leonette-fossoway
-              role: spouse
+              role: subject

@@ -53,10 +53,10 @@ assertions:
     assertion-sansa-stark-marriage-tyrion:
         subject:
             relationship: rel-marriage-tyrion-lannister-and-sansa-stark
-        property: participants
-        value: "person-sansa-stark, person-tyrion-lannister"
+        participant:
+            person: person-sansa-stark
+            role: spouse
+            notes: "Sansa married Tyrion Lannister during ASOS, arranged by Tywin Lannister. Confirmed in ADWD appendix: 'SANSA, his sister, m. Tyrion of House Lannister'."
         citations:
             - citation-asos-appendix
         confidence: high
-        status: accepted
-        notes: "Sansa married Tyrion Lannister during ASOS, arranged by Tywin Lannister. Confirmed in ADWD appendix: 'SANSA, his sister, m. Tyrion of House Lannister'."

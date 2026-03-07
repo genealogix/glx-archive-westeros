@@ -7,4 +7,5 @@ persons:
                     given: Runceford
                     surname: Redwyne
                 value: Runceford Redwyne
-            rin: MH:I439
+            external_ids:
+                - "MH:I439"

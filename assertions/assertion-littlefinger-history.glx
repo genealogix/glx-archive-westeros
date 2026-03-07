@@ -2,7 +2,7 @@ assertions:
     assertion-littlefinger-ward-of-tully:
         subject:
             person: person-petyr-baelish
-        property: early_life
+        property: description
         value: "Ward of Hoster Tully at Riverrun; childhood with Catelyn and Lysa"
         citations:
             - citation-agot-catelyn-iv
@@ -13,7 +13,7 @@ assertions:
     assertion-littlefinger-duel-brandon-stark:
         subject:
             person: person-petyr-baelish
-        property: duel
+        property: description
         value: "Challenged Brandon Stark for Catelyn Tully's hand in marriage"
         citations:
             - citation-agot-catelyn-iv
@@ -24,7 +24,7 @@ assertions:
     assertion-catelyn-burned-littlefingers-letter:
         subject:
             person: person-catelyn-tully
-        property: relationship_with_baelish
+        property: description
         value: "Burned Littlefinger's letter unread after Brandon Stark's death"
         citations:
             - citation-agot-catelyn-iv

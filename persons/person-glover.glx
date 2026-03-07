@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Glover
                 value: Glover
-            rin: MH:I428
+            external_ids:
+                - "MH:I428"

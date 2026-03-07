@@ -7,4 +7,5 @@ persons:
                     given: Garrett
                     surname: Flowers
                 value: Garrett Flowers
-            rin: MH:I396
+            external_ids:
+                - "MH:I396"

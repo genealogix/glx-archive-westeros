@@ -8,4 +8,5 @@ persons:
                     suffix: II
                     surname: Blackfyre
                 value: Daemon Blackfyre II
-            rin: MH:I315
+            external_ids:
+                - "MH:I315"

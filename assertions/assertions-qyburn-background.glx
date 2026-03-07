@@ -2,7 +2,7 @@ assertions:
     assertion-qyburn-stripped-chain:
         subject:
             person: person-qyburn
-        property: background
+        property: description
         value: "Qyburn's maester's chain was stripped by the Citadel for unspecified violations"
         citations:
             - citation-asos-jaime-v
@@ -13,7 +13,7 @@ assertions:
     assertion-qyburn-first-appearance:
         subject:
             person: person-qyburn
-        property: introduction
+        property: description
         value: "Qyburn first appears at Harrenhal treating Jaime Lannister's stump in 299 AC"
         citations:
             - citation-asos-jaime-v

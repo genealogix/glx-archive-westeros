@@ -7,4 +7,5 @@ persons:
                     given: Ronnel
                     surname: Arryn
                 value: Ronnel Arryn
-            rin: MH:I232
+            external_ids:
+                - "MH:I232"

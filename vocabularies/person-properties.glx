@@ -258,3 +258,46 @@ person_properties:
     description: "Whether this person exists in novel canon, show canon, or both"
     value_type: string
 
+  description:
+    label: "Description"
+    description: "General narrative description of a person (biographical, behavioral, narrative notes that don't fit other fields)"
+    value_type: string
+
+  cause_of_injury:
+    label: "Cause of Injury"
+    description: "How a person was injured or maimed (e.g. 'Lost right hand — cut off by Vargo Hoat', 'Burned by wildfire', 'Blinded by faceless man training'). Distinct from cause_of_death."
+    value_type: string
+    multi_value: true
+
+  kill_list:
+    label: "Kill List"
+    description: "List of people this person intends to kill or has vowed to kill (Arya's list)"
+    value_type: string
+
+  claim_to_throne:
+    label: "Claim to Throne"
+    description: "The basis of a person's claim to the Iron Throne or other throne (e.g. 'Legitimate son of Robert Baratheon', 'Last known Targaryen heir', 'Stannis's claim via Robert')"
+    value_type: string
+
+  night_watch_assignment:
+    label: "Night's Watch Assignment"
+    description: "Specific posting, patrol route, or ranger assignment within the Night's Watch (e.g. 'Assigned to the Shadow Tower', 'First Ranger')"
+    value_type: string
+    temporal: true
+
+  medical_treatment:
+    label: "Medical Treatment"
+    description: "Significant medical treatment received (e.g. 'Greyscale treated by Tyrion's cauterization advice', 'Hand reattached by Qyburn')"
+    value_type: string
+
+  enemies_list:
+    label: "Enemies List"
+    description: "Explicit enemies or people who have sworn to harm this person"
+    value_type: string
+
+  possession:
+    label: "Possession"
+    description: "Named item, artifact, or significant possession held by this person (e.g., 'Stannis holds Lightbringer (claimed)', 'Archmaester Marwyn's glass candle')"
+    value_type: string
+    multi_value: true
+

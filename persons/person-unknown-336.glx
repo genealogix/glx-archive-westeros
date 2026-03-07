@@ -2,4 +2,5 @@ persons:
     person-unknown-336:
         properties:
             gender: female
-            rin: MH:I336
+            external_ids:
+                - "MH:I336"

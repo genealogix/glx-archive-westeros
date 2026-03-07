@@ -7,4 +7,5 @@ persons:
                     given: Olyvar
                     surname: Martell
                 value: Olyvar Martell
-            rin: MH:I262
+            external_ids:
+                - "MH:I262"

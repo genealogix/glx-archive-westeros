@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-unknown-325
-              role: spouse
+              role: subject
             - person: person-elaena-targaryen
-              role: spouse
+              role: subject

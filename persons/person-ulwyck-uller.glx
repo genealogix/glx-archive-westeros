@@ -7,4 +7,5 @@ persons:
                     given: Ulwyck
                     surname: Uller
                 value: Ulwyck Uller
-            rin: MH:I275
+            external_ids:
+                - "MH:I275"

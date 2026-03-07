@@ -7,4 +7,5 @@ persons:
                     given: Elyn
                     surname: Norridge
                 value: Elyn Norridge
-            rin: MH:I398
+            external_ids:
+                - "MH:I398"

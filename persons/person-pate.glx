@@ -7,4 +7,5 @@ persons:
                     given: Pate
                     prefix: Ser
                 value: Ser Pate
-            rin: MH:I88
+            external_ids:
+                - "MH:I88"

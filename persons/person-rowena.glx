@@ -6,10 +6,11 @@ persons:
                 fields:
                     given: Rowena
                 value: Rowena
-            rin: MH:I229
+            external_ids:
+                - "MH:I229"
             title:
                 - value: "Lady"
             house: "Arryn"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Died of a winter chill"
         notes: "Second wife of Jon Arryn, his cousin. Died of a winter chill, childless."

@@ -7,4 +7,5 @@ persons:
                     given: Shiera
                     surname: Seastar
                 value: Shiera Seastar
-            rin: MH:I311
+            external_ids:
+                - "MH:I311"

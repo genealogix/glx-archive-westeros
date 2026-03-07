@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Dayne
                 value: Dayne
-            rin: MH:I482
+            external_ids:
+                - "MH:I482"

@@ -13,7 +13,7 @@ assertions:
     assertion-jory-cassel-burial:
         subject:
             person: person-jory-cassel
-        property: burial
+        property: description
         value: "Winterfell, beside his grandfather"
         citations:
             - citation-agot-eddard-x

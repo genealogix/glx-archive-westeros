@@ -7,4 +7,5 @@ persons:
                     given: Mellara
                     surname: Rivers
                 value: Mellara Rivers
-            rin: MH:I150
+            external_ids:
+                - "MH:I150"

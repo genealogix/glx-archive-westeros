@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Florent
                 value: Ser Ryam Florent
-            rin: MH:I440
+            external_ids:
+                - "MH:I440"

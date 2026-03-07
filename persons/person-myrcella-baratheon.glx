@@ -7,7 +7,8 @@ persons:
                     given: Myrcella
                     surname: Baratheon
                 value: Myrcella Baratheon
-            rin: MH:I169
+            external_ids:
+                - "MH:I169"
             title:
                 - value: "Princess"
             house: "Baratheon"

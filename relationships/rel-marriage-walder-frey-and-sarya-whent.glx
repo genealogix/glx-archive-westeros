@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-sarya-whent
               role: spouse
-        properties:
-            marriage_event: event-marriage-walder-frey-and-sarya-whent
+        start_event: event-marriage-walder-frey-and-sarya-whent

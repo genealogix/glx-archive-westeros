@@ -7,4 +7,5 @@ persons:
                     given: Steffon
                     surname: Baratheon
                 value: Steffon Baratheon
-            rin: MH:I187
+            external_ids:
+                - "MH:I187"

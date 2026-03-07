@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-eldon-estermont
-              role: spouse
+              role: subject
             - person: person-sylva-santagar-spotted-sylva
-              role: spouse
+              role: subject

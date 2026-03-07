@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-leslyn-haigh
-              role: spouse
+              role: subject
             - person: person-perriane-frey
-              role: spouse
+              role: subject

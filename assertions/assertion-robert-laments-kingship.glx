@@ -2,7 +2,7 @@ assertions:
     assertion-robert-laments-kingship:
         subject:
             person: person-robert-baratheon-i
-        property: private_sentiment
+        property: description
         value: "Deeply unhappy as king; marriage to Cersei loveless; still mourns Lyanna Stark"
         citations:
             - citation-agot-eddard-v
@@ -13,7 +13,7 @@ assertions:
     assertion-robert-doubts-joffrey:
         subject:
             person: person-robert-baratheon-i
-        property: private_sentiment
+        property: description
         value: "Privately fears Joffrey is not suited to rule; knows Joffrey lied about the Trident incident"
         citations:
             - citation-agot-eddard-v

@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-lothar-frey
-              role: spouse
+              role: subject
             - person: person-leonella-lefford
-              role: spouse
+              role: subject

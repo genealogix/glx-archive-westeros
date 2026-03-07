@@ -6,11 +6,19 @@ events:
         participants:
             - person: person-eddard-stark
               role: combatant
+            - person: person-howland-reed
+              role: combatant
+            - person: person-martyn-cassel
+              role: combatant
             - person: person-arthur-dayne
+              role: combatant
+            - person: person-oswell-whent
+              role: combatant
+            - person: person-gerold-hightower-the-white-bull
               role: combatant
             - person: person-lyanna-stark
               role: subject
         properties:
             description: "The Tower of Joy confrontation — Eddard Stark and six companions rode to the Tower of Joy in the Red Mountains of Dorne to find his sister Lyanna. Three Kingsguard — Ser Arthur Dayne, Ser Oswell Whent, and Lord Commander Gerold Hightower — guarded the tower. A fierce fight ensued. Only Ned and Howland Reed survived. Ned found Lyanna inside, dying in a bed of blood."
             also_known_as: "The Tower of Joy"
-        notes: "Lyanna made Ned promise her something before she died — 'Promise me, Ned.' This is one of the great mysteries of the series, widely believed to relate to Jon Snow's true parentage. Ned had the tower pulled down and used the stones to build cairns for the fallen."
+        notes: "Lyanna made Ned promise her something before she died — 'Promise me, Ned.' This is one of the great mysteries of the series, widely believed to relate to Jon Snow's true parentage. Ned had the tower pulled down and used the stones to build cairns for the fallen. Source text (AGOT Eddard X): 'In the dream his friends rode with him, as they had in life. Proud Martyn Cassel, Jory's father; faithful Theo Wull; Ethan Glover, who had been Brandon's squire; Ser Mark Ryswell, soft of speech and gentle of heart; the crannogman, Howland Reed; Lord Dustin on his great red stallion.' Seven men faced three Kingsguard: 'They waited before the round tower... Ser Arthur Dayne, the Sword of the Morning... Ser Oswell Whent... between them stood fierce old Ser Gerold Hightower, the White Bull, Lord Commander of the Kingsguard.' Only two survived: 'They had been seven against three, yet only two had lived to ride away; Eddard Stark himself and the little crannogman, Howland Reed.'"

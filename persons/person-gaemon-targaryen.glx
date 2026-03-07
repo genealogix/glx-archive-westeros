@@ -7,4 +7,5 @@ persons:
                     given: Gaemon
                     surname: Targaryen
                 value: Gaemon Targaryen
-            rin: MH:I371
+            external_ids:
+                - "MH:I371"

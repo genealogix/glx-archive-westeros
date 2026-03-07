@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-jared-frey
-              role: spouse
+              role: subject
             - person: person-alys-frey
-              role: spouse
+              role: subject

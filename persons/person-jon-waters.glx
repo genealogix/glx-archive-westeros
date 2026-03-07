@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Waters
                 value: Ser Jon Waters
-            rin: MH:I337
+            external_ids:
+                - "MH:I337"

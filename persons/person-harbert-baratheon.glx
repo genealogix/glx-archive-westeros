@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Baratheon
                 value: Ser Harbert Baratheon
-            rin: MH:I501
+            external_ids:
+                - "MH:I501"

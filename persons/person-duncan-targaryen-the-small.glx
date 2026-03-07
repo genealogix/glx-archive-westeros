@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Duncan 'The Small'
+                    given: Duncan
+                    nickname: The Small
                     surname: Targaryen
-                value: Duncan 'The Small' Targaryen
-            rin: MH:I280
+                value: Duncan Targaryen
+            external_ids:
+                - "MH:I280"

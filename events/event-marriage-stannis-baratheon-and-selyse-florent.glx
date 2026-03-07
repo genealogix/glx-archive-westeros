@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-stannis-baratheon
-              role: spouse
+              role: subject
             - person: person-selyse-florent
-              role: spouse
+              role: subject

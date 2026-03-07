@@ -20,7 +20,7 @@ events:
               role: participant
             - person: person-barristan-selmy
               role: witness
-            - person: person-ned-stark
+            - person: person-eddard-stark
               role: witness
             - person: person-robert-baratheon-i
               role: patron

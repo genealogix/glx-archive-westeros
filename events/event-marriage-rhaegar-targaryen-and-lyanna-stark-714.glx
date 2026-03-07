@@ -1,8 +1,8 @@
 events:
     event-marriage-rhaegar-targaryen-and-lyanna-stark-714:
-        type: event
+        type: marriage
         participants:
             - person: person-rhaegar-targaryen
-              role: spouse
+              role: subject
             - person: person-lyanna-stark
-              role: spouse
+              role: subject

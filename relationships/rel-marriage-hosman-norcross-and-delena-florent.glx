@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-delena-florent
               role: spouse
-        properties:
-            marriage_event: event-marriage-hosman-norcross-and-delena-florent
+        start_event: event-marriage-hosman-norcross-and-delena-florent

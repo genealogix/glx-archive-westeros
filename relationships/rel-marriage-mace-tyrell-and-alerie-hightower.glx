@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-alerie-hightower
               role: spouse
-        properties:
-            marriage_event: event-marriage-mace-tyrell-and-alerie-hightower
+        start_event: event-marriage-mace-tyrell-and-alerie-hightower

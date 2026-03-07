@@ -6,7 +6,7 @@ events:
         participants:
             - person: person-khal-drogo
               role: subject
-            - person: person-daenerys-targaryen
+            - person: person-daenerys-targaryen-304
               role: witness
             - person: person-jorah-mormont
               role: witness

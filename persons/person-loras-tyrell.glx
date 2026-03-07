@@ -8,7 +8,8 @@ persons:
                     prefix: Ser
                     surname: Tyrell
                 value: Ser Loras Tyrell
-            rin: MH:I374
+            external_ids:
+                - "MH:I374"
             title:
                 - value: "Ser"
                 - value: "Lord Commander of the Rainbow Guard"

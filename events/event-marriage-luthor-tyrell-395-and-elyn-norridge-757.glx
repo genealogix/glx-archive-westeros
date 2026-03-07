@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-luthor-tyrell-395
-              role: spouse
+              role: subject
             - person: person-elyn-norridge
-              role: spouse
+              role: subject

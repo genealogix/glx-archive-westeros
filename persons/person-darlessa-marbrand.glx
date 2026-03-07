@@ -7,6 +7,7 @@ persons:
                     given: Darlessa
                     surname: Marbrand
                 value: Darlessa Marbrand
-            rin: MH:I176
+            external_ids:
+                - "MH:I176"
             house: "Marbrand"
         notes: "Widow of Ser Tygett Lannister."

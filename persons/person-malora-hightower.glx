@@ -7,4 +7,5 @@ persons:
                     given: Malora
                     surname: Hightower
                 value: Malora Hightower
-            rin: MH:I415
+            external_ids:
+                - "MH:I415"

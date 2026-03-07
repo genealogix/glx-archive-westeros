@@ -7,7 +7,8 @@ persons:
                     given: Daenys
                     surname: Targaryen
                 value: Daenys Targaryen
-            rin: MH:I372
+            external_ids:
+                - "MH:I372"
             house: "Targaryen"
             alias:
                 - value: "Daenys the Dreamer"

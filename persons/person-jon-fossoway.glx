@@ -7,4 +7,5 @@ persons:
                     given: Jon
                     surname: Fossoway
                 value: Jon Fossoway
-            rin: MH:I388
+            external_ids:
+                - "MH:I388"

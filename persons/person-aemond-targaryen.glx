@@ -7,4 +7,5 @@ persons:
                     given: Aemond
                     surname: Targaryen
                 value: Aemond Targaryen
-            rin: MH:I346
+            external_ids:
+                - "MH:I346"

@@ -7,4 +7,5 @@ persons:
                     given: Zachery
                     surname: Frey
                 value: Zachery Frey
-            rin: MH:I57
+            external_ids:
+                - "MH:I57"

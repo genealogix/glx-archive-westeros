@@ -2,7 +2,7 @@ assertions:
     assertion-chett-night-watch-mutiny:
         subject:
             person: person-chett
-        property: notes
+        property: description
         value: "Ringleader of planned mutiny at Fist of First Men, intending to desert with fourteen brothers"
         citations:
             - citation-asos-prologue
@@ -13,7 +13,7 @@ assertions:
     assertion-chett-origin:
         subject:
             person: person-chett
-        property: birthplace
+        property: born_at
         value: "Hag's Mire"
         citations:
             - citation-asos-prologue
@@ -24,7 +24,7 @@ assertions:
     assertion-chett-crime:
         subject:
             person: person-chett
-        property: notes
+        property: description
         value: "Sent to the Wall for murdering Bessa"
         citations:
             - citation-asos-prologue

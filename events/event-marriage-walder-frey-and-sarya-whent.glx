@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-walder-frey
-              role: spouse
+              role: subject
             - person: person-sarya-whent
-              role: spouse
+              role: subject

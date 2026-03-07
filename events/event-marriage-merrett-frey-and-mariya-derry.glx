@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-merrett-frey
-              role: spouse
+              role: subject
             - person: person-mariya-derry
-              role: spouse
+              role: subject

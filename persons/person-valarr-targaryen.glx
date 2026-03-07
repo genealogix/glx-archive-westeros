@@ -7,4 +7,5 @@ persons:
                     given: Valarr
                     surname: Targaryen
                 value: Valarr Targaryen
-            rin: MH:I298
+            external_ids:
+                - "MH:I298"

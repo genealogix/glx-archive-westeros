@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Velaryon
                 value: Velaryon
-            rin: MH:I322
+            external_ids:
+                - "MH:I322"

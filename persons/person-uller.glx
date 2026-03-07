@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Uller
                 value: Uller
-            rin: MH:I274
+            external_ids:
+                - "MH:I274"

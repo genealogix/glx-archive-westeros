@@ -1,7 +1,7 @@
 places:
     place-shipbreaker-bay:
         name: "Shipbreaker Bay"
-        type: landmark
+        type: bay
         parent: place-the-stormlands
         properties:
             also_known_as: "The Bay below Storm's End"

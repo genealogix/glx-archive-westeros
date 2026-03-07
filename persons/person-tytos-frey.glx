@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Frey
                 value: Ser Tytos Frey
-            rin: MH:I53
+            external_ids:
+                - "MH:I53"

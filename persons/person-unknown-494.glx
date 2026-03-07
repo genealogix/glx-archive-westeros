@@ -2,4 +2,5 @@ persons:
     person-unknown-494:
         properties:
             gender: unknown
-            rin: MH:I494
+            external_ids:
+                - "MH:I494"

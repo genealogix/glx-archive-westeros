@@ -7,6 +7,6 @@ relationships:
             - person: person-beric-dondarrion
               role: captor
         properties:
-            start_date: "299"
+            started_on: "299"
             context: "Arya Stark was captured by members of the Brotherhood Without Banners (Harwin recognized her from Winterfell) and held for ransom to be paid by her brother Robb Stark. Lord Beric pledged on his honor to return her safely to her mother. Brotherhood members who interact with Arya: Harwin, Tom Sevenstrings, Lem Lemoncloak, Anguy, Greenbeard, Jack-Be-Lucky."
         notes: "Cited from ASOS Arya IV. The ransom plan eventually failed — Sandor Clegane abducted Arya from the Brotherhood after the Red Wedding."

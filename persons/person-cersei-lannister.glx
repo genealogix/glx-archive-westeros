@@ -7,7 +7,8 @@ persons:
                     given: Cersei
                     surname: Lannister
                 value: Cersei Lannister
-            rin: MH:I165
+            external_ids:
+                - "MH:I165"
             title:
                 - value: "Queen"
                 - value: "Queen Dowager"

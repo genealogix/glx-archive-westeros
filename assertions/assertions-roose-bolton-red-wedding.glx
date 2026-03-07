@@ -2,7 +2,7 @@ assertions:
     assertion-roose-bolton-killed-robb:
         subject:
             person: person-roose-bolton
-        property: action_at_red_wedding
+        property: description
         value: "Personally killed Robb Stark"
         citations:
             - citation-asos-catelyn-vii
@@ -13,7 +13,7 @@ assertions:
     assertion-roose-bolton-conspirator:
         subject:
             person: person-roose-bolton
-        property: role_in_red_wedding
+        property: description
         value: "Co-conspirator with Walder Frey and Tywin Lannister"
         citations:
             - citation-asos-catelyn-vii
@@ -24,7 +24,7 @@ assertions:
     assertion-roose-bolton-bolton-men-massacre:
         subject:
             person: person-roose-bolton
-        property: forces_at_red_wedding
+        property: description
         value: "Bolton men in shaggy fur cloaks entered through other doors to kill Robb's guard"
         citations:
             - citation-asos-catelyn-vii

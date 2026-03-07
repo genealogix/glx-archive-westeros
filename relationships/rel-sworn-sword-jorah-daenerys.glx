@@ -7,6 +7,6 @@ relationships:
             - person: person-daenerys-targaryen-206
               role: liege
         properties:
-            start_date: "298"
+            started_on: "298"
             context: "Ser Jorah Mormont attached himself to the court of Viserys Targaryen in Pentos and became Daenerys's protector and advisor after her marriage to Khal Drogo. He had originally been spying on Daenerys for Robert Baratheon's small council (in exchange for a royal pardon for slave-trading), but came to genuinely serve and love her. He warned her of the assassination attempt on her life, which ended his role as informant. He served as her primary military advisor and protector through Essos."
         notes: "Jorah's loyalty was complicated by his secret role as an informant for the Iron Throne, revealed to Daenerys in ADWD. She exiled him from her service at Meereen. He eventually returned and was forgiven. His feelings for Daenerys went beyond sworn service into unrequited love."

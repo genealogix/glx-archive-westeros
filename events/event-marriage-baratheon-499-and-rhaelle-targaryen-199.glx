@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-baratheon-499
-              role: spouse
+              role: subject
             - person: person-rhaelle-targaryen-199
-              role: spouse
+              role: subject

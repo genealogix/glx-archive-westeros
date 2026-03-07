@@ -7,7 +7,8 @@ persons:
                     given: Elia
                     surname: Sand
                 value: Elia Sand
-            rin: MH:I265
+            external_ids:
+                - "MH:I265"
             alias:
                 - value: "Sand Snake"
             house: "Martell"

@@ -7,4 +7,5 @@ persons:
                     given: Jeor
                     surname: Mormont
                 value: Jeor Mormont
-            rin: MH:I488
+            external_ids:
+                - "MH:I488"

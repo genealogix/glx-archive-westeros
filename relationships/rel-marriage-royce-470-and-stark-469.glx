@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-stark-469
               role: spouse
-        properties:
-            marriage_event: event-marriage-royce-470-and-stark-469
+        start_event: event-marriage-royce-470-and-stark-469

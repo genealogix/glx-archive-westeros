@@ -2,7 +2,7 @@ assertions:
     assertion-quellon-greyjoy-sons:
         subject:
             person: person-quellon-greyjoy
-        property: children
+        property: description
         value: "Nine sons total: Harlon, Quenton, Donel (first wife, a Stonetrees woman); Balon, Euron, Victarion, Urrigon, Aeron (second wife, a Sunderly of Saltcliffe); Robin (third wife, a green-lands woman — described as a sickly idiot)"
         citations:
             - citation-affc-the-prophet-i

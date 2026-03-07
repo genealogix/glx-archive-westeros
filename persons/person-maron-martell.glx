@@ -7,4 +7,5 @@ persons:
                     given: Maron
                     surname: Martell
                 value: Maron Martell
-            rin: MH:I305
+            external_ids:
+                - "MH:I305"

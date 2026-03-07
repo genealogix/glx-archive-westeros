@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-steffon-baratheon
-              role: spouse
+              role: subject
             - person: person-cassana-estermont
-              role: spouse
+              role: subject

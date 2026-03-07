@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-velena-velaryon
               role: spouse
-        properties:
-            marriage_event: event-marriage-aerion-targaryen-358-and-velena-velaryon
+        start_event: event-marriage-aerion-targaryen-358-and-velena-velaryon

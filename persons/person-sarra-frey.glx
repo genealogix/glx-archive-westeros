@@ -7,4 +7,5 @@ persons:
                     given: Sarra
                     surname: Frey
                 value: Sarra Frey
-            rin: MH:I98
+            external_ids:
+                - "MH:I98"

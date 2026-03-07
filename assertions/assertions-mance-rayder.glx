@@ -2,7 +2,7 @@ assertions:
     assertion-mance-burning-was-glamour:
         subject:
             person: person-mance-rayder
-        property: death
+        property: description
         value: "Mance Rayder did NOT die in the burning at Castle Black. The figure burned was Rattleshirt (Lord of Bones), glamoured by Melisandre using her ruby to appear as Mance. The true Mance was sent north disguised."
         citations:
             - citation-adwd-jon-iii
@@ -13,7 +13,7 @@ assertions:
     assertion-horn-of-joramun-burned:
         subject:
             event: event-burning-mance-rayder
-        property: notes
+        property: description
         value: "Melisandre burned the Horn of Joramun (eight feet long, black, banded with old gold, runes of the First Men carved into the bands) at the same ceremony. She called it the Horn of Darkness. Whether this was the true Horn or also a decoy is not established in ADWD lines 1-8000."
         citations:
             - citation-adwd-jon-iii

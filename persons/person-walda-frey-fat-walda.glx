@@ -4,7 +4,9 @@ persons:
             gender: female
             name:
                 fields:
-                    given: Walda 'Fat Walda'
+                    given: Walda
+                    nickname: Fat Walda
                     surname: Frey
-                value: Walda 'Fat Walda' Frey
-            rin: MH:I89
+                value: Walda Frey
+            external_ids:
+                - "MH:I89"

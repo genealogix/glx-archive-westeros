@@ -7,4 +7,5 @@ persons:
                     given: Perra
                     surname: Royce
                 value: Perra Royce
-            rin: MH:I2
+            external_ids:
+                - "MH:I2"

@@ -4,7 +4,7 @@ events:
         date: "298"
         place: place-winterfell
         participants:
-            - person: person-bran-stark
+            - person: person-brandon-stark-bran
               role: subject
             - person: person-robb-stark
               role: witness

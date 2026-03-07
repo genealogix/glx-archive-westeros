@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Aemon 'The Dragonknight'
+                    given: Aemon
+                    nickname: The Dragonknight
                     surname: Targaryen
-                value: Aemon 'The Dragonknight' Targaryen
-            rin: MH:I307
+                value: Aemon Targaryen
+            external_ids:
+                - "MH:I307"

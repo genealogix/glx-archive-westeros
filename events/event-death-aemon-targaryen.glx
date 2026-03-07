@@ -7,6 +7,4 @@ events:
               role: witness
         properties:
             description: "Maester Aemon Targaryen died at sea aboard the Cinnamon Wind, south of Dorne, at the age of 102. Sam Tarly delivered the eulogy: 'He was Aemon Targaryen. And now his watch is ended.' Before dying, Aemon spoke clearly of Daenerys Targaryen as the fulfillment of the prince-that-was-promised prophecy, saying the language of the prophecy misled scholars because dragons are neither male nor female. He begged Sam to carry this message to the archmaesters of the Citadel."
-            cause_of_death: "Old age and illness, aged 102"
-            citations:
-                - citation-affc-samwell-aemon-death
+            cause: "Old age and illness, aged 102"

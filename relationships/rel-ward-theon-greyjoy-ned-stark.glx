@@ -7,6 +7,6 @@ relationships:
             - person: person-eddard-stark
               role: guardian
         properties:
-            start_date: "289"
-            end_date: "299"
+            started_on: "289"
+            ended_on: "299"
             context: "Theon Greyjoy was taken as ward/hostage at Winterfell after the Greyjoy Rebellion, to ensure Lord Balon's compliance. Theon was ten years old when taken. He spent approximately ten years in Winterfell before returning to the Iron Islands in 299 AC. Source text (Theon I): 'I was a boy of ten when I was taken to Winterfell as a ward of Eddard Stark. Ward in name, a hostage in truth.' The wardship formally ended when Robb Stark sent Theon to treat with Balon Greyjoy."

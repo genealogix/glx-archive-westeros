@@ -7,4 +7,5 @@ persons:
                     given: Velena
                     surname: Velaryon
                 value: Velena Velaryon
-            rin: MH:I359
+            external_ids:
+                - "MH:I359"

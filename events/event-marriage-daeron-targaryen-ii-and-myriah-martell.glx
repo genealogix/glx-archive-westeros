@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-daeron-targaryen-ii
-              role: spouse
+              role: subject
             - person: person-myriah-martell
-              role: spouse
+              role: subject

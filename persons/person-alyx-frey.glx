@@ -7,4 +7,5 @@ persons:
                     given: Alyx
                     surname: Frey
                 value: Alyx Frey
-            rin: MH:I83
+            external_ids:
+                - "MH:I83"

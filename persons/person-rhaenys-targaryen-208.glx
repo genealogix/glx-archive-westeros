@@ -7,7 +7,8 @@ persons:
                     given: Rhaenys
                     surname: Targaryen
                 value: Rhaenys Targaryen
-            rin: MH:I208
+            external_ids:
+                - "MH:I208"
             title:
                 - value: "Queen"
             house: "Targaryen"

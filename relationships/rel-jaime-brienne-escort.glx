@@ -7,6 +7,6 @@ relationships:
             - person: person-jaime-lannister
               role: prisoner
         properties:
-            start_date: "299"
+            started_on: "299"
             context: "Catelyn Stark released Jaime Lannister from Riverrun and commanded Brienne of Tarth to escort him safely to King's Landing in exchange for her daughters Sansa and Arya. Brienne swore to complete this mission. They were captured by the Brave Companions after their fight in the brook near Maidenpool, where Ser Cleos Frey was killed. Jaime's hand was cut off. They eventually arrived at Harrenhal together."
         notes: "A relationship that begins as guard-prisoner and evolves into mutual respect. Jaime's shout of 'Sapphires!' to protect Brienne from rape in ASOS Jaime IV marks the turning point. The escort is cited from ASOS Jaime III-V."

@@ -7,4 +7,5 @@ persons:
                     given: Tyana
                     surname: Wylde
                 value: Tyana Wylde
-            rin: MH:I36
+            external_ids:
+                - "MH:I36"

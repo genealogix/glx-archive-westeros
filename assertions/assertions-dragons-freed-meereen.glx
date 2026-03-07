@@ -14,7 +14,7 @@ assertions:
     assertion-rhaegal-kills-quentyn:
         subject:
             event: event-dragontamer-quentyn-burned
-        property: perpetrator
+        property: description
         value: "Rhaegal (the green dragon)"
         citations:
             - citation-adwd-the-dragontamer

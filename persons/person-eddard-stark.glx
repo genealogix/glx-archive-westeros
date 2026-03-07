@@ -7,7 +7,8 @@ persons:
                     given: Eddard
                     surname: Stark
                 value: Eddard Stark
-            rin: MH:I214
+            external_ids:
+                - "MH:I214"
             title:
                 - value: "Lord of Winterfell"
                 - value: "Warden of the North"

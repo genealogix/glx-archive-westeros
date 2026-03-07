@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Lannister
                 value: Lannister
-            rin: MH:I180
+            external_ids:
+                - "MH:I180"

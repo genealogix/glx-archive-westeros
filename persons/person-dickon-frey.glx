@@ -7,4 +7,5 @@ persons:
                     given: Dickon
                     surname: Frey
                 value: Dickon Frey
-            rin: MH:I116
+            external_ids:
+                - "MH:I116"

@@ -13,7 +13,7 @@ assertions:
     assertion-winterfell-hot-springs:
         subject:
             person: person-catelyn-tully
-        property: notes
+        property: description
         value: "Winterfell was built over natural hot springs that heat the castle walls year-round"
         citations:
             - citation-agot-catelyn-ii
@@ -24,7 +24,7 @@ assertions:
     assertion-lysa-arryn-letter-allegation:
         subject:
             person: person-lysa-tully
-        property: notes
+        property: description
         value: "Sent secret letter to Catelyn alleging Lannisters (the queen) murdered Jon Arryn; letter concealed in false bottom of box with Myr lens; sealed in blue wax with moon-and-falcon of House Arryn"
         citations:
             - citation-agot-catelyn-i

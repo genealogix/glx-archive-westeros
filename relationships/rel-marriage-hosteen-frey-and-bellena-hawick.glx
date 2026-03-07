@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-bellena-hawick
               role: spouse
-        properties:
-            marriage_event: event-marriage-hosteen-frey-and-bellena-hawick
+        start_event: event-marriage-hosteen-frey-and-bellena-hawick

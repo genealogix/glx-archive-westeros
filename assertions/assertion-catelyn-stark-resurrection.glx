@@ -14,7 +14,7 @@ assertions:
     assertion-beric-dondarrion-final-death:
         subject:
             person: person-thoros-of-myr
-        property: testimony
+        property: description
         value: "Beric Dondarrion gave his final life to resurrect Catelyn Stark"
         citations:
             - citation-affc-brienne-viii

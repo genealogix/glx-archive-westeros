@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-rhaegar-targaryen
-              role: spouse
+              role: subject
             - person: person-lyanna-stark
-              role: spouse
+              role: subject

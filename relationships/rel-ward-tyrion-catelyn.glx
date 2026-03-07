@@ -4,9 +4,9 @@ relationships:
         participants:
             - person: person-tyrion-lannister
               role: hostage
-            - person: person-catelyn-stark
+            - person: person-catelyn-tully
               role: captor
         properties:
-            start_date: "298"
-            end_date: "298"
+            started_on: "298"
+            ended_on: "298"
             context: "Catelyn Stark arrested Tyrion Lannister at the Inn at the Crossroads, accusing him of attempting to murder her son Bran and conspiracy in Jon Arryn's death. She took him prisoner on the high road to the Eyrie (not Winterfell, as she feigned). Tyrion was imprisoned in the sky cells of the Eyrie until he won his freedom through trial by combat."

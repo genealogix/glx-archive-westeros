@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-deana-hardyng
               role: spouse
-        properties:
-            marriage_event: event-marriage-walton-frey-and-deana-hardyng
+        start_event: event-marriage-walton-frey-and-deana-hardyng

@@ -7,4 +7,5 @@ persons:
                     given: Sarya
                     surname: Whent
                 value: Sarya Whent
-            rin: MH:I125
+            external_ids:
+                - "MH:I125"

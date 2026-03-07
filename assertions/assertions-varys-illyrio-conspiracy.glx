@@ -2,7 +2,7 @@ assertions:
     assertion-varys-illyrio-tunnels-conversation:
         subject:
             person: person-varys
-        property: testimony
+        property: description
         value: "Secret meeting with Illyrio beneath the Red Keep"
         citations:
             - citation-agot-arya-iii
@@ -13,7 +13,7 @@ assertions:
     assertion-illyrio-identified:
         subject:
             person: person-varys
-        property: conspirator
+        property: description
         value: "Met secretly with Illyrio Mopatis beneath Red Keep"
         citations:
             - citation-agot-arya-iii

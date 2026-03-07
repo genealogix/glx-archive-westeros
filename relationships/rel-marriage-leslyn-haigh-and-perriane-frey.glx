@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-perriane-frey
               role: spouse
-        properties:
-            marriage_event: event-marriage-leslyn-haigh-and-perriane-frey
+        start_event: event-marriage-leslyn-haigh-and-perriane-frey

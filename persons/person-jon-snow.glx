@@ -7,7 +7,8 @@ persons:
                     given: Jon
                     surname: Snow
                 value: Jon Snow
-            rin: MH:I211
+            external_ids:
+                - "MH:I211"
             title:
                 - value: "Lord Commander of the Night's Watch"
                   date: "FROM 300"

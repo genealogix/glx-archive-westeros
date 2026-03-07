@@ -7,4 +7,5 @@ persons:
                     given: Steffon
                     surname: Frey
                 value: Steffon Frey
-            rin: MH:I25
+            external_ids:
+                - "MH:I25"

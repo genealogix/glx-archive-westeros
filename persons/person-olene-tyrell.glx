@@ -7,4 +7,5 @@ persons:
                     given: Olene
                     surname: Tyrell
                 value: Olene Tyrell
-            rin: MH:I400
+            external_ids:
+                - "MH:I400"

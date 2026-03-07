@@ -4,11 +4,13 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Aegon 'The Conqueror'
+                    given: Aegon
+                    nickname: The Conqueror
                     suffix: I
                     surname: Targaryen
-                value: Aegon 'The Conqueror' Targaryen I
-            rin: MH:I353
+                value: Aegon Targaryen I
+            external_ids:
+                - "MH:I353"
             house: "Targaryen"
             title:
                 - value: "King of the Andals, the Rhoynar, and the First Men"

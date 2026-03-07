@@ -7,4 +7,5 @@ persons:
                     given: Androw
                     surname: Frey
                 value: Androw Frey
-            rin: MH:I73
+            external_ids:
+                - "MH:I73"

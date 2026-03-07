@@ -7,4 +7,5 @@ persons:
                     given: Bellena
                     surname: Hawick
                 value: Bellena Hawick
-            rin: MH:I69
+            external_ids:
+                - "MH:I69"

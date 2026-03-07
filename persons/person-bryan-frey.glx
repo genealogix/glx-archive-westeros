@@ -7,4 +7,5 @@ persons:
                     given: Bryan
                     surname: Frey
                 value: Bryan Frey
-            rin: MH:I27
+            external_ids:
+                - "MH:I27"

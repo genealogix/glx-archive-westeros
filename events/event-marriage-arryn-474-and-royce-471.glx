@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-arryn-474
-              role: spouse
+              role: subject
             - person: person-royce-471
-              role: spouse
+              role: subject

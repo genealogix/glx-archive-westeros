@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Tarly
                 value: Tarly
-            rin: MH:I461
+            external_ids:
+                - "MH:I461"

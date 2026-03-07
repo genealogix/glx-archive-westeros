@@ -7,4 +7,5 @@ persons:
                     given: Tywin
                     surname: Frey
                 value: Tywin Frey
-            rin: MH:I101
+            external_ids:
+                - "MH:I101"

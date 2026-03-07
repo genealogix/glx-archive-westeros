@@ -7,6 +7,7 @@ persons:
                     given: Genna
                     surname: Lannister
                 value: Genna Lannister
-            rin: MH:I28
+            external_ids:
+                - "MH:I28"
             house: "Lannister"
         notes: "Sister of Tywin Lannister. Wed to Ser Emmon Frey."

@@ -7,4 +7,5 @@ persons:
                     given: Alyn
                     surname: Ambrose
                 value: Alyn Ambrose
-            rin: MH:I463
+            external_ids:
+                - "MH:I463"

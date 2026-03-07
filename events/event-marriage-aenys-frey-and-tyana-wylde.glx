@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-aenys-frey
-              role: spouse
+              role: subject
             - person: person-tyana-wylde
-              role: spouse
+              role: subject

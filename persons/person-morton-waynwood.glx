@@ -7,4 +7,5 @@ persons:
                     given: Morton
                     surname: Waynwood
                 value: Morton Waynwood
-            rin: MH:I252
+            external_ids:
+                - "MH:I252"

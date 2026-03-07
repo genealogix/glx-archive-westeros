@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Mormont
                 value: Ser Jorah Mormont
-            rin: MH:I423
+            external_ids:
+                - "MH:I423"

@@ -10,7 +10,7 @@ events:
               role: instigator
             - person: person-melisandre
               role: agent
-            - person: person-catelyn-stark
+            - person: person-catelyn-tully
               role: witness
             - person: person-brienne-tarth
               role: witness

@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-baelor-hightower
-              role: spouse
+              role: subject
             - person: person-rhonda-rowan
-              role: spouse
+              role: subject

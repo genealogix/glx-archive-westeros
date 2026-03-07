@@ -4,10 +4,12 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Hobber 'Slobber'
+                    given: Hobber
+                    nickname: Slobber
                     surname: Redwyne
-                value: Hobber 'Slobber' Redwyne
-            rin: MH:I391
+                value: Hobber Redwyne
+            external_ids:
+                - "MH:I391"
             title:
                 - value: "Ser"
             alias:

@@ -2,7 +2,7 @@ assertions:
     assertion-varamyr-second-life:
         subject:
             person: person-varamyr-sixskins
-        property: death
+        property: description
         value: "Varamyr Sixskins died at an unnamed wildling village, his body claimed by Thistle after he attempted to seize her as a skin. His consciousness entered his wolf One Eye as a second life — the skinchanger's form of continuation after death."
         citations:
             - citation-adwd-prologue
@@ -24,7 +24,7 @@ assertions:
     assertion-varamyr-skinchanger-rules:
         subject:
             person: person-varamyr-sixskins
-        property: notes
+        property: description
         value: "Skinchanger lore: a skinchanger can enter a second life in a beast after human death. Eating human flesh is abomination. Mating as a beast with another beast is abomination. Seizing a human body (possessing another person) is the worst abomination of all. Only one person in a thousand is born a skinchanger; only one in a thousand skinchangers can be a greenseer (per Lord Bloodraven)."
         citations:
             - citation-adwd-prologue

@@ -17,3 +17,4 @@ events:
         properties:
             description: "Wight attack on the Night's Watch ranging camp at the Fist of the First Men. Three horn blasts warned of Others approaching. The Night's Watch suffered catastrophic losses. Survivors fled south. This event ends the ASOS Prologue chapter."
             also_known_as: "The disaster at the Fist"
+            forces_involved: "Three hundred sworn brothers — two hundred from Castle Black and another hundred from the Shadow Tower, near a third of the Watch's strength"

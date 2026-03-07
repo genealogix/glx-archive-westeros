@@ -12,5 +12,5 @@ events:
               role: witness
         properties:
             description: "Quentyn Martell is burned by Rhaegal's dragonflame in the dragon pit beneath the Great Pyramid of Meereen while attempting to steal and tame the dragons Rhaegal and Viserion. He survives for three days before dying of his burns."
-            cause_of_death: "Dragonfire — burned by Rhaegal in the dragon pit of the Great Pyramid of Meereen"
+            cause: "Dragonfire — burned by Rhaegal in the dragon pit of the Great Pyramid of Meereen"
             also_known_as: "The Dragon Taming Attempt"

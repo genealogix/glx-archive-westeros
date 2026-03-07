@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Haigh
                 value: Ser Donnel Haigh
-            rin: MH:I46
+            external_ids:
+                - "MH:I46"

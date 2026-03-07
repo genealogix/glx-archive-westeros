@@ -14,6 +14,6 @@ events:
               role: witness
         properties:
             description: "Viserys Targaryen III killed by Khal Drogo with a crown of molten gold, in Vaes Dothrak. Viserys had threatened Daenerys and her unborn child with a sword at a feast, demanding his promised army. Drogo seized him and poured molten gold over his head, fulfilling the promise of 'a golden crown that men shall tremble to behold.' Viserys died screaming. Daenerys did not mourn him."
-            cause_of_death: "Molten gold poured over the head"
+            cause: "Molten gold poured over the head"
             also_known_as: "The Golden Crown"
         notes: "Viserys's last words were 'I am the dragon, and I will be crowned!' Dany thought: 'He was no dragon. Fire cannot kill a dragon.' No blood was spilled, fulfilling the sacred prohibition on bloodshed in Vaes Dothrak. This freed Daenerys from her brother's control and her fear of him."

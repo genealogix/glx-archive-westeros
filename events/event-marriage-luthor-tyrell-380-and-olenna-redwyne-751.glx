@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-luthor-tyrell-380
-              role: spouse
+              role: subject
             - person: person-olenna-redwyne
-              role: spouse
+              role: subject

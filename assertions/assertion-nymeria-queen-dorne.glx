@@ -2,7 +2,7 @@ assertions:
     assertion-nymeria-burned-ships:
         subject:
             person: person-nymeria
-        property: action
+        property: description
         value: "Burned the Rhoynish fleet on arriving in Dorne to prevent retreat"
         citations:
             - citation-twoiaf-ten-thousand-ships

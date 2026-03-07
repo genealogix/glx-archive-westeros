@@ -7,4 +7,5 @@ persons:
                     given: Lyonel
                     surname: Frey
                 value: Lyonel Frey
-            rin: MH:I30
+            external_ids:
+                - "MH:I30"

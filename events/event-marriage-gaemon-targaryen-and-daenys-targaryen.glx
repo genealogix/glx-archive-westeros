@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-gaemon-targaryen
-              role: spouse
+              role: subject
             - person: person-daenys-targaryen
-              role: spouse
+              role: subject

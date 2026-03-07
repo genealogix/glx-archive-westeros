@@ -7,10 +7,11 @@ persons:
                     given: Elia
                     surname: Martell
                 value: Elia Martell
-            rin: MH:I207
+            external_ids:
+                - "MH:I207"
             title:
                 - value: "Princess"
             house: "Martell"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Slain during the Sack of King's Landing"
         notes: "Sister of Doran and Oberyn Martell. Wed to Prince Rhaegar Targaryen. Slain during the Sack of King's Landing."

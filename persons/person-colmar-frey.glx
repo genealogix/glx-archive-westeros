@@ -7,4 +7,5 @@ persons:
                     given: Colmar
                     surname: Frey
                 value: Colmar Frey
-            rin: MH:I138
+            external_ids:
+                - "MH:I138"

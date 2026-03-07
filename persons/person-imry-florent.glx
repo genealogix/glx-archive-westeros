@@ -8,7 +8,8 @@ persons:
                     prefix: Ser
                     surname: Florent
                 value: Ser Imry Florent
-            rin: MH:I441
+            external_ids:
+                - "MH:I441"
             house: Florent
             title:
                 - value: "Admiral of Stannis Baratheon's fleet"

@@ -7,4 +7,5 @@ persons:
                     given: Jeyne
                     surname: Fossoway
                 value: Jeyne Fossoway
-            rin: MH:I418
+            external_ids:
+                - "MH:I418"

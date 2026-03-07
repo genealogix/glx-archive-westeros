@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-alyn-velaryon
-              role: spouse
+              role: subject
             - person: person-unknown-336
-              role: spouse
+              role: subject

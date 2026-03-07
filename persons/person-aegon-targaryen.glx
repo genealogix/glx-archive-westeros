@@ -7,4 +7,5 @@ persons:
                     given: Aegon
                     surname: Targaryen
                 value: Aegon Targaryen
-            rin: MH:I368
+            external_ids:
+                - "MH:I368"

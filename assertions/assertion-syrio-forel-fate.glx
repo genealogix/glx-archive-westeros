@@ -2,7 +2,7 @@ assertions:
     assertion-syrio-forel-fate:
         subject:
             person: person-syrio-forel
-        property: fate
+        property: description
         value: "Last seen holding Ser Meryn Trant at bay with a broken wooden sword; fate unknown"
         citations:
             - citation-agot-arya-iv

@@ -86,3 +86,18 @@ event_properties:
     description: "Season during which the event occurs (summer, autumn, winter, spring — relevant to the long seasons of Westeros)"
     value_type: string
 
+  weapon:
+    label: "Weapon"
+    description: "Weapon used in the event (e.g., Ice, Dawn, a crossbow)"
+    value_type: string
+
+  signal:
+    label: "Signal"
+    description: "Signal that triggered or accompanied the event"
+    value_type: string
+
+  context:
+    label: "Context"
+    description: "Political or narrative context of the event"
+    value_type: string
+

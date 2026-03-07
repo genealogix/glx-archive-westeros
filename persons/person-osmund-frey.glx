@@ -7,4 +7,5 @@ persons:
                     given: Osmund
                     surname: Frey
                 value: Osmund Frey
-            rin: MH:I134
+            external_ids:
+                - "MH:I134"

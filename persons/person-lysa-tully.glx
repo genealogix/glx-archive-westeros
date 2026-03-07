@@ -7,7 +7,8 @@ persons:
                     given: Lysa
                     surname: Tully
                 value: Lysa Tully
-            rin: MH:I224
+            external_ids:
+                - "MH:I224"
             title:
                 - value: "Lady"
             house: "Tully"

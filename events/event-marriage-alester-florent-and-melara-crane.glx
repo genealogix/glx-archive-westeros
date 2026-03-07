@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-alester-florent
-              role: spouse
+              role: subject
             - person: person-melara-crane
-              role: spouse
+              role: subject

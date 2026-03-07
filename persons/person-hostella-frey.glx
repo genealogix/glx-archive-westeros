@@ -7,4 +7,5 @@ persons:
                     given: Hostella
                     surname: Frey
                 value: Hostella Frey
-            rin: MH:I75
+            external_ids:
+                - "MH:I75"

@@ -13,7 +13,7 @@ assertions:
     assertion-gregor-clegane-aegon-targaryen-infant:
         subject:
             person: person-gregor-clegane
-        property: suspected_atrocity
+        property: description
         value: "Suspected of killing infant Prince Aegon Targaryen and raping Princess Elia Martell"
         citations:
             - citation-agot-eddard-v
@@ -24,7 +24,7 @@ assertions:
     assertion-sandor-clegane-left-brothers-keep:
         subject:
             person: person-sandor-clegane
-        property: background
+        property: description
         value: "Left Gregor's keep the same day Gregor inherited it, never returned"
         citations:
             - citation-agot-eddard-v

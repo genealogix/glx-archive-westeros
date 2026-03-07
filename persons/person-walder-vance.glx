@@ -7,4 +7,5 @@ persons:
                     given: Walder
                     surname: Vance
                 value: Walder Vance
-            rin: MH:I20
+            external_ids:
+                - "MH:I20"

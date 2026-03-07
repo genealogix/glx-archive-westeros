@@ -2,7 +2,7 @@ assertions:
     assertion-others-weakness-dragonsteel:
         subject:
             person: person-others-concept
-        property: vulnerability
+        property: description
         value: "The Others are vulnerable to dragonglass (obsidian) and possibly dragonsteel (Valyrian steel); fire also dismays them; the armor of the Others is proof against ordinary blades; their own swords shatter steel with cold"
         citations:
             - citation-affc-samwell-i

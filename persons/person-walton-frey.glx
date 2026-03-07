@@ -7,4 +7,5 @@ persons:
                     given: Walton
                     surname: Frey
                 value: Walton Frey
-            rin: MH:I23
+            external_ids:
+                - "MH:I23"

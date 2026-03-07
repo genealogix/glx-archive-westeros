@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-jeyne-lydden
               role: spouse
-        properties:
-            marriage_event: event-marriage-stevron-frey-and-jeyne-lydden
+        start_event: event-marriage-stevron-frey-and-jeyne-lydden

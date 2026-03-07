@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-jeyne-fossoway
               role: spouse
-        properties:
-            marriage_event: event-marriage-gunthor-hightower-and-jeyne-fossoway
+        start_event: event-marriage-gunthor-hightower-and-jeyne-fossoway

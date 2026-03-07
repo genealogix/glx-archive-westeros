@@ -1,0 +1,6 @@
+places:
+    place-throne-room-kings-landing:
+        name: "The Throne Room"
+        type: keep
+        parent: place-the-red-keep
+        notes: "The great hall of the Red Keep containing the Iron Throne. Site of royal audiences, trials, and declarations."

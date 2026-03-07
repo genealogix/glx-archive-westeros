@@ -4,10 +4,12 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Horas 'Horror'
+                    given: Horas
+                    nickname: Horror
                     surname: Redwyne
-                value: Horas 'Horror' Redwyne
-            rin: MH:I390
+                value: Horas Redwyne
+            external_ids:
+                - "MH:I390"
             title:
                 - value: "Ser"
             alias:

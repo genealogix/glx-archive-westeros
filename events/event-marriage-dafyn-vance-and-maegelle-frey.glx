@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-dafyn-vance
-              role: spouse
+              role: subject
             - person: person-maegelle-frey
-              role: spouse
+              role: subject

@@ -7,4 +7,5 @@ persons:
                     given: Alyssa
                     surname: Blackwood
                 value: Alyssa Blackwood
-            rin: MH:I103
+            external_ids:
+                - "MH:I103"

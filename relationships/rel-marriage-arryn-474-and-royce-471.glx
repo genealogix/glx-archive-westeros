@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-royce-471
               role: spouse
-        properties:
-            marriage_event: event-marriage-arryn-474-and-royce-471
+        start_event: event-marriage-arryn-474-and-royce-471

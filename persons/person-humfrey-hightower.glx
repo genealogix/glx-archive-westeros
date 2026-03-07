@@ -7,4 +7,5 @@ persons:
                     given: Humfrey
                     surname: Hightower
                 value: Humfrey Hightower
-            rin: MH:I421
+            external_ids:
+                - "MH:I421"

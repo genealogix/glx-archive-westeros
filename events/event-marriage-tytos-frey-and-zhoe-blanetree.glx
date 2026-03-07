@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-tytos-frey
-              role: spouse
+              role: subject
             - person: person-zhoe-blanetree
-              role: spouse
+              role: subject

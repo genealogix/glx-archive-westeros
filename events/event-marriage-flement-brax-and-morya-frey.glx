@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-flement-brax
-              role: spouse
+              role: subject
             - person: person-morya-frey
-              role: spouse
+              role: subject

@@ -7,4 +7,5 @@ persons:
                     given: Marsella
                     surname: Waynwood
                 value: Marsella Waynwood
-            rin: MH:I22
+            external_ids:
+                - "MH:I22"

@@ -7,7 +7,8 @@ persons:
                     given: Robert
                     surname: Arryn
                 value: Robert Arryn
-            rin: MH:I227
+            external_ids:
+                - "MH:I227"
             title:
                 - value: "Lord of the Eyrie"
                 - value: "Defender of the Vale"

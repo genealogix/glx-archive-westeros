@@ -7,4 +7,5 @@ persons:
                     given: Lucias
                     surname: Vypren
                 value: Lucias Vypren
-            rin: MH:I76
+            external_ids:
+                - "MH:I76"

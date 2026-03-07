@@ -1,41 +1,85 @@
 assertions:
-    assertion-tower-of-joy-participants:
+    assertion-tower-of-joy-ned-stark:
         subject:
             event: event-tower-of-joy
-        property: participants
-        value: "Ned Stark, Howland Reed, Martyn Cassel, Theo Wull, Ethan Glover, Ser Mark Ryswell, Lord Dustin"
+        participant:
+            person: person-eddard-stark
+            role: combatant
+            notes: "Led the party of seven to the Tower of Joy. One of only two survivors. Source text: 'They had been seven against three, yet only two had lived to ride away; Eddard Stark himself and the little crannogman, Howland Reed.'"
         citations:
             - citation-agot-eddard-x
         confidence: high
-        status: proven
-        notes: "Source text: 'In the dream his friends rode with him, as they had in life. Proud Martyn Cassel, Jory's father; faithful Theo Wull; Ethan Glover, who had been Brandon's squire; Ser Mark Ryswell, soft of speech and gentle of heart; the crannogman, Howland Reed; Lord Dustin on his great red stallion.' Seven men in Ned's party faced three Kingsguard."
 
-    assertion-tower-of-joy-kingsguard:
+    assertion-tower-of-joy-howland-reed:
         subject:
             event: event-tower-of-joy
-        property: defenders
-        value: "Ser Arthur Dayne, Ser Oswell Whent, Ser Gerold Hightower"
+        participant:
+            person: person-howland-reed
+            role: combatant
+            notes: "The crannogman, one of only two survivors. Source text: 'the crannogman, Howland Reed' and 'only two had lived to ride away; Eddard Stark himself and the little crannogman, Howland Reed.'"
         citations:
             - citation-agot-eddard-x
         confidence: high
-        status: proven
-        notes: "Source text: 'They waited before the round tower, the red mountains of Dorne at their backs, their white cloaks blowing in the wind ... Ser Arthur Dayne, the Sword of the Morning ... Ser Oswell Whent ... between them stood fierce old Ser Gerold Hightower, the White Bull, Lord Commander of the Kingsguard.' All three Kingsguard died."
 
-    assertion-tower-of-joy-survivors:
+    assertion-tower-of-joy-martyn-cassel:
         subject:
             event: event-tower-of-joy
-        property: survivors
-        value: "Eddard Stark and Howland Reed"
+        participant:
+            person: person-martyn-cassel
+            role: combatant
+            notes: "Jory Cassel's father. Died at the Tower of Joy. Source text: 'Proud Martyn Cassel, Jory's father.'"
         citations:
             - citation-agot-eddard-x
         confidence: high
-        status: proven
-        notes: "Source text: 'They had been seven against three, yet only two had lived to ride away; Eddard Stark himself and the little crannogman, Howland Reed.' Five of Ned's seven men died, as did all three Kingsguard."
+
+    assertion-tower-of-joy-arthur-dayne:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-arthur-dayne
+            role: combatant
+            notes: "The Sword of the Morning, wielding Dawn. Died at the Tower of Joy. Source text: 'Ser Arthur Dayne, the Sword of the Morning, had a sad smile on his lips.'"
+        citations:
+            - citation-agot-eddard-x
+        confidence: high
+
+    assertion-tower-of-joy-oswell-whent:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-oswell-whent
+            role: combatant
+            notes: "Kingsguard. Died at the Tower of Joy. Source text: 'Ser Oswell Whent was on one knee, sharpening his blade with a whetstone.'"
+        citations:
+            - citation-agot-eddard-x
+        confidence: high
+
+    assertion-tower-of-joy-gerold-hightower:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-gerold-hightower-the-white-bull
+            role: combatant
+            notes: "The White Bull, Lord Commander of the Kingsguard. Died at the Tower of Joy. Source text: 'between them stood fierce old Ser Gerold Hightower, the White Bull, Lord Commander of the Kingsguard.'"
+        citations:
+            - citation-agot-eddard-x
+        confidence: high
+
+    assertion-tower-of-joy-lyanna-stark:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-lyanna-stark
+            role: subject
+            notes: "Found dying in a bed of blood inside the tower. Source text: 'Promise me, Ned, she had whispered, from behind her wall of blood-red petals.' Her death is the culmination of the Tower of Joy sequence."
+        citations:
+            - citation-agot-eddard-x
+        confidence: high
 
     assertion-kingsguard-absent-from-trident:
         subject:
             event: event-tower-of-joy
-        property: significance
+        property: description
         value: "The Kingsguard were not at the Battle of the Trident"
         citations:
             - citation-agot-eddard-x

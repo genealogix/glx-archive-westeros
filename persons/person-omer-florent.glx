@@ -8,4 +8,5 @@ persons:
                     prefix: Maester
                     surname: Florent
                 value: Maester Omer Florent
-            rin: MH:I453
+            external_ids:
+                - "MH:I453"

@@ -4,10 +4,12 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Oberyn 'The Red Viper'
+                    given: Oberyn
+                    nickname: The Red Viper
                     surname: Martell
-                value: Oberyn 'The Red Viper' Martell
-            rin: MH:I263
+                value: Oberyn Martell
+            external_ids:
+                - "MH:I263"
             alias:
                 - value: "The Red Viper"
             title:

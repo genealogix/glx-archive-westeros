@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-symond-frey
-              role: spouse
+              role: subject
             - person: person-betharios
-              role: spouse
+              role: subject

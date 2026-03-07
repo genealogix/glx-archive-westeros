@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Mormont
                 value: Mormont
-            rin: MH:I429
+            external_ids:
+                - "MH:I429"

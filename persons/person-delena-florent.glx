@@ -7,4 +7,5 @@ persons:
                     given: Delena
                     surname: Florent
                 value: Delena Florent
-            rin: MH:I189
+            external_ids:
+                - "MH:I189"

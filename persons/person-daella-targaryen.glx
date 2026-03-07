@@ -7,4 +7,5 @@ persons:
                     given: Daella
                     surname: Targaryen
                 value: Daella Targaryen
-            rin: MH:I289
+            external_ids:
+                - "MH:I289"

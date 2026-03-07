@@ -7,4 +7,5 @@ persons:
                     given: Haegon
                     surname: Blackfyre
                 value: Haegon Blackfyre
-            rin: MH:I316
+            external_ids:
+                - "MH:I316"

@@ -2,8 +2,9 @@ sources:
     source-adwd:
         title: "A Dance with Dragons"
         type: novel
+        authors:
+            - "George R.R. Martin"
+        date: "2011"
         properties:
-            author: "George R.R. Martin"
-            published: "2011"
             isbn: "978-0553801477"
         repository: repository-asoiaf-novels

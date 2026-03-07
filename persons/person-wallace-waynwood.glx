@@ -7,4 +7,5 @@ persons:
                     given: Wallace
                     surname: Waynwood
                 value: Wallace Waynwood
-            rin: MH:I254
+            external_ids:
+                - "MH:I254"

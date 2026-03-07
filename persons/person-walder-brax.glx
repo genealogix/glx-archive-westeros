@@ -7,4 +7,5 @@ persons:
                     given: Walder
                     surname: Brax
                 value: Walder Brax
-            rin: MH:I123
+            external_ids:
+                - "MH:I123"

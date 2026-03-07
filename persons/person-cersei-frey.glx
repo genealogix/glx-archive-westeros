@@ -7,4 +7,5 @@ persons:
                     given: Cersei
                     surname: Frey
                 value: Cersei Frey
-            rin: MH:I100
+            external_ids:
+                - "MH:I100"

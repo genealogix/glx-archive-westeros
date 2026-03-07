@@ -2,7 +2,7 @@ assertions:
     assertion-jon-snow-stabbed-for-the-watch:
         subject:
             person: person-jon-snow
-        property: death
+        property: died_on
         value: "300"
         citations:
             - citation-adwd-jon-xiii
@@ -13,7 +13,7 @@ assertions:
     assertion-jon-snow-fate-ambiguous:
         subject:
             person: person-jon-snow
-        property: death
+        property: description
         value: "ambiguous — possibly dead, possibly resurrected"
         citations:
             - citation-adwd-jon-xiii
@@ -24,7 +24,7 @@ assertions:
     assertion-bowen-marsh-conspirator:
         subject:
             person: person-bowen-marsh
-        property: involvement
+        property: description
         value: "led the assassination of Jon Snow"
         citations:
             - citation-adwd-jon-xiii

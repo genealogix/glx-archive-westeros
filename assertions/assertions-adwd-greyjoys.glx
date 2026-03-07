@@ -22,7 +22,7 @@ assertions:
     assertion-asha-marriage-erik-adwd:
         subject:
             person: person-asha-greyjoy
-        property: marriage
+        property: description
         value: "Erik Ironmaker"
         citations:
             - citation-adwd-appendix

@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-walton-frey
-              role: spouse
+              role: subject
             - person: person-deana-hardyng
-              role: spouse
+              role: subject

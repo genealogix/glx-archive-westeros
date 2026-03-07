@@ -7,5 +7,5 @@ relationships:
             - person: person-ramsay-bolton
               role: captor
         properties:
-            start_date: "299"
+            started_on: "299"
             context: "Theon held captive at the Dreadfort by Ramsay Bolton (ADWD Appendix)"

@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-lysa-tully
               role: spouse
-        properties:
-            marriage_event: event-marriage-jon-arryn-and-lysa-tully
+        start_event: event-marriage-jon-arryn-and-lysa-tully

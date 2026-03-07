@@ -7,4 +7,5 @@ persons:
                     given: Serra
                     surname: Frey
                 value: Serra Frey
-            rin: MH:I99
+            external_ids:
+                - "MH:I99"

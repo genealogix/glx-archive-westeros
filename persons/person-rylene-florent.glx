@@ -7,4 +7,5 @@ persons:
                     given: Rylene
                     surname: Florent
                 value: Rylene Florent
-            rin: MH:I446
+            external_ids:
+                - "MH:I446"

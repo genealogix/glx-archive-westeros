@@ -7,4 +7,5 @@ persons:
                     given: Maegelle
                     surname: Frey
                 value: Maegelle Frey
-            rin: MH:I17
+            external_ids:
+                - "MH:I17"

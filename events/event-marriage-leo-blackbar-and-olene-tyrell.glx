@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-leo-blackbar
-              role: spouse
+              role: subject
             - person: person-olene-tyrell
-              role: spouse
+              role: subject

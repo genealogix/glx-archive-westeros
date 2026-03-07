@@ -15,8 +15,8 @@ assertions:
     assertion-renly-death-stannis-agency:
         subject:
             event: event-assassination-renly-baratheon
-        property: instigator
-        value: person-stannis-baratheon
+        property: description
+        value: "Stannis Baratheon was the agent behind the shadow assassin that killed Renly"
         citations:
             - citation-acok-catelyn-v
         confidence: high
@@ -26,7 +26,7 @@ assertions:
     assertion-renly-death-brienne-falsely-accused:
         subject:
             person: person-brienne-tarth
-        property: accused_of
+        property: description
         value: "Murder of Renly Baratheon"
         citations:
             - citation-acok-catelyn-v
@@ -39,7 +39,7 @@ assertions:
     assertion-balon-greyjoy-invasion-plan:
         subject:
             person: person-theon-greyjoy
-        property: role_in_event
+        property: description
         value: "Sent to harry the Stony Shore on Lord Balon's orders"
         citations:
             - citation-acok-theon-ii
@@ -61,7 +61,7 @@ assertions:
     assertion-theon-betray-starks:
         subject:
             person: person-theon-greyjoy
-        property: allegiance_broken
+        property: description
         value: "House Stark"
         citations:
             - citation-acok-theon-ii
@@ -75,7 +75,7 @@ assertions:
     assertion-jaqen-offer-three-deaths:
         subject:
             person: person-jaqen-hghar
-        property: role_in_event
+        property: description
         value: "Offers Arya three deaths in payment for saving him from the fire"
         citations:
             - citation-acok-arya-vi
@@ -108,7 +108,7 @@ assertions:
     assertion-jaqen-iron-coin:
         subject:
             person: person-jaqen-hghar
-        property: faceless_man_nature
+        property: description
         value: "Confirmed Faceless Man of Braavos"
         citations:
             - citation-acok-arya-ix
@@ -121,7 +121,7 @@ assertions:
     assertion-fist-first-men-camp:
         subject:
             event: event-battle-fist-first-men
-        property: prelude
+        property: description
         value: "Night's Watch camps at the Fist of the First Men awaiting Qhorin Halfhand"
         citations:
             - citation-acok-jon-vi
@@ -132,7 +132,7 @@ assertions:
     assertion-qhorin-chooses-jon:
         subject:
             person: person-jon-snow
-        property: assigned_mission
+        property: night_watch_assignment
         value: "Selected by Qhorin Halfhand to range into the Frostfangs"
         citations:
             - citation-acok-jon-vii
@@ -167,7 +167,7 @@ assertions:
     assertion-xaro-refuses-ships:
         subject:
             person: person-xaro-xhoan-daxos
-        property: political_stance
+        property: description
         value: "Refuses to provide Daenerys with ships or military aid"
         citations:
             - citation-acok-daenerys-iv
@@ -180,7 +180,7 @@ assertions:
     assertion-dagmer-cleftjaw-role:
         subject:
             person: person-dagmer-cleftjaw
-        property: role_in_event
+        property: description
         value: "Commands Theon's forces in the feint against Torrhen's Square"
         citations:
             - citation-acok-theon-iii
@@ -191,7 +191,7 @@ assertions:
     assertion-rorge-biter-jaqen-wagon:
         subject:
             person: person-rorge
-        property: group_membership
+        property: description
         value: "Caged with Jaqen H'ghar and Biter in Yoren's wagon"
         citations:
             - citation-acok-arya-vi

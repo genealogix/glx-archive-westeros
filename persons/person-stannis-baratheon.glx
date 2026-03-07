@@ -7,7 +7,8 @@ persons:
                     given: Stannis
                     surname: Baratheon
                 value: Stannis Baratheon
-            rin: MH:I195
+            external_ids:
+                - "MH:I195"
             title:
                 - value: "Lord of Dragonstone"
                 - value: "Master of Ships"

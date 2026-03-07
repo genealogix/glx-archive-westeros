@@ -7,4 +7,5 @@ persons:
                     given: Baelon
                     surname: Targaryen
                 value: Baelon Targaryen
-            rin: MH:I367
+            external_ids:
+                - "MH:I367"

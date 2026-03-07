@@ -8,7 +8,8 @@ persons:
                     suffix: I
                     surname: Baratheon
                 value: Robert Baratheon I
-            rin: MH:I167
+            external_ids:
+                - "MH:I167"
             title:
                 - value: "King of the Andals and the Rhoynar and the First Men"
                   date: "FROM 283"

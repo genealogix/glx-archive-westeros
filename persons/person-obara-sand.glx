@@ -7,7 +7,8 @@ persons:
                     given: Obara
                     surname: Sand
                 value: Obara Sand
-            rin: MH:I266
+            external_ids:
+                - "MH:I266"
             alias:
                 - value: "Sand Snake"
             house: "Martell"

@@ -7,4 +7,5 @@ persons:
                     prefix: Ser
                     surname: Hardyng
                 value: Ser Hardyng
-            rin: MH:I238
+            external_ids:
+                - "MH:I238"

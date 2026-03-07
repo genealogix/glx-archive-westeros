@@ -7,8 +7,8 @@ relationships:
             - person: person-lysa-tully
               role: spouse
         properties:
-            start_date: "300"
-            end_date: "300"
+            started_on: "300"
+            ended_on: "300"
             context: "Petyr Baelish married Lysa Arryn (nee Tully) shortly before bringing Sansa Stark to the Vale. The marriage gave Littlefinger the title Lord of the Eyrie and Lord Protector of the Vale, giving him control of the Vale of Arryn and its armies. Lysa had loved Petyr since childhood and had long desired the union. Littlefinger ended the marriage himself by pushing Lysa through the Moon Door."
             end_reason: "Lysa killed by Petyr Baelish — pushed through the Moon Door after she nearly pushed Sansa through in a jealous rage"
         notes: "The marriage was brief. Lysa had loved Petyr since girlhood at Riverrun and had carried his child (aborted by her father Lord Hoster Tully with moon tea). She had poisoned her first husband Jon Arryn on Littlefinger's instruction and written the false letter blaming the Lannisters — which set the events of AGOT in motion. Littlefinger used her devotion to obtain the Vale's seat of power, then killed her when she became unstable and dangerous."

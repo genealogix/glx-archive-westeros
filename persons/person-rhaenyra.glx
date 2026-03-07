@@ -6,4 +6,5 @@ persons:
                 fields:
                     given: Rhaenyra
                 value: Rhaenyra
-            rin: MH:I339
+            external_ids:
+                - "MH:I339"

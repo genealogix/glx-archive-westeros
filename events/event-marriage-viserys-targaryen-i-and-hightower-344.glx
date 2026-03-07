@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-viserys-targaryen-i
-              role: spouse
+              role: subject
             - person: person-hightower-344
-              role: spouse
+              role: subject

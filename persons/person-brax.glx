@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Brax
                 value: Brax
-            rin: MH:I156
+            external_ids:
+                - "MH:I156"

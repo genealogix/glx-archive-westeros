@@ -7,4 +7,5 @@ persons:
                     given: Emberlei
                     surname: Frey
                 value: Emberlei Frey
-            rin: MH:I112
+            external_ids:
+                - "MH:I112"

@@ -7,4 +7,5 @@ persons:
                     given: Patrek
                     surname: Vance
                 value: Patrek Vance
-            rin: MH:I21
+            external_ids:
+                - "MH:I21"

@@ -4,9 +4,9 @@ events:
         date: "299"
         participants:
             - person: person-robb-stark
-              role: spouse
+              role: subject
             - person: person-jeyne-westerling
-              role: spouse
+              role: subject
         properties:
             description: "The marriage of Robb Stark and Jeyne Westerling, after Robb took her maidenhead while wounded at the Crag."
         notes: "Robb married Jeyne Westerling to preserve her honor after sleeping with her while recovering from a wound. This broke his betrothal pact with House Frey, which was a primary cause of the Red Wedding. The marriage is not explicitly listed in the ASOS appendix but is established in the ASOS text."

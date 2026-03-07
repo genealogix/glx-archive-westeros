@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Tully
                 value: Tully
-            rin: MH:I255
+            external_ids:
+                - "MH:I255"

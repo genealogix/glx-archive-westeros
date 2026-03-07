@@ -2,4 +2,5 @@ persons:
     person-unknown-325:
         properties:
             gender: male
-            rin: MH:I325
+            external_ids:
+                - "MH:I325"

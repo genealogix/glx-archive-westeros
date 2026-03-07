@@ -7,4 +7,5 @@ persons:
                     given: Hoster
                     surname: Frey
                 value: Hoster Frey
-            rin: MH:I119
+            external_ids:
+                - "MH:I119"

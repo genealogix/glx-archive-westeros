@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Aegon 'Bloodborn'
+                    given: Aegon
+                    nickname: Bloodborn
                     surname: Frey
-                value: Aegon 'Bloodborn' Frey
-            rin: MH:I37
+                value: Aegon Frey
+            external_ids:
+                - "MH:I37"

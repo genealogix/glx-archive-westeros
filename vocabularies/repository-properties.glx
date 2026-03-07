@@ -39,6 +39,43 @@ repository_properties:
     value_type: string
     multi_value: true
 
+  # === ASOIAF Custom Repository Properties ===
+
+  author:
+    label: "Author"
+    description: "Primary author or creator associated with this repository"
+    value_type: string
+
+  publisher:
+    label: "Publisher"
+    description: "Publishing house or organization"
+    value_type: string
+
+  network:
+    label: "Network"
+    description: "Broadcasting network"
+    value_type: string
+
+  years:
+    label: "Years"
+    description: "Years of production or publication"
+    value_type: string
+
+  software:
+    label: "Software"
+    description: "Software used to create or manage the data"
+    value_type: string
+
+  export_format:
+    label: "Export Format"
+    description: "Format used for data export (e.g., GEDCOM)"
+    value_type: string
+
+  export_date:
+    label: "Export Date"
+    description: "Date of data export"
+    value_type: date
+
   external_ids:
     label: "External Identifiers"
     description: "Identifiers from external systems (e.g., FamilySearch, WikiTree)"

@@ -7,5 +7,5 @@ events:
             - person: person-ser-hugh-of-the-vale
               role: subject
         properties:
-            cause_of_death: "Lance through the throat during jousting"
+            cause: "Lance through the throat during jousting"
             description: "Ser Hugh of the Vale (former squire to Lord Jon Arryn) was killed during the jousting at the Hand's tourney. His new tourney armor's gorget had a gap; a lance drove through it into his throat. He had only recently been knighted. Varys later implies to Ned Stark that Ser Hugh likely poisoned Jon Arryn with 'the tears of Lys' and was silenced before he could be questioned."

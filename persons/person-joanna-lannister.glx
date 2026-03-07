@@ -7,10 +7,11 @@ persons:
                     given: Joanna
                     surname: Lannister
                 value: Joanna Lannister
-            rin: MH:I163
+            external_ids:
+                - "MH:I163"
             title:
                 - value: "Lady"
             house: "Lannister"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Died in childbed"
         notes: "Wife of Lord Tywin Lannister, also his cousin. Died in childbed (giving birth to Tyrion). Sister to Ser Stafford Lannister."

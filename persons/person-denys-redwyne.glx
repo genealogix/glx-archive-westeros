@@ -7,4 +7,5 @@ persons:
                     given: Denys
                     surname: Redwyne
                 value: Denys Redwyne
-            rin: MH:I414
+            external_ids:
+                - "MH:I414"

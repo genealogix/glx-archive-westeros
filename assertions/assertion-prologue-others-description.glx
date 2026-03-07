@@ -2,7 +2,7 @@ assertions:
     assertion-others-physical-description:
         subject:
             person: person-waymar-royce
-        property: notes
+        property: physical_description
         value: "The Others are described as tall, gaunt, hard as old bones; flesh pale as milk; armor shifting between white, black, and grey-green like moonlight on water; eyes burning blue"
         citations:
             - citation-agot-prologue

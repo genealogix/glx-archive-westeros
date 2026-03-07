@@ -7,4 +7,5 @@ persons:
                     given: Jeyne
                     surname: Goodbrook
                 value: Jeyne Goodbrook
-            rin: MH:I60
+            external_ids:
+                - "MH:I60"

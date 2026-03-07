@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Argilac 'The Arrogant'
+                    given: Argilac
+                    nickname: The Arrogant
                     surname: Durrendon
-                value: Argilac 'The Arrogant' Durrendon
-            rin: MH:I363
+                value: Argilac Durrendon
+            external_ids:
+                - "MH:I363"

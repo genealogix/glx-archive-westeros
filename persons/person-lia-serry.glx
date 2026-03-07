@@ -7,4 +7,5 @@ persons:
                     given: Lia
                     surname: Serry
                 value: Lia Serry
-            rin: MH:I402
+            external_ids:
+                - "MH:I402"

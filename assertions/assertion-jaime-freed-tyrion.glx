@@ -2,7 +2,7 @@ assertions:
     assertion-jaime-freed-tyrion:
         subject:
             person: person-jaime-lannister
-        property: action
+        property: description
         value: "Jaime Lannister freed Tyrion from the black cells by compelling Varys at knifepoint to unlock the cells and lead Tyrion to a secret passage; he intended Varys to put Tyrion on a ship, not bring him to Tywin's chamber"
         citations:
             - citation-affc-jaime-i

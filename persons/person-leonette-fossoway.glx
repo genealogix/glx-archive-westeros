@@ -7,4 +7,5 @@ persons:
                     given: Leonette
                     surname: Fossoway
                 value: Leonette Fossoway
-            rin: MH:I381
+            external_ids:
+                - "MH:I381"

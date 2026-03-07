@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-mace-tyrell
-              role: spouse
+              role: subject
             - person: person-alerie-hightower
-              role: spouse
+              role: subject

@@ -1,8 +1,8 @@
 assertions:
     assertion-bran-wargs-three-eyed-crow:
         subject:
-            person: person-bran-stark
-        property: greensight_dream
+            person: person-brandon-stark-bran
+        property: description
         value: "Three-eyed crow dream before waking from coma"
         citations:
             - citation-agot-bran-iii
@@ -12,7 +12,7 @@ assertions:
 
     assertion-bran-names-wolf-summer:
         subject:
-            person: person-bran-stark
+            person: person-brandon-stark-bran
         property: direwolf
         value: "Summer"
         citations:
@@ -23,8 +23,8 @@ assertions:
 
     assertion-jaime-golden-face-brans-dream:
         subject:
-            person: person-bran-stark
-        property: repressed_memory
+            person: person-brandon-stark-bran
+        property: description
         value: "Jaime Lannister's face in the falling dream"
         citations:
             - citation-agot-bran-iii

@@ -7,4 +7,5 @@ persons:
                     given: Arwyn
                     surname: Frey
                 value: Arwyn Frey
-            rin: MH:I136
+            external_ids:
+                - "MH:I136"

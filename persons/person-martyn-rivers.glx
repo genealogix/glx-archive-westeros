@@ -7,4 +7,5 @@ persons:
                     given: Martyn
                     surname: Rivers
                 value: Martyn Rivers
-            rin: MH:I147
+            external_ids:
+                - "MH:I147"

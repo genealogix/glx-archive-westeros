@@ -7,8 +7,9 @@ persons:
                     given: Lyanna
                     surname: Stark
                 value: Lyanna Stark
-            rin: MH:I210
+            external_ids:
+                - "MH:I210"
             house: "Stark"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Died in the mountains of Dorne"
         notes: "Younger sister of Eddard Stark. Died in the mountains of Dorne."

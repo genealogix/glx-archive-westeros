@@ -2,8 +2,8 @@ assertions:
     assertion-rains-of-castamere-signal:
         subject:
             event: event-red-wedding
-        property: signal
-        value: "The Rains of Castamere (song)"
+        property: description
+        value: "The Rains of Castamere (song) was the signal for the massacre"
         citations:
             - citation-asos-catelyn-vii
             - citation-asos-arya-xiii
@@ -14,7 +14,7 @@ assertions:
     assertion-edwyn-frey-concealed-mail:
         subject:
             person: person-edwyn-frey
-        property: role_in_red_wedding
+        property: description
         value: "Wore concealed mail beneath silk sleeve as signal of premeditation"
         citations:
             - citation-asos-catelyn-vii
@@ -80,7 +80,7 @@ assertions:
     assertion-catelyn-kills-jinglebell:
         subject:
             person: person-catelyn-tully
-        property: action_at_red_wedding
+        property: description
         value: "Killed Aegon Frey (Jinglebell) as hostage gambit"
         citations:
             - citation-asos-catelyn-vii
@@ -102,7 +102,7 @@ assertions:
     assertion-robb-body-desecrated:
         subject:
             person: person-robb-stark
-        property: posthumous_treatment
+        property: description
         value: "Grey Wind's head sewn onto corpse, crown nailed about ears"
         citations:
             - citation-asos-davos-iv
@@ -113,7 +113,7 @@ assertions:
     assertion-grey-wind-killed-red-wedding:
         subject:
             person: person-robb-stark
-        property: direwolf_fate
+        property: description
         value: "Grey Wind killed at the Red Wedding, penned outside the hall by Walder Frey's insistence"
         citations:
             - citation-asos-catelyn-vii
@@ -125,7 +125,7 @@ assertions:
     assertion-rains-castamere-premeditation-evidence:
         subject:
             event: event-red-wedding
-        property: premeditation_evidence
+        property: description
         value: "Multiple loyal Freys absent; Roslin wept; musicians replaced with crossbowmen; Edwyn wore mail"
         citations:
             - citation-asos-catelyn-vii

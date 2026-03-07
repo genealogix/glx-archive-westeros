@@ -19,5 +19,6 @@ persons:
             house: Stark
             died_on: "299"
             cause_of_death: "Murdered at the Red Wedding"
-            rin: MH:I217
+            external_ids:
+                - "MH:I217"
         notes: "Eldest son of Eddard Stark and Lady Catelyn of House Tully. Crowned King in the North after his father's execution. ASOS appendix lists him as 'King in the North, and King of the Trident'. Married Jeyne Westerling. Murdered at the Twins during the Red Wedding."

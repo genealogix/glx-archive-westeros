@@ -2,7 +2,7 @@ assertions:
     assertion-brienne-father-tarth:
         subject:
             person: person-brienne-tarth
-        property: notes
+        property: description
         value: "Father is Selwyn of Tarth, Lord of Evenfall Hall; Tarth is known as the Sapphire Isle"
         citations:
             - citation-asos-jaime-i
@@ -13,7 +13,7 @@ assertions:
     assertion-brienne-rainbow-guard:
         subject:
             person: person-brienne-tarth
-        property: notes
+        property: description
         value: "Was one of King Renly's Rainbow Guard — seven chosen bodyguards; Renly personally cloaked her with their striped silk"
         citations:
             - citation-asos-jaime-i
@@ -24,7 +24,7 @@ assertions:
     assertion-brienne-mission-catelyn:
         subject:
             person: person-brienne-tarth
-        property: notes
+        property: description
         value: "Catelyn Stark commanded Brienne to deliver Jaime to King's Landing in exchange for Sansa and Arya; Brienne swore it on her sword"
         citations:
             - citation-asos-jaime-i
@@ -35,7 +35,7 @@ assertions:
     assertion-cleos-frey-identity:
         subject:
             person: person-cleos-frey
-        property: notes
+        property: description
         value: "Ser Cleos Frey is the son of Emmon Frey and Genna Lannister (Tywin's sister); served as escort for Jaime's escape"
         citations:
             - citation-asos-jaime-i

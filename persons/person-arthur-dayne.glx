@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Dayne
                 value: Ser Arthur Dayne
-            rin: MH:I484
+            external_ids:
+                - "MH:I484"

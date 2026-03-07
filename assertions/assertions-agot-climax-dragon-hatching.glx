@@ -2,7 +2,7 @@ assertions:
     assertion-daenerys-fireproof:
         subject:
             person: person-daenerys-targaryen-206
-        property: notes
+        property: description
         value: "Daenerys walked into Drogo's funeral pyre and emerged unharmed, confirming her immunity to fire (or at least fire of this magnitude)"
         citations:
             - citation-agot-daenerys-ix
@@ -24,7 +24,7 @@ assertions:
     assertion-drogo-death-cost-rhaego:
         subject:
             person: person-daenerys-targaryen-206
-        property: notes
+        property: description
         value: "Mirri Maz Duur's bloodmagic cost Daenerys her son Rhaego — born dead and monstrous as the price for Drogo's continued (mindless) life"
         citations:
             - citation-agot-daenerys-ix
@@ -57,7 +57,7 @@ assertions:
     assertion-jon-snow-stays-at-wall:
         subject:
             person: person-jon-snow
-        property: notes
+        property: description
         value: "Jon Snow chose to remain at the Night's Watch rather than desert to join Robb's war, after briefly attempting to desert"
         citations:
             - citation-agot-jon-ix

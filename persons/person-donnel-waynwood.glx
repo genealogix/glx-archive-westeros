@@ -7,4 +7,5 @@ persons:
                     given: Donnel
                     surname: Waynwood
                 value: Donnel Waynwood
-            rin: MH:I253
+            external_ids:
+                - "MH:I253"

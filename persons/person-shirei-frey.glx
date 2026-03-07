@@ -7,4 +7,5 @@ persons:
                     given: Shirei
                     surname: Frey
                 value: Shirei Frey
-            rin: MH:I141
+            external_ids:
+                - "MH:I141"

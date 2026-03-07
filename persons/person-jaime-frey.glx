@@ -7,4 +7,5 @@ persons:
                     given: Jaime
                     surname: Frey
                 value: Jaime Frey
-            rin: MH:I102
+            external_ids:
+                - "MH:I102"

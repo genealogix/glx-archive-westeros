@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Tyrell
                 value: Tyrell
-            rin: MH:I393
+            external_ids:
+                - "MH:I393"

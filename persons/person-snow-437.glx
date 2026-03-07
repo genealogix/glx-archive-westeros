@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Snow
                 value: Snow
-            rin: MH:I437
+            external_ids:
+                - "MH:I437"

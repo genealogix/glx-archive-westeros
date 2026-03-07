@@ -7,7 +7,8 @@ persons:
                     given: Maege
                     surname: Mormont
                 value: Maege Mormont
-            rin: MH:I430
+            external_ids:
+                - "MH:I430"
             title:
                 - value: "Lady of Bear Island"
             house: "Mormont"

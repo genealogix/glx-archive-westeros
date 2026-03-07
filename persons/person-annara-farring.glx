@@ -7,4 +7,5 @@ persons:
                     given: Annara
                     surname: Farring
                 value: Annara Farring
-            rin: MH:I135
+            external_ids:
+                - "MH:I135"

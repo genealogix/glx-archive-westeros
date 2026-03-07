@@ -2,7 +2,7 @@ assertions:
     assertion-aeron-early-life-drunkard:
         subject:
             person: person-aeron-greyjoy
-        property: biography
+        property: description
         value: "Before his religious conversion, Aeron was a notorious drunkard and reveler. He sang, danced, played pipes, juggled, rode horses, and was known for drinking feats. He once wagered his longship (the Golden Storm) that he could quench a hearthfire with his member. The Golden Storm was lost at Fair Isle during Balon's first rebellion when Stannis Baratheon caught Victarion in his trap. Aeron was taken prisoner and held in Casterly Rock's dungeons for the rest of the war. After the war, he experienced a near-drowning and was reborn as the Drowned God's prophet."
         citations:
             - citation-affc-the-prophet-i

@@ -24,7 +24,7 @@ assertions:
     assertion-aegon-vi-claim-announced:
         subject:
             event: event-aegon-identity-revealed
-        property: notes
+        property: description
         value: "The announcement was made to the Golden Company officers: Harry Strickland (captain-general), Lysono Maar (spymaster), Gorys Edoryen, Franklyn Flowers, Tristan Rivers, and Laswell Peake. Harry had already told them when they reached the river. Aegon himself speaks: 'Then put your hopes on me. Daenerys is Prince Rhaegar's sister, but I am Rhaegar's son. I am the only dragon that you need.'"
         citations:
             - citation-adwd-the-lost-lord

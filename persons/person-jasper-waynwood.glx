@@ -7,4 +7,5 @@ persons:
                     given: Jasper
                     surname: Waynwood
                 value: Jasper Waynwood
-            rin: MH:I246
+            external_ids:
+                - "MH:I246"

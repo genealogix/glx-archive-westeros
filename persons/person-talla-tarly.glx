@@ -7,4 +7,5 @@ persons:
                     given: Talla
                     surname: Tarly
                 value: Talla Tarly
-            rin: MH:I459
+            external_ids:
+                - "MH:I459"

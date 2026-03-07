@@ -4,8 +4,10 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Gerold 'The White Bull'
+                    given: Gerold
+                    nickname: The White Bull
                     prefix: Ser
                     surname: Hightower
-                value: Ser Gerold 'The White Bull' Hightower
-            rin: MH:I427
+                value: Ser Gerold Hightower
+            external_ids:
+                - "MH:I427"

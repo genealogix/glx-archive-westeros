@@ -14,7 +14,7 @@ assertions:
     assertion-barristan-selmy-conspires-against-hizdahr:
         subject:
             person: person-barristan-selmy
-        property: action
+        property: description
         value: "Arrested or imprisoned Hizdahr zo Loraq on suspicion of poisoning Daenerys at the fighting pits"
         citations:
             - citation-adwd-the-queens-hand
@@ -26,7 +26,7 @@ assertions:
     assertion-barristan-selmy-plans-battle:
         subject:
             person: person-barristan-selmy
-        property: action
+        property: description
         value: "Planned military assault on Yunkai'i siege forces"
         citations:
             - citation-adwd-the-queens-hand

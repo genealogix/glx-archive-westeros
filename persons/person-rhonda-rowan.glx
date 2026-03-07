@@ -7,4 +7,5 @@ persons:
                     given: Rhonda
                     surname: Rowan
                 value: Rhonda Rowan
-            rin: MH:I409
+            external_ids:
+                - "MH:I409"

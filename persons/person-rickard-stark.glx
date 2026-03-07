@@ -7,4 +7,5 @@ persons:
                     given: Rickard
                     surname: Stark
                 value: Rickard Stark
-            rin: MH:I212
+            external_ids:
+                - "MH:I212"

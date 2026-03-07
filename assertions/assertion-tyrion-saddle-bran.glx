@@ -2,7 +2,7 @@ assertions:
     assertion-tyrion-designs-saddle-for-bran:
         subject:
             person: person-tyrion-lannister
-        property: action
+        property: description
         value: "Designed a specialized saddle to allow Bran Stark to ride despite paralysis"
         citations:
             - citation-agot-bran-iv
@@ -13,7 +13,7 @@ assertions:
     assertion-tyrion-quote-cripples-bastards:
         subject:
             person: person-tyrion-lannister
-        property: self_characterization
+        property: description
         value: "Has 'a tender spot in my heart for cripples and bastards and broken things'"
         citations:
             - citation-agot-bran-iv

@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-jon-arryn
-              role: spouse
+              role: subject
             - person: person-jeyne-royce
-              role: spouse
+              role: subject

@@ -406,3 +406,347 @@ participant_roles:
     applies_to:
       - relationship
 
+  # Additional ASOIAF Event Roles
+  perpetrator:
+    label: "Perpetrator"
+    description: "Person who commits an act of violence, murder, or betrayal"
+    applies_to:
+      - event
+
+  agent:
+    label: "Agent"
+    description: "Person acting on behalf of another (e.g., Melisandre acting for Stannis)"
+    applies_to:
+      - event
+
+  instigator:
+    label: "Instigator"
+    description: "Person who orders or causes an event without directly acting"
+    applies_to:
+      - event
+
+  survivor:
+    label: "Survivor"
+    description: "Person who survives an event (battle, massacre, disaster)"
+    applies_to:
+      - event
+
+  announcer:
+    label: "Announcer"
+    description: "Person who makes a formal announcement or proclamation"
+    applies_to:
+      - event
+
+  opponent:
+    label: "Opponent"
+    description: "Opponent or adversary in a conflict or rivalry"
+    applies_to:
+      - event
+
+  participant:
+    label: "Participant"
+    description: "Generic participant in an event (when more specific role is unknown)"
+    applies_to:
+      - event
+
+  organizer:
+    label: "Organizer"
+    description: "Person who organizes or arranges an event"
+    applies_to:
+      - event
+
+  authority:
+    label: "Authority"
+    description: "Person exercising authority (arresting, sentencing, ordering)"
+    applies_to:
+      - event
+
+  enemy_commander:
+    label: "Enemy Commander"
+    description: "Commander of the opposing forces in a battle"
+    applies_to:
+      - event
+
+  killer:
+    label: "Killer"
+    description: "Person who kills another in a non-assassination context (battle death, execution carried out)"
+    applies_to:
+      - event
+
+  executor:
+    label: "Executor"
+    description: "Person who carries out an order or sentence (broader than executioner)"
+    applies_to:
+      - event
+
+  first_acclaimer:
+    label: "First Acclaimer"
+    description: "Person who first acclaims a new king or lord"
+    applies_to:
+      - event
+
+  advisor:
+    label: "Advisor"
+    description: "Person providing counsel or advice in an event"
+    applies_to:
+      - event
+
+  buyer:
+    label: "Buyer"
+    description: "Buyer in a transaction or purchase"
+    applies_to:
+      - event
+
+  seller:
+    label: "Seller"
+    description: "Seller in a transaction"
+    applies_to:
+      - event
+
+  translator:
+    label: "Translator"
+    description: "Person serving as translator or interpreter"
+    applies_to:
+      - event
+
+  banished:
+    label: "Banished"
+    description: "Person being banished or exiled from a place"
+    applies_to:
+      - event
+
+  champion_for_accused:
+    label: "Champion for Accused"
+    description: "Champion fighting on behalf of the accused in trial by combat"
+    applies_to:
+      - event
+
+  champion_for_crown:
+    label: "Champion for Crown"
+    description: "Champion fighting on behalf of the crown in trial by combat"
+    applies_to:
+      - event
+
+  presiding_judge:
+    label: "Presiding Judge"
+    description: "Person presiding over a trial, duel, or judicial proceeding"
+    applies_to:
+      - event
+
+  beneficiary:
+    label: "Beneficiary"
+    description: "Person who benefits from a negotiation, pact, or event"
+    applies_to:
+      - event
+
+  intermediary:
+    label: "Intermediary"
+    description: "Person serving as go-between in a negotiation"
+    applies_to:
+      - event
+
+  patron:
+    label: "Patron"
+    description: "Person sponsoring or patronizing an event (tourney patron, etc.)"
+    applies_to:
+      - event
+
+  spectator:
+    label: "Spectator"
+    description: "Person watching an event as audience member"
+    applies_to:
+      - event
+
+  guide:
+    label: "Guide"
+    description: "Person serving as guide or escort into an unknown place"
+    applies_to:
+      - event
+
+  physician:
+    label: "Physician"
+    description: "Person providing medical care or treatment"
+    applies_to:
+      - event
+
+  recipient:
+    label: "Recipient"
+    description: "Person receiving a gift, honor, or message"
+    applies_to:
+      - event
+
+  scribe:
+    label: "Scribe"
+    description: "Person recording events or writing documents"
+    applies_to:
+      - event
+
+  escort:
+    label: "Escort"
+    description: "Person providing escort or accompaniment"
+    applies_to:
+      - event
+
+  defendant:
+    label: "Defendant"
+    description: "Defendant in a trial or legal proceeding"
+    applies_to:
+      - event
+
+  priest:
+    label: "Priest"
+    description: "Religious officiant or cleric presiding over a ceremony (broader than officiant)"
+    applies_to:
+      - event
+
+  accuser:
+    label: "Accuser"
+    description: "Person making an accusation in a trial"
+    applies_to:
+      - event
+
+  crown_champion:
+    label: "Crown Champion"
+    description: "Champion designated by the crown (alias for champion_for_crown in some contexts)"
+    applies_to:
+      - event
+
+  witness_against:
+    label: "Witness Against"
+    description: "Person testifying against the accused"
+    applies_to:
+      - event
+
+  absent:
+    label: "Absent"
+    description: "Person notably absent from an event they were expected to attend"
+    applies_to:
+      - event
+
+  attendee:
+    label: "Attendee"
+    description: "Person attending an event (general, less formal than guest)"
+    applies_to:
+      - event
+
+  nominator:
+    label: "Nominator"
+    description: "Person who nominates a candidate for election"
+    applies_to:
+      - event
+
+  losing_candidate:
+    label: "Losing Candidate"
+    description: "Candidate who loses an election"
+    applies_to:
+      - event
+
+  withdrawing_candidate:
+    label: "Withdrawing Candidate"
+    description: "Candidate who withdraws from an election in favor of another"
+    applies_to:
+      - event
+
+  owner:
+    label: "Owner"
+    description: "Owner of an animal, item, or property in the event context"
+    applies_to:
+      - event
+
+  # Additional ASOIAF Relationship Roles
+  betrothed:
+    label: "Betrothed"
+    description: "Person in a betrothal relationship"
+    applies_to:
+      - relationship
+
+  hand:
+    label: "Hand"
+    description: "Hand of the King/Queen in a hand_of_the_king relationship"
+    applies_to:
+      - relationship
+
+  king:
+    label: "King"
+    description: "Monarch in a hand relationship"
+    applies_to:
+      - relationship
+
+  hostage:
+    label: "Hostage"
+    description: "Person held as hostage in a hostage relationship"
+    applies_to:
+      - relationship
+
+  member:
+    label: "Member"
+    description: "Member of a group, order, or organization"
+    applies_to:
+      - relationship
+
+  leader:
+    label: "Leader"
+    description: "Leader of a group, order, or organization"
+    applies_to:
+      - relationship
+
+  maester:
+    label: "Maester"
+    description: "Maester serving a house or castle"
+    applies_to:
+      - relationship
+
+  lord:
+    label: "Lord"
+    description: "Lord served by a maester or advisor"
+    applies_to:
+      - relationship
+
+  queen:
+    label: "Queen"
+    description: "Queen in a queensguard relationship"
+    applies_to:
+      - relationship
+
+  lover:
+    label: "Lover"
+    description: "Romantic partner in a secret_lover or paramour relationship"
+    applies_to:
+      - relationship
+
+  student:
+    label: "Student"
+    description: "Student in a teacher-student relationship"
+    applies_to:
+      - relationship
+
+  teacher:
+    label: "Teacher"
+    description: "Teacher in a teacher-student relationship"
+    applies_to:
+      - relationship
+
+  sworn_knight:
+    label: "Sworn Knight"
+    description: "Sworn knight in service to a lord or lady"
+    applies_to:
+      - relationship
+
+  sworn_sword:
+    label: "Sworn Sword"
+    description: "Sworn sword in personal service"
+    applies_to:
+      - relationship
+
+  prisoner:
+    label: "Prisoner"
+    description: "Prisoner in a captor-prisoner relationship"
+    applies_to:
+      - relationship
+
+  bannerman:
+    label: "Bannerman"
+    description: "Bannerman in a liege-bannerman relationship"
+    applies_to:
+      - relationship
+

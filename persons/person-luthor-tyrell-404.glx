@@ -7,4 +7,5 @@ persons:
                     given: Luthor
                     surname: Tyrell
                 value: Luthor Tyrell
-            rin: MH:I404
+            external_ids:
+                - "MH:I404"

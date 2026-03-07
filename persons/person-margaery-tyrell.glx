@@ -7,7 +7,8 @@ persons:
                     given: Margaery
                     surname: Tyrell
                 value: Margaery Tyrell
-            rin: MH:I379
+            external_ids:
+                - "MH:I379"
             title:
                 - value: "Queen"
                   date: "FROM 300"

@@ -7,4 +7,5 @@ persons:
                     given: Jared
                     surname: Frey
                 value: Jared Frey
-            rin: MH:I50
+            external_ids:
+                - "MH:I50"

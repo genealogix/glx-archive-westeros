@@ -7,4 +7,5 @@ persons:
                     given: Lyanna
                     surname: Mormont
                 value: Lyanna Mormont
-            rin: MH:I435
+            external_ids:
+                - "MH:I435"

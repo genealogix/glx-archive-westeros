@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-cleos-frey
-              role: spouse
+              role: subject
             - person: person-jeyne-darry
-              role: spouse
+              role: subject

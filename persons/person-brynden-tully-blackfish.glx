@@ -4,11 +4,13 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Brynden 'Blackfish'
+                    given: Brynden
+                    nickname: Blackfish
                     prefix: Ser
                     surname: Tully
-                value: Ser Brynden 'Blackfish' Tully
-            rin: MH:I256
+                value: Ser Brynden Tully
+            external_ids:
+                - "MH:I256"
             title:
                 - value: "Ser"
                 - value: "Knight of the Gate"

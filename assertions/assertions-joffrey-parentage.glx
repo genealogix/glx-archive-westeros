@@ -46,7 +46,7 @@ assertions:
     assertion-cersei-jaime-secret-lover:
         subject:
             person: person-cersei-lannister
-        property: secret_lover
+        property: description
         value: person-jaime-lannister
         citations:
             - citation-agot-eddard-xii
@@ -57,7 +57,7 @@ assertions:
     assertion-seed-is-strong-arryn:
         subject:
             person: person-lysa-tully
-        property: testimony
+        property: description
         value: "Jon Arryn's last words: 'The seed is strong'"
         citations:
             - citation-agot-catelyn-vii

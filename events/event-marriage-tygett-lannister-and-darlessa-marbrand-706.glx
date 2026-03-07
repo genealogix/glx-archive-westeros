@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-tygett-lannister
-              role: spouse
+              role: subject
             - person: person-darlessa-marbrand
-              role: spouse
+              role: subject

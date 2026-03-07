@@ -7,4 +7,5 @@ persons:
                     given: Ashara
                     surname: Dayne
                 value: Ashara Dayne
-            rin: MH:I481
+            external_ids:
+                - "MH:I481"

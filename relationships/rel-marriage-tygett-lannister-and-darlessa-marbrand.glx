@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-darlessa-marbrand
               role: spouse
-        properties:
-            marriage_event: event-marriage-tygett-lannister-and-darlessa-marbrand-706
+        start_event: event-marriage-tygett-lannister-and-darlessa-marbrand-706

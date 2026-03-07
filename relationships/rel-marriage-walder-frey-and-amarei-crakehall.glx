@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-amarei-crakehall
               role: spouse
-        properties:
-            marriage_event: event-marriage-walder-frey-and-amarei-crakehall
+        start_event: event-marriage-walder-frey-and-amarei-crakehall

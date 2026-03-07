@@ -7,6 +7,7 @@ persons:
                     given: Dickon
                     surname: Tarly
                 value: Dickon Tarly
-            rin: MH:I462
+            external_ids:
+                - "MH:I462"
             house: "Tarly"
         notes: "Dickon Tarly, son and heir of Lord Randyll Tarly. A young squire. Listed in the AFFC appendix under Brienne's journey."

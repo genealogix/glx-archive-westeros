@@ -7,7 +7,8 @@ persons:
                     given: Leyton
                     surname: Hightower
                 value: Leyton Hightower
-            rin: MH:I406
+            external_ids:
+                - "MH:I406"
             title:
                 - value: "Voice of Oldtown"
                 - value: "Lord of the Port"

@@ -7,4 +7,5 @@ persons:
                     given: Malwyn
                     surname: Frey
                 value: Malwyn Frey
-            rin: MH:I97
+            external_ids:
+                - "MH:I97"

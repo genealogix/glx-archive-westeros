@@ -7,4 +7,5 @@ persons:
                     given: Edric
                     surname: Storm
                 value: Edric Storm
-            rin: MH:I190
+            external_ids:
+                - "MH:I190"

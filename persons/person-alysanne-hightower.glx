@@ -7,4 +7,5 @@ persons:
                     given: Alysanne
                     surname: Hightower
                 value: Alysanne Hightower
-            rin: MH:I410
+            external_ids:
+                - "MH:I410"

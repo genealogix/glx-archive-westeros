@@ -7,4 +7,5 @@ persons:
                     given: Della
                     surname: Frey
                 value: Della Frey
-            rin: MH:I133
+            external_ids:
+                - "MH:I133"

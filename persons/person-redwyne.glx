@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Redwyne
                 value: Redwyne
-            rin: MH:I438
+            external_ids:
+                - "MH:I438"

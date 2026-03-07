@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-jeyne-westerling
               role: spouse
-        properties:
-            marriage_event: event-marriage-maegor-targaryen-i-and-jeyne-westerling
+        start_event: event-marriage-maegor-targaryen-i-and-jeyne-westerling

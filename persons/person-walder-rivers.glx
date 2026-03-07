@@ -7,4 +7,5 @@ persons:
                     given: Walder
                     surname: Rivers
                 value: Walder Rivers
-            rin: MH:I144
+            external_ids:
+                - "MH:I144"

@@ -7,4 +7,5 @@ persons:
                     given: Ryella
                     surname: Frey
                 value: Ryella Frey
-            rin: MH:I72
+            external_ids:
+                - "MH:I72"

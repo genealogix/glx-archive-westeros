@@ -7,4 +7,5 @@ persons:
                     given: Jeyne
                     surname: Waters
                 value: Jeyne Waters
-            rin: MH:I338
+            external_ids:
+                - "MH:I338"

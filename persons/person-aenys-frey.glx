@@ -7,4 +7,5 @@ persons:
                     given: Aenys
                     surname: Frey
                 value: Aenys Frey
-            rin: MH:I5
+            external_ids:
+                - "MH:I5"

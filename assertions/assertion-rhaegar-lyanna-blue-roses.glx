@@ -2,7 +2,7 @@ assertions:
     assertion-rhaegar-lyanna-tourney-harrenhal:
         subject:
             person: person-rhaegar-targaryen
-        property: relationship
+        property: description
         value: "At the Tourney at Harrenhal (year of false spring), Rhaegar Targaryen crowned Lyanna Stark queen of love and beauty, bypassing his own wife Elia Martell"
         citations:
             - citation-agot-eddard-xvi

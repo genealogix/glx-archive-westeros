@@ -2,7 +2,7 @@ assertions:
     assertion-cersei-had-high-septon-killed:
         subject:
             person: person-cersei-lannister
-        property: crime
+        property: description
         value: "Murder of the previous High Septon (the fat one)"
         citations:
             - citation-affc-cersei-vii
@@ -13,7 +13,7 @@ assertions:
     assertion-margaery-moon-tea:
         subject:
             person: person-margaery-tyrell
-        property: testimony
+        property: description
         value: "Margaery Tyrell requested moon tea from Grand Maester Pycelle on multiple occasions"
         citations:
             - citation-affc-cersei-v

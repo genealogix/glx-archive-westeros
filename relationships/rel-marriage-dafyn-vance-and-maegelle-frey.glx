@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-maegelle-frey
               role: spouse
-        properties:
-            marriage_event: event-marriage-dafyn-vance-and-maegelle-frey
+        start_event: event-marriage-dafyn-vance-and-maegelle-frey

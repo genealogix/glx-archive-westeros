@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-sylwa-paege
               role: spouse
-        properties:
-            marriage_event: event-marriage-whalen-frey-and-sylwa-paege
+        start_event: event-marriage-whalen-frey-and-sylwa-paege

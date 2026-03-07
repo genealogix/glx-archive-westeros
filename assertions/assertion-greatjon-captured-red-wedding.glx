@@ -2,7 +2,7 @@ assertions:
     assertion-greatjon-captured-red-wedding:
         subject:
             person: person-greatjon-umber
-        property: role_in_red_wedding
+        property: description
         value: "Captured (not killed) at the Red Wedding"
         citations:
             - citation-asos-catelyn-vii

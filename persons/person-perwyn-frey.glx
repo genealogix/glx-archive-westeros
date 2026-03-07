@@ -7,4 +7,5 @@ persons:
                     given: Perwyn
                     surname: Frey
                 value: Perwyn Frey
-            rin: MH:I127
+            external_ids:
+                - "MH:I127"

@@ -7,4 +7,5 @@ persons:
                     given: Renly
                     surname: Norcross
                 value: Renly Norcross
-            rin: MH:I456
+            external_ids:
+                - "MH:I456"

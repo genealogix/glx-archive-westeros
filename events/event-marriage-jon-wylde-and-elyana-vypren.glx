@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-jon-wylde
-              role: spouse
+              role: subject
             - person: person-elyana-vypren
-              role: spouse
+              role: subject

@@ -7,4 +7,5 @@ persons:
                     given: Leonella
                     surname: Lefford
                 value: Leonella Lefford
-            rin: MH:I109
+            external_ids:
+                - "MH:I109"

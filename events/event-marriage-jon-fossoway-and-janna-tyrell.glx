@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-jon-fossoway
-              role: spouse
+              role: subject
             - person: person-janna-tyrell
-              role: spouse
+              role: subject

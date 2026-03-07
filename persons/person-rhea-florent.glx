@@ -7,4 +7,5 @@ persons:
                     given: Rhea
                     surname: Florent
                 value: Rhea Florent
-            rin: MH:I407
+            external_ids:
+                - "MH:I407"

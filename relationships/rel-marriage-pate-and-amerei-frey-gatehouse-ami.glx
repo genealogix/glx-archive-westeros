@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-amerei-frey-gatehouse-ami
               role: spouse
-        properties:
-            marriage_event: event-marriage-pate-and-amerei-frey-gatehouse-ami
+        start_event: event-marriage-pate-and-amerei-frey-gatehouse-ami

@@ -7,4 +7,5 @@ persons:
                     given: Edwyle
                     surname: Stark
                 value: Edwyle Stark
-            rin: MH:I464
+            external_ids:
+                - "MH:I464"

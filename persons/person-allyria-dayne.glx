@@ -7,4 +7,5 @@ persons:
                     given: Allyria
                     surname: Dayne
                 value: Allyria Dayne
-            rin: MH:I485
+            external_ids:
+                - "MH:I485"

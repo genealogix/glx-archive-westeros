@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-leonette-fossoway
               role: spouse
-        properties:
-            marriage_event: event-marriage-garlan-tyrell-and-leonette-fossoway
+        start_event: event-marriage-garlan-tyrell-and-leonette-fossoway

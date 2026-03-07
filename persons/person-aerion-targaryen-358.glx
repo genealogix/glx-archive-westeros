@@ -7,4 +7,5 @@ persons:
                     given: Aerion
                     surname: Targaryen
                 value: Aerion Targaryen
-            rin: MH:I358
+            external_ids:
+                - "MH:I358"

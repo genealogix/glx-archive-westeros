@@ -7,4 +7,5 @@ persons:
                     given: Beony
                     surname: Beesbury
                 value: Beony Beesbury
-            rin: MH:I95
+            external_ids:
+                - "MH:I95"

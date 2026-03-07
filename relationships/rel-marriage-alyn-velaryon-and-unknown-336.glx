@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-unknown-336
               role: spouse
-        properties:
-            marriage_event: event-marriage-alyn-velaryon-and-unknown-336
+        start_event: event-marriage-alyn-velaryon-and-unknown-336

@@ -7,4 +7,5 @@ persons:
                     given: Melessa
                     surname: Florent
                 value: Melessa Florent
-            rin: MH:I450
+            external_ids:
+                - "MH:I450"

@@ -7,4 +7,5 @@ persons:
                     given: Alester
                     surname: Florent
                 value: Alester Florent
-            rin: MH:I444
+            external_ids:
+                - "MH:I444"

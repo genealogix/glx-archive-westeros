@@ -1,5 +1,5 @@
 assertions:
-    assertion-red-wedding-date:
+    assertion-red-wedding-date-appendix:
         subject:
             event: event-red-wedding
         property: date
@@ -19,7 +19,7 @@ assertions:
         confidence: high
         status: accepted
         notes: "The Red Wedding took place at the Twins, seat of House Frey. ASOS appendix lists the Twins as Lord Walder Frey's seat."
-    assertion-robb-death-red-wedding:
+    assertion-robb-death-red-wedding-appendix:
         subject:
             event: event-death-robb-stark
         property: cause
@@ -29,7 +29,7 @@ assertions:
         confidence: high
         status: accepted
         notes: "Robb Stark was murdered at the Twins during the Red Wedding. Confirmed dead in AFFC/ADWD appendix: '{ROBB STARK}, King in the North, King of the Trident, Lord of Winterfell, called THE YOUNG WOLF, murdered at the Red Wedding'."
-    assertion-catelyn-death-red-wedding:
+    assertion-catelyn-death-red-wedding-appendix:
         subject:
             event: event-death-catelyn-tully
         property: cause

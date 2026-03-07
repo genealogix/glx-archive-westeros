@@ -7,7 +7,8 @@ persons:
                     given: Alerie
                     surname: Hightower
                 value: Alerie Hightower
-            rin: MH:I376
+            external_ids:
+                - "MH:I376"
             title:
                 - value: "Lady"
             house: "Hightower"

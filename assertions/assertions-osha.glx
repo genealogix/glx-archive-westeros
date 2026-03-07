@@ -2,7 +2,7 @@ assertions:
     assertion-osha-wildling:
         subject:
             person: person-osha
-        property: origin
+        property: description
         value: "Beyond the Wall (wildling)"
         citations:
             - citation-agot-bran-v
@@ -13,7 +13,7 @@ assertions:
     assertion-osha-captured:
         subject:
             person: person-osha
-        property: captive
+        property: description
         value: "Captured by Robb Stark at the wolfswood"
         citations:
             - citation-agot-bran-v
@@ -24,7 +24,7 @@ assertions:
     assertion-osha-mance-knowledge:
         subject:
             person: person-osha
-        property: testimony
+        property: description
         value: "Mance Rayder would pay for a Stark hostage"
         citations:
             - citation-agot-bran-v

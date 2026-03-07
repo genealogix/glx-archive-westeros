@@ -7,7 +7,8 @@ persons:
                     given: Hosteen
                     surname: Frey
                 value: Hosteen Frey
-            rin: MH:I62
+            external_ids:
+                - "MH:I62"
             title:
                 - value: "Ser"
             house: "Frey"

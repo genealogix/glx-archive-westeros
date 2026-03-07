@@ -7,4 +7,5 @@ persons:
                     given: Sallei
                     surname: Paege
                 value: Sallei Paege
-            rin: MH:I114
+            external_ids:
+                - "MH:I114"

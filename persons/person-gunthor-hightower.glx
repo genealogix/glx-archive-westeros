@@ -7,4 +7,5 @@ persons:
                     given: Gunthor
                     surname: Hightower
                 value: Gunthor Hightower
-            rin: MH:I417
+            external_ids:
+                - "MH:I417"

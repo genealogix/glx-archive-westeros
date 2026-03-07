@@ -7,7 +7,8 @@ persons:
                     given: Visenya
                     surname: Targaryen
                 value: Visenya Targaryen
-            rin: MH:I355
+            external_ids:
+                - "MH:I355"
             house: "Targaryen"
             title:
                 - value: "Queen of the Seven Kingdoms"

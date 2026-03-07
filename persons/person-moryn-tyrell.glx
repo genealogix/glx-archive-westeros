@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Tyrell
                 value: Ser Moryn Tyrell
-            rin: MH:I384
+            external_ids:
+                - "MH:I384"

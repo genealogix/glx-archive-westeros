@@ -10,5 +10,6 @@ persons:
             house: Frey
             died_on: "299"
             cause_of_death: "Hanged by the Brotherhood Without Banners"
-            rin: MH:I66
+            external_ids:
+                - "MH:I66"
         notes: "Son of Lord Walder Frey by his third wife Lady Amarei Crakehall. ASOS appendix lists him as 'MERRETT, m. Mariya Darry'. POV character in the ASOS epilogue, where he is hanged by the Brotherhood Without Banners led by Lady Stoneheart (the resurrected Catelyn Stark)."

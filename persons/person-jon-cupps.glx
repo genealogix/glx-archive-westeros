@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Cupps
                 value: Ser Jon Cupps
-            rin: MH:I420
+            external_ids:
+                - "MH:I420"

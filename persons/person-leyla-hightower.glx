@@ -7,4 +7,5 @@ persons:
                     given: Leyla
                     surname: Hightower
                 value: Leyla Hightower
-            rin: MH:I419
+            external_ids:
+                - "MH:I419"

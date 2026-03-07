@@ -15,5 +15,6 @@ persons:
                 - value: "Hand of the King"
                   date: "FROM 299"
             house: Tyrell
-            rin: MH:I375
+            external_ids:
+                - "MH:I375"
         notes: "Lord of Highgarden. Declared for King Renly in ACOK and served as his Hand of the King."

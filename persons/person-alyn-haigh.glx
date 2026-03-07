@@ -7,4 +7,5 @@ persons:
                     given: Alyn
                     surname: Haigh
                 value: Alyn Haigh
-            rin: MH:I47
+            external_ids:
+                - "MH:I47"

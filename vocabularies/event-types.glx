@@ -521,3 +521,38 @@ event_types:
     description: "Formal seating upon a throne (Iron Throne, Salt Throne, Driftwood Throne)"
     category: "other"
 
+  conspiracy:
+    label: "Conspiracy"
+    description: "Secret plot or scheme by multiple parties against a ruler or person"
+    category: "other"
+
+  arrival:
+    label: "Arrival"
+    description: "Arrival at a significant location or destination"
+    category: "other"
+
+  separation:
+    label: "Separation"
+    description: "Parting of companions, allies, or family members"
+    category: "other"
+
+  announcement:
+    label: "Announcement"
+    description: "Formal public announcement or proclamation"
+    category: "other"
+
+  departure:
+    label: "Departure"
+    description: "Departure from a location, household, or position"
+    category: "other"
+
+  alliance:
+    label: "Alliance"
+    description: "Formation of a political, military, or personal alliance (distinct from a formal pact)"
+    category: "other"
+
+  marriage_ceremony:
+    label: "Marriage Ceremony"
+    description: "The wedding ceremony event (distinct from the marriage relationship)"
+    category: "lifecycle"
+

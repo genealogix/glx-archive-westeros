@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-geremy-frey
-              role: spouse
+              role: subject
             - person: person-carolei-waynwood
-              role: spouse
+              role: subject

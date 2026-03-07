@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-ronnel-arryn
-              role: spouse
+              role: subject
             - person: person-belmore
-              role: spouse
+              role: subject

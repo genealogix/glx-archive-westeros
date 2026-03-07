@@ -2,7 +2,7 @@ assertions:
     assertion-tyrion-married-tysha:
         subject:
             person: person-tyrion-lannister
-        property: married
+        property: description
         value: person-tysha
         citations:
             - citation-agot-tyrion-vi
@@ -13,7 +13,7 @@ assertions:
     assertion-tyrion-first-marriage-annulled:
         subject:
             person: person-tyrion-lannister
-        property: marriage_ended
+        property: description
         value: "Annulled by Lord Tywin Lannister"
         citations:
             - citation-agot-tyrion-vi

@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Frey
                 value: Ser Danwell Frey
-            rin: MH:I65
+            external_ids:
+                - "MH:I65"

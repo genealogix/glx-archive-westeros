@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-rhaelle-targaryen-199
               role: spouse
-        properties:
-            marriage_event: event-marriage-baratheon-499-and-rhaelle-targaryen-199
+        start_event: event-marriage-baratheon-499-and-rhaelle-targaryen-199

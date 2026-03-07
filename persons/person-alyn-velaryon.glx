@@ -7,4 +7,5 @@ persons:
                     given: Alyn
                     surname: Velaryon
                 value: Alyn Velaryon
-            rin: MH:I333
+            external_ids:
+                - "MH:I333"

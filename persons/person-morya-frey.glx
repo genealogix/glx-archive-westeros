@@ -7,4 +7,5 @@ persons:
                     given: Morya
                     surname: Frey
                 value: Morya Frey
-            rin: MH:I107
+            external_ids:
+                - "MH:I107"

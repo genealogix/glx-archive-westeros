@@ -5,9 +5,9 @@ events:
         place: place-the-twins
         participants:
             - person: person-edmure-tully
-              role: spouse
+              role: subject
             - person: person-roslin-frey
-              role: spouse
+              role: subject
         properties:
             description: "The wedding of Ser Edmure Tully and Roslin Frey at the Twins, which served as the occasion for the Red Wedding massacre."
         notes: "The marriage itself was legitimate, but the wedding feast became the Red Wedding — a massacre of Robb Stark and his forces orchestrated by Lord Walder Frey and Roose Bolton."

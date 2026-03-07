@@ -6,4 +6,5 @@ persons:
                 fields:
                     given: Naerys
                 value: Naerys
-            rin: MH:I303
+            external_ids:
+                - "MH:I303"

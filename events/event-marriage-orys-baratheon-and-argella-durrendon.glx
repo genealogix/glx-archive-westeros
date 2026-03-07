@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-orys-baratheon
-              role: spouse
+              role: subject
             - person: person-argella-durrendon
-              role: spouse
+              role: subject

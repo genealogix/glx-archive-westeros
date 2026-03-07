@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-jeyne-beesbury
               role: spouse
-        properties:
-            marriage_event: event-marriage-rhaegar-frey-and-jeyne-beesbury
+        start_event: event-marriage-rhaegar-frey-and-jeyne-beesbury

@@ -13,7 +13,7 @@ assertions:
     assertion-robert-death-wine-cersei:
         subject:
             event: event-death-robert-baratheon
-        property: contributing_cause
+        property: cause_of_death
         value: "Lancel Lannister kept Robert supplied with strong wine at Cersei's orders"
         citations:
             - citation-agot-eddard-xvi

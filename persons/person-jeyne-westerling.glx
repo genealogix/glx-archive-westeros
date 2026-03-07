@@ -8,5 +8,6 @@ persons:
                     surname: Westerling
                 value: Jeyne Westerling
             house: Westerling
-            rin: MH:I357
+            external_ids:
+                - "MH:I357"
         notes: "Daughter of Lord Gawen Westerling and Lady Sybelle of House Spicer. ASOS Lannister appendix lists her as 'a maid of sixteen years'. Married Robb Stark, breaking his betrothal to House Frey — a key factor leading to the Red Wedding."

@@ -2,7 +2,7 @@ events:
     event-ned-stark-imprisoned:
         type: trial
         date: "298"
-        place: place-red-keep
+        place: place-the-red-keep
         participants:
             - person: person-eddard-stark
               role: subject

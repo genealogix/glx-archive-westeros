@@ -7,4 +7,5 @@ persons:
                     given: Symond
                     surname: Frey
                 value: Symond Frey
-            rin: MH:I64
+            external_ids:
+                - "MH:I64"

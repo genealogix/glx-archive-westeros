@@ -7,4 +7,5 @@ persons:
                     given: Lomas
                     surname: Estermont
                 value: Lomas Estermont
-            rin: MH:I478
+            external_ids:
+                - "MH:I478"

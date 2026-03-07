@@ -7,4 +7,5 @@ persons:
                     given: Elmar
                     surname: Frey
                 value: Elmar Frey
-            rin: MH:I140
+            external_ids:
+                - "MH:I140"

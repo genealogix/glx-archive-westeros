@@ -7,4 +7,5 @@ persons:
                     given: Marianne
                     surname: Vance
                 value: Marianne Vance
-            rin: MH:I19
+            external_ids:
+                - "MH:I19"

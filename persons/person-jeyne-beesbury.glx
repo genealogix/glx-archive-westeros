@@ -7,4 +7,5 @@ persons:
                     given: Jeyne
                     surname: Beesbury
                 value: Jeyne Beesbury
-            rin: MH:I39
+            external_ids:
+                - "MH:I39"

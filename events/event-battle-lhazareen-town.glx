@@ -7,7 +7,7 @@ events:
               role: commander
             - person: person-khal-ogo
               role: enemy_commander
-            - person: person-daenerys-targaryen
+            - person: person-daenerys-targaryen-304
               role: witness
             - person: person-jorah-mormont
               role: participant

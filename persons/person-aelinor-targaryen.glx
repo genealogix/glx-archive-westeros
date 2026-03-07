@@ -7,4 +7,5 @@ persons:
                     given: Aelinor
                     surname: Targaryen
                 value: Aelinor Targaryen
-            rin: MH:I294
+            external_ids:
+                - "MH:I294"

@@ -16,5 +16,6 @@ persons:
             house: Lannister
             died_on: "300"
             cause_of_death: "Killed by crossbow bolt, shot by his son Tyrion"
-            rin: MH:I159
+            external_ids:
+                - "MH:I159"
         notes: "Head of House Lannister. ASOS appendix lists him as Lord of Casterly Rock, Warden of the West, and Hand of the King. Killed by Tyrion Lannister with a crossbow while on the privy at the end of ASOS."

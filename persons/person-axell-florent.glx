@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Florent
                 value: Ser Axell Florent
-            rin: MH:I445
+            external_ids:
+                - "MH:I445"

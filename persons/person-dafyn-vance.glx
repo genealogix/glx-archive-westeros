@@ -7,4 +7,5 @@ persons:
                     given: Dafyn
                     surname: Vance
                 value: Dafyn Vance
-            rin: MH:I18
+            external_ids:
+                - "MH:I18"

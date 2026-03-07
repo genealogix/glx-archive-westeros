@@ -7,7 +7,8 @@ persons:
                     given: Tyene
                     surname: Sand
                 value: Tyene Sand
-            rin: MH:I268
+            external_ids:
+                - "MH:I268"
             alias:
                 - value: "Sand Snake"
             house: "Martell"

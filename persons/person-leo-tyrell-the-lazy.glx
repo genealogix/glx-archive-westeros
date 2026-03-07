@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Leo 'The Lazy'
+                    given: Leo
+                    nickname: The Lazy
                     surname: Tyrell
-                value: Leo 'The Lazy' Tyrell
-            rin: MH:I397
+                value: Leo Tyrell
+            external_ids:
+                - "MH:I397"

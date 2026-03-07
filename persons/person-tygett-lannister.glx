@@ -7,10 +7,11 @@ persons:
                     given: Tygett
                     surname: Lannister
                 value: Tygett Lannister
-            rin: MH:I161
+            external_ids:
+                - "MH:I161"
             title:
                 - value: "Ser"
             house: "Lannister"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Died of a pox"
         notes: "Second brother of Tywin Lannister. Died of a pox."

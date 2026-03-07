@@ -3,6 +3,6 @@ events:
         type: engagement
         participants:
             - person: person-joffrey-baratheon
-              role: spouse
+              role: subject
             - person: person-sansa-stark
-              role: spouse
+              role: subject

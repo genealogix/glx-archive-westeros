@@ -2,7 +2,7 @@ assertions:
     assertion-lady-killed-innocent:
         subject:
             event: event-death-lady
-        property: circumstances
+        property: description
         value: "Lady killed unjustly — was not present at the Trident incident"
         citations:
             - citation-agot-eddard-iii
@@ -14,7 +14,7 @@ assertions:
     assertion-sansa-fails-to-testify:
         subject:
             person: person-sansa-stark
-        property: behavior
+        property: description
         value: "Failed to tell the truth at Arya's hearing before King Robert"
         citations:
             - citation-agot-eddard-iii

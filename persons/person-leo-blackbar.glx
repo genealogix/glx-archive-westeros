@@ -7,4 +7,5 @@ persons:
                     given: Leo
                     surname: Blackbar
                 value: Leo Blackbar
-            rin: MH:I405
+            external_ids:
+                - "MH:I405"

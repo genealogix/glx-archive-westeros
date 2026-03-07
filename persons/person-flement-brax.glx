@@ -7,4 +7,5 @@ persons:
                     given: Flement
                     surname: Brax
                 value: Flement Brax
-            rin: MH:I121
+            external_ids:
+                - "MH:I121"

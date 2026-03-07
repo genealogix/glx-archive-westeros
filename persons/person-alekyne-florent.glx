@@ -7,4 +7,5 @@ persons:
                     given: Alekyne
                     surname: Florent
                 value: Alekyne Florent
-            rin: MH:I449
+            external_ids:
+                - "MH:I449"

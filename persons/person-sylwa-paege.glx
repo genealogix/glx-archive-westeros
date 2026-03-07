@@ -7,4 +7,5 @@ persons:
                     given: Sylwa
                     surname: Paege
                 value: Sylwa Paege
-            rin: MH:I118
+            external_ids:
+                - "MH:I118"

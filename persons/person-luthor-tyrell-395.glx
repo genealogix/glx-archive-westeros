@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Tyrell
                 value: Ser Luthor Tyrell
-            rin: MH:I395
+            external_ids:
+                - "MH:I395"

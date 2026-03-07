@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-hosteen-frey
-              role: spouse
+              role: subject
             - person: person-bellena-hawick
-              role: spouse
+              role: subject

@@ -7,7 +7,8 @@ persons:
                     given: Loreza
                     surname: Sand
                 value: Loreza Sand
-            rin: MH:I272
+            external_ids:
+                - "MH:I272"
             alias:
                 - value: "Sand Snake"
             house: "Martell"

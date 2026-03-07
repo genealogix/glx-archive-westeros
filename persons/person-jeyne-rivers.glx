@@ -7,4 +7,5 @@ persons:
                     given: Jeyne
                     surname: Rivers
                 value: Jeyne Rivers
-            rin: MH:I146
+            external_ids:
+                - "MH:I146"

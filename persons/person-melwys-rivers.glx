@@ -7,4 +7,5 @@ persons:
                     given: Melwys
                     surname: Rivers
                 value: Melwys Rivers
-            rin: MH:I145
+            external_ids:
+                - "MH:I145"

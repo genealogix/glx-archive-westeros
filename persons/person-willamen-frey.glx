@@ -7,4 +7,5 @@ persons:
                     given: Willamen
                     surname: Frey
                 value: Willamen Frey
-            rin: MH:I129
+            external_ids:
+                - "MH:I129"

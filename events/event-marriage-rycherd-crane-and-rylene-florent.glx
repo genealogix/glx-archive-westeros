@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-rycherd-crane
-              role: spouse
+              role: subject
             - person: person-rylene-florent
-              role: spouse
+              role: subject

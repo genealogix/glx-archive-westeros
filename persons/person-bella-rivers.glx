@@ -7,4 +7,5 @@ persons:
                     given: Bella
                     surname: Rivers
                 value: Bella Rivers
-            rin: MH:I194
+            external_ids:
+                - "MH:I194"

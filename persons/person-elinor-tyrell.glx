@@ -7,4 +7,5 @@ persons:
                     given: Elinor
                     surname: Tyrell
                 value: Elinor Tyrell
-            rin: MH:I403
+            external_ids:
+                - "MH:I403"

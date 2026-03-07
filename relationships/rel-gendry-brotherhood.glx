@@ -7,6 +7,6 @@ relationships:
             - person: person-beric-dondarrion
               role: leader
         properties:
-            start_date: "299"
+            started_on: "299"
             context: "Gendry chose to remain with the Brotherhood Without Banners as their smith rather than accompany Arya to Riverrun or the Wall. He was moved by Beric's ideals about justice and brotherhood. His blacksmithing skills make him invaluable to the group."
         notes: "Cited from ASOS Arya VI. Gendry's exact words: 'I'd sooner smith for you.' This ends his partnership with Arya."

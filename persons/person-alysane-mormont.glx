@@ -7,4 +7,5 @@ persons:
                     given: Alysane
                     surname: Mormont
                 value: Alysane Mormont
-            rin: MH:I432
+            external_ids:
+                - "MH:I432"

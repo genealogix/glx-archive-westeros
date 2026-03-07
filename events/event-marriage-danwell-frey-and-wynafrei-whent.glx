@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-danwell-frey
-              role: spouse
+              role: subject
             - person: person-wynafrei-whent
-              role: spouse
+              role: subject

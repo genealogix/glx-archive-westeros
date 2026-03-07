@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-arwood-frey
-              role: spouse
+              role: subject
             - person: person-ryella-royce
-              role: spouse
+              role: subject

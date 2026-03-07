@@ -7,4 +7,5 @@ persons:
                     given: Jon
                     surname: Brax
                 value: Jon Brax
-            rin: MH:I124
+            external_ids:
+                - "MH:I124"

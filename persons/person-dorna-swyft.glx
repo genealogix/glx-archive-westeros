@@ -7,6 +7,7 @@ persons:
                     given: Dorna
                     surname: Swyft
                 value: Dorna Swyft
-            rin: MH:I171
+            external_ids:
+                - "MH:I171"
             house: "Swyft"
         notes: "Wife of Ser Kevan Lannister. Of House Swyft."

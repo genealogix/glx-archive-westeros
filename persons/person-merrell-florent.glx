@@ -7,4 +7,5 @@ persons:
                     given: Merrell
                     surname: Florent
                 value: Merrell Florent
-            rin: MH:I452
+            external_ids:
+                - "MH:I452"

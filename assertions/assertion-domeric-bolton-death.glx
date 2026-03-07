@@ -13,7 +13,7 @@ assertions:
     assertion-domeric-bolton-seeker-of-brother:
         subject:
             person: person-domeric-bolton
-        property: notes
+        property: description
         value: "Domeric Bolton sought out Ramsay against his father's orders"
         citations:
             - citation-adwd-reek-ii

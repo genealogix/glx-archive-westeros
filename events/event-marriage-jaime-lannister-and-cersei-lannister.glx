@@ -1,8 +1,8 @@
 events:
     event-marriage-jaime-lannister-and-cersei-lannister:
-        type: event
+        type: marriage
         participants:
             - person: person-jaime-lannister
-              role: spouse
+              role: subject
             - person: person-cersei-lannister
-              role: spouse
+              role: subject

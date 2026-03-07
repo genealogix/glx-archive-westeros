@@ -7,4 +7,5 @@ persons:
                     given: Mariya
                     surname: Derry
                 value: Mariya Derry
-            rin: MH:I86
+            external_ids:
+                - "MH:I86"

@@ -7,4 +7,5 @@ persons:
                     given: Zia
                     surname: Frey
                 value: Zia Frey
-            rin: MH:I56
+            external_ids:
+                - "MH:I56"

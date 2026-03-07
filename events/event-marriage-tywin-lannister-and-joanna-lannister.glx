@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-tywin-lannister
-              role: spouse
+              role: subject
             - person: person-joanna-lannister
-              role: spouse
+              role: subject

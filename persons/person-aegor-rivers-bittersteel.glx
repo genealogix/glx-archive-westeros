@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Aegor 'Bittersteel'
+                    given: Aegor
+                    nickname: Bittersteel
                     surname: Rivers
-                value: Aegor 'Bittersteel' Rivers
-            rin: MH:I309
+                value: Aegor Rivers
+            external_ids:
+                - "MH:I309"

@@ -1,8 +1,8 @@
 events:
     event-marriage-rhaegar-targaryen-and-elia-martell-712:
-        type: event
+        type: marriage
         participants:
             - person: person-rhaegar-targaryen
-              role: spouse
+              role: subject
             - person: person-elia-martell
-              role: spouse
+              role: subject

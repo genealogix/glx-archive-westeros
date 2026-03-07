@@ -7,10 +7,11 @@ persons:
                     given: Jeyne
                     surname: Royce
                 value: Jeyne Royce
-            rin: MH:I228
+            external_ids:
+                - "MH:I228"
             title:
                 - value: "Lady"
             house: "Royce"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Died in childbed"
         notes: "First wife of Jon Arryn. Died in childbed, her daughter stillborn."

@@ -7,4 +7,5 @@ persons:
                     given: Alys
                     surname: Frey
                 value: Alys Frey
-            rin: MH:I52
+            external_ids:
+                - "MH:I52"

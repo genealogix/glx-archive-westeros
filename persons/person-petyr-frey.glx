@@ -7,4 +7,5 @@ persons:
                     given: Petyr
                     surname: Frey
                 value: Petyr Frey
-            rin: MH:I10
+            external_ids:
+                - "MH:I10"

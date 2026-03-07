@@ -2,4 +2,5 @@ persons:
     person-unknown-330:
         properties:
             gender: unknown
-            rin: MH:I330
+            external_ids:
+                - "MH:I330"

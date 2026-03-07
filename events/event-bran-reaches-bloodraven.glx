@@ -5,7 +5,7 @@ events:
         participants:
             - person: person-brynden-rivers-three-eyed-crow
               role: subject
-            - person: person-bran-stark
+            - person: person-brandon-stark-bran
               role: witness
             - person: person-meera-reed
               role: witness

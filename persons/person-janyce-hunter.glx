@@ -7,4 +7,5 @@ persons:
                     given: Janyce
                     surname: Hunter
                 value: Janyce Hunter
-            rin: MH:I11
+            external_ids:
+                - "MH:I11"

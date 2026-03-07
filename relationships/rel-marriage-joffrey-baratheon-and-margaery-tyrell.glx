@@ -7,6 +7,6 @@ relationships:
             - person: person-margaery-tyrell
               role: spouse
         properties:
-            start_date: "300"
-            end_date: "300"
+            started_on: "300"
+            ended_on: "300"
             context: "Marriage between the Iron Throne and House Tyrell, sealing the Lannister-Tyrell alliance. Joffrey died at the wedding feast (the Purple Wedding). Never consummated."

@@ -7,4 +7,5 @@ persons:
                     given: Maegon
                     surname: Targaryen
                 value: Maegon Targaryen
-            rin: MH:I369
+            external_ids:
+                - "MH:I369"

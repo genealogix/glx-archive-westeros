@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Baratheon
                 value: Baratheon
-            rin: MH:I500
+            external_ids:
+                - "MH:I500"

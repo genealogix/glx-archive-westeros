@@ -8,4 +8,5 @@ persons:
                     prefix: Maester
                     surname: Tyrell
                 value: Maester Medwick Tyrell
-            rin: MH:I401
+            external_ids:
+                - "MH:I401"

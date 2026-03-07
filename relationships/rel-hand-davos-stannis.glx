@@ -7,5 +7,5 @@ relationships:
             - person: person-stannis-baratheon
               role: king
         properties:
-            start_date: "299"
+            started_on: "299"
             context: "Davos Seaworth, Hand of King Stannis (ADWD Appendix)"

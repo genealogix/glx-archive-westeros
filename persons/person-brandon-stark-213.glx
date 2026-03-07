@@ -7,8 +7,9 @@ persons:
                     given: Brandon
                     surname: Stark
                 value: Brandon Stark
-            rin: MH:I213
+            external_ids:
+                - "MH:I213"
             house: "Stark"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Murdered by command of Aerys II Targaryen"
         notes: "Elder brother of Eddard Stark. Murdered by command of the Mad King."

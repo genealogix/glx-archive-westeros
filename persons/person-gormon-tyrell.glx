@@ -8,4 +8,5 @@ persons:
                     prefix: Maester
                     surname: Tyrell
                 value: Maester Gormon Tyrell
-            rin: MH:I385
+            external_ids:
+                - "MH:I385"

@@ -13,7 +13,7 @@ assertions:
     assertion-jaime-hand-identity-crisis:
         subject:
             person: person-jaime-lannister
-        property: character
+        property: description
         value: "Jaime's entire identity as the greatest swordsman in Westeros collapses with the loss of his right hand"
         citations:
             - citation-asos-jaime-iv

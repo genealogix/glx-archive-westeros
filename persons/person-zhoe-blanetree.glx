@@ -7,4 +7,5 @@ persons:
                     given: Zhoe
                     surname: Blanetree
                 value: Zhoe Blanetree
-            rin: MH:I55
+            external_ids:
+                - "MH:I55"

@@ -7,4 +7,5 @@ persons:
                     given: Lynesse
                     surname: Hightower
                 value: Lynesse Hightower
-            rin: MH:I422
+            external_ids:
+                - "MH:I422"

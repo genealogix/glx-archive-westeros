@@ -2,7 +2,7 @@ assertions:
     assertion-ned-stark-treason-official:
         subject:
             person: person-eddard-stark
-        property: treason_charge
+        property: description
         value: "Traitor who plotted with Robert's brothers to deny Joffrey the throne"
         citations:
             - citation-agot-eddard-xv

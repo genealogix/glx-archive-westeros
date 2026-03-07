@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-hosman-norcross
-              role: spouse
+              role: subject
             - person: person-delena-florent
-              role: spouse
+              role: subject

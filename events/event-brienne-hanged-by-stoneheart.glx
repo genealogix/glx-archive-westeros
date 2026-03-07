@@ -11,5 +11,3 @@ events:
               role: witness
         properties:
             description: "Lady Stoneheart (the reanimated Catelyn Stark) tried Brienne of Tarth for treachery — for carrying Oathkeeper (a Lannister sword) and a letter with King Tommen's seal. The Brotherhood Without Banners demanded Brienne choose between killing Jaime Lannister or being hanged. Brienne refused to choose. Lady Stoneheart ordered her hanged alongside Podrick Payne and Ser Hyle Hunt. As the rope tightened, Brienne screamed a word — a word not named in the text. Thoros of Myr had confirmed that Beric Dondarrion's fire had gone out and Lady Stoneheart now leads the Brotherhood as a being of pure vengeance."
-            citations:
-                - citation-affc-brienne-viii

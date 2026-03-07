@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Waynwood
                 value: Waynwood
-            rin: MH:I249
+            external_ids:
+                - "MH:I249"

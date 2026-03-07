@@ -1,8 +1,8 @@
 events:
     event-marriage-oberyn-martell-the-red-viper-and-ellaria-sand:
-        type: event
+        type: marriage
         participants:
             - person: person-oberyn-martell-the-red-viper
-              role: spouse
+              role: subject
             - person: person-ellaria-sand
-              role: spouse
+              role: subject

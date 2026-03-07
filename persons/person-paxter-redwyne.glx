@@ -7,7 +7,8 @@ persons:
                     given: Paxter
                     surname: Redwyne
                 value: Paxter Redwyne
-            rin: MH:I389
+            external_ids:
+                - "MH:I389"
             title:
                 - value: "Lord of the Arbor"
             house: "Redwyne"

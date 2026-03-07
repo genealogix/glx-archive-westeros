@@ -1,0 +1,14 @@
+persons:
+    person-quellon-greyjoy:
+        properties:
+            name:
+                value: "Quellon Greyjoy"
+                fields:
+                    given: "Quellon"
+                    surname: "Greyjoy"
+            gender: male
+            house: "Greyjoy"
+            died_on: "289"
+            cause_of_death: "Killed at the Battle of Mander during the Greyjoy Rebellion"
+            canon_track: "novel"
+        notes: "Lord of the Iron Islands before Balon Greyjoy. Father of Balon, Euron, Victarion, Aeron, and others. Died in the Greyjoy Rebellion fighting the loyalist fleet."

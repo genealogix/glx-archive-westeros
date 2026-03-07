@@ -7,4 +7,5 @@ persons:
                     given: Alyn
                     surname: Frey
                 value: Alyn Frey
-            rin: MH:I74
+            external_ids:
+                - "MH:I74"

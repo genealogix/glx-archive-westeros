@@ -8,7 +8,8 @@ persons:
                     suffix: III
                     surname: Targaryen
                 value: Viserys Targaryen III
-            rin: MH:I205
+            external_ids:
+                - "MH:I205"
             title:
                 - value: "Prince"
             alias:

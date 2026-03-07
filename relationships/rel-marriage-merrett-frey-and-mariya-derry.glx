@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-mariya-derry
               role: spouse
-        properties:
-            marriage_event: event-marriage-merrett-frey-and-mariya-derry
+        start_event: event-marriage-merrett-frey-and-mariya-derry

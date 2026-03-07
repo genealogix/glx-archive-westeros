@@ -7,6 +7,7 @@ persons:
                     given: Myrielle
                     surname: Lannister
                 value: Myrielle Lannister
-            rin: MH:I186
+            external_ids:
+                - "MH:I186"
             house: "Lannister"
         notes: "Daughter of Ser Stafford Lannister."

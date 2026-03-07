@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-waynwood-237
               role: spouse
-        properties:
-            marriage_event: event-marriage-hardyng-and-waynwood-237
+        start_event: event-marriage-hardyng-and-waynwood-237

@@ -7,7 +7,8 @@ persons:
                     given: Nymeria
                     surname: Sand
                 value: Nymeria Sand
-            rin: MH:I267
+            external_ids:
+                - "MH:I267"
             alias:
                 - value: "Lady Nym"
                 - value: "Sand Snake"

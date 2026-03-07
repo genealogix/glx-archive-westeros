@@ -7,4 +7,5 @@ persons:
                     given: Lyra
                     surname: Mormont
                 value: Lyra Mormont
-            rin: MH:I433
+            external_ids:
+                - "MH:I433"

@@ -2,8 +2,9 @@ sources:
     source-fire-and-blood:
         title: "Fire & Blood"
         type: companion
+        authors:
+            - "George R.R. Martin"
+        date: "2018"
         properties:
-            author: "George R.R. Martin"
-            published: "2018"
             isbn: "978-1524796280"
         repository: repository-asoiaf-novels

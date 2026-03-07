@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Brynden 'Bloodraven'
+                    given: Brynden
+                    nickname: Bloodraven
                     surname: Targaryen
-                value: Brynden 'Bloodraven' Targaryen
-            rin: MH:I310
+                value: Brynden Targaryen
+            external_ids:
+                - "MH:I310"

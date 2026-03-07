@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-jorah-mormont
-              role: spouse
+              role: subject
             - person: person-lynesse-hightower
-              role: spouse
+              role: subject

@@ -7,4 +7,5 @@ persons:
                     given: Wendel
                     surname: Frey
                 value: Wendel Frey
-            rin: MH:I137
+            external_ids:
+                - "MH:I137"

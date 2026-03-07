@@ -7,5 +7,5 @@ relationships:
             - person: person-tyrion-lannister
               role: principal
         properties:
-            start_date: "298"
+            started_on: "298"
             context: "Bronn volunteered to champion Tyrion Lannister at the trial by combat in the High Hall of the Eyrie. He defeated and killed Ser Vardis Egen, winning Tyrion's freedom. Afterward, on the high road, Tyrion formalized the arrangement: Bronn's sword in exchange for Lannister gold."

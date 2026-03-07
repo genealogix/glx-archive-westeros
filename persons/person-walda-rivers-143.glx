@@ -7,4 +7,5 @@ persons:
                     given: Walda
                     surname: Rivers
                 value: Walda Rivers
-            rin: MH:I143
+            external_ids:
+                - "MH:I143"

@@ -4,7 +4,7 @@ events:
         date: "298"
         place: place-the-twins
         participants:
-            - person: person-catelyn-stark
+            - person: person-catelyn-tully
               role: negotiator
             - person: person-walder-frey
               role: host

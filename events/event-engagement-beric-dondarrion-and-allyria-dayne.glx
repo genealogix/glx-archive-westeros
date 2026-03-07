@@ -3,6 +3,6 @@ events:
         type: engagement
         participants:
             - person: person-beric-dondarrion
-              role: spouse
+              role: subject
             - person: person-allyria-dayne
-              role: spouse
+              role: subject

@@ -4,13 +4,15 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Aegon 'Jinglebell'
+                    given: Aegon
+                    nickname: Jinglebell
                     surname: Frey
-                value: Aegon 'Jinglebell' Frey
+                value: Aegon Frey
             alias:
                 - value: "Jinglebell"
             house: Frey
             died_on: "299"
             cause_of_death: "Throat cut by Catelyn Tully at the Red Wedding"
-            rin: MH:I16
+            external_ids:
+                - "MH:I16"
         notes: "A halfwit son of Stevron Frey (Lord Walder's eldest son, now deceased). Wore a fool's crown and collar of bells — hence the nickname Jinglebell. Described as having 'less wits than a crannogman' and 'a thin line of spit...from one corner of his mouth when he smiled.' He pranced and danced to the music at the wedding feast. During the massacre Catelyn seized him from under a table as a hostage, demanding Robb's freedom from Lord Walder — 'a son for a son.' Walder refused. Catelyn killed him: 'She tugged hard on Aegon's hair and sawed at his neck until the blade grated on bone.' AFFC appendix confirms: 'killed at the Red Wedding by Catelyn Stark.' Source: ASOS Catelyn VII."

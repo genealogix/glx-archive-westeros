@@ -7,4 +7,5 @@ persons:
                     given: Mina
                     surname: Tyrell
                 value: Mina Tyrell
-            rin: MH:I387
+            external_ids:
+                - "MH:I387"

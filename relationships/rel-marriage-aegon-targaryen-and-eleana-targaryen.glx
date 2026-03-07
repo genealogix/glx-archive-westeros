@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-eleana-targaryen
               role: spouse
-        properties:
-            marriage_event: event-marriage-aegon-targaryen-and-eleana-targaryen
+        start_event: event-marriage-aegon-targaryen-and-eleana-targaryen

@@ -7,4 +7,5 @@ persons:
                     given: Bethany
                     surname: Rosby
                 value: Bethany Rosby
-            rin: MH:I126
+            external_ids:
+                - "MH:I126"

@@ -7,4 +7,5 @@ persons:
                     given: Daemon
                     surname: Blackfyre
                 value: Daemon Blackfyre
-            rin: MH:I312
+            external_ids:
+                - "MH:I312"

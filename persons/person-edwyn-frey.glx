@@ -7,4 +7,5 @@ persons:
                     given: Edwyn
                     surname: Frey
                 value: Edwyn Frey
-            rin: MH:I8
+            external_ids:
+                - "MH:I8"

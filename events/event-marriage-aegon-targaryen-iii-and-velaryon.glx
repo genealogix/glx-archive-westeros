@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-aegon-targaryen-iii
-              role: spouse
+              role: subject
             - person: person-velaryon
-              role: spouse
+              role: subject

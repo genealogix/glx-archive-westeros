@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-hardyng
-              role: spouse
+              role: subject
             - person: person-waynwood-237
-              role: spouse
+              role: subject

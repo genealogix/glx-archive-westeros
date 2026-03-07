@@ -7,4 +7,5 @@ persons:
                     given: Melara
                     surname: Crane
                 value: Melara Crane
-            rin: MH:I448
+            external_ids:
+                - "MH:I448"

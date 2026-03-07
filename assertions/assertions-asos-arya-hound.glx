@@ -2,7 +2,7 @@ assertions:
     assertion-arya-recovers-needle:
         subject:
             person: person-arya-stark
-        property: action
+        property: description
         value: "Recovered her sword Needle from Polliver at the inn near the ruby ford"
         citations:
             - citation-asos-arya-hound
@@ -13,7 +13,7 @@ assertions:
     assertion-arya-kills-tickler:
         subject:
             person: person-arya-stark
-        property: action
+        property: description
         value: "Killed the Tickler (Harrenhal torturer) by stabbing him repeatedly in the back while reciting his own torture questions"
         citations:
             - citation-asos-arya-hound
@@ -24,7 +24,7 @@ assertions:
     assertion-arya-departs-braavos:
         subject:
             person: person-arya-stark
-        property: destination
+        property: description
         value: "Sailed from Saltpans to Braavos aboard the Braavosi ship Titan's Daughter after presenting Jaqen H'ghar's iron coin"
         citations:
             - citation-asos-arya-hound
@@ -35,7 +35,7 @@ assertions:
     assertion-sandor-mortally-wounded:
         subject:
             person: person-sandor-clegane
-        property: condition
+        property: description
         value: "Left dying of fever and infected wounds near the Trident after Arya abandoned him"
         citations:
             - citation-asos-arya-hound

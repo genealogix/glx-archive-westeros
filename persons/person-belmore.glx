@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Belmore
                 value: Belmore
-            rin: MH:I247
+            external_ids:
+                - "MH:I247"

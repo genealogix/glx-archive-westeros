@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-arryn-341
               role: spouse
-        properties:
-            marriage_event: event-marriage-viserys-targaryen-i-and-arryn-341
+        start_event: event-marriage-viserys-targaryen-i-and-arryn-341

@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-hoster-tully
-              role: spouse
+              role: subject
             - person: person-minisa-whent
-              role: spouse
+              role: subject

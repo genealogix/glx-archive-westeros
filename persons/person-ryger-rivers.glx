@@ -7,4 +7,5 @@ persons:
                     given: Ryger
                     surname: Rivers
                 value: Ryger Rivers
-            rin: MH:I148
+            external_ids:
+                - "MH:I148"

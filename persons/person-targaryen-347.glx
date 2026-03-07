@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Targaryen
                 value: Targaryen
-            rin: MH:I347
+            external_ids:
+                - "MH:I347"

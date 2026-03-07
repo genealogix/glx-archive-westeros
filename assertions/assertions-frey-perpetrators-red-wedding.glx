@@ -2,7 +2,7 @@ assertions:
     assertion-lothar-frey-planner:
         subject:
             person: person-lothar-frey
-        property: role_in_red_wedding
+        property: description
         value: "Principal planner and negotiator for the Frey side"
         citations:
             - citation-asos-catelyn-vii
@@ -13,7 +13,7 @@ assertions:
     assertion-ryman-frey-massacre-role:
         subject:
             person: person-ryman-frey
-        property: role_in_red_wedding
+        property: description
         value: "Led armed men-at-arms into the hall; killed Dacey Mormont"
         citations:
             - citation-asos-catelyn-vii
@@ -24,7 +24,7 @@ assertions:
     assertion-hosteen-frey-massacre-role:
         subject:
             person: person-hosteen-frey
-        property: role_in_red_wedding
+        property: description
         value: "Cut down Lucas Blackwood during the massacre"
         citations:
             - citation-asos-catelyn-vii
@@ -35,7 +35,7 @@ assertions:
     assertion-black-walder-massacre-role:
         subject:
             person: person-walder-frey-black-walder
-        property: role_in_red_wedding
+        property: description
         value: "Hamstrung a Vance during the massacre"
         citations:
             - citation-asos-catelyn-vii
@@ -46,7 +46,7 @@ assertions:
     assertion-walder-rivers-premeditation:
         subject:
             person: person-walder-rivers
-        property: role_in_red_wedding
+        property: description
         value: "Attended negotiations; knew of the plot in advance"
         citations:
             - citation-asos-catelyn-vii
@@ -57,7 +57,7 @@ assertions:
     assertion-benfrey-frey-massacre-role:
         subject:
             person: person-benfrey-frey
-        property: role_in_red_wedding
+        property: description
         value: "Seized Dacey Mormont; was struck by wine flagon in return"
         citations:
             - citation-asos-catelyn-vii
@@ -68,7 +68,7 @@ assertions:
     assertion-edwyn-frey-massacre-trigger:
         subject:
             person: person-edwyn-frey
-        property: role_in_red_wedding
+        property: description
         value: "Wore concealed mail; discovery by Catelyn triggered the visible start of the massacre"
         citations:
             - citation-asos-catelyn-vii

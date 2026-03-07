@@ -2,7 +2,7 @@ assertions:
     assertion-jon-connington-greyscale:
         subject:
             person: person-jon-connington
-        property: notes
+        property: description
         value: "Jon Connington contracted greyscale during Robert's Rebellion when he dove into the river at Stoney Sept to save a drowning man (or escaped Robert). He has kept it hidden. By ADWD it is spreading on his hand."
         citations:
             - citation-adwd-the-lost-lord
@@ -25,7 +25,7 @@ assertions:
     assertion-jon-connington-love-for-rhaegar:
         subject:
             person: person-jon-connington
-        property: notes
+        property: description
         value: "Jon Connington loved Rhaegar Targaryen. He served him as Hand, and his loyalty to Aegon (whom he believes to be Rhaegar's son) is driven in part by this love as well as honor. He regrets not being ruthless enough at Stoney Sept — he prioritized Rhaegar's mercy over ending Robert's Rebellion, and it cost everything."
         citations:
             - citation-adwd-the-lost-lord

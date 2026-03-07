@@ -13,7 +13,7 @@ assertions:
     assertion-arya-brotherhood-captive:
         subject:
             person: person-arya-stark
-        property: captivity
+        property: description
         value: "Arya is held by the Brotherhood Without Banners for ransom to be paid by Robb Stark"
         citations:
             - citation-asos-arya-iv

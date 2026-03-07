@@ -7,4 +7,5 @@ persons:
                     given: Jammos
                     surname: Frey
                 value: Jammos Frey
-            rin: MH:I105
+            external_ids:
+                - "MH:I105"

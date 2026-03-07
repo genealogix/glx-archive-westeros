@@ -1,7 +1,7 @@
 places:
     place-house-of-black-and-white:
         name: "The House of Black and White"
-        type: landmark
+        type: temple
         parent: place-braavos
         properties:
             also_known_as: "The temple of the Many-Faced God"

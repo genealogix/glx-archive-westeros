@@ -2,7 +2,7 @@ assertions:
     assertion-strangler-in-hairnet:
         subject:
             event: event-purple-wedding
-        property: poison_mechanism
+        property: description
         value: "The Strangler dissolved from a black amethyst in Sansa's hairnet, dropped into Joffrey's wine by Olenna Tyrell"
         citations:
             - citation-asos-sansa-vi
@@ -14,7 +14,7 @@ assertions:
     assertion-olenna-killed-joffrey:
         subject:
             person: person-olenna-redwyne
-        property: action
+        property: description
         value: "Dropped the Strangler into Joffrey's wine cup during the Purple Wedding feast"
         citations:
             - citation-asos-sansa-vi
@@ -25,7 +25,7 @@ assertions:
     assertion-joffrey-accused-tyrion:
         subject:
             person: person-joffrey-baratheon
-        property: final_act
+        property: description
         value: "Pointed toward Tyrion while dying, appearing to accuse him"
         citations:
             - citation-asos-tyrion-lxviii
@@ -36,7 +36,7 @@ assertions:
     assertion-cersei-accused-tyrion-sansa:
         subject:
             person: person-cersei-lannister
-        property: accusation
+        property: description
         value: "Publicly accused Tyrion Lannister and Sansa Stark of murdering Joffrey"
         citations:
             - citation-asos-tyrion-lxviii
@@ -47,7 +47,7 @@ assertions:
     assertion-tyrion-poured-wine:
         subject:
             person: person-tyrion-lannister
-        property: action_at_purple_wedding
+        property: description
         value: "Picked up Joffrey's fallen chalice and poured out the remaining poisoned wine"
         citations:
             - citation-asos-tyrion-lxviii

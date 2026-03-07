@@ -2,7 +2,7 @@ assertions:
     assertion-mance-rayder-defection-reason:
         subject:
             person: person-mance-rayder
-        property: notes
+        property: description
         value: "Left the Night's Watch because the Watch refused to let him keep a wildling woman's silk-patched cloak"
         citations:
             - citation-asos-jon-i
@@ -13,7 +13,7 @@ assertions:
     assertion-mance-rayder-at-winterfell:
         subject:
             person: person-mance-rayder
-        property: notes
+        property: description
         value: "Attended Robert Baratheon's feast at Winterfell disguised as a free rider and lute player"
         citations:
             - citation-asos-jon-i
@@ -24,7 +24,7 @@ assertions:
     assertion-mance-rayder-physical-description:
         subject:
             person: person-mance-rayder
-        property: notes
+        property: physical_description
         value: "Middling height, slender, sharp-faced, with shrewd brown eyes and long brown hair mostly gone grey"
         citations:
             - citation-asos-jon-i

@@ -4,10 +4,12 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Brandon 'Bran'
+                    given: Brandon
+                    nickname: Bran
                     surname: Stark
-                value: Brandon 'Bran' Stark
-            rin: MH:I220
+                value: Brandon Stark
+            external_ids:
+                - "MH:I220"
             alias:
                 - value: "Bran"
             house: "Stark"

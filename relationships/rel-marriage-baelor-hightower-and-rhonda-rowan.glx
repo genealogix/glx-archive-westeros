@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-rhonda-rowan
               role: spouse
-        properties:
-            marriage_event: event-marriage-baelor-hightower-and-rhonda-rowan
+        start_event: event-marriage-baelor-hightower-and-rhonda-rowan

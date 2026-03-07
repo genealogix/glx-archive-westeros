@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-petyr-frey
-              role: spouse
+              role: subject
             - person: person-mylenda-caron
-              role: spouse
+              role: subject

@@ -8,7 +8,8 @@ persons:
                     suffix: I
                     surname: Targaryen
                 value: Viserys Targaryen I
-            rin: MH:I340
+            external_ids:
+                - "MH:I340"
             house: "Targaryen"
             title:
                 - value: "King of the Andals, the Rhoynar, and the First Men"

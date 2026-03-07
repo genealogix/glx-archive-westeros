@@ -7,4 +7,5 @@ persons:
                     given: Lewyn
                     surname: Martell
                 value: Lewyn Martell
-            rin: MH:I259
+            external_ids:
+                - "MH:I259"

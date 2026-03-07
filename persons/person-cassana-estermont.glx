@@ -7,4 +7,5 @@ persons:
                     given: Cassana
                     surname: Estermont
                 value: Cassana Estermont
-            rin: MH:I188
+            external_ids:
+                - "MH:I188"

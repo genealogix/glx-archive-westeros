@@ -13,7 +13,7 @@ assertions:
     assertion-azor-ahai-identity-uncertain:
         subject:
             person: person-azor-ahai
-        property: identity
+        property: description
         value: "Same figure as the Last Hero of northern tradition"
         citations:
             - citation-twoiaf-long-night

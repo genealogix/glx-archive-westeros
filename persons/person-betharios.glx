@@ -6,4 +6,5 @@ persons:
                 fields:
                     given: Betharios
                 value: Betharios
-            rin: MH:I81
+            external_ids:
+                - "MH:I81"

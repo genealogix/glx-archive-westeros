@@ -1,8 +1,8 @@
 events:
     event-marriage-renly-baratheon-and-loras-tyrell:
-        type: event
+        type: marriage
         participants:
             - person: person-renly-baratheon
-              role: spouse
+              role: subject
             - person: person-loras-tyrell
-              role: spouse
+              role: subject

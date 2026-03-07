@@ -7,4 +7,5 @@ persons:
                     given: Aelix
                     surname: Targaryen
                 value: Aelix Targaryen
-            rin: MH:I366
+            external_ids:
+                - "MH:I366"

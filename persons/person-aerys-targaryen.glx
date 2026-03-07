@@ -7,4 +7,5 @@ persons:
                     given: Aerys
                     surname: Targaryen
                 value: Aerys Targaryen
-            rin: MH:I365
+            external_ids:
+                - "MH:I365"

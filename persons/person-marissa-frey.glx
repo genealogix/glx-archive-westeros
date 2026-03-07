@@ -7,4 +7,5 @@ persons:
                     given: Marissa
                     surname: Frey
                 value: Marissa Frey
-            rin: MH:I90
+            external_ids:
+                - "MH:I90"

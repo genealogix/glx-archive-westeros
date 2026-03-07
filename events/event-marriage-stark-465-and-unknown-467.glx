@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-stark-465
-              role: spouse
+              role: subject
             - person: person-unknown-467
-              role: spouse
+              role: subject

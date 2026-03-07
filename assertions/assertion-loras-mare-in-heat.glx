@@ -2,7 +2,7 @@ assertions:
     assertion-loras-mare-in-heat-tactic:
         subject:
             person: person-loras-tyrell
-        property: tourney_tactic
+        property: description
         value: "Used a mare in heat to defeat Ser Gregor Clegane at the Hand's tourney"
         citations:
             - citation-agot-eddard-v
@@ -13,7 +13,7 @@ assertions:
     assertion-sandor-saves-loras:
         subject:
             person: person-sandor-clegane
-        property: action
+        property: description
         value: "Intervened to save Loras Tyrell from Ser Gregor Clegane at the Hand's tourney"
         citations:
             - citation-agot-eddard-v

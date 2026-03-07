@@ -7,4 +7,5 @@ persons:
                     given: Desmera
                     surname: Redwyne
                 value: Desmera Redwyne
-            rin: MH:I392
+            external_ids:
+                - "MH:I392"

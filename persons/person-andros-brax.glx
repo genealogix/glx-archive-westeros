@@ -7,4 +7,5 @@ persons:
                     given: Andros
                     surname: Brax
                 value: Andros Brax
-            rin: MH:I153
+            external_ids:
+                - "MH:I153"

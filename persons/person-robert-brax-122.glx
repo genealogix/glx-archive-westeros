@@ -7,4 +7,5 @@ persons:
                     given: Robert
                     surname: Brax
                 value: Robert Brax
-            rin: MH:I122
+            external_ids:
+                - "MH:I122"

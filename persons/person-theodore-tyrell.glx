@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Tyrell
                 value: Ser Theodore Tyrell
-            rin: MH:I399
+            external_ids:
+                - "MH:I399"

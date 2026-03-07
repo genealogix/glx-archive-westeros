@@ -7,4 +7,5 @@ persons:
                     given: Sandor
                     surname: Frey
                 value: Sandor Frey
-            rin: MH:I93
+            external_ids:
+                - "MH:I93"

@@ -7,4 +7,5 @@ persons:
                     given: Aemon
                     surname: Blackfyre
                 value: Aemon Blackfyre
-            rin: MH:I314
+            external_ids:
+                - "MH:I314"

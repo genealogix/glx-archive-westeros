@@ -7,4 +7,5 @@ persons:
                     given: Tysane
                     surname: Frey
                 value: Tysane Frey
-            rin: MH:I110
+            external_ids:
+                - "MH:I110"

@@ -7,4 +7,5 @@ persons:
                     given: Amarei
                     surname: Crakehall
                 value: Amarei Crakehall
-            rin: MH:I61
+            external_ids:
+                - "MH:I61"

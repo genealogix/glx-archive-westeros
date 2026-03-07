@@ -2,15 +2,15 @@ events:
     event-death-robert-baratheon:
         type: death
         date: "298"
-        place: place-red-keep
+        place: place-the-red-keep
         participants:
-            - person: person-robert-baratheon
+            - person: person-robert-baratheon-i
               role: subject
             - person: person-eddard-stark
               role: witness
             - person: person-renly-baratheon
               role: witness
-            - person: person-grand-maester-pycelle
+            - person: person-pycelle
               role: witness
             - person: person-cersei-lannister
               role: witness

@@ -7,4 +7,5 @@ persons:
                     given: Corenna
                     surname: Swann
                 value: Corenna Swann
-            rin: MH:I6
+            external_ids:
+                - "MH:I6"

@@ -7,10 +7,11 @@ persons:
                     given: Minisa
                     surname: Whent
                 value: Minisa Whent
-            rin: MH:I223
+            external_ids:
+                - "MH:I223"
             title:
                 - value: "Lady"
             house: "Whent"
-            status: "dead"
+            died_on: "BEF 300"
             cause_of_death: "Died in childbed"
         notes: "Wife of Lord Hoster Tully. Died in childbed."

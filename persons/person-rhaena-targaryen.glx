@@ -8,4 +8,5 @@ persons:
                     prefix: Septa
                     surname: Targaryen
                 value: Septa Rhaena Targaryen
-            rin: MH:I324
+            external_ids:
+                - "MH:I324"

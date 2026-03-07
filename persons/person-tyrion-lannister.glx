@@ -7,7 +7,8 @@ persons:
                     given: Tyrion
                     surname: Lannister
                 value: Tyrion Lannister
-            rin: MH:I166
+            external_ids:
+                - "MH:I166"
             alias:
                 - value: "The Imp"
                 - value: "Halfman"

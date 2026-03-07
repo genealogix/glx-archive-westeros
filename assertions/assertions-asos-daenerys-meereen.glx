@@ -2,7 +2,7 @@ assertions:
     assertion-dany-decides-stay-meereen:
         subject:
             person: person-daenerys-targaryen-304
-        property: decision
+        property: description
         value: "Chose to remain in Meereen as queen rather than immediately sailing for Westeros"
         citations:
             - citation-asos-daenerys-meereen
@@ -13,7 +13,7 @@ assertions:
     assertion-jorah-banished:
         subject:
             person: person-jorah-mormont
-        property: banishment
+        property: description
         value: "Banished from Meereen by Daenerys Targaryen for spying on her and reporting to Varys/Robert Baratheon"
         citations:
             - citation-asos-daenerys-meereen

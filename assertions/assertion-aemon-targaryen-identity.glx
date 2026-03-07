@@ -1,7 +1,7 @@
 assertions:
     assertion-aemon-targaryen-identity:
         subject:
-            person: person-aemon-targaryen-maester
+            person: person-aemon-targaryen
         property: lineage
         value: "Aemon Targaryen, son of Maekar I, brother of Aegon V"
         citations:

@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Santagar
                 value: Ser Symon Santagar
-            rin: MH:I480
+            external_ids:
+                - "MH:I480"

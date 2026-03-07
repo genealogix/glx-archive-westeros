@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-corenna-swann
               role: spouse
-        properties:
-            marriage_event: event-marriage-stevron-frey-and-corenna-swann
+        start_event: event-marriage-stevron-frey-and-corenna-swann

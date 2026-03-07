@@ -7,4 +7,5 @@ persons:
                     given: Rhaelle
                     surname: Targaryen
                 value: Rhaelle Targaryen
-            rin: MH:I288
+            external_ids:
+                - "MH:I288"

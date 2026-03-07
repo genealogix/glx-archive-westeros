@@ -7,4 +7,5 @@ persons:
                     given: Carolei
                     surname: Waynwood
                 value: Carolei Waynwood
-            rin: MH:I92
+            external_ids:
+                - "MH:I92"

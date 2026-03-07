@@ -1,8 +1,8 @@
 events:
     event-marriage-tregar-ormollen-and-lynesse-hightower:
-        type: event
+        type: marriage
         participants:
             - person: person-tregar-ormollen
-              role: spouse
+              role: subject
             - person: person-lynesse-hightower
-              role: spouse
+              role: subject

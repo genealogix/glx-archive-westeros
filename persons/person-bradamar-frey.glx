@@ -7,4 +7,5 @@ persons:
                     given: Bradamar
                     surname: Frey
                 value: Bradamar Frey
-            rin: MH:I84
+            external_ids:
+                - "MH:I84"

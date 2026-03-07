@@ -1,8 +1,8 @@
 events:
     event-marriage-alyn-velaryon-and-elaena-targaryen:
-        type: event
+        type: marriage
         participants:
             - person: person-alyn-velaryon
-              role: spouse
+              role: subject
             - person: person-elaena-targaryen
-              role: spouse
+              role: subject

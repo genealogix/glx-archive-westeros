@@ -7,4 +7,5 @@ persons:
                     given: Rycherd
                     surname: Crane
                 value: Rycherd Crane
-            rin: MH:I451
+            external_ids:
+                - "MH:I451"

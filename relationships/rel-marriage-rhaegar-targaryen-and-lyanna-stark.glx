@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-lyanna-stark
               role: spouse
-        properties:
-            marriage_event: event-marriage-rhaegar-targaryen-and-lyanna-stark-715
+        start_event: event-marriage-rhaegar-targaryen-and-lyanna-stark-715

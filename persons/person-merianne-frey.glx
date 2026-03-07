@@ -7,4 +7,5 @@ persons:
                     given: Merianne
                     surname: Frey
                 value: Merianne Frey
-            rin: MH:I120
+            external_ids:
+                - "MH:I120"

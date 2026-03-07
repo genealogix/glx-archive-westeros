@@ -2,7 +2,7 @@ assertions:
     assertion-gregor-clegane-raids-riverlands:
         subject:
             person: person-gregor-clegane
-        property: crime
+        property: description
         value: "Raids on Sherrer, Wendish Town, and Mummer's Ford"
         citations:
             - citation-agot-eddard-xi
@@ -13,7 +13,7 @@ assertions:
     assertion-ned-stark-attaints-gregor:
         subject:
             person: person-gregor-clegane
-        property: attainted
+        property: description
         value: "Stripped of all rank, titles, lands, and incomes by Ned Stark acting as Hand"
         citations:
             - citation-agot-eddard-xi
@@ -24,7 +24,7 @@ assertions:
     assertion-beric-dondarrion-mission:
         subject:
             person: person-beric-dondarrion
-        property: mission
+        property: description
         value: "Sent to execute Gregor Clegane by Ned Stark"
         citations:
             - citation-agot-eddard-xi

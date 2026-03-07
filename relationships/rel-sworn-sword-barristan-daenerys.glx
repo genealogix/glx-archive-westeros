@@ -4,9 +4,9 @@ relationships:
         participants:
             - person: person-barristan-selmy
               role: sworn_knight
-            - person: person-daenerys-targaryen
+            - person: person-daenerys-targaryen-304
               role: liege
         properties:
-            start_date: "300"
+            started_on: "300"
             context: "Ser Barristan Selmy formally pledged his sword to Daenerys Targaryen in Meereen after revealing his true identity (he had traveled with her as 'Arstan Whitebeard'). He knelt before her and spoke his oath. Daenerys had accepted his explanation and granted his request to receive the sword from her hand rather than from another's. He had previously served on the Kingsguard of Aerys II, Robert Baratheon, and Joffrey Baratheon."
         notes: "Barristan told Daenerys his true name had been withheld because he wanted to evaluate her before pledging — he had feared she might share her father Aerys's madness. After seeing 'no taint' in her, he committed fully. He accepted losing the white cloak of the Kingsguard and serving her instead. He knelt and lay the blade before her as he said his words."

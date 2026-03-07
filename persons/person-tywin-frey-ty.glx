@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Tywin 'Ty'
+                    given: Tywin
+                    nickname: Ty
                     surname: Frey
-                value: Tywin 'Ty' Frey
-            rin: MH:I34
+                value: Tywin Frey
+            external_ids:
+                - "MH:I34"

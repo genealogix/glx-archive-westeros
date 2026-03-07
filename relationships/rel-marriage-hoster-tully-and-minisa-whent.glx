@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-minisa-whent
               role: spouse
-        properties:
-            marriage_event: event-marriage-hoster-tully-and-minisa-whent
+        start_event: event-marriage-hoster-tully-and-minisa-whent

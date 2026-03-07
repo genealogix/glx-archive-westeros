@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-raymund-frey
-              role: spouse
+              role: subject
             - person: person-beony-beesbury
-              role: spouse
+              role: subject

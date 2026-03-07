@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-stevron-frey
-              role: spouse
+              role: subject
             - person: person-marsella-waynwood
-              role: spouse
+              role: subject

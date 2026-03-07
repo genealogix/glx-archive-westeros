@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-joyeuse-erenford
               role: spouse
-        properties:
-            marriage_event: event-marriage-walder-frey-and-joyeuse-erenford
+        start_event: event-marriage-walder-frey-and-joyeuse-erenford

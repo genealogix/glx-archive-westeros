@@ -13,7 +13,7 @@ assertions:
     assertion-robert-friendship-ned:
         subject:
             person: person-robert-baratheon-i
-        property: notes
+        property: description
         value: "Robert and Ned were wards together at the Eyrie under Jon Arryn and fought together in Robert's Rebellion; Robert loves him like a brother"
         citations:
             - citation-agot-catelyn-i

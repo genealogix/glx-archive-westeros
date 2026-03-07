@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-theodore-tyrell
-              role: spouse
+              role: subject
             - person: person-lia-serry
-              role: spouse
+              role: subject

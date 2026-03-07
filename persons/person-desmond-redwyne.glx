@@ -7,4 +7,5 @@ persons:
                     given: Desmond
                     surname: Redwyne
                 value: Desmond Redwyne
-            rin: MH:I413
+            external_ids:
+                - "MH:I413"

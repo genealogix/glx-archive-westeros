@@ -7,4 +7,5 @@ persons:
                     given: Arthur
                     surname: Ambrose
                 value: Arthur Ambrose
-            rin: MH:I411
+            external_ids:
+                - "MH:I411"

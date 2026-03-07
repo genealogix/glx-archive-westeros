@@ -8,6 +8,7 @@ persons:
                     suffix: VI
                     surname: Targaryen
                 value: Aegon Targaryen VI
-            rin: MH:I209
+            external_ids:
+                - "MH:I209"
             house: "Targaryen"
         notes: "Son of Rhaegar Targaryen and Elia Martell. Officially murdered as a babe during the Sack of King's Landing. The ADWD Appendix lists Young Griff among Daenerys's suitors, and notes separately that Rhaegar's son Aegon was 'a babe in arms, murdered during the Sack of King's Landing.' Young Griff is believed to be this Aegon, raised in secret by Jon Connington."

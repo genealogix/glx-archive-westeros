@@ -56,3 +56,8 @@ relationship_properties:
     description: "The political purpose behind this relationship (alliance, hostage, leverage)"
     value_type: string
 
+  end_reason:
+    label: "End Reason"
+    description: "How or why the relationship ended (e.g., death, annulment, betrayal)"
+    value_type: string
+

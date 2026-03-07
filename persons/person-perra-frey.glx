@@ -7,4 +7,5 @@ persons:
                     given: Perra
                     surname: Frey
                 value: Perra Frey
-            rin: MH:I14
+            external_ids:
+                - "MH:I14"

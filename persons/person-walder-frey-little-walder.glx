@@ -4,7 +4,9 @@ persons:
             gender: male
             name:
                 fields:
-                    given: Walder 'Little Walder'
+                    given: Walder
+                    nickname: Little Walder
                     surname: Frey
-                value: Walder 'Little Walder' Frey
-            rin: MH:I91
+                value: Walder Frey
+            external_ids:
+                - "MH:I91"

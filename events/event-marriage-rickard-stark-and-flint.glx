@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-rickard-stark
-              role: spouse
+              role: subject
             - person: person-flint
-              role: spouse
+              role: subject

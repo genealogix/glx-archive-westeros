@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-garse-goodbrook
-              role: spouse
+              role: subject
             - person: person-kyra-frey
-              role: spouse
+              role: subject

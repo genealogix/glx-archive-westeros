@@ -2,7 +2,7 @@ assertions:
     assertion-unsullied-training-regime:
         subject:
             person: person-kraznys-mo-nakloz
-        property: notes
+        property: description
         value: "Unsullied training begins at age five; only one in three survives; must strangle their puppy after one year; must kill an infant with a silver mark to earn the spiked cap"
         citations:
             - citation-asos-daenerys-ii
@@ -24,7 +24,7 @@ assertions:
     assertion-kraznys-insults-daenerys:
         subject:
             person: person-kraznys-mo-nakloz
-        property: notes
+        property: description
         value: "Kraznys habitually insulted Daenerys in High Valyrian, not knowing she understood him; Missandei softened his words in translation"
         citations:
             - citation-asos-daenerys-ii
@@ -35,7 +35,7 @@ assertions:
     assertion-missandei-origin-naath:
         subject:
             person: person-missandei
-        property: notes
+        property: description
         value: "Missandei is from Naath; no older than ten at the time of the Astapor chapters; spoke Common Tongue well despite never having been to Westeros"
         citations:
             - citation-asos-daenerys-ii
@@ -46,7 +46,7 @@ assertions:
     assertion-arstan-argues-against-slavery:
         subject:
             person: person-arstan-whitebeard
-        property: notes
+        property: description
         value: "Argued against buying Unsullied on the grounds that slavery is abominated by both old gods and new, and would damage Daenerys's cause in Westeros"
         citations:
             - citation-asos-daenerys-ii

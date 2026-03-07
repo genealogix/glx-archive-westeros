@@ -7,4 +7,5 @@ persons:
                     given: Denys
                     surname: Arryn
                 value: Denys Arryn
-            rin: MH:I235
+            external_ids:
+                - "MH:I235"

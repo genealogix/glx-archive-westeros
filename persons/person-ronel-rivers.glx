@@ -7,4 +7,5 @@ persons:
                     given: Ronel
                     surname: Rivers
                 value: Ronel Rivers
-            rin: MH:I149
+            external_ids:
+                - "MH:I149"

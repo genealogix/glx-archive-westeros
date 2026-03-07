@@ -8,4 +8,5 @@ persons:
                     prefix: Maester
                     surname: Targaryen
                 value: Maester Aemon Targaryen
-            rin: MH:I287
+            external_ids:
+                - "MH:I287"

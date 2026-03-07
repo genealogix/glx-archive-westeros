@@ -7,4 +7,5 @@ persons:
                     given: Baelor
                     surname: Hightower
                 value: Baelor Hightower
-            rin: MH:I408
+            external_ids:
+                - "MH:I408"

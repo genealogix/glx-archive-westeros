@@ -7,4 +7,5 @@ persons:
                     given: Ryella
                     surname: Royce
                 value: Ryella Royce
-            rin: MH:I71
+            external_ids:
+                - "MH:I71"

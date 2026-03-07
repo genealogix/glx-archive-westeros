@@ -7,4 +7,5 @@ persons:
                     given: Tregar
                     surname: Ormollen
                 value: Tregar Ormollen
-            rin: MH:I424
+            external_ids:
+                - "MH:I424"

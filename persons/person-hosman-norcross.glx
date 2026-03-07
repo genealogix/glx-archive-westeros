@@ -7,4 +7,5 @@ persons:
                     given: Hosman
                     surname: Norcross
                 value: Hosman Norcross
-            rin: MH:I454
+            external_ids:
+                - "MH:I454"

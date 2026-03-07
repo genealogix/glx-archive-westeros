@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-eddard-stark
-              role: spouse
+              role: subject
             - person: person-catelyn-tully
-              role: spouse
+              role: subject

@@ -5,9 +5,9 @@ events:
         place: place-kings-landing
         participants:
             - person: person-joffrey-baratheon
-              role: spouse
+              role: subject
             - person: person-margaery-tyrell
-              role: spouse
+              role: subject
         properties:
             description: "The wedding of King Joffrey I Baratheon and Margaery Tyrell at the Great Sept of Baelor. The wedding feast became known as the Purple Wedding when Joffrey was poisoned."
         notes: "Joffrey died at his own wedding feast, poisoned by the Strangler. The marriage was never consummated."

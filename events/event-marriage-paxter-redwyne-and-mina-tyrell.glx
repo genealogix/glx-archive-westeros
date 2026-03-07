@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-paxter-redwyne
-              role: spouse
+              role: subject
             - person: person-mina-tyrell
-              role: spouse
+              role: subject

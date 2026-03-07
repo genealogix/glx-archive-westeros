@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-aerys-targaryen-ii
-              role: spouse
+              role: subject
             - person: person-rhaella-targaryen
-              role: spouse
+              role: subject

@@ -2,7 +2,7 @@ assertions:
     assertion-quentyn-martell-death:
         subject:
             person: person-quentyn-martell
-        property: death
+        property: died_on
         value: "300"
         citations:
             - citation-adwd-the-dragontamer
@@ -26,7 +26,7 @@ assertions:
     assertion-quentyn-martell-targaryen-blood:
         subject:
             person: person-quentyn-martell
-        property: lineage
+        property: description
         value: "Partial Targaryen blood through his mother Mellario of Norvos"
         citations:
             - citation-adwd-the-dragontamer

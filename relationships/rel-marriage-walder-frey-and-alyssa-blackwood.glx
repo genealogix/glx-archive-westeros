@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-alyssa-blackwood
               role: spouse
-        properties:
-            marriage_event: event-marriage-walder-frey-and-alyssa-blackwood
+        start_event: event-marriage-walder-frey-and-alyssa-blackwood

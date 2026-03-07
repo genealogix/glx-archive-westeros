@@ -8,7 +8,8 @@ persons:
                     prefix: Ser
                     surname: Lannister
                 value: Ser Jaime Lannister
-            rin: MH:I164
+            external_ids:
+                - "MH:I164"
             alias:
                 - value: "The Kingslayer"
             title:

@@ -7,4 +7,5 @@ persons:
                     given: Rupert
                     surname: Brax
                 value: Rupert Brax
-            rin: MH:I157
+            external_ids:
+                - "MH:I157"

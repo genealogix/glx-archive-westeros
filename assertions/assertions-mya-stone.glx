@@ -52,7 +52,7 @@ assertions:
     assertion-mya-stone-mychel-redfort:
         subject:
             person: person-mya-stone
-        property: betrothed
+        property: description
         value: "Mychel Redfort (squire to Ser Lyn Corbray)"
         citations:
             - citation-agot-catelyn-vi

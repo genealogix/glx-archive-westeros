@@ -7,4 +7,5 @@ persons:
                     given: Damon
                     surname: Vypren
                 value: Damon Vypren
-            rin: MH:I77
+            external_ids:
+                - "MH:I77"

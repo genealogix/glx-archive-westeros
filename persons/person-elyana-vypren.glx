@@ -7,4 +7,5 @@ persons:
                     given: Elyana
                     surname: Vypren
                 value: Elyana Vypren
-            rin: MH:I78
+            external_ids:
+                - "MH:I78"

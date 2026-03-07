@@ -8,4 +8,5 @@ persons:
                     prefix: Septon
                     surname: Frey
                 value: Septon Luceon Frey
-            rin: MH:I51
+            external_ids:
+                - "MH:I51"

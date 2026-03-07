@@ -7,7 +7,8 @@ persons:
                     given: Doran
                     surname: Martell
                 value: Doran Martell
-            rin: MH:I260
+            external_ids:
+                - "MH:I260"
             title:
                 - value: "Lord of Sunspear"
                 - value: "Prince of Dorne"

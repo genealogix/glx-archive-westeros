@@ -7,4 +7,5 @@ persons:
                     given: Daenerys
                     surname: Targaryen
                 value: Daenerys Targaryen
-            rin: MH:I206
+            external_ids:
+                - "MH:I206"

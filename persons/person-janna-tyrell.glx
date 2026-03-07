@@ -7,4 +7,5 @@ persons:
                     given: Janna
                     surname: Tyrell
                 value: Janna Tyrell
-            rin: MH:I386
+            external_ids:
+                - "MH:I386"

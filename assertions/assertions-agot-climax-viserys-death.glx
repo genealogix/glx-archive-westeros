@@ -35,7 +35,7 @@ assertions:
     assertion-viserys-not-a-dragon:
         subject:
             person: person-viserys-targaryen-iii
-        property: notes
+        property: description
         value: "Viserys was not truly of dragon blood — fire killed him"
         citations:
             - citation-agot-daenerys-vi

@@ -1,7 +1,7 @@
 assertions:
     assertion-daenerys-is-prince-promised:
         subject:
-            person: person-daenerys-targaryen
+            person: person-daenerys-targaryen-304
         property: title
         value: "The Prince That Was Promised / Azor Ahai reborn"
         citations:
@@ -12,7 +12,7 @@ assertions:
 
     assertion-aemon-targaryen-age-at-death:
         subject:
-            person: person-aemon-targaryen-maester
+            person: person-aemon-targaryen
         property: born_on
         value: "ABT 198"
         citations:

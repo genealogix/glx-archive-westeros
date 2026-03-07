@@ -2,7 +2,7 @@ assertions:
     assertion-kevan-refuses-cersei:
         subject:
             person: person-kevan-lannister
-        property: relationship_to_cersei
+        property: description
         value: "Kevan Lannister refused to serve as Hand unless Cersei yielded the regency to him and returned to Casterly Rock; upon her refusal, he departed for Casterly Rock"
         citations:
             - citation-affc-cersei-ii

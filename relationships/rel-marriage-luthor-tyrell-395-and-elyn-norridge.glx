@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-elyn-norridge
               role: spouse
-        properties:
-            marriage_event: event-marriage-luthor-tyrell-395-and-elyn-norridge-757
+        start_event: event-marriage-luthor-tyrell-395-and-elyn-norridge-757

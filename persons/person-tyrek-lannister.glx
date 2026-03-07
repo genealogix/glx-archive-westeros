@@ -7,6 +7,7 @@ persons:
                     given: Tyrek
                     surname: Lannister
                 value: Tyrek Lannister
-            rin: MH:I177
+            external_ids:
+                - "MH:I177"
             house: "Lannister"
         notes: "Son of Ser Tygett Lannister. Squire to King Robert."

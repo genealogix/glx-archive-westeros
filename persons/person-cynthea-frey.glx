@@ -7,4 +7,5 @@ persons:
                     given: Cynthea
                     surname: Frey
                 value: Cynthea Frey
-            rin: MH:I94
+            external_ids:
+                - "MH:I94"

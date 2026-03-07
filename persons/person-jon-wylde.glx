@@ -7,4 +7,5 @@ persons:
                     given: Jon
                     surname: Wylde
                 value: Jon Wylde
-            rin: MH:I79
+            external_ids:
+                - "MH:I79"

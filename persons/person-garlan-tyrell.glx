@@ -8,7 +8,8 @@ persons:
                     prefix: Ser
                     surname: Tyrell
                 value: Ser Garlan Tyrell
-            rin: MH:I377
+            external_ids:
+                - "MH:I377"
             title:
                 - value: "Ser"
                 - value: "Lord of Brightwater"

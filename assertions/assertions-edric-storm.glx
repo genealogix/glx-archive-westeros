@@ -45,7 +45,7 @@ assertions:
     assertion-edric-storm-fostered-renly:
         subject:
             person: person-edric-storm
-        property: ward
+        property: description
         value: "Fostered by Lord Renly Baratheon at Storm's End"
         citations:
             - citation-agot-eddard-ix

@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-denys-arryn
-              role: spouse
+              role: subject
             - person: person-waynwood-234
-              role: spouse
+              role: subject

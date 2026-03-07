@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-betharios
               role: spouse
-        properties:
-            marriage_event: event-marriage-symond-frey-and-betharios
+        start_event: event-marriage-symond-frey-and-betharios

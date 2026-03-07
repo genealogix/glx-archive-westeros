@@ -7,7 +7,8 @@ persons:
                     given: Joffrey
                     surname: Baratheon
                 value: Joffrey Baratheon
-            rin: MH:I168
+            external_ids:
+                - "MH:I168"
             title:
                 - value: "Prince"
                   date: "TO 298"

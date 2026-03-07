@@ -7,5 +7,5 @@ relationships:
             - person: person-stannis-baratheon
               role: lord
         properties:
-            start_date: "AFT 297"
+            started_on: "AFT 297"
             context: "Maester Pylos was sent from the Citadel at Oldtown to assist (and eventually replace) the aging Cressen at Dragonstone. Source text: 'Last year when he took ill, the Citadel had sent Pylos out from Oldtown... to help him in his labors, it was said, but Cressen knew the truth. Pylos had come to replace him when he died.' After Cressen's death, Pylos became the sole maester at Dragonstone and served Stannis by copying the proclamation letters (ACOK Prologue, Davos I)."

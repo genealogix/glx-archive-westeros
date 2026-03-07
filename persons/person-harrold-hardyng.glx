@@ -7,4 +7,5 @@ persons:
                     given: Harrold
                     surname: Hardyng
                 value: Harrold Hardyng
-            rin: MH:I239
+            external_ids:
+                - "MH:I239"

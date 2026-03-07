@@ -12,5 +12,6 @@ persons:
             house: Frey
             died_on: "299"
             cause_of_death: "Killed by outlaws"
-            rin: MH:I29
+            external_ids:
+                - "MH:I29"
         notes: "Son of Ser Emmon Frey and Genna Lannister. ASOS appendix lists him as 'SER CLEOS, m. Jeyne Darry'. Killed by outlaws while escorting Jaime Lannister from Riverrun to King's Landing during ASOS."

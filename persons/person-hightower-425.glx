@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Hightower
                 value: Hightower
-            rin: MH:I425
+            external_ids:
+                - "MH:I425"

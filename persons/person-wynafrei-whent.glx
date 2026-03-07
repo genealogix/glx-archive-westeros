@@ -7,4 +7,5 @@ persons:
                     given: Wynafrei
                     surname: Whent
                 value: Wynafrei Whent
-            rin: MH:I85
+            external_ids:
+                - "MH:I85"

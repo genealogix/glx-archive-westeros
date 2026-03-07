@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-morya-frey
               role: spouse
-        properties:
-            marriage_event: event-marriage-flement-brax-and-morya-frey
+        start_event: event-marriage-flement-brax-and-morya-frey

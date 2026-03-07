@@ -3,6 +3,6 @@ events:
         type: marriage
         participants:
             - person: person-jammos-frey
-              role: spouse
+              role: subject
             - person: person-sallei-paege
-              role: spouse
+              role: subject

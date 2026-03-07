@@ -7,4 +7,5 @@ persons:
                     given: Denyse
                     surname: Hightower
                 value: Denyse Hightower
-            rin: MH:I412
+            external_ids:
+                - "MH:I412"

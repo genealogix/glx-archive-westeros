@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Royce
                 value: Royce
-            rin: MH:I473
+            external_ids:
+                - "MH:I473"

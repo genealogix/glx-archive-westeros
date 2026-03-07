@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-ryella-royce
               role: spouse
-        properties:
-            marriage_event: event-marriage-arwood-frey-and-ryella-royce
+        start_event: event-marriage-arwood-frey-and-ryella-royce

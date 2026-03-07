@@ -12,13 +12,13 @@ assertions:
     assertion-roose-bolton-marriage-walda-adwd:
         subject:
             relationship: rel-marriage-roose-bolton-walda-frey
-        property: participants
-        value: "Roose Bolton and Walda Frey"
+        participant:
+            person: person-roose-bolton
+            role: spouse
+            notes: "ADWD Appendix: Merrett's daughter 'WALDA, called FAT WALDA, m. Roose Bolton, Lord of the Dreadfort'"
         citations:
             - citation-adwd-appendix
         confidence: high
-        status: proven
-        notes: "ADWD Appendix: Merrett's daughter 'WALDA, called FAT WALDA, m. Roose Bolton, Lord of the Dreadfort'"
     assertion-barbrey-dustin-lady-barrowton-adwd:
         subject:
             person: person-barbrey-dustin

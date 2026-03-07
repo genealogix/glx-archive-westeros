@@ -8,4 +8,5 @@ persons:
                     prefix: Ser
                     surname: Florent
                 value: Ser Colin Florent
-            rin: MH:I447
+            external_ids:
+                - "MH:I447"

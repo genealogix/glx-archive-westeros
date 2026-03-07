@@ -6,5 +6,4 @@ relationships:
               role: spouse
             - person: person-cersei-lannister
               role: spouse
-        properties:
-            marriage_event: event-marriage-robert-baratheon-i-and-cersei-lannister
+        start_event: event-marriage-robert-baratheon-i-and-cersei-lannister

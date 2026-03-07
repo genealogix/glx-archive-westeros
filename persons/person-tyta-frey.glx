@@ -7,4 +7,5 @@ persons:
                     given: Tyta
                     surname: Frey
                 value: Tyta Frey
-            rin: MH:I108
+            external_ids:
+                - "MH:I108"

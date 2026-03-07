@@ -6,4 +6,5 @@ persons:
                 fields:
                     surname: Blackfyre
                 value: Blackfyre
-            rin: MH:I317
+            external_ids:
+                - "MH:I317"
