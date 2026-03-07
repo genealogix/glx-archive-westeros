@@ -1,0 +1,16 @@
+persons:
+    person-archibald-yronwood:
+        properties:
+            name:
+                value: "Archibald Yronwood"
+                fields:
+                    given: "Archibald"
+                    surname: "Yronwood"
+            gender: male
+            title:
+                - value: "Ser"
+            house: "Yronwood"
+            alias:
+                - value: "Arch"
+                - value: "The Big Man"
+        notes: "A Dornish knight from House Yronwood, one of Quentyn Martell's two companions. Described as big and bald. He gets seasick easily and vehemently opposes taking ships. His simplicity is a contrast to Gerris Drinkwater's courtier polish — he refers to all Meereenese by the same invented name 'Harzoo.' He accompanies Quentyn and Gerris to the secret meeting with the Tattered Prince. He carries a warhammer. (ADWD 'The Discarded Knight,' 'The Spurned Suitor')"

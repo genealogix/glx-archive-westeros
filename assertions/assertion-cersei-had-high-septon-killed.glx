@@ -1,0 +1,22 @@
+assertions:
+    assertion-cersei-had-high-septon-killed:
+        subject:
+            person: person-cersei-lannister
+        property: crime
+        value: "Murder of the previous High Septon (the fat one)"
+        citations:
+            - citation-affc-cersei-vii
+        confidence: high
+        status: proven
+        notes: "Under torture by the Faith Militant, Osney Kettleblack confessed to the High Sparrow: 'She sent me to kill the old High Septon. He never had no guards. I just come in when he was sleeping and pushed a pillow down across his face.' This was the confession that triggered Cersei's arrest. Cersei had previously arranged the murder of the fat High Septon and replaced him — only to see the replacement (the High Sparrow) prove far more dangerous."
+
+    assertion-margaery-moon-tea:
+        subject:
+            person: person-margaery-tyrell
+        property: testimony
+        value: "Margaery Tyrell requested moon tea from Grand Maester Pycelle on multiple occasions"
+        citations:
+            - citation-affc-cersei-v
+        confidence: high
+        status: proven
+        notes: "Grand Maester Pycelle admitted before the small council: 'Queen Margaery is no maiden. She has required me to make her moon tea, not once, but many times.' Moon tea is a contraceptive/abortifacient. This confirmed Margaery was not a virgin despite her claims, though it did not prove adultery — she may have been sexually active with Renly, her first husband, or others. The Faith used this as evidence of fornication."

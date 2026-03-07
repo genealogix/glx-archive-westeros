@@ -1,0 +1,11 @@
+persons:
+    person-denyo-terys:
+        properties:
+            name:
+                value: "Denyo Terys"
+                fields:
+                    given: "Denyo"
+                    surname: "Terys"
+            gender: "male"
+            born_on: "ABT 287"
+        notes: "The youngest son of Tradesman-Captain Ternesio Terys of the Braavosi galleas Titan's Daughter. He is about twelve years old (plump, cheerful). He keeps his father's cabin and helps his eldest brother with sums. He is passionate about Braavos and speaks Common Tongue well enough to talk to Arya, pointing out the Titan, the Arsenal, and the Isle of the Gods. He is Arya's primary companion during the voyage. Arya forgets to say farewell to him before she is rowed ashore. (AFFC Arya I)"

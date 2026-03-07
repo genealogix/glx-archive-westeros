@@ -1,0 +1,11 @@
+persons:
+    person-pate-acolyte-oldtown:
+        properties:
+            name:
+                value: "Pate"
+                fields:
+                    given: "Pate"
+            gender: "male"
+            alias:
+                - value: "Spotted Pate the Pig Boy (nickname he hated)"
+        notes: "A novice at the Citadel in Oldtown, from the westerlands. Five years at the Citadel, still unpromoted to acolyte. He assists Archmaester Walgrave — helping the senile archmaester dress and reach the privy, and tending his white ravens. He is in love with Rosey, a serving girl at the Quill and Tankard tavern. He steals the iron master-key from Walgrave's strongbox and sells it to a man calling himself 'the alchemist' in exchange for a golden dragon coin. He falls dead immediately after receiving the coin — killed by poison or sorcery, apparently by a Faceless Man. NOTE: This Pate is distinct from 'Ser Pate' in the archive (person-pate), who is an older imported record. This Pate is the POV character of the AFFC Prologue. The name Pate deliberately echoes the Spotted Pate the Pig Boy folk tales. (AFFC Prologue)"

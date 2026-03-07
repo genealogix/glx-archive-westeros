@@ -1,0 +1,14 @@
+persons:
+    person-osney-kettleblack:
+        properties:
+            name:
+                value: "Osney Kettleblack"
+                fields:
+                    type: "birth"
+                    given: "Osney"
+                    surname: "Kettleblack"
+            gender: "male"
+            house: "Kettleblack"
+            title:
+                - value: "Ser"
+        notes: "The youngest of the three Kettleblack brothers brought to King's Landing by Bronn and used by Cersei Lannister. Cersei seduced him and sent him to confess before the High Sparrow that he had committed adultery with Queen Margaery Tyrell and her cousins Megga and Elinor Tyrell. Under torture by the Faith Militant, Osney recanted and instead implicated Cersei in the murder of the previous High Septon (whom he had actually smothered with a pillow on Cersei's orders). His confession to murder and adultery with Cersei triggered her arrest. He has distinctive facial scars."

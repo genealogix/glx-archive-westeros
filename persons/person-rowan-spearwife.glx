@@ -1,0 +1,7 @@
+persons:
+    person-rowan-spearwife:
+        properties:
+            name:
+                value: "Rowan"
+            gender: female
+        notes: "One of the six spearwives who accompany Mance Rayder (glamored as Abel) to Winterfell. Among Abel's 'washerwomen.' Appears to be the leader of the group among the spearwives who act with Theon. She kills Yellow Dick and other Bolton men. She helps execute the escape plan for Jeyne Poole, heading back to the Great Hall with Willow and Myrtle to find Abel while Holly and Frenya go with Theon and Jeyne. She rebukes Theon bitterly for his betrayal of the Starks. (ADWD, 'A Ghost in Winterfell,' 'Theon')"

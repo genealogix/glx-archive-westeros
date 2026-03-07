@@ -1,0 +1,17 @@
+events:
+    event-sam-aemon-depart-wall:
+        type: departure
+        date: "300"
+        place: place-castle-black
+        participants:
+            - person: person-samwell-tarly
+              role: subject
+            - person: person-aemon-targaryen
+              role: subject
+            - person: person-gilly
+              role: subject
+            - person: person-jon-snow
+              role: organizer
+        properties:
+            description: "Jon Snow orders Samwell Tarly to escort Maester Aemon (age 102) and Gilly (with her son and Dalla's infant son) south from Castle Black to Eastwatch-by-the-Sea, then by ship to Braavos, then on to Oldtown, where Sam is to forge a maester's chain and return to the Night's Watch as its new maester. Aemon is sent away because Melisandre (and Stannis) may seek to use his Targaryen blood for king's-blood sacrifice. Black Jack Bulwer commands the ranger escort. Dareon, a singer, will join them at Eastwatch to recruit men in the south. Aemon leaves Jon the Jade Compendium (by Colloquo Votar) with a marked passage."
+        notes: "AFFC Samwell I. Gilly is carrying the infant she is told is her own son but is actually Dalla's baby (Mance Rayder's son) — Jon swapped the babies before sending Gilly away for the boy's safety. This is a major plot thread in AFFC. (AFFC Samwell I, citation-affc-samwell-i)"

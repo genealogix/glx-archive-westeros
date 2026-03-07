@@ -1,0 +1,13 @@
+persons:
+    person-rattleshirt:
+        properties:
+            name:
+                value: "Rattleshirt"
+                fields:
+                    given: "Rattleshirt"
+            alias:
+                - value: "Lord of Bones"
+            gender: male
+            title:
+                - value: "Lord of Bones"
+        notes: "Wildling raider and leader. Wore armor fashioned from the bones of his victims, including a giant's skull as a helm. His actual name is Rattleshirt, though he preferred to be called the Lord of Bones. Thin, ordinary-featured beneath the skull helm: knobby chin, thin mustache, sallow pinched cheeks, close-set eyes, one eyebrow creeping all the way across his forehead, thinning hair with a sharp widow's peak. Escorted Jon Snow from the Skirling Pass to Mance Rayder's camp. Known raider. Carried Qhorin Halfhand's bones in a sack."

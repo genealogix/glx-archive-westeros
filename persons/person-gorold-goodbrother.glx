@@ -1,0 +1,13 @@
+persons:
+    person-gorold-goodbrother:
+        properties:
+            name:
+                value: "Gorold Goodbrother"
+                fields:
+                    given: "Gorold"
+                    surname: "Goodbrother"
+            gender: "male"
+            title:
+                - value: "Lord of Hammerhorn"
+            house: "Goodbrother"
+        notes: "Lord of Hammerhorn on Great Wyk. His keep is in the Hardstone Hills, away from the sea. His people work the mines. He has four sons including three who look alike (Gormond, Gran, Greydon) and at least a twelfth daughter. He employs a Maester Murenmure. He sends Gormond to find Aeron Damphair with news of Balon's death and Euron's claim. In AFFC The Prophet, he hosts Aeron briefly in his hall and then provides a horse and Greydon as a guide. He is a practical, pragmatic lord seeking counsel on whether to send his ships to Pyke or Old Wyk. (AFFC The Prophet)"

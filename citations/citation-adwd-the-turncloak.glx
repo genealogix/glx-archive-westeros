@@ -1,0 +1,8 @@
+citations:
+    citation-adwd-the-turncloak:
+        source: source-adwd
+        properties:
+            locator: "The Turncloak"
+            text_from_source: "The north remembers, Frey."
+            accessed: "2026-03-06"
+        notes: "Theon POV. Heavy snowstorm traps Bolton forces at Winterfell. Soldiers dying mysteriously — Roger Ryswell's groom killed, Ser Aenys Frey's squire found dead, crossbowman of the Flints found dead. Lady Dustin speaks the line 'The north remembers.' Lord Bolton suspects Manderly. Roose Bolton announces Stannis has left Deepwood Motte. Abel's washerwoman Holly approaches Theon. Hosteen Frey loses an ear to frostbite."

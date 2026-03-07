@@ -1,0 +1,14 @@
+persons:
+    person-alleras-sphinx:
+        properties:
+            name:
+                value: "Alleras"
+                fields:
+                    type: "alias"
+                    given: "Alleras"
+            alias:
+                - value: "the Sphinx"
+            gender: "male"
+            house: "Martell"
+            religion: "Faith of the Seven"
+        notes: "An acolyte at the Citadel in Oldtown. He is half-Dornish (his own description), with skin 'the color of a light brown ale' and tight black curls with a widow's peak above big black eyes. He helped Sam Tarly find Archmaester Marwyn. He is strongly believed in-text to be Sarella Sand, bastard daughter of Oberyn Martell, who disguised herself as a male student to study at the Citadel (a Westerosi institution that does not admit women). Maester Aemon's dying words hinted at a 'sphinx' being the riddle rather than the riddler. He arranged for Marwyn to meet Sam by sending him to the waiting hall, having been alerted via the glass candle."

@@ -1,0 +1,12 @@
+persons:
+    person-ternesio-terys:
+        properties:
+            name:
+                value: "Ternesio Terys"
+                fields:
+                    given: "Ternesio"
+                    surname: "Terys"
+            gender: "male"
+            title:
+                - value: "Tradesman-Captain"
+        notes: "Tradesman-Captain of the Braavosi galleas Titan's Daughter. He wears a long captain's coat of purple wool, no whiskers, and grey hair cut short framing a square windburnt face. He is businesslike and direct — he tells Arya her passage is over at Braavos and has Yorko row her ashore. His sons include Denyo (youngest, friendly) and Yorko (older, taciturn). He gives Arya the Braavosi farewell 'Valar dohaeris.' (AFFC Arya I)"

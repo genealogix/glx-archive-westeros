@@ -1,0 +1,55 @@
+assertions:
+    assertion-beric-six-resurrections:
+        subject:
+            person: person-beric-dondarrion
+        property: death_count
+        value: "Beric Dondarrion has been killed and resurrected six times by ASOS"
+        citations:
+            - citation-asos-arya-vi
+        confidence: high
+        status: proven
+        notes: "Direct confirmation from Thoros of Myr: 'Six,' Thoros said reluctantly. 'And each time is harder. You have grown reckless, my lord.' Beric himself describes three of his deaths at Clegane hands: a mace blow to the temple from Ser Burton Crakehall, hanging at Rushing Falls, and Gregor Clegane's dirk through the eye at the visor. The mechanism is the 'last kiss' — Thoros breathes R'hllor's fire into the dying man."
+
+    assertion-beric-seventh-death-catelyn:
+        subject:
+            person: person-beric-dondarrion
+        property: death
+        value: "Beric gives his final death (seventh) to resurrect Catelyn Stark as Lady Stoneheart"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Referenced in Beric's existing archive notes. Thoros warned: 'A seventh death might mean the end of both of us.' This occurs at the Red Wedding aftermath — Arya VII (epilogue region). Not in this chunk but contextually confirmed."
+
+    assertion-thoros-resurrection-method:
+        subject:
+            person: person-thoros-of-myr
+        property: power
+        value: "Thoros resurrects Beric using the 'last kiss' — breathing fire into a dead man's body as a ritual of R'hllor"
+        citations:
+            - citation-asos-arya-vi
+        confidence: high
+        status: proven
+        notes: "Thoros explains: 'That first time, his lordship had a hole right through him and blood in his mouth, I knew there was no hope. So when his poor torn chest stopped moving, I gave him the good god's own kiss to send him on his way. I filled my mouth with fire and breathed the flames inside him, down his throat to lungs and heart and soul. The last kiss it is called.' Thoros attributes the power entirely to R'hllor, not to himself."
+
+    assertion-beric-trial-by-combat-sandor:
+        subject:
+            event: event-trial-sandor-clegane
+        property: outcome
+        value: "Sandor Clegane wins the trial by combat, defeating and killing Beric Dondarrion, and is declared innocent"
+        citations:
+            - citation-asos-arya-vi
+        confidence: high
+        status: proven
+        notes: "The Hound's cold steel 'clove him clean down to the breastbone' when Beric's burning sword snapped in two. Sandor is then declared innocent by R'hllor's judgment per trial by combat law. The irony: the Hound, terrified of fire, defeats a man wielding a flaming sword. Beric is immediately resurrected for the sixth time by Thoros."
+
+    assertion-sandor-beric-three-clegane-deaths:
+        subject:
+            person: person-beric-dondarrion
+        property: notable_deaths
+        value: "Three of Beric's six deaths were at the hands of House Clegane"
+        citations:
+            - citation-asos-arya-vi
+        confidence: high
+        status: proven
+        notes: "Beric's own account: 'That's thrice I have died at the hands of House Clegane. You would think that I might have learned...' — Gregor (mace to temple via Ser Burton Crakehall, and dirk through eye), and now Sandor. The hanging at Rushing Falls victim was also connected to Gregor's men."

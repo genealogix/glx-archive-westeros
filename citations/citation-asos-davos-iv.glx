@@ -1,0 +1,9 @@
+citations:
+    citation-asos-davos-iv:
+        source: source-asos
+        properties:
+            locator: "Davos IV"
+            text_from_source: |
+                "Yet in the city, the lions prance and dance. The Red Wedding, the smallfolk are calling it. They swear Lord Frey had the boy's head hacked off, sewed the head of his direwolf in its place, and nailed a crown about his ears. His lady mother was slain as well, and thrown naked in the river."
+            accessed: "2026-03-06"
+        notes: "Davos IV, ASOS. Salladhor Saan reports King's Landing street rumor about the Red Wedding. Describes the desecration of Robb Stark's body: Grey Wind's head sewn onto Robb's corpse, a crown nailed around his ears — a mockery of his kingship. Catelyn's body thrown naked into the river. Source is gossip in the city (not direct witness), but the desecration is corroborated by other references."

@@ -1,0 +1,22 @@
+assertions:
+    assertion-marwyn-sails-for-daenerys:
+        subject:
+            person: person-archmaester-marwyn
+        property: status
+        value: "Departed Oldtown for Slaver's Bay to counsel Daenerys Targaryen (300 AC)"
+        citations:
+            - citation-affc-samwell-iv
+        confidence: high
+        status: proven
+        notes: "Archmaester Marwyn told Sam: 'Get myself to Slaver's Bay, in Aemon's place. The swan ship that delivered Slayer should serve my needs well enough.' He also warned Sam not to speak of dragons or prophecy to the other archmaesters: 'they may need to kill you too...Who do you think killed all the dragons the last time around? Gallant dragonslayers armed with swords?...The world the Citadel is building has no place in it for sorcery or prophecy or glass candles, much less for dragons.' He then immediately left for the docks. He intended to use the Cinnamon Wind (the Summer Islands swan ship that brought Sam from Braavos) for his passage to Essos."
+
+    assertion-alleras-sphinx-identity:
+        subject:
+            person: person-alleras-the-sphinx
+        property: alias
+        value: "Possibly Sarella Sand (bastard daughter of Oberyn Martell)"
+        citations:
+            - citation-affc-samwell-iv
+        confidence: low
+        status: speculative
+        notes: "Alleras is described as half-Dornish, with 'skin the color of a light brown ale' and a 'soft Dornish drawl.' He is called 'the Sphinx' — referencing the sphinxes at the Citadel gates — and the prologue of AFFC notes Oberyn Martell's bastard daughter Sarella Sand was 'playing some Game in Oldtown.' Many fans believe Alleras = Sarella Sand in disguise, which would explain his presence at the Citadel (normally restricted to men). This is not confirmed in the text; confidence is low."

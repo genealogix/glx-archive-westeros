@@ -6,6 +6,8 @@ events:
         participants:
             - person: person-dacey-mormont
               role: principal
+            - person: person-ryman-frey
+              role: perpetrator
         properties:
-            cause: "Murdered at the Red Wedding"
-        notes: "Dacey Mormont, heir to Bear Island, was murdered at the Twins during the Red Wedding."
+            cause: "Axed in the stomach by Ser Ryman Frey"
+        notes: "Dacey Mormont, heir to Bear Island, was murdered at the Twins during the Red Wedding. She was serving as one of Robb Stark's personal guards at the feast. When the massacre began she smashed a wine flagon into Benfrey Frey's face and ran for the door, but Ser Ryman Frey was waiting in full steel with a dozen men-at-arms bearing longaxes. He buried his axe in her stomach. Source: ASOS Catelyn VII."

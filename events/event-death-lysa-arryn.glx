@@ -1,0 +1,20 @@
+events:
+    event-death-lysa-arryn:
+        type: death
+        date: "300"
+        place: place-the-eyrie
+        participants:
+            - person: person-lysa-tully
+              role: subject
+            - person: person-petyr-baelish
+              role: perpetrator
+            - person: person-sansa-stark
+              role: witness
+            - person: person-marillion
+              role: witness
+        properties:
+            description: "Lady Lysa Arryn (Tully) was pushed through the Moon Door of the Eyrie's High Hall by her husband Petyr Baelish. Lysa had discovered that Littlefinger kissed Sansa in the garden while building a snow castle of Winterfell. She dragged Sansa to the Moon Door at the top of six hundred feet of cliff and nearly pushed her through. Littlefinger intervened, calmed her with declarations of love — then at the last moment shoved her through the open door to her death on the mountainside below."
+            cause_of_death: "Pushed through the Moon Door of the Eyrie by Petyr Baelish; fatal fall of approximately 600 feet"
+            lysa_last_words: "Lysa confessed before dying that she had poisoned her husband Jon Arryn with 'the tears in his wine' on Littlefinger's instruction, and had written the letter to Catelyn Stark falsely blaming the Lannisters for Jon's death."
+            framing: "Littlefinger immediately framed Marillion the singer for the murder, telling guards 'This singer has killed my lady wife.'"
+        notes: "Lysa's death removed the last obstacle to Littlefinger's control of the Vale. Her confession about Jon Arryn's murder and the false letter to Catelyn Stark (which set the events of A Game of Thrones in motion) was witnessed by Sansa and Marillion. Littlefinger's motive: consolidate power in the Vale, and eliminate a dangerously unstable wife who was now a liability."

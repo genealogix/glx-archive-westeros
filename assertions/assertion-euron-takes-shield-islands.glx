@@ -1,0 +1,12 @@
+assertions:
+    assertion-euron-takes-shield-islands:
+        subject:
+            person: person-euron-greyjoy
+        property: event
+        value: "Conquered the Shield Islands (Greyshield, Southshield, Greenshield, Oakenshield) with an ironborn fleet"
+        citations:
+            - citation-affc-cersei-iii
+            - citation-affc-the-iron-captain-i
+        confidence: high
+        status: proven
+        notes: "Euron Greyjoy's fleet of ironborn captured all four Shield Islands in the Sunset Sea, west of the Reach. Euron created four new lords: Ser Harras Harlaw as Lord of Greyshield, Andrik the Unsmiling as Lord of Southshield, Maron Volmark as Lord of Greenshield, and Nute the Barber as Lord of Oakenshield. Lords Hewett and Chester were killed, Lord Serry's son was killed, Lord Grimm was taken prisoner. The Redwyne fleet was absent, besieging Dragonstone on Cersei's orders — which is why Euron could strike so easily. This created a major strategic crisis for the Reach and threatened Oldtown."

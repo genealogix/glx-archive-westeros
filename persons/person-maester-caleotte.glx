@@ -1,0 +1,11 @@
+persons:
+    person-maester-caleotte:
+        properties:
+            name:
+                value: "Caleotte"
+                fields:
+                    given: "Caleotte"
+            gender: "male"
+            title:
+                - value: "Maester"
+        notes: "Maester serving Prince Doran Martell at the Water Gardens and Sunspear. He is no more than five feet tall and bald as an egg, with a smooth, fat face that makes it hard to tell his age. He is nimble and clever. He served before Doran's mother. He is responsible for Doran's medical care — making the rolling chair, bandaging his gouty joints in linen soaked with lotions, managing his pain with milk of the poppy. He is intimidated by the Sand Snakes. He carefully checks Doran's hand after Tyene's visit, fearing she may have scratched him with poison. He also helps manage the ruse to hide Myrcella's escape — telling Prince Trystane that Myrcella has redspots. (AFFC The Captain of Guards I)"

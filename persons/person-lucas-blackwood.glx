@@ -1,0 +1,13 @@
+persons:
+    person-lucas-blackwood:
+        properties:
+            name:
+                value: "Lucas Blackwood"
+                fields:
+                    given: "Lucas"
+                    surname: "Blackwood"
+            gender: male
+            house: "Blackwood"
+            died_on: "299"
+            cause_of_death: "Cut down by Ser Hosteen Frey at the Red Wedding"
+        notes: "Riverlander bannerman of House Tully, of House Blackwood. Killed at the Red Wedding by Ser Hosteen Frey. Source: ASOS Catelyn VII — 'She saw Lucas Blackwood cut down by Ser Hosteen Frey.' House Blackwood, sworn to Riverrun, had sent men with Robb's host. Tytos Blackwood (lord of Raventree Hall) was present at Riverrun but appears not to have attended the wedding feast."

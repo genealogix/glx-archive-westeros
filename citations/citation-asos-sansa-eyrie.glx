@@ -1,0 +1,8 @@
+citations:
+    citation-asos-sansa-eyrie:
+        source: source-asos
+        properties:
+            locator: "Sansa (Eyrie chapters — snow castle, Lysa's death)"
+            text_from_source: "\"Only Cat.\" He gave her a short, sharp shove. Lysa stumbled backward, her feet slipping on the wet marble. And then she was gone. She never screamed. For the longest time there was no sound but the wind."
+            accessed: "2026-03-06"
+        notes: "Sansa POV chapter at the Eyrie. Sansa (disguised as Alayne Stone) builds a snow castle of Winterfell. Littlefinger kisses her. Lysa witnesses this and goes mad with jealousy, dragging Sansa to the Moon Door and threatening to push her through. Littlefinger intervenes, calms Lysa — then pushes her through the Moon Door to her death six hundred feet below. Littlefinger frames Marillion the singer for the murder. Line ~19738-20044 of asos.txt."

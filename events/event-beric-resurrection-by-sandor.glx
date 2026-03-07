@@ -1,0 +1,14 @@
+events:
+    event-beric-resurrection-by-sandor:
+        type: death
+        date: "299"
+        place: place-hollow-hill
+        participants:
+            - person: person-beric-dondarrion
+              role: subject
+            - person: person-thoros-of-myr
+              role: officiant
+            - person: person-sandor-clegane
+              role: killer
+        properties:
+            description: "Sandor Clegane defeats and kills Beric Dondarrion in trial by combat, his sword cleaving down from shoulder to breastbone. Thoros of Myr resurrects Beric with the 'last kiss' — breathing fire into his body, a ritual of R'hllor. This is confirmed as the sixth death and resurrection of Beric Dondarrion (ASOS Arya VI, with Thoros confirming 'Six. And each time is harder' in the subsequent chapter)."

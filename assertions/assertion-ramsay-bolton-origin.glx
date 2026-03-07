@@ -1,0 +1,22 @@
+assertions:
+    assertion-ramsay-bolton-parentage:
+        subject:
+            person: person-ramsay-bolton
+        property: parent
+        value: person-roose-bolton
+        citations:
+            - citation-adwd-reek-ii
+        confidence: high
+        status: proven
+        notes: "Roose Bolton reveals his account of Ramsay's conception to Theon/Reek: while hunting a fox along the Weeping Water, he came upon a mill and saw a young woman (the miller's new young wife) washing clothes. He invoked the lord's right of first night, having the miller hanged for marrying without his leave, then raped the woman under the tree where the body swayed. A year later the woman appeared at the Dreadfort with the infant Ramsay, who had Roose's pale eyes. Roose gave the woman the mill and had the brother who had beaten her and driven her away have his tongue cut out. Text: 'The babe did have my eyes.' Source: Roose Bolton's own account to Theon/Reek (ADWD, 'Reek II')."
+
+    assertion-ramsay-bolton-mother-identity:
+        subject:
+            person: person-ramsay-bolton
+        property: parent
+        value: "Unknown — miller's wife near the Weeping Water"
+        citations:
+            - citation-adwd-reek-ii
+        confidence: high
+        status: proven
+        notes: "Described by Roose Bolton as 'a tall, willowy creature, very healthy-looking. Long legs and small firm breasts, like two ripe plums.' She was the young wife of a miller on the Weeping Water. After being raped by Roose she was beaten by her dead husband's brother and driven from the mill. Roose gave her the mill back and had the brother's tongue cut out. She disobeyed Roose's order never to tell the boy his father's identity, which Roose credits for making Ramsay what he is. Name unknown."

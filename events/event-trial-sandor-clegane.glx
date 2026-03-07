@@ -1,0 +1,18 @@
+events:
+    event-trial-sandor-clegane:
+        type: trial
+        date: "299"
+        place: place-hollow-hill
+        participants:
+            - person: person-sandor-clegane
+              role: defendant
+            - person: person-beric-dondarrion
+              role: judge
+            - person: person-thoros-of-myr
+              role: priest
+            - person: person-arya-stark
+              role: witness
+            - person: person-gendry-waters
+              role: witness
+        properties:
+            description: "The Brotherhood Without Banners puts Sandor Clegane on trial for the crimes of House Clegane, particularly the killing of Mycah the butcher's boy. Sandor demands trial by combat. Lord Beric fights him with a flaming sword (lit by his own blood, a power of R'hllor). Sandor defeats Beric, cleaving through the burning blade and into his chest. Thoros miraculously resurrects Beric for the sixth time. Sandor is declared innocent by the Lord of Light's judgment and freed."

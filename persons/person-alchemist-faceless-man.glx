@@ -1,0 +1,12 @@
+persons:
+    person-alchemist-faceless-man:
+        properties:
+            name:
+                value: "The Alchemist"
+                fields:
+                    given: "The Alchemist"
+            gender: "male"
+            alias:
+                - value: "the alchemist"
+            religion: "Many-Faced God"
+        notes: "A mysterious stranger who approaches the novice Pate at the Citadel in Oldtown, calling himself 'an alchemist' who can 'change iron into gold.' He offers Pate a golden dragon coin in exchange for the iron master-key to every door at the Citadel, stolen from Archmaester Walgrave. He wears a hooded traveler's cloak of brown nondescript wool and keeps his face in shadow. After Pate receives the coin, he dies — the coin or some other method kills him. The alchemist is strongly implied to be Jaqen H'ghar (last seen at the end of ACOK Arya chapters changing his face and giving Arya the iron coin), though the text does not confirm this identity directly. In the final line of the AFFC Prologue, the narrative states that the man who appears to Pate is not Jaqen H'ghar but has taken his face — OR that Pate's eyes are those that open at the end (fan theory: 'Pate' is Jaqen in disguise, and the acolyte we follow is actually Jaqen taking over Pate's identity). The coin the alchemist carries has a three-headed dragon on one side and a dead king's head on the other. (AFFC Prologue; citation-affc-prologue)"

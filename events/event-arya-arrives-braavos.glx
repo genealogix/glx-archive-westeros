@@ -1,0 +1,11 @@
+events:
+    event-arya-arrives-braavos:
+        type: arrival
+        date: "300"
+        place: place-braavos
+        participants:
+            - person: person-arya-stark
+              role: subject
+        properties:
+            description: "Arya Stark arrives in Braavos aboard the Braavosi galleas Titan's Daughter (Tradesman-Captain Ternesio Terys). Yorko Terys rows her ashore to the House of Black and White. She enters using the iron coin Jaqen H'ghar gave her, saying 'Valar morghulis.' A Kindly Old Man (the Faceless Man who runs the temple) denies knowing Jaqen H'ghar but accepts Arya after she reveals her true name. She is accepted into the House of Black and White. She began her journey from Saltpans (after leaving the dying Hound), so she traveled as 'Salty.'"
+        notes: "Arya's first chapter in AFFC. Braavos is described in extensive detail — the Titan, the lagoon, the Arsenal, the Isle of the Gods, the canals. Arya is nearly eleven years old at this point. (AFFC Arya I, citation-affc-arya-i)"

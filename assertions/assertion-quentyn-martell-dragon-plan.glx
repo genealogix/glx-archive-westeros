@@ -1,0 +1,22 @@
+assertions:
+    assertion-quentyn-martell-dragon-theft-plan:
+        subject:
+            person: person-quentyn-martell
+        property: notes
+        value: "Quentyn Martell plans to steal a dragon from Meereen's fighting pits with Windblown company assistance"
+        citations:
+            - citation-adwd-the-spurned-suitor
+        confidence: high
+        status: proven
+        notes: "Quentyn tells the Tattered Prince 'I need you to help me steal a dragon.' He invokes his Targaryen blood lineage as justification, and recalls Daenerys's words: 'The dragon has three heads. My marriage need not be the end of all your hopes.' He offers double Yunkish pay plus Dornish gold held in Volantis banking houses. The Tattered Prince demands Pentos as his true price. Text: 'What I want, said the Tattered Prince, is Pentos.'"
+
+    assertion-groleo-execution-yunkai:
+        subject:
+            person: person-groleo
+        property: cause_of_death
+        value: "Executed by Yunkai as reprisal for death of Yurkhaz zo Yunzak"
+        citations:
+            - citation-adwd-the-discarded-knight
+        confidence: high
+        status: proven
+        notes: "Admiral Groleo's severed head is thrown into Hizdahr zo Loraq's court by the sellsword Bloodbeard. The Yunkish council of masters claims blood for blood — the death of their commander Yurkhaz zo Yunzak (trampled at Daznak's Pit during Drogon's attack) demands a Meereenese hostage's death. Three other hostages are returned. Three Meereenese hostages (including Jhogo, Hero, and Daario Naharis) remain in Yunkish custody. Groleo had a wife, children, and grandchildren in Pentos; he had sailed with Daenerys from Pentos to Qarth and beyond. Text: 'All he ever wanted was to go home' (Barristan's thought)."

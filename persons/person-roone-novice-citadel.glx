@@ -1,0 +1,9 @@
+persons:
+    person-roone-novice-citadel:
+        properties:
+            name:
+                value: "Roone"
+                fields:
+                    given: "Roone"
+            gender: "male"
+        notes: "A novice at the Citadel in Oldtown. The youngest of the group — a 'chunky boy still two years shy of manhood' (about 14-15 years old). He is naive and asks simple questions. He says he would like to see a dragon. Appears in the Prologue at the Quill and Tankard with Pate, Alleras, Armen, and Mollander. (AFFC Prologue)"

@@ -1,0 +1,23 @@
+assertions:
+    assertion-mance-rayder-glamored-as-abel:
+        subject:
+            person: person-mance-rayder
+        property: alias
+        value: "Abel"
+        citations:
+            - citation-adwd-melisandre
+            - citation-adwd-the-prince-of-winterfell
+        confidence: high
+        status: proven
+        notes: "Melisandre glamors Mance Rayder to appear as Rattleshirt (Lord of Bones), and Rattleshirt is then burned in Mance's place by Stannis. Jon Snow secretly sends Mance south to Winterfell, glamored as a traveling singer named Abel — 'Abel' is an anagram of 'Bael,' referencing the wildling king from the legend of 'Bael the Bard.' 'Abel' appears at Winterfell with six 'washerwomen' (the spearwives: Rowan, Holly, Frenya, Squirrel, Willow Witch-Eye, and Myrtle). The novel never explicitly states 'Abel is Mance' in the chapters covering the Winterfell plot; Theon is the POV character and does not know. The identification is deducible from the Melisandre chapter and the Jon chapters discussing sending a 'singer' to find the false Arya. Confirmed in the chapter where Rowan tells Theon 'You prayed, and the gods sent us' — they are acting on Jon Snow's orders."
+
+    assertion-rattleshirt-execution:
+        subject:
+            person: person-mance-rayder
+        property: notes
+        value: "Rattleshirt burned in place of Mance Rayder by Stannis"
+        citations:
+            - citation-adwd-melisandre
+        confidence: high
+        status: proven
+        notes: "Melisandre glamored Mance Rayder to appear as Rattleshirt and Rattleshirt to appear as Mance. Stannis burned 'Mance' (actually Rattleshirt) at Castle Black as punishment for desertion. Jon Snow mercy-killed 'Mance' with an arrow during the burning — he was in fact killing Rattleshirt. The real Mance survived as Rattleshirt, wearing the ruby-set black iron fetter that maintains the glamor. The text in the Melisandre chapter confirms this: 'the wildling wore a sleeveless jerkin… In the black iron fetter about his wrist, the ruby seemed to pulse.'"

@@ -1,0 +1,13 @@
+events:
+    event-faith-militant-restored:
+        type: coronation
+        date: "300"
+        participants:
+            - person: person-high-sparrow
+              role: subject
+            - person: person-cersei-lannister
+              role: witness
+        properties:
+            description: "Queen Regent Cersei Lannister agreed with the High Sparrow (High Septon) to cancel the crown's debt of 900,674 gold dragons to the Faith of the Seven, in exchange for the High Septon blessing King Tommen and reviving the Faith Militant — the Warrior's Sons (the Swords, armored knights) and the Poor Fellows (the Stars, armed wandering brothers). The Faith Militant had been disbanded by King Maegor the Cruel three hundred years earlier. Cersei believed this move would arm the Faith against Stannis and his red priests, and would rid King's Landing of the sparrow rabble. It proved to be a catastrophic miscalculation, as the revived Faith Militant was used against Cersei herself and Queen Margaery."
+        citations:
+            - citation-affc-cersei-iv

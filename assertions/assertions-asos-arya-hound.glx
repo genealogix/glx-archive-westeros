@@ -1,0 +1,44 @@
+assertions:
+    assertion-arya-recovers-needle:
+        subject:
+            person: person-arya-stark
+        property: action
+        value: "Recovered her sword Needle from Polliver at the inn near the ruby ford"
+        citations:
+            - citation-asos-arya-hound
+        confidence: high
+        status: proven
+        notes: "Polliver had taken Needle from Arya at Harrenhal. At the inn she retrieved it from his swordbelt after the Hound killed him. Text: 'She found twigs and fallen branches... Hanging beside his dagger was a slimmer blade, too long to be a dirk, too short to be a man's sword... but it felt just right in her hand.' She then used Needle to give the mercy kill to the dying squire."
+
+    assertion-arya-kills-tickler:
+        subject:
+            person: person-arya-stark
+        property: action
+        value: "Killed the Tickler (Harrenhal torturer) by stabbing him repeatedly in the back while reciting his own torture questions"
+        citations:
+            - citation-asos-arya-hound
+        confidence: high
+        status: proven
+        notes: "Text: '\"Is there gold hidden in the village?\" she shouted as she drove the blade up through his back. \"Is there silver? Gems?\" She stabbed twice more. \"Is there food? Where is Lord Beric?\"... She was on top of him by then, still stabbing.' The Tickler had tortured villagers at Harrenhal asking those exact questions. Arya also threw a wine cup at the young squire to distract him."
+
+    assertion-arya-departs-braavos:
+        subject:
+            person: person-arya-stark
+        property: destination
+        value: "Sailed from Saltpans to Braavos aboard the Braavosi ship Titan's Daughter after presenting Jaqen H'ghar's iron coin"
+        citations:
+            - citation-asos-arya-hound
+        confidence: high
+        status: proven
+        notes: "Arya reached Saltpans alone after leaving the dying Sandor Clegane. She found a Braavosi ship, presented the iron coin Jaqen gave her at Harrenhal, and spoke the words 'Valar Morghulis.' The captain replied 'Valar dohaeris' and agreed to take her to Braavos. This is the chapter's cliffhanger ending, leading into AFFC and ADWD. The ship is named the Titan's Daughter, after the Titan of Braavos."
+
+    assertion-sandor-mortally-wounded:
+        subject:
+            person: person-sandor-clegane
+        property: condition
+        value: "Left dying of fever and infected wounds near the Trident after Arya abandoned him"
+        citations:
+            - citation-asos-arya-hound
+        confidence: high
+        status: proven
+        notes: "Sandor's wounds from the inn fight: ear sliced off, thigh gashed, face cut badly. He fell into fever; his thigh wound smelled of rot. Arya treated him with boiling wine and bandages but could not continue. She drew Needle over him but could not deliver the mercy kill. She left him alive. Text: 'She wondered if he would still be alive when she reached Saltpans.' Sandor is later revealed to be alive on the Quiet Isle in AFFC."

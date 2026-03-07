@@ -1,0 +1,23 @@
+events:
+    event-arianne-queenmaker-plot:
+        type: conspiracy
+        date: "300"
+        place: place-dorne
+        participants:
+            - person: person-arianne-martell
+              role: organizer
+            - person: person-myrcella-baratheon
+              role: subject
+            - person: person-arys-oakheart
+              role: participant
+            - person: person-gerold-dayne-darkstar
+              role: participant
+            - person: person-andrey-dalt-drey
+              role: participant
+            - person: person-sylva-santagar-spotted-sylva
+              role: participant
+            - person: person-garin-orphan-greenblood
+              role: participant
+        properties:
+            description: "Arianne Martell secretly plots to crown Myrcella Baratheon as Queen of the Seven Kingdoms, exploiting Dornish succession law (which passes the throne to the eldest child regardless of sex). Myrcella is older than Tommen by one year. Arianne assembles her inner circle at the ruins of Shandystone. Ser Arys Oakheart secretly brings Myrcella out of Sunspear using a double. The party of seven rides south by night toward the Greenblood and Garin's orphan boats. Ser Gerold Dayne (Darkstar) is an uneasy member of the party. Arianne also suspects Doran has sent her brother Quentyn across the narrow sea on a secret mission, possibly to Daenerys."
+        notes: "AFFC The Queenmaker I. This plot will fail — subsequent chapters reveal Darkstar wounds Myrcella (cutting off her ear) and Ser Arys Oakheart is killed in the confrontation. Arianne is arrested by her father. (AFFC The Queenmaker, Soiled Knight, and Princess in the Tower chapters)"

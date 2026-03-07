@@ -1,0 +1,33 @@
+assertions:
+    assertion-mance-rayder-defection-reason:
+        subject:
+            person: person-mance-rayder
+        property: notes
+        value: "Left the Night's Watch because the Watch refused to let him keep a wildling woman's silk-patched cloak"
+        citations:
+            - citation-asos-jon-i
+        confidence: high
+        status: proven
+        notes: "Mance tells the story in his own words: a shadow-cat shredded his black cloak on a ranging. A wildling woman repaired it with scarlet silk from Asshai — her greatest treasure, given freely. When he returned to the Shadow Tower, Ser Denys Mallister gave him a new all-black cloak and told him the old one was fit for burning. Text: 'I left the next morning ... for a place where a kiss was not a crime, and a man could wear any cloak he chose.'"
+
+    assertion-mance-rayder-at-winterfell:
+        subject:
+            person: person-mance-rayder
+        property: notes
+        value: "Attended Robert Baratheon's feast at Winterfell disguised as a free rider and lute player"
+        citations:
+            - citation-asos-jon-i
+        confidence: high
+        status: proven
+        notes: "Mance explains he infiltrated Robert's entourage to see the king and Benjen Stark. Text: 'I took a lute and a bag of silver, scaled the ice near Long Barrow, walked a few leagues south of the New Gift, and bought a horse... I fell in with his company. Freeriders and hedge knights are always attaching themselves to royal processions... my lute gained me easy acceptance.' He ate at Ned Stark's table undetected."
+
+    assertion-mance-rayder-physical-description:
+        subject:
+            person: person-mance-rayder
+        property: notes
+        value: "Middling height, slender, sharp-faced, with shrewd brown eyes and long brown hair mostly gone grey"
+        citations:
+            - citation-asos-jon-i
+        confidence: high
+        status: proven
+        notes: "Text: 'The King-beyond-the-Wall looked nothing like a king, nor even much a wildling. He was of middling height, slender, sharp-faced, with shrewd brown eyes and long brown hair that had gone mostly to grey. There was no crown on his head... He wore wool and leather, and his only garment of note was his ragged black wool cloak, its long tears patched with faded red silk.'"

@@ -1,0 +1,11 @@
+assertions:
+    assertion-glass-candle-dragonglass:
+        subject:
+            person: person-archmaester-marwyn
+        property: possessions
+        value: "Glass candle (Valyrian obsidian candle) — burns without being consumed, enables visions and long-distance communication"
+        citations:
+            - citation-affc-samwell-iv
+        confidence: high
+        status: proven
+        notes: "Archmaester Marwyn possessed a glass candle: 'a tall black candle in the center of the room...The candle was unpleasantly bright...The flame did not flicker, even when Archmaester Marwyn closed the door so hard that papers blew off a nearby table.' Marwyn told Sam: 'Valyrian sorcery was rooted in blood or fire. The sorcerers of the Freehold could see across mountains, seas, and deserts with one of these glass candles. They could enter a man's dreams and give him visions, and speak to one another half a world apart, seated before their candles.' Alleras confirmed the candle showed Marwyn Sam's coming: 'He knew that you were coming... [pointing at] the glass candle.' The candle was three feet tall, ridged and twisted, glittering black. The Citadel keeps this knowledge suppressed."

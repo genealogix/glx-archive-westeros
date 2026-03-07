@@ -1,0 +1,12 @@
+persons:
+    person-longspear-ryk:
+        properties:
+            name:
+                value: "Longspear Ryk"
+                fields:
+                    given: "Ryk"
+            alias:
+                - value: "Longspear Ryk"
+                - value: "Longspear"
+            gender: male
+        notes: "Wildling man. Short, homely. Wore Qhorin Halfhand's helm, which fit poorly on his narrow head. One of Rattleshirt's guard for Jon Snow. Given to Jon as a companion-guard alongside Ygritte."

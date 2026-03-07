@@ -1,0 +1,14 @@
+events:
+    event-great-hall-brawl-winterfell:
+        type: battle
+        date: "300"
+        place: place-winterfell
+        participants:
+            - person: person-hosteen-frey
+              role: participant
+            - person: person-wyman-manderly
+              role: participant
+            - person: person-roose-bolton
+              role: participant
+        properties:
+            description: "Ser Hosteen Frey attacks Wyman Manderly in the Great Hall of Winterfell after accusing him of murdering Little Walder Frey. Manderly's reply — 'Though mayhaps this was a blessing. Had he lived, he would have grown up to be a Frey' — provokes Hosteen to knock the table into Manderly and draw his sword. The brawl kills six White Harbor men and two Freys; Luton (one of the Bastard's Boys) is disemboweled and killed by Ramsay with a spear. Wyman Manderly is slashed across three of his four chins and collapses. Roose Bolton uses the chaos to send the Freys out the main gate and the Manderly men out the east gate to fight Stannis, separating the factions and getting them out of his hair."

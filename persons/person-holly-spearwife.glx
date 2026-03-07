@@ -1,0 +1,7 @@
+persons:
+    person-holly-spearwife:
+        properties:
+            name:
+                value: "Holly"
+            gender: female
+        notes: "One of six spearwives who accompany Mance Rayder (glamored as Abel) to Winterfell. Described as young (fifteen or sixteen), shaggy blond hair, pouty lips, carries a concealed blade. She kills the first guard at the Battlements Gate by kissing him and sliding her knife into his neck. She is shot twice by crossbow bolts while on the battlements during the escape attempt — the second bolt appears fatal. (ADWD, 'The Turncloak,' 'A Ghost in Winterfell,' 'Theon')"

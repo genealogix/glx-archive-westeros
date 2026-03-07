@@ -1,0 +1,16 @@
+events:
+    event-jaime-arrives-harrenhal:
+        type: battle
+        date: "299"
+        place: place-harrenhal
+        participants:
+            - person: person-jaime-lannister
+              role: prisoner
+            - person: person-brienne-tarth
+              role: prisoner
+            - person: person-vargo-hoat
+              role: captor
+            - person: person-qyburn
+              role: physician
+        properties:
+            description: "Vargo Hoat parades his prisoners into Harrenhal where Roose Bolton holds command. Frey bannermen at the castle. Jaime is taken to Qyburn for medical treatment of his stump. Roose Bolton takes note of Jaime's missing hand with the famous line 'You have lost a hand.' Brienne is given rooms and protected from the Brave Companions. Qyburn cleans the stump, removing necrotic flesh with boiling wine, refusing to amputate the arm as Jaime threatens his life."

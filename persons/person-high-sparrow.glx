@@ -1,0 +1,14 @@
+persons:
+    person-high-sparrow:
+        properties:
+            name:
+                value: "The High Sparrow"
+                fields:
+                    type: "alias"
+            gender: "male"
+            title:
+                - value: "High Septon"
+                  date: "FROM 300"
+            house: "Faith of the Seven"
+            religion: "Faith of the Seven"
+        notes: "A spare, ascetic man of common origins who became High Septon of the Faith of the Seven after the sparrow mob stormed the Great Sept. Born with filth under his fingernails according to Lady Merryweather. He traded in the crystal crown and golden robes for rough wool and bare feet, selling all jewels to feed the poor. He revived the Faith Militant — the Warrior's Sons (Swords) and the Poor Fellows (Stars) — in exchange for Cersei's cancellation of the crown's debt to the Faith. He then turned these forces against Cersei herself, arresting both Margaery Tyrell and Cersei Lannister on charges of fornication and treason."

@@ -1,0 +1,11 @@
+persons:
+    person-maester-murenmure:
+        properties:
+            name:
+                value: "Murenmure"
+                fields:
+                    given: "Murenmure"
+            gender: "male"
+            title:
+                - value: "Maester"
+        notes: "The maester serving Lord Gorold Goodbrother at Hammerhorn on Great Wyk. He is the one who received the raven from Pyke with news of Balon Greyjoy's death and Euron's return. He relays the news to Aeron Damphair and argues for green-land succession law (Theon, then Asha). Aeron dislikes him as a 'chain-neck thrall.' (AFFC The Prophet I)"

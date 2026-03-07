@@ -1,0 +1,11 @@
+assertions:
+    assertion-kevan-refuses-cersei:
+        subject:
+            person: person-kevan-lannister
+        property: relationship_to_cersei
+        value: "Kevan Lannister refused to serve as Hand unless Cersei yielded the regency to him and returned to Casterly Rock; upon her refusal, he departed for Casterly Rock"
+        citations:
+            - citation-affc-cersei-ii
+        confidence: high
+        status: proven
+        notes: "The confrontation between Cersei and Kevan is central to AFFC Cersei II. Kevan states Tywin intended to remove Cersei from the regency and marry her off again; he wants to take Tommen away from her influence. His parting shot — 'Aye, and his father too, I think' — is an implicit acknowledgment that Jaime fathered Tommen. Cersei thinks him a traitor bought by the Tyrells. This refusal forces Cersei to build an entirely new small council from weaker men, which accelerates her downfall. Kevan later becomes Hand under Tommen in ADWD after Cersei's arrest."

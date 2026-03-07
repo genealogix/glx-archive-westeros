@@ -1,0 +1,14 @@
+persons:
+    person-baelor-blacktyde:
+        properties:
+            name:
+                value: "Baelor Blacktyde"
+                fields:
+                    given: "Baelor"
+                    surname: "Blacktyde"
+            gender: "male"
+            title:
+                - value: "Lord of Blacktyde"
+            house: "Blacktyde"
+            religion: "Faith of the Seven"
+        notes: "Lord of Blacktyde on the island of Blacktyde. He spent eight years as a hostage in Oldtown and returned a worshipper of the Seven rather than the Drowned God (he wears a seven-pointed star pin). He is smooth-faced and comely, wearing a lambswool tunic of black-and-green vairy and a sable cloak. He is contemptuous of what he calls the Greyjoy 'madness': 'Balon was mad, Aeron is madder, and Euron is maddest of them all.' He counsels peace with the Iron Throne, arguing the Old Way is dead. He participated in the Kingsmoot at Rodrik Harlaw's urging, then sailed to Old Wyk. At Victarion's feast he demands to know if Victarion will make peace if chosen king. (AFFC The Iron Captain I, The Kraken's Daughter I)"

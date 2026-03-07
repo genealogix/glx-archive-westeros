@@ -1,0 +1,8 @@
+places:
+    place-quill-and-tankard:
+        name: "The Quill and Tankard"
+        type: town
+        parent: place-oldtown
+        properties:
+            description: "A famous inn and tavern in Oldtown, standing on an island in the Honeywine river where it runs below the Citadel. It has stood for six hundred years and never once closed its doors to trade. The tall, timbered building leans toward the south. It has a torchlit terrace above the river, an apple tree beside the water, and a dock/bridge. It sells wine, ale, and its renowned 'fearsomely strong cider.' It serves rivermen and seamen, smiths and singers, priests and princes, and the students of the Citadel. Rosey and her mother Emma are among the serving women."
+        notes: "Setting of the AFFC Prologue. Pate and his friends (Alleras, Armen, Mollander, Roone, Lazy Leo) drink here. The alchemist (Faceless Man) meets Pate here and on the river road. (AFFC Prologue; citation-affc-prologue)"

@@ -1,0 +1,13 @@
+persons:
+    person-alleras-the-sphinx:
+        properties:
+            name:
+                value: "Alleras"
+                fields:
+                    given: "Alleras"
+            gender: "male"
+            alias:
+                - value: "The Sphinx"
+            title:
+                - value: "Acolyte of the Citadel"
+        notes: "An acolyte at the Citadel in Oldtown. His father is Dornish, his mother a black-skinned Summer Islander trader — he has dark teak-brown skin and onyx eyes. He has been at the Citadel only a year yet has already forged three links of a maester's chain. He is a remarkable archer, wielding a goldenheart longbow from the Summer Isles that most men cannot even bend. He was nicknamed 'the Sphinx' by Lazy Leo Tyrell: a sphinx is 'a bit of this, a bit of that,' just as Alleras is of mixed heritage. Alleras is strongly suspected by fans to be Sarella Sand (Oberyn Martell's daughter) in disguise — his name is an anagram of Sarella. In the Prologue he is with Pate, Armen, Mollander, and Roone drinking cider at the Quill and Tankard when the alchemist approaches Pate. (AFFC Prologue)"

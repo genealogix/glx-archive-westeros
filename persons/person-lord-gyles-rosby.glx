@@ -1,0 +1,12 @@
+persons:
+    person-lord-gyles-rosby:
+        properties:
+            name:
+                value: "Gyles Rosby"
+                fields:
+                    given: "Gyles"
+                    surname: "Rosby"
+            gender: "male"
+            title:
+                - value: "Lord of Rosby"
+        notes: "Lord Gyles Rosby, Lord of Rosby. He is described as wealthy — his litter is carved and draped in silk, his horses well-dressed. He coughs constantly and covers his nose with a square of red silk; he coughs blood into it but pretends otherwise. He is old and ill. Cersei appoints him master of coin over Mace Tyrell's objection (Tyrell wanted his uncle Garth to have the post). Gyles accepts the appointment while coughing so violently Cersei fears he might die. He begins naming Littlefinger's customs officers and factors he wants to replace. He will not last long as master of coin due to his health. A statue of Tywin Lannister to stand at the Lion Gate was commissioned from a master stonecarver — this was Lord Gyles's doing. (AFFC Cersei II; citation-affc-cersei-ii)"

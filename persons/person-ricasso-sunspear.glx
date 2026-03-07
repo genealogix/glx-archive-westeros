@@ -1,0 +1,11 @@
+persons:
+    person-ricasso-sunspear:
+        properties:
+            name:
+                value: "Ricasso"
+                fields:
+                    given: "Ricasso"
+            gender: "male"
+            title:
+                - value: "Seneschal of Sunspear"
+        notes: "The old blind seneschal of Sunspear in Dorne. He is described as 'the old blind seneschal' when Princess Arianne and the court greet Prince Doran on his return. Doran had earlier sent word to Ricasso to open his apartments in the Tower of the Sun. (AFFC The Captain of Guards I)"

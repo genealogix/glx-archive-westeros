@@ -1,0 +1,13 @@
+persons:
+    person-kindly-man-faceless:
+        properties:
+            name:
+                value: "The Kindly Man"
+                fields:
+                    given: "The Kindly Man"
+            gender: "male"
+            alias:
+                - value: "The Kindly Old Man"
+                - value: "The Priest of the Many-Faced God"
+            religion: "Many-Faced God"
+        notes: "A Faceless Man priest who runs (or serves at) the House of Black and White in Braavos. He greets Arya Stark when she arrives at the temple. He wears a hooded robe of black-and-white (a larger version of the novice's cowl). He denies knowing Jaqen H'ghar. He tests Arya by showing her a yellowed skull face with empty eye socket and a white worm — a death-face meant to frighten. When Arya kisses him on where his nose should be and plucks the worm to eat it (though it melts), the skull transforms into 'the kindliest old man that she had ever seen.' He notes no one has ever tried to eat his worm before. He accepts Arya when she reveals her true name. He is almost certainly a Faceless Man capable of wearing any face. He may be the same individual as 'the alchemist' from the Prologue — i.e., Jaqen H'ghar wearing a different face. (AFFC Arya I; citation-affc-arya-i)"

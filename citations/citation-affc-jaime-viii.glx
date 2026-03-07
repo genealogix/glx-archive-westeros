@@ -1,0 +1,8 @@
+citations:
+    citation-affc-jaime-viii:
+        source: source-affc
+        properties:
+            locator: "Jaime VIII"
+            text_from_source: "The brooch that fastened Ser Brynden Tully's cloak was a black fish, wrought in jet and gold."
+            accessed: "2026-03-06"
+        notes: "Jaime meets the Blackfish at the drawbridge of Riverrun. Brynden Tully refuses all terms — to yield, to take the black, to release the Westerlings in exchange for Edmure. Their negotiation fails completely."

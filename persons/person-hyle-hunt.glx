@@ -1,0 +1,14 @@
+persons:
+    person-hyle-hunt:
+        properties:
+            name:
+                value: "Hyle Hunt"
+                fields:
+                    type: "birth"
+                    given: "Hyle"
+                    surname: "Hunt"
+            gender: "male"
+            house: "Hunt"
+            title:
+                - value: "Ser"
+        notes: "A knight from the Reach, introduced as following Brienne of Tarth at the behest of Randyll Tarly. Originally part of a wager among knights to deflower Brienne, but developed genuine fondness for her. He travels with Brienne and Podrick Payne on her quest to find Sansa Stark. He is captured with Brienne by the Brotherhood Without Banners under Lady Stoneheart, beaten badly, and sentenced to hang. He offered to marry Brienne ('you should have wed me when I made my offer') before the noose was put around his neck."

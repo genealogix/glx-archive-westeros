@@ -1,0 +1,10 @@
+persons:
+    person-pate-citadel:
+        properties:
+            name:
+                value: "Pate"
+                fields:
+                    type: "alias"
+                    given: "Pate"
+            gender: "male"
+        notes: "A novice at the Citadel, 'like the pig boy.' Pale, fleshy, soft-handed, with close-set eyes and food stains on his robes. He assists in caring for ravens under Archmaester Walgrave. He greeted Sam at the end of the AFFC final Sam chapter and offered him a sleeping cell. STRONG IMPLICATION (status: speculative, confidence: low): This 'Pate' is actually Jaqen H'ghar of the Faceless Men in disguise. The AFFC prologue follows the original Pate, a novice who stole a maester's key for a 'alchemist' (strongly implied to be Jaqen) and then died — the alchemist promised him a kiss, touched him, and Pate died. The same name and appearance later appears suspiciously at the end of the Sam chapter. Two competing identities tracked separately."

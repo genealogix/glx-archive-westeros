@@ -1,0 +1,11 @@
+assertions:
+    assertion-blackfish-escapes-riverrun:
+        subject:
+            person: person-brynden-tully-blackfish
+        property: status
+        value: "Escaped Riverrun by swimming beneath the Water Gate; whereabouts unknown"
+        citations:
+            - citation-affc-jaime-ix
+        confidence: high
+        status: proven
+        notes: "Edmure Tully admitted to Jaime: 'Fish swim. Even black ones. We raised the portcullis on the Water Gate. Not all the way, just three feet or so. Enough to leave a gap under the water, though the gate still appeared to be closed. My uncle is a strong swimmer. After dark, he pulled himself beneath the spikes.' Brynden Tully escaped Riverrun on the night of Edmure's surrender and was never recaptured. Searches by Ser Addam Marbrand and Ser Dermot of the Rainwood found only wolves. His ultimate fate as of AFFC is unknown. He refused Jaime's offer to take the black, saying he preferred to die sword in hand."

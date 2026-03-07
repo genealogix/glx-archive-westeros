@@ -1,0 +1,15 @@
+persons:
+    person-archmaester-marwyn:
+        properties:
+            name:
+                value: "Marwyn"
+                fields:
+                    type: "birth"
+                    given: "Marwyn"
+            alias:
+                - value: "the Mage"
+            gender: "male"
+            title:
+                - value: "Archmaester"
+            religion: "Faith of the Seven"
+        notes: "Archmaester at the Citadel in Oldtown, keeper of the Ravenry's north tower. Called 'the Mage.' Short, squat, with a bull neck and enormous hands; wears a chain of many metals but looks more like a dockside thug than a maester. He chews sourleaf, which stains his teeth red. He keeps a glass candle (dragonglass / obsidian that burns with an unflickering pale flame) — a Valyrian artifact allowing visions and long-distance communication. He is deeply hostile to the mainstream Citadel's suppression of magic, asserting that grey maesters engineered the death of dragons. He told Sam Tarly he was sailing immediately for Slaver's Bay to serve as Daenerys's maester, in Maester Aemon's place. He is an outlier and iconoclast within the Citadel."

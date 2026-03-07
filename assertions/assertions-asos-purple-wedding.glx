@@ -1,0 +1,56 @@
+assertions:
+    assertion-strangler-in-hairnet:
+        subject:
+            event: event-purple-wedding
+        property: poison_mechanism
+        value: "The Strangler dissolved from a black amethyst in Sansa's hairnet, dropped into Joffrey's wine by Olenna Tyrell"
+        citations:
+            - citation-asos-sansa-vi
+            - citation-asos-tyrion-lxviii
+        confidence: high
+        status: proven
+        notes: "Confirmed from Sansa's POV: she notices one black amethyst is missing from her hairnet and realizes the stones 'were no amethysts.' Dontos confirms 'There was magic in them' before the escape. Littlefinger later reveals the full scheme — he arranged the hairnet and had Olenna place the poison in Joffrey's wine. Text: 'Black amethysts from Asshai. One of them was missing.'"
+
+    assertion-olenna-killed-joffrey:
+        subject:
+            person: person-olenna-redwyne
+        property: action
+        value: "Dropped the Strangler into Joffrey's wine cup during the Purple Wedding feast"
+        citations:
+            - citation-asos-sansa-vi
+        confidence: high
+        status: proven
+        notes: "Revealed by Littlefinger to Sansa during the voyage away from King's Landing. Olenna plucked the poison gem from Sansa's hairnet when she adjusted Joffrey's crown. The scheme was coordinated between Olenna Tyrell and Petyr Baelish. Margaery was likely unaware. Text: Littlefinger says 'I dared not befriend you openly... I knew he would be the perfect catspaw' about Dontos, implying he orchestrated every element."
+
+    assertion-joffrey-accused-tyrion:
+        subject:
+            person: person-joffrey-baratheon
+        property: final_act
+        value: "Pointed toward Tyrion while dying, appearing to accuse him"
+        citations:
+            - citation-asos-tyrion-lxviii
+        confidence: medium
+        status: proven
+        notes: "Tyrion's POV: 'he lifted a hand... reaching for his uncle, or pointing... Is he begging my forgiveness, or does he think I can save him?' The gesture was ambiguous — whether accusation or plea. Cersei chose to interpret it as accusation and immediately ordered Tyrion arrested. Text: 'The boy was making a dry clacking noise, trying to speak. His eyes bulged white with terror, and he lifted a hand...'"
+
+    assertion-cersei-accused-tyrion-sansa:
+        subject:
+            person: person-cersei-lannister
+        property: accusation
+        value: "Publicly accused Tyrion Lannister and Sansa Stark of murdering Joffrey"
+        citations:
+            - citation-asos-tyrion-lxviii
+        confidence: high
+        status: proven
+        notes: "Text: 'Arrest my brother. He did this, the dwarf. Him and his little wife. They killed my son. Your king. Take them! Take them both!' — Cersei commanded Ser Loras Tyrell. Tyrion was taken into custody; Sansa had already fled the hall."
+
+    assertion-tyrion-poured-wine:
+        subject:
+            person: person-tyrion-lannister
+        property: action_at_purple_wedding
+        value: "Picked up Joffrey's fallen chalice and poured out the remaining poisoned wine"
+        citations:
+            - citation-asos-tyrion-lxviii
+        confidence: high
+        status: proven
+        notes: "This act was later used as evidence against Tyrion at his trial — multiple witnesses testified he poured out the wine 'to destroy the evidence.' From Tyrion's POV, he simply examined the cup and dumped it, thinking the wine might have been poisoned. Text: 'his eyes fell on the wedding chalice, forgotten on the floor. He went and scooped it up. There was still a half-inch of deep purple wine in the bottom of it. Tyrion considered it a moment, then poured it on the floor.'"

@@ -1,0 +1,11 @@
+events:
+    event-death-robin-flint:
+        type: death
+        date: "299"
+        place: place-the-twins
+        participants:
+            - person: person-robin-flint
+              role: principal
+        properties:
+            cause: "Stabbed by multiple Freys at the Red Wedding"
+        notes: "Robin Flint, northern bannerman of House Stark, was killed at the Red Wedding. He was one of Robb's personal guards at the feast. When the massacre began he was surrounded and stabbed: 'Robin Flint was ringed by Freys, their daggers rising and falling.' Source: ASOS Catelyn VII."

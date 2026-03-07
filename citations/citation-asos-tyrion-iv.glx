@@ -1,0 +1,8 @@
+citations:
+    citation-asos-tyrion-iv:
+        source: source-asos
+        properties:
+            locator: "Tyrion IV"
+            text_from_source: "His marriage was a daily agony. Sansa Stark remained a maiden, and half the castle seemed to know it."
+            accessed: "2026-03-06"
+        notes: "Post-Blackwater. Tyrion surveys destruction outside King's Landing with Bronn. He arranges for singer Symon Silver Tongue (who knows about Shae) to be killed by Bronn. Tyrion's unhappy marriage to Sansa — she remains a maiden, he refuses to force her. Symon's song about Shae ('For hands of gold are always cold, but a woman's hands are warm'). Tywin shows Tyrion a Valyrian steel sword being made into a wedding gift for Joffrey."

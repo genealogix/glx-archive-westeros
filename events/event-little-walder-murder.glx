@@ -1,0 +1,11 @@
+events:
+    event-little-walder-murder:
+        type: death
+        date: "300"
+        place: place-winterfell
+        participants:
+            - person: person-walder-frey-little-walder
+              role: subject
+        properties:
+            description: "Little Walder Frey (Merrett Frey's son, Ramsay's squire, age nine on his last nameday) is found murdered — butchered and shoved beneath a snowbank near the ruined keep with the old gargoyles at Winterfell. Ser Hosteen Frey carries his frozen body into the Great Hall and accuses Wyman Manderly. Big Walder Frey discovered the body; his cloak was spattered with blood. Theon Greyjoy and the spearwives deny involvement; Theon suspects it may not have been Abel's women. The murder triggers the Great Hall brawl between Freys and Manderly men."
+            cause_of_death: "Homicide — stabbed/butchered"

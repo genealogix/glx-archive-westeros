@@ -1,0 +1,33 @@
+assertions:
+    assertion-roose-bolton-killed-robb:
+        subject:
+            person: person-roose-bolton
+        property: action_at_red_wedding
+        value: "Personally killed Robb Stark"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Roose Bolton, Lord of the Dreadfort and Robb Stark's own bannerman, personally killed Robb Stark with a longsword thrust through the heart. He was seated on the dais near Catelyn throughout the feast, ate little, and drank hippocras — calm because he knew what was coming. His pale pink cloak was spotted with blood. Direct text: 'A man in dark armor and a pale pink cloak spotted with blood stepped up to Robb. Jaime Lannister sends his regards. He thrust his longsword through her son's heart, and twisted.' The pale pink cloak identifies him as Bolton (House Bolton's colors)."
+
+    assertion-roose-bolton-conspirator:
+        subject:
+            person: person-roose-bolton
+        property: role_in_red_wedding
+        value: "Co-conspirator with Walder Frey and Tywin Lannister"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Roose Bolton held a toast at the feast's start 'pointedly mentioning that Walder and Walder [the Little Walder and Big Walder Freys] were in the care of his bastard son' — an unspoken threat signaling his alignment with the Freys. His words 'Jaime Lannister sends his regards' implicate Tywin Lannister as the architect of the conspiracy. Bolton had his own forces (Bolton men in shaggy fur cloaks) ready to enter through separate doors to slaughter Robb's guards. He subsequently became Warden of the North as reward."
+
+    assertion-roose-bolton-bolton-men-massacre:
+        subject:
+            person: person-roose-bolton
+        property: forces_at_red_wedding
+        value: "Bolton men in shaggy fur cloaks entered through other doors to kill Robb's guard"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Bolton's own soldiers, disguised among the guests or stationed outside, entered through separate doors during the massacre. Catelyn briefly mistook them for rescue: 'men were pouring in the other doors as well, mailed men in shaggy fur cloaks with steel in their hands. Northmen! She took them for rescue for half a heartbeat, till one of them struck the Smalljon's head off with two huge blows of his axe. Hope blew out like a candle in a storm.'"

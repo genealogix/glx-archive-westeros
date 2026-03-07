@@ -1,0 +1,22 @@
+assertions:
+    assertion-domeric-bolton-poisoned-by-ramsay:
+        subject:
+            person: person-domeric-bolton
+        property: cause_of_death
+        value: "Poison — administered by Ramsay Bolton"
+        citations:
+            - citation-adwd-reek-ii
+        confidence: medium
+        status: suspected
+        notes: "Roose Bolton tells Theon/Reek that Domeric died of 'a sickness of the bowels' — the official account — but adds 'I say poison.' Roose believes Ramsay killed his trueborn heir after Domeric sought out his bastard half-brother against Roose's orders. Domeric had served four years as Lady Dustin's page and three years in the Vale as Lord Redfort's squire; he played the high harp, read histories, and was praised as a promising jouster. The account comes from Roose Bolton (a famously subtle and calculating lord), and no independent corroboration exists. Source: unreliable narrator (Roose Bolton, a known manipulator). Confidence: medium."
+
+    assertion-domeric-bolton-seeker-of-brother:
+        subject:
+            person: person-domeric-bolton
+        property: notes
+        value: "Domeric Bolton sought out Ramsay against his father's orders"
+        citations:
+            - citation-adwd-reek-ii
+        confidence: high
+        status: proven
+        notes: "Roose Bolton directly states: 'He wanted a brother by his side, so he rode up the Weeping Water to seek my bastard out. I forbade it, but Domeric was a man grown and thought that he knew better than his father. Now his bones lie beneath the Dreadfort.' Text quote: 'Ramsay killed him. A sickness of the bowels, Maester Uthor says, but I say poison.'"

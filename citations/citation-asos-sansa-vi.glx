@@ -1,0 +1,8 @@
+citations:
+    citation-asos-sansa-vi:
+        source: source-asos
+        properties:
+            locator: "Sansa (escape from King's Landing, Dontos's death)"
+            text_from_source: "When she pulled it free, her long auburn hair cascaded down her back and across her shoulders. The web of spun silver hung from her fingers, the fine metal glimmering softly, the stones black in the moonlight. Black amethysts from Asshai. One of them was missing."
+            accessed: "2026-03-06"
+        notes: "Sansa POV chapter immediately after the Purple Wedding. Sansa escapes through the godswood, climbs down the cliff with Dontos, rows out to Littlefinger's galley. Dontos is killed by crossbow bolts on Littlefinger's orders. Littlefinger reveals he arranged everything and spirited her away. Line ~15042-15210 of asos.txt."

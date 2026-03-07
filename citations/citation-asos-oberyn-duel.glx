@@ -1,0 +1,8 @@
+citations:
+    citation-asos-oberyn-duel:
+        source: source-asos
+        properties:
+            locator: "Tyrion (Oberyn vs the Mountain duel chapter)"
+            text_from_source: "\"Elia of Dorne,\" they all heard Ser Gregor say, when they were close enough to kiss. His deep voice boomed within the helm. \"I killed her screaming whelp.\" He thrust his free hand into Oberyn's unprotected face, pushing steel fingers into his eyes. \"Then I raped her.\" Clegane slammed his fist into the Dornishman's mouth, making splinters of his teeth. \"Then I smashed her fucking head in. Like this.\""
+            accessed: "2026-03-06"
+        notes: "Tyrion POV chapter covering the trial by combat between Oberyn Martell and Ser Gregor Clegane. Oberyn fights with a poisoned spear, wounds Gregor grievously and knocks him down, but moves too close demanding a confession. Gregor seizes him, crushes his skull, and confesses to raping and murdering Elia and killing her children. Tyrion is condemned. Line ~17427-17577 of asos.txt."

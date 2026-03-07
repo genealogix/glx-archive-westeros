@@ -1,0 +1,17 @@
+persons:
+    person-dontos-hollard:
+        properties:
+            name:
+                value: "Dontos Hollard"
+                fields:
+                    type: "birth"
+                    given: "Dontos"
+                    surname: "Hollard"
+            gender: "male"
+            alias:
+                - value: "Ser Dontos the Red"
+                - value: "Florian"
+                  notes: "Called himself 'Florian the Fool' in his courtship of Sansa — a reference to the legendary knight Florian and his lady Jonquil"
+            house: "Hollard"
+            religion: "Faith of the Seven"
+        notes: "A drunk, disgraced knight of House Hollard. Appeared drunk at a tourney and was stripped of his knighthood by Joffrey, who decreed it was death to be caught dressed as a knight again. Sansa saved his life by suggesting he be made a fool instead. Littlefinger subsequently recruited him as a catspaw to befriend Sansa and pass her the poison hairnet. After escaping King's Landing with Sansa the night of Joffrey's death, he was killed by crossbow bolts on Littlefinger's galley in Blackwater Bay. He wore his old Hollard surcoat — red and pink horizontal stripes under a black chief bearing three gold crowns — during the escape, saying he wanted to be 'a knight, for this at least.'"

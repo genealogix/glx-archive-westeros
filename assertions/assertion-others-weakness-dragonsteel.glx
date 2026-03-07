@@ -1,0 +1,11 @@
+assertions:
+    assertion-others-weakness-dragonsteel:
+        subject:
+            person: person-others-concept
+        property: vulnerability
+        value: "The Others are vulnerable to dragonglass (obsidian) and possibly dragonsteel (Valyrian steel); fire also dismays them; the armor of the Others is proof against ordinary blades; their own swords shatter steel with cold"
+        citations:
+            - citation-affc-samwell-i
+        confidence: medium
+        status: provisional
+        notes: "Sam Tarly reports this from his research in the Night's Watch archives. Confirmed facts from prior books: Sam killed an Other with dragonglass (ASOS). Sam found one account of the Long Night speaking of 'the last hero slaying Others with a blade of dragonsteel' — Sam and Jon both interpret this as Valyrian steel. Children of the forest gave the Night's Watch a hundred obsidian daggers yearly during the Age of Heroes. Sam notes the accounts are contradictory and many old books are lost. This is Sam's research conclusion, not demonstrated in direct combat during AFFC lines 1-8000. Valyrian steel's effectiveness is later confirmed when Jon kills an Other with Longclaw (ADWD)."

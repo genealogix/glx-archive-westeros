@@ -1,0 +1,11 @@
+relationships:
+    rel-marriage-ramsay-bolton-jeyne-poole:
+        type: marriage
+        participants:
+            - person: person-ramsay-bolton
+              role: spouse
+            - person: person-jeyne-poole
+              role: spouse
+        properties:
+            start_date: "300"
+            context: "Political marriage arranged by Roose Bolton to give Ramsay a claim to Winterfell. Jeyne Poole (a steward's daughter, former friend of Sansa Stark) is presented as 'Arya Stark, daughter of Eddard Stark.' The wedding takes place in the Winterfell godswood before the weirwood heart tree. Theon Greyjoy gives the false 'Arya' away. The union is formally valid under northern custom but built on deception — Ramsay and Roose both know the bride's true identity."

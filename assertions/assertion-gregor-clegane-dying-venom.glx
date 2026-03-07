@@ -1,0 +1,11 @@
+assertions:
+    assertion-gregor-clegane-dying-venom:
+        subject:
+            person: person-gregor-clegane
+        property: cause_of_death
+        value: "Dying slowly and in agony from thickened manticore venom from the east, introduced by the poison on Oberyn Martell's spear during their trial by combat"
+        citations:
+            - citation-affc-cersei-ii
+        confidence: high
+        status: proven
+        notes: "Qyburn reports to Cersei that the venom has been thickened (possibly by sorcery), causing it to work far more slowly than normal manticore venom. Gregor's veins have turned black from head to heel, his water is clouded with pus, and there is a hole in his side as large as a fist. He is overly accustomed to milk of the poppy. Cersei initially wants Ilyn Payne to behead him; Qyburn persuades her to let him keep Gregor alive for study. This foreshadows Qyburn's experiments producing 'Ser Robert Strong' (later identified as Gregor's corpse reanimated). The head Tywin promised to Dorne as Oberyn's wergild never arrives in this form."

@@ -1,0 +1,33 @@
+assertions:
+    assertion-chett-night-watch-mutiny:
+        subject:
+            person: person-chett
+        property: notes
+        value: "Ringleader of planned mutiny at Fist of First Men, intending to desert with fourteen brothers"
+        citations:
+            - citation-asos-prologue
+        confidence: high
+        status: proven
+        notes: "Chett was the primary planner of a desertion scheme, with fourteen brothers including Small Paul (to kill Mormont), Lark the Sisterman (to kill Bannen and Dywen), Softfoot, Dirk, Sweet Donnel Hill, Sawwood, and Maslyn. Direct POV — the most reliable possible source. The plot was abandoned when three horn blasts sounded."
+
+    assertion-chett-origin:
+        subject:
+            person: person-chett
+        property: birthplace
+        value: "Hag's Mire"
+        citations:
+            - citation-asos-prologue
+        confidence: high
+        status: proven
+        notes: "Text: 'He had no trade to speak of, growing up in Hag\'s Mire. His father had spent his life grubbing in other men\'s fields and collecting leeches.'"
+
+    assertion-chett-crime:
+        subject:
+            person: person-chett
+        property: notes
+        value: "Sent to the Wall for murdering Bessa"
+        citations:
+            - citation-asos-prologue
+        confidence: high
+        status: proven
+        notes: "Text: 'She stopped laughing when he put his knife in her. That was sweet, the look on her face, so he pulled the knife out and put it in her again. When they caught him down near Sevenstreams, old Lord Walder Frey hadn\'t even bothered to come himself to do the judging. He\'d sent one of his bastards, that Walder Rivers, and the next thing Chett had known he was walking to the Wall with that foul-smelling black devil Yoren.'"

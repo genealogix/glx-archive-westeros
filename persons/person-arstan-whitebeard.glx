@@ -1,0 +1,12 @@
+persons:
+    person-arstan-whitebeard:
+        properties:
+            name:
+                value: "Arstan Whitebeard"
+                fields:
+                    given: "Arstan"
+            alias:
+                - value: "Whitebeard"
+                - value: "Arstan"
+            gender: male
+        notes: "The alias used by Ser Barristan Selmy when he joined Daenerys's service disguised as a squire to Strong Belwas. Tall, lean, with fine white silk-like beard and pale blue eyes. Carried a hardwood staff as his weapon. Served King Aerys II at King's Landing and knew both Aerys and Rhaegar personally. Sent by Magister Illyrio Mopatis. His true identity as Ser Barristan Selmy is not revealed until later in ASOS. During the Astapor visit, argued strongly against purchasing slave soldiers, citing the abomination of slavery and its damage to Daenerys's cause in Westeros."

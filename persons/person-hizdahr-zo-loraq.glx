@@ -7,5 +7,9 @@ persons:
                     given: Hizdahr
                     surname: "zo Loraq"
                 value: "Hizdahr zo Loraq"
+            title:
+                - value: "King of Meereen"
+                  date: "FROM 300"
+                - value: "Fourteenth of That Noble Name"
             house: "Loraq"
-        notes: "A wealthy Meereenese nobleman of ancient lineage. One of Daenerys's suitors (ADWD Appendix)."
+        notes: "A wealthy Meereenese nobleman of ancient lineage. One of Daenerys's suitors who repeatedly petitioned to reopen the fighting pits. He negotiated the peace between Meereen and Yunkai and married Daenerys Targaryen, becoming King of Meereen. His full title: 'His Magnificence Hizdahr zo Loraq, Fourteenth of That Noble Name, King of Meereen, Scion of Ghis, Octarch of the Old Empire, Master of the Skahazadhan, Consort to Dragons and Blood of the Harpy.' After Daenerys's disappearance on Drogon, he holds court alone on one of two carved dragon thrones. His cousin Marghaz zo Loraq commands the Brazen Beasts. He does not retaliate when Bloodbeard throws Groleo's head at his feet. Barristan Selmy suspects Hizdahr may have arranged the poisoned locusts at Daznak's Pit, intending to kill Daenerys. Selmy plots to overthrow him. (ADWD Appendix; 'The Discarded Knight')"

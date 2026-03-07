@@ -1,0 +1,24 @@
+events:
+    event-jeyne-poole-escape-winterfell:
+        type: exile
+        date: "300"
+        place: place-winterfell
+        participants:
+            - person: person-theon-greyjoy
+              role: subject
+            - person: person-jeyne-poole
+              role: subject
+            - person: person-rowan-spearwife
+              role: participant
+            - person: person-holly-spearwife
+              role: participant
+            - person: person-frenya-spearwife
+              role: participant
+            - person: person-squirrel-spearwife
+              role: participant
+            - person: person-willow-witch-eye
+              role: participant
+            - person: person-myrtle-spearwife
+              role: participant
+        properties:
+            description: "Mance Rayder's spearwives, posing as Abel's washerwomen, execute a rescue of Jeyne Poole from Ramsay Bolton's bedchamber. Theon Greyjoy leads them through the kitchens using his status as 'Reek' to pass guards. Squirrel takes Jeyne's place in the bed. At the Battlements Gate: Holly kills the first guard with a blade to the neck; Frenya kills the second with his own spear. Holly is shot twice by crossbow and killed on the outer battlements. Frenya stays to fight pursuing guards alone. Rowan, Willow, and Myrtle return to the Great Hall to find Abel. Theon and Jeyne are cornered on the outer battlements — Theon grabs Jeyne and jumps into the deep snow below."

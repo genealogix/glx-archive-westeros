@@ -1,0 +1,12 @@
+assertions:
+    assertion-arya-kills-dareon:
+        subject:
+            person: person-arya-stark
+        property: event
+        value: "Killed Dareon the singer (Night's Watch deserter) in Braavos"
+        citations:
+            - citation-affc-cat-of-the-canals-i
+            - citation-affc-samwell-iii
+        confidence: high
+        status: proven
+        notes: "In the Cat of the Canals chapter, Arya (living as Cat) observes Dareon at the Happy Port brothel, having deserted the Night's Watch and thrown away his black cloak. At the end of the chapter, as they walk together: 'Just so said Cat as they stepped into the gloom of a twisty little alley.' The boots Arya later brings Brusco were Dareon's. Sam's chapter confirms: 'Samwell III: citation notes that Arya later killed Dareon.' The Night's Watch held that deserters forfeited their lives, and Arya carried out the sentence — acting as an agent of the Many-Faced God's justice, or simply as a Stark executing a deserter by the law."

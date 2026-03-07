@@ -1,0 +1,12 @@
+persons:
+    person-domeric-bolton:
+        properties:
+            name:
+                value: "Domeric Bolton"
+                fields:
+                    given: "Domeric"
+                    surname: "Bolton"
+            gender: male
+            house: "Bolton"
+            cause_of_death: "Poison"
+        notes: "Trueborn son of Roose Bolton by his second wife. A gifted young man — served four years as a page to Lady Barbrey Dustin, three years as a squire to Lord Redfort in the Vale. Played the high harp, read histories, and was called a promising jouster. Died of a 'sickness of the bowels' — Roose Bolton believes Ramsay poisoned him after Domeric sought out his bastard half-brother against his father's orders. His bones lie in the Dreadfort. (ADWD, 'Reek II')"

@@ -6,6 +6,9 @@ events:
         participants:
             - person: person-robb-stark
               role: principal
+            - person: person-roose-bolton
+              role: perpetrator
         properties:
-            cause: "Murdered at the Red Wedding"
-        notes: "Robb Stark, King in the North and King of the Trident, was murdered at the Twins during the wedding feast of Edmure Tully and Roslin Frey. Betrayed by Lord Walder Frey and Lord Roose Bolton."
+            cause: "Stabbed through the heart by Roose Bolton"
+            last_words_of_killer: "Jaime Lannister sends his regards."
+        notes: "Robb Stark, King in the North and King of the Trident, was murdered at the Twins during the wedding feast of Edmure Tully and Roslin Frey. He was first struck by multiple crossbow bolts from gallery musicians (in the side, leg, and chest). The Smalljon Umber overturned a table to shield him. Roose Bolton then stepped up and thrust his longsword through Robb's heart saying 'Jaime Lannister sends his regards' — implicating Tywin Lannister as co-conspirator. Robb's corpse was subsequently desecrated: Grey Wind's head sewn onto his body and a crown nailed about his ears. Source: ASOS Catelyn VII (Davos IV for desecration)."

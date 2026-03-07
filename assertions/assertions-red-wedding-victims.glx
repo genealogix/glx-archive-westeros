@@ -1,0 +1,66 @@
+assertions:
+    assertion-smalljon-umber-name:
+        subject:
+            person: person-smalljon-umber
+        property: name
+        value: "Jon Umber (the Smalljon)"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Called the Smalljon to distinguish him from his father the Greatjon (Lord Jon Umber). Named in the text of Catelyn VII overturning the table and bludgeoning Ser Raymund Frey. The Greatjon's notes in his person file also reference his son Smalljon."
+
+    assertion-smalljon-umber-death:
+        subject:
+            person: person-smalljon-umber
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Killed at the Red Wedding. Beheaded by Bolton men after shielding Robb Stark with an overturned table. Direct text: 'one of them struck the Smalljon's head off with two huge blows of his axe.'"
+
+    assertion-robin-flint-death:
+        subject:
+            person: person-robin-flint
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Killed at the Red Wedding. Ringed by Freys with daggers. Direct text: 'Robin Flint was ringed by Freys, their daggers rising and falling.'"
+
+    assertion-donnel-locke-death:
+        subject:
+            person: person-donnel-locke
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Killed at the Red Wedding by crossbow. Direct text: 'The crossbows took Donnel Locke, Owen Norrey, and half a dozen more.'"
+
+    assertion-owen-norrey-death:
+        subject:
+            person: person-owen-norrey
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Killed at the Red Wedding by crossbow. Direct text: 'The crossbows took Donnel Locke, Owen Norrey, and half a dozen more.'"
+
+    assertion-lucas-blackwood-death:
+        subject:
+            person: person-lucas-blackwood
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Killed at the Red Wedding by Ser Hosteen Frey. Direct text: 'She saw Lucas Blackwood cut down by Ser Hosteen Frey.'"

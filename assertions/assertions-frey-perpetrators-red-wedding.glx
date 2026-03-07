@@ -1,0 +1,77 @@
+assertions:
+    assertion-lothar-frey-planner:
+        subject:
+            person: person-lothar-frey
+        property: role_in_red_wedding
+        value: "Principal planner and negotiator for the Frey side"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Lame Lothar served as Lord Walder's steward and was the chief emissary who negotiated the terms of reconciliation that lured Robb Stark to the Twins. He arranged the Edmure-Roslin match, set the conditions (Robb must apologize in person), and conveyed the false goodwill. At the feast he sat on the dais and was among those first pounding cups when the bedding ceremony began — the signal for the gallery musicians. He was notably gracious and cheerful with Catelyn en route, concealing his knowledge of the plot."
+
+    assertion-ryman-frey-massacre-role:
+        subject:
+            person: person-ryman-frey
+        property: role_in_red_wedding
+        value: "Led armed men-at-arms into the hall; killed Dacey Mormont"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Ser Ryman Frey, heir to the Twins, left the feast early (feigning a call of nature) and returned clad in full plate at the head of a dozen men-at-arms with longaxes. He killed Dacey Mormont by burying his axe in her stomach as she tried to flee through a door. Direct text: 'Ser Ryman Frey pushed into the hall, clad in steel from helm to heel. A dozen Frey men-at-arms packed the door behind him. They were armed with heavy longaxes... Ser Ryman buried the head of his axe in Dacey's stomach.'"
+
+    assertion-hosteen-frey-massacre-role:
+        subject:
+            person: person-hosteen-frey
+        property: role_in_red_wedding
+        value: "Cut down Lucas Blackwood during the massacre"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Ser Hosteen Frey personally killed Lucas Blackwood during the Red Wedding massacre. Direct text: 'She saw Lucas Blackwood cut down by Ser Hosteen Frey.' Hosteen was among those pounding cups on the table when the bedding ceremony was called — one of the first signals."
+
+    assertion-black-walder-massacre-role:
+        subject:
+            person: person-walder-frey-black-walder
+        property: role_in_red_wedding
+        value: "Hamstrung a Vance during the massacre"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Black Walder (Ser Walder Frey, son of Ryman) hamstrung one of the Vance bannermen during the massacre. Direct text: 'One of the Vances was hamstrung by Black Walder as he was wrestling with Ser Harys Haigh.' Black Walder had been notably restrained throughout the approach to the Twins — 'Black Walder's been mild as a lamb for once,' Robb noted — concealing his foreknowledge."
+
+    assertion-walder-rivers-premeditation:
+        subject:
+            person: person-walder-rivers
+        property: role_in_red_wedding
+        value: "Attended negotiations; knew of the plot in advance"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Walder Rivers, a bastard son of Lord Walder Frey, attended the negotiation meeting where the Edmure marriage was arranged. He was blunt and curtly pressed Edmure to accept Roslin immediately, saying 'My grandfather has come to mislike lengthy betrothals' — with deliberate irony about Robb's breaking of his betrothal vow. His presence and sharp tongue at negotiations indicate he was part of the conspiracy. At the feast he was present but his specific actions during the massacre are not described in the text."
+
+    assertion-benfrey-frey-massacre-role:
+        subject:
+            person: person-benfrey-frey
+        property: role_in_red_wedding
+        value: "Seized Dacey Mormont; was struck by wine flagon in return"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Ser Benfrey Frey seized Dacey Mormont by the arm during the massacre. She grabbed a flagon of wine with her other hand and smashed it full in his face, breaking free. Direct text: 'Young Ser Benfrey had seized Dacey Mormont by the arm, but Catelyn saw her grab up a flagon of wine with her other hand, smash it full in his face, and run for the door.'"
+
+    assertion-edwyn-frey-massacre-trigger:
+        subject:
+            person: person-edwyn-frey
+        property: role_in_red_wedding
+        value: "Wore concealed mail; discovery by Catelyn triggered the visible start of the massacre"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Edwyn Frey (eldest son of Ryman, grandson of Lord Walder) wore iron ringmail concealed beneath his silken sleeve, visible proof of premeditation. When Catelyn felt the mail and slapped him, the crossbow volley from the gallery began immediately. He shoved Catelyn aside and moved toward a door. Robb moved to block him and was immediately struck by the first quarrel. Edwyn's flight toward the door was the physical trigger for the massacre's visible phase."

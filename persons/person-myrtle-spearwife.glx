@@ -1,0 +1,7 @@
+persons:
+    person-myrtle-spearwife:
+        properties:
+            name:
+                value: "Myrtle"
+            gender: female
+        notes: "One of six spearwives accompanying Mance Rayder (as Abel) to Winterfell. Described as gaunt and grey-haired. She accompanies Rowan and Willow back to the Great Hall during the escape attempt to find Abel. (ADWD, 'Theon')"

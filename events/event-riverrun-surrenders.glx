@@ -1,0 +1,16 @@
+events:
+    event-riverrun-surrenders:
+        type: battle
+        date: "300"
+        participants:
+            - person: person-jaime-lannister
+              role: commander
+            - person: person-edmure-tully
+              role: subject
+            - person: person-brynden-tully-blackfish
+              role: subject
+        properties:
+            description: "Jaime Lannister compelled Edmure Tully to surrender Riverrun by threatening to trebuchet Edmure's unborn child (from Roslin Frey) over the walls and then destroy the castle. Edmure entered the castle and commanded the garrison to yield. The Blackfish (Ser Brynden Tully) escaped by swimming underwater beneath the Water Gate's portcullis into the Red Fork by night, and was never recaptured. Riverrun passed to Lord Emmon Frey. Jeyne Westerling (Robb Stark's queen) was found inside but confirmed not pregnant. Ryman Frey was hanged by the Brotherhood Without Banners (Lady Stoneheart) shortly after being dismissed from the siege."
+        citations:
+            - citation-affc-jaime-viii
+            - citation-affc-jaime-ix

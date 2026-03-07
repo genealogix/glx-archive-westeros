@@ -1,0 +1,11 @@
+persons:
+    person-archmaester-walgrave:
+        properties:
+            name:
+                value: "Walgrave"
+                fields:
+                    given: "Walgrave"
+            gender: "male"
+            title:
+                - value: "Archmaester"
+        notes: "An Archmaester at the Citadel in Oldtown, responsible for ravencraft. He is senile — unable to find his way back to his chambers, sometimes incontinent, at times unable to recognize people (he sometimes thinks Pate is someone named Cressen). He retains his title of Archmaester only by courtesy; the actual iron mask and rod are held by Maester Gormon who sits in his place. His personal possessions include a strongbox with a broken lock containing silver stags, a lock of yellow hair, a painted miniature of a woman resembling himself, a steel knight's gauntlet belonging to an unnamed prince, and the iron key that opens every door at the Citadel. He is especially proud of his white ravens and is said to have 'forgotten more of ravencraft than most maesters ever knew.' He wanted his white ravens to eat him when he died. (AFFC Prologue)"

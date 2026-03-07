@@ -1,0 +1,8 @@
+citations:
+    citation-asos-tyrion-lxviii:
+        source: source-asos
+        properties:
+            locator: "Tyrion (Purple Wedding chapter — Joffrey's poisoning)"
+            text_from_source: "He is going to die, Tyrion realized. He felt curiously calm, though pandemonium raged all about him... His eyes met Tyrion's. He has Jaime's eyes. Only he had never seen Jaime look so scared. The boy's only thirteen."
+            accessed: "2026-03-06"
+        notes: "Tyrion POV chapter covering the Purple Wedding feast, Joffrey's choking death from the Strangler poison, Cersei's accusation of Tyrion, and Tyrion pouring out the dregs of the poisoned wine. Line ~15016-15036 of asos.txt."

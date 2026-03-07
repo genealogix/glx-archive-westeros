@@ -1,0 +1,15 @@
+persons:
+    person-smalljon-umber:
+        properties:
+            name:
+                value: "Jon Umber"
+                fields:
+                    given: "Jon"
+                    surname: "Umber"
+            gender: male
+            alias:
+                - value: "The Smalljon"
+            house: "Umber"
+            died_on: "299"
+            cause_of_death: "Beheaded by Bolton men at the Red Wedding"
+        notes: "Son of Lord Jon Umber (the Greatjon). Called 'the Smalljon' to distinguish him from his father, though he was large in his own right. Served as one of Robb Stark's personal guards at the wedding feast at the Twins. During the Red Wedding he overturned a table to shield Robb from crossbow bolts, then bludgeoned Ser Raymund Frey with a leg of mutton, before being brought to his knees by a crossbow bolt. Bolton men in shaggy fur cloaks then beheaded him with two blows of an axe. Source: ASOS Catelyn VII."

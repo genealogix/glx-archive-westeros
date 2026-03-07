@@ -1,0 +1,26 @@
+events:
+    event-daenerys-rules-meereen:
+        type: coronation
+        date: "300"
+        place: place-meereen
+        participants:
+            - person: person-daenerys-targaryen-304
+              role: subject
+            - person: person-barristan-selmy
+              role: principal
+            - person: person-jorah-mormont
+              role: banished
+            - person: person-missandei
+              role: witness
+            - person: person-grey-worm
+              role: witness
+            - person: person-daario-naharis
+              role: witness
+            - person: person-brown-ben-plumm
+              role: witness
+        properties:
+            description: "After taking Meereen, Daenerys Targaryen made the decision to remain in the city and rule it as queen rather than immediately sailing for Westeros. She held court in the Great Pyramid, sitting on an ebony bench (having burned the harpy throne). She confronted Ser Jorah Mormont and Ser Barristan Selmy about their betrayals. She reinstated Ser Barristan as her sworn knight after he explained his reasons for joining her in disguise. She then banished Jorah Mormont from Meereen, ordering him out before dawn on pain of death at Strong Belwas's hands. She received the Astapori envoy Ghael (bringing a marriage proposal from 'King Cleon the Great') and the Qartheen captain of the Indigo Star (seeking to buy slaves, leading to a policy allowing self-sale). She decided she was not ready to sail for Westeros — her newly freed slaves needed governance."
+            jorah_banishment: "Daenerys banished Jorah after he admitted he had written reports to Varys from Qarth, including informing the Small Council of her pregnancy — which led to the assassination attempt in Vaes Dothrak. She said: 'I cannot forgive you. I can't.' Jorah's last words to her: 'I have loved you.'"
+            barristan_pardon: "Barristan admitted he had used a false name to evaluate Daenerys before pledging his sword, wanting to ensure she was not 'her father's daughter.' She gave him Brown Ben Plumm's sword, accepted his oath, and he knelt before her."
+            decision_to_stay: "Daenerys resolved to stay after learning Astapor had already fallen to 'King Cleon' (a former butcher-slave) who was enslaving boys to make new Unsullied — proving the freed cities could not maintain themselves without a ruler."
+        notes: "Daenerys sitting in the Great Pyramid of Meereen atop the highest structure in the city. She destroyed the harpy throne. Her court included her bloodriders, Grey Worm, Strong Belwas, Daario Naharis, Brown Ben Plumm, Missandei, Irri, Jhiqui. This chapter establishes her as Queen of Meereen — a major turning point away from the march to Westeros."

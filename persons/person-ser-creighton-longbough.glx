@@ -1,0 +1,12 @@
+persons:
+    person-ser-creighton-longbough:
+        properties:
+            name:
+                value: "Creighton Longbough"
+                fields:
+                    given: "Creighton"
+                    surname: "Longbough"
+            gender: "male"
+            title:
+                - value: "Ser"
+        notes: "A hedge knight encountered by Brienne on the road to Duskendale. A big-bellied man with a shaggy untrimmed gold-colored beard. He is nearsighted. He boasts of 'great carnage' and 'a dozen ransoms' at the Battle of the Blackwater and of killing Ser Herbert Bolling. He offers Brienne his protection. He carries a green shield with only a brown chief and a battle-axe gouge. He insists on accompanying Brienne to Duskendale despite her protests. He introduces himself as 'of whom the singers sing,' though Brienne has never heard the song. (AFFC Brienne I)"

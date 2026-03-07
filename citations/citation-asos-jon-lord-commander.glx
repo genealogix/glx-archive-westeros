@@ -1,0 +1,8 @@
+citations:
+    citation-asos-jon-lord-commander:
+        source: source-asos
+        properties:
+            locator: "Jon / Samwell (election of 998th Lord Commander chapters)"
+            text_from_source: "The raven landed on the table nearest Jon. \"Snow,\" it cawed. It was an old bird, dirty and bedraggled. \"Snow,\" it said again, \"Snow, snow, snow.\" It walked to the end of the table, spread its wings again, and flew to Jon's shoulder... The rest was arrowheads, a torrent of arrowheads, a flood of arrowheads, arrowheads enough to drown the last few stones and shells."
+            accessed: "2026-03-06"
+        notes: "Sam campaigns among Cotter Pyke and Ser Denys Mallister to withdraw their candidacies in favor of Jon Snow. Sam hides Mormont's raven in the election kettle. When the raven flies to Jon's shoulder calling 'Snow,' votes pour in for Jon. Jon Snow is elected 998th Lord Commander of the Night's Watch. Candidates were: Jon Snow, Janos Slynt, Cotter Pyke, Ser Denys Mallister, Othell Yarwyck (withdrew). Line ~19363-19733 of asos.txt."

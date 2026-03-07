@@ -1,0 +1,11 @@
+persons:
+    person-elder-brother:
+        properties:
+            name:
+                value: "The Elder Brother"
+                fields:
+                    type: "alias"
+            gender: "male"
+            born_on: "ABT 256"
+            religion: "Faith of the Seven"
+        notes: "Leader of the monastic community on the Quiet Isle at the mouth of the Trident. A former knight who fought for Prince Rhaegar Targaryen at the Battle of the Trident, where he took wounds and was believed drowned. He washed up on the Quiet Isle naked and lived there in silence for ten years before rising to lead the community. He is counted four-and-forty years old as of AFFC, which dates his birth to approximately 256 AC. He nursed the dying Sandor Clegane and buried him, covering the grave with stones and leaving Sandor's famous hound's helm as a marker — a mistake, as Rorge later found and stole the helm. He keeps a large black stallion 'Driftwood' (actually Sandor's warhorse Stranger) in the stables. The large limping gravedigger seen digging a grave on the hillside is widely interpreted as Sandor Clegane himself, suggesting he survived and is a penitent on the isle."

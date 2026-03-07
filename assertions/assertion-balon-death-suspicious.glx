@@ -1,0 +1,12 @@
+assertions:
+    assertion-balon-death-suspicious:
+        subject:
+            person: person-balon-greyjoy
+        property: cause_of_death
+        value: "Fell from a rope bridge at Pyke during a storm; officially attributed to the bridge giving way, but widely suspected to have been arranged by Euron Crow's Eye, who returned to Lordsport the following day"
+        citations:
+            - citation-affc-the-prophet-i
+            - citation-affc-the-krakens-daughter-i
+        confidence: medium
+        status: suspected
+        notes: "The official account (per Maester Wendamyr's raven) says Balon fell from a swaying rope bridge in a storm. Asha observes that Euron was exiled by Balon on pain of death, yet returned within a day of Balon's death — timing she finds implausible. Lady Alannys suspects murder. Rodrik Harlaw is cautiously agnostic. The later ADWD chapter with Aeron being held by Euron suggests Euron had a Faceless Man kill Balon. Martin has confirmed a Faceless Man was hired. This is treated here as suspected murder, not proven."

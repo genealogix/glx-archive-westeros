@@ -1,0 +1,44 @@
+assertions:
+    assertion-dany-decides-stay-meereen:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: decision
+        value: "Chose to remain in Meereen as queen rather than immediately sailing for Westeros"
+        citations:
+            - citation-asos-daenerys-meereen
+        confidence: high
+        status: proven
+        notes: "The decision crystallized after Dany learned that Astapor had already collapsed under 'King Cleon' — a butcher-slave who seized power after she freed the city and left. This demonstrated that freed cities need governing, not just liberation. Text: 'She was Daenerys Stormborn, the Unburnt, khaleesi and queen, Mother of Dragons, slayer of warlocks, breaker of chains, and there was no one in the world that she could trust.'"
+
+    assertion-jorah-banished:
+        subject:
+            person: person-jorah-mormont
+        property: banishment
+        value: "Banished from Meereen by Daenerys Targaryen for spying on her and reporting to Varys/Robert Baratheon"
+        citations:
+            - citation-asos-daenerys-meereen
+        confidence: high
+        status: proven
+        notes: "Ser Barristan Selmy revealed that Jorah's intelligence reports led directly to the poisoning attempt on Daenerys in Vaes Dothrak. Jorah confirmed he had written from Qarth. Dany: 'I cannot forgive you. I can't.' Jorah: 'I have loved you.' Dany banished him before dawn on pain of death by Strong Belwas. Text: 'You did not die in battle, so it must be they still have some use for you. But I don't. I will not have you near me. You are banished, ser.'"
+
+    assertion-barristan-reinstated:
+        subject:
+            person: person-barristan-selmy
+        property: role
+        value: "Reinstated as Daenerys Targaryen's sworn knight after confessing his true identity and motivations"
+        citations:
+            - citation-asos-daenerys-meereen
+        confidence: high
+        status: proven
+        notes: "Barristan admitted using a false name ('Arstan Whitebeard') and that he had served Robert rather than Viserys in exile because he wanted to evaluate Daenerys before pledging — ensuring she was not 'mad.' He accepted that Aerys II had truly been mad. Dany had Brown Ben Plumm give him a sword; Barristan refused to take it from Ben's hand, insisting on receiving it from Dany directly. She knighted him formally. Text: 'Whitebeard would not take it. \"I flung my sword at Joffrey's feet and have not touched one since. Only from the hand of my queen will I accept a sword again.\"'"
+
+    assertion-dany-titles-meereen:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: title
+        value: "Queen of Meereen, Mother of Dragons, Breaker of Chains, Daenerys Stormborn the Unburnt"
+        citations:
+            - citation-asos-daenerys-meereen
+        confidence: high
+        status: proven
+        notes: "By this chapter Daenerys holds: Queen of Meereen (de facto ruler of the city after its conquest), Khaleesi (from her marriage to Drogo), Mother of Dragons (from hatching Drogon, Rhaegal, Viserion), Breaker of Chains (from freeing slaves at Astapor, Yunkai, Meereen), Daenerys Stormborn (birthname), the Unburnt (survived Drogo's funeral pyre). She rules from the Great Pyramid after destroying the harpy throne and replacing it with an ebony bench."

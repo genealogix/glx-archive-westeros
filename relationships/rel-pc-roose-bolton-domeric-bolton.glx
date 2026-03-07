@@ -1,0 +1,10 @@
+relationships:
+    rel-pc-roose-bolton-domeric-bolton:
+        type: parent_child
+        participants:
+            - person: person-roose-bolton
+              role: parent
+            - person: person-domeric-bolton
+              role: child
+        properties:
+            context: "Domeric Bolton was Roose Bolton's trueborn son by his second wife (unnamed). He died of what official accounts call a 'sickness of the bowels'; Roose privately believes Ramsay poisoned him. Domeric had sought out his bastard half-brother Ramsay against Roose's explicit orders, apparently longing for a brother. (ADWD 'Reek II')"

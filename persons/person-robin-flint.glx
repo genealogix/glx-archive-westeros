@@ -1,0 +1,13 @@
+persons:
+    person-robin-flint:
+        properties:
+            name:
+                value: "Robin Flint"
+                fields:
+                    given: "Robin"
+                    surname: "Flint"
+            gender: male
+            house: "Flint"
+            died_on: "299"
+            cause_of_death: "Stabbed by multiple Freys at the Red Wedding"
+        notes: "Northern bannerman of House Stark. Served as one of Robb Stark's personal guards at the wedding feast at the Twins. During the massacre Robin Flint was 'ringed by Freys, their daggers rising and falling.' Source: ASOS Catelyn VII. He was present on the dais with Robb and among those specifically targeted at the outset of the massacre."

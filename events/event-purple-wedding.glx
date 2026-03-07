@@ -18,7 +18,23 @@ events:
               role: witness
             - person: person-olenna-redwyne
               role: principal
+            - person: person-mace-tyrell
+              role: witness
+            - person: person-oberyn-martell-the-red-viper
+              role: witness
+            - person: person-petyr-baelish
+              role: conspirator
+            - person: person-dontos-hollard
+              role: agent
+            - person: person-kevan-lannister
+              role: witness
+            - person: person-gregor-clegane
+              role: witness
+            - person: person-loras-tyrell
+              role: witness
         properties:
-            description: "The Purple Wedding — the wedding feast of King Joffrey Baratheon and Margaery Tyrell. Joffrey was poisoned with the Strangler, dissolved in his wine. He choked and died in agony, his face turning purple. Tyrion Lannister was falsely accused of the murder by Cersei."
+            description: "The Purple Wedding — the wedding feast of King Joffrey Baratheon and Margaery Tyrell, held in the throne room of the Red Keep. Joffrey humiliated Tyrion with a mockery jousting show by dwarfs, then forced him to act as cupbearer. Joffrey drank from his wedding chalice, ate pigeon pie, and began to choke. His face turned purple. He clawed at his throat and pointed toward Tyrion before dying. Tyrion picked up the fallen chalice and poured out the remaining poisoned wine. Cersei immediately accused Tyrion and Sansa of the murder. The Kingsguard arrested Tyrion. Sansa fled the hall and escaped the city with Ser Dontos Hollard."
             also_known_as: "The Purple Wedding"
-        notes: "The true conspirators were Olenna Tyrell (the Queen of Thorns) and Petyr Baelish. The poison was hidden in a jewel on Sansa's hairnet. Olenna plucked the jewel and dropped it in Joffrey's wine. Sansa was spirited away by Petyr's agents during the chaos."
+            poison: "The Strangler — a rare compound causing the throat muscles to seize shut, made from plants from the Jade Sea. Dissolved in wine it turns the liquid a deep purple. Administered via a black amethyst from Asshai in Sansa's hairnet; Olenna Tyrell plucked the gem into Joffrey's wine when she adjusted his crown."
+            seating: "Joffrey and Margaery at the head table on the dais; Tyrion and Sansa at a lower table; Tywin between Mace Tyrell and Oberyn Martell at the judges' platform nearby"
+        notes: "The true conspirators were Olenna Tyrell (the Queen of Thorns) and Petyr Baelish. The poison was hidden in a jewel in Sansa's hairnet — black amethysts that were actually the Strangler. Olenna plucked the jewel and dissolved it in Joffrey's wine when she fussed with his crown. Sansa was spirited away by Ser Dontos (acting on Littlefinger's orders) during the chaos, then taken by rowboat to Littlefinger's galley. Dontos was then killed by Lothor Brune on Littlefinger's orders. Witnesses named in text: Lord Buckler, Ser Garlan Tyrell, Ser Osmund Kettleblack, Mace Tyrell, Prince Tommen, Ser Meryn Trant, Alerie Tyrell, Lady Merryweather, Grand Maester Pycelle, the High Septon."

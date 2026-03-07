@@ -1,0 +1,10 @@
+persons:
+    person-the-waif-braavos:
+        properties:
+            name:
+                value: "The Waif"
+                fields:
+                    given: "The Waif"
+            gender: "female"
+            religion: "Many-Faced God"
+        notes: "A young girl at the House of Black and White in Braavos. She wears a cowled robe that is black on the right side and white on the left — the same colors as the temple. She has a gaunt and bony face, hollow cheeks, and dark eyes that seem as big as saucers. She speaks a language Arya does not know (not the Common Tongue). She is a novice or servant at the temple. She grabs Arya's arm in the temple — Arya warns her not to, saying she killed the boy who grabbed her last. She is later Arya's teacher and antagonist within the House of Black and White. (AFFC Arya I; citation-affc-arya-i)"

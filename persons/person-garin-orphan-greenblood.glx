@@ -1,0 +1,9 @@
+persons:
+    person-garin-orphan-greenblood:
+        properties:
+            name:
+                value: "Garin"
+                fields:
+                    given: "Garin"
+            gender: "male"
+        notes: "An orphan of the Greenblood (one of the river-people of Dorne who live on boats and pole the Greenblood and its tributaries). He is Arianne Martell's milk brother — his mother was her wet nurse. They have been inseparable since before they learned to walk. He is loose-limbed, swarthy, long-nosed, with a jade stud in one ear and a gold tooth Arianne bought him to replace one she broke. He is lively and entertaining, fond of telling tales from the Planky Town. He is named for Prince Garin the Great of the Rhoyne. He brings news of Quentyn Martell's secret voyage across the narrow sea. He is one of Arianne's party at Shandystone and on the ride with Myrcella. (AFFC The Queenmaker I)"

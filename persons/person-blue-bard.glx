@@ -1,0 +1,12 @@
+persons:
+    person-blue-bard:
+        properties:
+            name:
+                value: "Wat"
+                fields:
+                    type: "birth"
+                    given: "Wat"
+            alias:
+                - value: "The Blue Bard"
+            gender: "male"
+        notes: "A singer from King's Landing, the son of a chandler who ran away at age twelve to join a troupe of musicians. He dyed his hair blue in the Tyroshi fashion and dressed entirely in shades of blue (blue calfskin boots, blue wool breeches, blue silk tunic). He was Queen Margaery Tyrell's favorite singer and frequently performed at court and in the Maidenvault. Cersei Lannister arrested and tortured him to extract a false confession that he was Margaery's lover and had witnessed her adultery. Qyburn removed one of his eyes and broke his teeth during interrogation. Cersei later had him sent to the Night's Watch. Despite being the vehicle for the plot against Margaery, he appears to be an innocent man who was in the wrong place."

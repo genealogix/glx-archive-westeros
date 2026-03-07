@@ -1,0 +1,11 @@
+persons:
+    person-armen-the-acolyte:
+        properties:
+            name:
+                value: "Armen"
+                fields:
+                    given: "Armen"
+            gender: "male"
+            title:
+                - value: "Acolyte of the Citadel"
+        notes: "An acolyte at the Citadel in Oldtown. He wears a leather thong strung with links of pewter, tin, lead, and copper around his neck. He is studious and pious, representing the orthodox Citadel view against magic and mysticism. He dismisses Lazy Leo's talk of glass candles and dragons as sailors' stories. He appears in the Prologue drinking cider at the Quill and Tankard with Pate, Alleras (the Sphinx), Mollander, and Roone. He is skeptical and somewhat pompous. (AFFC Prologue)"

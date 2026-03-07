@@ -1,0 +1,8 @@
+citations:
+    citation-affc-cersei-v:
+        source: source-affc
+        properties:
+            locator: "Cersei V"
+            text_from_source: "Grand Maester Pycelle had been old for as long as she had known him, but he seemed to have aged another hundred years in the past three nights."
+            accessed: "2026-03-06"
+        notes: "Cersei interrogates Grand Maester Pycelle and discovers he has been supplying moon tea to Margaery Tyrell. She has the Blue Bard (the singer Wat) arrested and taken to the dungeons, where Qyburn tortures him into 'confessing' Margaery's adultery with multiple men including Ser Osney Kettleblack. Cersei plans to use the Blue Bard's confession to destroy the Tyrells."

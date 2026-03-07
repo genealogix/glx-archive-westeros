@@ -1,0 +1,11 @@
+persons:
+    person-lem-lemoncloak:
+        properties:
+            name:
+                value: "Lem"
+                fields:
+                    given: "Lem"
+            gender: male
+            alias:
+                - value: "Lem Lemoncloak"
+        notes: "A large member of the Brotherhood Without Banners. Named for his distinctive yellow cloak. Has a broken nose healing crooked. Tall enough to look Sandor Clegane in the eye. First appears with Arya in ASOS Arya IV."

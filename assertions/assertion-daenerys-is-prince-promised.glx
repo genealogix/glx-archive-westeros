@@ -1,0 +1,22 @@
+assertions:
+    assertion-daenerys-is-prince-promised:
+        subject:
+            person: person-daenerys-targaryen
+        property: title
+        value: "The Prince That Was Promised / Azor Ahai reborn"
+        citations:
+            - citation-affc-samwell-aemon-death
+        confidence: medium
+        status: speculative
+        notes: "Maester Aemon Targaryen, before his death, declared to Sam: 'No one ever looked for a girl. It was a prince that was promised, not a princess. Rhaegar, I thought...the error crept in from the translation. Dragons are neither male nor female, Barth saw the truth of that, but now one and now the other, as changeable as flame. The language misled us all for a thousand years. Daenerys is the one, born amidst salt and smoke. The dragons prove it.' Aemon had previously believed Rhaegar, then Rhaegar's son Aegon, was the promised prince; he came to believe Daenerys fulfills the prophecy. This is Aemon's personal conclusion, not proven canon fact, hence medium confidence."
+
+    assertion-aemon-targaryen-age-at-death:
+        subject:
+            person: person-aemon-targaryen-maester
+        property: born_on
+        value: "ABT 198"
+        citations:
+            - citation-affc-samwell-aemon-death
+        confidence: high
+        status: proven
+        notes: "Sam confirmed Maester Aemon's age as 102 at his death (300 AC), placing his birth around 198 AC. He was the third son of King Maekar I Targaryen, born to be given to the Citadel to prevent succession conflicts. He refused the Iron Throne when it was offered after the death of his brother Aegon V (Egg) and lived out his days at Castle Black."

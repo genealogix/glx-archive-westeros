@@ -1,0 +1,23 @@
+events:
+    event-ramsay-bolton-wedding-winterfell:
+        type: marriage_ceremony
+        date: "300"
+        place: place-winterfell
+        participants:
+            - person: person-ramsay-bolton
+              role: subject
+            - person: person-jeyne-poole
+              role: subject
+            - person: person-theon-greyjoy
+              role: witness
+            - person: person-roose-bolton
+              role: host
+            - person: person-wyman-manderly
+              role: guest
+            - person: person-hosteen-frey
+              role: guest
+            - person: person-mance-rayder
+              role: guest
+        properties:
+            description: "Ramsay Bolton weds 'Arya Stark' (actually Jeyne Poole, daughter of Vayon Poole, Winterfell's steward) in the godswood of Winterfell. Theon Greyjoy gives the false bride away, lending the deception credibility since he had known the real Arya Stark. The ceremony is performed before the heart tree according to northern custom. Wyman Manderly provides the wedding feast, including three great pork pies. Northern lords attending include: Wyman Manderly, Hosteen Frey, Aenys Frey, Lady Barbrey Dustin, Whoresbane Umber, Roger Ryswell, Rickard Ryswell, Harwood Stout, Lord Locke, and others. Abel/Mance Rayder performs music. Ramsay wears a black velvet doublet slashed with pink silk and garnets. The wedding cloaks: Theon drapes a white Stark direwolf cloak over the bride; Ramsay replaces it with a pink cloak featuring the flayed man of the Dreadfort in red leather."
+            also_known_as: "The Winterfell Wedding"

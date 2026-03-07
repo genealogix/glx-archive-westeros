@@ -1,0 +1,46 @@
+assertions:
+    assertion-daenerys-buys-unsullied:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: action
+        value: "Daenerys trades her dragon Drogon and her ships for 8,000 Unsullied soldiers at Astapor"
+        citations:
+            - citation-asos-daenerys-ii
+            - citation-asos-daenerys-iii
+        confidence: high
+        status: proven
+        notes: "Daenerys feigns ignorance of Valyrian while Kraznys mo Nakloz insults her in ASOS Daenerys II. In Daenerys III she executes her plan: offers Drogon as payment for all 8,000 Unsullied. Kraznys accepts. The trade is then immediately reversed when Daenerys reveals her Valyrian fluency and orders Drogon to burn him."
+
+    assertion-daenerys-dracarys-astapor:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: action
+        value: "Daenerys commands 'Dracarys' — Drogon burns Kraznys mo Nakloz and the Unsullied sack Astapor, ending slavery there"
+        citations:
+            - citation-asos-daenerys-iii
+        confidence: high
+        status: proven
+        notes: "Direct quote: 'There is a reason. A dragon is no slave.' Then: 'Drogon,' she sang out loudly, sweetly, all her fear forgotten. 'Dracarys.' Drogon burns Kraznys alive. The Unsullied, now commanded by Daenerys, kill the Good Masters and strike the chains off every slave. Daenerys declares them free."
+
+    assertion-daenerys-speaks-valyrian:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: language
+        value: "Daenerys speaks High Valyrian fluently and deliberately concealed this from Kraznys throughout negotiations"
+        citations:
+            - citation-asos-daenerys-ii
+            - citation-asos-daenerys-iii
+        confidence: high
+        status: proven
+        notes: "The text establishes in Daenerys II that 'Kraznys's High Valyrian was twisted and thickened by the characteristic growl of Ghis, and flavored here and there with words of slaver argot. Dany understood him well enough, but she smiled and looked blankly at the slave girl.' The deception is strategic and gives Daenerys complete information advantage."
+
+    assertion-kraznys-death:
+        subject:
+            person: person-kraznys-mo-nakloz
+        property: death
+        value: "Burned alive by Drogon at the Plaza of Punishment, Astapor, 299 AC"
+        citations:
+            - citation-asos-daenerys-iii
+        confidence: high
+        status: proven
+        notes: "Text: 'A lance of swirling dark flame took Kraznys full in the face. His eyes melted and ran down his cheeks, and the oil in his hair and beard burst so fiercely into fire that for an instant the slaver wore a burning crown twice as tall as his head.'"

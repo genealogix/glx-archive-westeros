@@ -1,0 +1,8 @@
+citations:
+    citation-asos-daenerys-meereen:
+        source: source-asos
+        properties:
+            locator: "Daenerys (Meereen chapters — ruling, Jorah's banishment)"
+            text_from_source: "\"I am going to take you home one day, Missandei,\" Dany promised... She was Daenerys Stormborn, the Unburnt, khaleesi and queen, Mother of Dragons, slayer of warlocks, breaker of chains, and there was no one in the world that she could trust."
+            accessed: "2026-03-06"
+        notes: "Daenerys POV chapter set after the fall of Meereen. Dany rules from the Great Pyramid, holds court, confronts Jorah Mormont and Ser Barristan about their betrayals. She pardons Barristan Selmy and reinstates him as her knight. She banishes Jorah Mormont from Meereen. She decides she cannot yet sail for Westeros — her freed slaves need a queen to govern them. The chapter ends with Dany resolving to stay and rule Meereen. Line ~17583-17906 of asos.txt."

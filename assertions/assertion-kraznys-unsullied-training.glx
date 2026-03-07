@@ -1,0 +1,55 @@
+assertions:
+    assertion-unsullied-training-regime:
+        subject:
+            person: person-kraznys-mo-nakloz
+        property: notes
+        value: "Unsullied training begins at age five; only one in three survives; must strangle their puppy after one year; must kill an infant with a silver mark to earn the spiked cap"
+        citations:
+            - citation-asos-daenerys-ii
+        confidence: high
+        status: proven
+        notes: "Kraznys's description via Missandei's translation: 'They begin their training at five. Every day they train from dawn to dusk... Only one boy in three survives it.' On the infant murder: 'To win his spiked cap, an Unsullied must go to the slave marts with a silver mark, find some wailing newborn, and kill it before its mother\'s eyes. In this way, we make certain that there is no weakness left in them.'"
+
+    assertion-unsullied-wine-of-courage:
+        subject:
+            event: event-daenerys-inspects-unsullied-astapor
+        property: description
+        value: "Unsullied drink the 'wine of courage' — a drug made from nightshade, bloodfly larva, black lotus root — that suppresses pain"
+        citations:
+            - citation-asos-daenerys-ii
+        confidence: high
+        status: proven
+        notes: "Text: 'The wine of courage... It is no true wine at all, but made from deadly nightshade, bloodfly larva, black lotus root, and many secret things. They drink it with every meal from the day they are cut, and with each passing year feel less and less. It makes them fearless in battle.'"
+
+    assertion-kraznys-insults-daenerys:
+        subject:
+            person: person-kraznys-mo-nakloz
+        property: notes
+        value: "Kraznys habitually insulted Daenerys in High Valyrian, not knowing she understood him; Missandei softened his words in translation"
+        citations:
+            - citation-asos-daenerys-ii
+        confidence: high
+        status: proven
+        notes: "Kraznys called Daenerys 'the Westerosi whore,' 'this cow,' 'this ignorant whore of a westerner,' and similar. Missandei consistently softened these: e.g. when he said 'Tell the cow to stop her bleating,' she translated 'What is he doing?' When he said to 'lick honey off her breasts,' she said 'Astapor is most beautiful at dusk.' Daenerys feigned ignorance of High Valyrian throughout."
+
+    assertion-missandei-origin-naath:
+        subject:
+            person: person-missandei
+        property: notes
+        value: "Missandei is from Naath; no older than ten at the time of the Astapor chapters; spoke Common Tongue well despite never having been to Westeros"
+        citations:
+            - citation-asos-daenerys-ii
+        confidence: high
+        status: proven
+        notes: "Text: 'No older than ten, she had the round flat face, dusky skin, and golden eyes of Naath. The Peaceful People, her folk were called. All agreed that they made the best slaves.'"
+
+    assertion-arstan-argues-against-slavery:
+        subject:
+            person: person-arstan-whitebeard
+        property: notes
+        value: "Argued against buying Unsullied on the grounds that slavery is abominated by both old gods and new, and would damage Daenerys's cause in Westeros"
+        citations:
+            - citation-asos-daenerys-ii
+        confidence: high
+        status: proven
+        notes: "Arstan's speech: 'There have been no slaves in the Seven Kingdoms for thousands of years. The old gods and the new alike hold slavery to be an abomination. Evil. If you should land in Westeros at the head of a slave army, many good men will oppose you for no other reason than that. You will do great harm to your cause, and to the honor of your House.'"

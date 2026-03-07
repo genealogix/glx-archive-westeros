@@ -1,0 +1,11 @@
+persons:
+    person-nute-the-barber:
+        properties:
+            name:
+                value: "Nute the Barber"
+                fields:
+                    given: "Nute"
+            gender: "male"
+            alias:
+                - value: "Nute the Barber"
+        notes: "A captain in Victarion Greyjoy's Iron Fleet. A thickset man with bandy legs and long arms. He is called 'the Barber' because in his youth he could throw an axe well enough to shave a man with it, though his eyes are no longer as keen. He sails with Victarion on Iron Victory. He fastens Victarion's cloak and keeps him company. He passes out drunk at Victarion's feast on Old Wyk before the Kingsmoot. (AFFC The Iron Captain I)"

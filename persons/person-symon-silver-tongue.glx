@@ -1,0 +1,12 @@
+persons:
+    person-symon-silver-tongue:
+        properties:
+            name:
+                value: "Symon"
+                fields:
+                    given: "Symon"
+            gender: male
+            alias:
+                - value: "Symon Silver Tongue"
+            cause_of_death: "Murder (killed by Bronn on Tyrion Lannister's order)"
+        notes: "A singer known for his twelve-stringed woodharp. Knew of Tyrion's relationship with Shae and composed a blackmail song about it ('For hands of gold are always cold, but a woman's hands are warm'). He demanded to perform at Joffrey's wedding as the price of his silence. Tyrion had Bronn kill him. His remains were allegedly ground into a bowl of brown in Flea Bottom. First appears ASOS Tyrion IV."

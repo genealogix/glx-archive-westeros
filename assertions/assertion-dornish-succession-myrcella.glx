@@ -1,0 +1,12 @@
+assertions:
+    assertion-dornish-succession-myrcella:
+        subject:
+            person: person-myrcella-baratheon
+        property: claim_to_throne
+        value: "By Dornish succession law, Myrcella Baratheon is the rightful heir to the Iron Throne, being older than Tommen by one year"
+        citations:
+            - citation-affc-the-captain-of-guards-i
+            - citation-affc-the-queenmaker-i
+        confidence: medium
+        status: asserted
+        notes: "Tyene Sand first raises this argument to Prince Doran, citing that when King Daeron II wed Princess Myriah and brought Dorne into the realm, it was agreed Dornish law would always rule in Dorne — and Myrcella is in Dorne. Arianne Martell acts on this claim in the Queenmaker plot. However, the Iron Throne follows Andal/First Men law (eldest son inherits), and the Seven Kingdoms do not recognize this claim. Cersei dismisses it entirely. The claim is Arianne's legal justification, not settled law."

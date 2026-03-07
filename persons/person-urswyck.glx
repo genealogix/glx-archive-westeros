@@ -1,0 +1,11 @@
+persons:
+    person-urswyck:
+        properties:
+            name:
+                value: "Urswyck"
+                fields:
+                    given: "Urswyck"
+            gender: male
+            alias:
+                - value: "Urswyck the Faithful"
+        notes: "A cadaverous sellsword in Vargo Hoat's Brave Companions. Eyes are rimmed in red, hair thin and dry. Acts as second-in-command under Vargo Hoat. He leads the group that captures Jaime Lannister and Brienne of Tarth (ASOS Jaime III)."

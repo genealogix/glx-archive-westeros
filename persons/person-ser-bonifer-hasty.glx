@@ -1,0 +1,19 @@
+persons:
+    person-ser-bonifer-hasty:
+        properties:
+            name:
+                value: "Bonifer Hasty"
+                fields:
+                    type: "birth"
+                    given: "Bonifer"
+                    surname: "Hasty"
+            alias:
+                - value: "Ser Bonifer the Good"
+            gender: "male"
+            title:
+                - value: "Ser"
+                - value: "Castellan of Harrenhal"
+                  date: "FROM 300"
+            religion: "Faith of the Seven"
+            house: "Hasty"
+        notes: "A stormlands knight, known as 'Bonifer the Good' for his deep piety. He commanded the Holy Hundred (actually 86 by AFFC after losses at the Blackwater), a company of devout knights riding grey geldings. Reportedly experienced some defeat or disgrace in his youth that led him to put away his lance and embrace his faith. He never jousts and leads a company of exceptionally disciplined, pious fighters. Cersei appointed him castellan of Harrenhal after Jaime cleared out the Mountain's men, on the recommendation of Orton Merryweather. He refused to keep Gregor Clegane's men in his garrison. He once served Merryweather's grandsire. He is prone to appeals to the Seven in his speech. Littlefinger quipped that Ser Bonifer must have gelded his riders, so spotless was their repute."

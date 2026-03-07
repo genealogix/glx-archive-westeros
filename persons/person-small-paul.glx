@@ -1,0 +1,12 @@
+persons:
+    person-small-paul:
+        properties:
+            name:
+                value: "Small Paul"
+                fields:
+                    given: "Paul"
+            alias:
+                - value: "Small Paul"
+            gender: male
+            house: "Night's Watch"
+        notes: "Night's Watch brother. Enormous man, described as the strongest man on the Wall, but slow-witted. Once broke a wildling's back with a hug. Conspirator in Chett's planned mutiny; assigned to kill Lord Commander Mormont during the third watch. Fond of Mormont's talking raven and intended to keep it. Killed in the wight attack at the Fist of the First Men (presumed)."

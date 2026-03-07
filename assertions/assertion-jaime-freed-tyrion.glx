@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-freed-tyrion:
+        subject:
+            person: person-jaime-lannister
+        property: action
+        value: "Jaime Lannister freed Tyrion from the black cells by compelling Varys at knifepoint to unlock the cells and lead Tyrion to a secret passage; he intended Varys to put Tyrion on a ship, not bring him to Tywin's chamber"
+        citations:
+            - citation-affc-jaime-i
+        confidence: high
+        status: proven
+        notes: "Jaime's internal monologue in the AFFC Jaime I vigil chapter. He pinned Varys against a wall with a knife under his chin and forced him to free Tyrion. His intention was for Tyrion to be smuggled to a ship and sail away. He did not intend for Tyrion to confront and kill Tywin — he blames himself for Tywin's death as much as Tyrion. He feels the blood is on both his and Varys's hands. This explains the apparent contradiction in the final ASOS Tyrion chapter where Varys knows how to get Tyrion out through the tunnels."

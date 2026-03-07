@@ -1,0 +1,134 @@
+assertions:
+    assertion-rains-of-castamere-signal:
+        subject:
+            event: event-red-wedding
+        property: signal
+        value: "The Rains of Castamere (song)"
+        citations:
+            - citation-asos-catelyn-vii
+            - citation-asos-arya-xiii
+        confidence: high
+        status: proven
+        notes: "The playing of 'The Rains of Castamere' by the gallery musicians was the signal for the massacre. Catelyn recognized it and used it to identify Edwyn Frey's concealed mail. Arya also heard it playing from both castles simultaneously as the slaughter of the camp began. Direct text: 'No one sang the words, but Catelyn knew The Rains of Castamere when she heard it.'"
+
+    assertion-edwyn-frey-concealed-mail:
+        subject:
+            person: person-edwyn-frey
+        property: role_in_red_wedding
+        value: "Wore concealed mail beneath silk sleeve as signal of premeditation"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Catelyn grabbed Edwyn Frey's arm and felt iron rings beneath his silken sleeve, confirming premeditated conspiracy. Direct text: 'She grabbed Edwyn by the arm to turn him and went cold all over when she felt the iron rings beneath his silken sleeve.' This was the moment Catelyn understood the massacre had been planned."
+
+    assertion-robb-killed-by-roose-bolton:
+        subject:
+            person: person-robb-stark
+        property: cause_of_death
+        value: "Stabbed through the heart by Roose Bolton"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Roose Bolton personally delivered the killing blow to Robb Stark with a longsword through the heart, saying 'Jaime Lannister sends his regards' — implicating Tywin Lannister as co-conspirator. Direct text: 'A man in dark armor and a pale pink cloak spotted with blood stepped up to Robb. Jaime Lannister sends his regards. He thrust his longsword through her son's heart, and twisted.' Bolton wore the pale pink Frey sigil cloak over dark armor."
+
+    assertion-dacey-mormont-killed-ryman-frey:
+        subject:
+            person: person-dacey-mormont
+        property: cause_of_death
+        value: "Axed in the stomach by Ser Ryman Frey"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Dacey Mormont smashed a wine flagon into Benfrey Frey's face to break free and ran for the door. Ser Ryman Frey, clad in full plate, pushed into the hall with a dozen men-at-arms carrying longaxes and buried his axe in her stomach. Direct text: 'Ser Ryman buried the head of his axe in Dacey's stomach.'"
+
+    assertion-wendel-manderly-killed-crossbow:
+        subject:
+            person: person-wendel-manderly
+        property: cause_of_death
+        value: "Crossbow quarrel through the mouth and out the back of the neck"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Ser Wendel Manderly rose to his feet holding a leg of lamb when the massacre began. A quarrel went in his open mouth and came out the back of his neck. Direct text: 'Ser Wendel Manderly rose ponderously to his feet, holding his leg of lamb. A quarrel went in his open mouth and came out the back of his neck.'"
+
+    assertion-smalljon-umber-beheaded:
+        subject:
+            person: person-smalljon-umber
+        property: cause_of_death
+        value: "Beheaded by Bolton men with longaxes"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "The Smalljon Umber first overturned a table to shield Robb from crossbow bolts, then bludgeoned Ser Raymund Frey with a leg of mutton. He was brought to his knees by a crossbow bolt reaching for his sword, and then beheaded by Bolton men in shaggy fur cloaks who entered through other doors. Direct text: 'one of them struck the Smalljon's head off with two huge blows of his axe.'"
+
+    assertion-lucas-blackwood-killed-hosteen:
+        subject:
+            person: person-lucas-blackwood
+        property: cause_of_death
+        value: "Cut down by Ser Hosteen Frey"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Direct text: 'She saw Lucas Blackwood cut down by Ser Hosteen Frey.' Lucas Blackwood was among Robb's bannermen at the Red Wedding."
+
+    assertion-catelyn-kills-jinglebell:
+        subject:
+            person: person-catelyn-tully
+        property: action_at_red_wedding
+        value: "Killed Aegon Frey (Jinglebell) as hostage gambit"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Catelyn seized Jinglebell (Aegon Frey, a halfwit) as a hostage and offered Walder Frey 'a son for a son' — Jinglebell's life for Robb's freedom. Walder Frey refused, saying 'that's a grandson...and he never was much use.' After Roose Bolton killed Robb, Catelyn kept her threat and killed Jinglebell. Direct text: 'She tugged hard on Aegon's hair and sawed at his neck until the blade grated on bone. Blood ran hot over her fingers. His little bells were ringing, ringing, ringing.' The AFFC appendix confirms Jinglebell 'killed at the Red Wedding by Catelyn Stark.'"
+
+    assertion-catelyn-killed-red-wedding:
+        subject:
+            person: person-catelyn-tully
+        property: cause_of_death
+        value: "Throat cut by Raymund Frey at the Red Wedding"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "After Robb was killed and Catelyn killed Jinglebell, her throat was cut. The assertion file assertions-catelyn-death-red-wedding.glx exists; this assertion adds the specific perpetrator detail. Text: 'Then the steel was at her throat, and its bite was red and cold.' The AFFC appendix identifies Ser Raymund Frey as the one who cut her throat. Catelyn's body was thrown naked into the river."
+
+    assertion-robb-body-desecrated:
+        subject:
+            person: person-robb-stark
+        property: posthumous_treatment
+        value: "Grey Wind's head sewn onto corpse, crown nailed about ears"
+        citations:
+            - citation-asos-davos-iv
+        confidence: medium
+        status: accepted
+        notes: "Street rumor in King's Landing reported by Salladhor Saan to Davos. Direct text: 'They swear Lord Frey had the boy's head hacked off, sewed the head of his direwolf in its place, and nailed a crown about his ears.' Confidence medium as this is reported hearsay rather than direct POV witness, but widely accepted as accurate. The mockery targets Robb's identity as a warg and his claim to kingship simultaneously."
+
+    assertion-grey-wind-killed-red-wedding:
+        subject:
+            person: person-robb-stark
+        property: direwolf_fate
+        value: "Grey Wind killed at the Red Wedding, penned outside the hall by Walder Frey's insistence"
+        citations:
+            - citation-asos-catelyn-vii
+            - citation-asos-davos-iv
+        confidence: high
+        status: proven
+        notes: "Walder Frey insisted Grey Wind be excluded from the feast hall, neutralizing Robb's protection. Catelyn heard 'the wild howling of a wolf' during the massacre — too late. Robb's last words referenced Grey Wind: 'Mother, Grey Wind...' The direwolf's howling outside is described as 'sharp with rage and grief' in Arya's chapter. His head was subsequently sewn onto Robb's corpse. Direct text: 'Catelyn heard the crash of distant battle, and closer the wild howling of a wolf. Grey Wind, she remembered too late.'"
+
+    assertion-rains-castamere-premeditation-evidence:
+        subject:
+            event: event-red-wedding
+        property: premeditation_evidence
+        value: "Multiple loyal Freys absent; Roslin wept; musicians replaced with crossbowmen; Edwyn wore mail"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Catelyn identified the signs of premeditation only as the massacre began: 'Olyvar, she thought, and Perwyn, Alesander, all absent. And Roslin wept...' Olyvar Frey had served as Robb's squire and requested to stay — his absence was meaningful. Perwyn Frey and Alesander Frey (a singer) were also deliberately kept away. Gallery musicians were replaced with crossbowmen. Edwyn Frey wore concealed mail under his silken sleeve."

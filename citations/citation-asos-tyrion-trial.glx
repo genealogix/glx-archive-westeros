@@ -1,0 +1,8 @@
+citations:
+    citation-asos-tyrion-trial:
+        source: source-asos
+        properties:
+            locator: "Tyrion (trial chapters — testimony and demand for trial by combat)"
+            text_from_source: "\"I did not do this. Yet now I wish I had.\" He turned to face the hall, that sea of pale faces. \"I wish I had enough poison for you all. You make me sorry that I am not the monster you would have me be, yet there it is. I am innocent, but I will get no justice here. You leave me no choice but to appeal to the gods. I demand trial by battle.\""
+            accessed: "2026-03-06"
+        notes: "Tyrion POV chapters covering his trial for Joffrey's murder. Witnesses: Ser Balon Swann, Ser Meryn Trant, Ser Boros Blount, the Kettleblacks, Grand Maester Pycelle, Lord Varys, and finally Shae. Tyrion's furious speech and demand for trial by combat. Oberyn Martell volunteers as champion. Line ~16087-17405 of asos.txt."

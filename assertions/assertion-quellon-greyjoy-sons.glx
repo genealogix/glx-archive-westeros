@@ -1,0 +1,11 @@
+assertions:
+    assertion-quellon-greyjoy-sons:
+        subject:
+            person: person-quellon-greyjoy
+        property: children
+        value: "Nine sons total: Harlon, Quenton, Donel (first wife, a Stonetrees woman); Balon, Euron, Victarion, Urrigon, Aeron (second wife, a Sunderly of Saltcliffe); Robin (third wife, a green-lands woman — described as a sickly idiot)"
+        citations:
+            - citation-affc-the-prophet-i
+        confidence: high
+        status: proven
+        notes: "Directly stated in Aeron's POV chapter. Of the nine sons, only four lived to manhood: Balon, Euron, Victarion, and Aeron. Harlon died of greyscale (sat grey-faced in a windowless tower room until greyscale turned his tongue to stone). Quenton and Donel died as infants. Urrigon lost his hand in a finger-dance accident (axe, wielded by the young Aeron); a green-lands maester tried to reattach the fingers and Urri died of mortification and fever. Robin is described as 'the brother best forgotten.'"

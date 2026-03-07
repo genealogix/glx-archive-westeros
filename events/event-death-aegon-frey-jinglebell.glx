@@ -1,0 +1,13 @@
+events:
+    event-death-aegon-frey-jinglebell:
+        type: death
+        date: "299"
+        place: place-the-twins
+        participants:
+            - person: person-aegon-frey-jinglebell
+              role: principal
+            - person: person-catelyn-tully
+              role: perpetrator
+        properties:
+            cause: "Throat cut by Catelyn Tully as hostage gambit failed"
+        notes: "Aegon Frey, called Jinglebell, a halfwit son of Stevron Frey who wore a fool's crown and collar of bells, was seized by Catelyn Tully as a hostage during the Red Wedding massacre. She offered Lord Walder 'a son for a son' — Jinglebell's life for Robb's freedom. Walder Frey refused: 'But that's a grandson...and he never was much use.' After Roose Bolton killed Robb, Catelyn killed Jinglebell — 'She tugged hard on Aegon's hair and sawed at his neck until the blade grated on bone.' Confirmed by AFFC appendix: 'killed at the Red Wedding by Catelyn Stark.' Source: ASOS Catelyn VII."

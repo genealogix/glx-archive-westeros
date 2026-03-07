@@ -1,0 +1,78 @@
+assertions:
+    assertion-shae-false-testimony:
+        subject:
+            person: person-shae
+        property: action
+        value: "Testified falsely against Tyrion Lannister at his murder trial"
+        citations:
+            - citation-asos-tyrion-trial
+        confidence: high
+        status: proven
+        notes: "Shae appeared as Cersei's final witness and gave wholly fabricated testimony: that Tyrion had plotted with Sansa to poison Joffrey, that he intended to kill Cersei, Tywin, and eventually Tommen to seize the throne, and that he had forced her into his service at the Green Fork. She also publicly revealed and mocked his private name for her ('my giant of Lannister'). Text: 'They plotted it together... The Imp and Lady Sansa plotted it after the Young Wolf died... I was his whore, all the time he was here in King's Landing.'"
+
+    assertion-oberyn-motivation-elia:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: motivation
+        value: "Volunteered as Tyrion's champion to force Gregor Clegane to publicly confess to raping and murdering Elia Martell and killing her children"
+        citations:
+            - citation-asos-tyrion-trial
+            - citation-asos-oberyn-duel
+        confidence: high
+        status: proven
+        notes: "Oberyn told Tyrion directly: 'Elia and her children have waited long for justice. But this day they shall have it.' During the duel he repeatedly chanted 'You raped her. You murdered her. You killed her children.' He wanted Gregor to name himself and by implication name Tywin as the one who gave the orders. Text: 'I have killed large men before. The trick is to get them off their feet. Once they go down, they're dead.'"
+
+    assertion-gregor-confessed-elia:
+        subject:
+            person: person-gregor-clegane
+        property: confession
+        value: "Confessed to killing Aegon Targaryen, raping Elia Martell, and smashing her head in while dying from Oberyn's poisoned spear"
+        citations:
+            - citation-asos-oberyn-duel
+        confidence: high
+        status: proven
+        notes: "Gregor confessed with Oberyn pinned beneath him: 'Elia of Dorne. I killed her screaming whelp. Then I raped her. Then I smashed her fucking head in.' This is the most direct canonical confession to the crimes. Tyrion witnessed it. Text from the throne room, witnessed by hundreds. The confession implicates Tywin Lannister as the one who ordered the Sack murders."
+
+    assertion-oberyn-death-manner:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: cause_of_death
+        value: "Skull crushed by Ser Gregor Clegane's armored fist during trial by combat"
+        citations:
+            - citation-asos-oberyn-duel
+        confidence: high
+        status: proven
+        notes: "Text: 'There was a sickening crunch. Ellaria Sand wailed in terror, and Tyrion's breakfast came boiling back up.' Gregor had seized Oberyn when he came too close, wrestled him down, thrust fingers into his eyes, and slammed his armored fist into Oberyn's mouth and skull. Death was effectively instant. Gregor survived but was mortally wounded by the manticore venom Oberyn had coated his spear with."
+
+    assertion-tyrion-condemned:
+        subject:
+            person: person-tyrion-lannister
+        property: legal_outcome
+        value: "Condemned to death after Oberyn's defeat"
+        citations:
+            - citation-asos-oberyn-duel
+        confidence: high
+        status: proven
+        notes: "With his champion defeated and dead, Tyrion was legally condemned. He was sent to the black cells to await execution. He later escaped with Jaime Lannister's help and Varys's orchestration, before killing Tywin Lannister and Shae in his father's chambers. Text: 'He never heard his father speak the words that condemned him. Perhaps no words were necessary.'"
+
+    assertion-lysa-confessed-jon-arryn-murder:
+        subject:
+            person: person-lysa-tully
+        property: confession
+        value: "Confessed to poisoning Jon Arryn with 'tears in his wine' on Littlefinger's instruction, and to writing the false letter blaming the Lannisters"
+        citations:
+            - citation-asos-sansa-eyrie
+        confidence: high
+        status: proven
+        notes: "Lysa confessed to Sansa (and Marillion) while hysterical at the Moon Door: 'I never let them... you told me to put the tears in Jon's wine, and I did. For Robert, and for us! And I wrote Catelyn and told her the Lannisters had killed my lord husband, just as you said.' This is the canonical revelation that the inciting act of the entire series — Jon Arryn's death and Catelyn's suspicion of the Lannisters — was engineered by Petyr Baelish. Text: line ~20019 of asos.txt."
+
+    assertion-lysa-death-littlefinger:
+        subject:
+            person: person-lysa-tully
+        property: cause_of_death
+        value: "Pushed through the Moon Door of the Eyrie by Petyr Baelish"
+        citations:
+            - citation-asos-sansa-eyrie
+        confidence: high
+        status: proven
+        notes: "Text: '\"Only Cat.\" He gave her a short, sharp shove. Lysa stumbled backward, her feet slipping on the wet marble. And then she was gone. She never screamed.' Witnessed by Sansa Stark and Marillion. Littlefinger immediately told arriving guards: 'This singer has killed my lady wife.' His last words to Lysa before shoving her: 'I've only loved one woman, I promise you... Only Cat.'"

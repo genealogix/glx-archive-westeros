@@ -1,0 +1,11 @@
+events:
+    event-death-wendel-manderly:
+        type: death
+        date: "299"
+        place: place-the-twins
+        participants:
+            - person: person-wendel-manderly
+              role: principal
+        properties:
+            cause: "Crossbow quarrel through the mouth at the Red Wedding"
+        notes: "Ser Wendel Manderly, son of Lord Wyman Manderly of White Harbor, was killed at the Red Wedding. He rose to his feet holding a leg of lamb when the massacre began. A crossbow quarrel went in his open mouth and out the back of his neck. Direct text: 'Ser Wendel Manderly rose ponderously to his feet, holding his leg of lamb. A quarrel went in his open mouth and came out the back of his neck. Ser Wendel crashed forward, knocking the table off its trestles.' Source: ASOS Catelyn VII."

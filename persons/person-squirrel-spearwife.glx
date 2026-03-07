@@ -1,0 +1,7 @@
+persons:
+    person-squirrel-spearwife:
+        properties:
+            name:
+                value: "Squirrel"
+            gender: female
+        notes: "One of six spearwives accompanying Mance Rayder (as Abel) to Winterfell. Gets her name from her skill at climbing — her brother took her raiding south of the Wall from age twelve, and she has crossed the Wall six times. During the escape she stays behind in Ramsay's bedchamber in Jeyne Poole's place, having exchanged clothes with her, intending to climb down from the tower window to reach the godswood. Fate unknown. (ADWD, 'Theon')"

@@ -1,0 +1,16 @@
+events:
+    event-jaime-hand-cut-off:
+        type: battle
+        date: "299"
+        place: place-the-riverlands
+        participants:
+            - person: person-jaime-lannister
+              role: victim
+            - person: person-vargo-hoat
+              role: perpetrator
+            - person: person-zollo
+              role: perpetrator
+            - person: person-brienne-tarth
+              role: witness
+        properties:
+            description: "After capturing Jaime Lannister and Brienne of Tarth, Vargo Hoat orders Zollo the fat Dothraki to cut off Jaime's sword hand with his arakh as a message to Lord Tywin. Jaime's identity as one of the greatest swordsmen in Westeros is permanently altered. The severed hand is hung around his neck on a cord."

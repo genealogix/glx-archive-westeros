@@ -1,0 +1,21 @@
+events:
+    event-sack-of-astapor:
+        type: battle
+        date: "299"
+        place: place-astapor
+        participants:
+            - person: person-daenerys-targaryen-206
+              role: commander
+            - person: person-kraznys-mo-nakloz
+              role: victim
+            - person: person-grey-worm
+              role: commander
+            - person: person-jorah-mormont
+              role: advisor
+            - person: person-arstan-whitebeard
+              role: advisor
+            - person: person-missandei
+              role: witness
+        properties:
+            description: "Daenerys reveals she speaks Valyrian, strikes Kraznys with the harpy's fingers whip, and commands 'Dracarys' — Drogon burns Kraznys alive. The Unsullied, now freed by Daenerys, slaughter the Good Masters and soldiers on her command. Daenerys abolishes slavery in Astapor and marches out with her new army."
+            also_known_as: "The Dracarys"

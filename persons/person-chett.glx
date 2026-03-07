@@ -1,0 +1,12 @@
+persons:
+    person-chett:
+        properties:
+            name:
+                value: "Chett"
+                fields:
+                    given: "Chett"
+            gender: male
+            house: "Night's Watch"
+            religion: "Faith of the Seven"
+            cause_of_death: "Killed by wights at the Fist of the First Men (presumed)"
+        notes: "Night's Watch steward, formerly assigned to Maester Aemon's rookery at Castle Black. Born in Hag's Mire to a leech collector. Sent to the Wall for murder of Bessa, a girl who mocked him. Resented Jon Snow for displacing him from his steward post. Ringleader of a planned mutiny at the Fist of the First Men, intending to kill Mormont, Sam Tarly, and several officers and desert south to Craster's Keep. The mutiny was forestalled when three horn blasts — the signal for Others — rang out. Died in the wight attack at the Fist, or perished as a deserter. POV character of the ASOS Prologue."

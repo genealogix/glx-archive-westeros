@@ -1,0 +1,22 @@
+assertions:
+    assertion-jeyne-poole-false-arya:
+        subject:
+            person: person-jeyne-poole
+        property: alias
+        value: "Arya Stark"
+        citations:
+            - citation-adwd-the-prince-of-winterfell
+        confidence: high
+        status: proven
+        notes: "Jeyne Poole is presented to the northern lords as 'Arya Stark, daughter of Eddard Stark' to legitimize Ramsay Bolton's claim to Winterfell. Theon Greyjoy knows the truth — her brown eyes betray her (real Arya has grey eyes). Roose Bolton and Ramsay Bolton both know; Theon is compelled to participate. Lady Dustin has custody of the bride before the wedding. The text explicitly names her as Jeyne multiple times in Theon's internal monologue: 'Jeyne, her name is Jeyne, it rhymes with pain.'"
+
+    assertion-jeyne-poole-identity:
+        subject:
+            person: person-jeyne-poole
+        property: parent
+        value: person-vayon-poole
+        citations:
+            - citation-adwd-the-prince-of-winterfell
+        confidence: high
+        status: proven
+        notes: "Theon Greyjoy's internal monologue confirms that Ramsay's bride is not Arya Stark but 'a steward's whelp.' The arms of House Poole (blue plate on white, grey tressure) are mentioned: 'Those were the arms they should have hung.'"

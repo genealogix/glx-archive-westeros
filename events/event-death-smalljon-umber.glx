@@ -1,0 +1,11 @@
+events:
+    event-death-smalljon-umber:
+        type: death
+        date: "299"
+        place: place-the-twins
+        participants:
+            - person: person-smalljon-umber
+              role: principal
+        properties:
+            cause: "Beheaded by Bolton men at the Red Wedding"
+        notes: "The Smalljon Umber was killed at the Red Wedding. He first overturned a table to shield Robb Stark from crossbow bolts, then bludgeoned Ser Raymund Frey with a leg of mutton. A crossbow bolt brought him to his knees as he reached for his sword. Bolton men in shaggy fur cloaks — who had entered through other doors posing as Northmen — beheaded him with two axe blows. Direct text: 'one of them struck the Smalljon's head off with two huge blows of his axe.' Source: ASOS Catelyn VII."

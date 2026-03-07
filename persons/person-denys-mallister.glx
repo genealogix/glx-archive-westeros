@@ -1,0 +1,18 @@
+persons:
+    person-denys-mallister:
+        properties:
+            name:
+                value: "Denys Mallister"
+                fields:
+                    type: "birth"
+                    given: "Denys"
+                    surname: "Mallister"
+                    prefix: "Ser"
+            gender: "male"
+            title:
+                - value: "Ser"
+                - value: "Commander of the Shadow Tower"
+                  date: "FROM 267"
+            house: "Mallister"
+            religion: "Faith of the Seven"
+        notes: "A knight and commander of the Shadow Tower of the Night's Watch for thirty-three years. Born beneath the Booming Tower of Seagard into House Mallister — 'he looked every inch a Mallister.' Made a squire at twelve, a knight at eighteen, a champion at twenty-two. Twice stood as candidate for Lord Commander of the Night's Watch (against Lord Qorgyle and Lord Mormont) but withdrew gracefully each time. At the election following Mormont's death he stood against Janos Slynt and Cotter Pyke, but was persuaded by Samwell Tarly to withdraw in favor of Jon Snow. Courteous, highborn, and experienced, but Cotter Pyke judged him too old and 'too comfortable sitting in his tower and fussing over maps.' Spoke to Jon at his election: 'Do not make me die regretful. Your uncle was a great man... I shall expect full as much of you.'"

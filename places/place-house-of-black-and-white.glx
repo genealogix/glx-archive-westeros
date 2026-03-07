@@ -1,0 +1,9 @@
+places:
+    place-house-of-black-and-white:
+        name: "The House of Black and White"
+        type: landmark
+        parent: place-braavos
+        properties:
+            also_known_as: "The temple of the Many-Faced God"
+            description: "A temple of the Many-Faced God (the Faceless Men's deity) in Braavos, built on a rocky knoll in the Isle of the Gods district. It has a black tile roof that comes to a sharp peak, steep stone steps leading to a covered dock, and massive carved wooden doors twelve feet high — left door of weirwood (pale as bone), right door of gleaming ebony, with a carved moon face in the center (ebony on weirwood side, weirwood on ebony side). Inside it seems much larger than without. Stone benches, candles burning dimly, alcoves where dying or dead people rest, and many statues of gods from across the known world. In the center is a pool of black water lit by dim red candles, where water can be drunk for the gift of death. Black-and-white robed priests and novices serve here. It is where Arya Stark is accepted as a novice after arriving in Braavos."
+        notes: "Arya arrives at the House of Black and White in AFFC Arya I. The Kindly Man (an elderly Faceless Man) and the Waif (a young girl novice) are its most prominent inhabitants in AFFC. (AFFC Arya I; citation-affc-arya-i)"

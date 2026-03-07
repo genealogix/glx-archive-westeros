@@ -1,0 +1,13 @@
+events:
+    event-death-lucas-blackwood:
+        type: death
+        date: "299"
+        place: place-the-twins
+        participants:
+            - person: person-lucas-blackwood
+              role: principal
+            - person: person-hosteen-frey
+              role: perpetrator
+        properties:
+            cause: "Cut down by Ser Hosteen Frey at the Red Wedding"
+        notes: "Lucas Blackwood of House Blackwood was killed at the Red Wedding by Ser Hosteen Frey. Direct text: 'She saw Lucas Blackwood cut down by Ser Hosteen Frey.' Source: ASOS Catelyn VII."

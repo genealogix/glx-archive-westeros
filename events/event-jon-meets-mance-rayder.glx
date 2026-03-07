@@ -1,0 +1,23 @@
+events:
+    event-jon-meets-mance-rayder:
+        type: trial
+        date: "299"
+        participants:
+            - person: person-jon-snow
+              role: subject
+            - person: person-mance-rayder
+              role: host
+            - person: person-tormund-giantsbane
+              role: witness
+            - person: person-styr-magnar-of-thenn
+              role: witness
+            - person: person-dalla
+              role: witness
+            - person: person-val
+              role: witness
+            - person: person-rattleshirt
+              role: escort
+            - person: person-ygritte
+              role: escort
+        properties:
+            description: "Jon Snow brought before Mance Rayder at his camp on the Milkwater. Mance surprises Jon by revealing he disguised himself as a free rider and attended the feast at Winterfell when King Robert visited. Jon justifies his apparent desertion by claiming resentment at being treated as a bastard. Mance accepts Jon into the wildling host."

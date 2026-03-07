@@ -1,0 +1,13 @@
+persons:
+    person-styr-magnar-of-thenn:
+        properties:
+            name:
+                value: "Styr"
+                fields:
+                    given: "Styr"
+            alias:
+                - value: "Magnar of Thenn"
+            gender: male
+            title:
+                - value: "Magnar of Thenn"
+        notes: "Leader of the Thenns, a wildling people. 'Magnar' means 'lord' in the Old Tongue. Bald, earless man (ears lost to frostbite or an enemy's knife), clean-shaved, with a strong straight nose and deep-set grey eyes. Tall and lean, wore a leather shirt sewn with bronze scales, carried a two-handed greatsword on his back. Angered that Jon Snow had killed Qhorin Halfhand, whom he had wanted to kill himself. Present when Jon Snow was brought before Mance Rayder."

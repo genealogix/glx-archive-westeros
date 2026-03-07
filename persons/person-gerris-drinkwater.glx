@@ -1,0 +1,13 @@
+persons:
+    person-gerris-drinkwater:
+        properties:
+            name:
+                value: "Gerris Drinkwater"
+                fields:
+                    given: "Gerris"
+                    surname: "Drinkwater"
+            gender: male
+            title:
+                - value: "Ser"
+            house: "Drinkwater"
+        notes: "A Dornish knight from House Drinkwater, one of Quentyn Martell's two companions in his mission to woo Daenerys Targaryen. Described as tall, lean, and comely — 'a swordsman's grace and a courtier's wit.' Barristan Selmy notes that 'if this one had been the prince, things might have gone elsewise' but finds him 'false coin.' He argues consistently for abandoning the quest and returning to Dorne. He contacts the Windblown sellsword company on Quentyn's behalf. He and Ser Archibald Yronwood accompany Quentyn to the meeting with the Tattered Prince. (ADWD 'The Discarded Knight,' 'The Spurned Suitor')"

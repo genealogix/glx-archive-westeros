@@ -1,0 +1,8 @@
+citations:
+    citation-asos-arya-hound:
+        source: source-asos
+        properties:
+            locator: "Arya (inn at the crossroads fight, Hound's injuries, Arya departs)"
+            text_from_source: "Needle slipped between his ribs and gave it to him... She chewed her lip. Then she led the horses to the stables, and went in after him... \"You remember where the heart is?\" he asked in a hoarse whisper... When the pale dawn light came filtering through the trees, it was him who woke her with the toe of his boot."
+            accessed: "2026-03-06"
+        notes: "Arya POV chapter at an inn near the ruby ford. Sandor Clegane fights Polliver and the Tickler; Arya kills the Tickler and a squire and recovers Needle from Polliver. The Hound is badly wounded (ear cut off, leg gashed). He falls into fever on the road to Saltpans. Arya decides not to kill him and leaves him dying under a tree. She then reaches Saltpans alone, uses the iron coin to book passage on the Braavosi ship Titan's Daughter, speaking the words 'Valar Morghulis.' Line ~18506-18926 of asos.txt."

@@ -1,0 +1,8 @@
+citations:
+    citation-asos-jaime-iii:
+        source: source-asos
+        properties:
+            locator: "Jaime III"
+            text_from_source: "Sunlight ran silver along the edge of the arakh as it came shivering down, almost too fast to see. And Jaime screamed."
+            accessed: "2026-03-06"
+        notes: "Jaime and Brienne are captured by the Brave Companions (Bloody Mummers) after their fight in the brook. Vargo Hoat orders Zollo the fat Dothraki to cut off Jaime's sword hand as a message to Lord Tywin. End of the chapter."

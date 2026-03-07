@@ -1,0 +1,12 @@
+persons:
+    person-lark-the-sisterman:
+        properties:
+            name:
+                value: "Lark"
+                fields:
+                    given: "Lark"
+            alias:
+                - value: "Lark the Sisterman"
+            gender: male
+            house: "Night's Watch"
+        notes: "Night's Watch brother from the Sisters. Thin man with sharp features and nervous eyes. Conspirator in Chett's planned mutiny at the Fist of the First Men. Planned to sail back to the Sisters after deserting. Present at the Fist when three horn blasts announced the Others."

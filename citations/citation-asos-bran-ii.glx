@@ -1,0 +1,8 @@
+citations:
+    citation-asos-bran-ii:
+        source: source-asos
+        properties:
+            locator: "Bran II"
+            text_from_source: "When they lost their way, as happened once or twice, they need only wait for a clear cold night when the clouds did not intrude, and look up in the sky for the Ice Dragon."
+            accessed: "2026-03-06"
+        notes: "Bran, Hodor, Meera and Jojen Reed travel north through mountain passes toward the Wall, guided by the Ice Dragon constellation. They shelter with a Liddle mountain clansman. Bran identifies northern mountain clans: Wulls, Harclays, Knotts, Liddles, Norreys, Flints."

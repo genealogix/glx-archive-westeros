@@ -1,0 +1,13 @@
+persons:
+    person-donnel-locke:
+        properties:
+            name:
+                value: "Donnel Locke"
+                fields:
+                    given: "Donnel"
+                    surname: "Locke"
+            gender: male
+            house: "Locke"
+            died_on: "299"
+            cause_of_death: "Crossbow bolt at the Red Wedding"
+        notes: "Northern bannerman of House Stark, of House Locke. Killed at the Red Wedding by crossbow fire from the gallery musicians. Source: ASOS Catelyn VII — 'The crossbows took Donnel Locke, Owen Norrey, and half a dozen more.'"

@@ -1,0 +1,8 @@
+citations:
+    citation-asos-catelyn-iv:
+        source: source-asos
+        properties:
+            locator: "Catelyn IV"
+            text_from_source: "They laid Lord Hoster in a slender wooden boat, clad in shining silver armor, plate-and-mail."
+            accessed: "2026-03-06"
+        notes: "Funeral of Lord Hoster Tully at Riverrun. The traditional Tully funeral by water. Catelyn mourns her father. Chapter covers Robb's situation and movements in the Riverlands."

@@ -1,0 +1,8 @@
+citations:
+    citation-asos-jaime-v:
+        source: source-asos
+        properties:
+            locator: "Jaime V"
+            text_from_source: "In the maester's chambers beneath the rookery, a grey-haired, fatherly man named Qyburn sucked in his breath when he cut away the linen from the stump of Jaime's hand."
+            accessed: "2026-03-06"
+        notes: "Qyburn tends Jaime's stump at Harrenhal. Jaime refuses milk of the poppy and refuses amputation of the full arm. Roose Bolton's character is observed. Qyburn reveals his chain was taken by the Citadel."

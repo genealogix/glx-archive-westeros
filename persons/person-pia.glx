@@ -1,0 +1,10 @@
+persons:
+    person-pia:
+        properties:
+            name:
+                value: "Pia"
+                fields:
+                    type: "birth"
+                    given: "Pia"
+            gender: "female"
+        notes: "A serving girl born at Harrenhal, the only home she ever knew. Originally described as 'sweet, simple, giggly.' Gregor Clegane smashed her teeth to splinters and broke her nose when she spoke while he wanted quiet. Her face was disfigured and she was repeatedly raped by the Mountain's garrison. Found as a captive at Harrenhal by Jaime Lannister, who took her with his column to Riverrun rather than leave her with Ser Bonifer's pious garrison. She learned to cover her mouth when she spoke or smiled. Josmyn Peckledon (Peck), Jaime's squire, became fond of her. She served as a washerwoman and helped with laundry for Jaime's column."

@@ -1,0 +1,19 @@
+events:
+    event-wight-attack-fist-first-men:
+        type: battle
+        date: "299"
+        place: place-fist-of-the-first-men
+        participants:
+            - person: person-mormont
+              role: commander
+            - person: person-chett
+              role: victim
+            - person: person-small-paul
+              role: victim
+            - person: person-lark-the-sisterman
+              role: victim
+            - person: person-samwell-tarly
+              role: survivor
+        properties:
+            description: "Wight attack on the Night's Watch ranging camp at the Fist of the First Men. Three horn blasts warned of Others approaching. The Night's Watch suffered catastrophic losses. Survivors fled south. This event ends the ASOS Prologue chapter."
+            also_known_as: "The disaster at the Fist"

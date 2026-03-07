@@ -1,0 +1,15 @@
+persons:
+    person-lady-stoneheart:
+        properties:
+            name:
+                value: "Lady Stoneheart"
+                fields:
+                    type: "alias"
+            alias:
+                - value: "Lady Stoneheart"
+                - value: "Mother Merciless"
+                - value: "The Silent Sister"
+                - value: "The Hangwoman"
+            gender: "female"
+            cause_of_death: "Throat cut at Red Wedding, then resurrected by Beric Dondarrion"
+        notes: "The reanimated corpse of Catelyn Tully Stark, resurrected three days after the Red Wedding when Beric Dondarrion gave her the kiss of life, spending his own remaining life force to do so. Unlike Beric, who retained his personality through multiple resurrections, Catelyn rose consumed only by grief and vengeance. She cannot speak above a croak due to her slashed throat. She wears grey, keeps her hood low, and is described as having dry brittle white hair, mottled green and grey skin with patches of decay, and ragged strips of flesh from her eyes to jaw. She leads the Brotherhood Without Banners (now a hanging party more than a rebel band), executing Freys, Lannisters, and anyone she deems guilty. She sentenced Brienne of Tarth to hang for carrying a Lannister sword and a royal letter. She was offered Beric Dondarrion's remaining life force and arose as a being of pure vengeance. This entity should be cross-referenced with person-catelyn-stark."

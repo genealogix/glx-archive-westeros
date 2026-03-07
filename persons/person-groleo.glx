@@ -1,0 +1,12 @@
+persons:
+    person-groleo:
+        properties:
+            name:
+                value: "Groleo"
+                fields:
+                    given: "Groleo"
+            gender: male
+            title:
+                - value: "Admiral"
+            cause_of_death: "Execution — beheaded by Yunkai"
+        notes: "Admiral, one of the Pentoshi sailors who accompanied Daenerys Targaryen from Pentos. He is one of the seven Meereenese hostages given to Yunkai as part of the peace accords. He was executed by the Yunkai masters as reprisal for the death of Yurkhaz zo Yunzak (killed in a crush at Daznak's Pit during Drogon's attack). Bloodbeard throws his severed head into Hizdahr zo Loraq's court. Barristan notes he had a wife, children, and grandchildren in Pentos and 'all he ever wanted was to go home.' (ADWD 'The Discarded Knight')"

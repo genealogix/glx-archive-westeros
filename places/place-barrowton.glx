@@ -1,0 +1,9 @@
+places:
+    place-barrowton:
+        name: "Barrowton"
+        type: town
+        parent: place-the-north
+        properties:
+            seat_of: "House Dustin"
+            also_known_as: "Barrow Hall (the castle within)"
+        notes: "A wooden-walled town in the barrowlands of the North, seat of House Dustin. Commanded by Lady Barbrey Dustin. Contains Barrow Hall (the castle) and Harwood Stout's modest keep. At the center stands the Great Barrow — a massive earthen mound claimed to be the grave of the First King who led the First Men to Westeros. Roose Bolton and his host gathered here before marching to Winterfell for Ramsay's wedding. Wyman Manderly's litter also arrived from White Harbor. (ADWD 'Reek II')"

@@ -1,0 +1,22 @@
+assertions:
+    assertion-lancel-cersei-affair:
+        subject:
+            person: person-cersei-lannister
+        property: secret_lover
+        value: person-lancel-lannister
+        citations:
+            - citation-affc-jaime-iii
+        confidence: high
+        status: proven
+        notes: "Lancel confessed directly to Jaime at Darry Castle: 'I gave her comfort, after the king died. You were a captive, your father was in the field...She was afraid...I loved her. I wanted to protect her.' He admitted to sleeping with Cersei after Robert's death, though he claimed never to have 'finished inside' her womb. He also tacitly confessed to helping poison King Robert: 'We are both kingslayers, ser. The brave man slays with a sword, the craven with a wineskin.' Lancel subsequently confessed these sins to the old High Septon, whose murder Cersei then arranged — contributing to her eventual downfall."
+
+    assertion-lancel-poisoned-robert:
+        subject:
+            person: person-robert-baratheon
+        property: cause_of_death
+        value: "Poisoned wine, arranged by Cersei via Lancel (in addition to being gored by boar)"
+        citations:
+            - citation-affc-jaime-iii
+        confidence: high
+        status: proven
+        notes: "Lancel's confession at Darry implied complicity in Robert's death. He told Jaime: 'We are both kingslayers, ser. The brave man slays with a sword, the craven with a wineskin.' Lancel served Robert wine as his squire on the boar hunt. Robert was already mortally wounded by the boar, but the wine Lancel kept refilling was likely doctored at Cersei's direction to ensure he would not survive."

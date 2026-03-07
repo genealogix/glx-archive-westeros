@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-kill-list-affc-arya-i:
+        subject:
+            person: person-arya-stark
+        property: kill_list
+        value: "Ser Gregor Clegane, Dunsen, Raff the Sweetling, Ser Ilyn Payne, Ser Meryn Trant, Queen Cersei"
+        citations:
+            - citation-affc-arya-i
+        confidence: high
+        status: proven
+        notes: "Arya's kill list as stated in her AFFC chapter I, aboard the Titan's Daughter approaching Braavos. Previously removed: Joffrey (dead at Purple Wedding), Polliver (slain by Sandor Clegane), the Tickler (stabbed by Arya at Saltpans), and a stupid squire with a pimple (stabbed when he grabbed her). The Hound was dying of fever from his wound when she left him at the Trident — she did not give him the 'gift of mercy.' This gives us a precise snapshot of Arya's enemies list at the start of AFFC."

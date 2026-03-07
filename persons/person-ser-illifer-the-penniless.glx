@@ -1,0 +1,13 @@
+persons:
+    person-ser-illifer-the-penniless:
+        properties:
+            name:
+                value: "Illifer the Penniless"
+                fields:
+                    given: "Illifer"
+            gender: "male"
+            title:
+                - value: "Ser"
+            alias:
+                - value: "Ser Illifer the Penniless"
+        notes: "A hedge knight encountered by Brienne on the road to Duskendale, traveling with Ser Creighton Longbough. He is old (about sixty), his face pinched and narrow beneath a patched roughspun mantle. He wears rusty mail. He bears arms of gold and ermine gyronny (only painted gold and painted ermine, suggesting poverty). He identifies the shield Jaime gave Brienne as belonging to the cursed House Lothston (last of whom were killed by his grandfather's grandfather). He accuses Brienne of killing Renly Baratheon and calls her 'the Maid of Tarth who opened Renly's royal throat.' He carries an ugly iron dagger. He is won over when Brienne swears her innocence by all Seven. (AFFC Brienne I)"

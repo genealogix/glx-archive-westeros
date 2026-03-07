@@ -1,0 +1,8 @@
+citations:
+    citation-affc-brienne-vii:
+        source: source-affc
+        properties:
+            locator: "Brienne VII"
+            text_from_source: "The septry stood upon an upthrust island half a mile from the shore, where the wide mouth of the Trident widened further still to kiss the Bay of Crabs."
+            accessed: "2026-03-06"
+        notes: "Brienne arrives at the Quiet Isle with Podrick Payne and Ser Hyle Hunt. She meets the Elder Brother, who reveals that Sandor Clegane is dead and the Hound's helm was stolen by Rorge."

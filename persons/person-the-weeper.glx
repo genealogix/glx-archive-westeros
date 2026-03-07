@@ -1,0 +1,9 @@
+persons:
+    person-the-weeper:
+        properties:
+            name:
+                value: "The Weeper"
+            alias:
+                - value: "The Weeper"
+            gender: male
+        notes: "Wildling raider, known enemy of the Night's Watch. Led Mance Rayder's outriders on the Milkwater. Fleshy blond man with watery eyes (the source of his name). Carried a great curved scythe of sharpened steel. Encountered Jon Snow when Rattleshirt brought him to Mance's camp. Like Rattleshirt and Harma Dogshead, a known named raider with a fearsome reputation at the Wall."

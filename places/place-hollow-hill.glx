@@ -1,0 +1,9 @@
+places:
+    place-hollow-hill:
+        name: "The Hollow Hill"
+        type: landmark
+        parent: place-the-riverlands
+        properties:
+            also_known_as: "The Knights of the Hollow Hill"
+            description: "A hidden cave beneath a hill in the Riverlands, used as a stronghold by the Brotherhood Without Banners. A huge firepit burns at its center. The walls are stone and soil threaded with the white roots of weirwood trees. Tunnels branch in many directions, providing refuge. Neither wolves nor lions can find it."
+        notes: "Headquarters of the Brotherhood Without Banners. First appears ASOS Arya VI when Arya and Gendry are brought there hooded."

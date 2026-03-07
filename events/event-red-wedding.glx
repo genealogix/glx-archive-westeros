@@ -4,21 +4,57 @@ events:
         date: "299"
         place: place-the-twins
         participants:
+            # Subjects of the wedding (bride and groom)
             - person: person-edmure-tully
               role: subject
             - person: person-roslin-frey
               role: subject
+            # Victims of the massacre
             - person: person-robb-stark
               role: victim
             - person: person-catelyn-tully
               role: victim
+            - person: person-dacey-mormont
+              role: victim
+            - person: person-wendel-manderly
+              role: victim
+            - person: person-greatjon-umber
+              role: captive
+            - person: person-smalljon-umber
+              role: victim
+            - person: person-robin-flint
+              role: victim
+            - person: person-donnel-locke
+              role: victim
+            - person: person-owen-norrey
+              role: victim
+            - person: person-aegon-frey-jinglebell
+              role: victim
+            # Conspirators and perpetrators — Frey side
             - person: person-walder-frey
               role: host
             - person: person-lothar-frey
               role: principal
-            - person: person-dacey-mormont
-              role: victim
+            - person: person-ryman-frey
+              role: perpetrator
+            - person: person-hosteen-frey
+              role: perpetrator
+            - person: person-edwyn-frey
+              role: perpetrator
+            - person: person-walder-frey-black-walder
+              role: perpetrator
+            - person: person-walder-rivers
+              role: perpetrator
+            - person: person-benfrey-frey
+              role: perpetrator
+            - person: person-merrett-frey
+              role: witness
+            # Conspirator — Bolton side
+            - person: person-roose-bolton
+              role: perpetrator
         properties:
             description: "The wedding of Edmure Tully and Roslin Frey at the Twins, which became a massacre of the Stark-Tully forces orchestrated by Lord Walder Frey and Lord Roose Bolton, in conspiracy with Lord Tywin Lannister."
             also_known_as: "The Red Wedding"
-        notes: "A violation of guest right. Robb Stark, Catelyn Stark, and many of their bannermen and soldiers were slaughtered during the wedding feast. Key deaths include Robb Stark, Catelyn Stark, Dacey Mormont, Smalljon Umber, Wendel Manderly, and Grey Wind (Robb's direwolf)."
+            signal: "The playing of 'The Rains of Castamere' by the musicians in the gallery served as the signal for the massacre to begin."
+            sequence_of_events: "1. Wedding feast held in the great hall of the Twins. Grey Wind penned outside at Lord Walder's insistence. 2. Edmure and Roslin bedded — guests escort bride and groom from hall. 3. Lord Walder claps; musicians stop. Doors close. 4. Musicians in gallery produce crossbows. 'The Rains of Castamere' begins to play. 5. Catelyn notices Edwyn Frey wearing concealed mail under his silk sleeve. 6. Crossbow bolts fired at Robb and his guards. Smalljon Umber overturns a table as shield. Robin Flint ringed by Freys with daggers. Wendel Manderly killed by a quarrel through the mouth. Lucas Blackwood cut down by Ser Hosteen Frey. Dacey Mormont smashes a flagon into Benfrey Frey's face but is axed by Ser Ryman in the doorway. 7. Bolton men in shaggy fur cloaks pour in through other doors — Smalljon Umber is beheaded. 8. Roose Bolton stabs Robb through the heart saying 'Jaime Lannister sends his regards.' 9. Catelyn seizes Jinglebell as hostage, demands Robb's freedom. Lord Walder refuses. Catelyn kills Jinglebell. 10. Catelyn's throat is cut. 11. Catelyn's body thrown naked into the river. Robb's body desecrated — Grey Wind's head sewn onto his corpse, a crown nailed about his ears ('The King in the North arises')."
+        notes: "A catastrophic violation of guest right. The massacre was planned in advance: key Frey loyalists (Olyvar, Perwyn, Alesander) were absent; Roslin wept at her own wedding knowing what was coming; musicians were replaced with crossbowmen; Edwyn Frey wore concealed mail. Robb Stark, Catelyn Stark, and the bulk of the Stark host were slaughtered. Walder Frey gloated on his throne throughout. Catelyn's last act was to kill Aegon Frey (Jinglebell) before her own throat was cut. Source: ASOS Catelyn VII. Arya witnessed the massacre from outside (ASOS Arya XIII). Tyrion received the news via Frey raven (ASOS Tyrion XI). Salladhor Saan reported the desecration of Robb's body in King's Landing (ASOS Davos IV)."

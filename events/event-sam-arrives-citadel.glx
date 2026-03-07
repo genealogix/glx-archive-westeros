@@ -1,0 +1,16 @@
+events:
+    event-sam-arrives-citadel:
+        type: coronation
+        date: "300"
+        place: place-oldtown
+        participants:
+            - person: person-samwell-tarly
+              role: subject
+            - person: person-archmaester-marwyn
+              role: host
+            - person: person-alleras-the-sphinx
+              role: witness
+        properties:
+            description: "Sam Tarly arrived at the Citadel in Oldtown aboard the Cinnamon Wind. He was intercepted by Alleras ('the Sphinx,' believed by many readers to be Sarella Sand in disguise) before he could reach the Seneschal. Alleras brought him to Archmaester Marwyn ('the Mage'), who lit a glass candle (Valyrian dragonglass artifact) and revealed he already knew of Sam's coming. Marwyn declared that the Citadel's mainstream had suppressed magic and dragons for generations, and announced he would sail immediately for Slaver's Bay to counsel Daenerys. Sam was assigned to stay, forge his maester's chain, and help tend the ravens. He met 'Pate' — widely interpreted as Jaqen H'ghar wearing the dead Pate's face from the AFFC prologue."
+        citations:
+            - citation-affc-samwell-iv

@@ -1,0 +1,11 @@
+persons:
+    person-zollo:
+        properties:
+            name:
+                value: "Zollo"
+                fields:
+                    given: "Zollo"
+            gender: male
+            alias:
+                - value: "Zollo the Fat"
+        notes: "A fat Dothraki sellsword in Vargo Hoat's Brave Companions (Bloody Mummers). Wields a huge curved arakh. He is the one who cuts off Jaime Lannister's sword hand on Vargo Hoat's order (ASOS Jaime III)."

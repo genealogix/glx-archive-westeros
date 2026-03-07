@@ -1,0 +1,25 @@
+assertions:
+    assertion-north-remembers-manderly-loyalty:
+        subject:
+            person: person-wyman-manderly
+        property: allegiance
+        value: "House Stark"
+        citations:
+            - citation-adwd-the-prince-of-winterfell
+            - citation-adwd-the-turncloak
+            - citation-adwd-theon
+        confidence: high
+        status: proven
+        notes: "Wyman Manderly's outward submission to the Boltons conceals secret loyalty to House Stark. Evidence: (1) Lady Dustin tells Theon that Manderly wants to kill them all but 'does not have the belly for it' — ironic, since he does have the belly for the murder of the three Freys (whose pies he serves). (2) Big Walder told Theon that Jared, Rhaegar, and Symond Frey never reached Barrowton after leaving White Harbor — 'Lord Wyman had them killed. That's what I would have done if I was him.' (3) Manderly calls drunkenly for 'a song about the Rat Cook' — a reference to the story of a cook who murdered a king's son and baked him in a pie, punished not for the murder but for violating guest right. (4) The three wedding pies are made from the three missing Freys. The chapter 'A Ghost in Winterfell' later confirms 'The north remembers, Frey' (Lady Dustin's line, and Manderly's hidden allegiance)."
+
+    assertion-frey-pie-incident:
+        subject:
+            event: event-ramsay-bolton-wedding-winterfell
+        property: description
+        value: "The three wedding pies served by Wyman Manderly contain the flesh of the three missing Freys (Jared, Rhaegar, and Symond)."
+        citations:
+            - citation-adwd-the-prince-of-winterfell
+            - citation-adwd-theon
+        confidence: medium
+        status: speculative
+        notes: "Strongly implied but not confirmed in the text of this chunk. Evidence: Big Walder states Manderly had the Freys killed. Manderly serves three pies personally and eats six slices, 'smacking his lips.' He later calls for 'a song about the Rat Cook.' Ramsay uses his falchion to hack slices; Manderly presents the first servings to Roose Bolton and the Freys. However, the text does not explicitly state the pies contain human flesh — this is the canonical fan reading, later confirmed by context in subsequent chapters."

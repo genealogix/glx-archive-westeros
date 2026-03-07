@@ -1,0 +1,15 @@
+events:
+    event-arya-leaves-hound:
+        type: separation
+        date: "300"
+        place: place-the-riverlands
+        participants:
+            - person: person-arya-stark
+              role: subject
+            - person: person-sandor-clegane
+              role: subject
+        properties:
+            description: "After the fight at the inn near the ruby ford, Sandor Clegane was badly wounded — his ear sliced off, his thigh gashed, and his face cut. He fell into fever on the road to Saltpans. Arya nursed his wounds with boiling wine and bandages cut from a squire's cloak, but when Sandor's fever worsened she considered killing him as a mercy. He challenged her: 'You remember where the heart is?' She stood with Needle drawn but could not do it. She recovered Needle from Polliver's body at the inn, and left the Hound dying under a tree. She rode on alone to Saltpans, found a Braavosi ship (the Titan's Daughter), presented the iron coin given to her by Jaqen H'ghar, and said the words 'Valar Morghulis.' The Braavosi captain agreed to take her to Braavos."
+            arya_coin: "The iron coin from the House of Black and White — given to Arya by Jaqen H'ghar. When shown to the Braavosi captain with the words 'Valar Morghulis,' he responded 'Valar dohaeris' and immediately offered her passage to Braavos."
+            sandor_prayer: "Sandor asked Arya for 'the gift of mercy' and urged her to 'avenge your little Michael' — confessing to killing Mycah the butcher's boy and to failing Sansa. Arya did not grant him the mercy kill."
+        notes: "Arya's kill list at this point included: Ser Gregor the Mountain, Dunsen, Raff the Sweetling, Ser Ilyn Payne, Ser Meryn Trant, Queen Cersei. She had crossed off Polliver and the Tickler in the inn fight. Joffrey was already dead. The Hound's name she left off her list without knowing why. Arya killing the squire at the inn and the Tickler are notable — she recited the Tickler's interrogation questions as she stabbed him repeatedly."

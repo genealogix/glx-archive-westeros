@@ -1,0 +1,13 @@
+persons:
+    person-kraznys-mo-nakloz:
+        properties:
+            name:
+                value: "Kraznys mo Nakloz"
+                fields:
+                    given: "Kraznys"
+                    surname: "mo Nakloz"
+            gender: male
+            title:
+                - value: "Good Master"
+            religion: "Beliefs of Old Ghis"
+        notes: "Good Master of Astapor, one of the slave masters of the city. Sold and trained the Unsullied. Plump man with a jutting red-black beard glistened with oil, who wore sea-green silk tokars with gold fringe. Smelled of raspberries. Spoke the Ghiscari-accented High Valyrian of Astapor. Habitually cruel and contemptuous of Westerosi. Used a short leather whip as a signaling tool. Later killed by Daenerys when she unleashed her dragons and the Unsullied on Astapor's slavers."

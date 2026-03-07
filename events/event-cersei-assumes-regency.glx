@@ -1,0 +1,11 @@
+events:
+    event-cersei-assumes-regency:
+        type: coronation
+        date: "300"
+        place: place-kings-landing
+        participants:
+            - person: person-cersei-lannister
+              role: subject
+        properties:
+            description: "Following Tywin Lannister's murder, Cersei Lannister assumes the regency for her son King Tommen I. She refuses to yield the regency to her uncle Kevan Lannister (who demands she return to Casterly Rock) and Kevan departs. She appoints Lord Gyles Rosby as master of coin (denying Mace Tyrell's attempt to place his uncle Garth), appoints Qyburn to replace Pycelle in secret investigations, gives Qyburn custody of the dying Gregor Clegane for experiments, and begins building her own small council. She sends ravens promising lordship to whoever brings her Tyrion's head."
+        notes: "AFFC Cersei I and II. Cersei's paranoid rule is a central thread of the novel, culminating in her arrest by the Faith in Cersei X. Her key errors in these chapters: refusing Kevan's counsel, appointing weak men, alienating the Tyrells, and relying on Qyburn and the Kettleblacks. (AFFC Cersei I-II, citation-affc-cersei-i, citation-affc-cersei-ii)"

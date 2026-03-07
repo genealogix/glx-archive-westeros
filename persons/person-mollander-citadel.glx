@@ -1,0 +1,9 @@
+persons:
+    person-mollander-citadel:
+        properties:
+            name:
+                value: "Mollander"
+                fields:
+                    given: "Mollander"
+            gender: "male"
+        notes: "A pink-necked novice at the Citadel in Oldtown. A knight's son who drags a clubfoot. He would have been a knight himself but for the disability — he has the strength for it in his thick arms and broad shoulders. His father died in the Battle of the Blackwater. He is called 'Hopfrog' mockingly by Lazy Leo. He is stubborn and becomes more so when drunk. He believes in the sailors' reports of Daenerys's dragons and argues for them against Armen the Acolyte. He appears in the Prologue with Pate, Alleras, Armen, and Roone. (AFFC Prologue)"

@@ -1,0 +1,15 @@
+persons:
+    person-andrey-dalt-drey:
+        properties:
+            name:
+                value: "Andrey Dalt"
+                fields:
+                    given: "Andrey"
+                    surname: "Dalt"
+            gender: "male"
+            title:
+                - value: "Ser"
+            alias:
+                - value: "Drey"
+            house: "Dalt"
+        notes: "Ser Andrey Dalt, called Drey, the heir to Lemonwood in Dorne. He is one of Princess Arianne Martell's closest friends (one of her 'dearest friends'). He has an open face and an easy smile. He self-deprecatingly describes his valor as 'second to several, actually.' He participates in Arianne's plot to crown Myrcella Baratheon as queen, meeting at Shandystone and riding with the party. He is a knight. (AFFC The Queenmaker I)"

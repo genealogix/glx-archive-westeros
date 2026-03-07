@@ -1,0 +1,22 @@
+assertions:
+    assertion-roose-bolton-harrenhal-command:
+        subject:
+            person: person-roose-bolton
+        property: role
+        value: "Roose Bolton holds Harrenhal as commander of Robb Stark's forces in the Riverlands, 299 AC"
+        citations:
+            - citation-asos-jaime-iv
+        confidence: high
+        status: proven
+        notes: "When Jaime arrives at Harrenhal, Roose Bolton is clearly the lord in effective command with Frey bannermen present. Bolton says of the Brave Companions: 'Pray recall, my lord, you are not master of Harrenhal till I march north.' His pale eyes and cold manner are described: 'Pale as morning mist, his eyes concealed more than they told.' His tacit awareness of Cersei and Jaime's relationship is signaled by his pause before saying 'nephew.'"
+
+    assertion-roose-bolton-treachery-signs:
+        subject:
+            person: person-roose-bolton
+        property: allegiance
+        value: "Signs of Roose Bolton's divided loyalty and approaching treachery are apparent at Harrenhal"
+        citations:
+            - citation-asos-jaime-iv
+        confidence: medium
+        status: speculative
+        notes: "Roose informs Jaime that Joffrey's betrothal to Sansa is broken (post-Blackwater), volunteers news of Tywin's position, and seems unusually forthcoming with Lannister intelligence. His pause before 'nephew' suggests he knows the truth of Joffrey's parentage. Arya's earlier chapters note that Bolton stabled goats in Littlefinger's hall. His protection of Jaime (against Hoat's plan to ransom him piecemeal) sets up the eventual revelation of his conspiracy with Tywin."

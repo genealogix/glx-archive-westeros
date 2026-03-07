@@ -1,0 +1,22 @@
+assertions:
+    assertion-three-horn-blasts-others:
+        subject:
+            event: event-wight-attack-fist-first-men
+        property: description
+        value: "Three horn blasts at the Fist of the First Men signaled the approach of Others (White Walkers)"
+        citations:
+            - citation-asos-prologue
+        confidence: high
+        status: proven
+        notes: "Text from Sam's dialogue: 'Three... that was three, I heard three. They never blow three. Not for hundreds and thousands of years. Three means — Others.' The single blast means brothers returning; two blasts means foes (wildlings); three blasts means Others. This established the Night's Watch horn code."
+
+    assertion-wight-attack-fist-scale:
+        subject:
+            event: event-wight-attack-fist-first-men
+        property: participants
+        value: "Three hundred Night's Watch brothers at the Fist"
+        citations:
+            - citation-asos-prologue
+        confidence: high
+        status: proven
+        notes: "Text: 'Three hundred sworn brothers of the Night's Watch had ridden north, two hundred from Castle Black and another hundred from the Shadow Tower. It was the biggest ranging in living memory, near a third of the Watch\'s strength.'"

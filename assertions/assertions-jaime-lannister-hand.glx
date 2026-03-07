@@ -1,0 +1,33 @@
+assertions:
+    assertion-jaime-hand-cut-off:
+        subject:
+            person: person-jaime-lannister
+        property: cause_of_injury
+        value: "Right hand severed by Zollo the Fat Dothraki on Vargo Hoat's order"
+        citations:
+            - citation-asos-jaime-iii
+        confidence: high
+        status: proven
+        notes: "The text is explicit: 'Sunlight ran silver along the edge of the arakh as it came shivering down, almost too fast to see. And Jaime screamed.' Zollo is confirmed as the cutter in subsequent chapters. The hand is hung around Jaime's neck on a cord by Urswyck."
+
+    assertion-jaime-hand-identity-crisis:
+        subject:
+            person: person-jaime-lannister
+        property: character
+        value: "Jaime's entire identity as the greatest swordsman in Westeros collapses with the loss of his right hand"
+        citations:
+            - citation-asos-jaime-iv
+        confidence: high
+        status: proven
+        notes: "Jaime's internal monologue after losing his hand: 'They took my sword hand. Was that all I was, a sword hand? Gods be good, is it true?' His demoralization is total. Brienne's challenge ('Are you so craven?') is the thing that prevents him from letting himself die. This begins the most significant character arc in the novel — Jaime reconsidering who he is without his sword."
+
+    assertion-jaime-qyburn-treatment:
+        subject:
+            person: person-jaime-lannister
+        property: medical_treatment
+        value: "Qyburn cleaned and saved the stump at Harrenhal, refusing to amputate the arm"
+        citations:
+            - citation-asos-jaime-v
+        confidence: high
+        status: proven
+        notes: "Qyburn pared away necrotic flesh and poured boiling wine on the wound. Jaime refused milk of the poppy and threatened Qyburn's life if he amputated. Qyburn was a former maester stripped of his chain by the Citadel."

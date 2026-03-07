@@ -1,0 +1,11 @@
+assertions:
+    assertion-greatjon-captured-red-wedding:
+        subject:
+            person: person-greatjon-umber
+        property: role_in_red_wedding
+        value: "Captured (not killed) at the Red Wedding"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "The Greatjon was roaringly drunk at the feast — 'already roaring drunk,' drinking cup for cup with Merrett Frey. He was singing loudly ('The Bear and the Maiden Fair') during the feast. He survived the massacre but was taken captive by the Freys. He was not killed because he was too valuable a hostage. The text in Catelyn VII mentions his drunken behavior at the feast; his capture rather than death is referenced in later chapters (AFFC). His son the Smalljon was beheaded during the massacre."

@@ -1,0 +1,12 @@
+events:
+    event-pate-acolyte-killed-citadel:
+        type: death
+        date: "300"
+        place: place-oldtown
+        participants:
+            - person: person-pate-acolyte-oldtown
+              role: subject
+        properties:
+            description: "The novice Pate at the Citadel in Oldtown sells the iron master-key of the Citadel to a mysterious stranger calling himself 'the alchemist,' in exchange for a golden dragon coin. The moment Pate takes the coin, he collapses and dies — killed by poison in the coin or by some other sorcery. The alchemist is strongly implied to be Jaqen H'ghar (last seen changing his face at the end of ACOK Arya chapters) or another Faceless Man, sent by someone to steal the key and gain access to the Citadel's vaults. The prologue ends with Pate dying on the cobblestones of Oldtown."
+            cause_of_death: "Poison (coin-delivered) or sorcery"
+        notes: "The AFFC Prologue event. Establishes the Faceless Man presence at the Citadel. The stolen key likely grants access to whatever the Faceless Man was sent to find or do at the Citadel — possibly related to the glass candles, the archmaesters, or knowledge of the Others. (AFFC Prologue, citation-affc-prologue)"

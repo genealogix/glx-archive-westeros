@@ -1,0 +1,11 @@
+assertions:
+    assertion-jeyne-westerling-not-pregnant:
+        subject:
+            person: person-jeyne-westerling
+        property: status
+        value: "Not pregnant with Robb Stark's child at time of Riverrun's fall"
+        citations:
+            - citation-affc-jaime-ix
+        confidence: high
+        status: proven
+        notes: "Lady Sybell Westerling confirmed to Jaime: 'She is not [pregnant]. I made certain of that, as your lord father bid me.' This reveals that Tywin Lannister had arranged with Lady Sybell (a Spicer by birth, with a witch-woman grandmother from the east) to ensure Jeyne would not conceive Robb's heir. Whether this was done via moon tea, potions, or some other means is not specified. Jeyne herself appeared ignorant of this, weeping at the loss of her 'little crown.' The absence of a Stark heir made Edmure Tully's eventual son (by Roslin Frey) the only Tully heir. Jaime required Jeyne to wait two years before remarrying, to prevent any future child being falsely attributed to Robb."

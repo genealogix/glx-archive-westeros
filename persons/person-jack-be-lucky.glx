@@ -1,0 +1,12 @@
+persons:
+    person-jack-be-lucky:
+        properties:
+            name:
+                value: "Jack"
+                fields:
+                    given: "Jack"
+            gender: male
+            alias:
+                - value: "Jack-Be-Lucky"
+                - value: "One-eyed Jack"
+        notes: "A one-eyed member of the Brotherhood Without Banners. Despite his name, has chronic bad luck at dice. His father was hanged by Lord Piper's bailiff; one brother sent to the Wall; his other brothers killed by Lannisters. Lost his eye before joining the Brotherhood. First appears ASOS Arya IV."

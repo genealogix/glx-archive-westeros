@@ -1,0 +1,7 @@
+persons:
+    person-willow-witch-eye:
+        properties:
+            name:
+                value: "Willow Witch-Eye"
+            gender: female
+        notes: "One of six spearwives accompanying Mance Rayder (as Abel) to Winterfell. Known by the epithet 'Witch-Eye'; described as having a long black braid. She accompanies Rowan back to the Great Hall during the escape to find Abel, leaving Theon and Jeyne with only Holly and Frenya. (ADWD, 'Theon')"

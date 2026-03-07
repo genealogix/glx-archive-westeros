@@ -1,0 +1,13 @@
+events:
+    event-kingsmoot-called-by-aeron:
+        type: announcement
+        date: "300"
+        place: place-great-wyk
+        participants:
+            - person: person-aeron-greyjoy
+              role: subject
+            - person: person-meldred-merlyn
+              role: witness
+        properties:
+            description: "Aeron Damphair, standing on a rock above the beach at Pebbleton on Great Wyk, calls for a Kingsmoot on Old Wyk to choose the next King of the Iron Islands. This is the first kingsmoot called in four thousand years (per Haereg's History of the Ironborn). Aeron rejects Euron's claim by right of being eldest surviving brother, arguing that no godless man may sit the Seastone Chair. Lord Meldred Merlyn is present and spreads the word. The kingsmoot will take place at Nagga's Hill, the site of the bones of Nagga and the Grey King's Hall."
+        notes: "Called in AFFC The Prophet I. The decision is made after Aeron's prayer in the sea convinces him that neither Euron, Victarion, nor Asha should be acclaimed by acclamation — the Drowned God must choose through the ancient rite. (AFFC The Prophet I, citation-affc-the-prophet-i)"

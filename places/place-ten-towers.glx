@@ -1,0 +1,9 @@
+places:
+    place-ten-towers:
+        name: "Ten Towers"
+        type: castle
+        parent: place-harlaw
+        properties:
+            seat_of: "House Harlaw (Lord of Harlaw)"
+            description: "The castle of Lord Rodrik Harlaw on the island of Harlaw, one of the Iron Islands. It is the newest castle on the islands, built by Lord Theomore Harlaw (Rodrik's grandfather's grandfather) who lost three sons to the damp of ancient Harlaw Hall. It has ten towers of varying shape — the fattest is the Book Tower, octagonal, built with hewn stone and a stair inside the walls. The castle is airier and more comfortable than ancient Harlaw Hall. It sits on a spit above the sea, with a Long Stone Quay below. Asha Greyjoy spent happy childhood times here."
+        notes: "Asha comes to Ten Towers in AFFC The Kraken's Daughter to consult Rodrik Harlaw before the Kingsmoot. Lady Alannys (Asha's mother) and Lady Gwynesse (Rodrik's elder widowed sister) also reside here. (AFFC The Kraken's Daughter I)"

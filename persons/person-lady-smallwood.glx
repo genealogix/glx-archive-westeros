@@ -1,0 +1,9 @@
+persons:
+    person-lady-smallwood:
+        properties:
+            name:
+                value: "Lady Smallwood"
+                fields:
+                    surname: "Smallwood"
+            gender: female
+        notes: "Lady of Acorn Hall in the Riverlands. Her husband is away at war in service of Lord Vance. An old acquaintance (and rumored former lover) of Tom Sevenstrings. She houses the Brotherhood Without Banners and criticizes them for involving Arya in the war. She has a daughter named Carellen sent to a motherhouse in Oldtown. First appears ASOS Arya IV."

@@ -1,0 +1,10 @@
+places:
+    place-water-gardens:
+        name: "The Water Gardens"
+        type: castle
+        parent: place-dorne
+        properties:
+            seat_of: "House Martell (retreat)"
+            also_known_as: "The Water Gardens of Dorne"
+            description: "A pleasure palace of pink marble three leagues west of Sunspear along the coast road. It stands beside the sea and features tiled courtyards, pools and fountains where children play. Prince Doran Martell retreated here for several years before Oberyn's death. Children of all stations — including sons and daughters of great lords and wealthy merchants — play together in the pools; this was intentional policy by a past Martell prince. The air smells of lemons and blood oranges, and blood orange trees line the terraces. The sea breeze is always cool. It is made of pale pink marble. It was originally built as a place of peace and integration between Dorne's peoples."
+        notes: "Doran Martell's primary residence during AFFC until Oberyn's death forces him to return to Sunspear. The Captain of Guards chapter of AFFC opens here. (AFFC The Captain of Guards I)"

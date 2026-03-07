@@ -1,0 +1,23 @@
+assertions:
+    assertion-catelyn-stark-resurrection:
+        subject:
+            person: person-catelyn-tully
+        property: status
+        value: "Reanimated as Lady Stoneheart by Beric Dondarrion's kiss of life"
+        citations:
+            - citation-affc-brienne-viii
+            - citation-asos-catelyn-iii
+        confidence: high
+        status: proven
+        notes: "Thoros of Myr confirmed to Brienne: 'The Freys slashed her throat from ear to ear. When we found her by the river she was three days dead. Harwin begged me to give her the kiss of life, but it had been too long. I would not do it, so Lord Beric put his lips to hers instead, and the flame of life passed from him to her. And...she rose. May the Lord of Light protect us. She rose.' Unlike Beric, who retained his personality through multiple resurrections, Catelyn rose as Lady Stoneheart — a being of pure grief and vengeance with a slashed throat that only allows her to croak, dry-brittle white hair, and decayed skin. Beric's final death extinguished his consciousness permanently; Lady Stoneheart inherited the Brotherhood Without Banners from him."
+
+    assertion-beric-dondarrion-final-death:
+        subject:
+            person: person-thoros-of-myr
+        property: testimony
+        value: "Beric Dondarrion gave his final life to resurrect Catelyn Stark"
+        citations:
+            - citation-affc-brienne-viii
+        confidence: high
+        status: proven
+        notes: "Thoros told Brienne: 'Lord Beric's fire has gone out of this world, I fear. A grimmer shadow leads us in his place.' He confirmed Beric permanently died when he gave Catelyn the kiss of life, spending the last of his many resurrection-lives. Beric had been resurrected six times by Thoros using R'hllor's power."

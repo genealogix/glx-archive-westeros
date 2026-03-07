@@ -1,0 +1,33 @@
+assertions:
+    assertion-jon-snow-998th-lord-commander:
+        subject:
+            person: person-jon-snow
+        property: title
+        value: "998th Lord Commander of the Night's Watch"
+        citations:
+            - citation-asos-jon-lord-commander
+        confidence: high
+        status: proven
+        notes: "Elected by vote of the assembled black brothers. Text: 'Pyp said, \"We're not the ones who got chosen as the nine-hundred-and-ninety-eighth Lord Commander of the Night's Watch.\"' Sam engineered the outcome by persuading Cotter Pyke and Ser Denys Mallister to withdraw, using the (false) threat that Stannis would impose his choice. Dolorous Edd Tollett formally nominated Jon. Mormont's raven flying to Jon's shoulder calling 'Snow' was the turning point."
+
+    assertion-sam-tarly-king-maker:
+        subject:
+            person: person-samwell-tarly
+        property: action
+        value: "Engineered Jon Snow's election as Lord Commander by privately campaigning with the rival candidates"
+        citations:
+            - citation-asos-jon-lord-commander
+        confidence: high
+        status: proven
+        notes: "Sam approached Cotter Pyke first (the scarier), then Ser Denys Mallister. He told each a partial lie: that the king intended to impose the other if no choice was made that night. Maester Aemon had effectively encouraged Sam by asking 'Could you?' when Sam asked if he could do something about the stalemate. Text: 'I have no place here... Someone had to help Maester Aemon up the steps. Don't look at me, I'm just the maester's steward.'"
+
+    assertion-jon-refused-winterfell:
+        subject:
+            person: person-jon-snow
+        property: decision
+        value: "Refused King Stannis's offer to legitimize him as Jon Stark, Lord of Winterfell"
+        citations:
+            - citation-asos-jon-lord-commander
+        confidence: high
+        status: proven
+        notes: "Jon spent a night walking the Wall weighing the offer. His meditation on Ghost returning — 'He belongs to the old gods, this one' — gave him his answer: he could not tear up the heart tree at Winterfell for Melisandre's fire god, nor abandon his vows. He chose to accept the election as Lord Commander. Text: 'He had his answer then.' The reunion with Ghost after months of separation triggers Jon's realization he is bound to the Wall and the old gods."

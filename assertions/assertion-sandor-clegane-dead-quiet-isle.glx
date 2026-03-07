@@ -1,0 +1,22 @@
+assertions:
+    assertion-sandor-clegane-dead-quiet-isle:
+        subject:
+            person: person-sandor-clegane
+        property: status
+        value: "Dead (buried on Quiet Isle) / possibly alive as gravedigger penitent"
+        citations:
+            - citation-affc-brienne-vii
+        confidence: medium
+        status: disputed
+        notes: "The Elder Brother told Brienne: 'The Hound died there, in my arms. You may have seen a big black stallion in our stables. That was his warhorse, Stranger.' He said he buried Sandor and placed his helm on the cairn as a marker. However, the text strongly implies the large limping gravedigger seen digging a grave on the hillside IS Sandor Clegane, now a penitent on the isle. The Elder Brother confirms the man who sacked Saltpans was Rorge wearing Sandor's stolen helm, not Sandor himself. Whether Sandor is truly dead or living as an anonymous penitent remains ambiguous — the 'Gravedigger' theory is widely held by fans."
+
+    assertion-sandor-helm-stolen-by-rorge:
+        subject:
+            person: person-sandor-clegane
+        property: alias
+        value: "Hound helm was stolen by Rorge, used at Saltpans"
+        citations:
+            - citation-affc-brienne-vii
+        confidence: high
+        status: proven
+        notes: "The Elder Brother stated clearly that he buried Sandor Clegane, left his helm as a grave marker, and a passing wayfarer (later identified as Rorge) stole the helm. The man who committed the Saltpans atrocities was Rorge wearing Sandor's famous burned-face helmet, not Sandor Clegane himself."
