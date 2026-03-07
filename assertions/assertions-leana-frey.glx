@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Leana Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, House Frey section. Not present in ASOS appendix (born between ASOS and AFFC). Source text: Lothar's daughter, LEANA, a newborn babe"
     assertion-leana-frey-gender:
         subject:
             person: person-leana-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, House Frey section. Not present in ASOS appendix (born between ASOS and AFFC). Source text: Lothar's daughter, LEANA, a newborn babe"

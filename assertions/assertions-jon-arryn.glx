@@ -6,10 +6,9 @@ assertions:
         value: Jon Arryn
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. Deceased (indicated by braces). Source text: {JON ARRYN}, Lord of the Eyrie, Defender of the Vale, Warden of the East, Hand of the King, recently deceased"
     assertion-jon-arryn-gender:
         subject:
             person: person-jon-arryn
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. Listed as Lord, Warden, and Hand of the King."

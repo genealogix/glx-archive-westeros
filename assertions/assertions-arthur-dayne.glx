@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Ser Arthur Dayne
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "From GEDCOM. Ser Arthur Dayne (the Sword of the Morning) is mentioned extensively in AGOT prose but does not appear by name in any novel appendix. He is referenced in AFFC prose ('The Sword of the Morning slew the Smiling Knight... Ser Arthur Dayne, a better knight than me'). Retained at medium confidence as a prose-only character."
     assertion-arthur-dayne-gender:
         subject:
             person: person-arthur-dayne
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "From GEDCOM. Referenced as Ser in prose. Not found in novel appendices."

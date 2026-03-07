@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Merianne Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Whalen's daughter, MERIANNE, called MERRY, eleven"
     assertion-merianne-frey-gender:
         subject:
             person: person-merianne-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Whalen's daughter, MERIANNE, called MERRY, a girl of eleven"

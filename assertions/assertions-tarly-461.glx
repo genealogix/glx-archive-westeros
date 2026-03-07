@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Tarly
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. No given name available. Not individually identifiable in novel appendices. Likely a placeholder for an unnamed Tarly daughter/sister in the GEDCOM family tree. Retained with low confidence."
     assertion-tarly-461-gender:
         subject:
             person: person-tarly-461
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Not found in novel appendices. Gender from GEDCOM only."

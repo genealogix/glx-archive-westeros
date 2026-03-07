@@ -6,10 +6,9 @@ assertions:
         value: Daena Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, Sisters of Baelor I section. Known as Daena the Defiant. Mother of Daemon Blackfyre. Source text: Daena is the most famed of the three sisters, and was the most loved—for her beauty as much as her fierce courage. She was known as a skilled horsewoman, a fearsome archer with the Dornish bow... Daena quickly became known as the Defiant"
     assertion-daena-targaryen-gender:
         subject:
             person: person-daena-targaryen
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, Sisters of Baelor I section. Source text: Daena is the most famed of the three sisters"

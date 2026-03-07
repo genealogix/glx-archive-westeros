@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Ryella Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Arwood's daughter, RYELLA, a girl of five"
     assertion-ryella-frey-gender:
         subject:
             person: person-ryella-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Arwood's daughter, RYELLA, a girl of five"

@@ -6,10 +6,9 @@ assertions:
         value: "Alysanne 'The Good' Targaryen"
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Jaehaerys I). Good Queen Alysanne, sister-wife of Jaehaerys I. Source text: Once in his majority, the king wed his sister Alysanne, and theirs was a fruitful marriage... For forty-six years, the Old King and Good Queen Alysanne were wed, and for the most part it was a happy marriage, with children and grandchildren aplenty."
     assertion-alysanne-targaryen-the-good-gender:
         subject:
             person: person-alysanne-targaryen-the-good
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Good Queen Alysanne"

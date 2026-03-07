@@ -5,19 +5,17 @@ assertions:
         property: name
         value: "Tywin 'Ty' Frey"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, House Frey section. Not present in ASOS appendix (born between ASOS and AFFC). This is Raymund's newborn son Tywin, distinct from Cleos's son Tywin (person-tywin-frey). Twin of Jaime (person-jaime-frey). Source text: Raymund's twin sons, JAIME and TYWIN, newborn"
     assertion-tywin-frey-ty-gender:
         subject:
             person: person-tywin-frey-ty
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, House Frey section. Not present in ASOS appendix (born between ASOS and AFFC). Source text: Raymund's twin sons, JAIME and TYWIN, newborn"

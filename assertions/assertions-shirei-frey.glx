@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Shirei Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists age six, AFFC seven. Source text: SHIREI, Lord Walder's youngest child, a girl of seven"
     assertion-shirei-frey-gender:
         subject:
             person: person-shirei-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: SHIREI, a girl of six"

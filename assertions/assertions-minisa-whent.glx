@@ -6,10 +6,9 @@ assertions:
         value: Minisa Whent
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Tully section. Hoster Tully's wife, deceased (indicated by braces). Source text: his wife, {LADY MINISA, of House Whent}, died in childbed"
     assertion-minisa-whent-gender:
         subject:
             person: person-minisa-whent
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Tully section. Listed as 'Lady' and 'his wife'."

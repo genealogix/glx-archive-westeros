@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Aegon Targaryen VI
         citations:
-            - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Targaryen section. Son of Prince Rhaegar and Princess Elia Martell. Source text: {PRINCE AEGON}, a babe, slain during the Sack of King's Landing"
     assertion-aegon-targaryen-vi-gender:
         subject:
             person: person-aegon-targaryen-vi
         property: gender
         value: male
         citations:
-            - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix. Source text: {PRINCE AEGON}, a babe"

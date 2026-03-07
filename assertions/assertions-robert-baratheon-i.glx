@@ -6,10 +6,9 @@ assertions:
         value: Robert Baratheon I
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Baratheon section. Listed as King. Source text: KING ROBERT BA RA THEON, the First of His Name"
     assertion-robert-baratheon-i-gender:
         subject:
             person: person-robert-baratheon-i
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Baratheon section. Listed as King."

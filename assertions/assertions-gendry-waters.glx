@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Gendry Waters
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in any novel appendix (AGOT through ADWD) under House Baratheon. Gendry appears in the narrative but is not listed as a recognized bastard in any appendix. Sourced from GEDCOM import."
     assertion-gendry-waters-gender:
         subject:
             person: person-gendry-waters
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in any novel appendix. Sourced from GEDCOM import."

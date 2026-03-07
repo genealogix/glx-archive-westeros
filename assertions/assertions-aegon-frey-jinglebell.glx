@@ -5,19 +5,19 @@ assertions:
         property: name
         value: "Aegon 'Jinglebell' Frey"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists him as a halfwit; AFFC notes his death at the Red Wedding. Source text: Stevron's son, {AEGON}, called JINGLEBELL, killed at the Red Wedding by Catelyn Stark"
     assertion-aegon-frey-jinglebell-gender:
         subject:
             person: person-aegon-frey-jinglebell
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Stevron's son, AEGON, a halfwit called JINGLEBELL"

@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "{PRINCESS ELIA, raped and murdered during the Sack of King's Landing}"
-        notes: "Verified against AGOT and AFFC Appendix, House Martell section. Curly braces indicate deceased."
+        notes: "Verified against AGOT and AFFC Appendix, House Martell section. Curly braces indicate deceased. Source text: {PRINCESS ELIA, raped and murdered during the Sack of King's Landing}"
     assertion-elia-martell-gender:
         subject:
             person: person-elia-martell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "his sister, {PRINCESS ELIA}, wed to Prince Rhaegar Targaryen, slain during the Sack of King's Landing"
-        notes: "Verified against AGOT Appendix, House Martell section."
+        notes: "Verified against AGOT Appendix, House Martell section. Source text: his sister, {PRINCESS ELIA}, wed to Prince Rhaegar Targaryen, slain during the Sack of King's Landing"

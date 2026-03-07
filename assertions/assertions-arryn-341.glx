@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Arryn
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed female Arryn from GEDCOM import."
     assertion-arryn-341-gender:
         subject:
             person: person-arryn-341
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed female Arryn from GEDCOM import."

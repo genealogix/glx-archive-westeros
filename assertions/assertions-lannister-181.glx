@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Lannister
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Unnamed Lannister placeholder from GEDCOM import. Not identifiable in any novel appendix. No given name recorded."
     assertion-lannister-181-gender:
         subject:
             person: person-lannister-181
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Unnamed Lannister placeholder from GEDCOM import. Not found in any novel appendix."

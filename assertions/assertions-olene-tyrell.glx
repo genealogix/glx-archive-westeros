@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Luthor's daughter, OLENE, m. Ser Leo Blackbar"
-        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Daughter of Ser Luthor (Moryn's son), married to Ser Leo Blackbar."
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Daughter of Ser Luthor (Moryn's son), married to Ser Leo Blackbar. Source text: Luthor's daughter, OLENE, m. Ser Leo Blackbar"
     assertion-olene-tyrell-gender:
         subject:
             person: person-olene-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Luthor's daughter, OLENE, m. Ser Leo Blackbar"
-        notes: "Verified against AFFC Appendix, House Tyrell section."
+        notes: "Verified against AFFC Appendix, House Tyrell section. Source text: Luthor's daughter, OLENE, m. Ser Leo Blackbar"

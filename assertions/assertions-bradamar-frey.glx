@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Bradamar Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Symond's son, BRADAMAR, a boy of ten, a ward of Oro Tendyris, a merchant of Braavos"
     assertion-bradamar-frey-gender:
         subject:
             person: person-bradamar-frey
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Symond's son, BRADAMAR, a boy of ten, fostered on Braavos as a ward of Oro Tendyris"

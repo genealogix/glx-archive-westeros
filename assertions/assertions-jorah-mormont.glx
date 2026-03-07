@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Ser Jorah Mormont
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, House Stark section. Also listed under Appendix IV (Daenerys section) as 'SER JORAH MORMONT, formerly Lord of Bear Island'. Source text: SER JORAH MORMONT, Lord Jeor's son, once Lord of Bear Island in his own right, a knight condemned and exiled"
     assertion-jorah-mormont-gender:
         subject:
             person: person-jorah-mormont
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix. Listed as Ser and son of Lord Jeor."

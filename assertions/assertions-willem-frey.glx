@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Willem Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists age nine, AFFC ten. Source text: Cleos's son, WILLEM, a page at Ashemark, ten"
     assertion-willem-frey-gender:
         subject:
             person: person-willem-frey
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Cleos's son, WILLEM, a page at Ashemark, nine"

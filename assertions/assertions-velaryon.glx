@@ -6,10 +6,9 @@ assertions:
         value: Velaryon
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Aegon III). This is Queen Daenaera Velaryon, wife of Aegon III. GEDCOM imported without first name. Mother of Daeron I, Baelor I, Daena, Elaena, and Rhaena. Source text: his young, beautiful queen Daenaera Velaryon... Lady Daenaera was a cousin to Alyn Oakenfist, fathered by his cousin Daeron, who died fighting for him in the Stepstones."
     assertion-velaryon-gender:
         subject:
             person: person-velaryon
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: A surpassingly beautiful child, Daenaera was but six when the princesses Rhaena and Baela presented her to the king"

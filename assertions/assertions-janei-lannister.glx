@@ -6,10 +6,9 @@ assertions:
         value: Janei Lannister
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Infant daughter of Ser Kevan and Dorna Swyft. Source text: their infant daughter, JA NEI"
     assertion-janei-lannister-gender:
         subject:
             person: person-janei-lannister
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Listed as daughter."

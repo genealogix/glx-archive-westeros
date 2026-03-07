@@ -6,10 +6,9 @@ assertions:
         value: Aenar Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Aenar the Exile, who brought the Targaryens to Dragonstone before the Doom. Source text: The Targaryens were of pure Valyrian blood, dragonlords of ancient lineage. Twelve years before the Doom of Valyria (114 BC), Aenar Targaryen sold his holdings in the Freehold and the Lands of the Long Summer and moved with all his wives, wealth, slaves, dragons, siblings, kin, and children to Dragonstone"
     assertion-aenar-targaryen-gender:
         subject:
             person: person-aenar-targaryen
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Aenar Targaryen sold his holdings in the Freehold"

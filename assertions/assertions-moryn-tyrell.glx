@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER MORYN, Lord Commander of the City Watch of Oldtown"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Mace's uncle."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Mace's uncle. Source text: SER MORYN, Lord Commander of the City Watch of Oldtown"
     assertion-moryn-tyrell-gender:
         subject:
             person: person-moryn-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER MORYN, Lord Commander of the City Watch of Oldtown"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: SER MORYN, Lord Commander of the City Watch of Oldtown"

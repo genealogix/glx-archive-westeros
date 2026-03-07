@@ -6,10 +6,10 @@ assertions:
         value: Arya Stark
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-adwd-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to 'ARYA, a girl of eleven, missing and thought dead'. Source text: ARYA, the younger daughter, a girl of nine"
     assertion-arya-stark-gender:
         subject:
             person: person-arya-stark
@@ -17,7 +17,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Listed as 'the younger daughter, a girl'."

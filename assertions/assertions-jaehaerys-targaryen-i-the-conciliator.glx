@@ -6,10 +6,10 @@ assertions:
         value: "Jaehaerys 'The Conciliator' Targaryen I"
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '48-103 Jaehaerys I the Old King, the Conciliator, Aenys' son'. Source text: King Jaehaerys, the First of His Name—known as the Conciliator, and the Old King (being the only Targaryen ruler who lived to such an advanced age)—died peacefully in his bed in 103 AC, while Lady Alicent read to him from his friend Barth's Unnatural History."
     assertion-jaehaerys-targaryen-i-the-conciliator-gender:
         subject:
             person: person-jaehaerys-targaryen-i-the-conciliator
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: JAEHAERYS CAME TO the throne in 48 AC, in a time when the realm had been torn asunder... Crowned at four-and-ten by the High Septon with his father's own crown, he began his reign under the regency of his mother"

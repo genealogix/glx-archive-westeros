@@ -6,10 +6,9 @@ assertions:
         value: Haegon Blackfyre
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Aerys I). Led the Third Blackfyre Rebellion in 219 AC. Source text: In 219 AC, Haegon Blackfyre and Bittersteel launched the Third Blackfyre Rebellion... The pretender Haegon I Blackfyre died in the aftermath of battle, slain treacherously after he had given up his sword"
     assertion-haegon-blackfyre-gender:
         subject:
             person: person-haegon-blackfyre
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Haegon Blackfyre and Bittersteel launched the Third Blackfyre Rebellion"

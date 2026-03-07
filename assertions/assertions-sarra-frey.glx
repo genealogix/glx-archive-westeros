@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Sarra Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists them as maiden girls of fourteen. Twin of Serra. Source text: Raymund's twin daughters, SERRA and SARRA"
     assertion-sarra-frey-gender:
         subject:
             person: person-sarra-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Raymund's twin daughters, SERRA and SARRA, maiden girls of fourteen"

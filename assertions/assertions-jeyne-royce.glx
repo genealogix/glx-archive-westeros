@@ -6,10 +6,9 @@ assertions:
         value: Jeyne Royce
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. Jon Arryn's first wife, deceased (indicated by braces). Source text: his first wife, {LADY JEYNE, of House Royce}, died in childbed, her daughter stillborn"
     assertion-jeyne-royce-gender:
         subject:
             person: person-jeyne-royce
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. Listed as 'Lady' and 'his first wife'."

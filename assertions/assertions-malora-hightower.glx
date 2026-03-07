@@ -8,8 +8,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Lord Leyton's daughter, MALORA, called THE MAD MAID"
-        notes: "Verified against AFFC Appendix, House Hightower section. Called the Mad Maid."
+        notes: "Verified against AFFC Appendix, House Hightower section. Called the Mad Maid. Source text: Lord Leyton's daughter, MALORA, called THE MAD MAID"
     assertion-malora-hightower-gender:
         subject:
             person: person-malora-hightower
@@ -19,5 +18,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Lord Leyton's daughter, MALORA"
-        notes: "Verified against AFFC Appendix, House Hightower section."
+        notes: "Verified against AFFC Appendix, House Hightower section. Source text: Lord Leyton's daughter, MALORA"

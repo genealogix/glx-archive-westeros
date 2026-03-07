@@ -5,19 +5,18 @@ assertions:
         property: name
         value: Renly Norcross
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Son of Delena Florent and Ser Hosman Norcross. AFFC Appendix adds 'her second trueborn son, a boy of three'. Source text: Delena's son, RENLY NORCROSS"
     assertion-renly-norcross-gender:
         subject:
             person: person-renly-norcross
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Listed as son."

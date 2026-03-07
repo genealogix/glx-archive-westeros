@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "GARTH, called THE GROSS, Lord Seneschal of Highgarden"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Mace's uncle, Lord Seneschal of Highgarden."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Mace's uncle, Lord Seneschal of Highgarden. Source text: GARTH, called THE GROSS, Lord Seneschal of Highgarden"
     assertion-garth-tyrell-the-gross-gender:
         subject:
             person: person-garth-tyrell-the-gross
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "GARTH, called the Gross, Lord Seneschal of Highgarden"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: GARTH, called the Gross, Lord Seneschal of Highgarden"

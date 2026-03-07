@@ -6,10 +6,9 @@ assertions:
         value: "Brynden 'Bloodraven' Targaryen"
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Aegon IV's mistresses). Bastard son of Aegon IV by Melissa Blackwood. Later served as Hand of the King, then Lord Commander of the Night's Watch. Source text: Missy bore the king three bastards, most notably the boy Brynden Rivers (born 175), later called Bloodraven."
     assertion-brynden-targaryen-bloodraven-gender:
         subject:
             person: person-brynden-targaryen-bloodraven
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: the boy Brynden Rivers (born 175), later called Bloodraven"

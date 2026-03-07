@@ -8,8 +8,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Lord Leyton's daughter, DENYSE, m. Ser Desmond Redwyne"
-        notes: "Verified against AFFC Appendix, House Hightower section. Married to Denyse Hightower."
+        notes: "Verified against AFFC Appendix, House Hightower section. Married to Denyse Hightower. Source text: Lord Leyton's daughter, DENYSE, m. Ser Desmond Redwyne"
     assertion-desmond-redwyne-gender:
         subject:
             person: person-desmond-redwyne
@@ -19,5 +18,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Ser Desmond Redwyne"
-        notes: "Verified against AFFC Appendix, House Hightower section."
+        notes: "Verified against AFFC Appendix, House Hightower section. Source text: Ser Desmond Redwyne"

@@ -6,10 +6,10 @@ assertions:
         value: Daeron Targaryen I
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '157-161 Daeron I the Young Dragon, the Boy King, eldest son of Aegon III'. Source text: Few foresaw that Daeron, the First of His Name, would cover himself in glory as did his ancestor Aegon the Conqueror, whose crown he wore... A youth of rare brilliance and forcefulness"
     assertion-daeron-targaryen-i-gender:
         subject:
             person: person-daeron-targaryen-i
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: The eldest of his sons, Daeron, was a mere boy of fourteen years when he assumed the throne."

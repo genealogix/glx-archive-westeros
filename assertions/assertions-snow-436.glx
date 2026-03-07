@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Snow
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed female Snow (bastard surname) from GEDCOM import."
     assertion-snow-436-gender:
         subject:
             person: person-snow-436
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed female Snow from GEDCOM import."

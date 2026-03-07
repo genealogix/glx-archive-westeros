@@ -6,10 +6,9 @@ assertions:
         value: Darlessa Marbrand
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Listed as widow of Ser Tygett. Source text: his widow, DA RLESSA , of House Marbrand"
     assertion-darlessa-marbrand-gender:
         subject:
             person: person-darlessa-marbrand
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Listed as widow."

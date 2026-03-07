@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Mormont
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. No given name available. Not individually identifiable in novel appendices. Likely a placeholder ancestor in the GEDCOM family tree. Retained with low confidence."
     assertion-mormont-gender:
         subject:
             person: person-mormont
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Not found in novel appendices. Gender from GEDCOM only."

@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "NYMERIA, called LADY NYM, five-and-twenty, his daughter by a noblewoman of Volantis"
-        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes."
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes. Source text: NYMERIA, called LADY NYM, five-and-twenty, his daughter by a noblewoman of Volantis"
     assertion-nymeria-sand-gender:
         subject:
             person: person-nymeria-sand
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "NYMERIA, called LADY NYM, five-and-twenty, his daughter by a noblewoman of Volantis"
-        notes: "Verified against AFFC Appendix, House Martell section."
+        notes: "Verified against AFFC Appendix, House Martell section. Source text: NYMERIA, called LADY NYM, five-and-twenty, his daughter by a noblewoman of Volantis"

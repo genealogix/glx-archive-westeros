@@ -6,10 +6,9 @@ assertions:
         value: Daven Lannister
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Son of Ser Stafford Lannister. Source text: his son, SER DA VEN LA NNISTER"
     assertion-daven-lannister-gender:
         subject:
             person: person-daven-lannister
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Listed as Ser and son."

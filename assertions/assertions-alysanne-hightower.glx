@@ -8,8 +8,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Lord Leyton's daughter, ALYSANNE, m. Lord Arthur Ambrose"
-        notes: "Verified against AFFC Appendix, House Hightower section. Married to Lord Arthur Ambrose."
+        notes: "Verified against AFFC Appendix, House Hightower section. Married to Lord Arthur Ambrose. Source text: Lord Leyton's daughter, ALYSANNE, m. Lord Arthur Ambrose"
     assertion-alysanne-hightower-gender:
         subject:
             person: person-alysanne-hightower
@@ -19,5 +18,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Lord Leyton's daughter, ALYSANNE"
-        notes: "Verified against AFFC Appendix, House Hightower section."
+        notes: "Verified against AFFC Appendix, House Hightower section. Source text: Lord Leyton's daughter, ALYSANNE"

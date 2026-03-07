@@ -6,10 +6,10 @@ assertions:
         value: "Brandon 'Bran' Stark"
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-adwd-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to 'BRANDON, called BRAN, a crippled boy of nine, heir to Winterfell, believed dead'. Source text: BRANDON, called Bran, seven"
     assertion-brandon-stark-bran-gender:
         subject:
             person: person-brandon-stark-bran
@@ -17,7 +17,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Listed among Eddard's children."

@@ -6,10 +6,9 @@ assertions:
         value: Daemon Blackfyre
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Aegon IV). Bastard son of Aegon IV and Princess Daena. Source text: Daemon Waters was his full name when he was born in 170 AC... King Aegon knighted Daemon in his twelfth year when he won a squires' tourney... and shocked his court, kin, and council by bestowing upon him the sword of Aegon the Conqueror, Blackfyre, as well as lands and other honors. Daemon took the name Blackfyre thereafter."
     assertion-daemon-blackfyre-gender:
         subject:
             person: person-daemon-blackfyre
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Daemon Waters was his full name when he was born in 170 AC"

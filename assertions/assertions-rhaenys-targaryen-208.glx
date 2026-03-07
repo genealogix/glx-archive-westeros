@@ -6,10 +6,10 @@ assertions:
         value: Rhaenys Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. This is Rhaenys, sister-wife of Aegon I. AGOT Appendix mentions 'his sisters Visenya and Rhaenys'. Source text: Aegon had two trueborn siblings; an elder sister, Visenya, and a younger sister, Rhaenys... Aegon took both his sisters to bride."
     assertion-rhaenys-targaryen-208-gender:
         subject:
             person: person-rhaenys-targaryen-208
@@ -17,7 +17,7 @@ assertions:
         value: female
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: a younger sister, Rhaenys"

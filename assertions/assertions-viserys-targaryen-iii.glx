@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Viserys Targaryen III
         citations:
-            - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Targaryen section. Source text: PRINCE VISERYS, styling himself Viserys, the Third of His Name, Lord of the Seven Kingdoms, called the Beggar King"
     assertion-viserys-targaryen-iii-gender:
         subject:
             person: person-viserys-targaryen-iii
         property: gender
         value: male
         citations:
-            - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix. Source text: PRINCE VISERYS, styling himself Viserys, the Third of His Name"

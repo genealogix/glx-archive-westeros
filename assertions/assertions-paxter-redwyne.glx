@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "PAXTER REDWYNE, Lord of the Arbor"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Listed as bannerman and husband of Lady Mina Tyrell."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Listed as bannerman and husband of Lady Mina Tyrell. Source text: PAXTER REDWYNE, Lord of the Arbor"
     assertion-paxter-redwyne-gender:
         subject:
             person: person-paxter-redwyne
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "PAXTER REDWYNE, Lord of the Arbor"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: PAXTER REDWYNE, Lord of the Arbor"

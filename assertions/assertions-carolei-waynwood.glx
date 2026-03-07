@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Carolei Waynwood
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Carolei Waynwood appears only in chapter text or supplementary sources. May require chapter-level citation."
     assertion-carolei-waynwood-gender:
         subject:
             person: person-carolei-waynwood
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. May appear only in chapter text or supplementary sources."

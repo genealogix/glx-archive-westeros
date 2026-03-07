@@ -6,10 +6,10 @@ assertions:
         value: Morton Waynwood
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-adwd-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. ADWD Appendix updates to 'SER MORTON, her eldest son and heir'. Source text: SER MORTON WAYNWOOD, her son, suitor to Lady Lysa"
     assertion-morton-waynwood-gender:
         subject:
             person: person-morton-waynwood
@@ -17,7 +17,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. Listed as 'Ser' and 'her son'."

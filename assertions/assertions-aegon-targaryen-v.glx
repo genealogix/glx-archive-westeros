@@ -6,10 +6,10 @@ assertions:
         value: Aegon Targaryen V
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '233-259 Aegon V the Unlikely, Maekar's fourth'. Source text: the 'Prince Who Was An Egg' was chosen by a majority of the Great Council. The fourth son of a fourth son, Aegon V would become widely known as Aegon the Unlikely for having stood so far out of the succession in his youth."
     assertion-aegon-targaryen-v-gender:
         subject:
             person: person-aegon-targaryen-v
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Youngest of the king's sons was Prince Aegon, who had served as squire to a hedge knight"

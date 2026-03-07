@@ -6,10 +6,10 @@ assertions:
         value: Benjen Stark
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-adwd-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to 'BENJEN STARK, First Ranger of the Night's Watch, lost beyond the Wall, presumed dead'. Source text: BENJEN, his younger brother, a man of the Night's Watch"
     assertion-benjen-stark-gender:
         subject:
             person: person-benjen-stark
@@ -17,7 +17,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Listed as 'his younger brother, a man'."

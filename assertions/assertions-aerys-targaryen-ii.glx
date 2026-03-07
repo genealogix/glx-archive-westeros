@@ -6,10 +6,10 @@ assertions:
         value: Aerys Targaryen II
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '262-283 Aerys II the Mad King, only son to Jaehaerys' and '{KING AERYS TARGARYEN}, the Second of His Name, slain by Jaime Lannister during the Sack of King's Landing'. Source text: AERYS TARGARYEN, the Second of His Name, was but eighteen years of age when he ascended the Iron Throne in 262 AC, upon the death of his father, Jaehaerys, after little more than three years of rule."
     assertion-aerys-targaryen-ii-gender:
         subject:
             person: person-aerys-targaryen-ii
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: A handsome youth, Aerys had fought gallantly in the Stepstones during the War of the Ninepenny Kings."

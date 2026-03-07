@@ -5,19 +5,18 @@ assertions:
         property: name
         value: Alekyne Florent
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Son of Lord Alester. AFFC Appendix adds 'attainted Lord of Brightwater, fled to Oldtown to seek refuge at the Hightower'. Source text: ALEKYNE, heir to Brightwater"
     assertion-alekyne-florent-gender:
         subject:
             person: person-alekyne-florent
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Listed as heir (son)."

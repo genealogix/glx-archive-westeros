@@ -6,10 +6,10 @@ assertions:
         value: Samwell Tarly
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Tyrell section (under Tarly as bannerman of Highgarden). ASOS Appendix expands: 'SAMWELL TARLY, a fat steward, keeper of ravens, mocked as SER PIGGY'. ACOK Appendix: 'SAMWELL TARLY and CLYDAS, his stewards' (under Maester Aemon). Source text: SAMWELL, his elder son, of the Night's Watch"
     assertion-samwell-tarly-gender:
         subject:
             person: person-samwell-tarly
@@ -17,7 +17,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Listed as elder son of Randyll Tarly."

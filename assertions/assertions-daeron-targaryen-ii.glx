@@ -6,10 +6,10 @@ assertions:
         value: Daeron Targaryen II
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '184-209 Daeron II Queen Naerys' son, by Aegon or Aemon'. Source text: His son and heir, Prince Daeron, departed Dragonstone within the fortnight after learning of his father's demise and was swiftly crowned by the High Septon in the Red Keep... Daeron's reign quickly stabilized the realm, and he soon came to be called Daeron the Good"
     assertion-daeron-targaryen-ii-gender:
         subject:
             person: person-daeron-targaryen-ii
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: he was small of frame, with thin arms, round shoulders, and a scholarly disposition"

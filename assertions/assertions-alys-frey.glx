@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Alys Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Mentioned only as Jared's deceased wife. She was a Frey cousin. Source text: SER JARED, Lord Walder's fourth son, m. {Alys Frey}"
     assertion-alys-frey-gender:
         subject:
             person: person-alys-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER JARED, their eldest son, m. {Alys Frey}"

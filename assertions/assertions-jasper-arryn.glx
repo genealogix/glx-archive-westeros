@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Jasper Arryn
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Jasper Arryn (Jon Arryn's father) appears only in chapter text and TWOIAF. May require chapter-level citation."
     assertion-jasper-arryn-gender:
         subject:
             person: person-jasper-arryn
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. May appear only in chapter text or TWOIAF."

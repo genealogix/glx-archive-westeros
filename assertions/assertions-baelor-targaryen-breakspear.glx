@@ -6,10 +6,9 @@ assertions:
         value: "Baelor 'Breakspear' Targaryen"
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Daeron II). Baelor Breakspear was cut down by his own brother Maekar at the tourney at Ashford in 209 AC. Source text: The eldest, Prince Baelor, won the name Breakspear at the age of seventeen, following his famous victory at Princess Daenerys's wedding tourney; he defeated Daemon Blackfyre in the final tilt."
     assertion-baelor-targaryen-breakspear-gender:
         subject:
             person: person-baelor-targaryen-breakspear
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Baelor Breakspear was cut down in his prime by his own brother Maekar at the tourney at Ashford in the year 209 AC."

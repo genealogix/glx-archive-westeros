@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Malwyn Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists age fifteen, apprenticed to an alchemist in Lys. Source text: Raymund's son, MALWYN, serving with alchemist in Lys"
     assertion-malwyn-frey-gender:
         subject:
             person: person-malwyn-frey
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Raymund's son, MALWYN, fifteen, apprenticed to an alchemist in Lys"

@@ -6,10 +6,9 @@ assertions:
         value: Shiera Seastar
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Aegon IV's mistresses). Bastard daughter of Aegon IV by Serenei of Lys. Source text: She died giving birth to the last of the king's bastard children, a girl called Shiera Seastar who became the greatest beauty in the Seven Kingdoms, beloved of both her half brothers, Bittersteel and Bloodraven, whose rivalry would ripen to hatred."
     assertion-shiera-seastar-gender:
         subject:
             person: person-shiera-seastar
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: a girl called Shiera Seastar who became the greatest beauty in the Seven Kingdoms"

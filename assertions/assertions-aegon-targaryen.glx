@@ -6,10 +6,9 @@ assertions:
         value: Aegon Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Son of Gaemon the Glorious and Daenys the Dreamer. Early Lord of Dragonstone, ruled with his sister Elaena. Source text: Gaemon's son Aegon and his daughter Elaena ruled together after his death."
     assertion-aegon-targaryen-gender:
         subject:
             person: person-aegon-targaryen
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Gaemon's son Aegon"

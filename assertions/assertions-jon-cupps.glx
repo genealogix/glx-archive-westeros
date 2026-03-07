@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Ser Jon Cupps
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, House Tyrell section (under Hightower). Husband of Leyla Hightower, daughter of Lord Leyton. Source text: Lord Leyton's daughter, LEYLA, m. Ser Jon Cupps"
     assertion-jon-cupps-gender:
         subject:
             person: person-jon-cupps
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix. Listed as Ser."

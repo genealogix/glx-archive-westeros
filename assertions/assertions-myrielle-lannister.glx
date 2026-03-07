@@ -6,10 +6,9 @@ assertions:
         value: Myrielle Lannister
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Daughter of Ser Stafford Lannister. Source text: his daughters, CERENNA and MYRIELLE"
     assertion-myrielle-lannister-gender:
         subject:
             person: person-myrielle-lannister
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Listed as daughter."

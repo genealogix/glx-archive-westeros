@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Zachery Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Tytos's son, ZACHERY, a boy of twelve sworn to the Faith, training at the Sept of Oldtown"
     assertion-zachery-frey-gender:
         subject:
             person: person-zachery-frey
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Tytos's son, ZACHERY, a boy of twelve, training at the Sept of Oldtown"

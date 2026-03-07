@@ -5,19 +5,18 @@ assertions:
         property: name
         value: Melara Crane
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Wife of Lord Alester Florent. Confirmed in ASOS and AFFC appendices. Source text: his wife, LADY MELARA, of House Crane"
     assertion-melara-crane-gender:
         subject:
             person: person-melara-crane
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Listed as Lady and wife."

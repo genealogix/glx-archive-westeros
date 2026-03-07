@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Tregar Ormollen
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, House Tyrell section (under Hightower). Tregar Ormollen of Lys is mentioned as the man Lynesse Hightower currently serves as chief concubine to. Source text: LYNESSE, m. Lord Jorah Mormont, presently chief concubine to Tregar Ormollen of Lys"
     assertion-tregar-ormollen-gender:
         subject:
             person: person-tregar-ormollen
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix. Implied male by context (Lynesse is his concubine)."

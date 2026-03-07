@@ -8,8 +8,7 @@ assertions:
             - citation-twoiaf-appendix
         confidence: high
         status: accepted
-        text_from_source: "Ser Gerold Hightower, called the White Bull, Lord Commander of the Kingsguard"
-        notes: "Verified against TWOIAF. Lord Commander of the Kingsguard under Aerys II. Not listed in current novel appendices (historical figure). Died at the Tower of Joy."
+        notes: "Verified against TWOIAF. Lord Commander of the Kingsguard under Aerys II. Not listed in current novel appendices (historical figure). Died at the Tower of Joy. Source text: Ser Gerold Hightower, called the White Bull, Lord Commander of the Kingsguard"
     assertion-gerold-hightower-the-white-bull-gender:
         subject:
             person: person-gerold-hightower-the-white-bull
@@ -19,5 +18,4 @@ assertions:
             - citation-twoiaf-appendix
         confidence: high
         status: accepted
-        text_from_source: "Ser Gerold Hightower, called the White Bull"
-        notes: "Verified against TWOIAF."
+        notes: "Verified against TWOIAF. Source text: Ser Gerold Hightower, called the White Bull"

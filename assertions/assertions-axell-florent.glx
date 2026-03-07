@@ -5,19 +5,18 @@ assertions:
         property: name
         value: Ser Axell Florent
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, King in the Narrow Sea section. Also listed in AFFC Appendix as 'a queen's man, in service to his niece Queen Selyse at Eastwatch-by-the-Sea'. Source text: SER AXELL FLORENT, castellan of Dragonstone, and uncle to Queen Selyse"
     assertion-axell-florent-gender:
         subject:
             person: person-axell-florent
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix. Listed as Ser."

@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "ELIA, fourteen, his daughter by Ellaria Sand"
-        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes, daughter of Oberyn and Ellaria."
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes, daughter of Oberyn and Ellaria. Source text: ELIA, fourteen, his daughter by Ellaria Sand"
     assertion-elia-sand-gender:
         subject:
             person: person-elia-sand
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "ELIA, fourteen, his daughter by Ellaria Sand"
-        notes: "Verified against AFFC Appendix, House Martell section."
+        notes: "Verified against AFFC Appendix, House Martell section. Source text: ELIA, fourteen, his daughter by Ellaria Sand"

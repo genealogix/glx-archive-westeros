@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "MAESTER GORMON, serving at the Citadel"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Mace's uncle, a scholar of the Citadel."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Mace's uncle, a scholar of the Citadel. Source text: MAESTER GORMON, serving at the Citadel"
     assertion-gormon-tyrell-gender:
         subject:
             person: person-gormon-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "MAESTER GORMON, a scholar of the Citadel"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: MAESTER GORMON, a scholar of the Citadel"

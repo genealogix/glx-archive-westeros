@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Waynwood
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed female Waynwood from GEDCOM import."
     assertion-waynwood-241-gender:
         subject:
             person: person-waynwood-241
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed female Waynwood from GEDCOM import."

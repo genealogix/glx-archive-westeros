@@ -3,21 +3,21 @@ assertions:
         subject:
             person: person-luceon-frey
         property: name
-        value: Septon Luceon Frey
+        value: Luceon Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: SEPTON LUCEON, in service at the Great Sept of Baelor"
     assertion-luceon-frey-gender:
         subject:
             person: person-luceon-frey
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: SEPTON LUCEON, in service at the Great Sept of Baelor in King's Landing"

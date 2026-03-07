@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM as unnamed Targaryen. Child of Aegon V per relationship data. TWOIAF names Aegon V's son as Prince Daeron, who 'was killed in battle in 251 AC, leading an army against the Rat, the Hawk, and the Pig.' Likely Prince Daeron, youngest son of Aegon V. Cannot confirm without given name in GEDCOM."
     assertion-targaryen-281-gender:
         subject:
             person: person-targaryen-281
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Unnamed male child of Aegon V."

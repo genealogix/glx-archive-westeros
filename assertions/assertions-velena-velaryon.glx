@@ -6,10 +6,9 @@ assertions:
         value: Velena Velaryon
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Aegon I). Note: TWOIAF spells the name 'Valaena' but GEDCOM imported as 'Velena'. Mother of Aegon the Conqueror, Visenya, and Rhaenys. Source text: He was the only son, and second child, of Aerion, Lord of Dragonstone, and Lady Valaena of House Velaryon, herself half-Targaryen on her mother's side."
     assertion-velena-velaryon-gender:
         subject:
             person: person-velena-velaryon
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Lady Valaena of House Velaryon, herself half-Targaryen on her mother's side"

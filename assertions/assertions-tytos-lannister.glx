@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Tytos Lannister
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in any novel appendix (AGOT through ADWD). Tywin's father is not listed in the House Lannister appendix entries. Name sourced from GEDCOM import and wiki references."
     assertion-tytos-lannister-gender:
         subject:
             person: person-tytos-lannister
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in any novel appendix. Sourced from GEDCOM import."

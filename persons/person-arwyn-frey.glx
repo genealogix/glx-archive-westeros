@@ -1,7 +1,7 @@
 persons:
     person-arwyn-frey:
         properties:
-            gender: male
+            gender: female
             name:
                 fields:
                     given: Arwyn

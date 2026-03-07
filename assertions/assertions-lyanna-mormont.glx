@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Lyanna Mormont
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, House Stark section. Listed as daughter of Maege Mormont (youngest). Source text: ALYSANE, LYRA, JORELLE, LYANNA, her daughters"
     assertion-lyanna-mormont-gender:
         subject:
             person: person-lyanna-mormont
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix. Listed as daughter."

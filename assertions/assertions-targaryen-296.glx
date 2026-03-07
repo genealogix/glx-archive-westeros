@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM as unnamed male Targaryen. Child of Rhaegel per relationship data. Likely Aelor Targaryen, son of Rhaegel, mentioned in TWOIAF. Cannot confirm without given name in GEDCOM. Source text: Rhaegel's son, Aelor, then became the new Prince of Dragonstone and heir to the throne, only to die two years after, slain in a grotesque mishap by the hand of his own twin sister and wife, Aelora"
     assertion-targaryen-296-gender:
         subject:
             person: person-targaryen-296
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Likely Aelor Targaryen, son of Rhaegel."

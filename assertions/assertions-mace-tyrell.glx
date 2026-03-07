@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "MACE TYRELL, Lord of Highgarden, Warden of the South, Defender of the Marches, and High Marshal of the Reach"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Source text: MACE TYRELL, Lord of Highgarden, Warden of the South, Defender of the Marches, and High Marshal of the Reach"
     assertion-mace-tyrell-gender:
         subject:
             person: person-mace-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "MACE TYRELL, Lord of Highgarden, Warden of the South"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: MACE TYRELL, Lord of Highgarden, Warden of the South"

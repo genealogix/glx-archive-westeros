@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Alys Arryn
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Alys Arryn is a historical figure. May appear only in TWOIAF or supplementary sources."
     assertion-alys-arryn-gender:
         subject:
             person: person-alys-arryn
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. May appear only in TWOIAF or supplementary sources."

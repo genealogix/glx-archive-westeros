@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Stark
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed Stark male from GEDCOM import. May appear only in TWOIAF or supplementary sources."
     assertion-stark-465-gender:
         subject:
             person: person-stark-465
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed Stark male from GEDCOM import."

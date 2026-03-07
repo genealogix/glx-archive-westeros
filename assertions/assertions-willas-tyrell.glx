@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "WILLAS, their eldest son, heir to Highgarden"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Source text: WILLAS, their eldest son, heir to Highgarden"
     assertion-willas-tyrell-gender:
         subject:
             person: person-willas-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "WILLAS, their eldest son, heir to Highgarden"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: WILLAS, their eldest son, heir to Highgarden"

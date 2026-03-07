@@ -6,10 +6,9 @@ assertions:
         value: Lancel Lannister
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Also mentioned in House Baratheon section as squire to King Robert. Source text: their eldest son, LA NCEL, squire to the king"
     assertion-lancel-lannister-gender:
         subject:
             person: person-lancel-lannister
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section."

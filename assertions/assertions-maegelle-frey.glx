@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Maegelle Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Stevron's daughter, {MAEGELLE}, died in childbed, m. Ser Dafyn Vance"
     assertion-maegelle-frey-gender:
         subject:
             person: person-maegelle-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Stevron's daughter, {MAEGELLE}, died in childbed, m. Ser Dafyn Vance"

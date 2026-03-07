@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "his brother, PRINCE OBERYN, called THE RED VIPER"
-        notes: "Verified against ASOS Appendix, House Martell section. In AFFC marked as deceased: {PRINCE OBERYN}, called THE RED VIPER, slain by Ser Gregor Clegane during a trial by combat."
+        notes: "Verified against ASOS Appendix, House Martell section. In AFFC marked as deceased: {PRINCE OBERYN}, called THE RED VIPER, slain by Ser Gregor Clegane during a trial by combat. Source text: his brother, PRINCE OBERYN, called THE RED VIPER"
     assertion-oberyn-martell-the-red-viper-gender:
         subject:
             person: person-oberyn-martell-the-red-viper
@@ -20,5 +19,4 @@ assertions:
             - citation-asos-appendix
         confidence: high
         status: accepted
-        text_from_source: "his brother, PRINCE OBERYN, called THE RED VIPER"
-        notes: "Verified against ASOS Appendix, House Martell section."
+        notes: "Verified against ASOS Appendix, House Martell section. Source text: his brother, PRINCE OBERYN, called THE RED VIPER"

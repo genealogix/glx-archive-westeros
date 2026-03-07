@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Luthor's son, SER THEODORE, m. Lady Lia Serry"
-        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Luthor (Moryn's son), married to Lady Lia Serry."
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Luthor (Moryn's son), married to Lady Lia Serry. Source text: Luthor's son, SER THEODORE, m. Lady Lia Serry"
     assertion-theodore-tyrell-gender:
         subject:
             person: person-theodore-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Luthor's son, SER THEODORE, m. Lady Lia Serry"
-        notes: "Verified against AFFC Appendix, House Tyrell section."
+        notes: "Verified against AFFC Appendix, House Tyrell section. Source text: Luthor's son, SER THEODORE, m. Lady Lia Serry"

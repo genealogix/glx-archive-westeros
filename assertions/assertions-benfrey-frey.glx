@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Benfrey Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Alive in ASOS, dead by AFFC (wound from Red Wedding). Source text: {SER BENFREY}, Lord Walder's sixteenth son, died of a wound received at the Red Wedding, m. Jyanna Frey, a cousin"
     assertion-benfrey-frey-gender:
         subject:
             person: person-benfrey-frey
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER BENFREY, m. Jyanna Frey, a cousin"

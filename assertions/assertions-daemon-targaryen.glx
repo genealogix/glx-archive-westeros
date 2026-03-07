@@ -6,10 +6,9 @@ assertions:
         value: Daemon Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Viserys I). Prince Daemon, brother of Viserys I. Source text: Viserys I's chief annoyance was his own brother, Prince Daemon Targaryen. Daemon was mercurial and quick to take offense, but he was dashing, daring, and dangerous. He was knighted at six-and-ten, like Maegor I, and Jaehaerys I himself gave Daemon the Valyrian steel blade Dark Sister for his prowess."
     assertion-daemon-targaryen-gender:
         subject:
             person: person-daemon-targaryen
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: his own brother, Prince Daemon Targaryen"

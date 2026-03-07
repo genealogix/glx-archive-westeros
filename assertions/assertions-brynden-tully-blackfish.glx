@@ -6,10 +6,10 @@ assertions:
         value: "Ser Brynden 'Blackfish' Tully"
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-adwd-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Tully section. Also in AGOT Arryn section as 'SER BRYNDEN TULLY, called the Blackfish, Knight of the Gate and uncle to the Lady Lysa'. ADWD updates to 'SER BRYNDEN TULLY, called THE BLACKFISH, lately castellan of Riverrun, now an outlaw'. Source text: his brother, SER BRYNDEN, called the Blackfish"
     assertion-brynden-tully-blackfish-gender:
         subject:
             person: person-brynden-tully-blackfish
@@ -17,7 +17,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Tully section. Listed as 'Ser' and 'his brother'."

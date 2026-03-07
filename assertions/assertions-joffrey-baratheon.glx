@@ -6,10 +6,9 @@ assertions:
         value: Joffrey Baratheon
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Baratheon section. Listed as Prince and heir. Source text: PRINCE JOFFREY, heir to the Iron Throne, twelve"
     assertion-joffrey-baratheon-gender:
         subject:
             person: person-joffrey-baratheon
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Baratheon section. Listed as Prince."

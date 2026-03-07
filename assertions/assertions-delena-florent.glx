@@ -5,19 +5,18 @@ assertions:
         property: name
         value: Delena Florent
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Mother of Edric Storm (bastard by King Robert), Alester Norcross, and Renly Norcross. AFFC confirms same. Source text: Colin's daughter, DELENA, wed to SER HOSMAN NORCROSS"
     assertion-delena-florent-gender:
         subject:
             person: person-delena-florent
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Listed as daughter of Ser Colin."

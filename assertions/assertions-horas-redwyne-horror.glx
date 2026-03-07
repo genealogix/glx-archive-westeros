@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER HORAS REDWYNE, twin to Hobber, called HORROR"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Twin to Hobber, mocked as Horror."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Twin to Hobber, mocked as Horror. Source text: SER HORAS REDWYNE, twin to Hobber, called HORROR"
     assertion-horas-redwyne-horror-gender:
         subject:
             person: person-horas-redwyne-horror
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER HORAS, mocked as Horror, twin to Hobber"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: SER HORAS, mocked as Horror, twin to Hobber"

@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Daughter of Maekar I per relationship data. Not explicitly named in TWOIAF text found so far; Maekar's daughters are not listed individually. Keep at medium confidence."
     assertion-rhaelle-targaryen-288-gender:
         subject:
             person: person-rhaelle-targaryen-288
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Daughter of Maekar I. Not individually named in TWOIAF text found."

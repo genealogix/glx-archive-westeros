@@ -6,10 +6,9 @@ assertions:
         value: "Duncan 'The Small' Targaryen"
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Aegon V). Also known as the Prince of Dragonflies. Foreswore his claim to the crown. Source text: Aegon's eldest son Duncan, Prince of Dragonstone and heir to the throne, was the first to defy him. Though betrothed to a daughter of House Baratheon of Storm's End, Duncan became enamored of a strange, lovely, and mysterious girl who called herself Jenny of Oldstones"
     assertion-duncan-targaryen-the-small-gender:
         subject:
             person: person-duncan-targaryen-the-small
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Aegon's eldest son Duncan, Prince of Dragonstone"

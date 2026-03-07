@@ -5,19 +5,19 @@ assertions:
         property: name
         value: "Aegon 'Bloodborn' Frey"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Aenys's son, AEGON BLOODBORN, an outlaw"
     assertion-aegon-frey-bloodborn-gender:
         subject:
             person: person-aegon-frey-bloodborn
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Aenys's son, AEGON BLOODBORN, an outlaw"

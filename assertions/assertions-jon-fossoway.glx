@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "LADY JANNA, wed to Ser Jon Fossoway"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Husband of Janna Tyrell (Mace's sister)."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Husband of Janna Tyrell (Mace's sister). Source text: LADY JANNA, wed to Ser Jon Fossoway"
     assertion-jon-fossoway-gender:
         subject:
             person: person-jon-fossoway
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER JON FOSSOWAY"
-        notes: "Verified against AGOT Appendix, House Tyrell bannermen."
+        notes: "Verified against AGOT Appendix, House Tyrell bannermen. Source text: SER JON FOSSOWAY"

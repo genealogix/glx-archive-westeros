@@ -6,10 +6,9 @@ assertions:
         value: Joy Hill
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Bastard daughter of Gerion Lannister. Source text: his bastard daughter, JOY, a girl of ten"
     assertion-joy-hill-gender:
         subject:
             person: person-joy-hill
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Listed as daughter."

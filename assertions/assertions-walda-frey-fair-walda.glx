@@ -5,19 +5,19 @@ assertions:
         property: name
         value: "Walda 'Fair Walda' Frey"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Walton's daughter, WALDA, called FAIR WALDA"
     assertion-walda-frey-fair-walda-gender:
         subject:
             person: person-walda-frey-fair-walda
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Walton's daughter, WALDA, called FAIR WALDA"

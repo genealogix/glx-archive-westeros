@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER GARLAN, called THE GALLANT, their second son, newly raised to Lord of Brightwater"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Called 'the Gallant'. In AFFC, newly raised to Lord of Brightwater."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Called 'the Gallant'. In AFFC, newly raised to Lord of Brightwater. Source text: SER GARLAN, called THE GALLANT, their second son, newly raised to Lord of Brightwater"
     assertion-garlan-tyrell-gender:
         subject:
             person: person-garlan-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER GARLAN, called the Gallant, their second son"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: SER GARLAN, called the Gallant, their second son"

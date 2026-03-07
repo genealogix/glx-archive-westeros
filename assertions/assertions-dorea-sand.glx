@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "DOREA, eight, his daughter by Ellaria Sand"
-        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes, daughter of Oberyn and Ellaria."
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes, daughter of Oberyn and Ellaria. Source text: DOREA, eight, his daughter by Ellaria Sand"
     assertion-dorea-sand-gender:
         subject:
             person: person-dorea-sand
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "DOREA, eight, his daughter by Ellaria Sand"
-        notes: "Verified against AFFC Appendix, House Martell section."
+        notes: "Verified against AFFC Appendix, House Martell section. Source text: DOREA, eight, his daughter by Ellaria Sand"

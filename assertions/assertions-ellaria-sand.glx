@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "ELLARIA SAND, Prince Oberyn's paramour, natural daughter of Lord Harmen Uller"
-        notes: "Verified against ASOS and AFFC Appendix, House Martell section. First appears in ASOS appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. First appears in ASOS appendix. Source text: ELLARIA SAND, Prince Oberyn's paramour, natural daughter of Lord Harmen Uller"
     assertion-ellaria-sand-gender:
         subject:
             person: person-ellaria-sand
@@ -20,5 +19,4 @@ assertions:
             - citation-asos-appendix
         confidence: high
         status: accepted
-        text_from_source: "Prince Oberyn's paramour, ELLARIA SAND"
-        notes: "Verified against ASOS Appendix, House Martell section."
+        notes: "Verified against ASOS Appendix, House Martell section. Source text: Prince Oberyn's paramour, ELLARIA SAND"

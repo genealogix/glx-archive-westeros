@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "TYENE, three-and-twenty, Oberyn's daughter by a septa"
-        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes."
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes. Source text: TYENE, three-and-twenty, Oberyn's daughter by a septa"
     assertion-tyene-sand-gender:
         subject:
             person: person-tyene-sand
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "TYENE, three-and-twenty, Oberyn's daughter by a septa"
-        notes: "Verified against AFFC Appendix, House Martell section."
+        notes: "Verified against AFFC Appendix, House Martell section. Source text: TYENE, three-and-twenty, Oberyn's daughter by a septa"

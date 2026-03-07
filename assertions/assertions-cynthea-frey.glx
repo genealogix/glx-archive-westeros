@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Cynthea Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Geremy's daughter, CYNTHEA, a girl of nine, a ward of Lady Anya Waynwood"
     assertion-cynthea-frey-gender:
         subject:
             person: person-cynthea-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Geremy's daughter, CYNTHEA, a girl of nine, a ward of Lady Anya Waynwood"

@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM as unnamed Targaryen (gender unknown). Child of Jaehaerys I and Alysanne, parent of Viserys II per relationship data. Likely Princess Alyssa Targaryen, who was 'wife to her brother Baelon the Brave; two of her sons would come to wear crowns' (Viserys I and Daemon). Cannot confirm without given name."
     assertion-targaryen-349-gender:
         subject:
             person: person-targaryen-349
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM with unknown gender. Likely Princess Alyssa Targaryen, daughter of Jaehaerys I."

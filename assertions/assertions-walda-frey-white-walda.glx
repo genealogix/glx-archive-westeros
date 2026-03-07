@@ -5,19 +5,19 @@ assertions:
         property: name
         value: "Walda 'White Walda' Frey"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists age ten, AFFC eleven. Source text: Rhaegar's daughter, WALDA, a girl of eleven, called WHITE WALDA"
     assertion-walda-frey-white-walda-gender:
         subject:
             person: person-walda-frey-white-walda
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Rhaegar's daughter, WALDA, a girl of ten, called WHITE WALDA"

@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Glover
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. No given name available. Not individually identifiable in novel appendices. Likely a placeholder for an unnamed Glover family member (possibly Lady Sybelle Glover nee unknown, or another unnamed relative). AGOT Appendix lists 'GALBART and ROBETT GLOVER' as bannermen, and ACOK lists 'LADY SYBELLE, wife to Robett Glover' but no unnamed female Glover. Retained with low confidence."
     assertion-glover-gender:
         subject:
             person: person-glover
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Not found in novel appendices. Gender from GEDCOM only."

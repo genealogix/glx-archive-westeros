@@ -6,10 +6,9 @@ assertions:
         value: Joanna Lannister
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Braces indicate deceased. Source text: his wife, {LA DY JOA NNA }, a cousin, died in childbed"
     assertion-joanna-lannister-gender:
         subject:
             person: person-joanna-lannister
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Listed as wife of Tywin."

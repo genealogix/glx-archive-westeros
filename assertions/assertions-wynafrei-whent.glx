@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Wynafrei Whent
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Wynafrei Whent appears only in chapter text or supplementary sources. May require chapter-level citation."
     assertion-wynafrei-whent-gender:
         subject:
             person: person-wynafrei-whent
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. May appear only in chapter text or supplementary sources."

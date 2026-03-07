@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM as unnamed male Targaryen. Child of Viserys I and a Hightower per relationship data. Likely one of Aegon II, Aemond, or Daeron (sons of Viserys I by Alicent Hightower) but cannot confirm without given name."
     assertion-targaryen-347-gender:
         subject:
             person: person-targaryen-347
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Unnamed son of Viserys I by Alicent Hightower."

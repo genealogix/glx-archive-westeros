@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Moryn's son, {SER LUTHOR}, m. Lady Elyn Norridge"
-        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Moryn, deceased, married to Lady Elyn Norridge."
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Moryn, deceased, married to Lady Elyn Norridge. Source text: Moryn's son, {SER LUTHOR}, m. Lady Elyn Norridge"
     assertion-luthor-tyrell-395-gender:
         subject:
             person: person-luthor-tyrell-395
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Moryn's son, {SER LUTHOR}, m. Lady Elyn Norridge"
-        notes: "Verified against AFFC Appendix, House Tyrell section."
+        notes: "Verified against AFFC Appendix, House Tyrell section. Source text: Moryn's son, {SER LUTHOR}, m. Lady Elyn Norridge"

@@ -6,10 +6,10 @@ assertions:
         value: Aegon Targaryen IV
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '172-184 Aegon IV the Unworthy, eldest son of Viserys'. Source text: WITH HIS FATHER'S death in 172 AC, Aegon, the Fourth of his Name, came at last to the throne that he had coveted as a boy. He had been comely in his youth, skilled with lance and sword, a man who loved to hunt and hawk and dance."
     assertion-aegon-targaryen-iv-gender:
         subject:
             person: person-aegon-targaryen-iv
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: The eldest was Aegon, born in the Red Keep in 135 AC after Viserys's return from Lys. He was a robust lad who grew to be handsome and charming, and also irresponsible and capricious"

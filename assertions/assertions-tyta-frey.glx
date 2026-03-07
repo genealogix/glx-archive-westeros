@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Tyta Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists her as a maid of twenty-nine. Source text: TYTA, Lord Walder's daughter, called TYTA THE MAID"
     assertion-tyta-frey-gender:
         subject:
             person: person-tyta-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: TYTA, called TYTA THE MAID, a maid of twenty-nine"

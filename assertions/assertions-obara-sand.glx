@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "OBARA, eight-and-twenty, Oberyn's daughter by an Oldtown whore"
-        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes."
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes. Source text: OBARA, eight-and-twenty, Oberyn's daughter by an Oldtown whore"
     assertion-obara-sand-gender:
         subject:
             person: person-obara-sand
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "OBARA, eight-and-twenty, Oberyn's daughter by an Oldtown whore"
-        notes: "Verified against AFFC Appendix, House Martell section."
+        notes: "Verified against AFFC Appendix, House Martell section. Source text: OBARA, eight-and-twenty, Oberyn's daughter by an Oldtown whore"

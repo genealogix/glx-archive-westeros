@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "PRINCESS ARIANNE, heir to Sunspear"
-        notes: "Verified against AGOT and AFFC Appendix, House Martell section. Eldest daughter and heir to Sunspear."
+        notes: "Verified against AGOT and AFFC Appendix, House Martell section. Eldest daughter and heir to Sunspear. Source text: PRINCESS ARIANNE, heir to Sunspear"
     assertion-arianne-martell-gender:
         subject:
             person: person-arianne-martell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "PRINCESS ARIANNE, their eldest daughter, heir to Sunspear"
-        notes: "Verified against AGOT Appendix, House Martell section."
+        notes: "Verified against AGOT Appendix, House Martell section. Source text: PRINCESS ARIANNE, their eldest daughter, heir to Sunspear"

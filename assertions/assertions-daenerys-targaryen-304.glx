@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Daenerys Targaryen
         citations:
-            - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Targaryen section. This is Daenerys Stormborn, daughter of Aerys II. Source text: PRINCESS DAENERYS, called Daenerys Stormborn, a maid of thirteen years."
     assertion-daenerys-targaryen-304-gender:
         subject:
             person: person-daenerys-targaryen-304
         property: gender
         value: female
         citations:
-            - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix. Source text: PRINCESS DAENERYS, called Daenerys Stormborn, a maid of thirteen years."

@@ -6,10 +6,10 @@ assertions:
         value: "Aemon 'The Dragonknight' Targaryen"
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix mentions 'Prince Aemon the Dragonknight, was champion and some say lover to Queen Naerys'. Source text: In 136 AC, Aemon followed. He was as robust as Aegon as an infant, and as beautiful to look upon, but his brother's faults were not in him. He proved the greatest jouster and swordsman of his age—a knight worthy to bear Dark Sister. He became known as the Dragonknight for the three-headed dragon crest wrought in white gold upon his helm."
     assertion-aemon-targaryen-the-dragonknight-gender:
         subject:
             person: person-aemon-targaryen-the-dragonknight
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: He proved the greatest jouster and swordsman of his age"

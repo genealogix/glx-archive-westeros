@@ -6,10 +6,9 @@ assertions:
         value: Aerion Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Aegon I). Lord Aerion of Dragonstone, father of Aegon the Conqueror, Visenya, and Rhaenys. Source text: He was the only son, and second child, of Aerion, Lord of Dragonstone, and Lady Valaena of House Velaryon, herself half-Targaryen on her mother's side."
     assertion-aerion-targaryen-358-gender:
         subject:
             person: person-aerion-targaryen-358
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Aerion, Lord of Dragonstone"

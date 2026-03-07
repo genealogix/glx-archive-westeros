@@ -6,10 +6,10 @@ assertions:
         value: Aegon Targaryen II
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '129-131 Aegon II eldest son of Viserys'. Source text: When his escort arrived with the litter and lifted the curtain, they found the king dead with blood on his lips. And so ended King Aegon II, poisoned by the men who served him—for they had seen the end even if he had not."
     assertion-aegon-targaryen-ii-gender:
         subject:
             person: person-aegon-targaryen-ii
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section and AGOT Appendix. Source text: Aegon II's ascent was disputed by his sister Rhaenyra"

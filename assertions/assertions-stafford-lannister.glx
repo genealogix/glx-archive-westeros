@@ -6,10 +6,9 @@ assertions:
         value: Stafford Lannister
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Cousin to Tywin, brother of Lady Joanna. Source text: their cousin, SER STA FFORD LA NNISTER, brother to the late Lady Joanna"
     assertion-stafford-lannister-gender:
         subject:
             person: person-stafford-lannister
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Listed as Ser."

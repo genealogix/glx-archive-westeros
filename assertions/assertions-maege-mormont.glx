@@ -6,10 +6,10 @@ assertions:
         value: Maege Mormont
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section (listed as principal bannerman). AFFC Appendix expands: 'MAEGE MORMONT, Lady of Bear Island' with daughters Dacey, Alysane, Lyra, Jorelle, Lyanna. Source text: MAEGE MORMONT, the Lady of Bear Island"
     assertion-maege-mormont-gender:
         subject:
             person: person-maege-mormont
@@ -17,7 +17,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Listed as Lady."

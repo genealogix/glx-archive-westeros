@@ -6,10 +6,9 @@ assertions:
         value: Valarr Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Daeron II). Son of Baelor Breakspear, died in the Great Spring Sickness. Source text: Baelor had sons—the young princes Valarr and Matarys... the sons of Baelor Breakspear were amongst those carried away"
     assertion-valarr-targaryen-gender:
         subject:
             person: person-valarr-targaryen
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: the young princes Valarr and Matarys"

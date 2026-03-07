@@ -8,8 +8,7 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "Peaceable King Daeron II succeeded where the warriors had failed by wedding the Dornish princess Myriah and giving his own sister in marriage to the reigning Prince of Dorne."
-        notes: "Verified against AGOT Appendix, House Martell introductory text."
+        notes: "Verified against AGOT Appendix, House Martell introductory text. Source text: Peaceable King Daeron II succeeded where the warriors had failed by wedding the Dornish princess Myriah and giving his own sister in marriage to the reigning Prince of Dorne."
     assertion-myriah-martell-gender:
         subject:
             person: person-myriah-martell
@@ -19,5 +18,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "the Dornish princess Myriah"
-        notes: "Verified against AGOT Appendix, House Martell introductory text."
+        notes: "Verified against AGOT Appendix, House Martell introductory text. Source text: the Dornish princess Myriah"

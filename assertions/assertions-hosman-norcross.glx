@@ -5,19 +5,18 @@ assertions:
         property: name
         value: Hosman Norcross
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Husband of Delena Florent. Confirmed in ASOS and AFFC appendices. Source text: DELENA, wed to SER HOSMAN NORCROSS"
     assertion-hosman-norcross-gender:
         subject:
             person: person-hosman-norcross
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Listed as Ser."

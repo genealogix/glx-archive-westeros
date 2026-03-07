@@ -6,10 +6,9 @@ assertions:
         value: Aerion Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Maekar I). Son of Maekar I, known as Aerion Brightflame/Brightfire. Source text: Prince Aerion, known as Brightflame or Brightfire—a most puissant knight but cruel and capricious, and a dabbler in the black arts... Aerion Brightfire's son was born in 232 AC, and given the ominous name of Maegor by his sire, but the Bright Prince himself died that same year when he drank a cup of wildfire in the belief that it would allow him to transform himself into a dragon."
     assertion-aerion-targaryen-285-gender:
         subject:
             person: person-aerion-targaryen-285
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Prince Aerion, known as Brightflame or Brightfire"

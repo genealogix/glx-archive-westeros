@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Robert Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists him as sixteen, in training at Citadel. AFFC lists him as an acolyte. Distinct from Rhaegar's son Robert (person-robert-frey-40). Source text: Raymund's son, ROBERT, an acolyte at the Citadel"
     assertion-robert-frey-96-gender:
         subject:
             person: person-robert-frey-96
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Raymund's son, ROBERT, sixteen, in training at the Citadel in Oldtown"

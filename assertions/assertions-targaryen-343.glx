@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM as unnamed male Targaryen. Child of Viserys I and an Arryn per relationship data. Cannot match to a specific named child from TWOIAF."
     assertion-targaryen-343-gender:
         subject:
             person: person-targaryen-343
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Unnamed child of Viserys I."

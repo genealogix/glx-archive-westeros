@@ -5,19 +5,18 @@ assertions:
         property: name
         value: Ser Colin Florent
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Listed as sibling of Lord Alester. AFFC Appendix adds 'castellan at Brightwater Keep'. Father of Delena, Maester Omer, and Merrell. Source text: SER COLIN"
     assertion-colin-florent-gender:
         subject:
             person: person-colin-florent
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, House Florent section. Listed as Ser."

@@ -8,8 +8,7 @@ assertions:
             - citation-twoiaf-appendix
         confidence: high
         status: accepted
-        text_from_source: "Daeron II and Prince Maron Martell at the monument to King Baelor."
-        notes: "Verified against TWOIAF. Prince Maron Martell married Daeron II's sister Daenerys, sealing Dorne's entry into the realm."
+        notes: "Verified against TWOIAF. Prince Maron Martell married Daeron II's sister Daenerys, sealing Dorne's entry into the realm. Source text: Daeron II and Prince Maron Martell at the monument to King Baelor."
     assertion-maron-martell-gender:
         subject:
             person: person-maron-martell
@@ -19,5 +18,4 @@ assertions:
             - citation-twoiaf-appendix
         confidence: high
         status: accepted
-        text_from_source: "Prince Maron Martell"
-        notes: "Verified against TWOIAF."
+        notes: "Verified against TWOIAF. Source text: Prince Maron Martell"

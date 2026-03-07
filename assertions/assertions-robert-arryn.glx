@@ -6,10 +6,10 @@ assertions:
         value: Robert Arryn
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-adwd-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. ADWD Appendix updates to 'ROBERT ARRYN, Lord of the Eyrie, Defender of the Vale, a sickly boy of eight years, called SWEETROBIN'. Source text: ROBERT ARRYN, a sickly boy of six years, now Lord of the Eyrie and Defender of the Vale"
     assertion-robert-arryn-gender:
         subject:
             person: person-robert-arryn
@@ -17,7 +17,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. Listed as 'a sickly boy'."

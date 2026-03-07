@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "DESMERA REDWYNE, a maid of sixteen"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Daughter of Paxter Redwyne and Mina Tyrell."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Daughter of Paxter Redwyne and Mina Tyrell. Source text: DESMERA REDWYNE, a maid of sixteen"
     assertion-desmera-redwyne-gender:
         subject:
             person: person-desmera-redwyne
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "DESMERA, a maid of fifteen"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: DESMERA, a maid of fifteen"

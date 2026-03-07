@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "PRINCE QUENTYN, a new-made knight, long fostered by Lord Yronwood of Yronwood"
-        notes: "Verified against AGOT and AFFC Appendix, House Martell section."
+        notes: "Verified against AGOT and AFFC Appendix, House Martell section. Source text: PRINCE QUENTYN, a new-made knight, long fostered by Lord Yronwood of Yronwood"
     assertion-quentyn-martell-gender:
         subject:
             person: person-quentyn-martell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "PRINCE QUENTYN, their elder son"
-        notes: "Verified against AGOT Appendix, House Martell section."
+        notes: "Verified against AGOT Appendix, House Martell section. Source text: PRINCE QUENTYN, their elder son"

@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Cleos Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Alive in ASOS, dead by AFFC. Source text: Emmon's son, {SER CLEOS}, killed by outlaws near Maidenpool, m. Jeyne Darry"
     assertion-cleos-frey-gender:
         subject:
             person: person-cleos-frey
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Emmon's son, SER CLEOS, m. Jeyne Darry"

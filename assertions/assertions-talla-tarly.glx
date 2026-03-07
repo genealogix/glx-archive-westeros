@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Talla Tarly
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "From GEDCOM. Talla Tarly is mentioned in AFFC prose (Sam's sister) but does not appear by name in any novel appendix. Retained at medium confidence based on prose references."
     assertion-talla-tarly-gender:
         subject:
             person: person-talla-tarly
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "From GEDCOM. Talla is Sam's sister, mentioned in prose but not in appendices."

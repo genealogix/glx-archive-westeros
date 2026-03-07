@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Tywin Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists age eleven, AFFC twelve. Also called TY in AFFC Lannister appendix. Source text: Cleos's son, TYWIN, a squire of twelve"
     assertion-tywin-frey-gender:
         subject:
             person: person-tywin-frey
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Cleos's son, TYWIN, a squire of eleven"

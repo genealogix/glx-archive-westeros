@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Lythene Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. AFFC spells it LYENTHE but this is the same person. Source text: LADY LYTHENE, m. Lord Lucias Vypren"
     assertion-lythene-frey-gender:
         subject:
             person: person-lythene-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: LADY LYTHENE, m. Lord Lucias Vypren"

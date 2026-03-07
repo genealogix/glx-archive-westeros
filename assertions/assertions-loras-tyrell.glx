@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER LORAS, the Knight of Flowers, their youngest son, a Sworn Brother of the Kingsguard"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Known as the Knight of Flowers."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Known as the Knight of Flowers. Source text: SER LORAS, the Knight of Flowers, their youngest son, a Sworn Brother of the Kingsguard"
     assertion-loras-tyrell-gender:
         subject:
             person: person-loras-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER LORAS, the Knight of Flowers, their youngest son"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: SER LORAS, the Knight of Flowers, their youngest son"

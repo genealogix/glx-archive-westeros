@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM as unnamed male Targaryen. Child of Valarr Targaryen per relationship data. TWOIAF mentions Valarr died in the Great Spring Sickness but does not name his children. Cannot verify from source text."
     assertion-targaryen-300-gender:
         subject:
             person: person-targaryen-300
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Unnamed child of Valarr Targaryen."

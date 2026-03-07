@@ -6,10 +6,10 @@ assertions:
         value: Randyll Tarly
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Tyrell section (bannermen). AFFC Appendix lists him twice: under Tyrell bannermen and in Appendix III as 'RANDYLL TARLY, Lord of Horn Hill, commanding King Tommen's forces along the Trident'. Source text: RANDYLL TARLY, Lord of Horn Hill"
     assertion-randyll-tarly-gender:
         subject:
             person: person-randyll-tarly
@@ -17,7 +17,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Listed as Lord."

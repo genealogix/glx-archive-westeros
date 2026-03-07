@@ -8,8 +8,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Lord Leyton's son, SER GUNTHOR, m. Jeyne Fossoway, of the green apple Fossoways"
-        notes: "Verified against AFFC Appendix, House Hightower section. Wife of Ser Gunthor Hightower, of the green apple Fossoways."
+        notes: "Verified against AFFC Appendix, House Hightower section. Wife of Ser Gunthor Hightower, of the green apple Fossoways. Source text: Lord Leyton's son, SER GUNTHOR, m. Jeyne Fossoway, of the green apple Fossoways"
     assertion-jeyne-fossoway-gender:
         subject:
             person: person-jeyne-fossoway
@@ -19,5 +18,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Jeyne Fossoway, of the green apple Fossoways"
-        notes: "Verified against AFFC Appendix, House Hightower section."
+        notes: "Verified against AFFC Appendix, House Hightower section. Source text: Jeyne Fossoway, of the green apple Fossoways"

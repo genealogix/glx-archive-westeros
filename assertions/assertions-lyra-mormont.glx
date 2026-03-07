@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Lyra Mormont
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, House Stark section. Listed as daughter of Maege Mormont. Source text: ALYSANE, LYRA, JORELLE, LYANNA, her daughters"
     assertion-lyra-mormont-gender:
         subject:
             person: person-lyra-mormont
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix. Listed as daughter."

@@ -6,10 +6,9 @@ assertions:
         value: Brandon Stark
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Eddard's elder brother, deceased (indicated by braces). Source text: {BRANDON}, his elder brother, murdered by the command of Aerys II Targaryen"
     assertion-brandon-stark-213-gender:
         subject:
             person: person-brandon-stark-213
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Listed as 'his elder brother'."

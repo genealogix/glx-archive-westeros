@@ -5,19 +5,17 @@ assertions:
         property: name
         value: "Sylva 'Spotted Sylva' Santagar"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, Dorne section. Daughter and heir of Ser Symon Santagar, the Knight of Spottswood. Source text: SYLVA, his daughter and heir, called SPOTTED SYLVA for her freckles"
     assertion-sylva-santagar-spotted-sylva-gender:
         subject:
             person: person-sylva-santagar-spotted-sylva
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AFFC Appendix, Dorne section. Listed as daughter and heir."

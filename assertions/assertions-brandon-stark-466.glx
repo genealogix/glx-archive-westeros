@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Brandon Stark
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. A historical Brandon Stark from GEDCOM import (distinct from Brandon son of Rickard and Brandon 'Bran' son of Eddard). May appear only in TWOIAF or supplementary sources."
     assertion-brandon-stark-466-gender:
         subject:
             person: person-brandon-stark-466
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Historical Brandon Stark from GEDCOM import."

@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM as unnamed male Targaryen. Child of Viserys I and an Arryn per relationship data. Viserys I's children by his first wife Aemma Arryn and by Alicent Hightower are named in TWOIAF (Rhaenyra, Aegon II, Aemond, Daeron, Helaena, etc.) but cannot match this unnamed record to a specific child."
     assertion-targaryen-342-gender:
         subject:
             person: person-targaryen-342
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Unnamed child of Viserys I."

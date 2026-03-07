@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Lomas Estermont
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, King in the Narrow Sea section. Listed as uncle of Stannis Baratheon. Source text: SER LOMAS ESTERMONT, an uncle"
     assertion-lomas-estermont-gender:
         subject:
             person: person-lomas-estermont
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, King in the Narrow Sea section. Listed as Ser."

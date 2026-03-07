@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Tully
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed Tully male from GEDCOM import, likely a placeholder for Hoster's father or an ancestor. May appear only in TWOIAF or supplementary sources."
     assertion-tully-gender:
         subject:
             person: person-tully
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Unnamed Tully male from GEDCOM import."

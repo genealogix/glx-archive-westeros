@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "SARELLA, nineteen, his daughter by a trader, captain of the Feathered Kiss"
-        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes."
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes. Source text: SARELLA, nineteen, his daughter by a trader, captain of the Feathered Kiss"
     assertion-sarella-sand-gender:
         subject:
             person: person-sarella-sand
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "SARELLA, nineteen, his daughter by a trader"
-        notes: "Verified against AFFC Appendix, House Martell section."
+        notes: "Verified against AFFC Appendix, House Martell section. Source text: SARELLA, nineteen, his daughter by a trader"

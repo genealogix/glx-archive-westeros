@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Elys Waynwood
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Elys Waynwood appears only in chapter text or supplementary sources. May require chapter-level citation."
     assertion-elys-waynwood-gender:
         subject:
             person: person-elys-waynwood
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. May appear only in chapter text or supplementary sources."

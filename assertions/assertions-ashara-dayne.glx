@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Ashara Dayne
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "From GEDCOM. Ashara Dayne is mentioned in AGOT and ASOS prose (connected to Ned Stark and the events at the Tower of Joy) but does not appear by name in any novel appendix. Retained at medium confidence as a prose-only character."
     assertion-ashara-dayne-gender:
         subject:
             person: person-ashara-dayne
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "From GEDCOM. Referenced as Lady in prose. Not found in novel appendices."

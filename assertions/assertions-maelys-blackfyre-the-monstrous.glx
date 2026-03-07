@@ -6,10 +6,9 @@ assertions:
         value: "Maelys 'The Monstrous' Blackfyre"
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Band of Nine). The fifth and last Blackfyre Pretender, slain by Ser Barristan Selmy. Source text: MAELYS BLACKFYRE, THE MONSTROUS: Captain of the Golden Company, named for his grotesquely huge torso and arms, fearsome strength, and savage nature. A second head grew from his neck, no bigger than a fist."
     assertion-maelys-blackfyre-the-monstrous-gender:
         subject:
             person: person-maelys-blackfyre-the-monstrous
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Maelys the Monstrous was the fifth and last of the Blackfyre Pretenders; with his death, the curse that Aegon the Unworthy had inflicted on the Seven Kingdoms by giving his sword to his bastard son was finally ended."

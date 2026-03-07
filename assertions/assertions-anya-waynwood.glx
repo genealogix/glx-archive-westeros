@@ -6,10 +6,10 @@ assertions:
         value: Anya Waynwood
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-adwd-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. ADWD Appendix updates to 'ANYA WAYNWOOD, Lady of Ironoaks Castle'. Source text: LADY ANYA WAYNWOOD, a widow"
     assertion-anya-waynwood-gender:
         subject:
             person: person-anya-waynwood
@@ -17,7 +17,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. Listed as 'Lady' and 'a widow'."

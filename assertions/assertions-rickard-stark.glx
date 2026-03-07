@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not listed as a separate entry in any novel appendix. Mentioned indirectly as Eddard's father in chapter text (AGOT Eddard I: 'Lord Rickard Stark, Ned's father'). GEDCOM data retained pending chapter-level citation."
     assertion-rickard-stark-gender:
         subject:
             person: person-rickard-stark
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not listed as a separate entry in any novel appendix. Referred to as 'Lord Rickard Stark' in chapter text. GEDCOM data retained pending chapter-level citation."

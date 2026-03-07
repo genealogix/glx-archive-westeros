@@ -5,19 +5,18 @@ assertions:
         property: name
         value: Beric Dondarrion
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS Appendix, Outlaw Fellowship section. AFFC Appendix notes him as dead: '{BERIC DONDARRION}, once Lord of Blackhaven, six times slain'. AGOT Appendix mentions Dondarrion among houses sworn to Storm's End. Source text: BERIC DONDARRION, Lord of Blackhaven, called THE LIGHTNING LORD, oft reported dead"
     assertion-beric-dondarrion-gender:
         subject:
             person: person-beric-dondarrion
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS Appendix. Listed as Lord."

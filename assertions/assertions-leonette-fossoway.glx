@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Garlan's wife, LADY LEONETTE of House Fossoway"
-        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Wife of Ser Garlan Tyrell."
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Wife of Ser Garlan Tyrell. Source text: Garlan's wife, LADY LEONETTE of House Fossoway"
     assertion-leonette-fossoway-gender:
         subject:
             person: person-leonette-fossoway
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Garlan's wife, LADY LEONETTE of House Fossoway"
-        notes: "Verified against AFFC Appendix, House Tyrell section."
+        notes: "Verified against AFFC Appendix, House Tyrell section. Source text: Garlan's wife, LADY LEONETTE of House Fossoway"

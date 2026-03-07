@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Denys Arryn
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. Denys Arryn (the Darling of the Vale, killed during Robert's Rebellion) appears only in chapter text. May require chapter-level citation."
     assertion-denys-arryn-gender:
         subject:
             person: person-denys-arryn
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Not found in novel appendices. May appear only in chapter text."

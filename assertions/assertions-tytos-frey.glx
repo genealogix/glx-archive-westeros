@@ -3,21 +3,21 @@ assertions:
         subject:
             person: person-tytos-frey
         property: name
-        value: Ser Tytos Frey
+        value: Tytos Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Alive in ASOS, dead by AFFC (slain at Red Wedding). Source text: Jared's son, {SER TYTOS}, slain by Sandor Clegane during the Red Wedding, m. Zhoe Blanetree"
     assertion-tytos-frey-gender:
         subject:
             person: person-tytos-frey
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Jared's son, SER TYTOS, m. Zhoe Blanetree"

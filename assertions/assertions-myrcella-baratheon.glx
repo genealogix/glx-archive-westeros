@@ -6,10 +6,9 @@ assertions:
         value: Myrcella Baratheon
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Baratheon section. Source text: PRINCESS MYRCELLA , a girl of eight"
     assertion-myrcella-baratheon-gender:
         subject:
             person: person-myrcella-baratheon
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Baratheon section. Listed as Princess."

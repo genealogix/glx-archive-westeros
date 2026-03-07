@@ -6,10 +6,9 @@ assertions:
         value: Rowena
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. Jon Arryn's second wife and cousin, deceased (indicated by braces). Surname is Arryn. Source text: his second wife, {LADY ROWENA, of House Arryn}, his cousin, died of a winter chill, childless"
     assertion-rowena-gender:
         subject:
             person: person-rowena
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Arryn section. Listed as 'Lady' and 'his second wife'."

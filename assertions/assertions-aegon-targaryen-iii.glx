@@ -6,10 +6,10 @@ assertions:
         value: Aegon Targaryen III
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '131-157 Aegon III the Dragonbane, Rhaenyra's son'. Source text: WHEN AEGON THE Younger came to the Iron Throne in 131 AC as Aegon III, after the death of his uncle Aegon II, the realm may well have thought that its troubles were done."
     assertion-aegon-targaryen-iii-gender:
         subject:
             person: person-aegon-targaryen-iii
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: the young Aegon III—who was eleven at the time—agreed to make Lord Stark his Hand"

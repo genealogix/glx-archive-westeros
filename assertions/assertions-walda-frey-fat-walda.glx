@@ -5,19 +5,19 @@ assertions:
         property: name
         value: "Walda 'Fat Walda' Frey"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Merrett's daughter, WALDA, called FAT WALDA, m. Roose Bolton, Lord of the Dreadfort"
     assertion-walda-frey-fat-walda-gender:
         subject:
             person: person-walda-frey-fat-walda
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Merrett's daughter, WALDA, called FAT WALDA, a wife of fifteen years, m. Lord Roose Bolton"

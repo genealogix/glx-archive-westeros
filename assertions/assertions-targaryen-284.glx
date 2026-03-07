@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM as unnamed female Targaryen. Child of Daeron the Drunken (son of Maekar I) per relationship data. Likely Princess Vaella, the simple-minded daughter of Prince Daeron mentioned in TWOIAF. Cannot confirm without given name in GEDCOM. Source text: Prince Daeron sired a daughter, Vaella, in 222 AC, but the girl sadly proved simple."
     assertion-targaryen-284-gender:
         subject:
             person: person-targaryen-284
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Likely Vaella Targaryen, daughter of Prince Daeron the Drunken."

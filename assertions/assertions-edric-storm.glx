@@ -5,19 +5,18 @@ assertions:
         property: name
         value: Edric Storm
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+            - citation-adwd-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix, King in Highgarden section. ADWD Appendix: 'EDRIC STORM, his acknowledged bastard son by Lady Delena of House Florent, hiding in Lys'. Source text: EDRIC STORM, a bastard son of King Robert by Lady Delena of House Florent"
     assertion-edric-storm-gender:
         subject:
             person: person-edric-storm
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-acok-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ACOK Appendix. Listed as bastard son."

@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Luthor's son, MAESTER MEDWICK"
-        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Luthor (Moryn's son)."
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Luthor (Moryn's son). Source text: Luthor's son, MAESTER MEDWICK"
     assertion-medwick-tyrell-gender:
         subject:
             person: person-medwick-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Luthor's son, MAESTER MEDWICK"
-        notes: "Verified against AFFC Appendix, House Tyrell section."
+        notes: "Verified against AFFC Appendix, House Tyrell section. Source text: Luthor's son, MAESTER MEDWICK"

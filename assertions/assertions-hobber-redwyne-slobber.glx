@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER HOBBER REDWYNE, twin to Horas, called SLOBBER"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Twin to Horas, mocked as Slobber."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Twin to Horas, mocked as Slobber. Source text: SER HOBBER REDWYNE, twin to Horas, called SLOBBER"
     assertion-hobber-redwyne-slobber-gender:
         subject:
             person: person-hobber-redwyne-slobber
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "SER HOBBER, mocked as Slobber, twin to Horas"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: SER HOBBER, mocked as Slobber, twin to Horas"

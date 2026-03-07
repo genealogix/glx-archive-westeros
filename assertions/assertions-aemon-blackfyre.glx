@@ -6,10 +6,9 @@ assertions:
         value: Aemon Blackfyre
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section (Daeron II / First Blackfyre Rebellion). Son of Daemon Blackfyre, slain at the Redgrass Field. Source text: Daemon and his eldest sons, Aegon and Aemon, were brought down beneath the withering fall of arrows sent by Brynden Rivers and his private guards, the Raven's Teeth."
     assertion-aemon-blackfyre-gender:
         subject:
             person: person-aemon-blackfyre
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: his eldest sons, Aegon and Aemon"

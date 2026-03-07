@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "MARGAERY, their daughter, twice wed and twice widowed"
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. In AGOT listed as 'a maid of fourteen years'. In AFFC 'twice wed and twice widowed'."
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. In AGOT listed as 'a maid of fourteen years'. In AFFC 'twice wed and twice widowed'. Source text: MARGAERY, their daughter, twice wed and twice widowed"
     assertion-margaery-tyrell-gender:
         subject:
             person: person-margaery-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "MARGAERY, their daughter, a maid of fourteen years"
-        notes: "Verified against AGOT Appendix, House Tyrell section."
+        notes: "Verified against AGOT Appendix, House Tyrell section. Source text: MARGAERY, their daughter, a maid of fourteen years"

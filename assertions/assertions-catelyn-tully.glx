@@ -6,10 +6,9 @@ assertions:
         value: Catelyn Tully
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Also listed in House Tully section as 'CATELYN, the eldest daughter, wed to Lord Eddard Stark'. Source text: his wife, LADY CATELYN, of House Tully"
     assertion-catelyn-tully-gender:
         subject:
             person: person-catelyn-tully
@@ -17,7 +16,6 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Listed as 'Lady' and 'his wife'."

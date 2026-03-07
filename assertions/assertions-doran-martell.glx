@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "DORAN NYMEROS MARTELL, Lord of Sunspear, Prince of Dorne"
-        notes: "Verified against AGOT Appendix and AFFC Appendix, House Martell section. Full style: Doran Nymeros Martell."
+        notes: "Verified against AGOT Appendix and AFFC Appendix, House Martell section. Full style: Doran Nymeros Martell. Source text: DORAN NYMEROS MARTELL, Lord of Sunspear, Prince of Dorne"
     assertion-doran-martell-gender:
         subject:
             person: person-doran-martell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "DORAN NYMEROS MARTELL, Lord of Sunspear, Prince of Dorne"
-        notes: "Verified against AGOT Appendix, House Martell section."
+        notes: "Verified against AGOT Appendix, House Martell section. Source text: DORAN NYMEROS MARTELL, Lord of Sunspear, Prince of Dorne"

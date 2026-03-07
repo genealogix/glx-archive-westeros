@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Jyanna Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Mentioned as Benfrey's wife, a Frey cousin. Source text: SER BENFREY, m. Jyanna Frey, a cousin"
     assertion-jyanna-frey-gender:
         subject:
             person: person-jyanna-frey
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER BENFREY, m. Jyanna Frey, a cousin"

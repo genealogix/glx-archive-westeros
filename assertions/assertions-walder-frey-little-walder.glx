@@ -5,19 +5,19 @@ assertions:
         property: name
         value: "Walder 'Little Walder' Frey"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists him as seven, a ward at Winterfell. AFFC lists him as eight, squire to Ramsay Bolton. Source text: Merrett's son, WALDER, called LITTLE WALDER, eight, a squire in service to Ramsay Bolton"
     assertion-walder-frey-little-walder-gender:
         subject:
             person: person-walder-frey-little-walder
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: Merrett's son, WALDER, called LITTLE WALDER, a boy of seven"

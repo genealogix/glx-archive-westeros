@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Theodore's daughter, ELINOR"
-        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Daughter of Ser Theodore Tyrell, one of Margaery's companions."
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Daughter of Ser Theodore Tyrell, one of Margaery's companions. Source text: Theodore's daughter, ELINOR"
     assertion-elinor-tyrell-gender:
         subject:
             person: person-elinor-tyrell
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "her cousins, MEGGA, ALLA, and ELINOR TYRELL"
-        notes: "Verified against AFFC Appendix, House Tyrell section."
+        notes: "Verified against AFFC Appendix, House Tyrell section. Source text: her cousins, MEGGA, ALLA, and ELINOR TYRELL"

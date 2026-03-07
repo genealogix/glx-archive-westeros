@@ -6,10 +6,9 @@ assertions:
         value: Orys Baratheon
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Baratheon section introductory text. Source text: Its founder, Orys Baratheon, was rumored to be A egon the Dragon's bastard brother."
     assertion-orys-baratheon-gender:
         subject:
             person: person-orys-baratheon
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Baratheon section. Referred to as brother and he."

@@ -6,10 +6,10 @@ assertions:
         value: Jon Snow
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-adwd-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to 'his bastard half-brother, JON SNOW, of the Night's Watch'. Source text: his bastard son, JON SNOW, a boy of fourteen"
     assertion-jon-snow-gender:
         subject:
             person: person-jon-snow
@@ -17,7 +17,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Listed as 'his bastard son, a boy'."

@@ -8,8 +8,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Lord Leyton's daughter, LEYLA, m. Ser Jon Cupps"
-        notes: "Verified against AFFC Appendix, House Hightower section. Married to Ser Jon Cupps."
+        notes: "Verified against AFFC Appendix, House Hightower section. Married to Ser Jon Cupps. Source text: Lord Leyton's daughter, LEYLA, m. Ser Jon Cupps"
     assertion-leyla-hightower-gender:
         subject:
             person: person-leyla-hightower
@@ -19,5 +18,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Lord Leyton's daughter, LEYLA"
-        notes: "Verified against AFFC Appendix, House Hightower section."
+        notes: "Verified against AFFC Appendix, House Hightower section. Source text: Lord Leyton's daughter, LEYLA"

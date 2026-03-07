@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Baratheon
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Unnamed Baratheon placeholder from GEDCOM import. Not identifiable in any novel appendix. No given name recorded."
     assertion-baratheon-499-gender:
         subject:
             person: person-baratheon-499
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
-        confidence: medium
+        confidence: low
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Unnamed Baratheon placeholder from GEDCOM import. Not found in any novel appendix."

@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "PRINCE TRYSTANE, betrothed to Myrcella Baratheon"
-        notes: "Verified against AGOT and AFFC Appendix, House Martell section."
+        notes: "Verified against AGOT and AFFC Appendix, House Martell section. Source text: PRINCE TRYSTANE, betrothed to Myrcella Baratheon"
     assertion-trystane-martell-gender:
         subject:
             person: person-trystane-martell
@@ -20,5 +19,4 @@ assertions:
             - citation-agot-appendix
         confidence: high
         status: accepted
-        text_from_source: "PRINCE TRYSTANE, their younger son"
-        notes: "Verified against AGOT Appendix, House Martell section."
+        notes: "Verified against AGOT Appendix, House Martell section. Source text: PRINCE TRYSTANE, their younger son"

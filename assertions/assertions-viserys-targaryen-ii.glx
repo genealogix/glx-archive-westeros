@@ -6,10 +6,10 @@ assertions:
         value: Viserys Targaryen II
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '171-172 Viserys II younger brother of Aegon III'. Source text: It has been written that while Daeron warred and Baelor prayed, Viserys ruled. For fourteen years he served as Hand to his nephews, and before them he served his brother, King Aegon III."
     assertion-viserys-targaryen-ii-gender:
         subject:
             person: person-viserys-targaryen-ii
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: After his years as a hostage in Lys following the Dance, Viserys returned to King's Landing with a beautiful Lyseni bride, Larra Rogare"

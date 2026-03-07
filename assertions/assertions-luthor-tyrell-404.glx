@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Theodore's son, LUTHOR, a squire"
-        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Theodore, a squire."
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Theodore, a squire. Source text: Theodore's son, LUTHOR, a squire"
     assertion-luthor-tyrell-404-gender:
         subject:
             person: person-luthor-tyrell-404
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Theodore's son, LUTHOR, a squire"
-        notes: "Verified against AFFC Appendix, House Tyrell section."
+        notes: "Verified against AFFC Appendix, House Tyrell section. Source text: Theodore's son, LUTHOR, a squire"

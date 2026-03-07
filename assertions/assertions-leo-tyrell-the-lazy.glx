@@ -9,8 +9,7 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Moryn's son, LEO, called LEO THE LAZY, a novice at the Citadel of Oldtown"
-        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Moryn, a novice at the Citadel."
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Moryn, a novice at the Citadel. Source text: Moryn's son, LEO, called LEO THE LAZY, a novice at the Citadel of Oldtown"
     assertion-leo-tyrell-the-lazy-gender:
         subject:
             person: person-leo-tyrell-the-lazy
@@ -20,5 +19,4 @@ assertions:
             - citation-affc-appendix
         confidence: high
         status: accepted
-        text_from_source: "Moryn's son, LEO, called LEO THE LAZY"
-        notes: "Verified against AFFC Appendix, House Tyrell section."
+        notes: "Verified against AFFC Appendix, House Tyrell section. Source text: Moryn's son, LEO, called LEO THE LAZY"

@@ -6,10 +6,9 @@ assertions:
         value: Maegon Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Son of Aegon and Elaena Targaryen, early Lord of Dragonstone. Source text: After them the lordship passed to their son Maegon, his brother Aerys, and Aerys's sons, Aelyx, Baelon, and Daemion."
     assertion-maegon-targaryen-gender:
         subject:
             person: person-maegon-targaryen
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: their son Maegon"

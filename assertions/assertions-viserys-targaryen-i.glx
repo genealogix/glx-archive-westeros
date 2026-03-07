@@ -6,10 +6,10 @@ assertions:
         value: Viserys Targaryen I
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists '103-129 Viserys I grandson to Jaehaerys'. Source text: AFTER THE LONG and peaceful reign of Jaehaerys I, Viserys inherited a secure throne, a full treasury, and a legacy of goodwill that his grandfather had cultivated over fifty years. House Targaryen was never again so powerful as it was in Viserys's reign."
     assertion-viserys-targaryen-i-gender:
         subject:
             person: person-viserys-targaryen-i
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: Viserys inherited a secure throne"

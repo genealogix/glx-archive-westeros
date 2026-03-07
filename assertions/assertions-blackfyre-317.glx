@@ -9,7 +9,7 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM as unnamed Blackfyre. Child of Daemon Blackfyre per relationship data. TWOIAF mentions Daemon had 'seven sons and daughters' by Rohanne of Tyrosh. Parent of Maelys the Monstrous per relationship data. Cannot identify specific name from source text."
     assertion-blackfyre-317-gender:
         subject:
             person: person-blackfyre-317
@@ -20,4 +20,4 @@ assertions:
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Unnamed son of Daemon Blackfyre."

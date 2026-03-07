@@ -6,10 +6,9 @@ assertions:
         value: Eddard Stark
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Source text: EDDARD STARK, Lord of Winterfell, Warden of the North"
     assertion-eddard-stark-gender:
         subject:
             person: person-eddard-stark
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Stark section. Listed as lord and husband, with 'his wife' and 'his children' establishing male gender."

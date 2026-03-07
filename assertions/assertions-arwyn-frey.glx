@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Arwyn Frey
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. Eldest child by seventh wife Lady Annara of House Farring. Source text: ARWYN, Lord Walder's daughter, a maid of fourteen"
     assertion-arwyn-frey-gender:
         subject:
             person: person-arwyn-frey
         property: gender
-        value: male
+        value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against ASOS and AFFC Appendix, House Frey section. CORRECTED from male to female based on appendix listing as 'a maid'. Source text: ARWYN, a maid of fourteen"

@@ -6,10 +6,10 @@ assertions:
         value: Visenya Targaryen
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix mentions 'his sisters Visenya and Rhaenys'. Source text: Aegon had two trueborn siblings; an elder sister, Visenya, and a younger sister, Rhaenys... It was said by some that Aegon wed Visenya out of duty and Rhaenys out of desire."
     assertion-visenya-targaryen-gender:
         subject:
             person: person-visenya-targaryen
@@ -17,7 +17,7 @@ assertions:
         value: female
         citations:
             - citation-twoiaf-targaryen
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-agot-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: an elder sister, Visenya"

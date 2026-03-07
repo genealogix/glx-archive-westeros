@@ -6,10 +6,9 @@ assertions:
         value: Tywin Lannister
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Source text: TYWIN LA NNISTER, Lord of Casterly Rock, Warden of the West, Shield of Lannisport"
     assertion-tywin-lannister-gender:
         subject:
             person: person-tywin-lannister
@@ -17,7 +16,6 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Verified against AGOT Appendix, House Lannister section. Listed as lord and patriarch of House Lannister."
