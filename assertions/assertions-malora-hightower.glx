@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Malora Hightower
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's daughter, MALORA, called THE MAD MAID"
+        notes: "Verified against AFFC Appendix, House Hightower section. Called the Mad Maid."
     assertion-malora-hightower-gender:
         subject:
             person: person-malora-hightower
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's daughter, MALORA"
+        notes: "Verified against AFFC Appendix, House Hightower section."

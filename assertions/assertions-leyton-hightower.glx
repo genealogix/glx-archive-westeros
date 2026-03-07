@@ -6,18 +6,19 @@ assertions:
         value: Leyton Hightower
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "LEYTON HIGHTOWER, Voice of Oldtown, Lord of the Port, Lord of the High Tower, Defender of the Citadel, Beacon of the South, called THE OLD MAN OF OLDTOWN"
+        notes: "Verified against AGOT and AFFC Appendix. In AGOT listed as bannerman under House Tyrell. Full entry in AFFC Appendix, House Hightower section."
     assertion-leyton-hightower-gender:
         subject:
             person: person-leyton-hightower
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "LEYTON HIGHTOWER, Voice of Oldtown, Lord of the Port"
+        notes: "Verified against AFFC Appendix, House Hightower section."

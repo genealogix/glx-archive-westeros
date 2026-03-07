@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Hightower
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Surname-only placeholder. Based on relationships (parent of Leyton Hightower), this is Leyton's father. Not named in novel appendices. Requires further verification."
     assertion-hightower-425-gender:
         subject:
             person: person-hightower-425
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Male based on relationship as father of Leyton Hightower."

@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Jeyne Fossoway
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's son, SER GUNTHOR, m. Jeyne Fossoway, of the green apple Fossoways"
+        notes: "Verified against AFFC Appendix, House Hightower section. Wife of Ser Gunthor Hightower, of the green apple Fossoways."
     assertion-jeyne-fossoway-gender:
         subject:
             person: person-jeyne-fossoway
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Jeyne Fossoway, of the green apple Fossoways"
+        notes: "Verified against AFFC Appendix, House Hightower section."

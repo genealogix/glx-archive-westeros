@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Gunthor Hightower
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's son, SER GUNTHOR, m. Jeyne Fossoway, of the green apple Fossoways"
+        notes: "Verified against AFFC Appendix, House Hightower section. Married to Jeyne Fossoway."
     assertion-gunthor-hightower-gender:
         subject:
             person: person-gunthor-hightower
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's son, SER GUNTHOR"
+        notes: "Verified against AFFC Appendix, House Hightower section."

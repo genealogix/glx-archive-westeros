@@ -5,19 +5,20 @@ assertions:
         property: name
         value: Luthor Tyrell
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Theodore's son, LUTHOR, a squire"
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Theodore, a squire."
     assertion-luthor-tyrell-404-gender:
         subject:
             person: person-luthor-tyrell-404
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Theodore's son, LUTHOR, a squire"
+        notes: "Verified against AFFC Appendix, House Tyrell section."

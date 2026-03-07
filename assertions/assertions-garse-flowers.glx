@@ -6,10 +6,11 @@ assertions:
         value: Garse Flowers
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Garth's bastard sons, GARSE and GARRETT FLOWERS"
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Bastard son of Garth 'the Gross' Tyrell."
     assertion-garse-flowers-gender:
         subject:
             person: person-garse-flowers
@@ -17,7 +18,7 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "his bastard sons, GARSE and GARRETT FLOWERS"
+        notes: "Verified against AGOT Appendix, House Tyrell section."

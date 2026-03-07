@@ -5,19 +5,20 @@ assertions:
         property: name
         value: Elinor Tyrell
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Theodore's daughter, ELINOR"
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Daughter of Ser Theodore Tyrell, one of Margaery's companions."
     assertion-elinor-tyrell-gender:
         subject:
             person: person-elinor-tyrell
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "her cousins, MEGGA, ALLA, and ELINOR TYRELL"
+        notes: "Verified against AFFC Appendix, House Tyrell section."

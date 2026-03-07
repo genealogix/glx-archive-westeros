@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Desmond Redwyne
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's daughter, DENYSE, m. Ser Desmond Redwyne"
+        notes: "Verified against AFFC Appendix, House Hightower section. Married to Denyse Hightower."
     assertion-desmond-redwyne-gender:
         subject:
             person: person-desmond-redwyne
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Ser Desmond Redwyne"
+        notes: "Verified against AFFC Appendix, House Hightower section."

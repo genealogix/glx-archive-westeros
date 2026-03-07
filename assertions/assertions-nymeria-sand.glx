@@ -5,19 +5,20 @@ assertions:
         property: name
         value: Nymeria Sand
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "NYMERIA, called LADY NYM, five-and-twenty, his daughter by a noblewoman of Volantis"
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes."
     assertion-nymeria-sand-gender:
         subject:
             person: person-nymeria-sand
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "NYMERIA, called LADY NYM, five-and-twenty, his daughter by a noblewoman of Volantis"
+        notes: "Verified against AFFC Appendix, House Martell section."

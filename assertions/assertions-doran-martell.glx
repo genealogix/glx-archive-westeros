@@ -6,10 +6,11 @@ assertions:
         value: Doran Martell
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "DORAN NYMEROS MARTELL, Lord of Sunspear, Prince of Dorne"
+        notes: "Verified against AGOT Appendix and AFFC Appendix, House Martell section. Full style: Doran Nymeros Martell."
     assertion-doran-martell-gender:
         subject:
             person: person-doran-martell
@@ -17,7 +18,7 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "DORAN NYMEROS MARTELL, Lord of Sunspear, Prince of Dorne"
+        notes: "Verified against AGOT Appendix, House Martell section."

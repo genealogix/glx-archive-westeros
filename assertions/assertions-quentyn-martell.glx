@@ -6,10 +6,11 @@ assertions:
         value: Quentyn Martell
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "PRINCE QUENTYN, a new-made knight, long fostered by Lord Yronwood of Yronwood"
+        notes: "Verified against AGOT and AFFC Appendix, House Martell section."
     assertion-quentyn-martell-gender:
         subject:
             person: person-quentyn-martell
@@ -17,7 +18,7 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "PRINCE QUENTYN, their elder son"
+        notes: "Verified against AGOT Appendix, House Martell section."

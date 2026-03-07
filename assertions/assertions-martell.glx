@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Martell
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Surname-only placeholder without given name. Not identifiable in novel appendices. Likely a GEDCOM import artifact."
     assertion-martell-gender:
         subject:
             person: person-martell
         property: gender
         value: unknown
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Unidentified placeholder person."

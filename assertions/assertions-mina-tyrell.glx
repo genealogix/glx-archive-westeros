@@ -6,10 +6,11 @@ assertions:
         value: Mina Tyrell
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "LADY MINA, wed to Paxter Redwyne, Lord of the Arbor"
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Mace's sister."
     assertion-mina-tyrell-gender:
         subject:
             person: person-mina-tyrell
@@ -17,7 +18,7 @@ assertions:
         value: female
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "MINA, wed to Lord Paxter Redwyne"
+        notes: "Verified against AGOT Appendix, House Tyrell section."

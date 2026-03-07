@@ -5,19 +5,20 @@ assertions:
         property: name
         value: Leonette Fossoway
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Garlan's wife, LADY LEONETTE of House Fossoway"
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Wife of Ser Garlan Tyrell."
     assertion-leonette-fossoway-gender:
         subject:
             person: person-leonette-fossoway
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Garlan's wife, LADY LEONETTE of House Fossoway"
+        notes: "Verified against AFFC Appendix, House Tyrell section."

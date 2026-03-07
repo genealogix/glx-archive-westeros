@@ -6,10 +6,10 @@ assertions:
         value: Mors Martell
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Nymeria, the warrior queen of the Rhoyne, brought her ten thousand ships to land in Dorne, the southernmost of the Seven Kingdoms, and took Lord Mors Martell to husband."
+        notes: "Verified against AGOT Appendix, House Martell introductory text."
     assertion-mors-martell-gender:
         subject:
             person: person-mors-martell
@@ -17,7 +17,7 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "took Lord Mors Martell to husband"
+        notes: "Verified against AGOT Appendix, House Martell introductory text."

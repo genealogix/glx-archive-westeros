@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Hightower
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Surname-only placeholder. Based on relationships (parent of person-hightower-425 and Gerold Hightower the White Bull), this is the grandfather of Leyton. Not named in novel appendices. Requires further verification."
     assertion-hightower-426-gender:
         subject:
             person: person-hightower-426
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Male based on relationships."

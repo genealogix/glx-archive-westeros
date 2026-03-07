@@ -5,19 +5,20 @@ assertions:
         property: name
         value: Maester Medwick Tyrell
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Luthor's son, MAESTER MEDWICK"
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Luthor (Moryn's son)."
     assertion-medwick-tyrell-gender:
         subject:
             person: person-medwick-tyrell
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Luthor's son, MAESTER MEDWICK"
+        notes: "Verified against AFFC Appendix, House Tyrell section."

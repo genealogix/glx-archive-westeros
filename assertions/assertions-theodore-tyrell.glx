@@ -5,19 +5,20 @@ assertions:
         property: name
         value: Ser Theodore Tyrell
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Luthor's son, SER THEODORE, m. Lady Lia Serry"
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Luthor (Moryn's son), married to Lady Lia Serry."
     assertion-theodore-tyrell-gender:
         subject:
             person: person-theodore-tyrell
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Luthor's son, SER THEODORE, m. Lady Lia Serry"
+        notes: "Verified against AFFC Appendix, House Tyrell section."

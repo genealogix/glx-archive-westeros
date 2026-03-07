@@ -5,19 +5,20 @@ assertions:
         property: name
         value: Sarella Sand
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "SARELLA, nineteen, his daughter by a trader, captain of the Feathered Kiss"
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes."
     assertion-sarella-sand-gender:
         subject:
             person: person-sarella-sand
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "SARELLA, nineteen, his daughter by a trader"
+        notes: "Verified against AFFC Appendix, House Martell section."

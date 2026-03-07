@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Alysanne Hightower
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's daughter, ALYSANNE, m. Lord Arthur Ambrose"
+        notes: "Verified against AFFC Appendix, House Hightower section. Married to Lord Arthur Ambrose."
     assertion-alysanne-hightower-gender:
         subject:
             person: person-alysanne-hightower
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's daughter, ALYSANNE"
+        notes: "Verified against AFFC Appendix, House Hightower section."

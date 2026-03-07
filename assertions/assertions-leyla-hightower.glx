@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Leyla Hightower
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's daughter, LEYLA, m. Ser Jon Cupps"
+        notes: "Verified against AFFC Appendix, House Hightower section. Married to Ser Jon Cupps."
     assertion-leyla-hightower-gender:
         subject:
             person: person-leyla-hightower
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's daughter, LEYLA"
+        notes: "Verified against AFFC Appendix, House Hightower section."

@@ -5,19 +5,20 @@ assertions:
         property: name
         value: "Leo 'The Lazy' Tyrell"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Moryn's son, LEO, called LEO THE LAZY, a novice at the Citadel of Oldtown"
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Moryn, a novice at the Citadel."
     assertion-leo-tyrell-the-lazy-gender:
         subject:
             person: person-leo-tyrell-the-lazy
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Moryn's son, LEO, called LEO THE LAZY"
+        notes: "Verified against AFFC Appendix, House Tyrell section."

@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Olyvar Martell
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Not found in novel appendices or TWOIAF House Martell sections. May be a GEDCOM artifact or very obscure reference. Requires further verification."
     assertion-olyvar-martell-gender:
         subject:
             person: person-olyvar-martell
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Not verified against novel appendices."

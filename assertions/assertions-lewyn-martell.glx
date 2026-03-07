@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Lewyn Martell
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-twoiaf-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Prince Lewyn took command of the Dornish troop sent by his nephew, the Prince Doran, but it is said that he did so only after threats from the Mad King"
+        notes: "Verified against TWOIAF, Robert's Rebellion section. Prince Lewyn of Dorne, a member of the Kingsguard."
     assertion-lewyn-martell-gender:
         subject:
             person: person-lewyn-martell
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-twoiaf-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Prince Lewyn of Dorne"
+        notes: "Verified against TWOIAF."

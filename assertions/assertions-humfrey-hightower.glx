@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Humfrey Hightower
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's youngest son, SER HUMFREY"
+        notes: "Verified against AFFC Appendix, House Hightower section. Leyton's youngest son."
     assertion-humfrey-hightower-gender:
         subject:
             person: person-humfrey-hightower
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's youngest son, SER HUMFREY"
+        notes: "Verified against AFFC Appendix, House Hightower section."

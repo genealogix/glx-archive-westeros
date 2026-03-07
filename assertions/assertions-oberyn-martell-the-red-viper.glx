@@ -5,19 +5,20 @@ assertions:
         property: name
         value: "Oberyn 'The Red Viper' Martell"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "his brother, PRINCE OBERYN, called THE RED VIPER"
+        notes: "Verified against ASOS Appendix, House Martell section. In AFFC marked as deceased: {PRINCE OBERYN}, called THE RED VIPER, slain by Ser Gregor Clegane during a trial by combat."
     assertion-oberyn-martell-the-red-viper-gender:
         subject:
             person: person-oberyn-martell-the-red-viper
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "his brother, PRINCE OBERYN, called THE RED VIPER"
+        notes: "Verified against ASOS Appendix, House Martell section."

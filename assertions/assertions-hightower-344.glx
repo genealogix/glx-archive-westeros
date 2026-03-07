@@ -5,19 +5,17 @@ assertions:
         property: name
         value: Hightower
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Surname-only placeholder. Based on relationships (wife of Viserys I Targaryen, mother of Aegon II), this is likely Alicent Hightower. Not in current novel appendices; appears in Fire & Blood and TWOIAF. Requires further verification."
     assertion-hightower-344-gender:
         subject:
             person: person-hightower-344
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
             - citation-myheritage-gedcom
         confidence: medium
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        notes: "Imported from GEDCOM. Female based on relationship as wife of Viserys I."

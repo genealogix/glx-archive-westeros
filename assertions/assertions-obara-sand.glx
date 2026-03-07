@@ -5,19 +5,20 @@ assertions:
         property: name
         value: Obara Sand
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "OBARA, eight-and-twenty, Oberyn's daughter by an Oldtown whore"
+        notes: "Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes."
     assertion-obara-sand-gender:
         subject:
             person: person-obara-sand
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "OBARA, eight-and-twenty, Oberyn's daughter by an Oldtown whore"
+        notes: "Verified against AFFC Appendix, House Martell section."

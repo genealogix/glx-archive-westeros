@@ -6,10 +6,11 @@ assertions:
         value: "Horas 'Horror' Redwyne"
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "SER HORAS REDWYNE, twin to Hobber, called HORROR"
+        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. Twin to Hobber, mocked as Horror."
     assertion-horas-redwyne-horror-gender:
         subject:
             person: person-horas-redwyne-horror
@@ -17,7 +18,7 @@ assertions:
         value: male
         citations:
             - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "SER HORAS, mocked as Horror, twin to Hobber"
+        notes: "Verified against AGOT Appendix, House Tyrell section."

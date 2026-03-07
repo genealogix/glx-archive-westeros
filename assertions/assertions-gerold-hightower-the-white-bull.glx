@@ -5,19 +5,19 @@ assertions:
         property: name
         value: "Ser Gerold 'The White Bull' Hightower"
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-twoiaf-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Ser Gerold Hightower, called the White Bull, Lord Commander of the Kingsguard"
+        notes: "Verified against TWOIAF. Lord Commander of the Kingsguard under Aerys II. Not listed in current novel appendices (historical figure). Died at the Tower of Joy."
     assertion-gerold-hightower-the-white-bull-gender:
         subject:
             person: person-gerold-hightower-the-white-bull
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-twoiaf-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Ser Gerold Hightower, called the White Bull"
+        notes: "Verified against TWOIAF."

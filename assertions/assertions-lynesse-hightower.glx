@@ -5,19 +5,19 @@ assertions:
         property: name
         value: Lynesse Hightower
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's daughter, LYNESSE, m. Lord Jorah Mormont, presently chief concubine to Tregar Ormollen of Lys"
+        notes: "Verified against AFFC Appendix, House Hightower section. Former wife of Jorah Mormont, now concubine in Lys."
     assertion-lynesse-hightower-gender:
         subject:
             person: person-lynesse-hightower
         property: gender
         value: female
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Lord Leyton's daughter, LYNESSE"
+        notes: "Verified against AFFC Appendix, House Hightower section."

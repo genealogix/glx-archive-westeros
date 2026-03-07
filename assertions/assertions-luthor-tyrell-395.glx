@@ -5,19 +5,20 @@ assertions:
         property: name
         value: Ser Luthor Tyrell
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Moryn's son, {SER LUTHOR}, m. Lady Elyn Norridge"
+        notes: "Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Moryn, deceased, married to Lady Elyn Norridge."
     assertion-luthor-tyrell-395-gender:
         subject:
             person: person-luthor-tyrell-395
         property: gender
         value: male
         citations:
-            - citation-agot-appendix
-            - citation-myheritage-gedcom
-        confidence: medium
+            - citation-affc-appendix
+        confidence: high
         status: accepted
-        notes: "Imported from GEDCOM. Verify against novel appendix."
+        text_from_source: "Moryn's son, {SER LUTHOR}, m. Lady Elyn Norridge"
+        notes: "Verified against AFFC Appendix, House Tyrell section."
