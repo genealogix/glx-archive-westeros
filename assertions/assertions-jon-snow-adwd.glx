@@ -1,0 +1,24 @@
+assertions:
+    assertion-jon-lord-commander-decisions:
+        subject:
+            person: person-jon-snow
+        property: notes
+        value: "As Lord Commander of the Night's Watch in 300 AC, Jon Snow made several controversial decisions documented in ADWD: (1) Executed Janos Slynt for insubordination; (2) Allowed Tormund Giantsbane's wildlings to pass through the Wall in exchange for wildling service; (3) Worked with Stannis Baratheon despite Night's Watch neutrality; (4) Attempted to spare Mance Rayder's life (overruled by Stannis)."
+        citations:
+            - citation-adwd-jon-i
+            - citation-adwd-jon-ii
+            - citation-adwd-jon-iii
+        confidence: high
+        status: proven
+        notes: "All established through Jon's own POV chapters. His decisions earned him enemies within the Watch — Bowen Marsh, Alliser Thorne — who later conspire against him (leading to his assassination in Jon XIII)."
+
+    assertion-jon-stannis-relationship:
+        subject:
+            person: person-jon-snow
+        property: notes
+        value: "Jon Snow describes his father Eddard Stark as having called Stannis Baratheon 'just but harsh.' Jon navigates a difficult relationship with Stannis — respecting his determination and justice while disagreeing with his burning of Mance and his treatment of wildlings."
+        citations:
+            - citation-adwd-jon-i
+        confidence: high
+        status: proven
+        notes: "Jon I POV: 'My father always said you were a just man. Just but harsh had been Lord Eddard's exact words, but Jon did not think it would be wise to share that.' Establishes Ned Stark's assessment of Stannis and Jon's cautious diplomacy."

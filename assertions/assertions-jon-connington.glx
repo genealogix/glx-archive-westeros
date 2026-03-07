@@ -1,0 +1,34 @@
+assertions:
+    assertion-jon-connington-greyscale:
+        subject:
+            person: person-jon-connington
+        property: notes
+        value: "Jon Connington contracted greyscale during Robert's Rebellion when he dove into the river at Stoney Sept to save a drowning man (or escaped Robert). He has kept it hidden. By ADWD it is spreading on his hand."
+        citations:
+            - citation-adwd-the-lost-lord
+        confidence: high
+        status: proven
+        notes: "Established in The Lost Lord POV, Jon Connington's own chapter. He reflects on the greyscale in his hand and the need to keep it hidden from the men of the Golden Company and from Young Griff/Aegon."
+
+    assertion-jon-connington-true-identity:
+        subject:
+            person: person-jon-connington
+        property: alias
+        value: "Griff"
+        citations:
+            - citation-adwd-the-lost-lord
+            - citation-adwd-tyrion-iii
+        confidence: high
+        status: proven
+        notes: "Jon Connington traveled under the alias 'Griff' for years as a sellsword while fostering Young Griff (Aegon). His true identity as the exiled Lord of Griffin's Roost and former Hand of the King is confirmed by his own POV in The Lost Lord. Tyrion suspects it earlier (ADWD Tyrion III) from his Stormlands accent."
+
+    assertion-jon-connington-love-for-rhaegar:
+        subject:
+            person: person-jon-connington
+        property: notes
+        value: "Jon Connington loved Rhaegar Targaryen. He served him as Hand, and his loyalty to Aegon (whom he believes to be Rhaegar's son) is driven in part by this love as well as honor. He regrets not being ruthless enough at Stoney Sept — he prioritized Rhaegar's mercy over ending Robert's Rebellion, and it cost everything."
+        citations:
+            - citation-adwd-the-lost-lord
+        confidence: high
+        status: proven
+        notes: "Explicit in Connington's internal monologue in The Lost Lord. He thinks: 'He could have ended Robert's Rebellion at Stoney Sept. He failed.' His love for Rhaegar is implied but strongly suggested by the text."

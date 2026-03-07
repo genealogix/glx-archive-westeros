@@ -1,0 +1,8 @@
+citations:
+    citation-adwd-bran-i:
+        source: source-adwd
+        properties:
+            locator: "Bran I"
+            text_from_source: "He said, aye. He said he would take us to this three-eyed crow too. That river we crossed this morning is the same one we crossed four days ago, I swear. We're going in circles."
+            accessed: "2026-03-06"
+        notes: "POV: Bran Stark. Bran, Meera Reed, Jojen Reed, and Hodor are beyond the Wall, guided north by Coldhands (the undead ranger). Jojen is weakening. Meera doubts Coldhands. They are traveling toward the three-eyed crow through the haunted forest. Coldhands killed wights to protect Sam and Gilly earlier. The group's perilous journey beyond the Wall is established."

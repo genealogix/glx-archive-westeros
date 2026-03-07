@@ -1,0 +1,8 @@
+citations:
+    citation-adwd-tyrion-ii:
+        source: source-adwd
+        properties:
+            locator: "Tyrion II"
+            text_from_source: "It will be as if you had never come to Pentos, my little friend, promised Magister Illyrio, as he drew shut the litter's purple velvet drapes. No man must see you leave the city, as no man saw you enter."
+            accessed: "2026-03-06"
+        notes: "POV: Tyrion Lannister. Tyrion departs Pentos with Illyrio in a litter, heading overland toward the Rhoyne. Illyrio reveals they are going to meet Young Griff's company on the river. Illyrio discusses the stone men (victims of greyscale) along the Rhoyne. He reveals that the galley that brought Tyrion has already sailed for Asshai to cover the trail. Tyrion learns he is being transported secretly toward Young Griff and the Shy Maid."

@@ -1,0 +1,34 @@
+assertions:
+    assertion-tyrion-flees-to-essos:
+        subject:
+            person: person-tyrion-lannister
+        property: notes
+        value: "After killing Tywin Lannister and Shae (ASOS), Tyrion was smuggled across the Narrow Sea by Varys. He arrived in Pentos where he was hosted by Magister Illyrio Mopatis. Cersei placed a lordship on his head. Illyrio arranged for him to join Young Griff's company on the Shy Maid on the Rhoyne, en route to Daenerys."
+        citations:
+            - citation-adwd-tyrion-i
+            - citation-adwd-tyrion-ii
+        confidence: high
+        status: proven
+        notes: "Established across Tyrion I and II POV chapters."
+
+    assertion-tyrion-greyscale-exposure:
+        subject:
+            person: person-tyrion-lannister
+        property: notes
+        value: "Tyrion was pulled into the Rhoyne by a stone man (greyscale victim) at the Bridge of Dream in the Sorrows. He was underwater, in contact with the stone man, before Griff pulled him out. Septa Lemore revived him. Haldon tested his fingers and toes for greyscale numbness afterwards. Whether he contracted the disease is left ambiguous at this point in the text."
+        citations:
+            - citation-adwd-tyrion-iv
+        confidence: high
+        status: proven
+        notes: "Directly from Tyrion IV POV. The text: 'His grey kiss. The thought made his flesh crawl.' Tyrion fears he has greyscale. The full ADWD text later reveals he did contract it."
+
+    assertion-tyrion-captured-jorah:
+        subject:
+            person: person-tyrion-lannister
+        property: notes
+        value: "Jorah Mormont captured Tyrion Lannister in a pleasure house in Volantis, intending to bring him to Daenerys as a gift to regain her favor after his exile from her service."
+        citations:
+            - citation-adwd-tyrion-v
+        confidence: high
+        status: proven
+        notes: "Directly from Tyrion V POV. Jorah says he is taking 'the dwarf' to 'the queen.' This ends Tyrion's journey with the Shy Maid company and begins a new arc."

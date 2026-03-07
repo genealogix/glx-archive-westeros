@@ -1,0 +1,22 @@
+assertions:
+    assertion-janos-slynt-execution:
+        subject:
+            person: person-janos-slynt
+        property: death
+        value: "Executed by beheading at Castle Black, 300 AC. Jon Snow used Longclaw."
+        citations:
+            - citation-adwd-jon-ii
+        confidence: high
+        status: proven
+        notes: "Janos Slynt's death is witnessed directly in Jon II POV. He refused the order to take Greyguard three times, was dragged out by Edd Tollett and Iron Emmett, and beheaded by Jon Snow with Longclaw in the yard of Castle Black. His final words were a plea for mercy. Stannis Baratheon witnessed and nodded approval. Text: 'Longclaw descended. Can I have his boots? asked Owen the Oaf, as Janos Slynt's head went rolling across the muddy ground.'"
+
+    assertion-janos-slynt-insubordination:
+        subject:
+            person: person-janos-slynt
+        property: notes
+        value: "Refused Lord Commander Jon Snow's direct order to take command of Greyguard three separate times. Said: 'You can stick your order up your bastard's arse.' Laughed at Jon's authority. His defiance forced Jon to make an example or lose command of the Watch."
+        citations:
+            - citation-adwd-jon-ii
+        confidence: high
+        status: proven
+        notes: "All from Jon II POV. Slynt's three refusals are described in detail, including his attempts to intimidate Jon by invoking Tywin Lannister and claiming important friends."

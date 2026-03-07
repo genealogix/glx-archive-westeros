@@ -1,0 +1,12 @@
+events:
+    event-tyrion-captured-by-jorah:
+        type: exile
+        date: "300"
+        place: place-volantis
+        participants:
+            - person: person-tyrion-lannister
+              role: subject
+            - person: person-jorah-mormont
+              role: captor
+        properties:
+            description: "Jorah Mormont, exiled from Daenerys's service and desperately seeking a way to win back her favor, recognized Tyrion Lannister in a pleasure house in Volantis. He seized Tyrion, announcing he would bring 'the dwarf' to Daenerys as a gift to reclaim his place at her side."

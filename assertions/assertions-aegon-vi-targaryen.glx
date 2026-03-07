@@ -1,0 +1,33 @@
+assertions:
+    assertion-aegon-vi-identity-claimed:
+        subject:
+            person: person-young-griff
+        property: name
+        value: "Aegon Targaryen, firstborn son of Rhaegar Targaryen and Princess Elia of Dorne"
+        citations:
+            - citation-adwd-the-lost-lord
+        confidence: low
+        status: speculative
+        notes: "Jon Connington publicly declares Young Griff to be Aegon Targaryen VI to the Golden Company officers. The claim is that the infant Aegon was swapped with another baby before the Sack of King's Landing; the real Aegon was spirited away to Essos by Varys. This is plausible given Varys's known motivations, but cannot be verified from the text — Varys could have raised any boy as Aegon. Some theorize Young Griff is a Blackfyre pretender. See person-aegon-targaryen-vi for the full entity."
+
+    assertion-aegon-vi-blackfyre-theory:
+        subject:
+            person: person-young-griff
+        property: house
+        value: "Blackfyre (theoretical)"
+        citations:
+            - citation-adwd-the-lost-lord
+        confidence: low
+        status: speculative
+        notes: "Fan theory (not stated in text): Young Griff may be a Blackfyre descendant (through the female line, which Bittersteel kept alive in exile) rather than a true Targaryen. Evidence: Illyrio Mopatis's late wife Serra had Valyrian features; the Golden Company's founders were Blackfyre loyalists; Varys is not trustworthy. The text at line 6474 notes Harry Strickland's great-grandsire 'rose with the Black Dragon during the first Blackfyre Rebellion.' GRRM has not confirmed or denied. Confidence low; status speculative."
+
+    assertion-aegon-vi-claim-announced:
+        subject:
+            event: event-aegon-identity-revealed
+        property: notes
+        value: "The announcement was made to the Golden Company officers: Harry Strickland (captain-general), Lysono Maar (spymaster), Gorys Edoryen, Franklyn Flowers, Tristan Rivers, and Laswell Peake. Harry had already told them when they reached the river. Aegon himself speaks: 'Then put your hopes on me. Daenerys is Prince Rhaegar's sister, but I am Rhaegar's son. I am the only dragon that you need.'"
+        citations:
+            - citation-adwd-the-lost-lord
+        confidence: high
+        status: proven
+        notes: "Directly witnessed in Jon Connington's POV in The Lost Lord chapter."

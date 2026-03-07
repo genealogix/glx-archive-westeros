@@ -1,0 +1,8 @@
+citations:
+    citation-adwd-tyrion-i:
+        source: source-adwd
+        properties:
+            locator: "Tyrion I"
+            text_from_source: "'Come sit, my little friend.' Illyrio waved him closer."
+            accessed: "2026-03-06"
+        notes: "POV: Tyrion Lannister. Tyrion has crossed the Narrow Sea to Pentos and is hosted by Magister Illyrio Mopatis. Illyrio offers mushrooms that Tyrion suspects are poisoned, establishing Tyrion's paranoia and Illyrio's gamefulness. Cersei has put a lordship on Tyrion's head. Illyrio hints at a road that will put Tyrion in a position of power despite having nothing. Establishes Illyrio's role as a broker for Targaryen restoration."

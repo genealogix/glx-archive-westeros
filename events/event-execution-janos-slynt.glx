@@ -1,0 +1,12 @@
+events:
+    event-execution-janos-slynt:
+        type: execution
+        date: "300"
+        place: place-castle-black
+        participants:
+            - person: person-janos-slynt
+              role: subject
+            - person: person-jon-snow
+              role: executor
+        properties:
+            description: "Jon Snow executed Janos Slynt in the yard of Castle Black with Longclaw, his Valyrian steel bastard sword, after Slynt repeatedly refused his direct order to take command of the abandoned castle Greyguard. Slynt's final words were a plea for mercy. King Stannis watched from the steps of the King's Tower and nodded approval."

@@ -1,0 +1,33 @@
+assertions:
+    assertion-bran-reaches-three-eyed-crow:
+        subject:
+            person: person-bran-stark
+        property: notes
+        value: "Bran Stark reached the cave of Brynden Rivers (Lord Bloodraven, the three-eyed crow) beyond the Wall in 300 AC, fulfilling his recurring prophetic dream from AGOT. Bloodraven confirmed Bran will never walk again but will fly — meaning he will become a greenseer."
+        citations:
+            - citation-adwd-bran-ii
+        confidence: high
+        status: proven
+        notes: "Directly witnessed in Bran II POV. The description of Bloodraven — fused to a weirwood throne, one red eye, a root where his other eye should be — matches both the three-eyed crow of Bran's dreams and the historical figure Brynden Rivers (half-brother of Daeron II, former Lord Commander of the Night's Watch)."
+
+    assertion-bloodraven-identity:
+        subject:
+            person: person-brynden-rivers-three-eyed-crow
+        property: name
+        value: "Brynden"
+        citations:
+            - citation-adwd-bran-ii
+        confidence: high
+        status: proven
+        notes: "When Meera Reed asks his true name, Bloodraven says: 'I wore many names when I was quick, but even I once had a mother, and the name she gave me at her breast was Brynden.' This confirms the three-eyed crow is Brynden Rivers, the historical Great Bastard and former Lord Commander of the Night's Watch who went beyond the Wall and vanished. Cited from Bran's chapter where Bloodraven speaks this in ADWD (line 9087 — beyond the 1-8000 range but key confirmation; the identity is implied in Bran II)."
+
+    assertion-bran-will-fly:
+        subject:
+            person: person-bran-stark
+        property: notes
+        value: "Bloodraven told Bran: 'You will never walk again, Bran, but you will fly.' This is a prophecy of Bran's destiny as a greenseer who can project his consciousness through weirwood trees and into animals."
+        citations:
+            - citation-adwd-bran-ii
+        confidence: high
+        status: proven
+        notes: "Direct quote from Bran II. The meaning is metaphorical — greenseeing allows a kind of flight through time and space via the weirwood network."

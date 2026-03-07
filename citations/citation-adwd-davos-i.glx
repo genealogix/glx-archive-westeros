@@ -1,0 +1,7 @@
+citations:
+    citation-adwd-davos-i:
+        source: source-adwd
+        properties:
+            locator: "Davos I"
+            accessed: "2026-03-06"
+        notes: "POV: Davos Seaworth. Davos is imprisoned in White Harbor by Lord Wyman Manderly, having been captured on arrival after Stannis sent him to seek House Manderly's support. Davos is held in a cell beneath the New Castle. Lord Wyman is publicly hostile to Davos in front of Lannister envoys (Ser Jared Frey, Ser Symond Frey, and Ser Rolph Spicer) but his true intentions are unclear. Davos fears he will be executed to appease the Lannisters."

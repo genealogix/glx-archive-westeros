@@ -1,0 +1,8 @@
+citations:
+    citation-adwd-jon-ii:
+        source: source-adwd
+        properties:
+            locator: "Jon II"
+            text_from_source: "The Old Bear begged the Iron Throne for help a hundred times. They sent him Janos Slynt. No letter will make the Lannisters love us better. Not once they hear that we've been helping Stannis."
+            accessed: "2026-03-06"
+        notes: "POV: Jon Snow. Jon manages the Night's Watch in the aftermath of Stannis's arrival. He sends rangers to different castles along the Wall, including ordering Janos Slynt to take command of Greyguard. Slynt refuses repeatedly and insubordinately. Jon orders his execution with Longclaw. Stannis watches and nods approval. Jon also grants passage to free folk led by Tormund Giantsbane through the Wall, a controversial decision that alienates many brothers."

@@ -1,0 +1,33 @@
+assertions:
+    assertion-varamyr-second-life:
+        subject:
+            person: person-varamyr-sixskins
+        property: death
+        value: "Varamyr Sixskins died at an unnamed wildling village, his body claimed by Thistle after he attempted to seize her as a skin. His consciousness entered his wolf One Eye as a second life — the skinchanger's form of continuation after death."
+        citations:
+            - citation-adwd-prologue
+        confidence: high
+        status: proven
+        notes: "The Prologue is Varamyr's POV at the moment of death. We witness his consciousness transferring into One Eye directly. His human body dies when Thistle rejects his seizure and turns on him as a wight."
+
+    assertion-varamyr-killed-haggon:
+        subject:
+            person: person-varamyr-sixskins
+        property: cause_of_death
+        value: "Killed by Varamyr Sixskins, who drove him out of his wolf Greyskin and claimed the beast, denying Haggon a second life"
+        citations:
+            - citation-adwd-prologue
+        confidence: high
+        status: proven
+        notes: "Varamyr reflects on killing Haggon during the Prologue. Haggon had taught him the laws of skinchanging — that eating human flesh, mating as wolf with wolf, and seizing another person's body are all abominations. Varamyr violated all three. Haggon died weeping."
+
+    assertion-varamyr-skinchanger-rules:
+        subject:
+            person: person-varamyr-sixskins
+        property: notes
+        value: "Skinchanger lore: a skinchanger can enter a second life in a beast after human death. Eating human flesh is abomination. Mating as a beast with another beast is abomination. Seizing a human body (possessing another person) is the worst abomination of all. Only one person in a thousand is born a skinchanger; only one in a thousand skinchangers can be a greenseer (per Lord Bloodraven)."
+        citations:
+            - citation-adwd-prologue
+        confidence: high
+        status: proven
+        notes: "Established through Varamyr's memories of Haggon's teachings in the Prologue POV."

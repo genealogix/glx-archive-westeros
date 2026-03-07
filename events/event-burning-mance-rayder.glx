@@ -1,0 +1,19 @@
+events:
+    event-burning-mance-rayder:
+        type: execution
+        date: "300"
+        place: place-castle-black
+        participants:
+            - person: person-mance-rayder
+              role: subject
+            - person: person-rattleshirt
+              role: subject
+            - person: person-melisandre
+              role: officiant
+            - person: person-stannis-baratheon
+              role: authority
+            - person: person-jon-snow
+              role: witness
+        properties:
+            description: "Melisandre staged the burning of 'Mance Rayder' at Castle Black before the wildling captives and the Night's Watch. The figure burned was actually Rattleshirt (Lord of Bones), glamoured by Melisandre's ruby to appear as Mance. The true Mance Rayder was sent north disguised by glamour. The Horn of Joramun was also burned at this ceremony. Jon Snow believed the burning genuine at the time — the deception is revealed later."
+            also_known_as: "The Burning of the King-Beyond-the-Wall"

@@ -1,0 +1,17 @@
+events:
+    event-bran-reaches-bloodraven:
+        type: death
+        date: "300"
+        participants:
+            - person: person-brynden-rivers-three-eyed-crow
+              role: subject
+            - person: person-bran-stark
+              role: witness
+            - person: person-meera-reed
+              role: witness
+            - person: person-jojen-reed
+              role: witness
+            - person: person-hodor
+              role: witness
+        properties:
+            description: "Bran Stark's party, guided by Coldhands and a child of the forest, reaches the cave beneath a hollow hill beyond the Wall where Brynden Rivers (Lord Bloodraven, the three-eyed crow) sits fused to a weirwood throne by living roots. Bloodraven has one red eye; the other is replaced by a root. He tells Bran he will never walk again but will fly — meaning he will become a greenseer. This fulfills Bran's recurring dream of the three-eyed crow from AGOT."

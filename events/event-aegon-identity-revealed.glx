@@ -1,0 +1,11 @@
+events:
+    event-aegon-identity-revealed:
+        type: coronation
+        date: "300"
+        participants:
+            - person: person-young-griff
+              role: subject
+            - person: person-jon-connington
+              role: announcer
+        properties:
+            description: "Jon Connington (Griff) reveals to the assembled officers of the Golden Company that Young Griff is in truth Aegon Targaryen, firstborn son of Prince Rhaegar Targaryen and Princess Elia of Dorne — whom the world believed killed as an infant by Gregor Clegane during the Sack of King's Landing. Connington proclaims him the rightful king as Aegon VI. This is not a formal coronation but the first public revelation of the claim."
