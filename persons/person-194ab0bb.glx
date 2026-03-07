@@ -1,0 +1,11 @@
+persons:
+    person-335:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Baelor
+                    suffix: I
+                    surname: Targaryen
+                value: Baelor Targaryen I
+            rin: MH:I335

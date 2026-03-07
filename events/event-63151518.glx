@@ -1,0 +1,10 @@
+events:
+    event-642:
+        type: death
+        place: place-6
+        participants:
+            - person: person-484
+              role: principal
+        properties:
+            cause: At War
+            event_subtype: WAR

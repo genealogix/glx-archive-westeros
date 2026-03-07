@@ -1,0 +1,11 @@
+persons:
+    person-334:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Daeron
+                    suffix: I
+                    surname: Targaryen
+                value: Daeron Targaryen I
+            rin: MH:I334

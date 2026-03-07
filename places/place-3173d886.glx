@@ -1,0 +1,4 @@
+places:
+    place-2:
+        name: King's Landing
+        type: city

@@ -1,0 +1,10 @@
+persons:
+    person-74:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Alyn
+                    surname: Frey
+                value: Alyn Frey
+            rin: MH:I74

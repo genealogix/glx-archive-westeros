@@ -1,0 +1,10 @@
+persons:
+    person-66:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Merrett
+                    surname: Frey
+                value: Merrett Frey
+            rin: MH:I66

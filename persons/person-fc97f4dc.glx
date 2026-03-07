@@ -1,0 +1,10 @@
+persons:
+    person-386:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Janna
+                    surname: Tyrell
+                value: Janna Tyrell
+            rin: MH:I386

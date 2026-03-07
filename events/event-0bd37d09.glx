@@ -1,0 +1,8 @@
+events:
+    event-670:
+        type: marriage
+        participants:
+            - person: person-23
+              role: spouse
+            - person: person-24
+              role: spouse

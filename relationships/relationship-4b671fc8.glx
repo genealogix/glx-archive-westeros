@@ -1,0 +1,8 @@
+relationships:
+    relationship-109:
+        type: marriage
+        participants:
+            - person: person-487
+              role: spouse
+            - person: person-485
+              role: spouse

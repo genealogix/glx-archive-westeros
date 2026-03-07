@@ -1,0 +1,9 @@
+persons:
+    person-428:
+        properties:
+            gender: female
+            name:
+                fields:
+                    surname: Glover
+                value: Glover
+            rin: MH:I428

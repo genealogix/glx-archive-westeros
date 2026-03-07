@@ -1,0 +1,10 @@
+persons:
+    person-430:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Maege
+                    surname: Mormont
+                value: Maege Mormont
+            rin: MH:I430

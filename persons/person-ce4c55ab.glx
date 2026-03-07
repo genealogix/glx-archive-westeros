@@ -1,0 +1,11 @@
+persons:
+    person-427:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Gerold 'The White Bull'
+                    prefix: Ser
+                    surname: Hightower
+                value: Ser Gerold 'The White Bull' Hightower
+            rin: MH:I427

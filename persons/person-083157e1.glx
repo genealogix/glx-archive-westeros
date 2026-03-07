@@ -1,0 +1,10 @@
+persons:
+    person-435:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Lyanna
+                    surname: Mormont
+                value: Lyanna Mormont
+            rin: MH:I435

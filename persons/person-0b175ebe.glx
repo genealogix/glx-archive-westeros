@@ -1,0 +1,10 @@
+persons:
+    person-49:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Cyrenna
+                    surname: Swann
+                value: Cyrenna Swann
+            rin: MH:I49

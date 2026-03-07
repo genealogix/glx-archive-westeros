@@ -1,0 +1,8 @@
+events:
+    event-699:
+        type: marriage
+        participants:
+            - person: person-1
+              role: spouse
+            - person: person-135
+              role: spouse

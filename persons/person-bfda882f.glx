@@ -1,0 +1,10 @@
+persons:
+    person-154:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tytos
+                    surname: Brax
+                value: Tytos Brax
+            rin: MH:I154

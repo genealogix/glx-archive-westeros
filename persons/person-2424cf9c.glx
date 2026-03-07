@@ -1,0 +1,10 @@
+persons:
+    person-199:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Rhaelle
+                    surname: Targaryen
+                value: Rhaelle Targaryen
+            rin: MH:I199

@@ -1,0 +1,9 @@
+persons:
+    person-284:
+        properties:
+            gender: female
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen
+            rin: MH:I284

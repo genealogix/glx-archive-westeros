@@ -1,0 +1,9 @@
+persons:
+    person-156:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Brax
+                value: Brax
+            rin: MH:I156

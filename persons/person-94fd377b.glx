@@ -1,0 +1,10 @@
+persons:
+    person-123:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walder
+                    surname: Brax
+                value: Walder Brax
+            rin: MH:I123

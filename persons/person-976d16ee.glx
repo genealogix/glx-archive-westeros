@@ -1,0 +1,10 @@
+persons:
+    person-390:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Horas 'Horror'
+                    surname: Redwyne
+                value: Horas 'Horror' Redwyne
+            rin: MH:I390

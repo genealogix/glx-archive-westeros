@@ -1,0 +1,8 @@
+events:
+    event-673:
+        type: marriage
+        participants:
+            - person: person-5
+              role: spouse
+            - person: person-36
+              role: spouse

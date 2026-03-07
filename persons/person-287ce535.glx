@@ -1,0 +1,10 @@
+persons:
+    person-456:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Renly
+                    surname: Norcross
+                value: Renly Norcross
+            rin: MH:I456

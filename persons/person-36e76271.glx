@@ -1,0 +1,10 @@
+persons:
+    person-372:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Daenys
+                    surname: Targaryen
+                value: Daenys Targaryen
+            rin: MH:I372

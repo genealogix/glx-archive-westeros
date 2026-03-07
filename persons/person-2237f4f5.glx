@@ -1,0 +1,5 @@
+persons:
+    person-467:
+        properties:
+            gender: female
+            rin: MH:I467

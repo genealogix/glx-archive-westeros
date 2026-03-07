@@ -1,0 +1,9 @@
+persons:
+    person-343:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen
+            rin: MH:I343

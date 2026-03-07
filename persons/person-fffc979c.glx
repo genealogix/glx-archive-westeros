@@ -1,0 +1,10 @@
+persons:
+    person-88:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Pate
+                    prefix: Ser
+                value: Ser Pate
+            rin: MH:I88

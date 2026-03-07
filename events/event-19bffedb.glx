@@ -1,0 +1,6 @@
+events:
+    event-755:
+        type: event
+        participants:
+            - person: person-383
+              role: spouse

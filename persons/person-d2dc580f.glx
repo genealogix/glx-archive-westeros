@@ -1,0 +1,11 @@
+persons:
+    person-315:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Daemon
+                    suffix: II
+                    surname: Blackfyre
+                value: Daemon Blackfyre II
+            rin: MH:I315

@@ -1,0 +1,11 @@
+persons:
+    person-356:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Maegor
+                    suffix: I
+                    surname: Targaryen
+                value: Maegor Targaryen I
+            rin: MH:I356

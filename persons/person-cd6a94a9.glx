@@ -1,0 +1,10 @@
+persons:
+    person-459:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Talla
+                    surname: Tarly
+                value: Talla Tarly
+            rin: MH:I459

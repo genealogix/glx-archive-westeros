@@ -1,0 +1,10 @@
+persons:
+    person-408:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Baelor
+                    surname: Hightower
+                value: Baelor Hightower
+            rin: MH:I408

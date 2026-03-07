@@ -1,0 +1,10 @@
+persons:
+    person-99:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Serra
+                    surname: Frey
+                value: Serra Frey
+            rin: MH:I99

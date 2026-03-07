@@ -1,0 +1,10 @@
+persons:
+    person-14:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Perra
+                    surname: Frey
+                value: Perra Frey
+            rin: MH:I14

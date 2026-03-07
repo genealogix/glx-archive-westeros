@@ -1,0 +1,10 @@
+persons:
+    person-219:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Arya
+                    surname: Stark
+                value: Arya Stark
+            rin: MH:I219

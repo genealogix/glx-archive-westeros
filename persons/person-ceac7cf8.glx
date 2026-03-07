@@ -1,0 +1,10 @@
+persons:
+    person-174:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Martyn
+                    surname: Lannister
+                value: Martyn Lannister
+            rin: MH:I174

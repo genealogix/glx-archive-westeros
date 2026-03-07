@@ -1,0 +1,9 @@
+persons:
+    person-318:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Blackfyre
+                value: Blackfyre
+            rin: MH:I318

@@ -1,0 +1,8 @@
+relationships:
+    relationship-45:
+        type: marriage
+        participants:
+            - person: person-167
+              role: spouse
+            - person: person-189
+              role: spouse

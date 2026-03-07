@@ -1,0 +1,10 @@
+persons:
+    person-485:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Allyria
+                    surname: Dayne
+                value: Allyria Dayne
+            rin: MH:I485

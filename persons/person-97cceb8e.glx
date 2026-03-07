@@ -1,0 +1,10 @@
+persons:
+    person-107:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Morya
+                    surname: Frey
+                value: Morya Frey
+            rin: MH:I107

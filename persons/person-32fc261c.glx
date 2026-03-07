@@ -1,0 +1,10 @@
+persons:
+    person-34:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tywin 'Ty'
+                    surname: Frey
+                value: Tywin 'Ty' Frey
+            rin: MH:I34

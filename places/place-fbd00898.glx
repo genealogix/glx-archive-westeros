@@ -1,0 +1,4 @@
+places:
+    place-1:
+        name: Braavos
+        type: city

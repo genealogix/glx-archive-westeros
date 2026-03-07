@@ -1,0 +1,10 @@
+persons:
+    person-316:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Haegon
+                    surname: Blackfyre
+                value: Haegon Blackfyre
+            rin: MH:I316

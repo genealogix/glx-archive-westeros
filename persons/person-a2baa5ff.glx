@@ -1,0 +1,10 @@
+persons:
+    person-171:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Dorna
+                    surname: Swyft
+                value: Dorna Swyft
+            rin: MH:I171

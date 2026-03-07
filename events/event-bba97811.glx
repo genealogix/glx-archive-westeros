@@ -1,0 +1,9 @@
+events:
+    event-294:
+        type: death
+        place: place-2
+        participants:
+            - person: person-248
+              role: principal
+        properties:
+            cause: Homicide

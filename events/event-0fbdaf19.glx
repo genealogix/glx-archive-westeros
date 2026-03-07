@@ -1,0 +1,7 @@
+events:
+    event-327:
+        type: birth
+        place: place-5
+        participants:
+            - person: person-276
+              role: principal

@@ -1,0 +1,10 @@
+persons:
+    person-139:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Waltyr
+                    surname: Frey
+                value: Waltyr Frey
+            rin: MH:I139

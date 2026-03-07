@@ -1,0 +1,10 @@
+persons:
+    person-64:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Symond
+                    surname: Frey
+                value: Symond Frey
+            rin: MH:I64

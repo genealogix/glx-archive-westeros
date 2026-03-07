@@ -1,0 +1,10 @@
+persons:
+    person-85:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Wynafrei
+                    surname: Whent
+                value: Wynafrei Whent
+            rin: MH:I85

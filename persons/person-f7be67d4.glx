@@ -1,0 +1,10 @@
+persons:
+    person-170:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tommen
+                    surname: Baratheon
+                value: Tommen Baratheon
+            rin: MH:I170

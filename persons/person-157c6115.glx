@@ -1,0 +1,10 @@
+persons:
+    person-271:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Dorea
+                    surname: Sand
+                value: Dorea Sand
+            rin: MH:I271

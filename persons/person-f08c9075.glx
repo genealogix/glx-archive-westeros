@@ -1,0 +1,10 @@
+persons:
+    person-387:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Mina
+                    surname: Tyrell
+                value: Mina Tyrell
+            rin: MH:I387

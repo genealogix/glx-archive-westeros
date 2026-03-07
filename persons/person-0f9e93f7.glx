@@ -1,0 +1,10 @@
+persons:
+    person-79:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    surname: Wylde
+                value: Jon Wylde
+            rin: MH:I79

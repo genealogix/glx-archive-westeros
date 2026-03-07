@@ -1,0 +1,10 @@
+persons:
+    person-43:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Perriane
+                    surname: Frey
+                value: Perriane Frey
+            rin: MH:I43

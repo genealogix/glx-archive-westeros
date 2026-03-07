@@ -1,0 +1,6 @@
+events:
+    event-499:
+        type: death
+        participants:
+            - person: person-365
+              role: principal

@@ -1,0 +1,10 @@
+relationships:
+    relationship-11:
+        type: marriage
+        participants:
+            - person: person-5
+              role: spouse
+            - person: person-36
+              role: spouse
+        properties:
+            marriage_event: event-673

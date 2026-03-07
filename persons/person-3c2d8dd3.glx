@@ -1,0 +1,10 @@
+persons:
+    person-16:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegon 'Jinglebell'
+                    surname: Frey
+                value: Aegon 'Jinglebell' Frey
+            rin: MH:I16

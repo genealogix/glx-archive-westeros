@@ -1,0 +1,10 @@
+persons:
+    person-476:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Eldon
+                    surname: Estermont
+                value: Eldon Estermont
+            rin: MH:I476

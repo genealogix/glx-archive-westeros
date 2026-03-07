@@ -1,0 +1,10 @@
+persons:
+    person-183:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Stafford
+                    surname: Lannister
+                value: Stafford Lannister
+            rin: MH:I183

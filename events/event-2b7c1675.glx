@@ -1,0 +1,6 @@
+events:
+    event-356:
+        type: death
+        participants:
+            - person: person-293
+              role: principal

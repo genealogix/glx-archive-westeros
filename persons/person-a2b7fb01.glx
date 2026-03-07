@@ -1,0 +1,11 @@
+persons:
+    person-484:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Arthur
+                    prefix: Ser
+                    surname: Dayne
+                value: Ser Arthur Dayne
+            rin: MH:I484

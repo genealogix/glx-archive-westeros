@@ -1,0 +1,8 @@
+events:
+    event-175:
+        type: death
+        participants:
+            - person: person-161
+              role: principal
+        properties:
+            cause: Illness

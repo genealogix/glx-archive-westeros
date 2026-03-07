@@ -1,0 +1,10 @@
+persons:
+    person-31:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tion
+                    surname: Frey
+                value: Tion Frey
+            rin: MH:I31

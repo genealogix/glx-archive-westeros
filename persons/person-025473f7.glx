@@ -1,0 +1,10 @@
+persons:
+    person-323:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Elaena
+                    surname: Targaryen
+                value: Elaena Targaryen
+            rin: MH:I323

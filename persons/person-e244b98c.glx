@@ -1,0 +1,10 @@
+persons:
+    person-260:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Doran
+                    surname: Martell
+                value: Doran Martell
+            rin: MH:I260

@@ -1,0 +1,11 @@
+persons:
+    person-45:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Harys
+                    prefix: Ser
+                    surname: Haigh
+                value: Ser Harys Haigh
+            rin: MH:I45

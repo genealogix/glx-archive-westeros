@@ -1,0 +1,10 @@
+persons:
+    person-405:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Leo
+                    surname: Blackbar
+                value: Leo Blackbar
+            rin: MH:I405

@@ -1,0 +1,10 @@
+persons:
+    person-418:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Fossoway
+                value: Jeyne Fossoway
+            rin: MH:I418

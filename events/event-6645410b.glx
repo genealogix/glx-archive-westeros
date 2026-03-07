@@ -1,0 +1,6 @@
+events:
+    event-43:
+        type: birth
+        participants:
+            - person: person-37
+              role: principal

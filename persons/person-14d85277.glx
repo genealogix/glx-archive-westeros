@@ -1,0 +1,10 @@
+persons:
+    person-216:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Catelyn
+                    surname: Tully
+                value: Catelyn Tully
+            rin: MH:I216

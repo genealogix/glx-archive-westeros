@@ -1,0 +1,10 @@
+persons:
+    person-481:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Ashara
+                    surname: Dayne
+                value: Ashara Dayne
+            rin: MH:I481

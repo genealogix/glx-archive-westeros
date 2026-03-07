@@ -1,0 +1,10 @@
+persons:
+    person-121:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Flement
+                    surname: Brax
+                value: Flement Brax
+            rin: MH:I121

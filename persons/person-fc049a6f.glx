@@ -1,0 +1,10 @@
+persons:
+    person-93:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Sandor
+                    surname: Frey
+                value: Sandor Frey
+            rin: MH:I93

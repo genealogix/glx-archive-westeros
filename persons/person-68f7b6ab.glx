@@ -1,0 +1,10 @@
+persons:
+    person-333:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Alyn
+                    surname: Velaryon
+                value: Alyn Velaryon
+            rin: MH:I333

@@ -1,0 +1,11 @@
+persons:
+    person-480:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Symon
+                    prefix: Ser
+                    surname: Santagar
+                value: Ser Symon Santagar
+            rin: MH:I480

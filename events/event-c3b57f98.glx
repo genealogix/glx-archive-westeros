@@ -1,0 +1,8 @@
+events:
+    event-746:
+        type: marriage
+        participants:
+            - person: person-368
+              role: spouse
+            - person: person-370
+              role: spouse

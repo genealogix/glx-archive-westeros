@@ -1,0 +1,8 @@
+events:
+    event-178:
+        type: death
+        participants:
+            - person: person-163
+              role: principal
+        properties:
+            cause: Maternal Death

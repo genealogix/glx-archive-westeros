@@ -1,0 +1,10 @@
+persons:
+    person-77:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Damon
+                    surname: Vypren
+                value: Damon Vypren
+            rin: MH:I77

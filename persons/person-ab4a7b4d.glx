@@ -1,0 +1,10 @@
+persons:
+    person-119:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Hoster
+                    surname: Frey
+                value: Hoster Frey
+            rin: MH:I119

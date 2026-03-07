@@ -1,0 +1,11 @@
+persons:
+    person-401:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Medwick
+                    prefix: Maester
+                    surname: Tyrell
+                value: Maester Medwick Tyrell
+            rin: MH:I401

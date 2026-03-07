@@ -1,0 +1,10 @@
+persons:
+    person-232:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Ronnel
+                    surname: Arryn
+                value: Ronnel Arryn
+            rin: MH:I232

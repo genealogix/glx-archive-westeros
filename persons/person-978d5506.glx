@@ -1,0 +1,9 @@
+persons:
+    person-182:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Lannister
+                value: Lannister
+            rin: MH:I182

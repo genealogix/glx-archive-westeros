@@ -1,0 +1,10 @@
+persons:
+    person-266:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Obara
+                    surname: Sand
+                value: Obara Sand
+            rin: MH:I266

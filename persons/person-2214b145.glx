@@ -1,0 +1,10 @@
+persons:
+    person-91:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walder 'Little Walder'
+                    surname: Frey
+                value: Walder 'Little Walder' Frey
+            rin: MH:I91

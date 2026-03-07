@@ -1,0 +1,10 @@
+persons:
+    person-378:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Willas
+                    surname: Tyrell
+                value: Willas Tyrell
+            rin: MH:I378

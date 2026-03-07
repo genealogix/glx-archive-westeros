@@ -1,0 +1,10 @@
+persons:
+    person-149:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Ronel
+                    surname: Rivers
+                value: Ronel Rivers
+            rin: MH:I149

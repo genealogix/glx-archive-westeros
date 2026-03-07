@@ -1,0 +1,11 @@
+persons:
+    person-164:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jaime
+                    prefix: Ser
+                    surname: Lannister
+                value: Ser Jaime Lannister
+            rin: MH:I164

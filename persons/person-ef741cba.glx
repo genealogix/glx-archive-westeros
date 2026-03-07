@@ -1,0 +1,10 @@
+persons:
+    person-129:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Willamen
+                    surname: Frey
+                value: Willamen Frey
+            rin: MH:I129

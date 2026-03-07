@@ -1,0 +1,10 @@
+persons:
+    person-137:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Wendel
+                    surname: Frey
+                value: Wendel Frey
+            rin: MH:I137

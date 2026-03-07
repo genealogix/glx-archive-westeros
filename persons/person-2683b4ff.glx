@@ -1,0 +1,10 @@
+persons:
+    person-21:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Patrek
+                    surname: Vance
+                value: Patrek Vance
+            rin: MH:I21

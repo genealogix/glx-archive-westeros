@@ -1,0 +1,10 @@
+persons:
+    person-7:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Ryman
+                    surname: Frey
+                value: Ryman Frey
+            rin: MH:I7

@@ -1,0 +1,10 @@
+persons:
+    person-98:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Sarra
+                    surname: Frey
+                value: Sarra Frey
+            rin: MH:I98

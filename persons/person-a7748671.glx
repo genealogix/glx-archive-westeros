@@ -1,0 +1,10 @@
+persons:
+    person-248:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Elbert
+                    surname: Arryn
+                value: Elbert Arryn
+            rin: MH:I248

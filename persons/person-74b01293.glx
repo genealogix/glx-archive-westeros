@@ -1,0 +1,10 @@
+persons:
+    person-105:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jammos
+                    surname: Frey
+                value: Jammos Frey
+            rin: MH:I105

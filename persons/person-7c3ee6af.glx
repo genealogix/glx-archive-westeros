@@ -1,0 +1,9 @@
+persons:
+    person-339:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Rhaenyra
+                value: Rhaenyra
+            rin: MH:I339

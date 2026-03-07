@@ -1,0 +1,8 @@
+events:
+    event-730:
+        type: marriage
+        participants:
+            - person: person-293
+              role: spouse
+            - person: person-294
+              role: spouse

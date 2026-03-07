@@ -1,0 +1,9 @@
+persons:
+    person-426:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Hightower
+                value: Hightower
+            rin: MH:I426

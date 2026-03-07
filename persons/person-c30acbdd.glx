@@ -1,0 +1,10 @@
+persons:
+    person-421:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Humfrey
+                    surname: Hightower
+                value: Humfrey Hightower
+            rin: MH:I421

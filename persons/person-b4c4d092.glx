@@ -1,0 +1,11 @@
+persons:
+    person-345:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegon
+                    suffix: II
+                    surname: Targaryen
+                value: Aegon Targaryen II
+            rin: MH:I345

@@ -1,0 +1,10 @@
+persons:
+    person-458:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Samwell
+                    surname: Tarly
+                value: Samwell Tarly
+            rin: MH:I458

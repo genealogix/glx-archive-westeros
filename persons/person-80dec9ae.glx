@@ -1,0 +1,11 @@
+persons:
+    person-441:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Imry
+                    prefix: Ser
+                    surname: Florent
+                value: Ser Imry Florent
+            rin: MH:I441

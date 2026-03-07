@@ -1,0 +1,9 @@
+persons:
+    person-500:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Baratheon
+                value: Baratheon
+            rin: MH:I500

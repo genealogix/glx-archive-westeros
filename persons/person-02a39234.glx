@@ -1,0 +1,10 @@
+persons:
+    person-117:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Mathis
+                    surname: Frey
+                value: Mathis Frey
+            rin: MH:I117

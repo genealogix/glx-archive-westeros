@@ -1,0 +1,10 @@
+persons:
+    person-424:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tregar
+                    surname: Ormollen
+                value: Tregar Ormollen
+            rin: MH:I424

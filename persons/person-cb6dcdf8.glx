@@ -1,0 +1,11 @@
+persons:
+    person-440:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Ryam
+                    prefix: Ser
+                    surname: Florent
+                value: Ser Ryam Florent
+            rin: MH:I440

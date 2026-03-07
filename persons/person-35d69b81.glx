@@ -1,0 +1,10 @@
+persons:
+    person-414:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Denys
+                    surname: Redwyne
+                value: Denys Redwyne
+            rin: MH:I414

@@ -1,0 +1,10 @@
+persons:
+    person-369:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Maegon
+                    surname: Targaryen
+                value: Maegon Targaryen
+            rin: MH:I369

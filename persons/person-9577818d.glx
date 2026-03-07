@@ -1,0 +1,10 @@
+persons:
+    person-47:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Alyn
+                    surname: Haigh
+                value: Alyn Haigh
+            rin: MH:I47

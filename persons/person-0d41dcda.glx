@@ -1,0 +1,10 @@
+persons:
+    person-190:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Edric
+                    surname: Storm
+                value: Edric Storm
+            rin: MH:I190

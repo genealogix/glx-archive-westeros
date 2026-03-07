@@ -1,0 +1,10 @@
+persons:
+    person-70:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Arwood
+                    surname: Frey
+                value: Arwood Frey
+            rin: MH:I70

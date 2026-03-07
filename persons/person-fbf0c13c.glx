@@ -1,0 +1,10 @@
+persons:
+    person-397:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Leo 'The Lazy'
+                    surname: Tyrell
+                value: Leo 'The Lazy' Tyrell
+            rin: MH:I397

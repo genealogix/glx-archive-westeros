@@ -1,0 +1,10 @@
+persons:
+    person-168:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Joffrey
+                    surname: Baratheon
+                value: Joffrey Baratheon
+            rin: MH:I168

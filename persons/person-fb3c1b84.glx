@@ -1,0 +1,10 @@
+persons:
+    person-96:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Robert
+                    surname: Frey
+                value: Robert Frey
+            rin: MH:I96

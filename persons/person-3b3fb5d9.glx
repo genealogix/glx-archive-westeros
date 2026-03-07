@@ -1,0 +1,10 @@
+persons:
+    person-113:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Leana
+                    surname: Frey
+                value: Leana Frey
+            rin: MH:I113

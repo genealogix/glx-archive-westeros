@@ -1,0 +1,11 @@
+persons:
+    person-420:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    prefix: Ser
+                    surname: Cupps
+                value: Ser Jon Cupps
+            rin: MH:I420

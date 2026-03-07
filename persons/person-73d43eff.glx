@@ -1,0 +1,10 @@
+persons:
+    person-27:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Bryan
+                    surname: Frey
+                value: Bryan Frey
+            rin: MH:I27

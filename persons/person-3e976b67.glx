@@ -1,0 +1,11 @@
+persons:
+    person-340:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Viserys
+                    suffix: I
+                    surname: Targaryen
+                value: Viserys Targaryen I
+            rin: MH:I340

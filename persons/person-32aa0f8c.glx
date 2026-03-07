@@ -1,0 +1,10 @@
+persons:
+    person-54:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Kyra
+                    surname: Frey
+                value: Kyra Frey
+            rin: MH:I54

@@ -1,0 +1,10 @@
+persons:
+    person-101:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tywin
+                    surname: Frey
+                value: Tywin Frey
+            rin: MH:I101

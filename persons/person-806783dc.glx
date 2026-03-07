@@ -1,0 +1,10 @@
+persons:
+    person-92:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Carolei
+                    surname: Waynwood
+                value: Carolei Waynwood
+            rin: MH:I92

@@ -1,0 +1,11 @@
+persons:
+    person-447:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Colin
+                    prefix: Ser
+                    surname: Florent
+                value: Ser Colin Florent
+            rin: MH:I447

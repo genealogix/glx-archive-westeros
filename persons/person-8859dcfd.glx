@@ -1,0 +1,10 @@
+persons:
+    person-196:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Renly
+                    surname: Baratheon
+                value: Renly Baratheon
+            rin: MH:I196

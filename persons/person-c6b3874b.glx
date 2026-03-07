@@ -1,0 +1,10 @@
+persons:
+    person-22:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Marsella
+                    surname: Waynwood
+                value: Marsella Waynwood
+            rin: MH:I22

@@ -1,0 +1,9 @@
+persons:
+    person-436:
+        properties:
+            gender: female
+            name:
+                fields:
+                    surname: Snow
+                value: Snow
+            rin: MH:I436

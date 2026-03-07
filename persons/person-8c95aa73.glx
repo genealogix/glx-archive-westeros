@@ -1,0 +1,10 @@
+persons:
+    person-252:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Morton
+                    surname: Waynwood
+                value: Morton Waynwood
+            rin: MH:I252

@@ -1,0 +1,7 @@
+events:
+    event-238:
+        type: burial
+        place: place-3
+        participants:
+            - person: person-210
+              role: principal

@@ -1,0 +1,10 @@
+relationships:
+    relationship-57:
+        type: marriage
+        participants:
+            - person: person-233
+              role: spouse
+            - person: person-231
+              role: spouse
+        properties:
+            marriage_event: event-722

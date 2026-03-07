@@ -1,0 +1,10 @@
+persons:
+    person-155:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Robert
+                    surname: Brax
+                value: Robert Brax
+            rin: MH:I155

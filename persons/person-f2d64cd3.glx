@@ -1,0 +1,10 @@
+persons:
+    person-477:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aemon
+                    surname: Estermont
+                value: Aemon Estermont
+            rin: MH:I477

@@ -1,0 +1,11 @@
+persons:
+    person-442:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Erren
+                    prefix: Ser
+                    surname: Florent
+                value: Ser Erren Florent
+            rin: MH:I442

@@ -1,0 +1,6 @@
+events:
+    event-412:
+        type: death
+        participants:
+            - person: person-321
+              role: principal

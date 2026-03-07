@@ -1,0 +1,138 @@
+# Standard Person Properties
+# This file defines the standard properties for person entities.
+# These properties represent the concluded or accepted values for a person.
+# Archives can extend this with custom properties by adding additional entries.
+
+person_properties:
+  name:
+    label: "Name"
+    description: "Person's name as recorded, with optional structured breakdown"
+    value_type: string
+    temporal: true
+    fields:
+      type:
+        label: "Name Type"
+        description: "Classification of name usage (e.g., birth, married, alias, immigrant, religious, formal)"
+      prefix:
+        label: "Prefix"
+        description: "Honorific prefix (Dr., Rev., Hon.)"
+      given:
+        label: "Given Name"
+        description: "Given/first name(s)"
+      nickname:
+        label: "Nickname"
+        description: "Familiar or descriptive name"
+      surname_prefix:
+        label: "Surname Prefix"
+        description: "Article or prefix (von, van, de)"
+      surname:
+        label: "Surname"
+        description: "Family name"
+      suffix:
+        label: "Suffix"
+        description: "Generational suffix (Jr., Sr., III)"
+
+  gender:
+    label: "Gender"
+    description: "Gender identity"
+    value_type: string
+    temporal: true
+  
+  born_on:
+    label: "Birth Date"
+    description: "Date of birth"
+    value_type: date
+  
+  born_at:
+    label: "Birth Place"
+    description: "Place of birth"
+    reference_type: places
+  
+  died_on:
+    label: "Death Date"
+    description: "Date of death"
+    value_type: date
+  
+  died_at:
+    label: "Death Place"
+    description: "Place of death"
+    reference_type: places
+  
+  occupation:
+    label: "Occupation"
+    description: "Profession or trade"
+    value_type: string
+    temporal: true
+    gedcom: "OCCU"
+
+  title:
+    label: "Title"
+    description: "Nobility or honorific title"
+    value_type: string
+    temporal: true
+    gedcom: "TITL"
+
+  residence:
+    label: "Residence"
+    description: "Place of residence"
+    reference_type: places
+    temporal: true
+  
+  religion:
+    label: "Religion"
+    description: "Religious affiliation"
+    value_type: string
+    temporal: true
+    gedcom: "RELI"
+  
+  education:
+    label: "Education"
+    description: "Educational attainment"
+    value_type: string
+    temporal: true
+    gedcom: "EDUC"
+  
+  ethnicity:
+    label: "Ethnicity"
+    description: "Ethnic background"
+    value_type: string
+    temporal: true
+  
+  race:
+    label: "Race"
+    description: "Racial classification as recorded in historical documents (e.g., census records)"
+    value_type: string
+    temporal: true
+
+  nationality:
+    label: "Nationality"
+    description: "National citizenship"
+    value_type: string
+    temporal: true
+    gedcom: "NATI"
+
+  caste:
+    label: "Caste"
+    description: "Caste, tribe, or social group"
+    value_type: string
+    temporal: true
+    gedcom: "CAST"
+
+  ssn:
+    label: "Social Security Number"
+    description: "National identification number"
+    value_type: string
+    gedcom: "SSN"
+
+  external_ids:
+    label: "External Identifiers"
+    description: "Identifiers from external systems (e.g., FamilySearch, WikiTree)"
+    value_type: string
+    multi_value: true
+    gedcom: "EXID"
+    fields:
+      type:
+        label: "Identifier Type"
+        description: "Authority or system that issued this identifier (e.g., familysearch, ancestry, wikitree). Often a URI, especially when imported from GEDCOM 7 EXID.TYPE."
+
+

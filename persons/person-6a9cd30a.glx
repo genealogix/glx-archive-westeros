@@ -1,0 +1,10 @@
+persons:
+    person-24:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Deana
+                    surname: Hardyng
+                value: Deana Hardyng
+            rin: MH:I24

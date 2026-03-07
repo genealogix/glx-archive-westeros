@@ -1,0 +1,10 @@
+persons:
+    person-227:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Robert
+                    surname: Arryn
+                value: Robert Arryn
+            rin: MH:I227

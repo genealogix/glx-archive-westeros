@@ -1,0 +1,10 @@
+persons:
+    person-392:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Desmera
+                    surname: Redwyne
+                value: Desmera Redwyne
+            rin: MH:I392

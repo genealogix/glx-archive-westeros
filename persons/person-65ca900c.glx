@@ -1,0 +1,11 @@
+persons:
+    person-167:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Robert
+                    suffix: I
+                    surname: Baratheon
+                value: Robert Baratheon I
+            rin: MH:I167

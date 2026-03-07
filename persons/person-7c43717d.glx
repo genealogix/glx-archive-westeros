@@ -1,0 +1,10 @@
+persons:
+    person-6:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Corenna
+                    surname: Swann
+                value: Corenna Swann
+            rin: MH:I6

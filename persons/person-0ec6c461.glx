@@ -1,0 +1,10 @@
+persons:
+    person-18:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Dafyn
+                    surname: Vance
+                value: Dafyn Vance
+            rin: MH:I18

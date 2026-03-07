@@ -1,0 +1,10 @@
+persons:
+    person-417:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Gunthor
+                    surname: Hightower
+                value: Gunthor Hightower
+            rin: MH:I417

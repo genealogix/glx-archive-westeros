@@ -1,0 +1,11 @@
+persons:
+    person-290:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Daeron
+                    suffix: II
+                    surname: Targaryen
+                value: Daeron Targaryen II
+            rin: MH:I290

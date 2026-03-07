@@ -1,0 +1,10 @@
+persons:
+    person-375:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Mace
+                    surname: Tyrell
+                value: Mace Tyrell
+            rin: MH:I375

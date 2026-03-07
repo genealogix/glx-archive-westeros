@@ -1,0 +1,10 @@
+persons:
+    person-41:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Walda 'White Walda'
+                    surname: Frey
+                value: Walda 'White Walda' Frey
+            rin: MH:I41

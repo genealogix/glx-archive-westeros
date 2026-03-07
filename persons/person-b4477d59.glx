@@ -1,0 +1,10 @@
+persons:
+    person-48:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walder
+                    surname: Haigh
+                value: Walder Haigh
+            rin: MH:I48

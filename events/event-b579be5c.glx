@@ -1,0 +1,9 @@
+events:
+    event-231:
+        type: death
+        place: place-2
+        participants:
+            - person: person-207
+              role: principal
+        properties:
+            cause: Homicide

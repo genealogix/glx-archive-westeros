@@ -1,0 +1,10 @@
+persons:
+    person-55:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Zhoe
+                    surname: Blanetree
+                value: Zhoe Blanetree
+            rin: MH:I55

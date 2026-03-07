@@ -1,0 +1,10 @@
+persons:
+    person-231:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Alys
+                    surname: Arryn
+                value: Alys Arryn
+            rin: MH:I231

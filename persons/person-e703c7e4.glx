@@ -1,0 +1,10 @@
+persons:
+    person-56:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Zia
+                    surname: Frey
+                value: Zia Frey
+            rin: MH:I56

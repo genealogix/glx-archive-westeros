@@ -1,0 +1,11 @@
+persons:
+    person-53:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tytos
+                    prefix: Ser
+                    surname: Frey
+                value: Ser Tytos Frey
+            rin: MH:I53

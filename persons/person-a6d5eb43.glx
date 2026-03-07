@@ -1,0 +1,10 @@
+persons:
+    person-152:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Walda
+                    surname: Rivers
+                value: Walda Rivers
+            rin: MH:I152

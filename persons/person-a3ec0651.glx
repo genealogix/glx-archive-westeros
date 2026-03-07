@@ -1,0 +1,10 @@
+persons:
+    person-403:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Elinor
+                    surname: Tyrell
+                value: Elinor Tyrell
+            rin: MH:I403

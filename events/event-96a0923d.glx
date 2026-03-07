@@ -1,0 +1,8 @@
+events:
+    event-27:
+        type: death
+        participants:
+            - person: person-22
+              role: principal
+        properties:
+            cause: Maternal Death

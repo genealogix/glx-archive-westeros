@@ -1,0 +1,10 @@
+persons:
+    person-146:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Rivers
+                value: Jeyne Rivers
+            rin: MH:I146

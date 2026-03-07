@@ -1,0 +1,10 @@
+persons:
+    person-221:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Rickon
+                    surname: Stark
+                value: Rickon Stark
+            rin: MH:I221

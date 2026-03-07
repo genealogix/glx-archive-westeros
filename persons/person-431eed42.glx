@@ -1,0 +1,10 @@
+persons:
+    person-253:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Donnel
+                    surname: Waynwood
+                value: Donnel Waynwood
+            rin: MH:I253

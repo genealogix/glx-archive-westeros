@@ -1,0 +1,10 @@
+persons:
+    person-362:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Argella
+                    surname: Durrendon
+                value: Argella Durrendon
+            rin: MH:I362

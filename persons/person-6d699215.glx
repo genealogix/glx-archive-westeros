@@ -1,0 +1,10 @@
+persons:
+    person-235:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Denys
+                    surname: Arryn
+                value: Denys Arryn
+            rin: MH:I235

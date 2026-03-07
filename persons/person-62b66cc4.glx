@@ -1,0 +1,10 @@
+persons:
+    person-20:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walder
+                    surname: Vance
+                value: Walder Vance
+            rin: MH:I20

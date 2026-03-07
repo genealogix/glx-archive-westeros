@@ -1,0 +1,6 @@
+events:
+    event-30:
+        type: birth
+        participants:
+            - person: person-25
+              role: principal

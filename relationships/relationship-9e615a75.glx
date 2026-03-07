@@ -1,0 +1,10 @@
+relationships:
+    relationship-100:
+        type: marriage
+        participants:
+            - person: person-444
+              role: spouse
+            - person: person-448
+              role: spouse
+        properties:
+            marriage_event: event-770

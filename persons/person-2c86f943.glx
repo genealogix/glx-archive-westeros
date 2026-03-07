@@ -1,0 +1,10 @@
+persons:
+    person-159:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tywin
+                    surname: Lannister
+                value: Tywin Lannister
+            rin: MH:I159

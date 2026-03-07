@@ -1,0 +1,10 @@
+persons:
+    person-115:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walder 'Big Walder'
+                    surname: Frey
+                value: Walder 'Big Walder' Frey
+            rin: MH:I115

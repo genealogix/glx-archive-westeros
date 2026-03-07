@@ -1,0 +1,11 @@
+persons:
+    person-423:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jorah
+                    prefix: Ser
+                    surname: Mormont
+                value: Ser Jorah Mormont
+            rin: MH:I423

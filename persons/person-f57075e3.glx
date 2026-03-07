@@ -1,0 +1,10 @@
+persons:
+    person-259:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Lewyn
+                    surname: Martell
+                value: Lewyn Martell
+            rin: MH:I259

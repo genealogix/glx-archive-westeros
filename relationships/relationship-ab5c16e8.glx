@@ -1,0 +1,8 @@
+relationships:
+    relationship-602:
+        type: parent_child
+        participants:
+            - person: person-368
+              role: parent
+            - person: person-369
+              role: child

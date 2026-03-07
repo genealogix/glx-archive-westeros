@@ -1,0 +1,10 @@
+persons:
+    person-416:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Garth
+                    surname: Hightower
+                value: Garth Hightower
+            rin: MH:I416

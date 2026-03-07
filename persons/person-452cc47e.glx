@@ -1,0 +1,10 @@
+persons:
+    person-86:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Mariya
+                    surname: Derry
+                value: Mariya Derry
+            rin: MH:I86

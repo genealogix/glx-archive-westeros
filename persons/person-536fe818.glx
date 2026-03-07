@@ -1,0 +1,10 @@
+persons:
+    person-59:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Walder
+                    surname: Goodbrook
+                value: Walder Goodbrook
+            rin: MH:I59

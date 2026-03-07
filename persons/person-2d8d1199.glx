@@ -1,0 +1,10 @@
+persons:
+    person-161:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tygett
+                    surname: Lannister
+                value: Tygett Lannister
+            rin: MH:I161

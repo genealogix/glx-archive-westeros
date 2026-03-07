@@ -1,0 +1,10 @@
+persons:
+    person-173:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Willem
+                    surname: Lannister
+                value: Willem Lannister
+            rin: MH:I173

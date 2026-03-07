@@ -1,0 +1,10 @@
+persons:
+    person-192:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Mya
+                    surname: Stone
+                value: Mya Stone
+            rin: MH:I192

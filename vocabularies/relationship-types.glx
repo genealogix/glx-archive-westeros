@@ -1,0 +1,51 @@
+# Standard Relationship Types
+# This file defines the standard relationship types for GENEALOGIX archives.
+# Archives can extend this with custom types by adding additional entries.
+
+relationship_types:
+  marriage:
+    label: "Marriage"
+    description: "Legal or religious union of two people"
+    gedcom: "MARR"
+  
+  parent_child:
+    label: "Parent-Child"
+    description: "Parent-child relationship (unspecified type)"
+    gedcom: "CHIL/FAMC"
+
+  biological_parent_child:
+    label: "Biological Parent-Child"
+    description: "Biological parent-child relationship"
+    gedcom: "CHIL/FAMC with PEDI birth"
+
+  adoptive_parent_child:
+    label: "Adoptive Parent-Child"
+    description: "Adoptive parent-child relationship"
+    gedcom: "CHIL/FAMC with PEDI adopted"
+
+  foster_parent_child:
+    label: "Foster Parent-Child"
+    description: "Foster parent-child relationship"
+    gedcom: "CHIL/FAMC with PEDI foster"
+
+  sibling:
+    label: "Sibling"
+    description: "Brother or sister relationship"
+    gedcom: "SIBL"
+
+  step_parent:
+    label: "Step-Parent"
+    description: "Step-parent through marriage"
+  
+  godparent:
+    label: "Godparent"
+    description: "Ongoing godparent-godchild bond (use baptism/christening event for the ceremony)"
+  
+  guardian:
+    label: "Guardian"
+    description: "Legal guardian relationship"
+  
+  partner:
+    label: "Partner"
+    description: "Domestic partnership or cohabitation"
+

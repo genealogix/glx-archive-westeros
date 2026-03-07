@@ -1,0 +1,8 @@
+events:
+    event-663:
+        type: marriage
+        participants:
+            - person: person-1
+              role: spouse
+            - person: person-2
+              role: spouse

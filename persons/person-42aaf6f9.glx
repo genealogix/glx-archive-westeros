@@ -1,0 +1,9 @@
+persons:
+    person-250:
+        properties:
+            gender: unknown
+            name:
+                fields:
+                    surname: Waynwood
+                value: Waynwood
+            rin: MH:I250

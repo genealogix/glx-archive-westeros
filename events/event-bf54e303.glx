@@ -1,0 +1,8 @@
+events:
+    event-765:
+        type: marriage
+        participants:
+            - person: person-420
+              role: spouse
+            - person: person-419
+              role: spouse

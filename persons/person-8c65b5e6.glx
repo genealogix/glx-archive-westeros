@@ -1,0 +1,10 @@
+persons:
+    person-211:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    surname: Snow
+                value: Jon Snow
+            rin: MH:I211

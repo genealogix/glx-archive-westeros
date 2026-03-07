@@ -1,0 +1,10 @@
+persons:
+    person-30:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Lyonel
+                    surname: Frey
+                value: Lyonel Frey
+            rin: MH:I30

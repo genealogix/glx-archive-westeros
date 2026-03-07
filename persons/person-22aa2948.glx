@@ -1,0 +1,10 @@
+persons:
+    person-487:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Beric
+                    surname: Dondarrion
+                value: Beric Dondarrion
+            rin: MH:I487

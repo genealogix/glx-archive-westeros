@@ -1,0 +1,9 @@
+persons:
+    person-482:
+        properties:
+            gender: male
+            name:
+                fields:
+                    surname: Dayne
+                value: Dayne
+            rin: MH:I482

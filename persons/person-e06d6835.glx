@@ -1,0 +1,10 @@
+persons:
+    person-133:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Della
+                    surname: Frey
+                value: Della Frey
+            rin: MH:I133

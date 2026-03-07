@@ -1,0 +1,6 @@
+events:
+    event-597:
+        type: birth
+        participants:
+            - person: person-447
+              role: principal

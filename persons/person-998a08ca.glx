@@ -1,0 +1,10 @@
+persons:
+    person-10:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Petyr
+                    surname: Frey
+                value: Petyr Frey
+            rin: MH:I10

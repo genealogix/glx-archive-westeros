@@ -1,0 +1,10 @@
+persons:
+    person-351:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Alysanne 'The Good'
+                    surname: Targaryen
+                value: Alysanne 'The Good' Targaryen
+            rin: MH:I351

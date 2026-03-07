@@ -1,0 +1,6 @@
+events:
+    event-3:
+        type: death
+        participants:
+            - person: person-2
+              role: principal

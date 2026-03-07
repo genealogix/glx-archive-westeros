@@ -1,0 +1,10 @@
+persons:
+    person-364:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Daemon
+                    surname: Targaryen
+                value: Daemon Targaryen
+            rin: MH:I364

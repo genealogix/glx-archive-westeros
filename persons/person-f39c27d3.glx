@@ -1,0 +1,11 @@
+persons:
+    person-51:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Luceon
+                    prefix: Septon
+                    surname: Frey
+                value: Septon Luceon Frey
+            rin: MH:I51

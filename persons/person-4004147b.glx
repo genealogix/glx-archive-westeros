@@ -1,0 +1,11 @@
+persons:
+    person-209:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aegon
+                    suffix: VI
+                    surname: Targaryen
+                value: Aegon Targaryen VI
+            rin: MH:I209

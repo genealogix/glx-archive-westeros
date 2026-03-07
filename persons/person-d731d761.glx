@@ -1,0 +1,10 @@
+persons:
+    person-371:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Gaemon
+                    surname: Targaryen
+                value: Gaemon Targaryen
+            rin: MH:I371
