@@ -8,3 +8,7 @@ persons:
                     surname: Tully
                 value: Lysa Tully
             rin: MH:I224
+            title:
+                - value: "Lady"
+            house: "Tully"
+        notes: "Third wife and widow of Jon Arryn. Born of House Tully, younger daughter of Hoster Tully."

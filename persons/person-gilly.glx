@@ -1,0 +1,7 @@
+persons:
+    person-gilly:
+        properties:
+            gender: female
+            name:
+                value: Gilly
+        notes: "A wildling girl, wet nurse to Mance Rayder's infant son. Her own infant son is 'the abomination,' fathered by her father Craster (now deceased). At Castle Black with King Stannis (ADWD Appendix)."

@@ -1,0 +1,12 @@
+persons:
+    person-brynden-rivers-three-eyed-crow:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Brynden
+                value: Brynden
+            alias:
+                - value: "The Three-Eyed Crow"
+                - value: "The Last Greenseer"
+        notes: "Also called THE LAST GREENSEER. A sorcerer and dreamwalker, once a man of the Night's Watch named Brynden, now more tree than man. In the caverns beneath a hollow hill beyond the Wall (ADWD Appendix). See also person-brynden-targaryen-bloodraven."

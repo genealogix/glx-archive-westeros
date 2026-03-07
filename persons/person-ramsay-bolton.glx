@@ -1,0 +1,15 @@
+persons:
+    person-ramsay-bolton:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Ramsay
+                    surname: Bolton
+                value: Ramsay Bolton
+            alias:
+                - value: "The Bastard of Bolton"
+            title:
+                - value: "Lord of the Hornwood"
+            house: "Bolton"
+        notes: "Natural son of Roose Bolton. Called THE BASTARD OF BOLTON. Lord of the Hornwood. His squires are Walder Frey (Big Walder) and Walder Frey (Little Walder). His men-at-arms are called the Bastard's Boys (ADWD Appendix)."

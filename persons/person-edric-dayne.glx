@@ -8,3 +8,7 @@ persons:
                     surname: Dayne
                 value: Edric Dayne
             rin: MH:I486
+            title:
+                - value: "Lord of Starfall"
+            house: "Dayne"
+        notes: "Lord of Starfall. Listed in AGOT Appendix under House Martell."

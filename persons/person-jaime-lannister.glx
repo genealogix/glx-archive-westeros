@@ -9,3 +9,9 @@ persons:
                     surname: Lannister
                 value: Ser Jaime Lannister
             rin: MH:I164
+            alias:
+                - value: "The Kingslayer"
+            title:
+                - value: "Lord Commander of the Kingsguard"
+            house: "Lannister"
+        notes: "Twin to Cersei. ASOS appendix lists him as 'SER JAIME LANNISTER, called THE KINGSLAYER, a captive at Riverrun' and as 'Lord Commander' of Joffrey's Kingsguard. Lost his sword hand during ASOS (cut off by Vargo Hoat). Also titled Warden of the East in the ASOS appendix."

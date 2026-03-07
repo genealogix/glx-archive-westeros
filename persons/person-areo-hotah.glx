@@ -1,0 +1,12 @@
+persons:
+    person-areo-hotah:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Areo
+                    surname: Hotah
+                value: Areo Hotah
+            title:
+                - value: "Captain of the Guards"
+        notes: "Areo Hotah of Norvos. Captain of the guards at Prince Doran Martell's court at the Water Gardens. Listed in the AFFC appendix."

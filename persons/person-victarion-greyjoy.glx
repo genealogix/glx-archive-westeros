@@ -1,0 +1,15 @@
+persons:
+    person-victarion-greyjoy:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Victarion
+                    surname: Greyjoy
+                value: Victarion Greyjoy
+            title:
+                - value: "Lord Captain of the Iron Fleet"
+                - value: "Master of the Iron Victory"
+            house: "Greyjoy"
+            religion: "Drowned God"
+        notes: "Younger brother of Euron. Lord Captain of the Iron Fleet and master of the Iron Victory. At sea heading to court Daenerys as one of the queen's suitors per ADWD Appendix."

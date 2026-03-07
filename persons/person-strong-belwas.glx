@@ -1,0 +1,7 @@
+persons:
+    person-strong-belwas:
+        properties:
+            gender: male
+            name:
+                value: "Strong Belwas"
+        notes: "Eunuch and former fighting slave. Protector of Queen Daenerys (ADWD Appendix)."

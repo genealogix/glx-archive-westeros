@@ -1,0 +1,41 @@
+assertions:
+    assertion-jory-cassel-name:
+        subject:
+            person: person-jory-cassel
+        property: name
+        value: "Jory Cassel"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: JORY CA SSEL, captain of the guard"
+    assertion-jory-cassel-gender:
+        subject:
+            person: person-jory-cassel
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-jory-cassel-title:
+        subject:
+            person: person-jory-cassel
+        property: title
+        value: "Captain of the Guard"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-jory-cassel-house:
+        subject:
+            person: person-jory-cassel
+        property: house
+        value: "Cassel"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."

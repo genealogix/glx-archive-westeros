@@ -1,0 +1,11 @@
+assertions:
+    assertion-lancel-lord-darry-affc:
+        subject:
+            person: person-lancel-lannister
+        property: title
+        value: "Lord of Darry"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: SER LANCEL, Ser Kevan's son, her cousin, formerly King Robert's squire and Cersei's lover, newly raised to Lord of Darry"

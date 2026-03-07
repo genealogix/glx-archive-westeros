@@ -8,3 +8,10 @@ persons:
                     surname: Snow
                 value: Jon Snow
             rin: MH:I211
+            title:
+                - value: "Lord Commander of the Night's Watch"
+                  date: "FROM 300"
+            alias:
+                - value: "The Bastard of Winterfell"
+            house: "Stark"
+        notes: "Nine-hundred-and-ninety-eighth Lord Commander of the Night's Watch (ADWD Appendix)"

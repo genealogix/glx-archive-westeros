@@ -1,0 +1,7 @@
+persons:
+    person-coldhands:
+        properties:
+            gender: male
+            name:
+                value: Coldhands
+        notes: "Clad in black, once perhaps a man of the Night's Watch, now a mystery. Guide to Bran Stark and his companions beyond the Wall (ADWD Appendix)."

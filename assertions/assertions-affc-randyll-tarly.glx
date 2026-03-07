@@ -1,0 +1,11 @@
+assertions:
+    assertion-randyll-tarly-title-affc:
+        subject:
+            person: person-randyll-tarly
+        property: title
+        value: "Lord of Horn Hill"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Listed under House Tyrell bannermen: RANDYLL TARLY, Lord of Horn Hill. Also under Brienne's journey: RANDYLL TARLY, Lord of Horn Hill, commanding King Tommen's forces along the Trident."

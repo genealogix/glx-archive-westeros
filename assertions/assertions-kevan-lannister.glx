@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Lannister section. Listed as Ser."
+    assertion-kevan-lannister-title:
+        subject:
+            person: person-kevan-lannister
+        property: title
+        value: "Ser"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section. Source text: SER KEVA N, his eldest brother"
+    assertion-kevan-lannister-house:
+        subject:
+            person: person-kevan-lannister
+        property: house
+        value: "Lannister"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section."

@@ -1,0 +1,14 @@
+persons:
+    person-brown-ben-plumm:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Ben
+                    surname: Plumm
+                value: "Brown Ben Plumm"
+            alias:
+                - value: "Brown Ben"
+            title:
+                - value: "Captain of the Second Sons"
+        notes: "A mongrel sellsword, captain and commander of the Second Sons. Initially sworn to Queen Daenerys (ADWD Appendix)."

@@ -8,3 +8,6 @@ persons:
                     surname: Florent
                 value: Selyse Florent
             rin: MH:I197
+            title:
+                - value: "Lady"
+            house: "Florent"

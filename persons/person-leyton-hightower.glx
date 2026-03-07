@@ -8,3 +8,8 @@ persons:
                     surname: Hightower
                 value: Leyton Hightower
             rin: MH:I406
+            title:
+                - value: "Voice of Oldtown"
+                - value: "Lord of the Port"
+            house: "Hightower"
+        notes: "Voice of Oldtown, Lord of the Port. Listed in AGOT Appendix under House Tyrell."

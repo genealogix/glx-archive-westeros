@@ -1,0 +1,12 @@
+persons:
+    person-dolorous-edd:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Eddison
+                    surname: Tollett
+                value: Eddison Tollett
+            alias:
+                - value: "Dolorous Edd"
+        notes: "Steward to Lord Commander Jon Snow at Castle Black (ADWD Appendix)."

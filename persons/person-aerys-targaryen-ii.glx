@@ -9,3 +9,13 @@ persons:
                     surname: Targaryen
                 value: Aerys Targaryen II
             rin: MH:I202
+            title:
+                - value: "King of the Andals and the Rhoynar and the First Men"
+                  date: "FROM 262 TO 283"
+            alias:
+                - value: "The Mad King"
+            house: "Targaryen"
+            status: "dead"
+            cause_of_death: "Slain by Jaime Lannister during the Sack of King's Landing"
+            born_on: "ABT 244"
+            died_on: "283"

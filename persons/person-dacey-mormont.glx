@@ -7,4 +7,8 @@ persons:
                     given: Dacey
                     surname: Mormont
                 value: Dacey Mormont
+            house: Mormont
+            died_on: "299"
+            cause_of_death: "Murdered at the Red Wedding"
             rin: MH:I431
+        notes: "Eldest daughter of Lady Maege Mormont and heir to Bear Island. ASOS appendix lists her among Robb's sworn swords: 'DACEY MORMONT, eldest daughter of Lady Maege Mormont and heir to Bear Island'. Killed at the Red Wedding."

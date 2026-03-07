@@ -8,3 +8,8 @@ persons:
                     surname: Sand
                 value: Tyene Sand
             rin: MH:I268
+            alias:
+                - value: "Sand Snake"
+            house: "Martell"
+            born_on: "ABT 276"
+        notes: "Third eldest Sand Snake. Bastard daughter of Prince Oberyn Martell by a septa. Twenty-three years old at the time of AFFC. Listed in the AFFC appendix."

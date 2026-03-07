@@ -1,0 +1,11 @@
+assertions:
+    assertion-loras-tyrell-kingsguard-affc:
+        subject:
+            person: person-loras-tyrell
+        property: title
+        value: "Sworn Brother of the Kingsguard"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Listed as SER LORAS TYRELL, the Knight of Flowers, a Sworn Brother of the Kingsguard. Also under Tommen's Kingsguard: SER LORAS TYRELL, the Knight of Flowers. With Princess Myrcella in Dorne per Ser Arys Oakheart listing."

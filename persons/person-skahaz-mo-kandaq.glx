@@ -1,0 +1,11 @@
+persons:
+    person-skahaz-mo-kandaq:
+        properties:
+            gender: male
+            name:
+                value: "Skahaz mo Kandaq"
+            alias:
+                - value: "The Shavepate"
+            title:
+                - value: "Commander of the Brazen Beasts"
+        notes: "Shaven-headed commander of the Brazen Beasts, Daenerys's city watch. One of the queen's suitors. A lesser nobleman of Meereen (ADWD Appendix)."

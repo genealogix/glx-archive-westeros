@@ -1,0 +1,13 @@
+persons:
+    person-roose-bolton:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Roose
+                    surname: Bolton
+                value: Roose Bolton
+            title:
+                - value: "Lord of the Dreadfort"
+            house: "Bolton"
+        notes: "Lord of the Dreadfort. ASOS appendix lists him as 'ROOSE BOLTON, Lord of the Dreadfort' commanding a host at Harrenhal. Co-conspirator with Walder Frey and Tywin Lannister in the Red Wedding. Personally killed Robb Stark. Married Walda Frey (Fat Walda). His natural son is Ramsay Bolton."

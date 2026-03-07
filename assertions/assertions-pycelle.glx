@@ -1,0 +1,31 @@
+assertions:
+    assertion-pycelle-name:
+        subject:
+            person: person-pycelle
+        property: name
+        value: "Pycelle"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: GRA ND MA ESTER PYCELLE"
+    assertion-pycelle-gender:
+        subject:
+            person: person-pycelle
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."
+    assertion-pycelle-title:
+        subject:
+            person: person-pycelle
+        property: title
+        value: "Grand Maester"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: GRA ND MA ESTER PYCELLE"

@@ -1,0 +1,9 @@
+persons:
+    person-young-griff:
+        properties:
+            gender: male
+            name:
+                value: "Young Griff"
+            alias:
+                - value: "Young Griff"
+        notes: "A blue-haired lad of eighteen years. His foster father is Griff (Jon Connington), a sellsword late of the Golden Company. One of Daenerys's suitors. Travels on the Rhoyne with Ser Rolly Duckfield, Septa Lemore, Haldon the Halfmaester, and the crew of the Shy Maid (ADWD Appendix). Believed to be Aegon Targaryen, son of Rhaegar — see person-aegon-targaryen-vi."

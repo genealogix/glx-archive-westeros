@@ -8,3 +8,8 @@ persons:
                     surname: Martell
                 value: Arianne Martell
             rin: MH:I277
+            title:
+                - value: "Princess"
+                - value: "Heir to Sunspear"
+            house: "Martell"
+        notes: "Princess Arianne Martell, eldest child of Prince Doran Martell and Mellario of Norvos. Heir to Sunspear. Listed in the AFFC appendix."

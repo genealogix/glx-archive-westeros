@@ -8,3 +8,7 @@ persons:
                     surname: Redwyne
                 value: Paxter Redwyne
             rin: MH:I389
+            title:
+                - value: "Lord of the Arbor"
+            house: "Redwyne"
+        notes: "Lord of the Arbor. Husband of Lady Mina Tyrell, sister of Mace Tyrell."

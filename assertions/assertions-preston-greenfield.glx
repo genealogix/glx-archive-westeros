@@ -1,0 +1,31 @@
+assertions:
+    assertion-preston-greenfield-name:
+        subject:
+            person: person-preston-greenfield
+        property: name
+        value: "Ser Preston Greenfield"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section (Kingsguard). Source text: SER PRESTON GREENFIELD"
+    assertion-preston-greenfield-gender:
+        subject:
+            person: person-preston-greenfield
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Listed as Ser."
+    assertion-preston-greenfield-house:
+        subject:
+            person: person-preston-greenfield
+        property: house
+        value: "Greenfield"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

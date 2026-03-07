@@ -8,3 +8,11 @@ persons:
                     surname: Baratheon
                 value: Stannis Baratheon
             rin: MH:I195
+            title:
+                - value: "Lord of Dragonstone"
+                - value: "Master of Ships"
+                  date: "TO 298"
+                - value: "King of Westeros"
+                  date: "FROM 299"
+            house: "Baratheon"
+        notes: "Styling himself King of Westeros. At Castle Black as of ADWD. Rebel Lord of Dragonstone and pretender to the Iron Throne per Lannister reckoning."

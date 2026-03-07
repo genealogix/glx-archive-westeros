@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Baratheon section. Listed as Lady and wife."
+    assertion-selyse-florent-title:
+        subject:
+            person: person-selyse-florent
+        property: title
+        value: "Lady"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: his wife, LA DY SELYSE of House Florent"
+    assertion-selyse-florent-house:
+        subject:
+            person: person-selyse-florent
+        property: house
+        value: "Florent"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

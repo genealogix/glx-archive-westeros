@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-lady-stoneheart-affc:
+        subject:
+            person: person-catelyn-tully
+        property: alias
+        value: "Lady Stoneheart"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix, Outlaws and Broken Men section. Source text: LADY STONEHEART, a hooded woman, sometimes called MOTHER MERCY, THE SILENT SISTER, and THE HANGWOMAN. Catelyn Stark was resurrected by Beric Dondarrion and now leads the Brotherhood Without Banners."

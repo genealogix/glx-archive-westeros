@@ -1,0 +1,8 @@
+citations:
+    citation-asos-tyrion-ix:
+        source: source-asos
+        properties:
+            locator: "Tyrion IX"
+            text_from_source: "The Red Viper of Dorne was dying. He had been unable to resist one final curse."
+            accessed: "2026-03-06"
+        notes: "Tyrion's trial by combat. Oberyn Martell fights Gregor Clegane. Oberyn nearly wins but is killed when the Mountain seizes him. Tyrion is condemned to death."

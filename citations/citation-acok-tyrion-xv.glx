@@ -1,0 +1,8 @@
+citations:
+    citation-acok-tyrion-xv:
+        source: source-acok
+        properties:
+            locator: "Tyrion XV"
+            text_from_source: "The jade green was shot through with veins of black and gold. It was very beautiful. Then the green bloom became a green beast, living, roaring..."
+            accessed: "2026-03-06"
+        notes: "The Battle of the Blackwater from Tyrion's perspective. Wildfire destroys Stannis's fleet. Tyrion leads a sortie and is wounded."

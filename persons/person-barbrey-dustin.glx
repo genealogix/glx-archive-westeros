@@ -1,0 +1,13 @@
+persons:
+    person-barbrey-dustin:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Barbrey
+                    surname: Dustin
+                value: Barbrey Dustin
+            title:
+                - value: "Lady of Barrowton"
+            house: "Dustin"
+        notes: "Daughter of Rodrik Ryswell, Lord of the Rills. Widow of Lord Willam Dustin. Her liege man is Harwood Stout, a petty lord at Barrowton (ADWD Appendix)."

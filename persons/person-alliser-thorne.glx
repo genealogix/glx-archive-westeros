@@ -1,0 +1,11 @@
+persons:
+    person-alliser-thorne:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Alliser
+                    prefix: Ser
+                    surname: Thorne
+                value: Ser Alliser Thorne
+        notes: "Former master-at-arms at Castle Black (ADWD Appendix)."

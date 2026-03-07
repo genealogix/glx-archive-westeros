@@ -8,3 +8,10 @@ persons:
                     surname: Baratheon
                 value: Tommen Baratheon
             rin: MH:I170
+            title:
+                - value: "Prince"
+                  date: "TO 300"
+                - value: "King of the Andals, the Rhoynar, and the First Men"
+                  date: "FROM 300"
+            house: "Baratheon"
+        notes: "King Tommen Baratheon, the First of His Name, as of ADWD."

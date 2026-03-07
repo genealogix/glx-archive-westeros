@@ -8,3 +8,7 @@ persons:
                     surname: Martell
                 value: Quentyn Martell
             rin: MH:I278
+            title:
+                - value: "Prince"
+            house: "Martell"
+        notes: "A new-made knight, fostered at Yronwood. One of Daenerys's suitors in Volantis (ADWD Appendix)."

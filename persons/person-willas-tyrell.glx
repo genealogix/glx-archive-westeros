@@ -8,3 +8,5 @@ persons:
                     surname: Tyrell
                 value: Willas Tyrell
             rin: MH:I378
+            house: "Tyrell"
+        notes: "Eldest son of Mace Tyrell, heir to Highgarden."

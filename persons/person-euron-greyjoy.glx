@@ -1,0 +1,20 @@
+persons:
+    person-euron-greyjoy:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Euron
+                    surname: Greyjoy
+                value: Euron Greyjoy
+            alias:
+                - value: "Crow's Eye"
+            title:
+                - value: "Captain of the Silence"
+                - value: "King of the Iron Islands and the North"
+                  date: "FROM 300"
+                - value: "King of Salt and Rock"
+                - value: "Lord Reaper of Pyke"
+            house: "Greyjoy"
+            religion: "Drowned God"
+        notes: "The Third of His Name Since the Grey King, Son of the Sea Wind. Brother of King Balon Greyjoy, who was killed in a fall. Won the Kingsmoot. Per ADWD Appendix now styled King of the Iron Islands and the North."

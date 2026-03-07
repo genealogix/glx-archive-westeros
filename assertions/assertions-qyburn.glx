@@ -1,0 +1,21 @@
+assertions:
+    assertion-qyburn-name:
+        subject:
+            person: person-qyburn
+        property: name
+        value: Qyburn
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: QYBURN, a necromancer, once a maester of the Citadel, more recently of the Brave Companions"
+    assertion-qyburn-gender:
+        subject:
+            person: person-qyburn
+        property: gender
+        value: male
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed under Cersei's court at King's Landing in the AFFC appendix."

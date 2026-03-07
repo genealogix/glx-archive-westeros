@@ -8,3 +8,12 @@ persons:
                     surname: Stark
                 value: Arya Stark
             rin: MH:I219
+            alias:
+                - value: "Arry"
+                - value: "Nan"
+                - value: "Weasel"
+                - value: "Squab"
+                - value: "Salty"
+                - value: "Cat of the Canals"
+            house: "Stark"
+        notes: "Younger daughter of Eddard Stark. A girl of eleven, missing and thought dead. A novice in service at the House of Black and White in Braavos as of ADWD Appendix."

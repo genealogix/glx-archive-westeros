@@ -8,3 +8,9 @@ persons:
                     surname: Redwyne
                 value: Hobber 'Slobber' Redwyne
             rin: MH:I391
+            title:
+                - value: "Ser"
+            alias:
+                - value: "Slobber"
+            house: "Redwyne"
+        notes: "Mocked as Slobber. Twin to Horas. Son of Paxter Redwyne."

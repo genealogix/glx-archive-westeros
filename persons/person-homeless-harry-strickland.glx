@@ -1,0 +1,14 @@
+persons:
+    person-homeless-harry-strickland:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Harry
+                    surname: Strickland
+                value: "Harry Strickland"
+            alias:
+                - value: "Homeless Harry"
+            title:
+                - value: "Captain-General of the Golden Company"
+        notes: "Captain-general of the Golden Company, ten thousand strong. Succeeded Ser Myles Toyne (Blackheart), who died four years prior (ADWD Appendix)."

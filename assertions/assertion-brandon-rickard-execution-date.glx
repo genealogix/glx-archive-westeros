@@ -1,0 +1,11 @@
+assertions:
+    assertion-brandon-rickard-execution-date:
+        subject:
+            event: event-execution-brandon-rickard-stark
+        property: date
+        value: "282"
+        citations:
+            - citation-twoiaf-roberts-rebellion
+        confidence: high
+        status: proven
+        notes: "Brandon and Rickard Stark were executed by Aerys II in 282 AC. Brandon was strangled while Rickard was burned alive in his armor."

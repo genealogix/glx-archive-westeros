@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed as 'his elder brother'."
+    assertion-brandon-stark-213-house:
+        subject:
+            person: person-brandon-stark-213
+        property: house
+        value: "Stark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-brandon-stark-213-cause-of-death:
+        subject:
+            person: person-brandon-stark-213
+        property: cause_of_death
+        value: "Murdered by command of Aerys II Targaryen"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: {BRA NDON}, his elder brother, murdered by the command of A erys II Targaryen"

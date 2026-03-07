@@ -8,3 +8,9 @@ persons:
                     surname: Targaryen
                 value: Rhaenys Targaryen
             rin: MH:I354
+            title:
+                - value: "Princess"
+            house: "Targaryen"
+            status: "dead"
+            cause_of_death: "Slain during the Sack of King's Landing"
+        notes: "Daughter of Prince Rhaegar Targaryen and Princess Elia Martell. A young girl, slain during the Sack of King's Landing."

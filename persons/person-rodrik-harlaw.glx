@@ -1,0 +1,17 @@
+persons:
+    person-rodrik-harlaw:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Rodrik
+                    surname: Harlaw
+                value: Rodrik Harlaw
+            alias:
+                - value: "The Reader"
+            title:
+                - value: "Lord of Harlaw"
+                - value: "Lord of Ten Towers"
+                - value: "Harlaw of Harlaw"
+            house: "Harlaw"
+        notes: "Lord of Harlaw, called the Reader. Elder brother of Queen Alannys Harlaw, making him uncle to Asha, Theon, and the deceased Rodrik and Maron Greyjoy. Supporter of Asha's claim at the Kingsmoot. Listed in the AFFC appendix."

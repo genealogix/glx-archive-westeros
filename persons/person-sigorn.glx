@@ -1,0 +1,9 @@
+persons:
+    person-sigorn:
+        properties:
+            gender: male
+            name:
+                value: Sigorn
+            title:
+                - value: "Magnar of Thenn"
+        notes: "Son of Styr, new Magnar of Thenn after his father was slain attacking Castle Black (ADWD Appendix)."

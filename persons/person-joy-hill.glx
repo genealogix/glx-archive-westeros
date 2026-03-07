@@ -8,3 +8,6 @@ persons:
                     surname: Hill
                 value: Joy Hill
             rin: MH:I178
+            bastard_name: "Hill"
+            house: "Lannister"
+        notes: "Bastard daughter of Gerion Lannister. A girl of ten at the time of AGOT."

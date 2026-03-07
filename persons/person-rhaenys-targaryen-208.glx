@@ -8,3 +8,7 @@ persons:
                     surname: Targaryen
                 value: Rhaenys Targaryen
             rin: MH:I208
+            title:
+                - value: "Queen"
+            house: "Targaryen"
+        notes: "Sister-wife of Aegon the Conqueror. Mother of Aenys I."

@@ -1,0 +1,9 @@
+persons:
+    person-dalla:
+        properties:
+            gender: female
+            name:
+                value: Dalla
+            died_on: "300"
+            cause_of_death: "Childbirth"
+        notes: "Wife of Mance Rayder, King-Beyond-the-Wall. Died in childbirth. Her younger sister is Val (ADWD Appendix)."

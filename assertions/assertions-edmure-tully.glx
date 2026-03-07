@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tully section. Listed as 'Ser' and 'heir to Riverrun'."
+    assertion-edmure-tully-title-heir:
+        subject:
+            person: person-edmure-tully
+        property: title
+        value: "Heir to Riverrun"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "ASOS appendix, House Tully section. Source text: 'SER EDMURE, his only son, heir to Riverrun'"
+    assertion-edmure-tully-marriage-roslin:
+        subject:
+            relationship: rel-marriage-edmure-tully-and-roslin-frey
+        property: participants
+        value: "person-edmure-tully, person-roslin-frey"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Edmure married Roslin Frey at the Twins in 299 AC. The wedding feast became the Red Wedding. ASOS appendix lists Roslin as 'a maid of sixteen' in the Frey section. The marriage itself is depicted in the ASOS text."

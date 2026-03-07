@@ -20,3 +20,13 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed as 'his younger brother, a man'."
+    assertion-benjen-stark-house:
+        subject:
+            person: person-benjen-stark
+        property: house
+        value: "Stark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."

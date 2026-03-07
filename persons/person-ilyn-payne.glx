@@ -1,0 +1,15 @@
+persons:
+    person-ilyn-payne:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Ilyn
+                    prefix: Ser
+                    surname: Payne
+                value: Ser Ilyn Payne
+            title:
+                - value: "Ser"
+                - value: "The King's Justice"
+            house: "Payne"
+        notes: "The King's Justice (headsman). A mute."

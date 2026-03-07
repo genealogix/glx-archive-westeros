@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tyrell section. Source text: MACE TYRELL, Lord of Highgarden, Warden of the South"
+    assertion-mace-tyrell-title:
+        subject:
+            person: person-mace-tyrell
+        property: title
+        value: "Lord of Highgarden, Warden of the South, Defender of the Marches, High Marshal of the Reach"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tyrell section."
+    assertion-mace-tyrell-house:
+        subject:
+            person: person-mace-tyrell
+        property: house
+        value: "Tyrell"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tyrell section."

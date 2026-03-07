@@ -20,3 +20,43 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed as 'the eldest daughter'."
+    assertion-sansa-stark-house:
+        subject:
+            person: person-sansa-stark
+        property: house
+        value: "Stark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-sansa-stark-title-princess:
+        subject:
+            person: person-sansa-stark
+        property: title
+        value: "Princess"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "ASOS appendix, King in the North section. Source text: 'his sister, PRINCESS SANSA, a maid of twelve, a captive in King's Landing'. Titled Princess as daughter of King Robb."
+    assertion-sansa-stark-captive:
+        subject:
+            person: person-sansa-stark
+        property: status
+        value: "captive in King's Landing"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "ASOS appendix, King in the North section. Source text: 'PRINCESS SANSA, a maid of twelve, a captive in King's Landing'"
+    assertion-sansa-stark-marriage-tyrion:
+        subject:
+            relationship: rel-marriage-tyrion-lannister-and-sansa-stark
+        property: participants
+        value: "person-sansa-stark, person-tyrion-lannister"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Sansa married Tyrion Lannister during ASOS, arranged by Tywin Lannister. Confirmed in ADWD appendix: 'SANSA, his sister, m. Tyrion of House Lannister'."

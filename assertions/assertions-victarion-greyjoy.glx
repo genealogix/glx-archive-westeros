@@ -1,0 +1,31 @@
+assertions:
+    assertion-victarion-greyjoy-name:
+        subject:
+            person: person-victarion-greyjoy
+        property: name
+        value: Victarion Greyjoy
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: VICTARION, Lord Captain of the Iron Fleet, master of the Iron Victory. Also listed as claimant at the Kingsmoot."
+    assertion-victarion-greyjoy-gender:
+        subject:
+            person: person-victarion-greyjoy
+        property: gender
+        value: male
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed as brother of King Balon in the AFFC appendix."
+    assertion-victarion-greyjoy-title:
+        subject:
+            person: person-victarion-greyjoy
+        property: title
+        value: "Lord Captain of the Iron Fleet"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Titled Lord Captain of the Iron Fleet in the AFFC appendix."

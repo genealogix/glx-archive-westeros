@@ -1,0 +1,11 @@
+persons:
+    person-luwin:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Luwin
+                value: Luwin
+            title:
+                - value: "Maester"
+        notes: "Maester of Winterfell. Counselor, healer, and tutor to the Stark children."

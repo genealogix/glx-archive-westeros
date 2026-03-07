@@ -1,0 +1,21 @@
+assertions:
+    assertion-oberyn-martell-death-affc:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: cause_of_death
+        value: "Slain by Ser Gregor Clegane during a trial by combat"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix, House Martell section. Source text: PRINCE OBERYN, called THE RED VIPER, slain by Ser Gregor Clegane during a trial by combat"
+    assertion-oberyn-martell-alias-affc:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: alias
+        value: "The Red Viper"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Called The Red Viper in the AFFC appendix."

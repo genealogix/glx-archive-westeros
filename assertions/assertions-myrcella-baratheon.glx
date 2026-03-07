@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Baratheon section. Listed as Princess."
+    assertion-myrcella-baratheon-title:
+        subject:
+            person: person-myrcella-baratheon
+        property: title
+        value: "Princess"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: PRINCESS MYRCELLA, a girl of eight"
+    assertion-myrcella-baratheon-house:
+        subject:
+            person: person-myrcella-baratheon
+        property: house
+        value: "Baratheon"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

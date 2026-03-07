@@ -21,3 +21,13 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: ROSLIN, a maid of sixteen"
+    assertion-roslin-frey-marriage-edmure:
+        subject:
+            relationship: rel-marriage-edmure-tully-and-roslin-frey
+        property: participants
+        value: "person-roslin-frey, person-edmure-tully"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Roslin married Ser Edmure Tully at the Twins. ASOS appendix lists Roslin as 'a maid of sixteen' (unmarried at time of appendix, which reflects start-of-book state). Marriage occurs during ASOS events. Confirmed in AFFC appendix."

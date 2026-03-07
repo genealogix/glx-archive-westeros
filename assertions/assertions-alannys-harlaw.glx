@@ -1,0 +1,21 @@
+assertions:
+    assertion-alannys-harlaw-name:
+        subject:
+            person: person-alannys-harlaw
+        property: name
+        value: Alannys Harlaw
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: King Balon's widow, QUEEN ALANNYS, of House Harlaw. Also under Harlaw: LADY ALANNYS, his younger sister, widow of King Balon Greyjoy"
+    assertion-alannys-harlaw-gender:
+        subject:
+            person: person-alannys-harlaw
+        property: gender
+        value: female
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed as Queen in the AFFC appendix."

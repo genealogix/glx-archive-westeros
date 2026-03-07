@@ -1,0 +1,41 @@
+assertions:
+    assertion-tytos-blackwood-name:
+        subject:
+            person: person-tytos-blackwood
+        property: name
+        value: "Tytos Blackwood"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section. Source text: TYTOS BLA CKWOOD, Lord of Raventree"
+    assertion-tytos-blackwood-gender:
+        subject:
+            person: person-tytos-blackwood
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section. Listed as Lord."
+    assertion-tytos-blackwood-title:
+        subject:
+            person: person-tytos-blackwood
+        property: title
+        value: "Lord of Raventree"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section."
+    assertion-tytos-blackwood-house:
+        subject:
+            person: person-tytos-blackwood
+        property: house
+        value: "Blackwood"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section."

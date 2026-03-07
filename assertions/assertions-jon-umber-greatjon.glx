@@ -1,0 +1,41 @@
+assertions:
+    assertion-jon-umber-greatjon-name:
+        subject:
+            person: person-jon-umber-greatjon
+        property: name
+        value: "Jon Umber"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: JON UMBER, called the Greatjon"
+    assertion-jon-umber-greatjon-gender:
+        subject:
+            person: person-jon-umber-greatjon
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-jon-umber-greatjon-alias:
+        subject:
+            person: person-jon-umber-greatjon
+        property: alias
+        value: "The Greatjon"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: JON UMBER, called the Greatjon"
+    assertion-jon-umber-greatjon-house:
+        subject:
+            person: person-jon-umber-greatjon
+        property: house
+        value: "Umber"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."

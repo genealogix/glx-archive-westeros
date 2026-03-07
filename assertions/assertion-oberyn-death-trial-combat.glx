@@ -1,0 +1,11 @@
+assertions:
+    assertion-oberyn-death-trial-combat:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: died_on
+        value: "300"
+        citations:
+            - citation-asos-tyrion-ix
+        confidence: high
+        status: proven
+        notes: "Oberyn Martell was killed by Gregor Clegane during Tyrion's trial by combat. The Mountain crushed his skull while confessing to the murder of Elia Martell."

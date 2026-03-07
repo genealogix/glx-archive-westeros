@@ -8,3 +8,5 @@ persons:
                     surname: Lannister
                 value: Myrielle Lannister
             rin: MH:I186
+            house: "Lannister"
+        notes: "Daughter of Ser Stafford Lannister."

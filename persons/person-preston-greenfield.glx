@@ -1,0 +1,14 @@
+persons:
+    person-preston-greenfield:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Preston
+                    prefix: Ser
+                    surname: Greenfield
+                value: Ser Preston Greenfield
+            title:
+                - value: "Ser"
+            house: "Greenfield"
+        notes: "Member of the Kingsguard under King Robert I Baratheon."

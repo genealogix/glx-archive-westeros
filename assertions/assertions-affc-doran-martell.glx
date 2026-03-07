@@ -1,0 +1,31 @@
+assertions:
+    assertion-doran-martell-title-affc:
+        subject:
+            person: person-doran-martell
+        property: title
+        value: "Lord of Sunspear, Prince of Dorne"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: DORAN NYMEROS MARTELL, Lord of Sunspear, Prince of Dorne"
+    assertion-doran-martell-arianne-heir-affc:
+        subject:
+            person: person-arianne-martell
+        property: title
+        value: "Heir to Sunspear"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: PRINCESS ARIANNE, heir to Sunspear"
+    assertion-trystane-betrothal-affc:
+        subject:
+            person: person-trystane-martell
+        property: title
+        value: "Prince"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: PRINCE TRYSTANE, betrothed to Myrcella Baratheon"

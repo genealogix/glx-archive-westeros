@@ -8,3 +8,9 @@ persons:
                     surname: Tyrell
                 value: Margaery Tyrell
             rin: MH:I379
+            title:
+                - value: "Queen"
+                  date: "FROM 300"
+            house: "Tyrell"
+            born_on: "ABT 283"
+        notes: "Queen Margaery of House Tyrell. A maid of sixteen. Widowed bride of King Joffrey I Baratheon and of Lord Renly Baratheon before him. Twice wed and twice widowed per the AFFC appendix."

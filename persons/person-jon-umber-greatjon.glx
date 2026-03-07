@@ -1,0 +1,13 @@
+persons:
+    person-jon-umber-greatjon:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    surname: Umber
+                value: Jon Umber
+            alias:
+                - value: "The Greatjon"
+            house: "Umber"
+        notes: "Called the Greatjon. A principal lord bannerman of House Stark."

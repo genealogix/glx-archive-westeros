@@ -19,3 +19,33 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tully section. Listed as Lord of Riverrun with 'his wife' and 'his brother'."
+    assertion-hoster-tully-house:
+        subject:
+            person: person-hoster-tully
+        property: house
+        value: "Tully"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section."
+    assertion-hoster-tully-title:
+        subject:
+            person: person-hoster-tully
+        property: title
+        value: "Lord of Riverrun"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "ASOS appendix, House Tully section. Source text: 'HOSTER TULLY, Lord of Riverrun'. Still listed as Lord at the time of the ASOS appendix."
+    assertion-hoster-tully-death:
+        subject:
+            person: person-hoster-tully
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Hoster Tully died of a prolonged illness at Riverrun early in ASOS. While the ASOS appendix still lists him as living (reflecting start-of-book state), his death occurs early in the text. Confirmed dead in AFFC appendix."

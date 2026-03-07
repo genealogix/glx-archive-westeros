@@ -1,0 +1,15 @@
+persons:
+    person-theon-greyjoy:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Theon
+                    surname: Greyjoy
+                value: Theon Greyjoy
+            alias:
+                - value: "Theon Turncloak"
+                - value: "Prince of Winterfell"
+            house: "Greyjoy"
+            religion: "Drowned God"
+        notes: "Son of King Balon Greyjoy. Called Theon Turncloak by the northmen. A captive at the Dreadfort as of ADWD Appendix."

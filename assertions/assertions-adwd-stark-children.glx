@@ -1,0 +1,41 @@
+assertions:
+    assertion-arya-braavos-adwd:
+        subject:
+            person: person-arya-stark
+        property: alias
+        value: "Cat of the Canals"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'ARYA of House Stark, a novice in service at the House of Black and White, also known as ARRY, NAN, WEASEL, SQUAB, SALTY, and CAT OF THE CANALS'"
+    assertion-sansa-alayne-adwd:
+        subject:
+            person: person-sansa-stark
+        property: alias
+        value: "Alayne Stone"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'ALAYNE STONE, Lord Petyr's natural daughter, a maid of three-and-ten, actually Sansa Stark'"
+    assertion-bran-beyond-wall-adwd:
+        subject:
+            person: person-brandon-stark-bran
+        property: title
+        value: "Prince of Winterfell"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'BRANDON STARK, called BRAN, Prince of Winterfell and heir to the North, a crippled boy of nine' — in the Haunted Forest beyond the Wall"
+    assertion-rickon-believed-dead-adwd:
+        subject:
+            person: person-rickon-stark
+        property: status
+        value: "believed dead"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'RICKON, a boy of four, believed dead'"

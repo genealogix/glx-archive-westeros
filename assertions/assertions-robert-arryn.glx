@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Arryn section. Listed as 'a sickly boy'."
+    assertion-robert-arryn-title:
+        subject:
+            person: person-robert-arryn
+        property: title
+        value: "Lord of the Eyrie, Defender of the Vale"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Arryn section. Source text: ROBERT A RRYN, a sickly boy of six years, now Lord of the Eyrie and Defender of the Vale"
+    assertion-robert-arryn-house:
+        subject:
+            person: person-robert-arryn
+        property: house
+        value: "Arryn"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Arryn section."

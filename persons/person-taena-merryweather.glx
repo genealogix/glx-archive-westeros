@@ -1,0 +1,12 @@
+persons:
+    person-taena-merryweather:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Taena
+                    surname: Merryweather
+                value: Taena Merryweather
+            title:
+                - value: "Lady"
+        notes: "Lady Taena Merryweather, a woman of Myr. Wife of Lord Orton Merryweather, Lord of Longtable. One of Margaery's lady companions and also part of Cersei's court at King's Landing. Listed in the AFFC appendix."

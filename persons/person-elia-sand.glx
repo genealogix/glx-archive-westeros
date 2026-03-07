@@ -8,3 +8,8 @@ persons:
                     surname: Sand
                 value: Elia Sand
             rin: MH:I265
+            alias:
+                - value: "Sand Snake"
+            house: "Martell"
+            born_on: "ABT 285"
+        notes: "Fifth Sand Snake. Bastard daughter of Prince Oberyn Martell and Ellaria Sand. Fourteen years old at the time of AFFC. Listed in the AFFC appendix."

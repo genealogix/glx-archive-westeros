@@ -1,0 +1,14 @@
+persons:
+    person-alannys-harlaw:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Alannys
+                    surname: Harlaw
+                value: Alannys Harlaw
+            title:
+                - value: "Queen"
+            house: "Harlaw"
+            religion: "Drowned God"
+        notes: "Queen Alannys of House Harlaw, widow of King Balon Greyjoy. Younger sister of Lord Rodrik Harlaw, the Reader. Listed in AFFC appendix."

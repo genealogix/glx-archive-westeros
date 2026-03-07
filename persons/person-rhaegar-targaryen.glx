@@ -8,3 +8,9 @@ persons:
                     surname: Targaryen
                 value: Rhaegar Targaryen
             rin: MH:I204
+            title:
+                - value: "Prince"
+            house: "Targaryen"
+            status: "dead"
+            cause_of_death: "Slain by Robert Baratheon on the Trident"
+        notes: "Heir to the Iron Throne. Slain by Robert Baratheon on the Trident."

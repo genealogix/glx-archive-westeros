@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed as 'his younger sister'."
+    assertion-lyanna-stark-house:
+        subject:
+            person: person-lyanna-stark
+        property: house
+        value: "Stark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-lyanna-stark-cause-of-death:
+        subject:
+            person: person-lyanna-stark
+        property: cause_of_death
+        value: "Died in the mountains of Dorne"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: {LYA NNA}, his younger sister, died in the mountains of Dorne"

@@ -1,0 +1,14 @@
+persons:
+    person-boros-blount:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Boros
+                    prefix: Ser
+                    surname: Blount
+                value: Ser Boros Blount
+            title:
+                - value: "Ser"
+            house: "Blount"
+        notes: "Member of the Kingsguard under King Robert I Baratheon."

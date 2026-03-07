@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tyrell section. Source text: SER LORAS, the Knight of Flowers, their youngest son"
+    assertion-loras-tyrell-alias:
+        subject:
+            person: person-loras-tyrell
+        property: alias
+        value: "The Knight of Flowers"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tyrell section."
+    assertion-loras-tyrell-house:
+        subject:
+            person: person-loras-tyrell
+        property: house
+        value: "Tyrell"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tyrell section."

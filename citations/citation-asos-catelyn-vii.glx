@@ -1,0 +1,8 @@
+citations:
+    citation-asos-catelyn-vii:
+        source: source-asos
+        properties:
+            locator: "Catelyn VII"
+            text_from_source: "The crossbow bolt drove him to his knees. ... 'Jaime Lannister sends his regards.' He thrust the longsword through her son's heart."
+            accessed: "2026-03-06"
+        notes: "The Red Wedding chapter. Deaths of Robb Stark, Catelyn Stark, and the slaughter of the Stark-Tully forces at the Twins. Roose Bolton delivers the killing blow to Robb."

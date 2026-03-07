@@ -1,0 +1,41 @@
+assertions:
+    assertion-jason-mallister-name:
+        subject:
+            person: person-jason-mallister
+        property: name
+        value: "Jason Mallister"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section. Source text: JA SON MA LLISTER, Lord of Seagard"
+    assertion-jason-mallister-gender:
+        subject:
+            person: person-jason-mallister
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section. Listed as Lord."
+    assertion-jason-mallister-title:
+        subject:
+            person: person-jason-mallister
+        property: title
+        value: "Lord of Seagard"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section."
+    assertion-jason-mallister-house:
+        subject:
+            person: person-jason-mallister
+        property: house
+        value: "Mallister"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section."

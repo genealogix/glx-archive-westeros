@@ -1,0 +1,31 @@
+assertions:
+    assertion-arys-oakheart-name:
+        subject:
+            person: person-arys-oakheart
+        property: name
+        value: "Ser Arys Oakheart"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section (Kingsguard). Source text: SER A RYS OA KHEA RT"
+    assertion-arys-oakheart-gender:
+        subject:
+            person: person-arys-oakheart
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Listed as Ser."
+    assertion-arys-oakheart-house:
+        subject:
+            person: person-arys-oakheart
+        property: house
+        value: "Oakheart"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

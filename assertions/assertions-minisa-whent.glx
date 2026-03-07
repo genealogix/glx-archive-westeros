@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tully section. Listed as 'Lady' and 'his wife'."
+    assertion-minisa-whent-house:
+        subject:
+            person: person-minisa-whent
+        property: house
+        value: "Whent"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section."
+    assertion-minisa-whent-cause-of-death:
+        subject:
+            person: person-minisa-whent
+        property: cause_of_death
+        value: "Died in childbed"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section. Source text: his wife, {LA DY MINISA, of House Whent}, died in childbed"

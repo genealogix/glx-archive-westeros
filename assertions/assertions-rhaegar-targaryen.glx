@@ -21,3 +21,33 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against TWOIAF and AGOT Appendix. Source text: his son Rhaegar, born amongst the flames of Summerhall"
+    assertion-rhaegar-targaryen-title:
+        subject:
+            person: person-rhaegar-targaryen
+        property: title
+        value: "Prince"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Targaryen section."
+    assertion-rhaegar-targaryen-house:
+        subject:
+            person: person-rhaegar-targaryen
+        property: house
+        value: "Targaryen"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Targaryen section."
+    assertion-rhaegar-targaryen-cause-of-death:
+        subject:
+            person: person-rhaegar-targaryen
+        property: cause_of_death
+        value: "Slain by Robert Baratheon on the Trident"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix. Source text: {PRINCE RHA EGA R}, heir to the Iron Throne, slain by Robert Baratheon on the Trident"

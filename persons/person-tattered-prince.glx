@@ -1,0 +1,9 @@
+persons:
+    person-tattered-prince:
+        properties:
+            gender: male
+            name:
+                value: "The Tattered Prince"
+            title:
+                - value: "Captain of the Windblown"
+        notes: "A former nobleman of the Free City of Pentos, captain and founder of the Windblown, two thousand horse and foot, sworn to Yunkai. His right hand is Caggo (Corpsekiller), his left hand is Denzo D'Han the warrior bard (ADWD Appendix)."

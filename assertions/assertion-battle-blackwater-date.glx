@@ -1,0 +1,11 @@
+assertions:
+    assertion-battle-blackwater-date:
+        subject:
+            event: event-battle-blackwater
+        property: date
+        value: "299"
+        citations:
+            - citation-acok-tyrion-xv
+        confidence: high
+        status: proven
+        notes: "The Battle of the Blackwater occurred in 299 AC. Stannis's fleet was destroyed by wildfire, and the Tyrell-Lannister alliance routed his forces."

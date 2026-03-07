@@ -1,0 +1,21 @@
+assertions:
+    assertion-cersei-title-queen-regent-affc:
+        subject:
+            person: person-cersei-lannister
+        property: title
+        value: "Queen Regent"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: CERSEI LANNISTER, the First of Her Name, widow of King Robert I Baratheon, Queen Dowager, Protector of the Realm, Lady of Casterly Rock, and Queen Regent"
+    assertion-cersei-title-lady-casterly-rock-affc:
+        subject:
+            person: person-cersei-lannister
+        property: title
+        value: "Lady of Casterly Rock"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Cersei styled Lady of Casterly Rock in the AFFC appendix, following Tywin's death."

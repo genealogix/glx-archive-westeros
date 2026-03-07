@@ -1,0 +1,9 @@
+persons:
+    person-val:
+        properties:
+            gender: female
+            name:
+                value: Val
+            alias:
+                - value: "The wildling princess"
+        notes: "Dalla's younger sister, called 'the wildling princess.' A captive at Castle Black. Her lover Jarl was killed in a fall (ADWD Appendix)."

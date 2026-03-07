@@ -1,0 +1,22 @@
+persons:
+    person-balon-greyjoy:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Balon
+                    surname: Greyjoy
+                value: Balon Greyjoy
+            title:
+                - value: "King of the Iron Islands and the North"
+                  date: "AFT 298"
+                - value: "King of Salt and Rock"
+                - value: "Son of the Sea Wind"
+                - value: "Lord Reaper of Pyke"
+            alias:
+                - value: "The Ninth of His Name Since the Grey King"
+            house: "Greyjoy"
+            religion: "Drowned God"
+            died_on: "AFT 299"
+            cause_of_death: "Killed in a fall"
+        notes: "Lord of the Iron Islands who crowned himself king twice. His first rebellion was crushed by Robert Baratheon and Eddard Stark. After Robert's death, he crowned himself again and attacked the North. Killed in a fall from a bridge at Pyke. Listed as deceased in the AFFC appendix."

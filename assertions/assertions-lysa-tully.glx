@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tully section. Listed as 'the younger daughter' and 'Lady'."
+    assertion-lysa-tully-title:
+        subject:
+            person: person-lysa-tully
+        property: title
+        value: "Lady"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Arryn section. Source text: his third wife and widow, LA DY LYSA, of House Tully"
+    assertion-lysa-tully-house:
+        subject:
+            person: person-lysa-tully
+        property: house
+        value: "Tully"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Arryn and Tully sections."

@@ -7,4 +7,11 @@ persons:
                     given: Walder
                     surname: Frey
                 value: Walder Frey
+            born_on: "ABT 208"
+            title:
+                - value: "Lord of the Crossing"
+            alias:
+                - value: "The Late Lord Frey"
+            house: Frey
             rin: MH:I1
+        notes: "Patriarch of House Frey, Lord of the Crossing. ASOS appendix lists him extensively with his eight wives and numerous children. Orchestrated the Red Wedding — the massacre of Robb Stark, Catelyn Stark, and their bannermen at the wedding of Edmure Tully and Roslin Frey."

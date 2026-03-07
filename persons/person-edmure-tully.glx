@@ -8,4 +8,12 @@ persons:
                     prefix: Ser
                     surname: Tully
                 value: Ser Edmure Tully
+            title:
+                - value: "Ser"
+                - value: "Heir to Riverrun"
+                  date: "TO 299"
+                - value: "Lord of Riverrun"
+                  date: "FROM 299"
+            house: Tully
             rin: MH:I225
+        notes: "Only son of Lord Hoster Tully. ASOS appendix lists him as 'heir to Riverrun'. Married Roslin Frey at the Twins (the Red Wedding). Taken captive by the Freys at his own wedding."

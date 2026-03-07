@@ -8,3 +8,9 @@ persons:
                     surname: Stark
                 value: Eddard Stark
             rin: MH:I214
+            title:
+                - value: "Lord of Winterfell"
+                - value: "Warden of the North"
+            house: "Stark"
+            alias:
+                - value: "Ned"

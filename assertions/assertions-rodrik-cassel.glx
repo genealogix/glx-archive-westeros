@@ -1,0 +1,41 @@
+assertions:
+    assertion-rodrik-cassel-name:
+        subject:
+            person: person-rodrik-cassel
+        property: name
+        value: "Ser Rodrik Cassel"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: SER RODRIK CA SSEL, master-at-arms, Jory's uncle"
+    assertion-rodrik-cassel-gender:
+        subject:
+            person: person-rodrik-cassel
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Listed as Ser."
+    assertion-rodrik-cassel-title:
+        subject:
+            person: person-rodrik-cassel
+        property: title
+        value: "Ser, Master-at-Arms"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-rodrik-cassel-house:
+        subject:
+            person: person-rodrik-cassel
+        property: house
+        value: "Cassel"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."

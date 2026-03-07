@@ -8,3 +8,10 @@ persons:
                     surname: Martell
                 value: Oberyn 'The Red Viper' Martell
             rin: MH:I263
+            alias:
+                - value: "The Red Viper"
+            title:
+                - value: "Prince"
+            house: "Martell"
+            cause_of_death: "Slain by Ser Gregor Clegane during a trial by combat"
+        notes: "Prince of Dorne, brother of Prince Doran Martell and Princess Elia Martell. Father of the Sand Snakes by various women. Slain by Ser Gregor Clegane during Tyrion Lannister's trial by combat. Listed as deceased in the AFFC appendix."

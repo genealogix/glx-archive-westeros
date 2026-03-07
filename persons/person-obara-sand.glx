@@ -8,3 +8,8 @@ persons:
                     surname: Sand
                 value: Obara Sand
             rin: MH:I266
+            alias:
+                - value: "Sand Snake"
+            house: "Martell"
+            born_on: "ABT 271"
+        notes: "Eldest of the Sand Snakes. Bastard daughter of Prince Oberyn Martell by an Oldtown whore. Twenty-eight years old at the time of AFFC. Listed in the AFFC appendix under Oberyn's bastard daughters."

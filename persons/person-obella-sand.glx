@@ -8,3 +8,8 @@ persons:
                     surname: Sand
                 value: Obella Sand
             rin: MH:I270
+            alias:
+                - value: "Sand Snake"
+            house: "Martell"
+            born_on: "ABT 287"
+        notes: "Sixth Sand Snake. Bastard daughter of Prince Oberyn Martell and Ellaria Sand. Twelve years old at the time of AFFC. Listed in the AFFC appendix."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-king-westeros-adwd:
+        subject:
+            person: person-stannis-baratheon
+        property: title
+        value: "King of Westeros (styling)"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'STANNIS BARATHEON, the First of His Name, second son of Lord Steffon Baratheon and Lady Cassana of House Estermont, Lord of Dragonstone, styling himself King of Westeros.' Also listed as 'rebel Lord of Dragonstone and pretender to the Iron Throne' per the Baratheon section."

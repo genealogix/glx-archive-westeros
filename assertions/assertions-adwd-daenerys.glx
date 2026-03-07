@@ -1,0 +1,21 @@
+assertions:
+    assertion-daenerys-queen-meereen-adwd:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: title
+        value: "Queen of Meereen"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'DAENERYS TARGARYEN, the First of Her Name, Queen of Meereen, Queen of the Andals and the Rhoynar and the First Men'"
+    assertion-daenerys-alias-stormborn-adwd:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: alias
+        value: "Daenerys Stormborn"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'called DAENERYS STORMBORN, the UNBURNT, MOTHER OF DRAGONS'"

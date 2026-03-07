@@ -1,0 +1,13 @@
+persons:
+    person-wyman-manderly:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Wyman
+                    surname: Manderly
+                value: Wyman Manderly
+            title:
+                - value: "Lord of White Harbor"
+            house: "Manderly"
+        notes: "Vastly fat. His eldest son Ser Wylis is a captive at Harrenhal. His second son Ser Wendel was slain at the Red Wedding (ADWD Appendix)."

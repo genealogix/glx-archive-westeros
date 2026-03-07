@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Lannister section. Listed as brother."
+    assertion-gerion-lannister-house:
+        subject:
+            person: person-gerion-lannister
+        property: house
+        value: "Lannister"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section."
+    assertion-gerion-lannister-cause-of-death:
+        subject:
+            person: person-gerion-lannister
+        property: cause_of_death
+        value: "Lost at sea"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section. Source text: {GERION}, his youngest brother, lost at sea"

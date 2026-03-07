@@ -1,0 +1,11 @@
+assertions:
+    assertion-beric-dondarrion-death-affc:
+        subject:
+            person: person-beric-dondarrion
+        property: cause_of_death
+        value: "Six times slain"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: BERIC DONDARRION, once Lord of Blackhaven, six times slain. Listed in curly braces indicating deceased."

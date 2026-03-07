@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tyrell section. Source text: his widowed mother, LADY OLENNA of House Redwyne, called the Queen of Thorns"
+    assertion-olenna-redwyne-alias:
+        subject:
+            person: person-olenna-redwyne
+        property: alias
+        value: "The Queen of Thorns"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tyrell section."
+    assertion-olenna-redwyne-house:
+        subject:
+            person: person-olenna-redwyne
+        property: house
+        value: "Redwyne"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tyrell section."

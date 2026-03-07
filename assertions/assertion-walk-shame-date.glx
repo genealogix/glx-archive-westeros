@@ -1,0 +1,11 @@
+assertions:
+    assertion-walk-shame-date:
+        subject:
+            event: event-walk-of-shame
+        property: date
+        value: "300"
+        citations:
+            - citation-adwd-cersei-ii
+        confidence: high
+        status: proven
+        notes: "Cersei's walk of atonement through King's Landing occurred in 300 AC."

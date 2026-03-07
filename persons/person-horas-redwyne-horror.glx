@@ -8,3 +8,9 @@ persons:
                     surname: Redwyne
                 value: Horas 'Horror' Redwyne
             rin: MH:I390
+            title:
+                - value: "Ser"
+            alias:
+                - value: "Horror"
+            house: "Redwyne"
+        notes: "Mocked as Horror. Twin to Hobber. Son of Paxter Redwyne."

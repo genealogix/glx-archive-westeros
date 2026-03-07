@@ -19,6 +19,26 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Lannister section. Listed as lord and patriarch of House Lannister."
+    assertion-tywin-lannister-title-agot:
+        subject:
+            person: person-tywin-lannister
+        property: title
+        value: "Lord of Casterly Rock, Warden of the West, Shield of Lannisport"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section. Source text: TYWIN LA NNISTER, Lord of Casterly Rock, Warden of the West, Shield of Lannisport"
+    assertion-tywin-lannister-house:
+        subject:
+            person: person-tywin-lannister
+        property: house
+        value: "Lannister"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section."
     assertion-tywin-lannister-title-hand:
         subject:
             person: person-tywin-lannister

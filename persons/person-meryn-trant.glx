@@ -1,0 +1,14 @@
+persons:
+    person-meryn-trant:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Meryn
+                    prefix: Ser
+                    surname: Trant
+                value: Ser Meryn Trant
+            title:
+                - value: "Ser"
+            house: "Trant"
+        notes: "Member of the Kingsguard under King Robert I Baratheon."

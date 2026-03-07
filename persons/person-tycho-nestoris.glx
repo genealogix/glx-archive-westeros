@@ -1,0 +1,10 @@
+persons:
+    person-tycho-nestoris:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tycho
+                    surname: Nestoris
+                value: Tycho Nestoris
+        notes: "Emissary from the Iron Bank of Braavos, at Castle Black with King Stannis (ADWD Appendix)."

@@ -21,3 +21,53 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against TWOIAF, The Targaryen Kings section. Source text: A handsome youth, Aerys had fought gallantly in the Stepstones during the War of the Ninepenny Kings."
+    assertion-aerys-targaryen-ii-title:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: title
+        value: "King of the Andals and the Rhoynar and the First Men"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Targaryen section. Reigned 262-283."
+    assertion-aerys-targaryen-ii-alias:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: alias
+        value: "The Mad King"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, Targaryen succession list: 262-283 A erys II the Mad King"
+    assertion-aerys-targaryen-ii-house:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: house
+        value: "Targaryen"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Targaryen section."
+    assertion-aerys-targaryen-ii-cause-of-death:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: cause_of_death
+        value: "Slain by Jaime Lannister during the Sack of King's Landing"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix. Source text: {KING A ERYS TA RGA RYEN}, the Second of His Name, slain by Jaime Lannister during the Sack of King's Landing"
+    assertion-aerys-targaryen-ii-died-on:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: died_on
+        value: "283"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, Targaryen succession list: 262-283 A erys II"

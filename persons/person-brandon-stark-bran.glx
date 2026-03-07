@@ -8,3 +8,10 @@ persons:
                     surname: Stark
                 value: Brandon 'Bran' Stark
             rin: MH:I220
+            alias:
+                - value: "Bran"
+            house: "Stark"
+            title:
+                - value: "Prince of Winterfell"
+                - value: "Heir to the North"
+        notes: "Called Bran. A crippled boy of nine. Believed dead. Prince of Winterfell and heir to the North. Beyond the Wall in the caverns beneath a hollow hill with the Three-Eyed Crow, Meera and Jojen Reed, and Hodor (ADWD Appendix)."

@@ -1,0 +1,9 @@
+persons:
+    person-qyburn:
+        properties:
+            gender: male
+            name:
+                value: Qyburn
+                fields:
+                    given: Qyburn
+        notes: "A necromancer and former maester of the Citadel, stripped of his chain. Previously a member of the Brave Companions. Now in Cersei's service at King's Landing. Listed in the AFFC appendix under Cersei's court."

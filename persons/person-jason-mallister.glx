@@ -1,0 +1,13 @@
+persons:
+    person-jason-mallister:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jason
+                    surname: Mallister
+                value: Jason Mallister
+            title:
+                - value: "Lord of Seagard"
+            house: "Mallister"
+        notes: "Lord of Seagard. Bannerman of House Tully."

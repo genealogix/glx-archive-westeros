@@ -1,0 +1,81 @@
+assertions:
+    assertion-obara-sand-age-affc:
+        subject:
+            person: person-obara-sand
+        property: born_on
+        value: "ABT 271"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix lists Obara as eight-and-twenty, placing her birth around 271 AC. Daughter of Oberyn by an Oldtown whore."
+    assertion-nymeria-sand-age-affc:
+        subject:
+            person: person-nymeria-sand
+        property: born_on
+        value: "ABT 274"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix lists Nymeria as five-and-twenty, placing her birth around 274 AC. Called Lady Nym. Daughter of Oberyn by a noblewoman of Volantis."
+    assertion-tyene-sand-age-affc:
+        subject:
+            person: person-tyene-sand
+        property: born_on
+        value: "ABT 276"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix lists Tyene as three-and-twenty, placing her birth around 276 AC. Daughter of Oberyn by a septa."
+    assertion-sarella-sand-age-affc:
+        subject:
+            person: person-sarella-sand
+        property: born_on
+        value: "ABT 280"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix lists Sarella as nineteen, placing her birth around 280 AC. Daughter of Oberyn by a trader, captain of the Feathered Kiss."
+    assertion-elia-sand-age-affc:
+        subject:
+            person: person-elia-sand
+        property: born_on
+        value: "ABT 285"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix lists Elia as fourteen. Daughter of Oberyn and Ellaria Sand."
+    assertion-obella-sand-age-affc:
+        subject:
+            person: person-obella-sand
+        property: born_on
+        value: "ABT 287"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix lists Obella as twelve. Daughter of Oberyn and Ellaria Sand."
+    assertion-dorea-sand-age-affc:
+        subject:
+            person: person-dorea-sand
+        property: born_on
+        value: "ABT 291"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix lists Dorea as eight. Daughter of Oberyn and Ellaria Sand."
+    assertion-loreza-sand-age-affc:
+        subject:
+            person: person-loreza-sand
+        property: born_on
+        value: "ABT 293"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix lists Loreza as six. Youngest daughter of Oberyn and Ellaria Sand."

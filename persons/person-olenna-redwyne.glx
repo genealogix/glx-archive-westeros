@@ -8,3 +8,9 @@ persons:
                     surname: Redwyne
                 value: Olenna Redwyne
             rin: MH:I382
+            title:
+                - value: "Lady"
+            alias:
+                - value: "The Queen of Thorns"
+            house: "Redwyne"
+        notes: "Widowed mother of Mace Tyrell. Born of House Redwyne. Called the Queen of Thorns."

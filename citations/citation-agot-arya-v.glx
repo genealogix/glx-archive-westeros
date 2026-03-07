@@ -1,0 +1,8 @@
+citations:
+    citation-agot-arya-v:
+        source: source-agot
+        properties:
+            locator: "Arya V"
+            text_from_source: "'Ser Ilyn, bring me his head!' ... The crowd roared, and Arya felt the rough hands pull her close. 'Don't look!' a voice said."
+            accessed: "2026-03-06"
+        notes: "Ned Stark's execution as witnessed by Arya from the crowd. Yoren grabs Arya and prevents her from watching, calling her 'boy.'"

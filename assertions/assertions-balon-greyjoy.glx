@@ -1,0 +1,61 @@
+assertions:
+    assertion-balon-greyjoy-name:
+        subject:
+            person: person-balon-greyjoy
+        property: name
+        value: Balon Greyjoy
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix, King of the Isles and the North section. Source text: BALON GREYJOY, the Ninth of His Name Since the Grey King, King of the Iron Islands and the North, King of Salt and Rock, Son of the Sea Wind, and Lord Reaper of Pyke, killed in a fall"
+    assertion-balon-greyjoy-death:
+        subject:
+            person: person-balon-greyjoy
+        property: cause_of_death
+        value: "Killed in a fall"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix states Balon was 'killed in a fall.' He fell from a bridge at Pyke during a storm."
+    assertion-balon-greyjoy-gender:
+        subject:
+            person: person-balon-greyjoy
+        property: gender
+        value: male
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed as King in the AFFC appendix."
+    assertion-balon-greyjoy-title-agot:
+        subject:
+            person: person-balon-greyjoy
+        property: title
+        value: "Lord of the Iron Islands, King of Salt and Rock, Son of the Sea Wind, Lord Reaper of Pyke"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Greyjoy section. Source text: BA LON GREYJOY, Lord of the Iron Islands, King of Salt and Rock, Son of the Sea Wind, Lord Reaper of Pyke"
+    assertion-balon-greyjoy-house:
+        subject:
+            person: person-balon-greyjoy
+        property: house
+        value: "Greyjoy"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Greyjoy section."
+    assertion-balon-greyjoy-religion:
+        subject:
+            person: person-balon-greyjoy
+        property: religion
+        value: "Drowned God"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Greyjoy section. Ironborn faith implied by Greyjoy house."

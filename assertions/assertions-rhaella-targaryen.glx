@@ -21,3 +21,33 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against TWOIAF and AGOT Appendix. Source text: his queen, his sister Rhaella"
+    assertion-rhaella-targaryen-title:
+        subject:
+            person: person-rhaella-targaryen
+        property: title
+        value: "Queen"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Targaryen section."
+    assertion-rhaella-targaryen-house:
+        subject:
+            person: person-rhaella-targaryen
+        property: house
+        value: "Targaryen"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Targaryen section."
+    assertion-rhaella-targaryen-cause-of-death:
+        subject:
+            person: person-rhaella-targaryen
+        property: cause_of_death
+        value: "Died in childbed on Dragonstone"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix. Source text: {QUEEN RHA ELLA} of House Targaryen, died in childbed on Dragonstone"

@@ -1,0 +1,11 @@
+assertions:
+    assertion-garlan-tyrell-lord-brightwater-affc:
+        subject:
+            person: person-garlan-tyrell
+        property: title
+        value: "Lord of Brightwater"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix, House Tyrell section. Source text: SER GARLAN, called THE GALLANT, their second son, newly raised to Lord of Brightwater. Also noted in House Florent section: Brightwater Keep and its lands were awarded to Ser Garlan Tyrell."

@@ -1,0 +1,10 @@
+persons:
+    person-melisandre:
+        properties:
+            gender: female
+            name:
+                value: Melisandre
+            alias:
+                - value: "The Red Woman"
+            religion: "R'hllor"
+        notes: "Lady Melisandre of Asshai, called THE RED WOMAN. A priestess of R'hllor, the Lord of Light. With King Stannis at Castle Black (ADWD Appendix)."

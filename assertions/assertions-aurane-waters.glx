@@ -1,0 +1,31 @@
+assertions:
+    assertion-aurane-waters-name:
+        subject:
+            person: person-aurane-waters
+        property: name
+        value: Aurane Waters
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: AURANE WATERS, the Bastard of Driftmark"
+    assertion-aurane-waters-gender:
+        subject:
+            person: person-aurane-waters
+        property: gender
+        value: male
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed under Cersei's court at King's Landing in the AFFC appendix."
+    assertion-aurane-waters-alias:
+        subject:
+            person: person-aurane-waters
+        property: alias
+        value: "The Bastard of Driftmark"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Called the Bastard of Driftmark in the AFFC appendix."

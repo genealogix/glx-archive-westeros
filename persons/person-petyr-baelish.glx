@@ -1,0 +1,17 @@
+persons:
+    person-petyr-baelish:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Petyr
+                    surname: Baelish
+                value: Petyr Baelish
+            alias:
+                - value: "Littlefinger"
+            title:
+                - value: "Lord of Harrenhal"
+                - value: "Lord Paramount of the Trident"
+                - value: "Lord Protector of the Vale"
+            house: "Baelish"
+        notes: "Guardian of Robert Arryn. His supposed natural daughter Alayne Stone is actually Sansa Stark (ADWD Appendix)."

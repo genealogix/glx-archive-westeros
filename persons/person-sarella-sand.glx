@@ -8,3 +8,8 @@ persons:
                     surname: Sand
                 value: Sarella Sand
             rin: MH:I269
+            alias:
+                - value: "Sand Snake"
+            house: "Martell"
+            born_on: "ABT 280"
+        notes: "Fourth eldest Sand Snake. Bastard daughter of Prince Oberyn Martell by a trader captain of the Feathered Kiss. Nineteen years old at the time of AFFC. Listed in the AFFC appendix."

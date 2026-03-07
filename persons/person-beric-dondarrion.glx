@@ -8,3 +8,10 @@ persons:
                     surname: Dondarrion
                 value: Beric Dondarrion
             rin: MH:I487
+            title:
+                - value: "Lord of Blackhaven"
+            house: "Dondarrion"
+            cause_of_death: "Six times slain"
+            alias:
+                - value: "The Lightning Lord"
+        notes: "Lord Beric Dondarrion of Blackhaven. Leader of the Brotherhood Without Banners. ASOS appendix lists him as 'Lord of Blackhaven, called THE LIGHTNING LORD, oft reported dead'. Gave his life to resurrect Catelyn Stark as Lady Stoneheart. Listed as deceased in the AFFC appendix."

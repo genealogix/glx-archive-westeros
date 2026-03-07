@@ -1,0 +1,23 @@
+persons:
+    person-harlon-greyjoy:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Harlon
+                    surname: Greyjoy
+                value: Harlon Greyjoy
+            house: "Greyjoy"
+            cause_of_death: "Died of greyscale in his youth"
+        notes: "Brother or half-brother of King Balon Greyjoy. Died of greyscale in his youth. Listed as deceased in the AFFC appendix."
+    person-urrigon-greyjoy:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Urrigon
+                    surname: Greyjoy
+                value: Urrigon Greyjoy
+            house: "Greyjoy"
+            cause_of_death: "Died of a wound gone bad"
+        notes: "Brother or half-brother of King Balon Greyjoy. Died of a wound gone bad. Listed as deceased in the AFFC appendix."

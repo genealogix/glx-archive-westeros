@@ -1,0 +1,31 @@
+assertions:
+    assertion-luwin-name:
+        subject:
+            person: person-luwin
+        property: name
+        value: "Luwin"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: MA ESTER LUWIN, counselor, healer, and tutor"
+    assertion-luwin-gender:
+        subject:
+            person: person-luwin
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-luwin-title:
+        subject:
+            person: person-luwin
+        property: title
+        value: "Maester"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."

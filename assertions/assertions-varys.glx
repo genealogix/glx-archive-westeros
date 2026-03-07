@@ -1,0 +1,41 @@
+assertions:
+    assertion-varys-name:
+        subject:
+            person: person-varys
+        property: name
+        value: "Varys"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: VA RYS, a eunuch, called the Spider, master of whisperers"
+    assertion-varys-gender:
+        subject:
+            person: person-varys
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Listed as 'a eunuch'."
+    assertion-varys-alias:
+        subject:
+            person: person-varys
+        property: alias
+        value: "The Spider"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: VA RYS, a eunuch, called the Spider"
+    assertion-varys-title:
+        subject:
+            person: person-varys
+        property: title
+        value: "Master of Whisperers"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: master of whisperers"

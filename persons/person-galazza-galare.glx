@@ -1,0 +1,11 @@
+persons:
+    person-galazza-galare:
+        properties:
+            gender: female
+            name:
+                value: "Galazza Galare"
+            alias:
+                - value: "The Green Grace"
+            title:
+                - value: "High priestess at the Temple of the Graces"
+        notes: "The Green Grace of Meereen, high priestess at the Temple of the Graces (ADWD Appendix)."

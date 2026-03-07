@@ -1,0 +1,13 @@
+persons:
+    person-arnolf-karstark:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Arnolf
+                    surname: Karstark
+                value: Arnolf Karstark
+            title:
+                - value: "Castellan of Karhold"
+            house: "Karstark"
+        notes: "Uncle to the late Lord Rickard Karstark, castellan of Karhold. His elder son is Cregan, his younger son is Arthor (ADWD Appendix)."

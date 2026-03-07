@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed among Eddard's children."
+    assertion-brandon-stark-bran-alias:
+        subject:
+            person: person-brandon-stark-bran
+        property: alias
+        value: "Bran"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: BRA NDON, called Bran"
+    assertion-brandon-stark-bran-house:
+        subject:
+            person: person-brandon-stark-bran
+        property: house
+        value: "Stark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."

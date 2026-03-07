@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Lannister section. Listed as wife of Tywin."
+    assertion-joanna-lannister-house:
+        subject:
+            person: person-joanna-lannister
+        property: house
+        value: "Lannister"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section. A cousin of Tywin. Also sister of Ser Stafford Lannister."
+    assertion-joanna-lannister-cause-of-death:
+        subject:
+            person: person-joanna-lannister
+        property: cause_of_death
+        value: "Died in childbed"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section. Source text: his wife, {LA DY JOA NNA}, a cousin, died in childbed"

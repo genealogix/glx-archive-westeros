@@ -1,0 +1,11 @@
+persons:
+    person-hizdahr-zo-loraq:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Hizdahr
+                    surname: "zo Loraq"
+                value: "Hizdahr zo Loraq"
+            house: "Loraq"
+        notes: "A wealthy Meereenese nobleman of ancient lineage. One of Daenerys's suitors (ADWD Appendix)."

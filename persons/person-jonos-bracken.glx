@@ -1,0 +1,13 @@
+persons:
+    person-jonos-bracken:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jonos
+                    surname: Bracken
+                value: Jonos Bracken
+            title:
+                - value: "Lord of the Stone Hedge"
+            house: "Bracken"
+        notes: "Lord of the Stone Hedge. Bannerman of House Tully."

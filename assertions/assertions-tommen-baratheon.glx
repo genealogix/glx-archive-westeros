@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Baratheon section. Listed as Prince."
+    assertion-tommen-baratheon-title:
+        subject:
+            person: person-tommen-baratheon
+        property: title
+        value: "Prince"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: PRINCE TOMMEN, a boy of seven"
+    assertion-tommen-baratheon-house:
+        subject:
+            person: person-tommen-baratheon
+        property: house
+        value: "Baratheon"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

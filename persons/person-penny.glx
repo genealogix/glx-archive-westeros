@@ -1,0 +1,7 @@
+persons:
+    person-penny:
+        properties:
+            gender: female
+            name:
+                value: Penny
+        notes: "A dwarf girl and mummer. Her pig is Pretty Pig and her dog is Crunch. Her brother Groat, also a dwarf mummer, was murdered and beheaded. Listed under Old Volantis in ADWD Appendix."

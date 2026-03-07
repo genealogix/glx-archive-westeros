@@ -1,0 +1,41 @@
+assertions:
+    assertion-jonos-bracken-name:
+        subject:
+            person: person-jonos-bracken
+        property: name
+        value: "Jonos Bracken"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section. Source text: JONOS BRA CKEN, Lord of the Stone Hedge"
+    assertion-jonos-bracken-gender:
+        subject:
+            person: person-jonos-bracken
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section. Listed as Lord."
+    assertion-jonos-bracken-title:
+        subject:
+            person: person-jonos-bracken
+        property: title
+        value: "Lord of the Stone Hedge"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section."
+    assertion-jonos-bracken-house:
+        subject:
+            person: person-jonos-bracken
+        property: house
+        value: "Bracken"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section."

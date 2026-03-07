@@ -1,0 +1,11 @@
+assertions:
+    assertion-margaery-queen-affc:
+        subject:
+            person: person-margaery-tyrell
+        property: title
+        value: "Queen"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: QUEEN MARGAERY of House Tyrell, a maid of sixteen, widowed bride of King Joffrey I Baratheon and of Lord Renly Baratheon before him. Also in House Tyrell section: MARGAERY, their daughter, twice wed and twice widowed."

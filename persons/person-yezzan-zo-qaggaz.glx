@@ -1,0 +1,9 @@
+persons:
+    person-yezzan-zo-qaggaz:
+        properties:
+            gender: male
+            name:
+                value: "Yezzan zo Qaggaz"
+            alias:
+                - value: "The Yellow Whale"
+        notes: "Mocked as the YELLOW WHALE. Monstrously obese, sickly, hugely rich. A Yunkish slaver. His slave overseer is Nurse. His treasure is Sweets, a hermaphrodite slave (ADWD Appendix)."

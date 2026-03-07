@@ -1,0 +1,41 @@
+assertions:
+    assertion-red-wedding-date:
+        subject:
+            event: event-red-wedding
+        property: date
+        value: "299"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "The Red Wedding occurs during ASOS. The wedding of Edmure and Roslin at the Twins, which became a massacre. Depicted in Catelyn VII chapter of ASOS."
+    assertion-red-wedding-place:
+        subject:
+            event: event-red-wedding
+        property: place
+        value: place-the-twins
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "The Red Wedding took place at the Twins, seat of House Frey. ASOS appendix lists the Twins as Lord Walder Frey's seat."
+    assertion-robb-death-red-wedding:
+        subject:
+            event: event-death-robb-stark
+        property: cause
+        value: "Murdered at the Red Wedding"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Robb Stark was murdered at the Twins during the Red Wedding. Confirmed dead in AFFC/ADWD appendix: '{ROBB STARK}, King in the North, King of the Trident, Lord of Winterfell, called THE YOUNG WOLF, murdered at the Red Wedding'."
+    assertion-catelyn-death-red-wedding:
+        subject:
+            event: event-death-catelyn-tully
+        property: cause
+        value: "Murdered at the Red Wedding"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Catelyn Stark was murdered at the Twins during the Red Wedding. Her throat was cut. Confirmed dead in AFFC/ADWD appendix."

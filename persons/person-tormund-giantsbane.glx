@@ -1,0 +1,18 @@
+persons:
+    person-tormund-giantsbane:
+        properties:
+            gender: male
+            name:
+                value: Tormund
+            alias:
+                - value: "Giantsbane"
+                - value: "Tall-Talker"
+                - value: "Horn-Blower"
+                - value: "Breaker of Ice"
+                - value: "Thunderfist"
+                - value: "Husband to Bears"
+                - value: "Speaker to Gods"
+                - value: "Father of Hosts"
+            title:
+                - value: "Mead-King of Ruddy Hall"
+        notes: "Wildling leader. His sons are Toregg the Tall, Torwyrd the Tame, Dormund, and Dryn. His daughter is Munda (ADWD Appendix)."

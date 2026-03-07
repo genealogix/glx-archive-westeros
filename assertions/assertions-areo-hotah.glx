@@ -1,0 +1,21 @@
+assertions:
+    assertion-areo-hotah-name:
+        subject:
+            person: person-areo-hotah
+        property: name
+        value: Areo Hotah
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix, House Martell section. Source text: AREO HOTAH, of Norvos, captain of the guards"
+    assertion-areo-hotah-gender:
+        subject:
+            person: person-areo-hotah
+        property: gender
+        value: male
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed as captain of the guards at Prince Doran's court."

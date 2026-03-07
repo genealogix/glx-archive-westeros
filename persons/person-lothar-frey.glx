@@ -7,4 +7,8 @@ persons:
                     given: Lothar
                     surname: Frey
                 value: Lothar Frey
+            alias:
+                - value: "Lame Lothar"
+            house: Frey
             rin: MH:I104
+        notes: "Eldest son of Lord Walder Frey by his fourth wife Lady Alyssa Blackwood. Called Lame Lothar. ASOS appendix lists him under the Blackwood wife section. One of the chief conspirators in the Red Wedding."

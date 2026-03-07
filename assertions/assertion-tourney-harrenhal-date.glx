@@ -1,0 +1,11 @@
+assertions:
+    assertion-tourney-harrenhal-date:
+        subject:
+            event: event-tourney-harrenhal
+        property: date
+        value: "281"
+        citations:
+            - citation-twoiaf-roberts-rebellion
+        confidence: high
+        status: proven
+        notes: "The Tournament at Harrenhal was held in 281 AC. Rhaegar crowned Lyanna Stark as Queen of Love and Beauty."

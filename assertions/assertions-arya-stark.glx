@@ -20,3 +20,13 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed as 'the younger daughter, a girl'."
+    assertion-arya-stark-house:
+        subject:
+            person: person-arya-stark
+        property: house
+        value: "Stark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."

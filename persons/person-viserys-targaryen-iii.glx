@@ -9,3 +9,9 @@ persons:
                     surname: Targaryen
                 value: Viserys Targaryen III
             rin: MH:I205
+            title:
+                - value: "Prince"
+            alias:
+                - value: "The Beggar King"
+            house: "Targaryen"
+        notes: "Styling himself Viserys, Third of His Name, Lord of the Seven Kingdoms. Called the Beggar King."

@@ -1,0 +1,14 @@
+persons:
+    person-high-septon-affc:
+        properties:
+            gender: male
+            name:
+                value: The High Septon
+                fields:
+                    given: High Septon
+            title:
+                - value: "Father of the Faithful"
+                - value: "Voice of the Seven on Earth"
+                - value: "High Septon"
+            religion: "Faith of the Seven"
+        notes: "The High Septon at the time of AFFC. Described as an old man and frail. The 'sparrows' — the humblest of men, fierce in their piety — follow him. Not to be confused with the later High Sparrow who replaces him. Listed in the AFFC appendix under the people of King's Landing."

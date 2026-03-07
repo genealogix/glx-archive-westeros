@@ -19,3 +19,33 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix. Source text: PRINCE VISERYS, styling himself Viserys, the Third of His Name"
+    assertion-viserys-targaryen-iii-title:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: title
+        value: "Prince"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Targaryen section."
+    assertion-viserys-targaryen-iii-alias:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: alias
+        value: "The Beggar King"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Targaryen section. Source text: PRINCE VISERYS ... called the Beggar King"
+    assertion-viserys-targaryen-iii-house:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: house
+        value: "Targaryen"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Targaryen section."

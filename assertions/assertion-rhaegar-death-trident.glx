@@ -1,0 +1,12 @@
+assertions:
+    assertion-rhaegar-death-trident:
+        subject:
+            person: person-rhaegar-targaryen
+        property: died_on
+        value: "283"
+        citations:
+            - citation-twoiaf-roberts-rebellion
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "Rhaegar Targaryen was slain by Robert Baratheon at the Battle of the Trident. Robert crushed his breastplate with his warhammer."

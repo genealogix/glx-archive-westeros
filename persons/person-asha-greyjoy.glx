@@ -1,0 +1,15 @@
+persons:
+    person-asha-greyjoy:
+        properties:
+            gender: female
+            name:
+                fields:
+                    given: Asha
+                    surname: Greyjoy
+                value: Asha Greyjoy
+            title:
+                - value: "Captain of the Black Wind"
+                - value: "Conqueror of Deepwood Motte"
+            house: "Greyjoy"
+            religion: "Drowned God"
+        notes: "Only daughter of King Balon Greyjoy and Queen Alannys Harlaw. Captain of the Black Wind. Conquered Deepwood Motte. Married to Erik Ironmaker per ADWD Appendix."

@@ -1,0 +1,13 @@
+persons:
+    person-aurane-waters:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Aurane
+                    surname: Waters
+                value: Aurane Waters
+            alias:
+                - value: "The Bastard of Driftmark"
+            house: "Velaryon"
+        notes: "Aurane Waters, the Bastard of Driftmark. Natural son of House Velaryon. At Cersei's court in King's Landing per the AFFC appendix."

@@ -1,0 +1,41 @@
+assertions:
+    assertion-rickard-karstark-name:
+        subject:
+            person: person-rickard-karstark
+        property: name
+        value: "Rickard Karstark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: RICKA RD KA RSTA RK, Lord of Karhold"
+    assertion-rickard-karstark-gender:
+        subject:
+            person: person-rickard-karstark
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Listed as Lord."
+    assertion-rickard-karstark-title:
+        subject:
+            person: person-rickard-karstark
+        property: title
+        value: "Lord of Karhold"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-rickard-karstark-house:
+        subject:
+            person: person-rickard-karstark
+        property: house
+        value: "Karstark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-siege-riverrun-date:
+        subject:
+            event: event-siege-riverrun
+        property: date
+        value: "300"
+        citations:
+            - citation-affc-jaime-vi
+        confidence: high
+        status: proven
+        notes: "The siege of Riverrun was resolved by Jaime Lannister in 300 AC. The Blackfish escaped by swimming under the Water Gate."

@@ -8,3 +8,14 @@ persons:
                     surname: Tully
                 value: Catelyn Tully
             rin: MH:I216
+            title:
+                - value: "Lady"
+            alias:
+                - value: "Lady Stoneheart"
+                - value: "Mother Mercy"
+                - value: "The Silent Sister"
+                - value: "The Hangwoman"
+            house: "Tully"
+            died_on: "299"
+            cause_of_death: "Murdered at the Red Wedding"
+        notes: "Eldest daughter of Lord Hoster Tully and Lady Minisa Whent. Widow of Lord Eddard Stark. Murdered at the Twins during the Red Wedding. Resurrected by Beric Dondarrion and now leads the Brotherhood Without Banners as Lady Stoneheart. AFFC appendix lists her as 'LADY STONEHEART, a hooded woman, sometimes called MOTHER MERCY, THE SILENT SISTER, and THE HANGWOMAN.'"

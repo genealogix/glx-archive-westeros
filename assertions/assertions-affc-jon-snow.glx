@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-snow-lord-commander-affc:
+        subject:
+            person: person-jon-snow
+        property: title
+        value: "Lord Commander of the Night's Watch"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix, Night's Watch section. Source text: JON SNOW, the Bastard of Winterfell, nine-hundred-and-ninety-eighth Lord Commander of the Night's Watch"

@@ -1,0 +1,31 @@
+assertions:
+    assertion-asha-greyjoy-name:
+        subject:
+            person: person-asha-greyjoy
+        property: name
+        value: Asha Greyjoy
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: ASHA, their daughter, captain of the Black Wind and conquerer of Deepwood Motte"
+    assertion-asha-greyjoy-gender:
+        subject:
+            person: person-asha-greyjoy
+        property: gender
+        value: female
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed as only daughter of Balon Greyjoy in the AFFC appendix."
+    assertion-asha-greyjoy-kingsmoot:
+        subject:
+            person: person-asha-greyjoy
+        property: title
+        value: "Captain of the Black Wind"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed as a claimant at the Kingsmoot on Old Wyk. Champions: Qarl the Maid, Tristifer Botley, Ser Harras Harlaw."

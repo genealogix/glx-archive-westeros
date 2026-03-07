@@ -8,3 +8,7 @@ persons:
                     surname: Mormont
                 value: Maege Mormont
             rin: MH:I430
+            title:
+                - value: "Lady of Bear Island"
+            house: "Mormont"
+        notes: "The Lady of Bear Island."

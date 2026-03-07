@@ -7,3 +7,9 @@ persons:
                     given: Rowena
                 value: Rowena
             rin: MH:I229
+            title:
+                - value: "Lady"
+            house: "Arryn"
+            status: "dead"
+            cause_of_death: "Died of a winter chill"
+        notes: "Second wife of Jon Arryn, his cousin. Died of a winter chill, childless."

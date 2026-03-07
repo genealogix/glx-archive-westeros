@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-execution-place:
+        subject:
+            event: event-execution-ned-stark
+        property: place
+        value: place-great-sept-of-baelor
+        citations:
+            - citation-agot-arya-v
+        confidence: high
+        status: proven
+        notes: "Ned was executed on the steps of the Great Sept of Baelor in King's Landing."

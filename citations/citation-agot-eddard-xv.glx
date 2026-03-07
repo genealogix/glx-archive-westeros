@@ -1,0 +1,8 @@
+citations:
+    citation-agot-eddard-xv:
+        source: source-agot
+        properties:
+            locator: "Eddard XV"
+            text_from_source: "The gold cloaks had drawn up in front of the throne. 'Ser Barristan,' Joffrey commanded, 'seize this traitor.'"
+            accessed: "2026-03-06"
+        notes: "Ned Stark's arrest in the throne room after Robert's death. Ned presents Robert's letter naming him Protector of the Realm, but Cersei tears it up. Littlefinger betrays Ned."

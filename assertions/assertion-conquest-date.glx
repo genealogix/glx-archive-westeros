@@ -1,0 +1,11 @@
+assertions:
+    assertion-conquest-date:
+        subject:
+            event: event-conquest-aegon
+        property: date
+        value: "BET 1 AND 2"
+        citations:
+            - citation-twoiaf-conquest
+        confidence: high
+        status: proven
+        notes: "Aegon's Conquest began in 1 AC (After Conquest) when Aegon landed at the mouth of the Blackwater Rush. The Conquest was largely complete within two years."

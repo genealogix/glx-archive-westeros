@@ -8,3 +8,9 @@ persons:
                     surname: Sand
                 value: Nymeria Sand
             rin: MH:I267
+            alias:
+                - value: "Lady Nym"
+                - value: "Sand Snake"
+            house: "Martell"
+            born_on: "ABT 274"
+        notes: "Second eldest Sand Snake. Bastard daughter of Prince Oberyn Martell by a noblewoman of Volantis. Twenty-five years old at the time of AFFC. Called Lady Nym. Listed in the AFFC appendix."

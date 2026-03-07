@@ -1,0 +1,10 @@
+persons:
+    person-benerro:
+        properties:
+            gender: male
+            name:
+                value: Benerro
+            title:
+                - value: "High Priest of R'hllor"
+            religion: "R'hllor"
+        notes: "High Priest of R'hllor, the Lord of Light, in Volantis. His right hand is the priest Moqorro (ADWD Appendix)."

@@ -1,0 +1,12 @@
+persons:
+    person-septon-meribald:
+        properties:
+            gender: male
+            name:
+                value: Septon Meribald
+                fields:
+                    given: Meribald
+            title:
+                - value: "Septon"
+            religion: "Faith of the Seven"
+        notes: "A barefoot septon who accompanies Brienne on her journey through the Riverlands. Listed in the AFFC appendix under Lordlings, Wanderers, and Common Men."

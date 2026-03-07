@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Arryn section. Listed as Lord, Warden, and Hand of the King."
+    assertion-jon-arryn-title:
+        subject:
+            person: person-jon-arryn
+        property: title
+        value: "Lord of the Eyrie, Defender of the Vale, Warden of the East, Hand of the King"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Arryn section."
+    assertion-jon-arryn-house:
+        subject:
+            person: person-jon-arryn
+        property: house
+        value: "Arryn"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Arryn section."

@@ -1,0 +1,8 @@
+citations:
+    citation-adwd-jon-xiii:
+        source: source-adwd
+        properties:
+            locator: "Jon XIII"
+            text_from_source: "Jon fell to his knees. He found the dagger's hilt and wrenched it free. In the cold night air the wound was smoking. 'Ghost,' he whispered. Then he fell face forward into the snow."
+            accessed: "2026-03-06"
+        notes: "The assassination of Jon Snow by his Night's Watch brothers. The final Jon chapter in ADWD. His fate is left ambiguous."

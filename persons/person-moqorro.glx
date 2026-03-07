@@ -1,0 +1,8 @@
+persons:
+    person-moqorro:
+        properties:
+            gender: male
+            name:
+                value: Moqorro
+            religion: "R'hllor"
+        notes: "A priest of R'hllor, the Lord of Light. Right hand to Benerro, High Priest of R'hllor in Volantis (ADWD Appendix)."

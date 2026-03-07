@@ -1,0 +1,31 @@
+assertions:
+    assertion-aeron-greyjoy-name:
+        subject:
+            person: person-aeron-greyjoy
+        property: name
+        value: Aeron Greyjoy
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: AERON, called DAMPHAIR, a priest of the Drowned God"
+    assertion-aeron-greyjoy-gender:
+        subject:
+            person: person-aeron-greyjoy
+        property: gender
+        value: male
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed as brother of King Balon in the AFFC appendix."
+    assertion-aeron-greyjoy-alias:
+        subject:
+            person: person-aeron-greyjoy
+        property: alias
+        value: "Damphair"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Called Damphair in the AFFC appendix. A priest of the Drowned God."

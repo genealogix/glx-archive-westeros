@@ -1,0 +1,41 @@
+assertions:
+    assertion-ilyn-payne-name:
+        subject:
+            person: person-ilyn-payne
+        property: name
+        value: "Ser Ilyn Payne"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: SER ILYN PA YNE, the King's Justice, a headsman"
+    assertion-ilyn-payne-gender:
+        subject:
+            person: person-ilyn-payne
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Listed as Ser."
+    assertion-ilyn-payne-title:
+        subject:
+            person: person-ilyn-payne
+        property: title
+        value: "Ser, The King's Justice"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."
+    assertion-ilyn-payne-house:
+        subject:
+            person: person-ilyn-payne
+        property: house
+        value: "Payne"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

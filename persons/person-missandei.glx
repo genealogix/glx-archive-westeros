@@ -1,0 +1,7 @@
+persons:
+    person-missandei:
+        properties:
+            gender: female
+            name:
+                value: Missandei
+        notes: "A Naathi scribe and translator. Handmaid and servant to Queen Daenerys. Brother to Marselen, commander of the Mother's Men (ADWD Appendix)."

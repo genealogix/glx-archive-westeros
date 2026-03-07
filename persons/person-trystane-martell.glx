@@ -8,3 +8,7 @@ persons:
                     surname: Martell
                 value: Trystane Martell
             rin: MH:I279
+            title:
+                - value: "Prince"
+            house: "Martell"
+        notes: "Prince Trystane Martell, youngest child of Prince Doran Martell and Mellario of Norvos. Betrothed to Princess Myrcella Baratheon. Listed in the AFFC appendix."

@@ -1,0 +1,31 @@
+assertions:
+    assertion-boros-blount-name:
+        subject:
+            person: person-boros-blount
+        property: name
+        value: "Ser Boros Blount"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section (Kingsguard). Source text: SER BOROS BLOUNT"
+    assertion-boros-blount-gender:
+        subject:
+            person: person-boros-blount
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Listed as Ser."
+    assertion-boros-blount-house:
+        subject:
+            person: person-boros-blount
+        property: house
+        value: "Blount"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

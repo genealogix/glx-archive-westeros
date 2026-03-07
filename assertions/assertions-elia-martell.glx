@@ -20,3 +20,33 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Martell section. Source text: his sister, {PRINCESS ELIA}, wed to Prince Rhaegar Targaryen, slain during the Sack of King's Landing"
+    assertion-elia-martell-title:
+        subject:
+            person: person-elia-martell
+        property: title
+        value: "Princess"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Martell section."
+    assertion-elia-martell-house:
+        subject:
+            person: person-elia-martell
+        property: house
+        value: "Martell"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Martell section."
+    assertion-elia-martell-cause-of-death:
+        subject:
+            person: person-elia-martell
+        property: cause_of_death
+        value: "Slain during the Sack of King's Landing"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Martell section. Source text: {PRINCESS ELIA}, wed to Prince Rhaegar Targaryen, slain during the Sack of King's Landing"

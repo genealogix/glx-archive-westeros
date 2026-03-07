@@ -1,0 +1,18 @@
+persons:
+    person-jon-connington:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    surname: Connington
+                value: Jon Connington
+            title:
+                - value: "Lord of Storm's End"
+                  date: "TO 283"
+                - value: "Hand of the King"
+                  date: "TO 283"
+            alias:
+                - value: "Griff"
+            house: "Connington"
+        notes: "Once Lord of Storm's End and Hand of the King, exiled by Aerys II Targaryen, believed dead of drink. Foster father to Young Griff (Aegon). Cousin to Ser Ronnet Connington (ADWD Appendix)."

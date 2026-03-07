@@ -1,0 +1,9 @@
+persons:
+    person-grey-worm:
+        properties:
+            gender: male
+            name:
+                value: Grey Worm
+            title:
+                - value: "Commander of the Unsullied"
+        notes: "A eunuch, commander of the Unsullied infantry company in service to Queen Daenerys (ADWD Appendix)."

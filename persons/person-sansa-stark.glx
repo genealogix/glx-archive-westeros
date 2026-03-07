@@ -8,3 +8,10 @@ persons:
                     surname: Stark
                 value: Sansa Stark
             rin: MH:I218
+            title:
+                - value: "Princess"
+                  date: "FROM 298 TO 299"
+            house: "Stark"
+            alias:
+                - value: "Alayne Stone"
+        notes: "Eldest daughter of Eddard Stark. Married Tyrion Lannister. Fled King's Landing and now disguised as ALAYNE STONE, supposed natural daughter of Lord Petyr Baelish, 'a maid of three-and-ten' in the Vale (ADWD Appendix)."

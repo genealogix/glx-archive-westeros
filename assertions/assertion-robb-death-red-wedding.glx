@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-death-red-wedding:
+        subject:
+            person: person-robb-stark
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Robb Stark was killed at the Red Wedding. Roose Bolton stabbed him through the heart, saying 'Jaime Lannister sends his regards.'"

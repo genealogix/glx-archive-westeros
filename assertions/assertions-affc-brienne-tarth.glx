@@ -1,0 +1,11 @@
+assertions:
+    assertion-brienne-alias-maid-of-tarth-affc:
+        subject:
+            person: person-brienne-tarth
+        property: alias
+        value: "The Maid of Tarth"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: BRIENNE, THE MAID OF TARTH, also called BRIENNE THE BEAUTY, a maiden on a quest"

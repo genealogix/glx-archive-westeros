@@ -1,0 +1,12 @@
+persons:
+    person-daario-naharis:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Daario
+                    surname: Naharis
+                value: Daario Naharis
+            title:
+                - value: "Captain of the Stormcrows"
+        notes: "A flamboyant Tyroshi sellsword, captain of the Stormcrows. One of Daenerys's suitors and lovers (ADWD Appendix)."

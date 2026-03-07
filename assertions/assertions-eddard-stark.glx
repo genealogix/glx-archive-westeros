@@ -19,3 +19,33 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed as lord and husband, with 'his wife' and 'his children' establishing male gender."
+    assertion-eddard-stark-title:
+        subject:
+            person: person-eddard-stark
+        property: title
+        value: "Lord of Winterfell, Warden of the North"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: EDDA RD STA RK, Lord of Winterfell, Warden of the North"
+    assertion-eddard-stark-house:
+        subject:
+            person: person-eddard-stark
+        property: house
+        value: "Stark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
+    assertion-eddard-stark-alias:
+        subject:
+            person: person-eddard-stark
+        property: alias
+        value: "Ned"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Commonly called Ned throughout the novels."

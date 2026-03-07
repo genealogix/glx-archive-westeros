@@ -1,0 +1,13 @@
+persons:
+    person-varys:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Varys
+                value: Varys
+            alias:
+                - value: "The Spider"
+            title:
+                - value: "Master of Whisperers"
+        notes: "A eunuch, called the Spider. Master of whisperers on King Robert's small council."

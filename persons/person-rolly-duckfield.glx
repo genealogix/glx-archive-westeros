@@ -1,0 +1,13 @@
+persons:
+    person-rolly-duckfield:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Rolly
+                    prefix: Ser
+                    surname: Duckfield
+                value: Ser Rolly Duckfield
+            alias:
+                - value: "Duck"
+        notes: "Called DUCK. A knight, companion and protector of Young Griff on the Rhoyne (ADWD Appendix)."

@@ -1,0 +1,71 @@
+assertions:
+    assertion-hizdahr-nobleman-adwd:
+        subject:
+            person: person-hizdahr-zo-loraq
+        property: name
+        value: "Hizdahr zo Loraq"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'HIZDAHR ZO LORAQ, a wealthy Meereenese nobleman, of ancient lineage.' Listed among both people of Meereen and the queen's suitors."
+    assertion-skahaz-shavepate-adwd:
+        subject:
+            person: person-skahaz-mo-kandaq
+        property: alias
+        value: "The Shavepate"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'SKAHAZ MO KANDAQ, called THE SHAVEPATE, shaven-headed commander of the Brazen Beasts'"
+    assertion-reznak-seneschal-adwd:
+        subject:
+            person: person-reznak-mo-reznak
+        property: name
+        value: "Reznak mo Reznak"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'REZNAK MO REZNAK, her seneschal, bald and unctuous'"
+    assertion-barristan-queensguard-adwd:
+        subject:
+            person: person-barristan-selmy
+        property: title
+        value: "Lord Commander of the Queensguard"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'SER BARRISTAN SELMY, called BARRISTAN THE BOLD, Lord Commander of the Queensguard'"
+    assertion-grey-worm-unsullied-adwd:
+        subject:
+            person: person-grey-worm
+        property: title
+        value: "Commander of the Unsullied"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'GREY WORM, a eunuch, commander of the Unsullied, a company of eunuch infantry'"
+    assertion-daario-stormcrows-adwd:
+        subject:
+            person: person-daario-naharis
+        property: title
+        value: "Captain of the Stormcrows"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'DAARIO NAHARIS, a flamboyant Tyroshi sellsword, captain of the Stormcrows'"
+    assertion-brown-ben-second-sons-adwd:
+        subject:
+            person: person-brown-ben-plumm
+        property: title
+        value: "Captain of the Second Sons"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'BEN PLUMM, called BROWN BEN, a mongrel sellsword, captain of the Second Sons'"

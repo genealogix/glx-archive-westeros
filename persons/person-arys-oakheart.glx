@@ -1,0 +1,14 @@
+persons:
+    person-arys-oakheart:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Arys
+                    prefix: Ser
+                    surname: Oakheart
+                value: Ser Arys Oakheart
+            title:
+                - value: "Ser"
+            house: "Oakheart"
+        notes: "Member of the Kingsguard under King Robert I Baratheon."

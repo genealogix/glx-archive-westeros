@@ -8,3 +8,7 @@ persons:
                     surname: Lannister
                 value: Stafford Lannister
             rin: MH:I183
+            title:
+                - value: "Ser"
+            house: "Lannister"
+        notes: "Cousin of Tywin Lannister. Brother to the late Lady Joanna."

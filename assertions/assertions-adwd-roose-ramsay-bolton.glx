@@ -1,0 +1,31 @@
+assertions:
+    assertion-roose-bolton-lord-dreadfort-adwd:
+        subject:
+            person: person-roose-bolton
+        property: title
+        value: "Lord of the Dreadfort"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'ROOSE BOLTON, Lord of the Dreadfort'"
+    assertion-ramsay-bolton-bastard-adwd:
+        subject:
+            person: person-ramsay-bolton
+        property: title
+        value: "Lord of the Hornwood"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'RAMSAY BOLTON, his natural son, called THE BASTARD OF BOLTON, Lord of the Hornwood'"
+    assertion-ramsay-bastard-parent-adwd:
+        subject:
+            relationship: rel-pc-roose-bolton-ramsay-bolton
+        property: type
+        value: "bastard_parent"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: Ramsay is listed as 'his natural son' under Roose Bolton"

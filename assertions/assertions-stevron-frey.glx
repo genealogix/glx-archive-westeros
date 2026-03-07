@@ -21,3 +21,13 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against ASOS and AFFC Appendix, House Frey section. Source text: {SER STEVRON}, their eldest son, died after the Battle of Oxcross"
+    assertion-stevron-frey-death:
+        subject:
+            person: person-stevron-frey
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "ASOS appendix, House Frey section. Source text: '{SER STEVRON}, their eldest son, died after the Battle of Oxcross'. First appears as dead in the ASOS appendix (was alive in ACOK appendix). His death made Ser Ryman Frey the new heir to the Twins."

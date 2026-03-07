@@ -8,3 +8,7 @@ persons:
                     surname: Hightower
                 value: Alerie Hightower
             rin: MH:I376
+            title:
+                - value: "Lady"
+            house: "Hightower"
+        notes: "Wife of Mace Tyrell. Of House Hightower of Oldtown."

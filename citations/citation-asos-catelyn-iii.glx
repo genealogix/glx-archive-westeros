@@ -1,0 +1,7 @@
+citations:
+    citation-asos-catelyn-iii:
+        source: source-asos
+        properties:
+            locator: "Catelyn III"
+            accessed: "2026-03-06"
+        notes: "Chapter covering Robb's discovery that he married Jeyne Westerling, breaking his pact with Walder Frey. Context for the Red Wedding's causes."

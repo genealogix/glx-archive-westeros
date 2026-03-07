@@ -9,3 +9,10 @@ persons:
                     surname: Tully
                 value: Ser Brynden 'Blackfish' Tully
             rin: MH:I256
+            title:
+                - value: "Ser"
+                - value: "Knight of the Gate"
+            alias:
+                - value: "The Blackfish"
+            house: "Tully"
+        notes: "Brother of Hoster Tully. Uncle to Lady Lysa. Knight of the Gate at the Eyrie."

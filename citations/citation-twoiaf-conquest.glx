@@ -1,0 +1,7 @@
+citations:
+    citation-twoiaf-conquest:
+        source: source-twoiaf
+        properties:
+            locator: "The Reign of the Dragons: The Conquest"
+            accessed: "2026-03-06"
+        notes: "TWOIAF account of Aegon's Conquest of Westeros."

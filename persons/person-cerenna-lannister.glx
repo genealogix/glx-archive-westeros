@@ -8,3 +8,5 @@ persons:
                     surname: Lannister
                 value: Cerenna Lannister
             rin: MH:I185
+            house: "Lannister"
+        notes: "Daughter of Ser Stafford Lannister."

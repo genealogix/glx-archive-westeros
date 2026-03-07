@@ -1,0 +1,13 @@
+persons:
+    person-tytos-blackwood:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Tytos
+                    surname: Blackwood
+                value: Tytos Blackwood
+            title:
+                - value: "Lord of Raventree"
+            house: "Blackwood"
+        notes: "Lord of Raventree. Bannerman of House Tully."

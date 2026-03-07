@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-assassination-date:
+        subject:
+            event: event-assassination-jon-snow
+        property: date
+        value: "300"
+        citations:
+            - citation-adwd-jon-xiii
+        confidence: high
+        status: proven
+        notes: "Jon Snow was stabbed by his Night's Watch brothers at Castle Black in 300 AC. His fate is left ambiguous at the end of ADWD."

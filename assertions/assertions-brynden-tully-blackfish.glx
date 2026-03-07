@@ -20,3 +20,33 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tully section. Listed as 'Ser' and 'his brother'."
+    assertion-brynden-tully-blackfish-title:
+        subject:
+            person: person-brynden-tully-blackfish
+        property: title
+        value: "Ser, Knight of the Gate"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Arryn section. Source text: SER BRYNDEN TULLY, called the Blackfish, Knight of the Gate"
+    assertion-brynden-tully-blackfish-alias:
+        subject:
+            person: person-brynden-tully-blackfish
+        property: alias
+        value: "The Blackfish"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Arryn and Tully sections."
+    assertion-brynden-tully-blackfish-house:
+        subject:
+            person: person-brynden-tully-blackfish
+        property: house
+        value: "Tully"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tully section."

@@ -8,3 +8,8 @@ persons:
                     surname: Sand
                 value: Dorea Sand
             rin: MH:I271
+            alias:
+                - value: "Sand Snake"
+            house: "Martell"
+            born_on: "ABT 291"
+        notes: "Seventh Sand Snake. Bastard daughter of Prince Oberyn Martell and Ellaria Sand. Eight years old at the time of AFFC. Listed in the AFFC appendix."

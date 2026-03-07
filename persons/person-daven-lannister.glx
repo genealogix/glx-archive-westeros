@@ -8,3 +8,7 @@ persons:
                     surname: Lannister
                 value: Daven Lannister
             rin: MH:I184
+            title:
+                - value: "Ser"
+            house: "Lannister"
+        notes: "Son of Ser Stafford Lannister."

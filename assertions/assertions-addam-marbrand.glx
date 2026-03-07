@@ -1,0 +1,31 @@
+assertions:
+    assertion-addam-marbrand-name:
+        subject:
+            person: person-addam-marbrand
+        property: name
+        value: "Ser Addam Marbrand"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section. Source text: SER A DDA M MA RBRA ND"
+    assertion-addam-marbrand-gender:
+        subject:
+            person: person-addam-marbrand
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section. Listed as Ser."
+    assertion-addam-marbrand-house:
+        subject:
+            person: person-addam-marbrand
+        property: house
+        value: "Marbrand"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section."

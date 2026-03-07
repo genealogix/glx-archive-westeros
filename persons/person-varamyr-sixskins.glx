@@ -1,0 +1,10 @@
+persons:
+    person-varamyr-sixskins:
+        properties:
+            gender: male
+            name:
+                value: Varamyr
+            alias:
+                - value: "Sixskins"
+                - value: "Lump"
+        notes: "A skinchanger and warg. Called Lump as a boy. His wolves are One Eye, Sly, and Stalker. His brother Bump was killed by a dog. His foster father Haggon was a warg and hunter (ADWD Appendix)."

@@ -1,0 +1,11 @@
+persons:
+    person-pycelle:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Pycelle
+                value: Pycelle
+            title:
+                - value: "Grand Maester"
+        notes: "Grand Maester Pycelle. Member of King Robert's small council."

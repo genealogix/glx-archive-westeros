@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tyrell section. Source text: SER GARLAN, called the Gallant, their second son"
+    assertion-garlan-tyrell-alias:
+        subject:
+            person: person-garlan-tyrell
+        property: alias
+        value: "The Gallant"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tyrell section. Source text: SER GA RLA N, called the Gallant"
+    assertion-garlan-tyrell-house:
+        subject:
+            person: person-garlan-tyrell
+        property: house
+        value: "Tyrell"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tyrell section."

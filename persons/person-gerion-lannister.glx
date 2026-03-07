@@ -8,3 +8,7 @@ persons:
                     surname: Lannister
                 value: Gerion Lannister
             rin: MH:I162
+            house: "Lannister"
+            status: "dead"
+            cause_of_death: "Lost at sea"
+        notes: "Youngest brother of Tywin Lannister. Lost at sea."

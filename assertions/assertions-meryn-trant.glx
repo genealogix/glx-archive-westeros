@@ -1,0 +1,31 @@
+assertions:
+    assertion-meryn-trant-name:
+        subject:
+            person: person-meryn-trant
+        property: name
+        value: "Ser Meryn Trant"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section (Kingsguard). Source text: SER MERYN TRA NT"
+    assertion-meryn-trant-gender:
+        subject:
+            person: person-meryn-trant
+        property: gender
+        value: male
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Listed as Ser."
+    assertion-meryn-trant-house:
+        subject:
+            person: person-meryn-trant
+        property: house
+        value: "Trant"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

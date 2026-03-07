@@ -19,3 +19,33 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Lannister section. Listed as Ser and brother."
+    assertion-tygett-lannister-title:
+        subject:
+            person: person-tygett-lannister
+        property: title
+        value: "Ser"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section."
+    assertion-tygett-lannister-house:
+        subject:
+            person: person-tygett-lannister
+        property: house
+        value: "Lannister"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section."
+    assertion-tygett-lannister-cause-of-death:
+        subject:
+            person: person-tygett-lannister
+        property: cause_of_death
+        value: "Died of a pox"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Lannister section. Source text: {SER TYGETT}, his second brother, died of a pox"

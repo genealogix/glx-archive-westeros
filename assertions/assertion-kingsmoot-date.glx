@@ -1,0 +1,11 @@
+assertions:
+    assertion-kingsmoot-date:
+        subject:
+            event: event-kingsmoot-old-wyk
+        property: date
+        value: "300"
+        citations:
+            - citation-affc-the-drowned-man
+        confidence: high
+        status: proven
+        notes: "The Kingsmoot on Old Wyk occurred in 300 AC. Euron Crow's Eye was chosen as King of the Iron Islands."

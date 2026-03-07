@@ -1,0 +1,16 @@
+persons:
+    person-barristan-selmy:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Barristan
+                    prefix: Ser
+                    surname: Selmy
+                value: Ser Barristan Selmy
+            alias:
+                - value: "Barristan the Bold"
+            title:
+                - value: "Lord Commander of the Queensguard"
+            house: "Selmy"
+        notes: "Lord Commander of Daenerys's Queensguard. Training squires including Tumco Lho, Larraq, and the Red Lamb (ADWD Appendix)."

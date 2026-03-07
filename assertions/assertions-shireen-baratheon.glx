@@ -19,3 +19,13 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Baratheon section. Listed as daughter."
+    assertion-shireen-baratheon-house:
+        subject:
+            person: person-shireen-baratheon
+        property: house
+        value: "Baratheon"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Daughter of Stannis Baratheon."

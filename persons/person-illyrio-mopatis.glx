@@ -1,0 +1,12 @@
+persons:
+    person-illyrio-mopatis:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Illyrio
+                    surname: Mopatis
+                value: Illyrio Mopatis
+            title:
+                - value: "Magister of Pentos"
+        notes: "A magister of the Free City of Pentos who brokered Daenerys's marriage to Khal Drogo. Listed among Daenerys's uncertain allies, false friends, and known enemies (ADWD Appendix)."

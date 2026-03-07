@@ -1,0 +1,31 @@
+assertions:
+    assertion-theon-greyjoy-name:
+        subject:
+            person: person-theon-greyjoy
+        property: name
+        value: Theon Greyjoy
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix. Source text: THEON, styling himself the Prince of Winterfell, called by northmen THEON TURNCLOAK"
+    assertion-theon-greyjoy-gender:
+        subject:
+            person: person-theon-greyjoy
+        property: gender
+        value: male
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Listed as son of Balon Greyjoy in the AFFC appendix."
+    assertion-theon-greyjoy-alias:
+        subject:
+            person: person-theon-greyjoy
+        property: alias
+        value: "Theon Turncloak"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "Called Theon Turncloak by northmen per the AFFC appendix."

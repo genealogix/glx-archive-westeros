@@ -8,3 +8,8 @@ persons:
                     surname: Targaryen
                 value: Rhaella Targaryen
             rin: MH:I203
+            title:
+                - value: "Queen"
+            house: "Targaryen"
+            status: "dead"
+            cause_of_death: "Died in childbed on Dragonstone"

@@ -21,6 +21,16 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed as 'the heir' under Eddard's children."
+    assertion-robb-stark-house:
+        subject:
+            person: person-robb-stark
+        property: house
+        value: "Stark"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section."
     assertion-robb-stark-title-king-north:
         subject:
             person: person-robb-stark

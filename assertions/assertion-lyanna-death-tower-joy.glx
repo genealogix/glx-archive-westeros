@@ -1,0 +1,11 @@
+assertions:
+    assertion-lyanna-death-tower-joy:
+        subject:
+            person: person-lyanna-stark
+        property: died_on
+        value: "283"
+        citations:
+            - citation-agot-eddard-i
+        confidence: high
+        status: proven
+        notes: "Lyanna Stark died at the Tower of Joy in a 'bed of blood,' making Ned promise her something before she died."

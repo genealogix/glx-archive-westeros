@@ -8,3 +8,5 @@ persons:
                     surname: Stark
                 value: Benjen Stark
             rin: MH:I215
+            house: "Stark"
+        notes: "Younger brother of Eddard Stark. A man of the Night's Watch."

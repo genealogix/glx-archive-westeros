@@ -8,3 +8,7 @@ persons:
                     surname: Waynwood
                 value: Anya Waynwood
             rin: MH:I251
+            title:
+                - value: "Lady"
+            house: "Waynwood"
+        notes: "A widow. Listed in AGOT Appendix under House Arryn. A suitor to Lady Lysa through her son Ser Morton."

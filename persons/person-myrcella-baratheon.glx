@@ -8,3 +8,7 @@ persons:
                     surname: Baratheon
                 value: Myrcella Baratheon
             rin: MH:I169
+            title:
+                - value: "Princess"
+            house: "Baratheon"
+        notes: "Princess Myrcella Baratheon, a girl of nine. Ward of Prince Doran Martell at Sunspear, betrothed to Prince Trystane Martell. Per the AFFC appendix."

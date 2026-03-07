@@ -1,0 +1,41 @@
+assertions:
+    assertion-mance-king-beyond-wall-adwd:
+        subject:
+            person: person-mance-rayder
+        property: title
+        value: "King-Beyond-the-Wall"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'MANCE RAYDER, King-Beyond-the-Wall, a captive at Castle Black'"
+    assertion-dalla-death-childbirth-adwd:
+        subject:
+            person: person-dalla
+        property: cause_of_death
+        value: "Childbirth"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'his wife, {DALLA}, died in childbirth' (curly braces indicate deceased)"
+    assertion-val-wildling-princess-adwd:
+        subject:
+            person: person-val
+        property: alias
+        value: "The wildling princess"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'VAL, Dalla's younger sister, \"the wildling princess,\" a captive at Castle Black'"
+    assertion-tormund-giantsbane-adwd:
+        subject:
+            person: person-tormund-giantsbane
+        property: title
+        value: "Mead-King of Ruddy Hall"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'TORMUND, Mead-King of Ruddy Hall, called GIANTSBANE, TALL-TALKER, HORN-BLOWER, and BREAKER OF ICE, also THUNDERFIST, HUSBAND TO BEARS, SPEAKER TO GODS, and FATHER OF HOSTS'"

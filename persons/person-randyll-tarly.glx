@@ -8,3 +8,7 @@ persons:
                     surname: Tarly
                 value: Randyll Tarly
             rin: MH:I457
+            title:
+                - value: "Lord of Horn Hill"
+            house: "Tarly"
+        notes: "Lord Randyll Tarly, Lord of Horn Hill. Commanding King Tommen's forces along the Trident per the AFFC appendix. Father of Samwell and Dickon Tarly."

@@ -1,0 +1,15 @@
+persons:
+    person-rodrik-cassel:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Rodrik
+                    prefix: Ser
+                    surname: Cassel
+                value: Ser Rodrik Cassel
+            title:
+                - value: "Ser"
+                - value: "Master-at-Arms"
+            house: "Cassel"
+        notes: "Master-at-arms at Winterfell. Uncle of Jory Cassel. Father of Beth."

@@ -1,0 +1,51 @@
+assertions:
+    assertion-melisandre-red-woman-adwd:
+        subject:
+            person: person-melisandre
+        property: alias
+        value: "The Red Woman"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'LADY MELISANDRE OF ASSHAI, called THE RED WOMAN, a priestess of R'hllor, the Lord of Light'"
+    assertion-davos-hand-adwd:
+        subject:
+            person: person-davos-seaworth
+        property: title
+        value: "Hand of the King"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'SER DAVOS SEAWORTH, Lord of the Rainwood, Admiral of the Narrow Sea, and Hand of the King, called THE ONION KNIGHT'"
+    assertion-bowen-marsh-lord-steward-adwd:
+        subject:
+            person: person-bowen-marsh
+        property: title
+        value: "Lord Steward"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'BOWEN MARSH, Lord Steward'"
+    assertion-penny-dwarf-mummer-adwd:
+        subject:
+            person: person-penny
+        property: name
+        value: "Penny"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'PENNY, a dwarf girl and mummer' — listed under Old Volantis. Her brother Groat was murdered and beheaded."
+    assertion-moqorro-priest-adwd:
+        subject:
+            person: person-moqorro
+        property: religion
+        value: "R'hllor"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'MOQORRO, a priest of R'hllor' — right hand to Benerro, High Priest of R'hllor in Volantis"

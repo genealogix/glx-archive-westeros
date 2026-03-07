@@ -19,3 +19,43 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed as 'Lady' and 'his wife'."
+    assertion-catelyn-tully-title:
+        subject:
+            person: person-catelyn-tully
+        property: title
+        value: "Lady"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Source text: his wife, LA DY CA TELYN, of House Tully"
+    assertion-catelyn-tully-house:
+        subject:
+            person: person-catelyn-tully
+        property: house
+        value: "Tully"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Stark section. Born of House Tully."
+    assertion-catelyn-tully-death:
+        subject:
+            person: person-catelyn-tully
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Catelyn was murdered at the Red Wedding at the Twins. ASOS appendix lists her as 'LADY CATELYN, of House Tully, widow of Lord Eddard Stark'. Her death occurs during the events of ASOS (Catelyn VII). Later resurrected as Lady Stoneheart."
+    assertion-catelyn-tully-widow:
+        subject:
+            person: person-catelyn-tully
+        property: marital_status
+        value: "widow"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "ASOS appendix, King in the North section. Source text: 'his mother, LADY CATELYN, of House Tully, widow of Lord Eddard Stark'"

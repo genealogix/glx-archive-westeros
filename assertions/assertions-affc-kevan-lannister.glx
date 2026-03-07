@@ -1,0 +1,11 @@
+assertions:
+    assertion-kevan-master-of-laws-affc:
+        subject:
+            person: person-kevan-lannister
+        property: title
+        value: "Master of Laws"
+        citations:
+            - citation-affc-appendix
+        confidence: high
+        status: accepted
+        notes: "AFFC Appendix, King Tommen's small council section. Source text: SER KEVAN LANNISTER, master of laws"

@@ -20,3 +20,13 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Tyrell section. Source text: WILLAS, their eldest son, heir to Highgarden"
+    assertion-willas-tyrell-house:
+        subject:
+            person: person-willas-tyrell
+        property: house
+        value: "Tyrell"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Tyrell section."

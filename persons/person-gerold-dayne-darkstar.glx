@@ -1,0 +1,16 @@
+persons:
+    person-gerold-dayne-darkstar:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Gerold
+                    surname: Dayne
+                value: Gerold Dayne
+            alias:
+                - value: "Darkstar"
+            title:
+                - value: "Ser"
+                - value: "Knight of High Hermitage"
+            house: "Dayne"
+        notes: "Ser Gerold Dayne, called Darkstar. The Knight of High Hermitage. Cousin and bannerman to Lord Edric Dayne of Starfall. Listed in the AFFC appendix under the Lords of Dorne."

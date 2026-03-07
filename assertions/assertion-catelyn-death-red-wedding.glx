@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-death-red-wedding:
+        subject:
+            person: person-catelyn-tully
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high
+        status: proven
+        notes: "Catelyn Stark's throat was cut by Raymund Frey at the Red Wedding after she killed Aegon Frey (Jinglebell)."

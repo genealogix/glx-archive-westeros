@@ -19,3 +19,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Baratheon section. Listed as King."
+    assertion-robert-baratheon-i-title:
+        subject:
+            person: person-robert-baratheon-i
+        property: title
+        value: "King of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms, Protector of the Realm"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: KING ROBERT BA RA THEON, the First of His Name"
+    assertion-robert-baratheon-i-house:
+        subject:
+            person: person-robert-baratheon-i
+        property: house
+        value: "Baratheon"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

@@ -1,0 +1,12 @@
+persons:
+    person-mance-rayder:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Mance
+                    surname: Rayder
+                value: Mance Rayder
+            title:
+                - value: "King-Beyond-the-Wall"
+        notes: "A captive at Castle Black as of ADWD. His wife Dalla died in childbirth. Their newborn son is as yet unnamed (ADWD Appendix)."

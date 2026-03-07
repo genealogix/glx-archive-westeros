@@ -9,3 +9,11 @@ persons:
                     surname: Baratheon
                 value: Robert Baratheon I
             rin: MH:I167
+            title:
+                - value: "King of the Andals and the Rhoynar and the First Men"
+                  date: "FROM 283"
+                - value: "Lord of the Seven Kingdoms"
+                  date: "FROM 283"
+                - value: "Protector of the Realm"
+                  date: "FROM 283"
+            house: "Baratheon"

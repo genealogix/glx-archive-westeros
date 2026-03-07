@@ -1,0 +1,41 @@
+assertions:
+    assertion-euron-king-iron-islands-adwd:
+        subject:
+            person: person-euron-greyjoy
+        property: title
+        value: "King of the Iron Islands and the North"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'EURON GREYJOY, the Third of His Name Since the Grey King, King of the Iron Islands and the North, King of Salt and Rock, Son of the Sea Wind, and Lord Reaper of Pyke, captain of the Silence, called CROW'S EYE'"
+    assertion-theon-captive-dreadfort-adwd:
+        subject:
+            person: person-theon-greyjoy
+        property: status
+        value: "captive"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'THEON, called by northmen THEON TURNCLOAK, a captive at the Dreadfort'"
+    assertion-asha-marriage-erik-adwd:
+        subject:
+            person: person-asha-greyjoy
+        property: marriage
+        value: "Erik Ironmaker"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'ASHA, captain of the Black Wind and conqueror of Deepwood Motte, m. Erik Ironmaker'"
+    assertion-victarion-iron-captain-adwd:
+        subject:
+            person: person-victarion-greyjoy
+        property: title
+        value: "Lord Captain of the Iron Fleet"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'VICTARION, Lord Captain of the Iron Fleet, master of the Iron Victory'"

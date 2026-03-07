@@ -20,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Martell section. Source text: DORAN NYMEROS MARTELL, Lord of Sunspear, Prince of Dorne"
+    assertion-doran-martell-title:
+        subject:
+            person: person-doran-martell
+        property: title
+        value: "Lord of Sunspear, Prince of Dorne"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Martell section."
+    assertion-doran-martell-house:
+        subject:
+            person: person-doran-martell
+        property: house
+        value: "Martell"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Martell section."

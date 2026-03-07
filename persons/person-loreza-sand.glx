@@ -8,3 +8,8 @@ persons:
                     surname: Sand
                 value: Loreza Sand
             rin: MH:I272
+            alias:
+                - value: "Sand Snake"
+            house: "Martell"
+            born_on: "ABT 293"
+        notes: "Youngest Sand Snake. Bastard daughter of Prince Oberyn Martell and Ellaria Sand. Six years old at the time of AFFC. Listed in the AFFC appendix."

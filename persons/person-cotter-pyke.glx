@@ -1,0 +1,12 @@
+persons:
+    person-cotter-pyke:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Cotter
+                    surname: Pyke
+                value: Cotter Pyke
+            title:
+                - value: "Commander of Eastwatch-by-the-Sea"
+        notes: "A bastard of the Iron Islands, commander at Eastwatch-by-the-Sea (ADWD Appendix)."

@@ -7,4 +7,10 @@ persons:
                     given: Hoster
                     surname: Tully
                 value: Hoster Tully
+            title:
+                - value: "Lord of Riverrun"
+            house: Tully
+            died_on: "299"
+            cause_of_death: "Natural causes (prolonged illness)"
             rin: MH:I222
+        notes: "Lord of Riverrun. ASOS appendix still lists him as Lord of Riverrun. Died of a prolonged illness early in ASOS. Father of Catelyn, Lysa, and Edmure."

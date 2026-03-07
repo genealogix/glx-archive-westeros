@@ -1,0 +1,13 @@
+persons:
+    person-jory-cassel:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Jory
+                    surname: Cassel
+                value: Jory Cassel
+            title:
+                - value: "Captain of the Guard"
+            house: "Cassel"
+        notes: "Captain of the guard at Winterfell. Nephew of Ser Rodrik Cassel."

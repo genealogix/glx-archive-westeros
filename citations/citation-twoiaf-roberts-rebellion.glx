@@ -1,0 +1,7 @@
+citations:
+    citation-twoiaf-roberts-rebellion:
+        source: source-twoiaf
+        properties:
+            locator: "The Fall of the Dragons: Robert's Rebellion"
+            accessed: "2026-03-06"
+        notes: "TWOIAF account of Robert's Rebellion, covering the tourney at Harrenhal, the abduction of Lyanna, Brandon and Rickard's deaths, the major battles, and the Sack of King's Landing."

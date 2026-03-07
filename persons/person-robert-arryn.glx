@@ -8,3 +8,8 @@ persons:
                     surname: Arryn
                 value: Robert Arryn
             rin: MH:I227
+            title:
+                - value: "Lord of the Eyrie"
+                - value: "Defender of the Vale"
+            house: "Arryn"
+        notes: "A sickly boy of six years at the time of AGOT. Son of Jon Arryn and Lysa Tully."

@@ -8,3 +8,8 @@ persons:
                     surname: Martell
                 value: Doran Martell
             rin: MH:I260
+            title:
+                - value: "Lord of Sunspear"
+                - value: "Prince of Dorne"
+            house: "Martell"
+        notes: "Prince Doran Nymeros Martell, Lord of Sunspear and Prince of Dorne. Married to Mellario of Norvos. Father of Arianne, Quentyn, and Trystane. Brother of Elia and Oberyn Martell. Listed in the AFFC appendix."

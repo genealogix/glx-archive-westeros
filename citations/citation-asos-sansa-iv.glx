@@ -1,0 +1,8 @@
+citations:
+    citation-asos-sansa-iv:
+        source: source-asos
+        properties:
+            locator: "Sansa IV"
+            text_from_source: "The boy clawed at his throat, his face black, his legs jerking. 'He's choking,' Queen Margaery gasped."
+            accessed: "2026-03-06"
+        notes: "The Purple Wedding. King Joffrey is poisoned with the Strangler at his wedding feast. Tyrion is accused. Sansa flees King's Landing with Ser Dontos."

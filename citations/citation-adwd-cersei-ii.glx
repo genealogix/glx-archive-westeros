@@ -1,0 +1,8 @@
+citations:
+    citation-adwd-cersei-ii:
+        source: source-adwd
+        properties:
+            locator: "Cersei II"
+            text_from_source: "Cersei lowered her head and began to walk."
+            accessed: "2026-03-06"
+        notes: "Cersei's walk of atonement through King's Landing. She walks naked from the Great Sept to the Red Keep."

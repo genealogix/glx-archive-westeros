@@ -1,0 +1,8 @@
+citations:
+    citation-agot-eddard-i:
+        source: source-agot
+        properties:
+            locator: "Eddard I"
+            text_from_source: "'Promise me, Ned,' she said again."
+            accessed: "2026-03-06"
+        notes: "Ned's fever dream about the Tower of Joy. Recalls the fight against Ser Arthur Dayne, Ser Oswell Whent, and Ser Gerold Hightower. Only Ned and Howland Reed survived. Lyanna died in a 'bed of blood.'"

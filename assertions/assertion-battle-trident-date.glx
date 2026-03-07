@@ -1,0 +1,12 @@
+assertions:
+    assertion-battle-trident-date:
+        subject:
+            event: event-battle-trident
+        property: date
+        value: "283"
+        citations:
+            - citation-twoiaf-roberts-rebellion
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "The Battle of the Trident occurred in 283 AC. Robert slew Rhaegar in single combat."

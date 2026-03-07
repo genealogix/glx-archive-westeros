@@ -1,0 +1,31 @@
+assertions:
+    assertion-harry-strickland-captain-general-adwd:
+        subject:
+            person: person-homeless-harry-strickland
+        property: title
+        value: "Captain-General of the Golden Company"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'HOMELESS HARRY STRICKLAND, captain-general' of the Golden Company, ten thousand strong"
+    assertion-connington-exile-adwd:
+        subject:
+            person: person-jon-connington
+        property: status
+        value: "exiled"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'JON CONNINGTON, once Lord of Storm's End and Hand of the King, exiled by Aerys II Targaryen, believed dead of drink.' Also identified as Griff, foster father to Young Griff."
+    assertion-young-griff-identity-adwd:
+        subject:
+            person: person-young-griff
+        property: name
+        value: "Young Griff"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix: 'YOUNG GRIFF, a blue-haired lad of eighteen years' — listed among the queen's suitors on the Rhoyne. His foster father is Griff (Jon Connington)."
