@@ -4,5 +4,7 @@ relationships:
         participants:
             - person: person-daario-naharis
               role: commander
+            - person: person-daenerys-targaryen-304
+              role: liege
         properties:
             context: "Captain and commander of the Stormcrows, five hundred horse-riders, sworn to Queen Daenerys (ADWD Appendix)"

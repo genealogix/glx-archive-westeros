@@ -1,0 +1,16 @@
+events:
+    event-theon-delivered-to-stannis:
+        type: battle
+        date: "300"
+        participants:
+            - person: person-theon-greyjoy
+              role: subject
+            - person: person-jeyne-poole
+              role: subject
+            - person: person-stannis-baratheon
+              role: authority
+            - person: person-asha-greyjoy
+              role: witness
+        properties:
+            description: "Tycho Nestoris of the Iron Bank of Braavos arrives at Stannis's snowbound camp with Tristifer Botley and five other freed Iron Islanders (ransomed from Sybelle Glover at Deepwood Motte). With them are two figures found near Winterfell by Mors 'Crowfood' Umber: a skeletal, barely-recognizable man who identifies himself as Theon Greyjoy, and a young woman (Jeyne Poole, posing as 'Arya Stark') with frostbitten nose. Asha Greyjoy is present and recognizes her brother — the first time she has seen him since his capture. Theon's appearance is described as skull-with-skin, bone-white filthy hair, half his teeth gone or broken."
+            also_known_as: "Theon's Arrival at Stannis's Camp"

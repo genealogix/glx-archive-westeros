@@ -1,0 +1,44 @@
+assertions:
+    assertion-jon-snow-stabbed-for-the-watch:
+        subject:
+            person: person-jon-snow
+        property: death
+        value: "300"
+        citations:
+            - citation-adwd-jon-xiii
+        confidence: high
+        status: proven
+        notes: "Jon Snow is stabbed multiple times by Night's Watch brothers at Castle Black. Wick Whittlestick slashes his throat, Bowen Marsh stabs him in the belly and leaves the dagger in the wound, others follow. Direct text: 'Bowen Marsh stood there before him, tears running down his cheeks. \"For the Watch.\" He punched Jon in the belly. When he pulled his hand away, the dagger stayed where he had buried it.' Jon falls face-first into the snow. His last word is 'Ghost.' Whether he dies or survives is not resolved in ADWD."
+
+    assertion-jon-snow-fate-ambiguous:
+        subject:
+            person: person-jon-snow
+        property: death
+        value: "ambiguous — possibly dead, possibly resurrected"
+        citations:
+            - citation-adwd-jon-xiii
+        confidence: low
+        status: speculative
+        notes: "Jon's final chapter ends with him falling face-first into the snow after multiple stab wounds. ADWD does not confirm his death. Melisandre of Asshai is present at Castle Black, and had previously been associated with resurrection (Thoros of Myr via R'hllor is established as capable of raising the dead). His connection to Ghost through warging is also a potential survival mechanism. As of the end of ADWD, his fate is the single largest unresolved cliffhanger in the series."
+
+    assertion-bowen-marsh-conspirator:
+        subject:
+            person: person-bowen-marsh
+        property: involvement
+        value: "led the assassination of Jon Snow"
+        citations:
+            - citation-adwd-jon-xiii
+        confidence: high
+        status: proven
+        notes: "Bowen Marsh, First Steward of the Night's Watch, stabbed Jon Snow in the belly with a dagger and left the blade buried in the wound. He wept as he did it: 'Bowen Marsh stood there before him, tears running down his cheeks. \"For the Watch.\"' He and Othell Yarwyck had been seen slipping out of the Shieldhall just before the attack."
+
+    assertion-ramsay-pink-letter:
+        subject:
+            person: person-jon-snow
+        property: event
+        value: "Received the Pink Letter from Ramsay Bolton"
+        citations:
+            - citation-adwd-jon-xiii
+        confidence: high
+        status: proven
+        notes: "Jon receives a letter sealed with pink wax, addressed simply 'Bastard' and signed 'Ramsay Bolton, Trueborn Lord of Winterfell.' The letter claims Stannis and his host are dead, that Ramsay has Lightbringer, that Mance Rayder is caged at Winterfell, and demands the return of 'my bride' (Jeyne Poole / false Arya), Melisandre, Selyse, Shireen, and 'my Reek' (Theon). Direct quote: 'I will have my bride back. If you want Mance Rayder back, come and get him. I have him in a cage for all the north to see.' The letter prompts Jon to announce his march to Winterfell at the Shieldhall, triggering his assassination. The veracity of the letter's claims about Stannis's death is not confirmed within ADWD."

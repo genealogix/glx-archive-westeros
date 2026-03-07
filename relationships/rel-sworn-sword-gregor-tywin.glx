@@ -1,0 +1,11 @@
+relationships:
+    rel-sworn-sword-gregor-tywin:
+        type: sworn_sword
+        participants:
+            - person: person-gregor-clegane
+              role: sworn_sword
+            - person: person-tywin-lannister
+              role: liege
+        properties:
+            context: "Ser Gregor Clegane held the lands of Clegane's Keep as a bannerman of House Lannister. He served Tywin as a brutal instrument of war and intimidation. Tywin deployed him to harry the Riverlands (burning villages, raping, murdering) during the War of the Five Kings as a plausibly deniable act of aggression before Robert's death made open war acceptable."
+        notes: "Gregor was Tywin's most feared enforcer. Tywin sent him to ravage the Riverlands with Amory Lorch and Vargo Hoat's companies. Tyrion later used Gregor as bait in the Battle of the Blackwater. Gregor fought and mortally wounded Oberyn Martell in trial by combat for Tyrion, but died of his wounds — or appeared to; Qyburn later reanimated him as 'Ser Robert Strong' for Cersei's Kingsguard."

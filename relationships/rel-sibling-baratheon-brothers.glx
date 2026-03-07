@@ -1,0 +1,33 @@
+relationships:
+    rel-sibling-baratheon-robert-stannis:
+        type: sibling
+        participants:
+            - person: person-robert-baratheon-i
+              role: sibling
+            - person: person-stannis-baratheon
+              role: sibling
+        properties:
+            context: "Sons of Steffon Baratheon and Cassana Estermont. Full brothers."
+        notes: "AGOT appendix: House Baratheon. Robert and Stannis had a difficult relationship — Robert never fully valued Stannis, granting Storm's End to Renly over him. Stannis considered this a deep slight."
+
+    rel-sibling-baratheon-robert-renly:
+        type: sibling
+        participants:
+            - person: person-robert-baratheon-i
+              role: sibling
+            - person: person-renly-baratheon
+              role: sibling
+        properties:
+            context: "Sons of Steffon Baratheon and Cassana Estermont. Full brothers."
+        notes: "AGOT appendix: House Baratheon. Renly was the youngest, given Storm's End by Robert over the elder Stannis."
+
+    rel-sibling-baratheon-stannis-renly:
+        type: sibling
+        participants:
+            - person: person-stannis-baratheon
+              role: sibling
+            - person: person-renly-baratheon
+              role: sibling
+        properties:
+            context: "Sons of Steffon Baratheon and Cassana Estermont. Full brothers."
+        notes: "AGOT appendix: House Baratheon. Stannis and Renly were estranged and eventually at war with each other during the War of the Five Kings."

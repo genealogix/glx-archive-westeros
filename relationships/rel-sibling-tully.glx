@@ -1,0 +1,33 @@
+relationships:
+    rel-sibling-tully-catelyn-lysa:
+        type: sibling
+        participants:
+            - person: person-catelyn-tully
+              role: sibling
+            - person: person-lysa-tully
+              role: sibling
+        properties:
+            context: "Daughters of Hoster Tully and Minisa Whent. Full siblings."
+        notes: "AGOT appendix: House Tully. Catelyn and Lysa were close as girls. Lysa secretly loved Petyr Baelish (Littlefinger) from childhood; after Hoster forced Lysa to abort Petyr's child, Lysa's personality changed. The sisters drifted apart and Lysa's mental instability made her a difficult figure for Catelyn to rely on."
+
+    rel-sibling-tully-catelyn-edmure:
+        type: sibling
+        participants:
+            - person: person-catelyn-tully
+              role: sibling
+            - person: person-edmure-tully
+              role: sibling
+        properties:
+            context: "Children of Hoster Tully and Minisa Whent. Full siblings."
+        notes: "AGOT appendix: House Tully. Edmure is younger than Catelyn. He is well-meaning but prone to making strategic blunders; his decision to shelter Robb's forces and accept the Red Wedding feast at the Twins was orchestrated by Walder Frey."
+
+    rel-sibling-tully-lysa-edmure:
+        type: sibling
+        participants:
+            - person: person-lysa-tully
+              role: sibling
+            - person: person-edmure-tully
+              role: sibling
+        properties:
+            context: "Children of Hoster Tully and Minisa Whent. Full siblings."
+        notes: "AGOT appendix: House Tully."

@@ -1,0 +1,36 @@
+assertions:
+    assertion-quentyn-martell-death:
+        subject:
+            person: person-quentyn-martell
+        property: death
+        value: "300"
+        citations:
+            - citation-adwd-the-dragontamer
+            - citation-adwd-the-queens-hand
+        confidence: high
+        status: proven
+        notes: "Quentyn Martell is burned by Rhaegal's dragonflame in the dragon pit of the Great Pyramid of Meereen. He survives three days before dying. His death is confirmed in 'The Queen's Hand' from Barristan's POV. Direct text: 'The Dornish prince was three days dying. He took his last shuddering breath in the bleak black dawn.' His face was so badly burned that Barristan notes 'He has no lips' and could see skull through sloughed flesh."
+
+    assertion-quentyn-martell-cause-of-death:
+        subject:
+            person: person-quentyn-martell
+        property: cause_of_death
+        value: "Dragonfire — burned by Rhaegal in the Great Pyramid of Meereen"
+        citations:
+            - citation-adwd-the-dragontamer
+            - citation-adwd-the-queens-hand
+        confidence: high
+        status: proven
+        notes: "The Dragontamer chapter ends with Quentyn engulfed by Rhaegal's fire: 'When he raised his whip, he saw that the lash was burning. His hand as well. All of him, all of him was burning. Oh, he thought. Then he began to scream.' The Queen's Hand confirms Archibald Yronwood used his burned hands to beat out the flames that had consumed Quentyn — evidence he survived the initial burning long enough to be found."
+
+    assertion-quentyn-martell-targaryen-blood:
+        subject:
+            person: person-quentyn-martell
+        property: lineage
+        value: "Partial Targaryen blood through his mother Mellario of Norvos"
+        citations:
+            - citation-adwd-the-dragontamer
+            - citation-adwd-the-queens-hand
+        confidence: medium
+        status: speculative
+        notes: "Quentyn himself believed his Targaryen ancestry would allow him to tame the dragons. 'Quentyn told the Tattered Prince he could control them. It was in his blood, he said. He had Targaryen blood.' (Gerris Drinkwater, Queen's Hand). His belief proved fatal — the dragons showed no recognition of kinship. His Targaryen descent is through his mother Mellario of Norvos's connection to House Targaryen, but the precise degree is not confirmed in the text."

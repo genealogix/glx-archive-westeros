@@ -1,0 +1,15 @@
+persons:
+    person-erik-ironmaker:
+        properties:
+            name:
+                value: "Erik Ironmaker"
+                fields:
+                    given: "Erik"
+                    surname: "Ironmaker"
+            gender: male
+            title:
+                - value: "Lord Steward of the Iron Islands"
+                - value: "Castellan of Pyke"
+            house: Ironmaker
+            religion: "Drowned God"
+        notes: "An old man once renowned as a warrior. Lord Steward of the Iron Islands and castellan of Pyke. Married Asha Greyjoy as noted in the ADWD appendix."

@@ -1,0 +1,12 @@
+persons:
+    person-wick-whittlestick:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Wick
+                    surname: Whittlestick
+                value: Wick Whittlestick
+            title:
+                - value: "Steward of the Night's Watch"
+        notes: "Night's Watch steward at Castle Black. A 'gangling steward.' One of the conspirators in the assassination of Lord Commander Jon Snow — he slashed Jon's throat with a knife, saying 'For the Watch.' Jon caught his wrist and disarmed him. Whittlestick backed away with hands upraised. (ADWD 'Jon XIII')"

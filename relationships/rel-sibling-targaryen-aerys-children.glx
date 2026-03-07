@@ -1,0 +1,33 @@
+relationships:
+    rel-sibling-targaryen-rhaegar-viserys:
+        type: sibling
+        participants:
+            - person: person-rhaegar-targaryen
+              role: sibling
+            - person: person-viserys-targaryen-iii
+              role: sibling
+        properties:
+            context: "Children of Aerys II Targaryen and Rhaella Targaryen. Full siblings."
+        notes: "AGOT appendix: House Targaryen. Rhaegar was the crown prince; Viserys was born years later. Rhaegar died at the Trident in 283; Viserys and Daenerys were born after the dynasty's fall."
+
+    rel-sibling-targaryen-rhaegar-daenerys:
+        type: sibling
+        participants:
+            - person: person-rhaegar-targaryen
+              role: sibling
+            - person: person-daenerys-targaryen-206
+              role: sibling
+        properties:
+            context: "Children of Aerys II Targaryen and Rhaella Targaryen. Full siblings. Rhaegar died before Daenerys was born."
+        notes: "AGOT appendix: House Targaryen. Daenerys was born on Dragonstone during the storm that destroyed the Targaryen fleet (hence 'Stormborn') after Rhaegar's death at the Battle of the Trident."
+
+    rel-sibling-targaryen-viserys-daenerys:
+        type: sibling
+        participants:
+            - person: person-viserys-targaryen-iii
+              role: sibling
+            - person: person-daenerys-targaryen-206
+              role: sibling
+        properties:
+            context: "Children of Aerys II Targaryen and Rhaella Targaryen. Full siblings."
+        notes: "AGOT appendix: House Targaryen. Viserys raised Daenerys in exile, though his 'care' was controlling and abusive. He called himself the Beggar King and sold Daenerys into marriage to Khal Drogo in exchange for an army. He was killed by Drogo with a crown of molten gold in 298."

@@ -1,0 +1,11 @@
+relationships:
+    rel-pc-eddard-stark-jon-snow:
+        type: parent_child
+        participants:
+            - person: person-eddard-stark
+              role: parent
+            - person: person-jon-snow
+              role: child
+        properties:
+            context: "Eddard Stark claimed Jon Snow as his bastard son, born of an unnamed woman during Robert's Rebellion. This is the official record. The competing theory (R+L=J) — that Jon is the son of Rhaegar Targaryen and Lyanna Stark — is tracked separately via assertions on person-rhaegar-targaryen-jon-snow and person-lyanna-stark-jon-snow."
+        notes: "Official recorded parentage only. Confidence is low because Ned never named Jon's mother and the circumstances of Jon's birth were kept secret. See rel-pc-rhaegar-targaryen-jon-snow and rel-pc-lyanna-stark-jon-snow for the competing R+L=J evidence chain."

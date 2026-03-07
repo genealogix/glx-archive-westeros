@@ -1,0 +1,11 @@
+relationships:
+    rel-pc-robert-baratheon-i-tommen-baratheon:
+        type: parent_child
+        participants:
+            - person: person-robert-baratheon-i
+              role: parent
+            - person: person-tommen-baratheon
+              role: child
+        properties:
+            context: "Robert Baratheon is the officially recorded father of Tommen Baratheon. This is the legal and public claim. The true biological father is Jaime Lannister per Ned Stark's investigation. See rel-pc-jaime-lannister-tommen-baratheon for the actual parentage."
+        notes: "Status: disproven. Tommen is the biological son of Jaime Lannister and Cersei Lannister. Robert's paternity is the official recorded claim only."

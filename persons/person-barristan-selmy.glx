@@ -10,7 +10,10 @@ persons:
                 value: Ser Barristan Selmy
             alias:
                 - value: "Barristan the Bold"
+                - value: "Ser Grandfather"
             title:
                 - value: "Lord Commander of the Queensguard"
+                - value: "Queen's Hand"
+                  date: "FROM 300"
             house: "Selmy"
-        notes: "Lord Commander of Daenerys's Queensguard. Training squires including Tumco Lho, Larraq, and the Red Lamb (ADWD Appendix)."
+        notes: "Lord Commander of Daenerys's Queensguard. Born during the reign of Aegon V (Aegon the Unlikely), knighted by him at a tourney in King's Landing. Given the white cloak of the Kingsguard by Jaehaerys II at age 23 after slaying Maelys the Monstrous (last Blackfyre Pretender) during the War of the Ninepenny Kings. Served as Kingsguard through the reigns of Aerys II, Robert, and Joffrey. Dismissed by Joffrey/Cersei; found Daenerys in Essos. Served as her Queensguard lord commander. Training young squires including Tumco Lho, Larraq, and the Red Lamb. After Daenerys disappears on Drogon, Barristan arrests Hizdahr zo Loraq, assumes the title Queen's Hand, and plans a military assault to break the Yunkai'i siege of Meereen. Allied with Skahaz mo Kandaq (the Shavepate) and Grey Worm. Recruits Archibald Yronwood and Gerris Drinkwater after Quentyn Martell's death. (ADWD 'The Queensguard,' 'The Discarded Knight,' 'The Queen's Hand')"

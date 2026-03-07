@@ -1,0 +1,33 @@
+assertions:
+    assertion-theon-delivered-stannis:
+        subject:
+            person: person-theon-greyjoy
+        property: location
+        value: "Stannis Baratheon's camp at the crofter's village"
+        citations:
+            - citation-adwd-the-sacrifice
+        confidence: high
+        status: proven
+        notes: "Theon Greyjoy is delivered to Stannis Baratheon's snowbound camp at the crofter's village. He was found near Winterfell by Mors 'Crowfood' Umber, and brought by Tycho Nestoris of the Iron Bank. He arrives emaciated — described as 'a skull with skin, his hair bone-white and filthy,' stinking, half his teeth gone or broken. He identifies himself by name: '\"Theon,\" he repeated. \"My name is Theon. You have to know your name.\"' This mirrors his earlier struggle to reclaim his identity from the Reek conditioning imposed by Ramsay Bolton. Asha Greyjoy, present as Stannis's prisoner, recognizes him."
+
+    assertion-asha-greyjoy-captive-stannis:
+        subject:
+            person: person-asha-greyjoy
+        property: location
+        value: "Captive of Stannis Baratheon, crofter's village camp"
+        citations:
+            - citation-adwd-the-sacrifice
+        confidence: high
+        status: proven
+        notes: "Asha Greyjoy is held as Stannis's prize captive, 'fettered at wrist and ankle,' guarded by Alysane Mormont ('the She-Bear'). Stannis intends to take her to Winterfell to display as proof of his power. Ser Clayton Suggs and the queen's men want to burn her as a blood sacrifice to R'hllor. Ser Justin Massey advocates for her survival. She witnesses the burning sacrifice of four of Peasebury's men. Tycho Nestoris knows who she is when he arrives: 'You are the Lady Asha of House Greyjoy, unless I am mistaken.'"
+
+    assertion-iron-bank-stannis-meeting:
+        subject:
+            person: person-stannis-baratheon
+        property: event
+        value: "Meeting with Tycho Nestoris of the Iron Bank of Braavos at the crofter's village"
+        citations:
+            - citation-adwd-the-sacrifice
+        confidence: high
+        status: proven
+        notes: "Tycho Nestoris of the Iron Bank of Braavos arrives at Stannis's snowbound camp with Tristifer Botley and five other freed Iron Islanders, having ransomed them from Sybelle Glover at Deepwood Motte as a way to secure an escort. He states it is 'most urgent' that he speak with Stannis at once. This implies the Iron Bank has business with Stannis — almost certainly regarding his previously established loan (referenced in earlier ADWD chapters) and Lannister debts."

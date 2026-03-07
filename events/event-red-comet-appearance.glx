@@ -2,6 +2,11 @@ events:
     event-red-comet-appearance:
         type: birth
         date: "299"
+        participants:
+            - person: person-cressen
+              role: witness
+            - person: person-stannis-baratheon
+              role: witness
         properties:
             description: "A great red comet appeared in the sky, visible even by day, its tail spread across the dawn like a red slash above the crags of Dragonstone. The comet was visible across all of Westeros and interpreted as an omen by every faction — Lannister red, dragonsbreath, blood, the red god's banner, and the flame the Drowned God brought from the sea. Maester Cressen called it a comet, a star with a tail. Its appearance coincided with the end of the ten-year summer as declared by the Citadel."
             also_known_as: "The Red Messenger, Dragonsbreath"

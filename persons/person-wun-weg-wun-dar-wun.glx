@@ -1,0 +1,11 @@
+persons:
+    person-wun-weg-wun-dar-wun:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Wun Weg Wun Dar Wun
+                value: Wun Weg Wun Dar Wun
+            alias:
+                - value: "Wun Wun"
+        notes: "A giant who passed through the Wall with the wildlings following the Battle of Castle Black. Settled at Castle Black under Jon Snow's command. Understands the Old Tongue. In the Jon XIII chapter, he kills Ser Patrek of King's Mountain — swinging the knight's corpse against the tower wall and tearing off his arms. He was himself wounded in the fight. The chaos of Wun Wun killing Ser Patrek immediately precedes Jon Snow's assassination by Bowen Marsh and allies. (ADWD 'Jon XIII')"

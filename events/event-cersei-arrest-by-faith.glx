@@ -12,5 +12,5 @@ events:
               role: witness
         properties:
             description: "Cersei Lannister was arrested by the Faith of the Seven at the Great Sept of Baelor when Osney Kettleblack, under torture, recanted his false confession against Margaery Tyrell and instead confessed that Cersei had sent him to murder the previous High Septon. Cersei was stripped naked by the septas and confined to a tower cell. She was charged with adultery, fornication, and conspiracy to murder. Margaery Tyrell was simultaneously held on charges of adultery and treason."
-        citations:
-            - citation-affc-cersei-vii
+            citations:
+                - citation-affc-cersei-vii

@@ -1,0 +1,33 @@
+relationships:
+    rel-sibling-lannister-jaime-cersei:
+        type: sibling
+        participants:
+            - person: person-jaime-lannister
+              role: sibling
+            - person: person-cersei-lannister
+              role: sibling
+        properties:
+            context: "Children of Tywin Lannister and Joanna Lannister. Full siblings; twins."
+        notes: "AGOT appendix: House Lannister. Jaime and Cersei are twins. They are also secret lovers — see rel-secret-lover-jaime-cersei. Jaime and Cersei's relationship is both a sibling bond and an incestuous affair that produced three children (Joffrey, Myrcella, Tommen)."
+
+    rel-sibling-lannister-jaime-tyrion:
+        type: sibling
+        participants:
+            - person: person-jaime-lannister
+              role: sibling
+            - person: person-tyrion-lannister
+              role: sibling
+        properties:
+            context: "Children of Tywin Lannister and Joanna Lannister. Full siblings."
+        notes: "AGOT appendix: House Lannister. Jaime was one of the few Lannisters who treated Tyrion with genuine affection. Tywin blamed Tyrion for Joanna's death in childbirth."
+
+    rel-sibling-lannister-cersei-tyrion:
+        type: sibling
+        participants:
+            - person: person-cersei-lannister
+              role: sibling
+            - person: person-tyrion-lannister
+              role: sibling
+        properties:
+            context: "Children of Tywin Lannister and Joanna Lannister. Full siblings."
+        notes: "AGOT appendix: House Lannister. Cersei harbored deep resentment toward Tyrion, blaming him for their mother's death and viewing him as a threat. Their relationship was openly hostile."

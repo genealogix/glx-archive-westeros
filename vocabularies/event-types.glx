@@ -264,7 +264,7 @@ event_types:
   siege:
     label: "Siege"
     description: "Military siege of a castle, city, or fortification"
-    category: "military"
+    category: "other"
 
   assassination:
     label: "Assassination"
@@ -294,12 +294,12 @@ event_types:
   conquest:
     label: "Conquest"
     description: "Military taking of a territory, kingdom, or domain"
-    category: "military"
+    category: "other"
 
   sack:
     label: "Sack"
     description: "Sacking of a city, castle, or settlement"
-    category: "military"
+    category: "other"
 
   shipwreck:
     label: "Shipwreck"
@@ -314,7 +314,7 @@ event_types:
   wildfire_event:
     label: "Wildfire Event"
     description: "Significant use of wildfire as a weapon or in destruction"
-    category: "military"
+    category: "other"
 
   guest_right_violation:
     label: "Guest Right Violation"
@@ -324,7 +324,7 @@ event_types:
   ranging:
     label: "Ranging"
     description: "Night's Watch ranging or expedition beyond the Wall"
-    category: "military"
+    category: "other"
 
   naming:
     label: "Naming"
@@ -384,12 +384,12 @@ event_types:
   war:
     label: "War"
     description: "Extended military conflict encompassing multiple battles and campaigns"
-    category: "military"
+    category: "other"
 
   raid:
     label: "Raid"
     description: "Quick military strike or pillaging action (Ironborn reaving, wildling raids)"
-    category: "military"
+    category: "other"
 
   resurrection:
     label: "Resurrection"
@@ -419,22 +419,22 @@ event_types:
   surrender:
     label: "Surrender"
     description: "Formal surrender or capitulation in a military conflict"
-    category: "military"
+    category: "other"
 
   ambush:
     label: "Ambush"
     description: "Surprise military attack or ambuscade"
-    category: "military"
+    category: "other"
 
   naval_battle:
     label: "Naval Battle"
     description: "Military engagement at sea"
-    category: "military"
+    category: "other"
 
   mutiny:
     label: "Mutiny"
     description: "Revolt against a commander or leader by subordinates"
-    category: "military"
+    category: "other"
 
   maester_forging:
     label: "Maester Chain Forging"

@@ -1,0 +1,14 @@
+events:
+    event-dragons-freed-meereen:
+        type: battle
+        date: "300"
+        place: place-meereen
+        participants:
+            - person: person-quentyn-martell
+              role: instigator
+            - person: person-gerris-drinkwater
+              role: participant
+            - person: person-archibald-yronwood
+              role: participant
+        properties:
+            description: "Rhaegal and Viserion break free from the dragon pit beneath the Great Pyramid of Meereen during Quentyn Martell's botched theft attempt. Rhaegal makes his lair atop the pyramid of Hazkar (setting it ablaze); Viserion occupies the pyramid of Yherizan. Both dragons roam free over the city, terrorizing the population. At least 29+ people are killed by the escaped dragons and the subsequent chaos."

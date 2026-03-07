@@ -1,0 +1,23 @@
+assertions:
+    assertion-rhaegal-viserion-freed:
+        subject:
+            event: event-dragons-freed-meereen
+        property: description
+        value: "Rhaegal and Viserion escaped from the dragon pit during Quentyn Martell's theft attempt"
+        citations:
+            - citation-adwd-the-dragontamer
+            - citation-adwd-the-queens-hand
+        confidence: high
+        status: proven
+        notes: "Rhaegal's collar showed three feet of broken chain. Viserion had excavated a nest in the pyramid wall. During Quentyn's attempt, a Windblown crossbowman fired a bolt into Viserion's neck; enraged, the dragon killed the man and broke for the door. Quentyn struck Viserion with the whip without effect. Rhaegal then attacked Quentyn from behind. Both dragons escaped the pyramid into the city. Rhaegal made his lair on the pyramid of Hazkar (setting it ablaze); Viserion occupied Yherizan. Barristan's account: 'We have herded a thousand sheep into the Daznak's Pit... Both dragons seemed to have a taste for mutton, returning to Daznak's whenever they grew hungry.'"
+
+    assertion-rhaegal-kills-quentyn:
+        subject:
+            event: event-dragontamer-quentyn-burned
+        property: perpetrator
+        value: "Rhaegal (the green dragon)"
+        citations:
+            - citation-adwd-the-dragontamer
+        confidence: high
+        status: proven
+        notes: "Quentyn had been focusing on Viserion with his whip when Rhaegal attacked from behind: 'He heard the sound of leathern wings and the air was full of ash and cinders and a monstrous roar... Rhaegal, he reminded himself, the green one is Rhaegal. When he raised his whip, he saw that the lash was burning. His hand as well. All of him, all of him was burning.' Rhaegal is the green dragon, Viserion the white/cream dragon."

@@ -1,0 +1,35 @@
+assertions:
+    assertion-barristan-selmy-queens-hand:
+        subject:
+            person: person-barristan-selmy
+        property: title
+        value: "Queen's Hand"
+        citations:
+            - citation-adwd-the-queens-hand
+            - citation-adwd-the-queensguard
+        confidence: high
+        status: proven
+        notes: "Barristan Selmy assumes the title of Queen's Hand in Daenerys's absence and Hizdahr zo Loraq's imprisonment. 'I am no Hand, a part of him wanted to cry out. I am only a simple knight, the queen's protector. I never wanted this. But with the queen gone and the king in chains, someone had to rule.' He holds this position while planning a military assault on the Yunkai'i besieging Meereen."
+
+    assertion-barristan-selmy-conspires-against-hizdahr:
+        subject:
+            person: person-barristan-selmy
+        property: action
+        value: "Arrested or imprisoned Hizdahr zo Loraq on suspicion of poisoning Daenerys at the fighting pits"
+        citations:
+            - citation-adwd-the-queens-hand
+            - citation-adwd-the-queensguard
+        confidence: high
+        status: proven
+        notes: "By 'The Queen's Hand,' Hizdahr zo Loraq is described as being 'in chains.' Skahaz mo Kandaq presented evidence that Hizdahr's confectioner (a catspaw of the Sons of the Harpy) poisoned the honeyed locusts at Daznak's Pit. Barristan had demanded proof before acting against Hizdahr. The Shavepate implicated Hizdahr as the Harpy or the Harpy's son. Barristan planned to question the confectioner himself before committing. By the time of The Queen's Hand, Hizdahr is imprisoned."
+
+    assertion-barristan-selmy-plans-battle:
+        subject:
+            person: person-barristan-selmy
+        property: action
+        value: "Planned military assault on Yunkai'i siege forces"
+        citations:
+            - citation-adwd-the-queens-hand
+        confidence: high
+        status: proven
+        notes: "Barristan prepares a beacon fire atop the Great Pyramid as a signal for a simultaneous attack on the Yunkai'i besieging Meereen. He coordinates with Grey Worm (Unsullied), Marselen (Mother's Men), Symon Stripeback (Free Brothers), Tal Toraq (Stalwart Shields), Rommo (Dothraki), the Stormcrows, and pit fighters. His plan is to break the siege and kill the slave lords before the Volantene fleet arrives. Direct quote: '\"Fire and blood,\" said Barristan Selmy, softly, softly.' He recruits Archibald Yronwood and Gerris Drinkwater as additional swords."

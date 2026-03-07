@@ -6,7 +6,12 @@ events:
         participants:
             - person: person-jon-snow
               role: victim
+            - person: person-bowen-marsh
+              role: perpetrator
+            - person: person-wick-whittlestick
+              role: perpetrator
         properties:
-            description: "The assassination of Jon Snow — Lord Commander Jon Snow was attacked by a group of his own Night's Watch brothers in a mutiny. They stabbed him repeatedly, each whispering 'For the Watch.' Jon had announced his intention to march on Winterfell against Ramsay Bolton, which his brothers considered a violation of the Watch's vows of neutrality."
+            description: "The assassination of Jon Snow by his Night's Watch brothers. Wick Whittlestick slashes Jon's throat with a knife. Jon grabs his wrist and disarms him. Bowen Marsh then stabs Jon in the belly, leaving the dagger buried in the wound, weeping as he does so. Two more blows follow — the last between the shoulder blades. Jon falls face-first into the snow. Each attacker says 'For the Watch.' Jon's last whispered word is 'Ghost.' His fate is left ambiguous at the chapter's end."
             also_known_as: "For the Watch"
-        notes: "The final line of ADWD. Jon's fate is left ambiguous. He had received a threatening letter from Ramsay Bolton (the 'Pink Letter') and declared he would ride south. His assassination mirrors Julius Caesar. Melisandre is at Castle Black, raising the possibility of resurrection."
+            context: "Triggered by Jon's Shieldhall announcement that he would march south to Winterfell to confront Ramsay Bolton after receiving the 'Pink Letter' — a threatening letter claiming Stannis was dead and demanding the return of 'Arya Stark' (Jeyne Poole), Melisandre, Selyse, Shireen, and Mance Rayder. Bowen Marsh, Othell Yarwyck, and their allies had been opposed to Jon's policy of settling wildlings south of the Wall and considered his march south a violation of the Night's Watch vow of non-involvement in the wars of the realm."
+        notes: "The final Jon chapter of ADWD. Jon's fate is left ambiguous. Melisandre is at Castle Black, raising the possibility of resurrection. The event occurs immediately after the chaos caused by Wun Weg Wun Dar Wun killing Ser Patrek of King's Mountain."

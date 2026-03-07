@@ -1,0 +1,11 @@
+relationships:
+    rel-pc-robert-baratheon-i-joffrey-baratheon:
+        type: parent_child
+        participants:
+            - person: person-robert-baratheon-i
+              role: parent
+            - person: person-joffrey-baratheon
+              role: child
+        properties:
+            context: "Robert Baratheon is the officially recorded father of Joffrey Baratheon. This is the legal and public claim. Ned Stark's investigation revealed Joffrey's true parentage is Jaime Lannister, and Stannis Baratheon made the incest accusation public. See rel-pc-jaime-lannister-joffrey-baratheon for the actual biological parentage."
+        notes: "Status: disproven. Robert is not Joffrey's biological father. The true father is Jaime Lannister per Ned Stark's investigation (AGOT) and Stannis's public letter. This relationship represents only the official recorded claim."

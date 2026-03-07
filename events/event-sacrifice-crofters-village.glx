@@ -1,0 +1,10 @@
+events:
+    event-sacrifice-crofters-village:
+        type: execution
+        date: "300"
+        participants:
+            - person: person-stannis-baratheon
+              role: authority
+        properties:
+            description: "Four men-at-arms from Lord Peasebury's retinue are burned alive at the stake by the queen's men (Ser Godry Farring and Ser Clayton Suggs) as a sacrifice to R'hllor, at a crofter's village between two frozen lakes near Winterfell, during Stannis's snowbound march. The four had been caught eating a dead comrade — one of whom was killed by Suggs before being chained to the stake after he taunted the queen's men. The burnings are intended to halt the winter storm at R'hllor's behest. Asha Greyjoy witnesses the burning as a captive. Stannis watches in silence, then retreats to his watchtower."
+            context: "Stannis's host had been stalled at the crofter's village for 19 days, three days' march from Winterfell, snowbound in an unrelenting blizzard. The army had 64 horses remaining from 800, was out of fish from the frozen lakes, and men had been reduced to eating horse meat and their own dead."

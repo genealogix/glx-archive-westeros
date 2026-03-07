@@ -1,0 +1,33 @@
+relationships:
+    rel-sibling-stark-eddard-lyanna:
+        type: sibling
+        participants:
+            - person: person-eddard-stark
+              role: sibling
+            - person: person-lyanna-stark
+              role: sibling
+        properties:
+            context: "Children of Rickard Stark and his wife. Full siblings."
+        notes: "AGOT appendix: House Stark. Lyanna was the younger sister Ned loved deeply; her death and the secrets surrounding it haunted him for the rest of his life."
+
+    rel-sibling-stark-eddard-benjen:
+        type: sibling
+        participants:
+            - person: person-eddard-stark
+              role: sibling
+            - person: person-benjen-stark
+              role: sibling
+        properties:
+            context: "Children of Rickard Stark and his wife. Full siblings."
+        notes: "AGOT appendix: House Stark. Benjen became First Ranger of the Night's Watch. Eddard and Benjen were close; Eddard sent Jon to the Wall partly at Benjen's invitation."
+
+    rel-sibling-stark-lyanna-benjen:
+        type: sibling
+        participants:
+            - person: person-lyanna-stark
+              role: sibling
+            - person: person-benjen-stark
+              role: sibling
+        properties:
+            context: "Children of Rickard Stark and his wife. Full siblings."
+        notes: "AGOT appendix: House Stark."
