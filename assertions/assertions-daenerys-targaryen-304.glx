@@ -6,9 +6,10 @@ assertions:
         value: Daenerys Targaryen
         citations:
             - citation-agot-appendix
+            - citation-acok-appendix
         confidence: high
         status: accepted
-        notes: "Verified against AGOT Appendix, House Targaryen section. This is Daenerys Stormborn, daughter of Aerys II. Source text: PRINCESS DAENERYS, called Daenerys Stormborn, a maid of thirteen years."
+        notes: "Verified against AGOT and ACOK Appendices. AGOT: 'PRINCESS DAENERYS, called Daenerys Stormborn, a maid of thirteen years.' ACOK: 'DAENERYS TARGARYEN, called Daenerys Stormborn, the Unburnt, Mother of Dragons, Khaleesi of the Dothraki, and First of Her Name.' Gained new titles after hatching dragons."
     assertion-daenerys-targaryen-304-gender:
         subject:
             person: person-daenerys-targaryen-304

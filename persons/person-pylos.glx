@@ -1,0 +1,12 @@
+persons:
+    person-pylos:
+        properties:
+            gender: male
+            name:
+                value: Pylos
+                fields:
+                    given: Pylos
+                    prefix: Maester
+            title:
+                - value: "Maester of Dragonstone"
+        notes: "Maester Pylos, young successor to Maester Cressen at Dragonstone. First appears in ACOK appendix."

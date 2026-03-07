@@ -1,0 +1,11 @@
+persons:
+    person-hodor:
+        properties:
+            gender: male
+            name:
+                value: Hodor
+                fields:
+                    given: Hodor
+            alias:
+                - value: "Walder"
+        notes: "Great-grandson of Old Nan. A simple lad, seven feet tall. Companion and protector of Bran Stark beyond the Wall in the Haunted Forest (ADWD Appendix)."

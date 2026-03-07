@@ -1,0 +1,19 @@
+persons:
+    person-davos-seaworth:
+        properties:
+            gender: male
+            name:
+                value: Davos Seaworth
+                fields:
+                    given: Davos
+                    prefix: Ser
+                    surname: Seaworth
+            alias:
+                - value: "the Onion Knight"
+                - value: "Shorthand"
+            title:
+                - value: "Lord of the Rainwood"
+                - value: "Admiral of the Narrow Sea"
+                - value: "Hand of the King"
+            house: Seaworth
+        notes: "Once a smuggler, knighted by Stannis Baratheon. Hand of King Stannis. His wife is Marya, a carpenter's daughter. Sons Dale, Allard, Matthos, and Maric were killed at the Battle of the Blackwater. Son Devan is squire to King Stannis. Sons Stannis and Steffon survive (ADWD Appendix)."

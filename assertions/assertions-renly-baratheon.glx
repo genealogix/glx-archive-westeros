@@ -6,9 +6,10 @@ assertions:
         value: Renly Baratheon
         citations:
             - citation-agot-appendix
+            - citation-acok-appendix
         confidence: high
         status: accepted
-        notes: "Verified against AGOT Appendix, House Baratheon section. ACOK appendix adds: thirdborn son of Lord Steffon Baratheon and Lady Cassana of House Estermont. Source text: RENLY BA RA THEON, Lord of Storm's End"
+        notes: "Verified against AGOT and ACOK Appendices. ACOK lists him as 'RENLY BARATHEON, the First of His Name, the younger of King Robert's brothers, formerly Lord of Storm's End, thirdborn son of Lord Steffon Baratheon and Lady Cassana of House Estermont.' Now styling himself King."
     assertion-renly-baratheon-gender:
         subject:
             person: person-renly-baratheon
@@ -19,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Baratheon section. Listed as Lord."
+    assertion-renly-baratheon-title:
+        subject:
+            person: person-renly-baratheon
+        property: title
+        value: "Lord of Storm's End, Master of Laws"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: RENLY BA RA THEON, Lord of Storm's End; also listed as master of laws on the small council."
+    assertion-renly-baratheon-house:
+        subject:
+            person: person-renly-baratheon
+        property: house
+        value: "Baratheon"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

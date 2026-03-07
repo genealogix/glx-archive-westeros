@@ -1,0 +1,16 @@
+persons:
+    person-janos-slynt:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Janos
+                    surname: Slynt
+                value: Janos Slynt
+            title:
+                - value: "Commander of the City Watch of King's Landing"
+                  date: "TO 299"
+                - value: "Lord of Harrenhal"
+                  date: "FROM 298 TO 299"
+            house: Slynt
+        notes: "Former commander of the City Watch of King's Landing (the gold cloaks). ACOK appendix lists him both as 'LORD JANOS SLYNT, Commander of the City Watch' on the small council and 'JANOS SLYNT, Lord of Harrenhal, Lord Commander' in the City Watch section. Briefly Lord of Harrenhal before being sent to the Wall by Tyrion."

@@ -1,0 +1,9 @@
+persons:
+    person-xaro-xhoan-daxos:
+        properties:
+            gender: male
+            name:
+                value: Xaro Xhoan Daxos
+                fields:
+                    given: Xaro Xhoan Daxos
+        notes: "A merchant prince of Qarth. One of the three seekers who found Daenerys. First appears in ACOK appendix."

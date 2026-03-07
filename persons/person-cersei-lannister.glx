@@ -8,3 +8,15 @@ persons:
                     surname: Lannister
                 value: Cersei Lannister
             rin: MH:I165
+            title:
+                - value: "Queen"
+                - value: "Queen Dowager"
+                  date: "FROM 298"
+                - value: "Queen Regent"
+                  date: "FROM 299"
+                - value: "Protector of the Realm"
+                  date: "FROM 299"
+                - value: "Lady of Casterly Rock"
+                  date: "FROM 300"
+            house: "Lannister"
+        notes: "Cersei Lannister, the First of Her Name. Twin to Jaime, widow of King Robert I Baratheon. Queen Dowager, Protector of the Realm, Lady of Casterly Rock, and Queen Regent per AFFC appendix. A prisoner at the Great Sept of Baelor as of ADWD."

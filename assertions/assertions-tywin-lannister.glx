@@ -19,3 +19,34 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Lannister section. Listed as lord and patriarch of House Lannister."
+    assertion-tywin-lannister-title-hand:
+        subject:
+            person: person-tywin-lannister
+        property: title
+        value: "Hand of the King"
+        citations:
+            - citation-acok-appendix
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "First appears in ACOK appendix: 'TYWIN LANNISTER, Lord of Casterly Rock, Warden of the West, Shield of Lannisport, and Hand of the King, commanding the Lannister host at Harrenhal.' Continues in ASOS."
+    assertion-tywin-lannister-death:
+        subject:
+            person: person-tywin-lannister
+        property: died_on
+        value: "300"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Tywin Lannister was killed by his son Tyrion with a crossbow while on the privy. Occurs at the very end of ASOS. Confirmed dead in AFFC appendix."
+    assertion-tywin-lannister-cause-of-death:
+        subject:
+            person: person-tywin-lannister
+        property: cause_of_death
+        value: "Killed by crossbow bolt, shot by his son Tyrion"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Tyrion shot Tywin with a crossbow while Tywin was on the privy. Tyrion had been freed from his cell by Jaime Lannister and Varys."

@@ -19,3 +19,54 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Baratheon section. Listed as Prince."
+    assertion-joffrey-baratheon-title:
+        subject:
+            person: person-joffrey-baratheon
+        property: title
+        value: "Prince"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: PRINCE JOFFREY, heir to the Iron Throne, twelve"
+    assertion-joffrey-baratheon-house:
+        subject:
+            person: person-joffrey-baratheon
+        property: house
+        value: "Baratheon"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."
+    assertion-joffrey-baratheon-title-king:
+        subject:
+            person: person-joffrey-baratheon
+        property: title
+        value: "King of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms"
+        citations:
+            - citation-acok-appendix
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "First appears in ACOK appendix, The King on the Iron Throne section. Source text: 'JOFFREY BARATHEON, the First of His Name, a boy of thirteen years, the eldest son of King Robert I Baratheon and Queen Cersei of House Lannister.' Continues in ASOS."
+    assertion-joffrey-baratheon-death:
+        subject:
+            person: person-joffrey-baratheon
+        property: died_on
+        value: "300"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Joffrey died at his wedding feast to Margaery Tyrell, poisoned by the Strangler. Occurs during the events of ASOS. Confirmed in AFFC appendix as dead."
+    assertion-joffrey-baratheon-cause-of-death:
+        subject:
+            person: person-joffrey-baratheon
+        property: cause_of_death
+        value: "Poisoned at his wedding feast (the Strangler)"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Joffrey was poisoned with the Strangler at his wedding feast, a plot orchestrated by Olenna Tyrell and Petyr Baelish. Known as the Purple Wedding."

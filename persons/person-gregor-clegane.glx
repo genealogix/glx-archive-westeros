@@ -1,0 +1,15 @@
+persons:
+    person-gregor-clegane:
+        properties:
+            gender: male
+            name:
+                value: Ser Gregor Clegane
+                fields:
+                    given: Gregor
+                    prefix: Ser
+                    surname: Clegane
+            alias:
+                - value: "the Mountain That Rides"
+                - value: "the Mountain"
+            house: Clegane
+        notes: "Called the Mountain That Rides. A bannerman and sworn sword of Tywin Lannister. Listed in ACOK appendix under House Lannister. Soldiers in his service include Polliver, Chiswyck, Raff the Sweetling, Dunsen, and the Tickler."

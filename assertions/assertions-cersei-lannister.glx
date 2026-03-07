@@ -6,9 +6,10 @@ assertions:
         value: Cersei Lannister
         citations:
             - citation-agot-appendix
+            - citation-acok-appendix
         confidence: high
         status: accepted
-        notes: "Verified against AGOT Appendix, House Lannister section. Also listed in House Baratheon section as wife of King Robert. Source text: QUEEN CERSEI, wife of King Robert I Baratheon, a twin to Jaime"
+        notes: "Verified against AGOT and ACOK Appendices. AGOT: 'QUEEN CERSEI, wife of King Robert I Baratheon.' ACOK: 'QUEEN CERSEI, Queen Regent and Protector of the Realm.' Now widow and regent for Joffrey."
     assertion-cersei-lannister-gender:
         subject:
             person: person-cersei-lannister
@@ -19,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Lannister section. Listed as Queen."
+    assertion-cersei-lannister-title:
+        subject:
+            person: person-cersei-lannister
+        property: title
+        value: "Queen"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: his wife, QUEEN CERSEI, of House Lannister"
+    assertion-cersei-lannister-house:
+        subject:
+            person: person-cersei-lannister
+        property: house
+        value: "Lannister"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon and Lannister sections."

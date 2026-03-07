@@ -1,0 +1,16 @@
+persons:
+    person-brienne-tarth:
+        properties:
+            gender: female
+            name:
+                value: Brienne of Tarth
+                fields:
+                    given: Brienne
+            alias:
+                - value: "Brienne the Beauty"
+                - value: "The Maid of Tarth"
+            title:
+                - value: "The Blue of the Rainbow Guard"
+                  date: "FROM 299"
+            house: "Tarth"
+        notes: "Brienne, the Maid of Tarth, also called Brienne the Beauty. Daughter of Lord Selwyn the Evenstar, Lord of Tarth. A maiden on a quest per the AFFC appendix. Former member of Renly Baratheon's Rainbow Guard."

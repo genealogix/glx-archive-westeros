@@ -7,4 +7,13 @@ persons:
                     given: Mace
                     surname: Tyrell
                 value: Mace Tyrell
+            title:
+                - value: "Lord of Highgarden"
+                - value: "Warden of the South"
+                - value: "Defender of the Marches"
+                - value: "High Marshal of the Reach"
+                - value: "Hand of the King"
+                  date: "FROM 299"
+            house: Tyrell
             rin: MH:I375
+        notes: "Lord of Highgarden. Declared for King Renly in ACOK and served as his Hand of the King."

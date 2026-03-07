@@ -1,0 +1,13 @@
+persons:
+    person-hallyne:
+        properties:
+            gender: male
+            name:
+                value: Hallyne the Pyromancer
+                fields:
+                    given: Hallyne
+            alias:
+                - value: "the Pyromancer"
+            title:
+                - value: "Wisdom of the Guild of Alchemists"
+        notes: "A Wisdom of the Guild of Alchemists. First appears in ACOK appendix."

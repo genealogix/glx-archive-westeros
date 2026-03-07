@@ -8,3 +8,9 @@ persons:
                     surname: Lannister
                 value: Lancel Lannister
             rin: MH:I172
+            title:
+                - value: "Ser"
+                - value: "Lord of Darry"
+                  date: "FROM 300"
+            house: "Lannister"
+        notes: "Son of Ser Kevan Lannister. Formerly squire to King Robert, recently knighted after Robert's death (ACOK appendix). Cersei's lover. Newly raised to Lord of Darry per the AFFC appendix."

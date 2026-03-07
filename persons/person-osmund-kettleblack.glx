@@ -1,0 +1,11 @@
+persons:
+    person-osmund-kettleblack:
+        properties:
+            gender: male
+            name:
+                value: Ser Osmund Kettleblack
+                fields:
+                    given: Osmund
+                    prefix: Ser
+                    surname: Kettleblack
+        notes: "A hedge knight of unsavory reputation. His brothers are Osfryd and Osney Kettleblack. First appears in ACOK appendix."

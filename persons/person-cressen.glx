@@ -1,0 +1,12 @@
+persons:
+    person-cressen:
+        properties:
+            gender: male
+            name:
+                value: Cressen
+                fields:
+                    given: Cressen
+                    prefix: Maester
+            title:
+                - value: "Maester of Dragonstone"
+        notes: "Maester Cressen, healer and tutor at Dragonstone. An old man. Served Stannis Baratheon. First appears in ACOK appendix."

@@ -1,0 +1,12 @@
+persons:
+    person-balon-swann:
+        properties:
+            gender: male
+            name:
+                value: Ser Balon Swann
+                fields:
+                    given: Balon
+                    prefix: Ser
+                    surname: Swann
+            house: Swann
+        notes: "Second son of Lord Gulian Swann of Stonehelm. Listed in ACOK appendix under court retainers of King Joffrey. Later joins the Kingsguard."

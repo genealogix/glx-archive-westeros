@@ -1,0 +1,11 @@
+persons:
+    person-podrick-payne:
+        properties:
+            gender: male
+            name:
+                value: Podrick Payne
+                fields:
+                    given: Podrick
+                    surname: Payne
+            house: Payne
+        notes: "Squire to Tyrion Lannister. First appears in ACOK appendix."

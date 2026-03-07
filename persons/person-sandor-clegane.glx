@@ -1,0 +1,13 @@
+persons:
+    person-sandor-clegane:
+        properties:
+            gender: male
+            name:
+                value: Sandor Clegane
+                fields:
+                    given: Sandor
+                    surname: Clegane
+            alias:
+                - value: "the Hound"
+            house: Clegane
+        notes: "Called the Hound. Listed among Joffrey's Kingsguard in ACOK appendix, though not a knight. Not a Ser — refuses to take knightly vows. First appears in AGOT but first in appendix in ACOK."

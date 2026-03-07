@@ -1,0 +1,9 @@
+persons:
+    person-patchface:
+        properties:
+            gender: male
+            name:
+                value: Patchface
+                fields:
+                    given: Patchface
+        notes: "A lackwit fool at Dragonstone in the court of Stannis Baratheon. First appears in ACOK appendix."

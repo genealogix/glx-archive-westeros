@@ -1,0 +1,11 @@
+persons:
+    person-bronn:
+        properties:
+            gender: male
+            name:
+                value: Bronn
+                fields:
+                    given: Bronn
+            alias:
+                - value: "black of hair and heart"
+        notes: "A sellsword in the service of Tyrion Lannister. One of Tyrion's guards and sworn swords. First appears in AGOT but first listed in the appendix in ACOK."

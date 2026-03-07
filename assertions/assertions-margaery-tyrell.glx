@@ -6,10 +6,11 @@ assertions:
         value: Margaery Tyrell
         citations:
             - citation-agot-appendix
+            - citation-acok-appendix
             - citation-affc-appendix
         confidence: high
         status: accepted
-        notes: "Verified against AGOT and AFFC Appendix, House Tyrell section. In AGOT listed as 'a maid of fourteen years'. In AFFC 'twice wed and twice widowed'. Source text: MARGAERY, their daughter, twice wed and twice widowed"
+        notes: "Verified against AGOT, ACOK, and AFFC Appendices. In AGOT 'a maid of fourteen years'. In ACOK 'his new bride, LADY MARGAERY of House Tyrell, a maid of fifteen years' (Renly's section); also 'recently wed to Renly Baratheon' (Tyrell section). In AFFC 'twice wed and twice widowed'."
     assertion-margaery-tyrell-gender:
         subject:
             person: person-margaery-tyrell

@@ -1,0 +1,132 @@
+assertions:
+    assertion-sandor-clegane-name-acok:
+        subject:
+            person: person-sandor-clegane
+        property: name
+        value: "Sandor Clegane"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section (Kingsguard). Source text: 'SANDOR CLEGANE, called the HOUND.'"
+
+    assertion-sandor-clegane-alias-acok:
+        subject:
+            person: person-sandor-clegane
+        property: alias
+        value: "the Hound"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, Kingsguard listing."
+
+    assertion-gregor-clegane-name-acok:
+        subject:
+            person: person-gregor-clegane
+        property: name
+        value: "Ser Gregor Clegane"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, House Lannister section. Source text: 'SER GREGOR CLEGANE, the Mountain That Rides.'"
+
+    assertion-amory-lorch-name-acok:
+        subject:
+            person: person-amory-lorch
+        property: name
+        value: "Ser Amory Lorch"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, House Lannister section. Source text: 'SER AMORY LORCH, a captain of foragers.'"
+
+    assertion-vargo-hoat-name-acok:
+        subject:
+            person: person-vargo-hoat
+        property: name
+        value: "Vargo Hoat"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, House Lannister section. Source text: 'VARGO HOAT, of the Free City of Qohor, captain of the sellsword company called the Brave Companions.'"
+
+    assertion-lancel-lannister-knighted-acok:
+        subject:
+            person: person-lancel-lannister
+        property: title
+        value: "Ser"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'SER LANCEL LANNISTER, formerly squire to King Robert, recently knighted.' Knighted after Robert's death."
+
+    assertion-janos-slynt-lord-harrenhal-acok:
+        subject:
+            person: person-janos-slynt
+        property: title
+        value: "Lord of Harrenhal"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix. Listed as 'JANOS SLYNT, Lord of Harrenhal, Lord Commander' in the City Watch section and 'LORD JANOS SLYNT, Commander of the City Watch' on the small council."
+
+    assertion-loras-tyrell-rainbow-guard-acok:
+        subject:
+            person: person-loras-tyrell
+        property: title
+        value: "Lord Commander of the Rainbow Guard"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in Highgarden section. Source text: 'SER LORAS TYRELL, the Knight of Flowers, Lord Commander.' Also in House Tyrell section."
+
+    assertion-brienne-tarth-rainbow-guard-acok:
+        subject:
+            person: person-brienne-tarth
+        property: title
+        value: "The Blue of the Rainbow Guard"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in Highgarden section (Rainbow Guard). Source text: 'BRIENNE OF TARTH, the Blue, also called BRIENNE THE BEAUTY, daughter to Lord Selwyn the Evenstar.'"
+
+    assertion-patchface-name-acok:
+        subject:
+            person: person-patchface
+        property: name
+        value: "Patchface"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'PATCHFACE, a lackwit fool.'"
+
+    assertion-salladhor-saan-name-acok:
+        subject:
+            person: person-salladhor-saan
+        property: name
+        value: "Salladhor Saan"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'SALLADHOR SAAN, of the Free City of Lys, styled Prince of the Narrow Sea.'"
+
+    assertion-cortnay-penrose-name-acok:
+        subject:
+            person: person-cortnay-penrose
+        property: name
+        value: "Ser Cortnay Penrose"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in Highgarden section. Source text: 'SER CORTNAY PENROSE, castellan of Storm's End.'"

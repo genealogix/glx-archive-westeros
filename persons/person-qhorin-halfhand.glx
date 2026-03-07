@@ -1,0 +1,13 @@
+persons:
+    person-qhorin-halfhand:
+        properties:
+            gender: male
+            name:
+                value: Qhorin Halfhand
+                fields:
+                    given: Qhorin
+            alias:
+                - value: "Halfhand"
+            title:
+                - value: "Senior Ranger of the Shadow Tower"
+        notes: "Called Halfhand. A senior ranger of the Night's Watch at the Shadow Tower. First appears in ACOK appendix."

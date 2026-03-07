@@ -6,6 +6,7 @@ assertions:
         value: Robb Stark
         citations:
             - citation-agot-appendix
+            - citation-acok-appendix
             - citation-adwd-appendix
         confidence: high
         status: accepted
@@ -20,3 +21,44 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Stark section. Listed as 'the heir' under Eddard's children."
+    assertion-robb-stark-title-king-north:
+        subject:
+            person: person-robb-stark
+        property: title
+        value: "King in the North"
+        citations:
+            - citation-acok-appendix
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "First appears in ACOK appendix: 'ROBB STARK, Lord of Winterfell and King in the North.' Continues in ASOS appendix: 'ROBB STARK, Lord of Winterfell, King in the North, and King of the Trident.'"
+    assertion-robb-stark-title-king-trident:
+        subject:
+            person: person-robb-stark
+        property: title
+        value: "King of the Trident"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "ASOS appendix, King in the North section. Source text: 'ROBB STARK, Lord of Winterfell, King in the North, and King of the Trident'"
+    assertion-robb-stark-death:
+        subject:
+            person: person-robb-stark
+        property: died_on
+        value: "299"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Robb Stark was murdered at the Red Wedding at the Twins. While the ASOS appendix reflects the start-of-book state (Robb alive), his death occurs during the events of ASOS. Confirmed in AFFC/ADWD appendix as '{ROBB STARK}, murdered at the Red Wedding'."
+    assertion-robb-stark-marriage-jeyne:
+        subject:
+            relationship: rel-marriage-robb-stark-and-jeyne-westerling
+        property: participants
+        value: "person-robb-stark, person-jeyne-westerling"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Robb married Jeyne Westerling, breaking his betrothal to House Frey. ASOS Lannister appendix lists Jeyne as 'a maid of sixteen years' among the Westerlings. The marriage is confirmed in ASOS text."

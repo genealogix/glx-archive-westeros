@@ -1,0 +1,11 @@
+persons:
+    person-jojen-reed:
+        properties:
+            gender: male
+            name:
+                value: Jojen Reed
+                fields:
+                    given: Jojen
+                    surname: Reed
+            house: Reed
+        notes: "Son of Howland Reed of Greywater Watch. A boy of thirteen. First appears in ACOK appendix."

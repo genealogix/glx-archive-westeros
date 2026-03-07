@@ -8,3 +8,12 @@ persons:
                     surname: Baratheon
                 value: Joffrey Baratheon
             rin: MH:I168
+            title:
+                - value: "Prince"
+                  date: "TO 298"
+                - value: "King of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms"
+                  date: "FROM 298"
+            house: "Baratheon"
+            died_on: "300"
+            cause_of_death: "Poisoned at his own wedding feast"
+        notes: "Joffrey Baratheon, the First of His Name. Twelve years old at the time of AGOT, thirteen in ASOS. Eldest son of King Robert I Baratheon and Queen Cersei of House Lannister. ASOS appendix lists him as King on the Iron Throne, a boy of thirteen. Died during his wedding feast to Margaery Tyrell (the Purple Wedding), poisoned by the Strangler."

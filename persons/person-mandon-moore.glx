@@ -1,0 +1,13 @@
+persons:
+    person-mandon-moore:
+        properties:
+            gender: male
+            name:
+                value: Ser Mandon Moore
+                fields:
+                    given: Mandon
+                    prefix: Ser
+                    surname: Moore
+            title:
+                - value: "Sworn Brother of the Kingsguard"
+        notes: "A member of Joffrey's Kingsguard. Listed in ACOK appendix. Attempted to kill Tyrion Lannister during the Battle of the Blackwater."

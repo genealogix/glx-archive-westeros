@@ -1,0 +1,10 @@
+persons:
+    person-jaqen-hghar:
+        properties:
+            gender: male
+            name:
+                value: "Jaqen H'ghar"
+                fields:
+                    given: Jaqen
+                    surname: "H'ghar"
+        notes: "A criminal bound for the Wall in Yoren's party. First appears in ACOK appendix."

@@ -6,6 +6,7 @@ assertions:
         value: Stannis Baratheon
         citations:
             - citation-agot-appendix
+            - citation-acok-appendix
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Baratheon section. ACOK appendix adds: secondborn son of Lord Steffon Baratheon and Lady Cassana of House Estermont. Source text: STA NNIS BA RA THEON, Lord of Dragonstone"
@@ -19,3 +20,23 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Baratheon section. Listed as Lord."
+    assertion-stannis-baratheon-title:
+        subject:
+            person: person-stannis-baratheon
+        property: title
+        value: "Lord of Dragonstone, Master of Ships"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section. Source text: STA NNIS BA RA THEON, Lord of Dragonstone; also listed as master of ships on the small council."
+    assertion-stannis-baratheon-house:
+        subject:
+            person: person-stannis-baratheon
+        property: house
+        value: "Baratheon"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: accepted
+        notes: "From AGOT Appendix, House Baratheon section."

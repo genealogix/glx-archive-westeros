@@ -8,3 +8,11 @@ persons:
                     surname: Lannister
                 value: Tyrion Lannister
             rin: MH:I166
+            alias:
+                - value: "The Imp"
+                - value: "Halfman"
+            title:
+                - value: "Acting Hand of the King"
+                  date: "FROM 299 TO 299"
+            house: "Lannister"
+        notes: "Called THE IMP and HALFMAN. Dwarf son of Tywin Lannister. ASOS appendix lists him as 'wounded and scarred on the Blackwater'. Married Sansa Stark during ASOS. Killed his father Tywin with a crossbow. Later a fugitive in exile across the narrow sea as of ADWD."

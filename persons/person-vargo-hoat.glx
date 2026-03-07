@@ -1,0 +1,12 @@
+persons:
+    person-vargo-hoat:
+        properties:
+            gender: male
+            name:
+                value: Vargo Hoat
+                fields:
+                    given: Vargo
+                    surname: Hoat
+            title:
+                - value: "Captain of the Brave Companions"
+        notes: "Of the Free City of Qohor. Captain of the sellsword company called the Brave Companions. In the service of Tywin Lannister at Harrenhal. First appears in ACOK appendix."

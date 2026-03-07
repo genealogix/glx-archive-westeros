@@ -1,0 +1,143 @@
+assertions:
+    assertion-robb-stark-title-king-in-the-north-acok:
+        subject:
+            person: person-robb-stark
+        property: title
+        value: "King in the North"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the North section. Source text: 'ROBB STARK, Lord of Winterfell and King in the North, eldest son of Eddard Stark, Lord of Winterfell, and Lady Catelyn of House Tully, a boy of fifteen years.'"
+
+    assertion-robb-stark-title-lord-winterfell-acok:
+        subject:
+            person: person-robb-stark
+        property: title
+        value: "Lord of Winterfell"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the North section. Robb is now Lord of Winterfell following his father's death."
+
+    assertion-joffrey-baratheon-title-king-acok:
+        subject:
+            person: person-joffrey-baratheon
+        property: title
+        value: "King on the Iron Throne"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'JOFFREY BARATHEON, the First of His Name, a boy of thirteen years, the eldest son of King Robert I Baratheon and Queen Cersei of House Lannister.'"
+
+    assertion-stannis-baratheon-title-king-acok:
+        subject:
+            person: person-stannis-baratheon
+        property: title
+        value: "King (self-styled)"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'STANNIS BARATHEON, the First of His Name, the older of King Robert's brothers, formerly Lord of Dragonstone.' Styles himself king."
+
+    assertion-renly-baratheon-title-king-acok:
+        subject:
+            person: person-renly-baratheon
+        property: title
+        value: "King (self-styled)"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in Highgarden section. Source text: 'RENLY BARATHEON, the First of His Name, the younger of King Robert's brothers, formerly Lord of Storm's End.' Styles himself king."
+
+    assertion-cersei-lannister-title-queen-regent-acok:
+        subject:
+            person: person-cersei-lannister
+        property: title
+        value: "Queen Regent and Protector of the Realm"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'QUEEN CERSEI, Queen Regent and Protector of the Realm.'"
+
+    assertion-tyrion-lannister-title-acting-hand-acok:
+        subject:
+            person: person-tyrion-lannister
+        property: title
+        value: "Acting Hand of the King"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'TYRION LANNISTER, acting Hand of the King.'"
+
+    assertion-jaime-lannister-captive-acok:
+        subject:
+            person: person-jaime-lannister
+        property: status
+        value: "captive at Riverrun"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix. Source text: 'SER JAIME LANNISTER, the Kingslayer, Lord Commander of the Kingsguard, a captive at Riverrun.' Listed twice (under Joffrey's uncles and under the Kingsguard)."
+
+    assertion-tywin-lannister-title-hand-acok:
+        subject:
+            person: person-tywin-lannister
+        property: title
+        value: "Hand of the King"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, House Lannister section. Source text: 'TYWIN LANNISTER, Lord of Casterly Rock, Warden of the West, Shield of Lannisport, and Hand of the King, commanding the Lannister host at Harrenhal.'"
+
+    assertion-balon-greyjoy-title-king-acok:
+        subject:
+            person: person-balon-greyjoy
+        property: title
+        value: "King of Salt and Rock, Son of the Sea Wind, Lord Reaper of Pyke"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, House Greyjoy section. Source text: 'BALON GREYJOY, Lord of the Iron Islands, King of Salt and Rock, Son of the Sea Wind, Lord Reaper of Pyke, captain of the Great Kraken.' Balon has crowned himself king."
+
+    assertion-daenerys-targaryen-304-titles-acok:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: alias
+        value: "Daenerys Stormborn, the Unburnt, Mother of Dragons, Khaleesi of the Dothraki"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The Queen Across the Water section. Source text: 'DAENERYS TARGARYEN, called Daenerys Stormborn, the Unburnt, Mother of Dragons, Khaleesi of the Dothraki, and First of Her Name.' New titles acquired after AGOT."
+
+    assertion-mace-tyrell-title-hand-acok:
+        subject:
+            person: person-mace-tyrell
+        property: title
+        value: "Hand of the King"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in Highgarden section. Source text: 'MACE TYRELL, Lord of Highgarden and Hand of the King.' Serving as Renly's Hand."
+
+    assertion-margaery-tyrell-marriage-renly-acok:
+        subject:
+            person: person-margaery-tyrell
+        property: spouse
+        value: "person-renly-baratheon"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in Highgarden section. Source text: 'his new bride, LADY MARGAERY of House Tyrell, a maid of fifteen years.' Also in House Tyrell section: 'MARGAERY, their daughter, a maid of fifteen years, recently wed to Renly Baratheon.'"

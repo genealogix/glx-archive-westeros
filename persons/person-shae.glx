@@ -1,0 +1,9 @@
+persons:
+    person-shae:
+        properties:
+            gender: female
+            name:
+                value: Shae
+                fields:
+                    given: Shae
+        notes: "A camp follower, eighteen years old. Tyrion Lannister's concubine. First appears in ACOK appendix."

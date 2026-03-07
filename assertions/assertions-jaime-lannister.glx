@@ -6,9 +6,10 @@ assertions:
         value: Ser Jaime Lannister
         citations:
             - citation-agot-appendix
+            - citation-acok-appendix
         confidence: high
         status: accepted
-        notes: "Verified against AGOT Appendix, House Lannister section. Also listed in House Baratheon section as Kingsguard member. Source text: SER JA IME, called the Kingslayer, heir to Casterly Rock, a twin to Cersei"
+        notes: "Verified against AGOT and ACOK Appendices. AGOT: 'SER JAIME, called the Kingslayer, heir to Casterly Rock.' ACOK: 'SER JAIME LANNISTER, the Kingslayer, Lord Commander of the Kingsguard, a captive at Riverrun.' Now explicitly Lord Commander and a captive."
     assertion-jaime-lannister-gender:
         subject:
             person: person-jaime-lannister

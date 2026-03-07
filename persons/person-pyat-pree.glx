@@ -1,0 +1,10 @@
+persons:
+    person-pyat-pree:
+        properties:
+            gender: male
+            name:
+                value: Pyat Pree
+                fields:
+                    given: Pyat
+                    surname: Pree
+        notes: "A warlock of Qarth. One of the three seekers who found Daenerys. First appears in ACOK appendix."

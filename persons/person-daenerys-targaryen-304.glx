@@ -7,4 +7,18 @@ persons:
                     given: Daenerys
                     surname: Targaryen
                 value: Daenerys Targaryen
+            alias:
+                - value: "Daenerys Stormborn"
+                - value: "the Unburnt"
+                - value: "Mother of Dragons"
+                - value: "Khaleesi of the Dothraki"
+            title:
+                - value: "Queen of Meereen"
+                  date: "FROM 300"
+                - value: "Queen of the Andals and the Rhoynar and the First Men"
+                - value: "Lord of the Seven Kingdoms"
+                - value: "Protector of the Realm"
+                - value: "Khaleesi of the Great Grass Sea"
+            house: Targaryen
             rin: MH:I304
+        notes: "The First of Her Name. Sole surviving child of King Aerys II Targaryen. Her dragons are Drogon, Viserion, and Rhaegal. Queen of Meereen as of ADWD Appendix."

@@ -9,3 +9,13 @@ persons:
                     surname: Tyrell
                 value: Ser Loras Tyrell
             rin: MH:I374
+            title:
+                - value: "Ser"
+                - value: "Lord Commander of the Rainbow Guard"
+                  date: "FROM 299 TO 299"
+                - value: "Sworn Brother of the Kingsguard"
+                  date: "FROM 300"
+            alias:
+                - value: "The Knight of Flowers"
+            house: "Tyrell"
+        notes: "Youngest son of Mace Tyrell. The Knight of Flowers. Former Lord Commander of Renly Baratheon's Rainbow Guard. A Sworn Brother of the Kingsguard per the AFFC appendix."

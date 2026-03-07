@@ -1,0 +1,264 @@
+assertions:
+    assertion-melisandre-name-acok:
+        subject:
+            person: person-melisandre
+        property: name
+        value: "Melisandre of Asshai"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'LADY MELISANDRE OF ASSHAI, called the RED WOMAN, a priestess of R'hllor, the Heart of Fire.'"
+
+    assertion-melisandre-religion-acok:
+        subject:
+            person: person-melisandre
+        property: religion
+        value: "R'hllor"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the Narrow Sea section. A priestess of R'hllor."
+
+    assertion-davos-seaworth-name-acok:
+        subject:
+            person: person-davos-seaworth
+        property: name
+        value: "Davos Seaworth"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'SER DAVOS SEAWORTH, called the ONION KNIGHT and sometimes SHORTHAND, once a smuggler, captain of Black Betha.'"
+
+    assertion-brienne-tarth-name-acok:
+        subject:
+            person: person-brienne-tarth
+        property: name
+        value: "Brienne of Tarth"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in Highgarden section (Rainbow Guard). Source text: 'BRIENNE OF TARTH, the Blue, also called BRIENNE THE BEAUTY, daughter to Lord Selwyn the Evenstar.'"
+
+    assertion-podrick-payne-name-acok:
+        subject:
+            person: person-podrick-payne
+        property: name
+        value: "Podrick Payne"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'Tyrion's squire, PODRICK PAYNE.'"
+
+    assertion-bronn-name-acok:
+        subject:
+            person: person-bronn
+        property: name
+        value: "Bronn"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'BRONN, a sellsword, black of hair and heart.'"
+
+    assertion-shae-name-acok:
+        subject:
+            person: person-shae
+        property: name
+        value: "Shae"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'Tyrion's concubine, SHAE, a camp follower, eighteen.'"
+
+    assertion-cressen-name-acok:
+        subject:
+            person: person-cressen
+        property: name
+        value: "Cressen"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'MAESTER CRESSEN, healer and tutor, an old man.'"
+
+    assertion-pylos-name-acok:
+        subject:
+            person: person-pylos
+        property: name
+        value: "Pylos"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'MAESTER PYLOS, his young successor.'"
+
+    assertion-meera-reed-name-acok:
+        subject:
+            person: person-meera-reed
+        property: name
+        value: "Meera Reed"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the North section (bannermen in the north). Source text: 'Howland's daughter, MEERA, a maid of fifteen.'"
+
+    assertion-jojen-reed-name-acok:
+        subject:
+            person: person-jojen-reed
+        property: name
+        value: "Jojen Reed"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the North section (bannermen in the north). Source text: 'Howland's son, JOJEN, a boy of thirteen.'"
+
+    assertion-xaro-xhoan-daxos-name-acok:
+        subject:
+            person: person-xaro-xhoan-daxos
+        property: name
+        value: "Xaro Xhoan Daxos"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The Queen Across the Water section. Source text: 'XARO XHOAN DAXOS, a merchant prince of Qarth.'"
+
+    assertion-pyat-pree-name-acok:
+        subject:
+            person: person-pyat-pree
+        property: name
+        value: "Pyat Pree"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The Queen Across the Water section. Source text: 'PYAT PREE, a warlock of Qarth.'"
+
+    assertion-quaithe-name-acok:
+        subject:
+            person: person-quaithe
+        property: name
+        value: "Quaithe"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The Queen Across the Water section. Source text: 'QUAITHE, a masked shadowbinder of Asshai.'"
+
+    assertion-qhorin-halfhand-name-acok:
+        subject:
+            person: person-qhorin-halfhand
+        property: name
+        value: "Qhorin Halfhand"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, Night's Watch (Shadow Tower). Source text: 'QHORIN called HALFHAND, a senior ranger.'"
+
+    assertion-vargo-hoat-name-acok:
+        subject:
+            person: person-vargo-hoat
+        property: name
+        value: "Vargo Hoat"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, House Lannister section. Source text: 'VARGO HOAT, of the Free City of Qohor, captain of the sellsword company called the Brave Companions.'"
+
+    assertion-jaqen-hghar-name-acok:
+        subject:
+            person: person-jaqen-hghar
+        property: name
+        value: "Jaqen H'ghar"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, Night's Watch (Castle Black). Source text: 'JAQEN H'GHAR, criminals bound for the Wall.' Listed among Yoren's recruits."
+
+    assertion-salladhor-saan-name-acok:
+        subject:
+            person: person-salladhor-saan
+        property: name
+        value: "Salladhor Saan"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the Narrow Sea section. Source text: 'SALLADHOR SAAN, of the Free City of Lys, styled Prince of the Narrow Sea.'"
+
+    assertion-cortnay-penrose-name-acok:
+        subject:
+            person: person-cortnay-penrose
+        property: name
+        value: "Ser Cortnay Penrose"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in Highgarden section. Source text: 'SER CORTNAY PENROSE, castellan of Storm's End.'"
+
+    assertion-hodor-name-acok:
+        subject:
+            person: person-hodor
+        property: name
+        value: "Hodor"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the North section (household at Winterfell). Source text: 'HODOR, her great-grandson, a simpleminded stableboy.' Great-grandson of Old Nan."
+
+    assertion-osha-name-acok:
+        subject:
+            person: person-osha
+        property: name
+        value: "Osha"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King in the North section (household at Winterfell). Source text: 'OSHA, a wildling woman taken captive in the wolfswood, serving as kitchen drudge.'"
+
+    assertion-osmund-kettleblack-name-acok:
+        subject:
+            person: person-osmund-kettleblack
+        property: name
+        value: "Ser Osmund Kettleblack"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'SER OSMUND KETTLEBLACK, a hedge knight of unsavory reputation.' His brothers Osfryd and Osney also listed."
+
+    assertion-jacelyn-bywater-name-acok:
+        subject:
+            person: person-jacelyn-bywater
+        property: name
+        value: "Ser Jacelyn Bywater"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'SER JACELYN BYWATER, called IRONHAND, captain of the River Gate.'"
+
+    assertion-hallyne-name-acok:
+        subject:
+            person: person-hallyne
+        property: name
+        value: "Hallyne the Pyromancer"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: accepted
+        notes: "From ACOK Appendix, The King on the Iron Throne section. Source text: 'HALLYNE THE PYROMANCER, a Wisdom of the Guild of Alchemists.'"

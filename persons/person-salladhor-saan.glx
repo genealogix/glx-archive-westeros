@@ -1,0 +1,12 @@
+persons:
+    person-salladhor-saan:
+        properties:
+            gender: male
+            name:
+                value: Salladhor Saan
+                fields:
+                    given: Salladhor
+                    surname: Saan
+            title:
+                - value: "Prince of the Narrow Sea (self-styled)"
+        notes: "Of the Free City of Lys. Styled Prince of the Narrow Sea. A pirate and sellsail in the service of Stannis Baratheon. First appears in ACOK appendix."

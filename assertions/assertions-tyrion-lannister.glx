@@ -6,9 +6,10 @@ assertions:
         value: Tyrion Lannister
         citations:
             - citation-agot-appendix
+            - citation-acok-appendix
         confidence: high
         status: accepted
-        notes: "Verified against AGOT Appendix, House Lannister section. Source text: TYRION, called the Imp, a dwarf"
+        notes: "Verified against AGOT and ACOK Appendices. ACOK: 'TYRION LANNISTER, acting Hand of the King.' Promoted from just 'the Imp' to acting Hand."
     assertion-tyrion-lannister-gender:
         subject:
             person: person-tyrion-lannister
@@ -19,3 +20,33 @@ assertions:
         confidence: high
         status: accepted
         notes: "Verified against AGOT Appendix, House Lannister section."
+    assertion-tyrion-lannister-alias-halfman:
+        subject:
+            person: person-tyrion-lannister
+        property: alias
+        value: "Halfman"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "ASOS appendix, House Lannister section. Source text: 'TYRION, called THE IMP, called HALFMAN, wounded and scarred on the Blackwater'"
+    assertion-tyrion-lannister-marriage-sansa:
+        subject:
+            relationship: rel-marriage-tyrion-lannister-and-sansa-stark
+        property: participants
+        value: "person-tyrion-lannister, person-sansa-stark"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "Tyrion married Sansa Stark during ASOS, arranged by Tywin Lannister. The marriage was reportedly never consummated. Confirmed in ADWD appendix: 'SANSA, his sister, m. Tyrion of House Lannister'."
+    assertion-tyrion-lannister-wounded-blackwater:
+        subject:
+            person: person-tyrion-lannister
+        property: status
+        value: "wounded and scarred on the Blackwater"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: accepted
+        notes: "ASOS appendix, House Lannister section. Source text: 'TYRION, called THE IMP, called HALFMAN, wounded and scarred on the Blackwater'"
