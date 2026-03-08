@@ -123,24 +123,24 @@ assertions:
   assertion-robb-wife-novel:
     subject:
       relationship: rel-marriage-robb-stark
-    property: participants
-    value: person-jeyne-westerling
+    participant:
+      person: person-jeyne-westerling
+      role: spouse
+      notes: "Novel canon — Robb marries Jeyne Westerling (ASOS)"
     citations:
       - citation-asos-catelyn-ii
     confidence: high
-    status: proven
-    notes: "Novel canon — Robb marries Jeyne Westerling (ASOS)"
 
   assertion-robb-wife-show:
     subject:
       relationship: rel-marriage-robb-stark
-    property: participants
-    value: person-talisa-maegyr
+    participant:
+      person: person-talisa-maegyr
+      role: spouse
+      notes: "Show canon only — Talisa is an invention of the TV adaptation"
     citations:
       - citation-got-s02e10
     confidence: medium
-    status: proven
-    notes: "Show canon only — Talisa is an invention of the TV adaptation"
 ```
 
 ---
@@ -370,6 +370,30 @@ assertions:
     status: proven
     notes: "Joffrey is the product of Jaime and Cersei's incestuous relationship. Confirmed by multiple POV observations and Stannis's public accusation."
 ```
+
+### Participant Assertions
+
+For event/relationship participation, use `participant:` instead of `property:`/`value:` — they are **mutually exclusive** per the GLX spec.
+
+```yaml
+assertions:
+  assertion-ned-tower-of-joy:
+    subject:
+      event: event-tower-of-joy
+    participant:
+      person: person-eddard-stark
+      role: combatant
+      notes: "Led the party of seven"
+    citations:
+      - citation-agot-eddard-x
+    confidence: high
+```
+
+### Relationship Structure Notes
+
+- `start_event` and `end_event` are **top-level fields**, not inside `properties:`
+- Date properties are `started_on` and `ended_on` (not `start_date`/`end_date`)
+- Source entities use top-level `authors` (array) and `date` (string), not inside `properties`
 
 ### Date Formats
 
@@ -675,6 +699,9 @@ When the archive needs a type not yet defined.
 8. **Use descriptive IDs** — `person-walder-frey` is better than `person-a1b2c3d4`
 9. **Track novel vs. show canon** — always note which canon a fact comes from; they are not interchangeable
 10. **Disambiguate carefully** — GoT reuses names heavily (Walder, Aegon, Brandon); use aliases, titles, or dates in IDs to distinguish
+11. **Use `participant:` for event/relationship participation** — `participant` and `property`/`value` are mutually exclusive per the GLX spec. Never use `property: participants`.
+12. **Keep vocabulary entries reusable** — don't create hyper-specific properties like `lysa_last_words`. Narrative details belong in `notes`.
+13. **Check the GLX spec** — read the spec directly from the GLX repo (`specification/` directory) or fetch from genealogix.io rather than guessing field names or structures.
 
 ---
 
