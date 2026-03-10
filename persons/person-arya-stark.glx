@@ -9,6 +9,8 @@ persons:
                 value: Arya Stark
             external_ids:
                 - "MH:I219"
+            born_on: "289"
+            born_at: place-winterfell
             alias:
                 - value: "Arry"
                 - value: "Nan"
@@ -16,5 +18,12 @@ persons:
                 - value: "Squab"
                 - value: "Salty"
                 - value: "Cat of the Canals"
+                - value: "Beth"
+                - value: "The Blind Girl"
+                - value: "Mercy"
+                - value: "Arya Horseface"
+                - value: "Arya Underfoot"
+                - value: "Lumpyhead"
             house: "Stark"
-        notes: "Younger daughter of Eddard Stark and Lady Catelyn Tully. Born approximately 289 AC, approximately ten-to-eleven years old in AFFC. She travels to Braavos aboard the Braavosi galleas Titan's Daughter (Captain Ternesio Terys), having left Saltpans after the Hound (Sandor Clegane) was dying of a wound's fever on the banks of the Trident. She calls herself 'Salty' during the voyage. She presents the iron coin Jaqen H'ghar gave her at the House of Black and White and is accepted by the Kindly Man (the Faceless Man priest). She reveals her true name. Her kill list at AFFC Arya I: Ser Gregor Clegane, Dunsen, Raff the Sweetling, Ser Ilyn Payne, Ser Meryn Trant, Queen Cersei. Previously killed the Tickler (stabbed) and a squire with a pimple at Saltpans. Uses aliases: Arry, Nan, Weasel, Squab, Salty, and later Cat of the Canals. She carries Needle (her small sword, a gift from Jon Snow) and a dagger. A novice in service at the House of Black and White in Braavos as of ADWD Appendix. (AFFC Arya I; citation-affc-arya-i)"
+            religion: "Old Gods"
+        notes: "Younger daughter of Eddard Stark and Catelyn Tully, third of their five children. Long face, grey eyes — said to resemble her aunt Lyanna. Wild and willful, prefers swordplay to needlework. Her direwolf is Nymeria, released into the Riverlands. Carries Needle, a small sword gifted by Jon Snow. Witnessed her father's execution. Traveled with Yoren of the Night's Watch, was captured at Harrenhal, served as Roose Bolton's cupbearer, escaped with Gendry and Hot Pie. Traveled with the Brotherhood Without Banners and the Hound. Sailed to Braavos and joined the Faceless Men at the House of Black and White. Her kill list at AFFC: Ser Gregor Clegane, Dunsen, Raff the Sweetling, Ser Ilyn Payne, Ser Meryn Trant, Queen Cersei. A novice in service at the House of Black and White as of ADWD."

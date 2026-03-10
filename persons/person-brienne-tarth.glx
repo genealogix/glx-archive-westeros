@@ -6,11 +6,15 @@ persons:
                 value: Brienne of Tarth
                 fields:
                     given: Brienne
+                    surname: Tarth
+            born_on: "ABT 280"
             alias:
                 - value: "Brienne the Beauty"
                 - value: "The Maid of Tarth"
+                - value: "The Blue Knight"
             title:
                 - value: "The Blue of the Rainbow Guard"
-                  date: "FROM 299"
+                  date: "FROM 299 TO 299"
             house: "Tarth"
-        notes: "Brienne, the Maid of Tarth, also called Brienne the Beauty. Daughter of Lord Selwyn the Evenstar, Lord of Tarth. A maiden on a quest per the AFFC appendix. Former member of Renly Baratheon's Rainbow Guard."
+            religion: "Faith of the Seven"
+        notes: "Daughter of Lord Selwyn the Evenstar of Tarth. Tall, broad-shouldered, homely — flat-chested, thick waist, straw-colored hair, freckles, crooked teeth, but astonishing blue eyes. One of the finest warriors in Westeros despite constant mockery. Won a melee of 116 fighters to earn a place in Renly's Rainbow Guard. Sworn her sword to Catelyn Stark. Tasked with returning Jaime Lannister to King's Landing in exchange for Sansa and Arya. Her journey with Jaime — where he saved her from the bear pit at Harrenhal — forms one of the great character arcs. Wields Oathkeeper, a Valyrian steel sword reforged from Ned Stark's Ice. Captured by Lady Stoneheart and the Brotherhood Without Banners, forced to choose 'sword or noose' — she screamed a word (likely 'sword'). Last seen luring Jaime away from his camp into the Riverlands."

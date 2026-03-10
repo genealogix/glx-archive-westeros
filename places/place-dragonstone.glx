@@ -4,5 +4,6 @@ places:
         type: castle
         parent: place-the-crownlands
         properties:
-            seat_of: "House Targaryen (originally), later House Baratheon of Dragonstone"
-        notes: "A castle on the volcanic island of Dragonstone in Blackwater Bay. The westernmost outpost of the Valyrian Freehold before the Doom, and the seat from which Aegon the Conqueror launched his invasion. Traditionally granted to the heir to the Iron Throne."
+            seat_of: "House Baratheon of Dragonstone"
+            also_known_as: "The Dragon's Lair"
+        notes: "A dark, damp, forbidding castle on the volcanic island of Dragonstone in Blackwater Bay. The westernmost outpost of the Valyrian Freehold before the Doom of Valyria. The fortress is built of black stone, fused by dragonflame, with dragon gargoyles and carvings adorning every surface — towers shaped like dragons, serpents, and wyverns. The Painted Table of Aegon the Conqueror occupies the war room — a massive carved table in the shape of Westeros. Traditionally the seat of the heir to the Iron Throne (the Prince of Dragonstone). After Robert's Rebellion, granted to Stannis Baratheon. Birthplace of Daenerys Targaryen during a great storm. Rich in dragonglass (obsidian), which proves deadly to the Others."

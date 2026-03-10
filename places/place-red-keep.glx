@@ -1,0 +1,8 @@
+places:
+    place-red-keep:
+        name: "The Red Keep"
+        type: castle
+        parent: place-kings-landing
+        properties:
+            also_known_as: "Maegor's Holdfast"
+        notes: "The royal castle in King's Landing, seat of the Iron Throne. Built by Maegor the Cruel atop Aegon's High Hill. Contains the Throne Room, Tower of the Hand, White Sword Tower, Maegor's Holdfast, and the black cells."

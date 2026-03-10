@@ -9,7 +9,13 @@ persons:
                 value: Lyanna Stark
             external_ids:
                 - "MH:I210"
+            born_on: "266"
+            born_at: place-winterfell
+            died_on: "283"
+            cause_of_death: "Died in a 'bed of blood' at the Tower of Joy"
+            alias:
+                - value: "The She-Wolf"
+                - value: "The Wolf Maid"
             house: "Stark"
-            died_on: "BEF 300"
-            cause_of_death: "Died in the mountains of Dorne"
-        notes: "Younger sister of Eddard Stark. Died in the mountains of Dorne."
+            religion: "Old Gods"
+        notes: "Younger sister of Brandon and Eddard Stark. Beautiful, willful, and fierce — described as having 'the wolf blood.' Betrothed to Robert Baratheon. At the Tourney of Harrenhal, Rhaegar Targaryen crowned her the Queen of Love and Beauty, passing over his own wife Elia Martell — the event that set in motion Robert's Rebellion. Abducted (or eloped with) Rhaegar. Found dying by Ned in the Tower of Joy in the mountains of Dorne, in a 'bed of blood' surrounded by blue winter roses. Her last words to Ned: 'Promise me, Ned.' The nature of the promise is the central mystery of the series. Strongly implied to be Jon Snow's true mother. Robert Baratheon started a war for love of her but she never loved him back."

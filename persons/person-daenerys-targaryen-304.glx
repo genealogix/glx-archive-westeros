@@ -9,17 +9,25 @@ persons:
                 value: Daenerys Targaryen
             alias:
                 - value: "Daenerys Stormborn"
-                - value: "the Unburnt"
+                - value: "The Unburnt"
                 - value: "Mother of Dragons"
                 - value: "Khaleesi of the Dothraki"
+                - value: "Breaker of Shackles"
+                - value: "Mhysa"
+                - value: "The Silver Queen"
             title:
+                - value: "Princess of Dragonstone"
+                  date: "FROM 284"
+                - value: "Khaleesi of the Great Grass Sea"
+                  date: "FROM 298"
                 - value: "Queen of Meereen"
-                  date: "FROM 300"
+                  date: "FROM 299"
                 - value: "Queen of the Andals and the Rhoynar and the First Men"
                 - value: "Lord of the Seven Kingdoms"
                 - value: "Protector of the Realm"
-                - value: "Khaleesi of the Great Grass Sea"
             house: Targaryen
+            born_on: "284"
+            born_at: place-dragonstone
             external_ids:
                 - "MH:I304"
-        notes: "The First of Her Name. Sole surviving child of King Aerys II Targaryen. Her dragons are Drogon, Viserion, and Rhaegal. Queen of Meereen as of ADWD Appendix."
+        notes: "The First of Her Name. Last known surviving child of King Aerys II Targaryen and Queen Rhaella. Born on Dragonstone during a great storm that destroyed the Targaryen fleet, hence 'Stormborn.' Silver-gold hair and violet eyes. Her dragons are Drogon (black), Viserion (cream-and-gold), and Rhaegal (green). Married first to Khal Drogo, then to Hizdahr zo Loraq. Queen of Meereen as of ADWD. Flew away on Drogon from the fighting pits of Daznak and was found by the khalasar of Khal Jhaqo in the Dothraki Sea."

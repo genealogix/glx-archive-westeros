@@ -1,6 +1,6 @@
 places:
     place-the-wall:
         name: "The Wall"
-        type: wall
+        type: landmark
         parent: place-the-north
-        notes: "A colossal fortification of ice stretching 300 miles across the northern border of the Seven Kingdoms. Said to be 700 feet tall, built by Brandon the Builder with the aid of giants and magic to defend against the Others."
+        notes: "A colossal fortification of ice stretching 300 miles from the Gorge in the west to the Bay of Seals in the east. Seven hundred feet tall. Built by Brandon the Builder eight thousand years ago with the aid of giants and magic to defend the realms of men against the Others. Manned by the Night's Watch from nineteen castles along its southern face, though only three are occupied by the time of the novels: Castle Black (the headquarters), Eastwatch-by-the-Sea, and the Shadow Tower. The top is wide enough for a dozen mounted knights to ride abreast. Beneath the Wall at Castle Black is a tunnel called the Black Gate — an ancient weirwood gate that opens only for sworn brothers of the Night's Watch."

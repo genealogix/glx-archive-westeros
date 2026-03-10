@@ -8,9 +8,13 @@ persons:
                     given: Davos
                     prefix: Ser
                     surname: Seaworth
+            born_on: "ABT 260"
+            born_at: place-kings-landing
             alias:
-                - value: "the Onion Knight"
+                - value: "The Onion Knight"
                 - value: "Shorthand"
+                - value: "The Onion Lord"
+            religion: "Faith of the Seven"
             title:
                 - value: "Lord of the Rainwood"
                 - value: "Admiral of the Narrow Sea"

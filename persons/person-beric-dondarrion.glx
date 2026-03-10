@@ -9,10 +9,13 @@ persons:
                 value: Beric Dondarrion
             external_ids:
                 - "MH:I487"
+            born_on: "ABT 276"
+            died_on: "299"
+            cause_of_death: "Gave his life-fire to resurrect Catelyn Stark"
             title:
                 - value: "Lord of Blackhaven"
             house: "Dondarrion"
-            cause_of_death: "Six times slain"
             alias:
                 - value: "The Lightning Lord"
-        notes: "Lord Beric Dondarrion of Blackhaven. Leader of the Brotherhood Without Banners. ASOS appendix lists him as 'Lord of Blackhaven, called THE LIGHTNING LORD, oft reported dead'. Gave his life to resurrect Catelyn Stark as Lady Stoneheart. Listed as deceased in the AFFC appendix."
+            religion: "R'hllor"
+        notes: "Lord of Blackhaven. Sent by Ned Stark to bring Gregor Clegane to the king's justice. Killed six times and resurrected each time by the red priest Thoros of Myr through the kiss of R'hllor. Each resurrection cost him — he lost memories, his face was scarred, one eye was gone, his body was a patchwork of fatal wounds. Led the Brotherhood Without Banners, an outlaw band defending the smallfolk of the Riverlands. Gave his final life to resurrect Catelyn Stark through the last kiss, dying for the seventh and last time."

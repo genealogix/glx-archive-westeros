@@ -9,5 +9,13 @@ persons:
                 value: Samwell Tarly
             external_ids:
                 - "MH:I458"
+            born_on: "283"
+            alias:
+                - value: "Sam the Slayer"
+                - value: "Ser Piggy"
+                - value: "Prince Pork"
+                - value: "Lady Piggy"
+                - value: "Sam"
             house: "Tarly"
-        notes: "Samwell Tarly, eldest son of Lord Randyll Tarly of Horn Hill. Fat, soft, short of breath, deeply bookish and devoted to reading. He assisted in making Jon Snow Lord Commander by counting votes and lobbying. He has been researching the Night's Watch archives on the Others and their weaknesses (dragonglass, fire, potentially Valyrian steel/dragonsteel). Jon Snow sends him south in AFFC with Maester Aemon, Gilly, and her infant to travel to Oldtown so Sam can forge a maester's chain and return to serve as Castle Black's new maester. He fears blood, heights, the winch cage, and the Citadel (his father Lord Randyll forbade sons of Horn Hill from becoming maesters and once chained Sam as a child). He practices archery daily under Ulmer. He killed an Other with a dragonglass dagger beyond the Wall (ASOS). He has a brown mare from Horn Hill. He departs Castle Black an hour before first light with Black Jack Bulwer's ranger escort. Called 'Slayer' by Pyp (for killing the Other). (AFFC Samwell I; citation-affc-samwell-i)"
+            religion: "Faith of the Seven"
+        notes: "Eldest son of Lord Randyll Tarly of Horn Hill. Fat, bookish, gentle, and terrified of blood — everything his warrior father despises. Sent to the Night's Watch because Randyll threatened to kill him if he didn't renounce his inheritance. Befriended Jon Snow at Castle Black. Killed an Other with a dragonglass dagger beyond the Wall — earning the mocking name 'Sam the Slayer.' Sent south by Jon with Maester Aemon, Gilly, and her baby to train as a maester at the Citadel in Oldtown. Aemon died during the voyage. Sam is now a novice at the Citadel as of AFFC, studying under Archmaester Marwyn."

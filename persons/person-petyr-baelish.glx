@@ -7,11 +7,19 @@ persons:
                     given: Petyr
                     surname: Baelish
                 value: Petyr Baelish
+            born_on: "268"
             alias:
                 - value: "Littlefinger"
+                - value: "Lord Littlefinger"
             title:
+                - value: "Master of Coin"
+                  date: "FROM 289 TO 299"
                 - value: "Lord of Harrenhal"
+                  date: "FROM 299"
                 - value: "Lord Paramount of the Trident"
-                - value: "Lord Protector of the Vale"
+                  date: "FROM 299"
+                - value: "Lord Protector of the Eyrie and the Vale of Arryn"
+                  date: "FROM 300"
             house: "Baelish"
-        notes: "Guardian of Robert Arryn. His supposed natural daughter Alayne Stone is actually Sansa Stark (ADWD Appendix)."
+            religion: "Faith of the Seven"
+        notes: "Born in the Fingers, the Vale of Arryn. Son of a minor lord. Fostered at Riverrun with Catelyn and Lysa Tully, where he fell in love with Catelyn. Challenged Brandon Stark to a duel for her hand and was nearly killed. Called 'Littlefinger' by Edmure Tully due to his family's small holdings on the smallest of the Fingers. Rose through cunning and financial acumen to become Master of Coin on Robert's small council. Orchestrated Jon Arryn's death (via Lysa Tully), triggering the War of the Five Kings. Arranged Joffrey's murder at the Purple Wedding with Olenna Tyrell. Smuggled Sansa Stark from King's Landing, disguising her as his natural daughter Alayne Stone. Murdered Lysa Arryn by pushing her through the Moon Door. Now Lord Protector of the Vale, guardian of Robert Arryn. One of the most dangerous schemers in Westeros."

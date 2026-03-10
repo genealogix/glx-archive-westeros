@@ -5,4 +5,5 @@ places:
         parent: place-the-riverlands
         properties:
             also_known_as: "The Black Dread's Ruin"
-        notes: "The largest castle in Westeros, built by Harren the Black on the northern shore of the Gods Eye. Its towers were melted by Balerion the Black Dread's dragonfire during the Conquest. Said to be cursed; every house that has held it has come to ruin."
+            seat_of: "Granted to Petyr Baelish (300 AC)"
+        notes: "The largest castle in Westeros, built by Harren the Black, King of the Isles and the Rivers, on the northern shore of the Gods Eye. Its five towers were melted and twisted by Balerion the Black Dread's dragonfire on the very night Harren finished it. Said to be cursed — every house that has held it has come to ruin: the Hoares, Qoheryses, Harroway, Towers, Strongs, and Lothstons. Its halls are vast enough to ride a horse through, but impossible to garrison fully or heat adequately. During the War of the Five Kings, it changed hands repeatedly — held by Tywin Lannister, then Roose Bolton (as Arya served as his cupbearer), then by various Lannister appointees. Granted to Petyr Baelish as Lord of Harrenhal. The Tourney of Harrenhal in 281 AC was the fateful event where Rhaegar crowned Lyanna Stark as Queen of Love and Beauty."

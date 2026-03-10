@@ -6,8 +6,13 @@ persons:
                 fields:
                     given: Varys
                 value: Varys
+            born_at: place-lys
             alias:
                 - value: "The Spider"
+                - value: "The Eunuch"
+                - value: "Lord Varys"
+                - value: "Rugen"
             title:
                 - value: "Master of Whisperers"
-        notes: "A eunuch, called the Spider. Master of whisperers on King Robert's small council."
+                  date: "FROM 278 TO 299"
+        notes: "A eunuch from Lys, sold as a slave to a traveling mummers' troupe. A sorcerer cut him, root and stem, using his parts in a magical ritual — Varys heard a voice in the flames. Rose from the streets of Pentos to become the most infamous spymaster in the world. Appointed Master of Whisperers by King Aerys II. Retained by Robert I. Operates a vast network of informants called his 'little birds' — mute children who read and write. Master of disguise. Freed Tyrion from the black cells. Secretly supports the cause of Aegon Targaryen (Young Griff). At the end of ADWD, murders Grand Maester Pycelle and Ser Kevan Lannister with a crossbow to destabilize the realm for Aegon's invasion."

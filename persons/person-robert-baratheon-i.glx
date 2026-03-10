@@ -10,11 +10,27 @@ persons:
                 value: Robert Baratheon I
             external_ids:
                 - "MH:I167"
+            born_on: "262"
+            born_at: place-storms-end
+            died_on: "298"
+            died_at: place-red-keep
+            cause_of_death: "Gored by a boar while hunting, exacerbated by wine"
+            alias:
+                - value: "The Usurper"
+                - value: "The Stag King"
+                - value: "The Demon of the Trident"
             title:
+                - value: "Ser"
+                - value: "Lord of Storm's End"
+                  date: "FROM 278 TO 284"
+                - value: "Lord Paramount of the Stormlands"
+                  date: "FROM 278 TO 284"
                 - value: "King of the Andals and the Rhoynar and the First Men"
-                  date: "FROM 283"
+                  date: "FROM 283 TO 298"
                 - value: "Lord of the Seven Kingdoms"
-                  date: "FROM 283"
+                  date: "FROM 283 TO 298"
                 - value: "Protector of the Realm"
-                  date: "FROM 283"
+                  date: "FROM 283 TO 298"
             house: "Baratheon"
+            religion: "Faith of the Seven"
+        notes: "Eldest son of Steffon Baratheon and Cassana Estermont. Fostered at the Eyrie with Eddard Stark under Jon Arryn. In his youth, tall and muscled like a maiden's fantasy — black-haired, blue-eyed, storm-blue. Led Robert's Rebellion after Rhaegar Targaryen abducted his betrothed Lyanna Stark. Slew Rhaegar at the Battle of the Trident with his warhammer. By the time of AGOT, grown fat and dissolute from years of kingship. Killed by a boar while hunting in the Kingswood, his wine fortified by Lancel Lannister on Cersei's orders."

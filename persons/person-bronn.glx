@@ -7,5 +7,10 @@ persons:
                 fields:
                     given: Bronn
             alias:
-                - value: "black of hair and heart"
-        notes: "A sellsword in the service of Tyrion Lannister. One of Tyrion's guards and sworn swords. First appears in AGOT but first listed in the appendix in ACOK."
+                - value: "Ser Bronn of the Blackwater"
+            title:
+                - value: "Ser"
+                  date: "FROM 299"
+                - value: "Lord Protector of Stokeworth"
+                  date: "FROM 300"
+        notes: "A low-born sellsword with dark hair, dark eyes, and a feral, wolfish look. Championed Tyrion Lannister in his trial by combat at the Eyrie, defeating Ser Vardis Egen. Served as Tyrion's chief enforcer during his time as Hand. Knighted after the Battle of the Blackwater. Married Lollys Stokeworth. Refused to champion Tyrion in his second trial by combat, calculating the odds against the Mountain too poor. Named Lollys's bastard son 'Tyrion' as a parting insult to Cersei. Effectively seized control of Castle Stokeworth. A pragmatic survivor who always bets on himself."

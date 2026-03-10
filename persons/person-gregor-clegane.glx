@@ -8,8 +8,16 @@ persons:
                     given: Gregor
                     prefix: Ser
                     surname: Clegane
+            born_on: "ABT 266"
+            died_on: "300"
+            cause_of_death: "Poisoned by Oberyn Martell's manticore venom; reanimated by Qyburn"
             alias:
-                - value: "the Mountain That Rides"
-                - value: "the Mountain"
+                - value: "The Mountain That Rides"
+                - value: "The Mountain"
+                - value: "Tywin Lannister's Mad Dog"
+                - value: "Robert Strong"
+            title:
+                - value: "Ser"
+                - value: "Lord of Clegane's Keep"
             house: Clegane
-        notes: "Called the Mountain That Rides. A bannerman and sworn sword of Tywin Lannister. Listed in ACOK appendix under House Lannister. Soldiers in his service include Polliver, Chiswyck, Raff the Sweetling, Dunsen, and the Tickler."
+        notes: "Elder brother of Sandor Clegane. Nearly eight feet tall, the most feared man in Westeros. A bannerman and sworn sword of Tywin Lannister. Raped and murdered Princess Elia Martell during the Sack of King's Landing, and killed her son Aegon by dashing his head against a wall. Soldiers in his service include Polliver, Chiswyck, Raff the Sweetling, Dunsen, and the Tickler. Led the raiding party that burned the Riverlands. Fought Oberyn Martell in Tyrion's trial by combat — killed Oberyn but was mortally wounded by his poisoned spear. Delivered to Qyburn, who performed dark experiments. Now 'Ser Robert Strong' of Cersei's Kingsguard — a silent giant in white armor who never removes his helm. Rumored to be undead."

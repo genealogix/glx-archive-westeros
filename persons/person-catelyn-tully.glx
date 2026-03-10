@@ -9,14 +9,20 @@ persons:
                 value: Catelyn Tully
             external_ids:
                 - "MH:I216"
+            born_on: "264"
+            born_at: place-riverrun
+            died_on: "299"
+            died_at: place-the-twins
+            cause_of_death: "Throat cut at the Red Wedding"
             title:
-                - value: "Lady"
+                - value: "Lady of Winterfell"
+                  date: "FROM 280 TO 299"
             alias:
                 - value: "Lady Stoneheart"
                 - value: "Mother Mercy"
                 - value: "The Silent Sister"
                 - value: "The Hangwoman"
+                - value: "Cat"
             house: "Tully"
-            died_on: "299"
-            cause_of_death: "Murdered at the Red Wedding"
-        notes: "Eldest daughter of Lord Hoster Tully and Lady Minisa Whent. Widow of Lord Eddard Stark. Murdered at the Twins during the Red Wedding. Resurrected by Beric Dondarrion and now leads the Brotherhood Without Banners as Lady Stoneheart. AFFC appendix lists her as 'LADY STONEHEART, a hooded woman, sometimes called MOTHER MERCY, THE SILENT SISTER, and THE HANGWOMAN.'"
+            religion: "Faith of the Seven"
+        notes: "Eldest daughter of Lord Hoster Tully and Lady Minisa Whent. Auburn hair and blue eyes — the Tully look. Originally betrothed to Brandon Stark, married his brother Eddard after Brandon's death. Bore five children: Robb, Sansa, Arya, Bran, and Rickon. A POV character in AGOT-ASOS. Murdered at the Twins during the Red Wedding — her throat was cut to the bone after she watched Robb die. Her body was thrown naked into the Green Fork. Three days later, retrieved from the river by Arya's direwolf Nymeria. Resurrected by Beric Dondarrion, who gave his life for hers through the last kiss. Now leads the Brotherhood Without Banners as Lady Stoneheart — a terrible, silent revenant consumed by vengeance against the Freys, Boltons, and Lannisters."

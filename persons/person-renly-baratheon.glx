@@ -9,13 +9,22 @@ persons:
                 value: Renly Baratheon
             external_ids:
                 - "MH:I196"
+            born_on: "277"
+            born_at: place-storms-end
+            died_on: "299"
+            cause_of_death: "Murdered by a shadow assassin birthed by Melisandre"
+            alias:
+                - value: "King Renly"
+                - value: "The King in Highgarden"
             title:
                 - value: "Lord of Storm's End"
+                  date: "FROM 284"
+                - value: "Lord Paramount of the Stormlands"
+                  date: "FROM 284"
                 - value: "Master of Laws"
-                  date: "TO 298"
-                - value: "King (self-styled)"
-                  date: "FROM 299"
+                  date: "FROM 289 TO 298"
+                - value: "King of the Andals and the Rhoynar and the First Men"
+                  date: "FROM 299 TO 299"
             house: "Baratheon"
-            died_on: "299"
-            cause_of_death: "Murdered by a shadow assassin"
-        notes: "Renly Baratheon, the First of His Name. The younger of King Robert's brothers. Married Lady Margaery Tyrell. ASOS appendix confirms his death: '{RENLY BARATHEON}, rebel Lord of Storm's End, murdered in the midst of his army'. Killed by a shadow creature birthed by Melisandre using Stannis's life force."
+            religion: "Faith of the Seven"
+        notes: "Youngest of the three Baratheon brothers. Handsome, charismatic, black-haired — said to be the very image of young Robert. Married Margaery Tyrell to secure the Tyrell alliance. In a secret relationship with Ser Loras Tyrell, the Knight of Flowers. Claimed the Iron Throne despite Stannis having the better claim by right. Assembled the largest army in Westeros — nearly 100,000 men. Murdered in his camp before the Battle of Storm's End by a shadow creature birthed by Melisandre using Stannis's life force. Brienne of Tarth and Catelyn Stark witnessed his death."

@@ -10,3 +10,13 @@ persons:
                 value: Ser Jorah Mormont
             external_ids:
                 - "MH:I423"
+            born_on: "ABT 254"
+            alias:
+                - value: "The Andal"
+                - value: "Jorah the Andal"
+            title:
+                - value: "Ser"
+                - value: "Lord of Bear Island"
+                  date: "FROM 280 TO 293"
+            house: "Mormont"
+        notes: "Exiled lord of Bear Island. Son of Jeor Mormont, Lord Commander of the Night's Watch. A large, hairy, plain-faced man. Knighted by King Robert for valor during the Greyjoy Rebellion. Married Lynesse Hightower, whose expensive tastes drove him to sell poachers into slavery — he fled to Essos to escape execution by Ned Stark. Initially spied on Daenerys for Varys in exchange for a royal pardon. Fell deeply in love with her. When his espionage was revealed, Daenerys banished him. He was captured by slavers with Tyrion Lannister and sold to a fighting pit. Contracted greyscale from the Sorrows. Fought in Daznak's Pit and was restored to Daenerys's service. As of ADWD, fighting as a gladiator in Meereen."

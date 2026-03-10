@@ -9,11 +9,23 @@ persons:
                 value: Stannis Baratheon
             external_ids:
                 - "MH:I195"
+            born_on: "264"
+            born_at: place-storms-end
+            alias:
+                - value: "The King in the Narrow Sea"
+                - value: "The King at the Wall"
+                - value: "Azor Ahai Reborn"
+                - value: "The Mannis"
             title:
+                - value: "Ser"
                 - value: "Lord of Dragonstone"
+                  date: "FROM 284"
                 - value: "Master of Ships"
-                  date: "TO 298"
-                - value: "King of Westeros"
+                  date: "FROM 284 TO 298"
+                - value: "King of the Andals and the Rhoynar and the First Men"
+                  date: "FROM 299"
+                - value: "Lord of the Seven Kingdoms"
                   date: "FROM 299"
             house: "Baratheon"
-        notes: "Styling himself King of Westeros. At Castle Black as of ADWD. Rebel Lord of Dragonstone and pretender to the Iron Throne per Lannister reckoning. Described in ACOK: 'broad of shoulder and sinewy of limb, with a tightness to his face and flesh... Hard was the word men used when they spoke of Stannis.' Not yet five-and-thirty at the opening of ACOK (born ~264 AC). Resents that Robert gave Storm's End to Renly rather than to him. Dispatched 117 raven-letters proclaiming Joffrey, Tommen, and Myrcella to be bastards born of incest between Cersei and Jaime. Participated in the Lightbringer ceremony; his new goshawk is R'hllor. Trueborn son of Steffon Baratheon and Cassana Estermont. (ACOK Prologue, Davos I)"
+            religion: "R'hllor"
+        notes: "Second son of Steffon Baratheon and Cassana Estermont. Broad-shouldered, sinewy, with a tightness to his face — hard is the word men use for Stannis. Grinding his teeth is his tell. Held Storm's End through a year-long siege during Robert's Rebellion, nearly starving. Resents that Robert gave Storm's End to Renly instead of him. Proclaimed himself king after discovering Joffrey's true parentage. Wielded Lightbringer, a flaming sword, proclaimed Azor Ahai reborn by Melisandre. Defeated at the Blackwater. Sailed north to rescue the Night's Watch from Mance Rayder's wildling host. At Castle Black and marching on Winterfell as of ADWD."

@@ -9,12 +9,21 @@ persons:
                 value: Joffrey Baratheon
             external_ids:
                 - "MH:I168"
+            born_on: "286"
+            born_at: place-kings-landing
+            died_on: "300"
+            died_at: place-kings-landing
+            cause_of_death: "Poisoned at his own wedding feast (the Strangler)"
             title:
                 - value: "Prince"
-                  date: "TO 298"
-                - value: "King of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms"
-                  date: "FROM 298"
+                  date: "FROM 286 TO 298"
+                - value: "King of the Andals and the Rhoynar and the First Men"
+                  date: "FROM 298 TO 300"
+                - value: "Lord of the Seven Kingdoms"
+                  date: "FROM 298 TO 300"
+            alias:
+                - value: "Joff"
+                - value: "The Young Usurper"
             house: "Baratheon"
-            died_on: "300"
-            cause_of_death: "Poisoned at his own wedding feast"
-        notes: "Joffrey Baratheon, the First of His Name. Twelve years old at the time of AGOT, thirteen in ASOS. Eldest son of King Robert I Baratheon and Queen Cersei of House Lannister. ASOS appendix lists him as King on the Iron Throne, a boy of thirteen. Died during his wedding feast to Margaery Tyrell (the Purple Wedding), poisoned by the Strangler."
+            religion: "Faith of the Seven"
+        notes: "Officially the eldest son of Robert I Baratheon and Cersei Lannister. Actually the product of Cersei's incestuous relationship with Jaime Lannister. Golden-haired, green-eyed. Cruel, cowardly, and capricious. Ordered the execution of Eddard Stark against his council's wishes. Died at the Purple Wedding — his marriage feast with Margaery Tyrell — poisoned by the Strangler in his wine, a plot by Olenna Tyrell and Petyr Baelish."

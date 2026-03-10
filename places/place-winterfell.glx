@@ -5,4 +5,5 @@ places:
         parent: place-the-north
         properties:
             seat_of: "House Stark"
-        notes: "Ancient seat of House Stark, Kings of Winter and later Wardens of the North. Built over natural hot springs that warm its walls and glass gardens. Said to have been built by Brandon the Builder."
+            also_known_as: "The Winter Castle"
+        notes: "Ancient seat of House Stark, the oldest and largest castle in the North. Said to have been built by Brandon the Builder eight thousand years ago. Built over natural hot springs that warm its walls and glass gardens even in the deepest winter. Two massive granite walls — the inner wall eighty feet high, the outer a hundred. Contains a great hall, the First Keep (oldest structure), the broken tower, a godswood with an ancient heart tree, the crypts of the Stark kings, and a maester's turret. The godswood has an ancient weirwood with a carved face. The crypts run deep beneath the castle — the Kings of Winter sit enthroned in stone with iron swords across their laps and direwolves at their feet. Burned and sacked by Ramsay Bolton in 299 AC but later rebuilt and occupied by the Boltons."

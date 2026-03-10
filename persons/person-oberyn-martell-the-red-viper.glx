@@ -10,10 +10,15 @@ persons:
                 value: Oberyn Martell
             external_ids:
                 - "MH:I263"
+            born_on: "257"
+            died_on: "300"
+            died_at: place-kings-landing
+            cause_of_death: "Skull crushed by Ser Gregor Clegane during trial by combat"
             alias:
                 - value: "The Red Viper"
+                - value: "The Red Viper of Dorne"
             title:
                 - value: "Prince"
             house: "Martell"
-            cause_of_death: "Slain by Ser Gregor Clegane during a trial by combat"
-        notes: "Prince of Dorne, brother of Prince Doran Martell and Princess Elia Martell. Father of the Sand Snakes by various women. Slain by Ser Gregor Clegane during Tyrion Lannister's trial by combat. Listed as deceased in the AFFC appendix."
+            religion: "Faith of the Seven"
+        notes: "Prince of Dorne, younger brother of Prince Doran Martell and brother of the murdered Princess Elia. Handsome, lean, dark-skinned with dark eyes and a lined, thin face. A renowned warrior who fights with a spear and poisons his weapons with manticore venom — hence 'the Red Viper.' Studied at the Citadel and forged several links of a maester's chain. Traveled to Essos and fought as a sellsword with the Second Sons. Father of eight bastard daughters known as the Sand Snakes: Obara, Nymeria, Tyene, Sarella, Elia, Obella, Dorea, and Loreza — each by a different mother. His paramour is Ellaria Sand. Came to King's Landing to claim his sister's justice. Championed Tyrion in his trial by combat against Gregor Clegane. Had Gregor beaten and poisoned but demanded a confession, giving Gregor the opening to grab him and crush his skull while shouting 'Elia of Dorne! I killed her screaming whelp! Then I raped her! Then I smashed her head in like this!'"

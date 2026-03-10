@@ -10,10 +10,15 @@ persons:
                 value: Brandon Stark
             external_ids:
                 - "MH:I220"
+            born_on: "290"
+            born_at: place-winterfell
             alias:
                 - value: "Bran"
+                - value: "Bran the Broken"
+                - value: "The Winged Wolf"
             house: "Stark"
+            religion: "Old Gods"
             title:
                 - value: "Prince of Winterfell"
                 - value: "Heir to the North"
-        notes: "Called Bran. A crippled boy of nine. Believed dead. Prince of Winterfell and heir to the North. Beyond the Wall in the caverns beneath a hollow hill with the Three-Eyed Crow, Meera and Jojen Reed, and Hodor (ADWD Appendix)."
+        notes: "Fourth child and second son of Eddard Stark and Catelyn Tully. Auburn hair and blue eyes (Tully coloring). His direwolf is Summer. Loves climbing. Pushed from a tower window by Jaime Lannister after witnessing Jaime and Cersei's incest — crippled from the waist down, cannot walk. A powerful skinchanger (warg) who can enter the minds of his direwolf Summer and Hodor. Also a greenseer. Traveled beyond the Wall guided by Jojen and Meera Reed and the mysterious Coldhands. Found the Three-Eyed Crow (Brynden Rivers, Bloodraven) in a cavern beneath a weirwood hill. Learning to use the weirwood network to see across time."

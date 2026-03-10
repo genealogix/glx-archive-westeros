@@ -1,11 +1,14 @@
 persons:
     person-khal-drogo:
         properties:
+            gender: male
             name:
                 value: "Khal Drogo"
                 fields:
                     given: "Drogo"
-            gender: male
+            born_on: "ABT 267"
+            died_on: "298"
+            cause_of_death: "Smothered by Daenerys after being left in a vegetative state by Mirri Maz Duur's blood magic"
             title:
                 - value: "Khal"
-        notes: "Khal of a great Dothraki khalasar of approximately 100,000 riders. Unmarried at the time of Daenerys I. His manse in Pentos was given to him by the magisters of that city. Described as a head taller than the tallest man in the room, copper-skinned, with a long oiled braid hung with bells — the braid indicating he had never been defeated in combat. No older than thirty at the time of Daenerys I."
+        notes: "Khal of the largest Dothraki khalasar — approximately 40,000 riders. A head taller than the tallest man, copper-skinned, with a long oiled braid hung with bells — the braid indicating he had never been defeated in combat. Married Daenerys Targaryen in Pentos. Fell in love with her as she grew from a frightened girl into a fierce khaleesi. Wounded by the rival khal Ogo and treated by the maegi Mirri Maz Duur, whose treacherous blood magic left him alive but as an empty husk. Daenerys smothered him with a pillow and placed his body on a funeral pyre along with three dragon eggs. She walked into the flames and emerged unburnt with three living dragons."

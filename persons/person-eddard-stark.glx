@@ -9,9 +9,24 @@ persons:
                 value: Eddard Stark
             external_ids:
                 - "MH:I214"
+            born_on: "263"
+            born_at: place-winterfell
+            died_on: "299"
+            died_at: place-great-sept-of-baelor
+            cause_of_death: "Execution by beheading"
             title:
                 - value: "Lord of Winterfell"
+                  date: "FROM 280 TO 299"
                 - value: "Warden of the North"
+                  date: "FROM 280 TO 299"
+                - value: "Hand of the King"
+                  date: "FROM 298 TO 298"
+                - value: "Protector of the Realm"
+                  date: "FROM 298 TO 298"
             house: "Stark"
+            religion: "Old Gods"
             alias:
                 - value: "Ned"
+                - value: "The Quiet Wolf"
+                - value: "The Ned"
+        notes: "Second son of Lord Rickard Stark and Lady Lyarra Stark. Fostered at the Eyrie with Robert Baratheon under Jon Arryn. Led the northern host during Robert's Rebellion. Long face, dark grey eyes, close-trimmed brown beard going grey. Known for his unwavering sense of honor and justice. Executed on the steps of the Great Sept of Baelor on the orders of King Joffrey, beheaded by Ser Ilyn Payne with Ned's own greatsword, Ice."

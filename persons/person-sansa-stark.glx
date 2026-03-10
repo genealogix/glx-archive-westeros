@@ -9,10 +9,15 @@ persons:
                 value: Sansa Stark
             external_ids:
                 - "MH:I218"
+            born_on: "286"
+            born_at: place-winterfell
             title:
                 - value: "Princess"
                   date: "FROM 298 TO 299"
             house: "Stark"
+            religion: "Faith of the Seven"
             alias:
                 - value: "Alayne Stone"
-        notes: "Eldest daughter of Eddard Stark. Married Tyrion Lannister. Fled King's Landing and now disguised as ALAYNE STONE, supposed natural daughter of Lord Petyr Baelish, 'a maid of three-and-ten' in the Vale (ADWD Appendix)."
+                - value: "Little Bird"
+                - value: "Little Dove"
+        notes: "Eldest daughter of Eddard Stark and Catelyn Tully. Auburn hair (Tully coloring) and blue eyes. Her direwolf Lady was killed on Robert's orders. Betrothed to Joffrey Baratheon, later married to Tyrion Lannister. Fled King's Landing after Joffrey's murder with the help of Petyr Baelish. Disguised as Alayne Stone, supposed natural daughter of Littlefinger, in the Vale. A maid of three-and-ten as of ADWD."

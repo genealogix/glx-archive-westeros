@@ -7,9 +7,12 @@ persons:
                     given: Ramsay
                     surname: Bolton
                 value: Ramsay Bolton
+            born_on: "ABT 282"
             alias:
                 - value: "The Bastard of Bolton"
+                - value: "The Bastard of the Dreadfort"
                 - value: "Lord Ramsay"
+                - value: "Reek"
             title:
                 - value: "Lord of the Hornwood"
                 - value: "Lord of Winterfell"

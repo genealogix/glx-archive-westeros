@@ -9,9 +9,12 @@ persons:
                 value: Margaery Tyrell
             external_ids:
                 - "MH:I379"
+            born_on: "283"
             title:
                 - value: "Queen"
                   date: "FROM 300"
+            alias:
+                - value: "The Little Queen"
             house: "Tyrell"
-            born_on: "ABT 283"
-        notes: "Queen Margaery of House Tyrell. A maid of sixteen. Widowed bride of King Joffrey I Baratheon and of Lord Renly Baratheon before him. Twice wed and twice widowed per the AFFC appendix."
+            religion: "Faith of the Seven"
+        notes: "Only daughter of Lord Mace Tyrell. Beautiful, clever, and charming — skilled at cultivating popular adoration. Married first to Renly Baratheon (widowed by shadow assassin), then to Joffrey Baratheon (widowed at the Purple Wedding), then to Tommen Baratheon. Thrice wed. Arrested by the Faith Militant on charges of fornication and conspiracy to commit perjury — imprisoned in the Great Sept. Her trial is pending as of ADWD. Olenna Tyrell said of Joffrey: 'Once the ugly little thing was safely off his throne, we'd have been fine without him.'"

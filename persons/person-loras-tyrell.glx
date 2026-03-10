@@ -10,6 +10,7 @@ persons:
                 value: Ser Loras Tyrell
             external_ids:
                 - "MH:I374"
+            born_on: "282"
             title:
                 - value: "Ser"
                 - value: "Lord Commander of the Rainbow Guard"
@@ -19,4 +20,5 @@ persons:
             alias:
                 - value: "The Knight of Flowers"
             house: "Tyrell"
-        notes: "Youngest son of Mace Tyrell. The Knight of Flowers. Former Lord Commander of Renly Baratheon's Rainbow Guard. A Sworn Brother of the Kingsguard per the AFFC appendix."
+            religion: "Faith of the Seven"
+        notes: "Third and youngest son of Mace Tyrell and Lady Alerie Hightower. Strikingly handsome with brown curls and brown eyes. One of the finest jousters in the realm. Secret lover of Renly Baratheon. Former Lord Commander of Renly's Rainbow Guard. After Renly's assassination, joined Joffrey's Kingsguard. Reportedly gravely wounded leading the assault on Dragonstone — covered in boiling oil. His condition is uncertain as of AFFC/ADWD."

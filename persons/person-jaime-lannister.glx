@@ -10,9 +10,19 @@ persons:
                 value: Ser Jaime Lannister
             external_ids:
                 - "MH:I164"
+            born_on: "266"
+            born_at: place-casterly-rock
             alias:
                 - value: "The Kingslayer"
+                - value: "The Lion of Lannister"
+                - value: "Goldenhand the Just"
             title:
+                - value: "Ser"
+                  date: "FROM 281"
                 - value: "Lord Commander of the Kingsguard"
+                  date: "FROM 299"
+                - value: "Warden of the East"
+                  date: "FROM 299 TO 300"
             house: "Lannister"
-        notes: "Twin to Cersei. ASOS appendix lists him as 'SER JAIME LANNISTER, called THE KINGSLAYER, a captive at Riverrun' and as 'Lord Commander' of Joffrey's Kingsguard. Lost his sword hand during ASOS (cut off by Vargo Hoat). Also titled Warden of the East in the ASOS appendix."
+            religion: "Faith of the Seven"
+        notes: "Twin to Cersei, eldest son of Tywin and Joanna Lannister. Tall, golden-haired, green-eyed — considered one of the finest swordsmen in the realm. Named to the Kingsguard by King Aerys II at age fifteen, the youngest ever. Slew Aerys during the Sack of King's Landing, earning the epithet 'Kingslayer.' Lost his sword hand during ASOS (cut off by Vargo Hoat of the Brave Companions). Wears a golden prosthetic hand. As of ADWD, he is in the Riverlands dealing with the siege of Riverrun, and vanishes into the wilderness with Brienne of Tarth."

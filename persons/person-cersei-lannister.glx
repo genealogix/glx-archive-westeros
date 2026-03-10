@@ -9,8 +9,13 @@ persons:
                 value: Cersei Lannister
             external_ids:
                 - "MH:I165"
+            born_on: "266"
+            born_at: place-casterly-rock
+            alias:
+                - value: "Light of the West"
             title:
                 - value: "Queen"
+                  date: "FROM 284 TO 298"
                 - value: "Queen Dowager"
                   date: "FROM 298"
                 - value: "Queen Regent"
@@ -19,5 +24,8 @@ persons:
                   date: "FROM 299"
                 - value: "Lady of Casterly Rock"
                   date: "FROM 300"
+                - value: "Shield of Lannisport"
+                  date: "FROM 300"
             house: "Lannister"
-        notes: "Cersei Lannister, the First of Her Name. Twin to Jaime, widow of King Robert I Baratheon. Queen Dowager, Protector of the Realm, Lady of Casterly Rock, and Queen Regent per AFFC appendix. A prisoner at the Great Sept of Baelor as of ADWD."
+            religion: "Faith of the Seven"
+        notes: "Twin sister of Jaime Lannister (born moments after him), eldest child of Tywin and Joanna Lannister. Golden hair, emerald green eyes, considered the most beautiful woman in the Seven Kingdoms. Married King Robert I Baratheon. Her three children — Joffrey, Myrcella, and Tommen — are actually fathered by her twin brother Jaime. A prisoner at the Great Sept of Baelor as of ADWD, forced to perform a walk of penance through King's Landing. The valonqar prophecy from Maggy the Frog haunts her — she believes Tyrion is the 'little brother' who will end her life."

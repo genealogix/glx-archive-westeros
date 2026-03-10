@@ -5,4 +5,5 @@ places:
         parent: place-the-westerlands
         properties:
             seat_of: "House Lannister"
-        notes: "Seat of House Lannister, carved from a great rock overlooking the Sunset Sea. The gold mines beneath it are the source of the Lannisters' legendary wealth."
+            also_known_as: "The Rock"
+        notes: "Seat of House Lannister, carved from a colossal stone hill beside the Sunset Sea. The Rock is three times the height of the Wall and riddled with tunnels, chambers, stairways, and natural caverns. The golden mines beneath it are the source of the Lannisters' legendary wealth, though by the time of the novels the mines have begun to run dry (a secret Tywin guards closely). Originally the seat of House Casterly, until Lann the Clever swindled them out of it using nothing but his wits. The castle has never been taken by force. The nearby city of Lannisport sits in its shadow. The Lion's Mouth is the main entrance, and the Golden Gallery contains the finest treasures of the West."

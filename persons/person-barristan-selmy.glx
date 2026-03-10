@@ -8,9 +8,12 @@ persons:
                     prefix: Ser
                     surname: Selmy
                 value: Ser Barristan Selmy
+            born_on: "236"
             alias:
                 - value: "Barristan the Bold"
                 - value: "Ser Grandfather"
+                - value: "Arstan Whitebeard"
+            religion: "Faith of the Seven"
             title:
                 - value: "Lord Commander of the Queensguard"
                 - value: "Queen's Hand"

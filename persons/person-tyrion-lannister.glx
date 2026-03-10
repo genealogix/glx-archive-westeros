@@ -9,11 +9,21 @@ persons:
                 value: Tyrion Lannister
             external_ids:
                 - "MH:I166"
+            born_on: "273"
+            born_at: place-casterly-rock
             alias:
                 - value: "The Imp"
                 - value: "Halfman"
+                - value: "Giant of Lannister"
+                - value: "Lord Tywin's Doom"
+                - value: "Yollo"
+                - value: "Hugor Hill"
+                - value: "The Bloody Hand"
+                - value: "No-Nose"
             title:
                 - value: "Acting Hand of the King"
                   date: "FROM 299 TO 299"
+                - value: "Master of Coin"
+                  date: "FROM 299 TO 300"
             house: "Lannister"
-        notes: "Called THE IMP and HALFMAN. Dwarf son of Tywin Lannister. ASOS appendix lists him as 'wounded and scarred on the Blackwater'. Married Sansa Stark during ASOS. Killed his father Tywin with a crossbow. Later a fugitive in exile across the narrow sea as of ADWD."
+        notes: "Third and youngest child of Tywin and Joanna Lannister. A dwarf with mismatched eyes (one green, one black), stunted legs, and a jutting forehead. His thin hair is so blond it appears white. Intelligent, sharp-witted, and a ferocious reader. His mother Joanna died giving birth to him, earning him his father's enmity. Married first to Tysha (annulled), then to Sansa Stark. Scarred across the face at the Battle of the Blackwater. Killed his father Tywin with a crossbow while on the privy. Fled to Essos and joined the Second Sons mercenary company. A fugitive in exile as of ADWD."

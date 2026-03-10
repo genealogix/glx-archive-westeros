@@ -5,7 +5,9 @@ persons:
             name:
                 value: Hodor
                 fields:
-                    given: Hodor
+                    given: Walder
             alias:
+                - value: "Hodor"
                 - value: "Walder"
-        notes: "Great-grandson of Old Nan. A simple lad, seven feet tall. Companion and protector of Bran Stark beyond the Wall in the Haunted Forest (ADWD Appendix)."
+            born_at: place-winterfell
+        notes: "True name is Walder. Great-grandson of Old Nan. A simple-minded giant of a man, seven feet tall, who can only say 'Hodor.' Serves as Bran Stark's legs after his crippling — carries him in a wicker basket on his back. Accompanied Bran, Meera, and Jojen Reed beyond the Wall to the cave of the Three-Eyed Crow. Bran can warg into Hodor, which terrifies the gentle giant. Hodor is descended from Ser Duncan the Tall (implied)."

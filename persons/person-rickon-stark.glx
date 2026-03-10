@@ -9,5 +9,8 @@ persons:
                 value: Rickon Stark
             external_ids:
                 - "MH:I221"
+            born_on: "295"
+            born_at: place-winterfell
             house: "Stark"
-        notes: "A boy of four, believed dead. Accompanied by Osha, a wildling woman once captive at Winterfell, and Shaggydog, his black and savage direwolf (ADWD Appendix)."
+            religion: "Old Gods"
+        notes: "Youngest child of Eddard Stark and Catelyn Tully. A wild boy of three-four during the events of the novels. His direwolf is Shaggydog — a fierce, black-furred beast as wild as his master. Believed dead after Theon's capture of Winterfell (the burned bodies were actually two miller's boys). Escaped with the wildling woman Osha. Believed to have gone to Skagos, a savage island ruled by cannibals and unicorn riders. Wyman Manderly secretly sent Davos Seaworth to retrieve him."

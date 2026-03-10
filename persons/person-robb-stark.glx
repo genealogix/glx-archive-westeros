@@ -7,6 +7,13 @@ persons:
                     given: Robb
                     surname: Stark
                 value: Robb Stark
+            external_ids:
+                - "MH:I217"
+            born_on: "283"
+            born_at: place-riverrun
+            died_on: "299"
+            died_at: place-the-twins
+            cause_of_death: "Murdered at the Red Wedding"
             title:
                 - value: "Lord of Winterfell"
                   date: "FROM 298 TO 299"
@@ -17,8 +24,5 @@ persons:
             alias:
                 - value: "The Young Wolf"
             house: Stark
-            died_on: "299"
-            cause_of_death: "Murdered at the Red Wedding"
-            external_ids:
-                - "MH:I217"
-        notes: "Eldest son of Eddard Stark and Lady Catelyn of House Tully. Crowned King in the North after his father's execution. ASOS appendix lists him as 'King in the North, and King of the Trident'. Married Jeyne Westerling. Murdered at the Twins during the Red Wedding."
+            religion: "Old Gods"
+        notes: "Eldest son of Eddard Stark and Catelyn Tully. Auburn hair (Tully coloring) and blue eyes. His direwolf is Grey Wind. Never lost a battle — defeated Jaime Lannister at the Whispering Wood, won the Battle of the Camps, invaded the Westerlands. Crowned King in the North by his bannermen after Ned's execution. Married Jeyne Westerling after taking her maidenhead (a matter of honor). This broke his marriage pact with Walder Frey. Murdered at the Twins during the Red Wedding along with his mother, Grey Wind, and most of his host. Shot with crossbow bolts and stabbed by Roose Bolton ('Jaime Lannister sends his regards')."

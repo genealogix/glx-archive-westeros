@@ -7,7 +7,12 @@ persons:
                 fields:
                     given: Sandor
                     surname: Clegane
+            born_on: "ABT 271"
+            died_on: "300"
+            cause_of_death: "Left to die of wound fever (supposedly)"
             alias:
-                - value: "the Hound"
+                - value: "The Hound"
+                - value: "Dog"
+                - value: "Joffrey's Dog"
             house: Clegane
-        notes: "Called the Hound. Listed among Joffrey's Kingsguard in ACOK appendix, though not a knight. Not a Ser — refuses to take knightly vows. First appears in AGOT but first in appendix in ACOK."
+        notes: "Younger brother of Ser Gregor 'The Mountain' Clegane. As a child, Gregor held his face to a brazier for playing with one of his toys, leaving terrible burn scars on the right side of his face. Hates fire and his brother. Tall, powerful warrior but refuses to take knightly vows. Served as Joffrey's sworn shield. Fled the Battle of the Blackwater when wildfire consumed the river. Captured Arya Stark and wandered the Riverlands with her. Wounded in a fight at the crossroads inn and left to die by Arya. His helm — a snarling dog — was taken by Lem Lemoncloak. A gravedigger on the Quiet Isle may be Sandor, alive but at peace."
