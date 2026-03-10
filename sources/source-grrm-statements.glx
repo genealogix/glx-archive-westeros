@@ -1,0 +1,8 @@
+sources:
+    source-grrm-statements:
+        title: "So Spake Martin (Author Statements)"
+        type: author_statement
+        authors:
+            - "George R.R. Martin"
+        repository: repository-asoiaf-novels
+        notes: "Collected author statements from interviews, convention appearances, blog posts, and manuscript annotations. Compiled by fans at Westeros.org as 'So Spake Martin' (SSM). Includes direct author commentary on plot, characters, and fan theories."

@@ -1,0 +1,10 @@
+sources:
+    source-got-hbo:
+        title: "Game of Thrones"
+        type: television
+        authors:
+            - "David Benioff"
+            - "D.B. Weiss"
+        date: "2011"
+        repository: repository-hbo-series
+        notes: "HBO television adaptation of A Song of Ice and Fire, 8 seasons (2011-2019). Diverges from book canon in many areas; treated as a separate evidence track."

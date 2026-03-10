@@ -5,7 +5,7 @@ events:
         place: place-winterfell
         participants:
             - person: person-brandon-stark-bran
-              role: target
+              role: victim
             - person: person-catelyn-tully
               role: defender
         properties:

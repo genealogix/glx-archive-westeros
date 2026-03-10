@@ -1,0 +1,35 @@
+assertions:
+    assertion-rlj-book-evidence:
+        subject:
+            person: person-jon-snow
+        property: parent
+        value: "person-rhaegar-targaryen and person-lyanna-stark"
+        citations:
+            - citation-agot-eddard-x
+            - citation-awoiaf-jon-snow-theories
+        confidence: medium
+        status: supported
+        notes: "R+L=J — the theory that Jon Snow is the son of Prince Rhaegar Targaryen and Lyanna Stark, not the bastard of Eddard Stark. Book-only evidence (as of ADWD): (1) Ned's Tower of Joy fever dream in AGOT Eddard X — three Kingsguard guard Lyanna, who dies in a 'bed of blood' (a childbirth metaphor used elsewhere in the series) saying 'Promise me, Ned.' (2) Blue winter roses are linked to both Lyanna and Jon — Daenerys sees a blue flower growing from a wall of ice in the House of the Undying (ACOK Daenerys IV). (3) Ned's prayer in ADWD Bran II: 'let them grow up close as brothers, with only love between them' — implying Robb and Jon are NOT brothers. (4) Ned never thinks 'I fathered a bastard'; he only promises to tell Jon about his mother 'next time.' (5) Three Kingsguard at the Tower of Joy protect a member of the royal family, not a lord's mistress. The textual evidence is extensive but circumstantial in the books — GRRM has neither confirmed nor denied. Status: supported (strong circumstantial evidence, not yet proven in book canon)."
+
+    assertion-rlj-show-confirmed:
+        subject:
+            person: person-jon-snow
+        property: parent
+        value: "person-rhaegar-targaryen and person-lyanna-stark"
+        citations:
+            - citation-got-s06e10
+            - citation-got-s07e07
+        confidence: high
+        status: proven
+        notes: "R+L=J confirmed in HBO's Game of Thrones. In S06E10 'The Winds of Winter,' Bran's vision shows Lyanna giving birth to Jon at the Tower of Joy and whispering to Ned: 'If Robert finds out, he'll kill him. You have to protect him. Promise me, Ned.' In S07E07 'The Dragon and the Wolf,' it is further revealed that Rhaegar and Lyanna were secretly married, making Jon a trueborn Targaryen named Aegon. Show canon diverges from books here: Rhaegar's marriage to Elia was annulled (book-only: no annulment is mentioned; Targaryens historically practiced polygamy). D&D confirmed GRRM told them Jon's parentage before the show began, calling it 'the central mystery' of the series. Status: proven (show canon). Note: While the show confirms Jon's parentage, the specific details (annulment vs. polygamy, name 'Aegon') may differ in the books."
+
+    assertion-ned-stark-claim-jon-is-his:
+        subject:
+            person: person-jon-snow
+        property: parent
+        value: person-eddard-stark
+        citations:
+            - citation-agot-eddard-xii
+        confidence: low
+        status: disproven
+        notes: "Eddard Stark publicly claimed Jon Snow as his own bastard son, fathered during Robert's Rebellion. Robert Baratheon noted Jon's mother must have been 'a rare wench' to make Ned forget his honor. Catelyn heard rumors it was Ashara Dayne; Ned told Robert it was 'Wylla.' Ned's reputation for unshakeable honor made this claim widely accepted — but Robert also said Ned 'never could lie for love nor honor,' which is ironic if the biggest lie Ned ever told was precisely for love (of Lyanna) and honor (his promise to her). The show confirms Ned lied to protect Jon from Robert's wrath toward Targaryen children. Status: disproven (show), disproven by weight of textual evidence (books)."

@@ -1,0 +1,22 @@
+assertions:
+    assertion-coldhands-is-benjen-disproven:
+        subject:
+            person: person-coldhands
+        property: identity
+        value: person-benjen-stark
+        citations:
+            - citation-grrm-adwd-manuscript-note
+        confidence: high
+        status: disproven
+        notes: "One of the most popular ASOIAF theories definitively disproven by the author. Fans long speculated that Coldhands — a mysterious, undead-but-sentient figure in Night's Watch blacks who aids Bran beyond the Wall — was Benjen Stark, who vanished on a ranging in AGOT. In January 2015, Reddit user _honeybird examined GRRM's original ADWD manuscript at the Cushing Library (Texas A&M University) and found a marginal note: editor Anne Groell wrote 'Is this Benjen? I think it's Benjen...' with a smiley face. GRRM's response, circled in red ink: 'NO.' Additional textual counter-evidence: Leaf tells Bran that Coldhands was 'killed long ago' (ADWD Bran II), while Benjen disappeared only two years before. The HBO show merged the characters anyway — in S06E06, Benjen appears as a Coldhands-like figure who says the Children of the Forest saved him."
+
+    assertion-coldhands-is-benjen-show:
+        subject:
+            person: person-coldhands
+        property: identity
+        value: person-benjen-stark
+        citations:
+            - citation-got-s06e10
+        confidence: high
+        status: accepted
+        notes: "In the HBO show (but NOT the books), the Coldhands character is merged with Benjen Stark. In Season 6, Benjen appears beyond the Wall in Night's Watch blacks, stating the Children of the Forest saved him from becoming a wight by plunging dragonglass into his heart. He rescues Bran and Meera, fulfilling Coldhands' role. This is a show-only adaptation choice. GRRM explicitly denied Coldhands is Benjen in the book canon. This is a clear example of book/show canon divergence."

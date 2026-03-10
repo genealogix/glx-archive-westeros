@@ -9,9 +9,9 @@ events:
             - person: person-tywin-lannister
               role: victim
             - person: person-jaime-lannister
-              role: accomplice
+              role: conspirator
             - person: person-varys
-              role: accomplice
+              role: conspirator
             - person: person-shae
               role: victim
         properties:

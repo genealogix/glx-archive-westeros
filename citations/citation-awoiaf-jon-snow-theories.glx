@@ -1,0 +1,8 @@
+citations:
+    citation-awoiaf-jon-snow-theories:
+        source: source-awoiaf
+        properties:
+            locator: "Jon Snow/Theories"
+            text_from_source: "The most popular theory regarding the identity of Jon Snow's mother is Lyanna Stark, with Prince Rhaegar Targaryen for his father."
+            accessed: "2026-03-10"
+        notes: "AWOIAF comprehensive theories page cataloguing all textual evidence for Jon Snow's parentage across multiple candidate theories. References dozens of novel chapters. URL: https://awoiaf.westeros.org/index.php/Jon_Snow/Theories"
