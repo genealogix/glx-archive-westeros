@@ -1,0 +1,12 @@
+assertions:
+  assertion-joffrey-born-286:
+    subject:
+      person: person-joffrey-baratheon
+    property: born_on
+    value: "286"
+    citations:
+      - citation-awoiaf-cersei-lannister
+      - citation-agot-appendix
+    confidence: high
+    status: proven
+    notes: "Born 286 AC in King's Landing."

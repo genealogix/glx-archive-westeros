@@ -1,0 +1,8 @@
+sources:
+    source-awoiaf:
+        title: "A Wiki of Ice and Fire"
+        type: wiki
+        authors:
+            - "Westeros.org community"
+        repository: repository-awoiaf
+        notes: "Community-maintained wiki for A Song of Ice and Fire book canon. Cross-references claims to specific novel chapters and appendices."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-born-271:
+        subject:
+            person: person-sandor-clegane
+        property: born_on
+        value: "ABT 271"
+        citations:
+            - citation-awoiaf-sandor-clegane
+        confidence: medium
+        status: proven
+        notes: "Born approximately 270-271 AC."

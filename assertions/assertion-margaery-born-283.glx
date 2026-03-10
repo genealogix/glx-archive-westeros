@@ -1,0 +1,11 @@
+assertions:
+    assertion-margaery-born-283:
+        subject:
+            person: person-margaery-tyrell
+        property: born_on
+        value: "283"
+        citations:
+            - citation-awoiaf-cersei-lannister
+        confidence: high
+        status: proven
+        notes: "Born approximately 283 AC. Married Renly, Joffrey, and Tommen."

@@ -1,0 +1,11 @@
+assertions:
+  assertion-bran-religion-old-gods:
+    subject:
+      person: person-brandon-stark-bran
+    property: religion
+    value: "Old Gods"
+    citations:
+      - citation-agot-bran-i
+    confidence: high
+    status: proven
+    notes: "Follows the Old Gods like his father."

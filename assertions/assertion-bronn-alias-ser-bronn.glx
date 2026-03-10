@@ -1,0 +1,11 @@
+assertions:
+    assertion-bronn-alias-ser-bronn:
+        subject:
+            person: person-bronn
+        property: alias
+        value: "Ser Bronn of the Blackwater"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: proven
+        notes: "Knighted after the Battle of the Blackwater."

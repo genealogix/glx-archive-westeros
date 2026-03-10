@@ -1,0 +1,11 @@
+assertions:
+    assertion-davos-born-260:
+        subject:
+            person: person-davos-seaworth
+        property: born_on
+        value: "ABT 260"
+        citations:
+            - citation-awoiaf-stannis-baratheon
+        confidence: medium
+        status: proven
+        notes: "Born approximately 260 AC in Flea Bottom, King's Landing."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-oberyn-cause-of-death:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: cause_of_death
+        value: "Skull crushed by Ser Gregor Clegane during trial by combat"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: proven
+        notes: "Had Gregor beaten but demanded a confession, giving Gregor the opening."

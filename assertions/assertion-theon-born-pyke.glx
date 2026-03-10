@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-born-pyke:
+        subject:
+            person: person-theon-greyjoy
+        property: born_at
+        value: "place-pyke"
+        citations:
+            - citation-awoiaf-theon-greyjoy
+        confidence: high
+        status: proven
+        notes: "Born at Pyke, seat of House Greyjoy."

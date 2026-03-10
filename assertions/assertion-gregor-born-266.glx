@@ -1,0 +1,11 @@
+assertions:
+  assertion-gregor-born-266:
+    subject:
+      person: person-gregor-clegane
+    property: born_on
+    value: "ABT 266"
+    citations:
+      - citation-awoiaf-gregor-clegane
+    confidence: medium
+    status: proven
+    notes: "Approximate birth year."

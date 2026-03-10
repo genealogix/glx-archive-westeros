@@ -1,0 +1,12 @@
+assertions:
+  assertion-jaime-born-266:
+    subject:
+      person: person-jaime-lannister
+    property: born_on
+    value: "266"
+    citations:
+      - citation-twoiaf-targaryen-aerys-ii
+      - citation-twoiaf-westerlands-lannisters
+    confidence: high
+    status: proven
+    notes: "Born 266 AC at Casterly Rock. Twin to Cersei."

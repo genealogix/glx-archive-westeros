@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-cause-of-death:
+        subject:
+            person: person-renly-baratheon
+        property: cause_of_death
+        value: "Murdered by a shadow assassin birthed by Melisandre"
+        citations:
+            - citation-acok-catelyn-v
+        confidence: high
+        status: proven
+        notes: "Shadow creature with Stannis's face cut his throat in his camp."

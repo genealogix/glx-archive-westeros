@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-alias-demon-of-trident:
+        subject:
+            person: person-robert-baratheon-i
+        property: alias
+        value: "The Demon of the Trident"
+        citations:
+            - citation-awoiaf-robert-baratheon
+        confidence: high
+        status: proven
+        notes: "Earned for his prowess at the Battle of the Trident where he slew Rhaegar."

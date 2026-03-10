@@ -1,0 +1,11 @@
+assertions:
+  assertion-tywin-alias-old-lion:
+    subject:
+      person: person-tywin-lannister
+    property: alias
+    value: "The Old Lion"
+    citations:
+      - citation-awoiaf-tywin-lannister
+    confidence: high
+    status: proven
+    notes: "Common epithet for Tywin."

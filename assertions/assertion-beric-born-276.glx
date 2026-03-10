@@ -1,0 +1,11 @@
+assertions:
+    assertion-beric-born-276:
+        subject:
+            person: person-beric-dondarrion
+        property: born_on
+        value: "ABT 276"
+        citations:
+            - citation-awoiaf-eddard-stark
+        confidence: medium
+        status: proven
+        notes: "Born approximately 276 AC."

@@ -1,0 +1,11 @@
+assertions:
+  assertion-bran-born-290:
+    subject:
+      person: person-brandon-stark-bran
+    property: born_on
+    value: "290"
+    citations:
+      - citation-awoiaf-bran-stark
+    confidence: high
+    status: proven
+    notes: "Born 290 AC at Winterfell."

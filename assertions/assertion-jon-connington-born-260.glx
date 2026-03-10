@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-connington-born-260:
+        subject:
+            person: person-jon-connington
+        property: born_on
+        value: "ABT 260"
+        citations:
+            - citation-awoiaf-robert-baratheon
+        confidence: medium
+        status: proven
+        notes: "Approximate birth year. Was Hand of the King during Robert's Rebellion."

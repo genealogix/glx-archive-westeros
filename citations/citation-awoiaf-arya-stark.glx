@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-arya-stark:
+    source: source-awoiaf
+    properties:
+      locator: "Arya Stark"
+      accessed: "2026-03-09"
+    notes: "Birth year (289 AC), birthplace (Winterfell), aliases (Arya Horseface, Arya Underfoot, Lumpyhead, Beth, Mercy)."

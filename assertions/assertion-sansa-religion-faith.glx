@@ -1,0 +1,11 @@
+assertions:
+  assertion-sansa-religion-faith:
+    subject:
+      person: person-sansa-stark
+    property: religion
+    value: "Faith of the Seven"
+    citations:
+      - citation-agot-sansa-i
+    confidence: high
+    status: proven
+    notes: "Raised in the Faith of the Seven like her mother Catelyn."

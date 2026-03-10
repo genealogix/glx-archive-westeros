@@ -1,0 +1,12 @@
+assertions:
+  assertion-robb-born-283:
+    subject:
+      person: person-robb-stark
+    property: born_on
+    value: "283"
+    citations:
+      - citation-awoiaf-eddard-stark
+      - citation-agot-appendix
+    confidence: high
+    status: proven
+    notes: "Born in 283 AC at Riverrun during Robert's Rebellion."

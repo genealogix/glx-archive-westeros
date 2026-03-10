@@ -1,0 +1,11 @@
+assertions:
+  assertion-tywin-born-casterly-rock:
+    subject:
+      person: person-tywin-lannister
+    property: born_at
+    value: "place-casterly-rock"
+    citations:
+      - citation-awoiaf-tywin-lannister
+    confidence: high
+    status: proven
+    notes: "Born at Casterly Rock."

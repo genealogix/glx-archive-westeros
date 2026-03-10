@@ -1,0 +1,11 @@
+assertions:
+  assertion-tyrion-title-master-of-coin:
+    subject:
+      person: person-tyrion-lannister
+    property: title
+    value: "Master of Coin"
+    citations:
+      - citation-asos-appendix
+    confidence: high
+    status: proven
+    notes: "Appointed Master of Coin by his father Tywin during ASOS."

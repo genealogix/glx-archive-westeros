@@ -1,0 +1,12 @@
+assertions:
+  assertion-jon-born-283:
+    subject:
+      person: person-jon-snow
+    property: born_on
+    value: "283"
+    citations:
+      - citation-awoiaf-jon-snow
+      - citation-agot-appendix
+    confidence: high
+    status: proven
+    notes: "Born 283 AC. True parentage disputed."

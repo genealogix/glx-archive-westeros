@@ -1,0 +1,11 @@
+assertions:
+    assertion-oberyn-died-300:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: died_on
+        value: "300"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: proven
+        notes: "Died during trial by combat against Gregor Clegane."

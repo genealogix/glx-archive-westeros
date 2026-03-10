@@ -1,0 +1,11 @@
+assertions:
+  assertion-lyanna-cause-of-death:
+    subject:
+      person: person-lyanna-stark
+    property: cause_of_death
+    value: "Died in a 'bed of blood' at the Tower of Joy"
+    citations:
+      - citation-agot-eddard-x
+    confidence: high
+    status: proven
+    notes: "Ned found her dying, surrounded by blue winter roses. Her last words: 'Promise me, Ned.'"

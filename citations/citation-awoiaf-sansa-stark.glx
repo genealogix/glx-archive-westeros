@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-sansa-stark:
+    source: source-awoiaf
+    properties:
+      locator: "Sansa Stark"
+      accessed: "2026-03-09"
+    notes: "Birth year (286 AC), birthplace (Winterfell), aliases (Little Bird, Little Dove)."

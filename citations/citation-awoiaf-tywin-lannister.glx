@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-tywin-lannister:
+    source: source-awoiaf
+    properties:
+      locator: "Tywin Lannister"
+      accessed: "2026-03-09"
+    notes: "Birth year (242 AC), birthplace (Casterly Rock), aliases (The Old Lion, Great Lion of the Rock), title as Savior of the City, Hand tenure dates."

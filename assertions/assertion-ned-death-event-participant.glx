@@ -1,0 +1,11 @@
+assertions:
+  assertion-ned-death-event-participant:
+    subject:
+      event: event-death-eddard-stark
+    participant:
+      person: person-eddard-stark
+      role: principal
+    citations:
+      - citation-agot-arya-v
+    confidence: high
+    status: proven

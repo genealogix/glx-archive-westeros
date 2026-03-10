@@ -1,0 +1,11 @@
+assertions:
+  assertion-arya-born-289:
+    subject:
+      person: person-arya-stark
+    property: born_on
+    value: "289"
+    citations:
+      - citation-awoiaf-arya-stark
+    confidence: high
+    status: proven
+    notes: "Born 289 AC at Winterfell. Age 11 as of ADWD."

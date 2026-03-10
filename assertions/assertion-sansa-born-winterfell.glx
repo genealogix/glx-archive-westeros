@@ -1,0 +1,11 @@
+assertions:
+  assertion-sansa-born-winterfell:
+    subject:
+      person: person-sansa-stark
+    property: born_at
+    value: "place-winterfell"
+    citations:
+      - citation-awoiaf-sansa-stark
+    confidence: high
+    status: proven
+    notes: "Born at Winterfell."

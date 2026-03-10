@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-born-279:
+        subject:
+            person: person-theon-greyjoy
+        property: born_on
+        value: "ABT 279"
+        citations:
+            - citation-awoiaf-theon-greyjoy
+        confidence: medium
+        status: proven
+        notes: "Born approximately 278-279 AC at Pyke."

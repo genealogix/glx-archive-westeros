@@ -1,0 +1,11 @@
+assertions:
+    assertion-dany-alias-mhysa:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: alias
+        value: "Mhysa"
+        citations:
+            - citation-asos-appendix
+        confidence: high
+        status: proven
+        notes: "Ghiscari for 'Mother.' The freed slaves of Yunkai hailed her as Mhysa."

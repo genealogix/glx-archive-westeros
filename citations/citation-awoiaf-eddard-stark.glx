@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-eddard-stark:
+    source: source-awoiaf
+    properties:
+      locator: "Eddard Stark"
+      accessed: "2026-03-09"
+    notes: "Birth year (263 AC), birthplace (Winterfell), death (299 AC, Great Sept of Baelor), religion (Old Gods), aliases (The Quiet Wolf, The Ned), titles with date ranges."

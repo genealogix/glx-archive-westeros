@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-cersei-lannister:
+    source: source-awoiaf
+    properties:
+      locator: "Cersei Lannister"
+      accessed: "2026-03-09"
+    notes: "Birth year (266 AC), birthplace (Casterly Rock), titles with dates, alias (Light of the West), religion (Faith of the Seven)."

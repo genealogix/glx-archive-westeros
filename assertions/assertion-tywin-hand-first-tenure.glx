@@ -1,0 +1,11 @@
+assertions:
+  assertion-tywin-hand-first-tenure:
+    subject:
+      person: person-tywin-lannister
+    property: title
+    value: "Hand of the King"
+    citations:
+      - citation-twoiaf-targaryen-aerys-ii
+    confidence: high
+    status: proven
+    notes: "Served as Hand to Aerys II from approximately 262 to 281 AC — the longest tenure as Hand in recent history."

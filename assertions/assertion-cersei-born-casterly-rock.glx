@@ -1,0 +1,11 @@
+assertions:
+  assertion-cersei-born-casterly-rock:
+    subject:
+      person: person-cersei-lannister
+    property: born_at
+    value: "place-casterly-rock"
+    citations:
+      - citation-awoiaf-cersei-lannister
+    confidence: high
+    status: proven
+    notes: "Born at Casterly Rock."

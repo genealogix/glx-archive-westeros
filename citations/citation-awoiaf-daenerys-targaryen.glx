@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-daenerys-targaryen:
+    source: source-awoiaf
+    properties:
+      locator: "Daenerys Targaryen"
+      accessed: "2026-03-09"
+    notes: "Birth year (284 AC), birthplace (Dragonstone), titles (Princess of Dragonstone, Khaleesi, Queen of Meereen), aliases (Stormborn, Breaker of Shackles, Mhysa, Silver Queen)."

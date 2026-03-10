@@ -1,0 +1,11 @@
+assertions:
+  assertion-arya-born-winterfell:
+    subject:
+      person: person-arya-stark
+    property: born_at
+    value: "place-winterfell"
+    citations:
+      - citation-awoiaf-arya-stark
+    confidence: high
+    status: proven
+    notes: "Born at Winterfell."

@@ -1,0 +1,11 @@
+assertions:
+  assertion-robb-religion-old-gods:
+    subject:
+      person: person-robb-stark
+    property: religion
+    value: "Old Gods"
+    citations:
+      - citation-agot-appendix
+    confidence: high
+    status: proven
+    notes: "Follows the Old Gods like his father Ned."

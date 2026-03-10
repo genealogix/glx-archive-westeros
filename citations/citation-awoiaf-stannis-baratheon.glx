@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-stannis-baratheon:
+    source: source-awoiaf
+    properties:
+      locator: "Stannis Baratheon"
+      accessed: "2026-03-09"
+    notes: "Birth year (264 AC), birthplace (Storm's End), aliases (King in the Narrow Sea, King at the Wall), titles with dates."

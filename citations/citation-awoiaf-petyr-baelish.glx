@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-petyr-baelish:
+    source: source-awoiaf
+    properties:
+      locator: "Petyr Baelish"
+      accessed: "2026-03-09"
+    notes: "Birth year (268 AC), title dates (Master of Coin from 289), culture (Valemen)."

@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-sandor-clegane:
+    source: source-awoiaf
+    properties:
+      locator: "Sandor Clegane"
+      accessed: "2026-03-09"
+    notes: "Birth year (270-271 AC), aliases (Dog, Joffrey's Dog), supposed death (300 AC)."

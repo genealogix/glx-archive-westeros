@@ -1,0 +1,11 @@
+assertions:
+  assertion-ned-born-winterfell:
+    subject:
+      person: person-eddard-stark
+    property: born_at
+    value: "place-winterfell"
+    citations:
+      - citation-awoiaf-eddard-stark
+    confidence: high
+    status: proven
+    notes: "Born at Winterfell, seat of House Stark."

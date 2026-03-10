@@ -1,0 +1,11 @@
+assertions:
+    assertion-dany-alias-breaker-of-shackles:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: alias
+        value: "Breaker of Shackles"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "Title earned for freeing slaves in Slaver's Bay."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-born-277:
+        subject:
+            person: person-renly-baratheon
+        property: born_on
+        value: "277"
+        citations:
+            - citation-awoiaf-renly-baratheon
+        confidence: high
+        status: proven
+        notes: "Born 277 AC at Storm's End."

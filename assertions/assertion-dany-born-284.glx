@@ -1,0 +1,12 @@
+assertions:
+    assertion-dany-born-284:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: born_on
+        value: "284"
+        citations:
+            - citation-awoiaf-daenerys-targaryen
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "Born 284 AC on Dragonstone during a great storm."

@@ -1,0 +1,11 @@
+assertions:
+  assertion-joffrey-died-300:
+    subject:
+      person: person-joffrey-baratheon
+    property: died_on
+    value: "300"
+    citations:
+      - citation-asos-appendix
+    confidence: high
+    status: proven
+    notes: "Died at his wedding feast (the Purple Wedding). Poisoned by the Strangler."

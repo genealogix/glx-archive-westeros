@@ -1,0 +1,11 @@
+assertions:
+    assertion-barristan-born-236:
+        subject:
+            person: person-barristan-selmy
+        property: born_on
+        value: "236"
+        citations:
+            - citation-awoiaf-robert-baratheon
+        confidence: high
+        status: proven
+        notes: "Born 236 AC. Knighted by Aegon V."

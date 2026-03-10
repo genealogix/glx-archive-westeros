@@ -1,0 +1,11 @@
+assertions:
+  assertion-joffrey-died-kings-landing:
+    subject:
+      person: person-joffrey-baratheon
+    property: died_at
+    value: "place-kings-landing"
+    citations:
+      - citation-asos-appendix
+    confidence: high
+    status: proven
+    notes: "Died at the Purple Wedding in King's Landing."

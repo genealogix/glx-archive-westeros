@@ -1,0 +1,11 @@
+assertions:
+  assertion-ned-alias-quiet-wolf:
+    subject:
+      person: person-eddard-stark
+    property: alias
+    value: "The Quiet Wolf"
+    citations:
+      - citation-asos-appendix
+    confidence: high
+    status: proven
+    notes: "Called the quiet wolf by his sister Lyanna."

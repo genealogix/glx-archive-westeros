@@ -1,0 +1,11 @@
+assertions:
+  assertion-ned-religion-old-gods:
+    subject:
+      person: person-eddard-stark
+    property: religion
+    value: "Old Gods"
+    citations:
+      - citation-agot-catelyn-i
+    confidence: high
+    status: proven
+    notes: "He keeps faith with the old gods (AGOT Catelyn I)."

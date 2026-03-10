@@ -1,0 +1,11 @@
+assertions:
+  assertion-jaime-alias-goldenhand:
+    subject:
+      person: person-jaime-lannister
+    property: alias
+    value: "Goldenhand the Just"
+    citations:
+      - citation-affc-appendix
+    confidence: high
+    status: proven
+    notes: "Name given after he wears a golden prosthetic hand."

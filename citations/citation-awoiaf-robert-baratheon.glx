@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-robert-baratheon:
+    source: source-awoiaf
+    properties:
+      locator: "Robert I Baratheon"
+      accessed: "2026-03-09"
+    notes: "Birth year (262 AC), birthplace (Storm's End), death (298 AC, Red Keep), aliases (The Usurper, Demon of the Trident), cause of death."

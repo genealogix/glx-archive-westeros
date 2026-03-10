@@ -1,0 +1,12 @@
+assertions:
+  assertion-ned-born-263:
+    subject:
+      person: person-eddard-stark
+    property: born_on
+    value: "263"
+    citations:
+      - citation-awoiaf-eddard-stark
+      - citation-twoiaf-appendix
+    confidence: high
+    status: proven
+    notes: "Born in 263 AC at Winterfell. Calculated from age at death (35-36 in 299 AC)."

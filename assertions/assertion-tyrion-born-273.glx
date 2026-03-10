@@ -1,0 +1,12 @@
+assertions:
+  assertion-tyrion-born-273:
+    subject:
+      person: person-tyrion-lannister
+    property: born_on
+    value: "273"
+    citations:
+      - citation-twoiaf-targaryen-aerys-ii
+      - citation-twoiaf-westerlands-lannisters
+    confidence: high
+    status: proven
+    notes: "Born 273 AC at Casterly Rock."

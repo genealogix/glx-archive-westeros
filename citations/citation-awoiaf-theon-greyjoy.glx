@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-theon-greyjoy:
+    source: source-awoiaf
+    properties:
+      locator: "Theon Greyjoy"
+      accessed: "2026-03-09"
+    notes: "Birth year (278-279 AC), birthplace (Pyke), aliases (Prince of Fools, Squid Prince, Theon Kinslayer, Prince of Stink)."

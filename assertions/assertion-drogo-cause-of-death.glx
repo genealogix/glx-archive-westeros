@@ -1,0 +1,11 @@
+assertions:
+    assertion-drogo-cause-of-death:
+        subject:
+            person: person-khal-drogo
+        property: cause_of_death
+        value: "Smothered by Daenerys after being left in a vegetative state by Mirri Maz Duur's blood magic"
+        citations:
+            - citation-agot-daenerys-ix
+        confidence: high
+        status: proven
+        notes: "Mirri Maz Duur's treacherous blood magic left him alive but empty."

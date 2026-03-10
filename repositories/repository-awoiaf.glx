@@ -1,0 +1,7 @@
+repositories:
+    repository-awoiaf:
+        name: "A Wiki of Ice and Fire"
+        type: fan_wiki
+        properties:
+            url: "https://awoiaf.westeros.org"
+            maintainer: "Westeros.org community"

@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-born-storms-end:
+        subject:
+            person: person-stannis-baratheon
+        property: born_at
+        value: "place-storms-end"
+        citations:
+            - citation-awoiaf-stannis-baratheon
+        confidence: high
+        status: proven
+        notes: "Born at Storm's End."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-oberyn-born-257:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: born_on
+        value: "257"
+        citations:
+            - citation-awoiaf-oberyn-martell
+        confidence: high
+        status: proven
+        notes: "Born 257 AC. Prince of Dorne."

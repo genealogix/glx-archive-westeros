@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-bran-stark:
+    source: source-awoiaf
+    properties:
+      locator: "Bran Stark"
+      accessed: "2026-03-09"
+    notes: "Birth year (290 AC), aliases (The Winged Wolf), greenseer abilities."

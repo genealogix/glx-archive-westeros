@@ -1,0 +1,11 @@
+assertions:
+  assertion-cersei-alias-light-of-west:
+    subject:
+      person: person-cersei-lannister
+    property: alias
+    value: "Light of the West"
+    citations:
+      - citation-agot-appendix
+    confidence: high
+    status: proven
+    notes: "Self-styled title, briefly used."

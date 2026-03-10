@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-jaime-lannister:
+    source: source-awoiaf
+    properties:
+      locator: "Jaime Lannister"
+      accessed: "2026-03-09"
+    notes: "Birth year (266 AC), birthplace (Casterly Rock), aliases (Lion of Lannister, Goldenhand the Just), knighting date (281 AC)."

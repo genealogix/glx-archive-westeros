@@ -1,0 +1,7 @@
+citations:
+    citation-twoiaf-westerlands-lannisters:
+        source: source-twoiaf
+        properties:
+            locator: "The Westerlands: House Lannister Under the Dragons"
+            accessed: "2026-03-09"
+        notes: "TWOIAF section on the history of House Lannister. Confirms birth years and family details for the Lannister children."

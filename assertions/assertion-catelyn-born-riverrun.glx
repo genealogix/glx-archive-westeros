@@ -1,0 +1,11 @@
+assertions:
+  assertion-catelyn-born-riverrun:
+    subject:
+      person: person-catelyn-tully
+    property: born_at
+    value: "place-riverrun"
+    citations:
+      - citation-agot-catelyn-i
+    confidence: high
+    status: proven
+    notes: "Born at Riverrun, seat of House Tully."

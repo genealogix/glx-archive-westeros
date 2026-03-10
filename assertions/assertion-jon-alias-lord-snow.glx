@@ -1,0 +1,11 @@
+assertions:
+  assertion-jon-alias-lord-snow:
+    subject:
+      person: person-jon-snow
+    property: alias
+    value: "Lord Snow"
+    citations:
+      - citation-agot-tyrion-i
+    confidence: high
+    status: proven
+    notes: "Called Lord Snow mockingly by Alliser Thorne and affectionately by Tyrion."

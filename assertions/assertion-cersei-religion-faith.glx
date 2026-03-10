@@ -1,0 +1,11 @@
+assertions:
+  assertion-cersei-religion-faith:
+    subject:
+      person: person-cersei-lannister
+    property: religion
+    value: "Faith of the Seven"
+    citations:
+      - citation-affc-appendix
+    confidence: high
+    status: proven
+    notes: "Imprisoned by the Faith Militant, confirming her nominal adherence."

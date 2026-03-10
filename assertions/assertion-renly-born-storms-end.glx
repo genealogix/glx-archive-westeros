@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-born-storms-end:
+        subject:
+            person: person-renly-baratheon
+        property: born_at
+        value: "place-storms-end"
+        citations:
+            - citation-awoiaf-renly-baratheon
+        confidence: high
+        status: proven
+        notes: "Born at Storm's End."

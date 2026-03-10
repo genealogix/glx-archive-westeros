@@ -1,0 +1,11 @@
+assertions:
+  assertion-tywin-title-savior:
+    subject:
+      person: person-tywin-lannister
+    property: title
+    value: "Savior of the City"
+    citations:
+      - citation-acok-appendix
+    confidence: high
+    status: proven
+    notes: "Awarded after relief of King's Landing at the Battle of the Blackwater."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-cause-of-death:
+        subject:
+            person: person-robert-baratheon-i
+        property: cause_of_death
+        value: "Gored by a boar while hunting, exacerbated by wine"
+        citations:
+            - citation-agot-eddard-xiv
+        confidence: high
+        status: proven
+        notes: "Lancel Lannister kept Robert well supplied with strongwine at Cersei's command."

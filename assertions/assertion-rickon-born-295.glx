@@ -1,0 +1,11 @@
+assertions:
+  assertion-rickon-born-295:
+    subject:
+      person: person-rickon-stark
+    property: born_on
+    value: "295"
+    citations:
+      - citation-awoiaf-bran-stark
+    confidence: high
+    status: proven
+    notes: "Born approximately 295 AC at Winterfell."

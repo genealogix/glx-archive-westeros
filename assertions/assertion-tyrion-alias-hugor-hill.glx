@@ -1,0 +1,11 @@
+assertions:
+  assertion-tyrion-alias-hugor-hill:
+    subject:
+      person: person-tyrion-lannister
+    property: alias
+    value: "Hugor Hill"
+    citations:
+      - citation-adwd-appendix
+    confidence: high
+    status: proven
+    notes: "Alias used to conceal his identity in Essos."

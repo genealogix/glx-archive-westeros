@@ -1,0 +1,11 @@
+assertions:
+    assertion-petyr-born-268:
+        subject:
+            person: person-petyr-baelish
+        property: born_on
+        value: "268"
+        citations:
+            - citation-awoiaf-petyr-baelish
+        confidence: high
+        status: proven
+        notes: "Born 268 AC in the Fingers, the Vale of Arryn."

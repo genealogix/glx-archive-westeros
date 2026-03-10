@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-religion-faith:
+        subject:
+            person: person-robert-baratheon-i
+        property: religion
+        value: "Faith of the Seven"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "Robert followed the Faith of the Seven as was customary for the Baratheon lords."

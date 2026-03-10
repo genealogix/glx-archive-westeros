@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-jon-snow:
+    source: source-awoiaf
+    properties:
+      locator: "Jon Snow"
+      accessed: "2026-03-09"
+    notes: "Birth year (283 AC), aliases (Lord Snow, The White Wolf, Lord Crow), culture (Northmen)."

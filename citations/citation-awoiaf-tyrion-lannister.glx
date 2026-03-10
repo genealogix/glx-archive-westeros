@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-tyrion-lannister:
+    source: source-awoiaf
+    properties:
+      locator: "Tyrion Lannister"
+      accessed: "2026-03-09"
+    notes: "Birth year (273 AC), birthplace (Casterly Rock), aliases (Halfman, Giant of Lannister, Yollo, Hugor Hill, No-Nose, The Bloody Hand), title as Master of Coin."

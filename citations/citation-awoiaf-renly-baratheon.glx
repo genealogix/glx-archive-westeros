@@ -1,0 +1,7 @@
+citations:
+  citation-awoiaf-renly-baratheon:
+    source: source-awoiaf
+    properties:
+      locator: "Renly Baratheon"
+      accessed: "2026-03-09"
+    notes: "Birth year (277 AC), birthplace (Storm's End), title dates, aliases."

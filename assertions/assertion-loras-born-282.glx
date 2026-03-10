@@ -1,0 +1,11 @@
+assertions:
+    assertion-loras-born-282:
+        subject:
+            person: person-loras-tyrell
+        property: born_on
+        value: "282"
+        citations:
+            - citation-awoiaf-cersei-lannister
+        confidence: high
+        status: proven
+        notes: "Born 282 AC. Third son of Mace Tyrell."

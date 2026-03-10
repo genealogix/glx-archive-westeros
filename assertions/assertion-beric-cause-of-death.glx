@@ -1,0 +1,12 @@
+assertions:
+    assertion-beric-cause-of-death:
+        subject:
+            person: person-beric-dondarrion
+        property: cause_of_death
+        value: "Gave his life-fire to resurrect Catelyn Stark"
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        confidence: high
+        status: proven
+        notes: "Final death — gave his life force to resurrect Catelyn through the last kiss of R'hllor."

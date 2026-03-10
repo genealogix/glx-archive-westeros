@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-died-298:
+        subject:
+            person: person-robert-baratheon-i
+        property: died_on
+        value: "298"
+        citations:
+            - citation-agot-eddard-xiv
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "Died 298 AC at the Red Keep."

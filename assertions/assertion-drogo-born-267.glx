@@ -1,0 +1,12 @@
+assertions:
+    assertion-drogo-born-267:
+        subject:
+            person: person-khal-drogo
+        property: born_on
+        value: "ABT 267"
+        citations:
+            - citation-awoiaf-daenerys-targaryen
+            - citation-agot-daenerys-i
+        confidence: medium
+        status: proven
+        notes: "No older than thirty at the time of his marriage to Daenerys in ~297 AC."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-tommen-born-kings-landing:
+        subject:
+            person: person-tommen-baratheon
+        property: born_at
+        value: "place-kings-landing"
+        citations:
+            - citation-awoiaf-cersei-lannister
+        confidence: high
+        status: proven
+        notes: "Born in King's Landing."

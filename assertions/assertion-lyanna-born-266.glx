@@ -1,0 +1,11 @@
+assertions:
+  assertion-lyanna-born-266:
+    subject:
+      person: person-lyanna-stark
+    property: born_on
+    value: "266"
+    citations:
+      - citation-awoiaf-eddard-stark
+    confidence: high
+    status: proven
+    notes: "Born 266 AC at Winterfell."

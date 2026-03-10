@@ -1,0 +1,12 @@
+assertions:
+    assertion-dany-born-dragonstone:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: born_at
+        value: "place-dragonstone"
+        citations:
+            - citation-awoiaf-daenerys-targaryen
+            - citation-agot-daenerys-i
+        confidence: high
+        status: proven
+        notes: "Born on Dragonstone during a great storm."
