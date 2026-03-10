@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-roberts-rebellion:
+        source: source-awoiaf
+        properties:
+            locator: "Robert's Rebellion"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on Robert's Rebellion. Comprehensive overview of causes, battles, participants, and outcome."

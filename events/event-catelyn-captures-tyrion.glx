@@ -1,0 +1,18 @@
+events:
+    event-catelyn-captures-tyrion:
+        type: captivity
+        date: "298"
+        place: place-crossroads-inn
+        participants:
+            - person: person-catelyn-tully
+              role: captor
+            - person: person-tyrion-lannister
+              role: captive
+            - person: person-bronn
+              role: witness
+            - person: person-rodrik-cassel
+              role: combatant
+        properties:
+            description: "Catelyn Stark seizes Tyrion Lannister at the crossroads inn on the kingsroad. Catelyn was traveling incognito back to Winterfell after meeting with Ned in King's Landing when Tyrion recognized her. Catelyn, believing Tyrion had been responsible for the attempt on Bran's life (based on Littlefinger's claim that the Valyrian steel dagger belonged to Tyrion), called upon the bannermen of her father Lord Hoster Tully present in the inn to arrest him. She then took Tyrion east to the Eyrie rather than north to Winterfell, to throw off pursuit."
+            also_known_as: "The Arrest of Tyrion Lannister"
+        notes: "This act was a major catalyst for the War of the Five Kings. Tywin Lannister responded by sending Gregor Clegane to raid the Riverlands. The Valyrian steel dagger that started the chain of events was falsely attributed to Tyrion by Littlefinger — it was likely Joffrey who sent the assassin. Bronn, a sellsword, attached himself to the party during the journey and would later become Tyrion's champion at the Eyrie. Source: AGOT Catelyn V."

@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-tourney-harrenhal:
+        source: source-awoiaf
+        properties:
+            locator: "Tourney at Harrenhal"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the great tourney. Details the Knight of the Laughing Tree and Rhaegar's crowning of Lyanna."

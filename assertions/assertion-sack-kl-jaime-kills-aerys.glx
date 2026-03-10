@@ -1,0 +1,10 @@
+assertions:
+    assertion-sack-kl-jaime-kills-aerys:
+        subject:
+            event: event-sack-kings-landing
+        property: description
+        value: "Jaime Lannister killed King Aerys II on the Iron Throne to prevent the wildfire plot"
+        citations:
+            - citation-awoiaf-sack-kings-landing
+            - citation-asos-jaime-v
+        confidence: high

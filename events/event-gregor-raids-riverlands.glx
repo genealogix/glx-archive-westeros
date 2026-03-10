@@ -1,0 +1,18 @@
+events:
+    event-gregor-raids-riverlands:
+        type: raid
+        date: "298"
+        place: place-the-riverlands
+        participants:
+            - person: person-gregor-clegane
+              role: commander
+            - person: person-tywin-lannister
+              role: instigator
+            - person: person-eddard-stark
+              role: authority
+            - person: person-beric-dondarrion
+              role: combatant
+        properties:
+            description: "Gregor Clegane's raids on the Riverlands (298 AC) — after Catelyn Stark seized Tyrion Lannister, Lord Tywin Lannister dispatched Ser Gregor Clegane with a force of Lannister soldiers (disguised without banners) to ravage the Riverlands as retaliation. Gregor burned villages, murdered smallfolk, and slaughtered livestock across the lands of Houses Piper, Vance, and other Tully bannermen. When refugees brought testimony to King's Landing, Ned Stark (as Hand) stripped Gregor of all lands and titles, sentenced him to death, and dispatched Lord Beric Dondarrion with a force to bring him to justice."
+            also_known_as: "Gregor's Chevauchée"
+        notes: "This was the beginning of the Brotherhood Without Banners. Beric Dondarrion's force was ambushed at the Mummer's Ford by Gregor's men, and Beric was killed — but was resurrected by Thoros of Myr using the last kiss of R'hllor. Beric would die and be resurrected six times. The raids established the pattern of lawless destruction that would characterize the War of the Five Kings in the Riverlands. Source: AGOT Eddard XI."

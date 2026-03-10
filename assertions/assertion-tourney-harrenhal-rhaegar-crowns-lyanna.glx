@@ -1,0 +1,9 @@
+assertions:
+    assertion-tourney-harrenhal-rhaegar-crowns-lyanna:
+        subject:
+            event: event-tourney-harrenhal
+        property: description
+        value: "Rhaegar crowned Lyanna Stark Queen of Love and Beauty, passing over Elia Martell"
+        citations:
+            - citation-awoiaf-tourney-harrenhal
+        confidence: high

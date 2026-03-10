@@ -1,0 +1,11 @@
+assertions:
+    assertion-sack-kl-gregor-kills-elia:
+        subject:
+            event: event-sack-kings-landing
+        participant:
+            person: person-gregor-clegane
+            role: perpetrator
+        citations:
+            - citation-awoiaf-sack-kings-landing
+        confidence: high
+        notes: "Killed Prince Aegon and raped and murdered Princess Elia Martell"

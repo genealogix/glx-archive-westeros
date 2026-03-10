@@ -1,0 +1,10 @@
+assertions:
+    assertion-trial-tyrion-shae-testimony:
+        subject:
+            event: event-trial-tyrion
+        property: description
+        value: "Tyrion tried for Joffrey's murder; Shae testified falsely; Tyrion demanded trial by combat"
+        citations:
+            - citation-asos-tyrion-x
+        confidence: high
+        notes: "Shae's betrayal drove Tyrion to demand trial by combat; Oberyn Martell fought as his champion"

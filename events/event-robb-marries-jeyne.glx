@@ -1,0 +1,14 @@
+events:
+    event-robb-marries-jeyne:
+        type: marriage_ceremony
+        date: "299"
+        place: place-the-crag
+        participants:
+            - person: person-robb-stark
+              role: groom
+            - person: person-jeyne-westerling
+              role: bride
+        properties:
+            description: "The marriage of Robb Stark and Jeyne Westerling (299 AC). During his campaign in the Westerlands, Robb was wounded storming the Crag, seat of House Westerling. Jeyne Westerling nursed his wounds. When Robb learned of the deaths of Bran and Rickon (falsely reported by Theon Greyjoy), he slept with Jeyne for comfort. Bound by honor, he married her — breaking his betrothal pact with House Frey."
+            also_known_as: "Robb's Marriage"
+        notes: "This marriage was the critical error that led to the Red Wedding. Lord Walder Frey considered the broken betrothal an unforgivable insult. The marriage was a deliberate choice by Robb to protect Jeyne's honor, echoing his father Ned's sense of duty. Catelyn urged Robb to set Jeyne aside but he refused. The marriage cost Robb the Frey alliance and ultimately his life. Jeyne's mother, Sybell Spicer (a Westerling by marriage), was later revealed to have been in communication with Tywin Lannister and may have given Jeyne a potion to prevent pregnancy. Source: ASOS Catelyn II."

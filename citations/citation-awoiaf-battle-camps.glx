@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-battle-camps:
+        source: source-awoiaf
+        properties:
+            locator: "Battle of the Camps"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the relief of Riverrun."

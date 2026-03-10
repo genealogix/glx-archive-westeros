@@ -1,0 +1,18 @@
+events:
+    event-battle-winterfell-boltons:
+        type: battle
+        date: "300"
+        place: place-winterfell
+        participants:
+            - person: person-stannis-baratheon
+              role: combatant
+            - person: person-roose-bolton
+              role: defender
+            - person: person-ramsay-bolton
+              role: defender
+            - person: person-theon-greyjoy
+              role: subject
+        properties:
+            description: "The march on Winterfell and impending battle between Stannis Baratheon's forces and the Bolton garrison holding Winterfell. Stannis marched south from Castle Black through terrible snowstorms, his army freezing and starving on the road. His host — a mix of Northern mountain clansmen, southern knights, and wildling warriors — was trapped by blizzards at a crofters' village three days from Winterfell. Inside Winterfell, tensions mounted between the Boltons and their reluctant Northern allies (the Manderlys, Freys, and others). Theon Greyjoy and the false Arya Stark (Jeyne Poole) escaped the castle with help from Mance Rayder's spearwives."
+            also_known_as: "The Battle of Ice, Stannis's March on Winterfell"
+        notes: "The battle had not yet occurred by the end of ADWD. Ramsay's 'Pink Letter' to Jon Snow claimed Stannis was dead, but this is unconfirmed. Inside Winterfell, a series of mysterious murders terrorized the garrison — Wyman Manderly was suspected of killing Little Walder Frey and baking the Freys into pies at the wedding feast. The Northern lords within Winterfell appear to be secretly plotting against the Boltons. Stannis's Braavosi banker Tycho Nestoris reached his camp. Source: ADWD The Prince of Winterfell, A Ghost in Winterfell."

@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-kingsmoot:
+        source: source-awoiaf
+        properties:
+            locator: "Kingsmoot"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the ironborn Kingsmoot on Old Wyk."

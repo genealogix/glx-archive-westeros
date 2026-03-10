@@ -1,0 +1,7 @@
+citations:
+    citation-asos-samwell-ii:
+        source: source-asos
+        properties:
+            locator: "Samwell II"
+            accessed: "2026-03-10"
+        notes: "The mutiny at Craster's Keep and death of Lord Commander Mormont."

@@ -1,0 +1,16 @@
+events:
+    event-siege-storms-end-rebellion:
+        type: siege
+        date: "BET 282 AND 283"
+        place: place-storms-end
+        participants:
+            - person: person-stannis-baratheon
+              role: defender
+            - person: person-mace-tyrell
+              role: besieger
+            - person: person-davos-seaworth
+              role: subject
+        properties:
+            description: "The Siege of Storm's End during Robert's Rebellion — Lord Mace Tyrell and the Redwyne fleet besieged Storm's End for the duration of the war, trapping Stannis Baratheon inside. Stannis held the castle with a dwindling garrison, nearly starving. The smuggler Davos Seaworth ran the blockade in a small boat loaded with onions and salt fish, saving the garrison from starvation. After the war ended, Ned Stark lifted the siege and Mace Tyrell dipped his banners. Stannis knighted Davos for his service but also cut off the first joint of each finger on his left hand as punishment for his years of smuggling."
+            also_known_as: "The Siege of Storm's End (Robert's Rebellion)"
+        notes: "Stannis held Storm's End for close to a year with iron determination while Robert fought the war. The garrison was reduced to eating rats, cats, and boot leather before Davos's smuggling run. Stannis's resentment that Robert gave Storm's End to Renly (who had done nothing to earn it) and gave Stannis the lesser seat of Dragonstone became a lasting source of bitterness. Mace Tyrell later boasted of the siege as a great feat of arms, though in truth he simply sat outside feasting while Stannis starved inside. Source: ACOK Davos I, ASOS Davos IV."

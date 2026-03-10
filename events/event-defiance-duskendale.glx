@@ -8,7 +8,10 @@ events:
               role: victim
             - person: person-tywin-lannister
               role: combatant
+            - person: person-barristan-selmy
+              role: combatant
+              notes: "Single-handedly infiltrated the Dun Fort and rescued King Aerys"
         properties:
-            description: "The Defiance of Duskendale — Lord Darklyn of Duskendale refused to pay taxes and lured King Aerys II into a trap, holding him captive for six months. Ser Barristan Selmy infiltrated the Dun Fort and rescued the king single-handedly. The experience deepened Aerys's madness and paranoia."
+            description: "The Defiance of Duskendale (ABT 277 AC) — Lord Denys Darklyn of Duskendale, encouraged by his Myrish wife Lady Serala, refused to pay taxes and lured King Aerys II into a trap when the king came in person to settle the dispute. Aerys was held captive for six months. Tywin Lannister, then Hand of the King, besieged the town but could not assault it without risking the king's life. Ser Barristan Selmy infiltrated the Dun Fort alone in a legendary rescue, freeing Aerys and escaping with him. House Darklyn was extinguished afterward — Lord Denys beheaded, his wife Lady Serala's tongue torn out before burning."
             also_known_as: "The Defiance of Duskendale"
-        notes: "This event is widely considered the turning point in Aerys's descent into madness. Tywin Lannister besieged the town. House Darklyn was exterminated afterward."
+        notes: "This event is widely considered the turning point in Aerys's descent into madness. Before Duskendale, Aerys was vain but not yet cruel. After six months of captivity, he became paranoid, suspicious of everyone — including his Hand Tywin Lannister. He refused to leave the Red Keep for years afterward (until the Tourney at Harrenhal). He stopped letting blades near him, growing long nails and tangled hair. The rescue by Barristan Selmy is one of the most celebrated feats of arms in Westerosi history. Lord Denys Darklyn does not have a person entity in the archive."

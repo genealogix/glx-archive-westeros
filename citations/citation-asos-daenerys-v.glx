@@ -1,0 +1,7 @@
+citations:
+    citation-asos-daenerys-v:
+        source: source-asos
+        properties:
+            locator: "Daenerys V"
+            accessed: "2026-03-10"
+        notes: "Daenerys conquers Yunkai."

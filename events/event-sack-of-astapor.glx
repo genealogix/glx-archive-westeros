@@ -1,6 +1,6 @@
 events:
     event-sack-of-astapor:
-        type: battle
+        type: sack
         date: "299"
         place: place-astapor
         participants:
@@ -19,3 +19,4 @@ events:
         properties:
             description: "Daenerys reveals she speaks Valyrian, strikes Kraznys with the harpy's fingers whip, and commands 'Dracarys' — Drogon burns Kraznys alive. The Unsullied, now freed by Daenerys, slaughter the Good Masters and soldiers on her command. Daenerys abolishes slavery in Astapor and marches out with her new army."
             also_known_as: "The Dracarys"
+        notes: "Daenerys negotiated to trade Drogon for all 8,000 Unsullied plus the boys still in training. Once the transaction was complete and she held the harpy's fingers (the slaver's whip symbolizing command of the Unsullied), she revealed she understood High Valyrian all along. Her first command to the Unsullied was to slay every man wearing a tokar (the slave masters) and harm no child. After the sack, she freed the Unsullied and offered them the choice to leave — they chose to follow her. Missandei, a slave interpreter girl of about ten, also entered her service."

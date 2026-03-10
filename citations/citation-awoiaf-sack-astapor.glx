@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-sack-astapor:
+        source: source-awoiaf
+        properties:
+            locator: "Sack of Astapor"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on Daenerys's conquest of Astapor and freeing of the Unsullied."

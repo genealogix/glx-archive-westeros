@@ -1,0 +1,11 @@
+assertions:
+    assertion-defiance-duskendale-barristan-rescue:
+        subject:
+            event: event-defiance-duskendale
+        participant:
+            person: person-barristan-selmy
+            role: combatant
+        citations:
+            - citation-awoiaf-defiance-duskendale
+        confidence: high
+        notes: "Single-handedly rescued King Aerys from captivity"

@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-tower-of-joy:
+        source: source-awoiaf
+        properties:
+            locator: "Tower of Joy"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the Tower of Joy confrontation. Lists all seven companions and three Kingsguard."

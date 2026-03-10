@@ -8,7 +8,27 @@ events:
               role: combatant
             - person: person-eddard-stark
               role: combatant
+            - person: person-balon-greyjoy
+              role: principal
+              notes: "Declared himself King of the Iron Islands and initiated the rebellion"
+            - person: person-stannis-baratheon
+              role: combatant
+              notes: "Commanded the royal fleet, won the sea battle off Fair Isle, destroyed the Iron Fleet"
+            - person: person-tywin-lannister
+              role: combatant
+            - person: person-jorah-mormont
+              role: combatant
+              notes: "Among the first through the breach at Pyke, knighted for valor"
+            - person: person-theon-greyjoy
+              role: subject
+              notes: "Taken as ward/hostage to ensure Balon's loyalty, age ten"
+            - person: person-rodrik-greyjoy
+              role: victim
+              notes: "Killed at Seagard"
+            - person: person-jason-mallister
+              role: combatant
+              notes: "Killed Rodrik Greyjoy during the storming of Seagard"
         properties:
-            description: "The Greyjoy Rebellion — Balon Greyjoy declared himself King of the Iron Islands and attacked the North, burning the Lannister fleet at Lannisport. King Robert called his banners and crushed the rebellion, besieging Pyke. Balon's sons Rodrik and Maron were killed. Theon Greyjoy was taken as Ned Stark's ward to ensure Balon's loyalty."
+            description: "The Greyjoy Rebellion (289 AC) — Balon Greyjoy declared himself King of the Iron Islands six years after Robert's Rebellion. The ironborn burned the Lannister fleet at anchor in Lannisport and attacked the western coast. Balon's son Rodrik was killed at Seagard when Lord Jason Mallister defeated the ironborn assault. King Robert assembled a massive host. Stannis Baratheon destroyed the Iron Fleet in the sea battle off Fair Isle. Robert and Ned Stark led the assault on Pyke — Jorah Mormont and Thoros of Myr were among the first through the breach in the walls. Balon's last remaining son Maron was killed when the south tower collapsed. Balon bent the knee. His surviving son Theon, age ten, was taken as Ned Stark's ward to ensure future loyalty."
             also_known_as: "The Greyjoy Rebellion"
-        notes: "Jorah Mormont was among the first through the breach at Pyke and was knighted. Theon was taken as a hostage/ward at age ten and raised at Winterfell."
+        notes: "The rebellion lasted less than a year. Key battles: burning of the Lannister fleet at Lannisport, storming of Seagard, sea battle off Fair Isle, landing on Great Wyk, attack on Old Wyk, battle at Lordsport, and the final siege and storming of Pyke. Thoros of Myr was first through the breach with his flaming sword. A celebratory tourney was held at Lannisport afterward, where Jorah Mormont won and crowned Lynesse Hightower as his queen of love and beauty."

@@ -9,5 +9,5 @@ events:
             - person: person-stafford-lannister
               role: combatant
         properties:
-            description: "The Battle of Oxcross — Robb Stark's army surprised and destroyed a Lannister host under Ser Stafford Lannister at Oxcross in the Westerlands. The Lannister force was a half-trained levy still assembling when Robb's forces fell upon them. Stafford Lannister was killed."
-        notes: "Robb used Grey Wind to find a path through the hills. This was part of Robb's daring campaign deep into the Westerlands, raiding Tywin's own lands."
+            description: "The Battle of Oxcross (299 AC) — Robb Stark's army surprised and destroyed a Lannister host of approximately 10,000 men under Ser Stafford Lannister at Oxcross in the Westerlands. The Lannister force was a half-trained levy still assembling. Robb used Grey Wind (his direwolf) to find an unmapped goat trail through the western hills, bypassing the sentries. The surprise was total — Stafford Lannister was killed, his army scattered. Robb then raided deep into the Westerlands, sacking Ashemark, the Crag, and burning Tywin's fields."
+        notes: "This campaign in the Westerlands was Robb's most daring strategic move — he took the war to Tywin's own lands while Tywin was occupied at Harrenhal. However, it was also where Robb met Jeyne Westerling at the Crag and married her in violation of his marriage pact with House Frey."

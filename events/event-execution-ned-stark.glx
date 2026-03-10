@@ -22,7 +22,12 @@ events:
               role: officiant
             - person: person-yoren
               role: witness
+            - person: person-varys
+              role: witness
+              notes: "Disguised as a gaoler, had visited Ned in the black cells trying to save his life"
+            - person: person-baelor-hightower
+              role: witness
         properties:
             description: "The execution of Lord Eddard Stark — Ned was arrested for treason after challenging Joffrey's claim to the throne. He was coerced into a false confession, expecting to be allowed to take the black. But King Joffrey, defying his mother Cersei and his council, ordered Ned beheaded on the steps of the Great Sept of Baelor. Ser Ilyn Payne carried out the sentence using Ned's own Valyrian steel sword Ice."
             weapon: "Ice (Valyrian steel greatsword, Eddard Stark's ancestral blade)"
-        notes: "This act shattered any hope of peace and guaranteed continued war. Arya was hidden in the crowd by Yoren of the Night's Watch. Sansa was forced to watch. The execution galvanized the North's rebellion."
+        notes: "Joffrey's decision to execute Ned was unexpected — Cersei, Varys, and even Sansa had all been told (or assumed) that Ned would be allowed to take the black and join the Night's Watch. Varys had negotiated this arrangement in the black cells. Joffrey's cruelty and desire to appear strong overrode his mother's counsel. Sansa was forced to watch. Arya was hidden in the crowd by Yoren, who grabbed her and cut her hair, calling her 'boy' to disguise her. The execution was the act that made peace impossible — the North would never kneel again while a Lannister sat the throne. Ned's Valyrian steel sword Ice was later melted down by Tywin Lannister and reforged into two swords: Oathkeeper (given to Jaime, then Brienne) and Widow's Wail (given to Joffrey)."

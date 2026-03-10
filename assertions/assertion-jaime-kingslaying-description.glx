@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-kingslaying-description:
+        subject:
+            event: event-jaime-kingslaying
+        property: description
+        value: "Jaime killed Aerys to prevent the wildfire destruction of King's Landing"
+        citations:
+            - citation-asos-jaime-v
+            - citation-awoiaf-sack-kings-landing
+        confidence: high
+        notes: "Jaime's confession to Brienne in the Harrenhal baths revealed the true reason for the kingslaying"

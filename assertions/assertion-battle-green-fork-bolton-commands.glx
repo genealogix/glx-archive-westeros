@@ -1,0 +1,11 @@
+assertions:
+    assertion-battle-green-fork-bolton-commands:
+        subject:
+            event: event-battle-green-fork
+        participant:
+            person: person-roose-bolton
+            role: commander
+        citations:
+            - citation-awoiaf-battle-green-fork
+        confidence: high
+        notes: "Commanded the diversionary Stark infantry force"

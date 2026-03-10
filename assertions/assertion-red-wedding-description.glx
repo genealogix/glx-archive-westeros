@@ -1,0 +1,9 @@
+assertions:
+    assertion-red-wedding-description:
+        subject:
+            event: event-red-wedding
+        property: description
+        value: "Massacre at the wedding of Edmure Tully and Roslin Frey, orchestrated by Walder Frey and Roose Bolton"
+        citations:
+            - citation-asos-catelyn-vii
+        confidence: high

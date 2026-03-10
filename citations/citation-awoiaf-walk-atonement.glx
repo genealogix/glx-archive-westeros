@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-walk-atonement:
+        source: source-awoiaf
+        properties:
+            locator: "Walk of atonement"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on Cersei's walk of shame through King's Landing."

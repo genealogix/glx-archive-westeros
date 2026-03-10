@@ -1,0 +1,7 @@
+citations:
+    citation-asos-tyrion-xi:
+        source: source-asos
+        properties:
+            locator: "Tyrion XI"
+            accessed: "2026-03-10"
+        notes: "Tyrion escapes King's Landing. Kills Shae and Tywin Lannister."

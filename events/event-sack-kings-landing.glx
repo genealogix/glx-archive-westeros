@@ -14,7 +14,21 @@ events:
               role: victim
             - person: person-aegon-targaryen
               role: victim
+            - person: person-rhaenys-targaryen-208
+              role: victim
+            - person: person-gregor-clegane
+              role: perpetrator
+              notes: "Killed Prince Aegon and raped and murdered Princess Elia on Tywin's orders"
+            - person: person-amory-lorch
+              role: perpetrator
+              notes: "Killed Princess Rhaenys, stabbing her over fifty times"
+            - person: person-varys
+              role: subject
+              notes: "Counseled Aerys to keep the gates shut"
+            - person: person-pycelle
+              role: subject
+              notes: "Counseled Aerys to open the gates to Tywin"
         properties:
-            description: "The Sack of King's Landing — Tywin Lannister arrived at the gates of King's Landing with his army, professing loyalty to Aerys. Once admitted, the Lannister forces sacked the city. Jaime Lannister slew King Aerys II (the Kingslayer act). Gregor Clegane murdered Princess Elia Martell and her children Aegon and Rhaenys."
+            description: "The Sack of King's Landing (283 AC) — the final battle of Robert's Rebellion. After the Battle of the Trident, Lord Tywin Lannister marched his 12,000-strong army to King's Landing, professing loyalty to King Aerys II. Grand Maester Pycelle convinced Aerys to open the gates. Once admitted, the Lannister forces sacked the city. Aerys ordered his Hand, the pyromancer Rossart, to ignite the wildfire caches hidden throughout the city to burn King's Landing rather than let it fall. Jaime Lannister of the Kingsguard killed Rossart first, then slew King Aerys on the Iron Throne — the act that earned him the name 'Kingslayer.' Meanwhile, Ser Gregor Clegane and Ser Amory Lorch scaled Maegor's Holdfast. Gregor killed the infant Prince Aegon by dashing his head against a wall, then raped and murdered Princess Elia Martell. Amory Lorch dragged Princess Rhaenys from beneath her father's bed and stabbed her over fifty times. Ned Stark arrived to find Jaime seated on the Iron Throne and the Targaryen children dead, wrapped in Lannister cloaks."
             also_known_as: "The Sack of King's Landing"
-        notes: "Aerys had ordered his pyromancers to burn the city with wildfire rather than let it fall. Jaime killed the Mad King to prevent the destruction. Ned Stark arrived to find Jaime on the Iron Throne and the Lannister forces already in control."
+        notes: "Aerys had prepared a wildfire plot — caches of wildfire hidden beneath the Great Sept of Baelor, the Dragonpit, the Red Keep, and other locations throughout the city. Jaime killed the pyromancers Rossart, Garigus, and Belis to prevent the order from being carried out. Jaime never told anyone his true reason for killing Aerys until he confessed to Brienne of Tarth in the baths at Harrenhal years later (ASOS Jaime V). Tywin presented the bodies of Aegon and Rhaenys to Robert as proof of loyalty, wrapped in Lannister crimson cloaks. Robert called it 'a regrettable necessity'; Ned called it murder and they quarreled bitterly."

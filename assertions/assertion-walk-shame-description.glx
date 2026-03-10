@@ -1,0 +1,11 @@
+assertions:
+    assertion-walk-shame-description:
+        subject:
+            event: event-walk-of-shame
+        property: description
+        value: "Cersei walked naked from the Great Sept to the Red Keep as penance for lesser sins"
+        citations:
+            - citation-awoiaf-walk-atonement
+            - citation-adwd-cersei-ii
+        confidence: high
+        notes: "Cersei confessed to lesser charges to secure her release; the full trial is still pending"

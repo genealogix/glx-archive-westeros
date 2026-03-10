@@ -1,0 +1,9 @@
+assertions:
+    assertion-battle-camps-siege-lifted:
+        subject:
+            event: event-battle-camps
+        property: description
+        value: "Night attack routed leaderless Lannister siege camps around Riverrun"
+        citations:
+            - citation-awoiaf-battle-camps
+        confidence: high

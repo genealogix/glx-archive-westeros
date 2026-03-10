@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-battle-whispering-wood:
+        source: source-awoiaf
+        properties:
+            locator: "Battle of the Whispering Wood"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on Robb's ambush of Jaime Lannister's forces."

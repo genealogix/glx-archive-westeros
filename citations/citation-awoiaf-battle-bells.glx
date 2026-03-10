@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-battle-bells:
+        source: source-awoiaf
+        properties:
+            locator: "Battle of the Bells"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the battle at Stoney Sept during Robert's Rebellion."

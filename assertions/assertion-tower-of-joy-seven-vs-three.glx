@@ -1,0 +1,10 @@
+assertions:
+    assertion-tower-of-joy-seven-vs-three:
+        subject:
+            event: event-tower-of-joy
+        property: description
+        value: "Seven companions against three Kingsguard, only Ned and Howland Reed survived"
+        citations:
+            - citation-awoiaf-tower-of-joy
+            - citation-agot-eddard-x
+        confidence: high

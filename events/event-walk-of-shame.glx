@@ -6,7 +6,15 @@ events:
         participants:
             - person: person-cersei-lannister
               role: principal
+            - person: person-high-sparrow
+              role: authority
+            - person: person-kevan-lannister
+              role: witness
+              notes: "Waited for Cersei at the Red Keep gates"
+            - person: person-qyburn
+              role: subject
+              notes: "Presented Ser Robert Strong as Cersei's champion upon her arrival at the Red Keep"
         properties:
-            description: "Cersei's Walk of Atonement — Queen Cersei Lannister, imprisoned by the Faith of the Seven on charges of adultery, fornication, and other sins, was forced to walk naked through the streets of King's Landing from the Great Sept of Baelor to the Red Keep as a form of public penance. She was shorn, stripped, and subjected to the jeers and filth of the crowd."
+            description: "Cersei's Walk of Atonement (300 AC) — Queen Cersei Lannister, imprisoned by the Faith of the Seven for over a month on charges of adultery, fornication, and conspiracy, was forced to walk naked from the Great Sept of Baelor through the streets of King's Landing to the Red Keep as a form of public penance. She was shorn of all her hair, stripped naked, and marched barefoot through the streets accompanied by septas ringing bells and crying 'Shame! Shame! Shame!' The mob hurled filth, rotten food, and abuse at her. By the time she reached the Red Keep her feet were bloody and raw. Ser Kevan Lannister waited for her at the gates. Qyburn wrapped her in a cloak and presented her new champion for the coming trial — Ser Robert Strong, a massive, silent knight (the reanimated Gregor Clegane)."
             also_known_as: "The Walk of Shame, The Walk of Atonement"
-        notes: "Cersei confessed to lesser sins to be allowed the walk, but denied the more serious charges (incest, regicide). She still faces trial by the Faith. Her ordeal hardened her desire for vengeance. Ser Robert Strong (the reanimated Mountain) was presented as her champion."
+        notes: "Cersei confessed to lesser sins (fornication with Lancel Lannister and the Kettleblack brothers) to be allowed the walk, but denied the more serious charges of incest with Jaime and involvement in Robert's death. She still faces trial by the Faith for the capital charges. The walk hardened her desire for vengeance rather than humbling her. Her internal monologue during the walk reveals she is plotting to burn the Great Sept with wildfire. Tommen watched from a window of the Red Keep."

@@ -1,0 +1,7 @@
+citations:
+    citation-adwd-epilogue:
+        source: source-adwd
+        properties:
+            locator: "Epilogue"
+            accessed: "2026-03-10"
+        notes: "Varys kills Kevan Lannister and Pycelle. Reveals he is working for Aegon Targaryen."

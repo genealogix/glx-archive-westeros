@@ -1,0 +1,14 @@
+events:
+    event-aegon-landing-griffin-roost:
+        type: conquest
+        date: "300"
+        place: place-griffins-roost
+        participants:
+            - person: person-aegon-targaryen-vi
+              role: principal
+            - person: person-jon-connington
+              role: commander
+        properties:
+            description: "The Landing of Aegon Targaryen in Westeros (300 AC) — Young Griff, claiming to be Aegon VI Targaryen (son of Rhaegar), landed in the Stormlands with the Golden Company — approximately 10,000 sellswords. Jon Connington, revealed as his guardian and former Hand of the King, led the attack on Griffin's Roost, his ancestral seat, and took it in a swift assault. The Golden Company then seized several Stormlands castles. Aegon declared his intention to take the Iron Throne."
+            also_known_as: "Aegon's Landing, The Return of the Golden Company"
+        notes: "The original plan had been for Aegon to marry Daenerys Targaryen and combine their forces, but Tyrion Lannister convinced Aegon to go west alone rather than east to find Daenerys — 'a true dragon does not beg.' Whether this Young Griff is truly Aegon (son of Rhaegar) or a Blackfyre pretender remains one of the great mysteries of the series. The Golden Company, historically enemies of the Targaryens, agreed to support his claim — suspicious to many, as the Company was founded by Aegor 'Bittersteel' Rivers to support the Blackfyre cause. Source: ADWD The Lost Lord, The Griffin Reborn."

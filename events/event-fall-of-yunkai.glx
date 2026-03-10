@@ -1,0 +1,18 @@
+events:
+    event-fall-of-yunkai:
+        type: battle
+        date: "299"
+        place: place-yunkai
+        participants:
+            - person: person-daenerys-targaryen-206
+              role: commander
+            - person: person-jorah-mormont
+              role: combatant
+            - person: person-grey-worm
+              role: combatant
+            - person: person-daario-naharis
+              role: combatant
+        properties:
+            description: "The Fall of Yunkai (299 AC) — Daenerys Targaryen's army of Unsullied, supported by the sellsword companies the Stormcrows and the Second Sons, defeated the Yunkish slave army outside the city walls. Daario Naharis killed the captains of the Stormcrows and brought the company over to Daenerys's side. The Unsullied attacked the Yunkish camps at night from three sides. The slave soldiers broke quickly. The Wise Masters of Yunkai agreed to free their slaves and pay an indemnity."
+            also_known_as: "The Battle of Yunkai"
+        notes: "The Yunkish slave soldiers were poorly trained and poorly motivated compared to the Unsullied. The Second Sons under Brown Ben Plumm initially fought for Yunkai but switched sides during the battle. Daario Naharis earned Daenerys's attention by killing his fellow captains and presenting their heads as a gift. After the victory, freed slaves began calling Daenerys 'Mhysa' (mother). The Yunkish later rearmed and besieged Meereen. Source: ASOS Daenerys V-VI."

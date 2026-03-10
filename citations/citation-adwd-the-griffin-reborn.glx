@@ -1,0 +1,7 @@
+citations:
+    citation-adwd-the-griffin-reborn:
+        source: source-adwd
+        properties:
+            locator: "The Griffin Reborn"
+            accessed: "2026-03-10"
+        notes: "Jon Connington takes Griffin's Roost. Aegon lands in Westeros with the Golden Company."

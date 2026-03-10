@@ -1,0 +1,10 @@
+assertions:
+    assertion-assassination-jon-snow-description:
+        subject:
+            event: event-assassination-jon-snow
+        property: description
+        value: "Jon Snow stabbed by his Night's Watch brothers — 'For the Watch'"
+        citations:
+            - citation-adwd-jon-xiii
+        confidence: high
+        notes: "Bowen Marsh and other brothers mutinied over Jon's decision to march on Winterfell"

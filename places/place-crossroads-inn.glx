@@ -1,0 +1,8 @@
+places:
+    place-crossroads-inn:
+        name: "The Crossroads Inn"
+        type: landmark
+        parent: place-the-riverlands
+        properties:
+            also_known_as: "The Inn at the Crossroads"
+        notes: "A large inn at the junction of the kingsroad, the river road, and the high road to the Vale. One of the most traveled waypoints in the Seven Kingdoms. Scene of Catelyn's arrest of Tyrion Lannister."

@@ -1,0 +1,9 @@
+assertions:
+    assertion-battle-oxcross-surprise:
+        subject:
+            event: event-battle-oxcross
+        property: description
+        value: "Robb surprised Stafford Lannister's half-trained levy using Grey Wind to find a hidden path"
+        citations:
+            - citation-awoiaf-battle-oxcross
+        confidence: high

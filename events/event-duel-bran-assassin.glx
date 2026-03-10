@@ -1,0 +1,14 @@
+events:
+    event-duel-bran-assassin:
+        type: assassination
+        date: "298"
+        place: place-winterfell
+        participants:
+            - person: person-brandon-stark-bran
+              role: target
+            - person: person-catelyn-tully
+              role: defender
+        properties:
+            description: "The attempted assassination of Bran Stark at Winterfell. While Bran lay comatose after his fall, an assassin entered his room with a Valyrian steel dagger to finish him. Catelyn Stark fought the assassin bare-handed, her fingers slashed to the bone gripping the blade. Bran's direwolf Summer burst through the window and tore out the assassin's throat."
+            also_known_as: "The Catspaw Assassination Attempt"
+        notes: "The Valyrian steel dagger became a crucial piece of evidence. Petyr Baelish falsely claimed it belonged to Tyrion Lannister, sending Catelyn on the path to seize Tyrion. In truth, the dagger was likely sent by Joffrey Baratheon, who overheard Robert say it would be a mercy to end the crippled boy's life. The dagger was originally from Robert's own collection. A fire in the library tower (set as a distraction) occurred simultaneously. Source: AGOT Catelyn III."

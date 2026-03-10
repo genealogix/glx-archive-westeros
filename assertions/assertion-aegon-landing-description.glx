@@ -1,0 +1,10 @@
+assertions:
+    assertion-aegon-landing-description:
+        subject:
+            event: event-aegon-landing-griffin-roost
+        property: description
+        value: "Aegon VI landed in the Stormlands with the Golden Company in 300 AC"
+        citations:
+            - citation-adwd-the-griffin-reborn
+        confidence: high
+        notes: "Jon Connington and Aegon landed at Griffin's Roost, beginning the invasion of Westeros"

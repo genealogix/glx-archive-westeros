@@ -1,0 +1,7 @@
+citations:
+    citation-agot-daenerys-x:
+        source: source-agot
+        properties:
+            locator: "Daenerys X"
+            accessed: "2026-03-10"
+        notes: "Daenerys walks into Drogo's funeral pyre. The dragons hatch."

@@ -16,11 +16,19 @@ events:
               role: guest
             - person: person-brandon-stark-213
               role: guest
+              notes: "Brandon Stark, heir of Winterfell"
             - person: person-jaime-lannister
               role: combatant
             - person: person-arthur-dayne
               role: combatant
+            - person: person-barristan-selmy
+              role: combatant
+            - person: person-howland-reed
+              role: guest
+              notes: "Crannogman who was beaten by three squires, prompting the Knight of the Laughing Tree"
+            - person: person-ashara-dayne
+              role: guest
         properties:
-            description: "The Tournament at Harrenhal — the greatest tourney of its age, hosted by Lord Walter Whent. Prince Rhaegar Targaryen won the final joust but caused scandal by crowning Lyanna Stark as the Queen of Love and Beauty, passing over his own wife Elia Martell. This act set in motion the chain of events leading to Robert's Rebellion."
+            description: "The Tournament at Harrenhal (281 AC) — the greatest tourney of its age, hosted by Lord Walter Whent at Harrenhal. Prince Rhaegar Targaryen won the final joust against Ser Barristan Selmy but caused scandal by riding past his wife Elia Martell to crown Lyanna Stark as the Queen of Love and Beauty with a crown of blue winter roses. King Aerys II attended — his first departure from the Red Keep since the Defiance of Duskendale — suspecting the tourney was a pretext for a great council to depose him. The mysterious Knight of the Laughing Tree appeared and defeated three knights whose squires had bullied Howland Reed. Aerys sent Rhaegar to unmask the Knight."
             also_known_as: "The Tourney at Harrenhal"
-        notes: "Widely suspected to have been arranged by Rhaegar himself to gather the great lords. The mystery Knight of the Laughing Tree appeared at this tourney. Aerys II attended, his first departure from the Red Keep since the Defiance of Duskendale."
+        notes: "Widely suspected to have been arranged by Rhaegar himself to gather the great lords and discuss removing his father from power. The tourney featured jousting, a melee, and an archery competition. Rhaegar's crowning of Lyanna was the act that 'all smiles died' — it publicly humiliated Elia Martell and enraged Robert Baratheon, Lyanna's betrothed. Less than a year later, Rhaegar and Lyanna disappeared together, setting the stage for Robert's Rebellion. Brandon Stark, Ned Stark, Robert Baratheon, and Jon Arryn were all present. The Knight of the Laughing Tree is strongly implied to be Lyanna Stark herself. Lord Walter Whent hosted the tourney (no person entity in archive). Richard Lonmouth and Ashara Dayne were also notable attendees."

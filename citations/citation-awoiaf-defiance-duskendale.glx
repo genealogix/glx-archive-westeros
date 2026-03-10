@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-defiance-duskendale:
+        source: source-awoiaf
+        properties:
+            locator: "Defiance of Duskendale"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on King Aerys's captivity and Barristan's rescue."

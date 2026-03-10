@@ -1,0 +1,7 @@
+citations:
+    citation-asos-jon-xii:
+        source: source-asos
+        properties:
+            locator: "Jon XII"
+            accessed: "2026-03-10"
+        notes: "Jon Snow elected 998th Lord Commander of the Night's Watch."

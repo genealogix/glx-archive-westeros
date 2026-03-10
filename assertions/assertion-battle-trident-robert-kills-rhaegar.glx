@@ -1,0 +1,9 @@
+assertions:
+    assertion-battle-trident-robert-kills-rhaegar:
+        subject:
+            event: event-battle-trident
+        property: description
+        value: "Robert slew Rhaegar with his warhammer at the ruby ford of the Trident in 283 AC"
+        citations:
+            - citation-awoiaf-battle-trident
+        confidence: high

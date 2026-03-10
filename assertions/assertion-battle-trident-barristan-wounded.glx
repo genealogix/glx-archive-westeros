@@ -1,0 +1,11 @@
+assertions:
+    assertion-battle-trident-barristan-wounded:
+        subject:
+            event: event-battle-trident
+        participant:
+            person: person-barristan-selmy
+            role: combatant
+        citations:
+            - citation-awoiaf-battle-trident
+        confidence: high
+        notes: "Fought for the royalists. Severely wounded. Robert sent his own maester."

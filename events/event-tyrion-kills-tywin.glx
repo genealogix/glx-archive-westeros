@@ -1,0 +1,20 @@
+events:
+    event-tyrion-kills-tywin:
+        type: death
+        date: "300"
+        place: place-red-keep
+        participants:
+            - person: person-tyrion-lannister
+              role: perpetrator
+            - person: person-tywin-lannister
+              role: victim
+            - person: person-jaime-lannister
+              role: accomplice
+            - person: person-varys
+              role: accomplice
+            - person: person-shae
+              role: victim
+        properties:
+            description: "The escape of Tyrion Lannister and the murder of Lord Tywin Lannister. On the night before Tyrion's scheduled execution for the murder of King Joffrey, Jaime Lannister freed Tyrion from his cell with help from Varys, who guided Tyrion through secret passages beneath the Red Keep. Before fleeing, Tyrion climbed to the Tower of the Hand. There he found Shae in his father's bed, wearing nothing but the gold chain of the Hand of the King. In a rage, Tyrion strangled her with the chain. He then took a crossbow from the wall and found Tywin in the privy. Tywin attempted to talk his way out, calling Shae 'a whore' — twice. Tyrion shot him through the bowels with the first bolt, then through the groin with the second. Tywin died on the privy."
+            also_known_as: "The Murder of Tywin Lannister"
+        notes: "Before freeing Tyrion, Jaime confessed the truth about Tysha — Tyrion's first wife was not a whore as Tywin had claimed, but a genuine crofter's daughter who had loved Tyrion. Tywin had forced his guardsmen to rape her and made Tyrion watch, then lied about her being a whore Jaime had hired. This revelation shattered Tyrion — he told Jaime the truth about Cersei's infidelities in retaliation and they parted bitterly. Tyrion's rage at Tywin was compounded by this revelation. Varys smuggled Tyrion out of King's Landing in a cask aboard a ship to the Free Cities. Tywin's body was found to stink horribly despite being embalmed — some took this as proof that 'the great lord Tywin Lannister did not, in the end, shit gold.' Source: ASOS Tyrion XI."

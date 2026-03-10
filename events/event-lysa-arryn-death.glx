@@ -1,0 +1,16 @@
+events:
+    event-lysa-arryn-death:
+        type: death
+        date: "300"
+        place: place-the-eyrie
+        participants:
+            - person: person-lysa-tully
+              role: victim
+            - person: person-petyr-baelish
+              role: perpetrator
+            - person: person-sansa-stark
+              role: witness
+        properties:
+            description: "The murder of Lysa Arryn by Petyr Baelish at the Eyrie. After Lysa witnessed Littlefinger kissing Sansa Stark in the snow garden, she flew into a jealous rage and dragged Sansa to the Moon Door, threatening to throw her through. Littlefinger intervened, calming Lysa and drawing her away from Sansa. He told Lysa 'I have only loved one woman, I promise you' — then pushed her through the Moon Door to her death. Before dying, Lysa screamed. Littlefinger convinced the household that Lysa had jumped, aided by the singer Marillion whom he later had confess to the murder under torture."
+            also_known_as: "The Moon Door"
+        notes: "Before her death, Lysa revealed crucial information in her ravings: she confirmed that Littlefinger had convinced her to poison Jon Arryn with the tears of Lys and write to Catelyn blaming the Lannisters — the act that set the entire plot of the series in motion. Lysa had done it for love of Petyr. Sansa was the sole witness to the murder. Marillion, the singer, was imprisoned and tortured into a false confession. Littlefinger became Lord Protector of the Vale in his capacity as Lysa's widower and stepfather to Robert Arryn. Source: ASOS Sansa VII."

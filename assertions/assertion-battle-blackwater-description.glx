@@ -1,0 +1,9 @@
+assertions:
+    assertion-battle-blackwater-description:
+        subject:
+            event: event-battle-blackwater
+        property: description
+        value: "Stannis's fleet destroyed by wildfire trap; Tywin-Tyrell relief routed Stannis's forces"
+        citations:
+            - citation-awoiaf-battle-blackwater
+        confidence: high

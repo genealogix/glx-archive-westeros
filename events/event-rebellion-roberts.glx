@@ -2,6 +2,7 @@ events:
     event-rebellion-roberts:
         type: rebellion
         date: "BET 282 AND 283"
+        place: place-westeros
         participants:
             - person: person-robert-baratheon-i
               role: principal
@@ -17,7 +18,19 @@ events:
               role: combatant
             - person: person-tywin-lannister
               role: combatant
+            - person: person-brandon-stark-213
+              role: victim
+            - person: person-rickard-stark
+              role: victim
+            - person: person-lyanna-stark
+              role: subject
+            - person: person-barristan-selmy
+              role: combatant
+            - person: person-stannis-baratheon
+              role: combatant
+            - person: person-mace-tyrell
+              role: combatant
         properties:
-            description: "Robert's Rebellion — a civil war that overthrew the Targaryen dynasty. Triggered by the abduction of Lyanna Stark by Prince Rhaegar Targaryen, and the subsequent execution of Brandon and Rickard Stark by the Mad King Aerys II. Robert Baratheon, Eddard Stark, and Jon Arryn led the rebel alliance. The war ended with Robert on the Iron Throne."
+            description: "Robert's Rebellion (also known as the War of the Usurper) — a civil war fought from 282-283 AC that overthrew the Targaryen dynasty. Triggered by Prince Rhaegar Targaryen's abduction of Lyanna Stark from the Tourney at Harrenhal, followed by Brandon Stark's arrest when he rode to King's Landing demanding justice, and the execution of both Brandon and his father Lord Rickard Stark by the Mad King Aerys II, who then demanded Jon Arryn hand over his wards Eddard Stark and Robert Baratheon. Jon Arryn raised his banners in revolt instead. The rebel alliance was cemented by the double wedding of Ned Stark to Catelyn Tully and Jon Arryn to Lysa Tully at Riverrun, securing House Tully's support. Major battles included Summerhall (three engagements won by Robert), Ashford (Targaryen victory), the Battle of the Bells (Robert rescued at Stoney Sept by Ned), and the decisive Battle of the Trident where Robert slew Rhaegar. The war ended with the Sack of King's Landing by Tywin Lannister's forces and Robert's coronation."
             also_known_as: "Robert's Rebellion, The War of the Usurper"
-        notes: "The rebel alliance was cemented by the marriages of Ned Stark to Catelyn Tully and Jon Arryn to Lysa Tully, securing House Tully's support."
+        notes: "Stannis Baratheon held Storm's End throughout the war against the siege by Mace Tyrell's Reach forces and the Redwyne fleet. Jon Arryn served as Robert's first Hand of the King. Tywin Lannister remained neutral until after the Trident, then opportunistically sacked King's Landing. The Greyjoys remained neutral. The war lasted close to a year. Key sub-events: Execution of Brandon and Rickard Stark, Battle of Summerhall, Battle of Ashford, Battle of the Bells, Battle of the Trident, Sack of King's Landing, Tower of Joy."

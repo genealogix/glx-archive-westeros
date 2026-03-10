@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-sack-kings-landing:
+        source: source-awoiaf
+        properties:
+            locator: "Sack of King's Landing"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the Sack. Details Tywin's betrayal, Jaime's kingslaying, and murders of Elia and the Targaryen children."

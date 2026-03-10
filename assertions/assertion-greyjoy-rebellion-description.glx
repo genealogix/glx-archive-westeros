@@ -1,0 +1,9 @@
+assertions:
+    assertion-greyjoy-rebellion-description:
+        subject:
+            event: event-greyjoy-rebellion
+        property: description
+        value: "Balon Greyjoy's failed rebellion in 289 AC, ending with Theon taken as ward"
+        citations:
+            - citation-awoiaf-greyjoy-rebellion
+        confidence: high

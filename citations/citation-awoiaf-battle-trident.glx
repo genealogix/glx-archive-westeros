@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-battle-trident:
+        source: source-awoiaf
+        properties:
+            locator: "Battle of the Trident"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the decisive battle of Robert's Rebellion. Lists all commanders, army compositions, and battle details."

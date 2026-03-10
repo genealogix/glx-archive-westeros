@@ -1,0 +1,14 @@
+events:
+    event-jaime-kingslaying:
+        type: assassination
+        date: "283"
+        place: place-red-keep
+        participants:
+            - person: person-jaime-lannister
+              role: perpetrator
+            - person: person-aerys-targaryen-ii
+              role: victim
+        properties:
+            description: "The Kingslaying — Ser Jaime Lannister of the Kingsguard killed King Aerys II Targaryen on the Iron Throne during the Sack of King's Landing. When Aerys ordered his pyromancer Hand, Rossart, to ignite the wildfire caches hidden throughout the city — choosing to burn half a million people rather than let the city fall to the rebels — Jaime first killed Rossart, then returned to the throne room. Aerys tried to flee and Jaime drove his golden sword into Aerys's back beneath the Iron Throne. He then sat on the throne and waited. Ned Stark found him there."
+            also_known_as: "The Kingslaying, Jaime earns the name 'Kingslayer'"
+        notes: "Jaime never told anyone his true reason for killing Aerys — that he did it to prevent the destruction of King's Landing by wildfire — until he confessed to Brienne of Tarth in the baths at Harrenhal years later. The world assumed he killed Aerys for selfish reasons or to help his father. Jaime also hunted down and killed the other two pyromancers (Garigus and Belis) to ensure the wildfire plot could never be carried out. When Ned Stark found Jaime on the throne, he judged him without asking why — a slight Jaime never forgave. Aerys's last words were 'Burn them all.' Source: ASOS Jaime V."

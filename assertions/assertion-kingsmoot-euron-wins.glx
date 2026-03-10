@@ -1,0 +1,11 @@
+assertions:
+    assertion-kingsmoot-euron-wins:
+        subject:
+            event: event-kingsmoot-old-wyk
+        property: description
+        value: "Euron Crow's Eye won the Kingsmoot with promises of dragons and a dragonhorn"
+        citations:
+            - citation-awoiaf-kingsmoot
+            - citation-affc-the-drowned-man
+        confidence: high
+        notes: "Euron defeated claims by Asha and Victarion Greyjoy at the Kingsmoot on Old Wyk"

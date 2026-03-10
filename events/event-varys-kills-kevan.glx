@@ -1,0 +1,14 @@
+events:
+    event-varys-kills-kevan:
+        type: assassination
+        date: "300"
+        place: place-red-keep
+        participants:
+            - person: person-varys
+              role: perpetrator
+            - person: person-kevan-lannister
+              role: victim
+        properties:
+            description: "The assassination of Ser Kevan Lannister by Varys. Kevan was lured to Grand Maester Pycelle's chambers, where he found Pycelle already dead — killed by Varys's 'little birds' (child spies). Varys then shot Kevan with a crossbow and explained his reasons while Kevan lay dying. Varys told Kevan that he was too competent — he was undoing the damage Cersei had done, healing the rifts between the Tyrells and Lannisters, and restoring stability to the realm. Varys needed the realm weak and divided for the arrival of Aegon Targaryen (Young Griff). The 'little birds' then finished Kevan with their knives."
+            also_known_as: "The Epilogue Murder"
+        notes: "This is the epilogue chapter of ADWD, narrated from Kevan's POV. Varys explicitly states he is working for Aegon Targaryen (the supposed son of Rhaegar) and that Aegon has been raised to be a perfect king — humble, dutiful, and just. This is one of the strongest pieces of evidence that Varys's true loyalty has always been to the Targaryen restoration. Pycelle was killed because he was old and would have bent to whoever held power. Kevan was killed because he was rebuilding the Lannister-Tyrell alliance too effectively. Source: ADWD Epilogue."

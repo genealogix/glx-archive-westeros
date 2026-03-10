@@ -1,0 +1,9 @@
+assertions:
+    assertion-battle-whispering-wood-jaime-captured:
+        subject:
+            event: event-battle-whispering-wood
+        property: description
+        value: "Robb Stark ambushed Jaime Lannister's army; Jaime captured in the Whispering Wood"
+        citations:
+            - citation-awoiaf-battle-whispering-wood
+        confidence: high

@@ -1,0 +1,18 @@
+events:
+    event-stannis-arrives-wall:
+        type: arrival
+        date: "300"
+        place: place-castle-black
+        participants:
+            - person: person-stannis-baratheon
+              role: principal
+            - person: person-melisandre
+              role: advisor
+            - person: person-davos-seaworth
+              role: advisor
+            - person: person-jon-snow
+              role: subject
+        properties:
+            description: "Stannis Baratheon arrives at the Wall (300 AC) — after his defeat at the Blackwater, Stannis heeded the counsel of Melisandre and a plea from the Night's Watch to march north. He sailed from Dragonstone to Eastwatch-by-the-Sea with approximately 1,500 knights and men-at-arms. His cavalry charged the wildling camp from two directions during the Battle of Castle Black, routing Mance Rayder's host and saving the Watch from annihilation."
+            also_known_as: "Stannis comes North"
+        notes: "Davos Seaworth convinced Stannis to go north by reading the letter from the Night's Watch requesting aid. Stannis saw defending the Wall as proof that he was the true king — 'I was trying to win the throne to save the kingdom, when I should have been saving the kingdom to win the throne.' He established himself at the Wall as a base of operations, attempting to rally the Northern lords against the Boltons. Source: ASOS Samwell V, Jon XI."

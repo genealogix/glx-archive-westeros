@@ -1,0 +1,9 @@
+assertions:
+    assertion-battle-bells-connington-defeat:
+        subject:
+            event: event-battle-bells
+        property: description
+        value: "Jon Connington defeated at Stoney Sept, Robert rescued by the rebel alliance"
+        citations:
+            - citation-awoiaf-battle-bells
+        confidence: high

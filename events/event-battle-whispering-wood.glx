@@ -25,5 +25,5 @@ events:
             - person: person-brynden-tully-blackfish
               role: combatant
         properties:
-            description: "The Battle of the Whispering Wood — Robb Stark ambushed Jaime Lannister's army in the Whispering Wood near Riverrun. The Lannister force was destroyed and Jaime himself was captured after attempting to cut his way to Robb in single combat. This was Robb's first major victory."
-        notes: "Jaime killed several of Robb's bodyguards trying to reach him. The capture of Jaime was a major strategic coup but also created a hostage dilemma that would haunt the Starks."
+            description: "The Battle of the Whispering Wood (298 AC) — Robb Stark ambushed Jaime Lannister's army in the Whispering Wood near Riverrun. Robb's 6,000 cavalry fell upon the Lannister force in a surprise attack from multiple directions. Jaime attempted to cut his way through to Robb in single combat, killing Daryn Hornwood, Eddard Karstark, and Torrhen Karstark before being overwhelmed and captured. Ten Lannister men were killed for every one of Robb's. This was Robb's first major victory and the capture of Jaime Lannister gave the Starks their most valuable hostage."
+        notes: "The Karstark losses (Eddard and Torrhen, two sons of Lord Rickard Karstark) created a blood feud that later led Rickard to murder the captive Lannister squires Willem and Tion and Robb to execute Rickard for the crime — losing the Karstarks from his army at a critical moment."

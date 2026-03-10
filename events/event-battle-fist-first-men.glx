@@ -8,7 +8,12 @@ events:
               role: combatant
             - person: person-jon-snow
               role: subject
+            - person: person-samwell-tarly
+              role: combatant
+              notes: "Survived the battle and the march south"
+            - person: person-chett
+              role: subject
         properties:
-            description: "The Battle at the Fist of the First Men — the Others and their army of wights attacked the Night's Watch encampment at the Fist of the First Men. The Watch suffered catastrophic losses and the survivors fled south in disorder toward Craster's Keep. This was the first major engagement between the Watch and the Others in thousands of years."
-            also_known_as: "The Fight at the Fist"
-        notes: "Jon Snow was not present at the battle itself, having been sent ahead with Qhorin Halfhand's ranging party. The survivors were later attacked again at Craster's Keep, where Lord Commander Jeor Mormont was murdered in a mutiny."
+            description: "The Battle at the Fist of the First Men (299 AC) — a catastrophic defeat for the Night's Watch. The Great Ranging of approximately 300 men under Lord Commander Jeor Mormont made camp atop the Fist of the First Men beyond the Wall. The Others attacked with an army of wights in overwhelming numbers. The Watch was routed, suffering devastating casualties — only a fraction escaped south in disorder. Samwell Tarly was among the survivors. The retreat led to Craster's Keep, where a mutiny resulted in the murder of Lord Commander Mormont and Craster."
+            also_known_as: "The Fight at the Fist, The Battle of the Fist"
+        notes: "Jon Snow was not present at the battle itself — he had been sent with Qhorin Halfhand's scouting party into the Skirling Pass. The wight army included dead animals (bears, horses) as well as dead men. Sam killed an Other with a dragonglass dagger during the retreat, earning the nickname 'Sam the Slayer.' The survivors numbered fewer than fifty when they reached Craster's Keep."

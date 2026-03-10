@@ -1,0 +1,10 @@
+assertions:
+    assertion-roberts-rebellion-description:
+        subject:
+            event: event-rebellion-roberts
+        property: description
+        value: "War fought 282-283 AC overthrowing the Targaryen dynasty"
+        citations:
+            - citation-awoiaf-roberts-rebellion
+            - citation-twoiaf-fall-of-dragons-roberts-rebellion
+        confidence: high

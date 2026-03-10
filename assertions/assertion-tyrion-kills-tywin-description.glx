@@ -1,0 +1,10 @@
+assertions:
+    assertion-tyrion-kills-tywin-description:
+        subject:
+            event: event-tyrion-kills-tywin
+        property: description
+        value: "Tyrion shot Tywin with a crossbow on the privy after finding Shae in his bed"
+        citations:
+            - citation-asos-tyrion-xi
+        confidence: high
+        notes: "Tyrion escaped the black cells with Jaime and Varys's help, then detoured to confront Tywin"

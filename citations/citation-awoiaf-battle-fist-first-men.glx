@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-battle-fist-first-men:
+        source: source-awoiaf
+        properties:
+            locator: "Fist of the First Men"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the Night's Watch defeat by the Others."

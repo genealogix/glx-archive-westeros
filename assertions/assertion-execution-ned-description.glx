@@ -1,0 +1,9 @@
+assertions:
+    assertion-execution-ned-description:
+        subject:
+            event: event-execution-ned-stark
+        property: description
+        value: "Ned Stark executed on steps of the Great Sept of Baelor by Ser Ilyn Payne on Joffrey's orders"
+        citations:
+            - citation-awoiaf-eddard-stark
+        confidence: high

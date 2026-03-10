@@ -1,0 +1,14 @@
+events:
+    event-mutiny-crasters-keep:
+        type: mutiny
+        date: "299"
+        place: place-beyond-the-wall
+        participants:
+            - person: person-jeor-mormont
+              role: victim
+            - person: person-samwell-tarly
+              role: witness
+        properties:
+            description: "The Mutiny at Craster's Keep — after the catastrophic defeat at the Fist of the First Men, the surviving Night's Watch brothers reached Craster's Keep. Starving and demoralized, a group of mutineers led by Dirk and Ollo Lophand killed Craster when he refused to feed them, then turned on Lord Commander Jeor Mormont. The Old Bear was stabbed in the back by his own men while trying to restore order. Sam fled with Gilly and her newborn son during the chaos."
+            also_known_as: "The Mutiny at Craster's Keep"
+        notes: "Mormont's last words to Sam were to tell his son Jorah to take the black and join the Night's Watch — 'Tell Jorah. Forgive him. My son. Please. Go.' Sam escaped south and eventually reached the Wall. The mutineers held Craster's Keep until Karl Tanner and the other ringleaders were later killed. Source: ASOS Samwell II."

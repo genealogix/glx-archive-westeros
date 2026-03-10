@@ -8,6 +8,16 @@ events:
               role: principal
             - person: person-jon-arryn
               role: subject
+            - person: person-tywin-lannister
+              role: subject
+              notes: "Presented the bodies of Aegon and Rhaenys in Lannister cloaks"
+            - person: person-cersei-lannister
+              role: subject
+              notes: "Married Robert to cement the Lannister alliance"
+            - person: person-eddard-stark
+              role: witness
+            - person: person-stannis-baratheon
+              role: witness
         properties:
-            description: "The coronation of Robert Baratheon as King of the Andals, the Rhoynar, and the First Men. Robert claimed the throne by right of conquest and by his Targaryen grandmother Rhaelle. Jon Arryn was named Hand of the King."
-        notes: "Robert's claim was bolstered by his Targaryen blood through his grandmother Rhaelle Targaryen. He married Cersei Lannister to cement the alliance with House Lannister."
+            description: "The coronation of Robert Baratheon as King of the Andals, the Rhoynar, and the First Men (283 AC). Robert claimed the throne by right of conquest and by his Targaryen grandmother Rhaelle Targaryen. Jon Arryn was named Hand of the King. Robert married Cersei Lannister to cement the alliance with House Lannister. The surviving Targaryen royals — Queen Rhaella and Prince Viserys — had fled to Dragonstone, where Rhaella would die giving birth to Daenerys during a great storm."
+        notes: "Robert's claim was strengthened by his Targaryen blood through his grandmother Rhaelle Targaryen, daughter of King Aegon V. This made him the nearest Baratheon claimant in the Targaryen succession after the deaths of Rhaegar and Aerys. Stannis Baratheon, Robert's brother, was sent to Dragonstone to capture the Targaryen children but arrived too late — they had been spirited away to the Free Cities by Ser Willem Darry."

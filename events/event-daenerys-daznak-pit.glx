@@ -1,0 +1,14 @@
+events:
+    event-daenerys-daznak-pit:
+        type: event
+        date: "300"
+        place: place-meereen
+        participants:
+            - person: person-daenerys-targaryen-304
+              role: principal
+            - person: person-barristan-selmy
+              role: witness
+        properties:
+            description: "Daenerys and Drogon in Daznak's Pit (300 AC) — during the reopening of the fighting pits of Meereen (a concession Daenerys made to the slavers as part of a peace agreement), the pit fighter Barsena was killed by a boar. Drogon, drawn by the noise and blood, descended into the arena. He killed the boar and began to feed. When pit fighters attacked Drogon with spears, Daenerys ran to him, climbed on his back, and flew away from Meereen on dragonback — the first Targaryen dragonrider in over a century."
+            also_known_as: "Drogon in the Pit, Daenerys's Flight"
+        notes: "This event left Meereen without its queen and precipitated the siege by the Yunkish alliance. Daenerys flew to the Dothraki Sea, where Drogon had made his lair in a charred ruin. She was eventually found by a Dothraki khalasar led by Khal Jhaqo. An assassination attempt on Daenerys (the poisoned locusts, likely orchestrated by the Shavepate or the Green Grace) may have been the trigger for the chaos. Source: ADWD Daenerys IX-X."

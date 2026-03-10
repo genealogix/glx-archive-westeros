@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-battle-oxcross:
+        source: source-awoiaf
+        properties:
+            locator: "Battle of Oxcross"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on Robb's surprise victory in the Westerlands."

@@ -8,7 +8,23 @@ events:
               role: combatant
             - person: person-stannis-baratheon
               role: combatant
+            - person: person-mance-rayder
+              role: combatant
+              notes: "King-Beyond-the-Wall, led the wildling host"
+            - person: person-ygritte
+              role: combatant
+              notes: "Killed during the battle"
+            - person: person-donal-noye
+              role: combatant
+              notes: "One-armed smith who led the defense of the tunnel, killed the giant Mag the Mighty"
+            - person: person-alliser-thorne
+              role: combatant
+            - person: person-janos-slynt
+              role: combatant
+            - person: person-dalla
+              role: subject
+              notes: "Mance's wife, died giving birth during the battle"
         properties:
-            description: "The Battle of Castle Black — the wildling army under Mance Rayder attacked the Wall from both sides. Jon Snow took command of the Wall's defense after the deaths of Donal Noye and others. The Watch held for several days against overwhelming numbers. The battle ended when Stannis Baratheon's army arrived unexpectedly from the east, routing the wildling host and capturing Mance Rayder."
+            description: "The Battle of Castle Black (300 AC) — the climactic defense of the Wall against Mance Rayder's wildling host of 100,000 men. The attack came from both sides: Styr and the Thenns attacked from the south (having climbed the Wall earlier), while Mance's main force assaulted the Wall from the north with giants, mammoths, and siege equipment. Jon Snow took command of the Wall's defense after Donal Noye went into the tunnel to face the giants and was killed fighting Mag the Mighty. The Watch held for several days against overwhelming odds. The battle ended when Stannis Baratheon's cavalry of approximately 1,500 knights arrived from Eastwatch-by-the-Sea, charging the wildling camp from east and west simultaneously and routing Mance's forces."
             also_known_as: "The Battle of Castle Black"
-        notes: "Jon fought on the Wall and in the tunnel beneath it. Ygritte was killed during the battle. The giant Mag the Mighty killed Donal Noye in the tunnel. Stannis's intervention came at the urging of Melisandre and a letter from the Night's Watch."
+        notes: "Ygritte was killed by an arrow during the southern assault — Jon found her dying in the aftermath. The giant Mag the Mighty fought through the ice tunnel and was killed by Donal Noye, who died in the struggle. Stannis Baratheon's arrival at the Wall was at the urging of Melisandre and a letter from the Night's Watch. He came north after the defeat at the Blackwater, seeing the Wall as a chance to prove himself a true king by defending the realm. Mance Rayder was captured."

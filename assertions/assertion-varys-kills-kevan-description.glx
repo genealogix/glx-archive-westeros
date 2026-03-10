@@ -1,0 +1,10 @@
+assertions:
+    assertion-varys-kills-kevan-description:
+        subject:
+            event: event-varys-kills-kevan
+        property: description
+        value: "Varys killed Kevan and Pycelle to keep the realm unstable for Aegon's arrival"
+        citations:
+            - citation-adwd-epilogue
+        confidence: high
+        notes: "Varys explained his motives to the dying Kevan — Kevan was too competent a regent"

@@ -1,0 +1,11 @@
+assertions:
+    assertion-battle-castle-black-stannis-arrives:
+        subject:
+            event: event-battle-castle-black
+        participant:
+            person: person-stannis-baratheon
+            role: combatant
+        citations:
+            - citation-awoiaf-battle-castle-black
+        confidence: high
+        notes: "Arrived from Eastwatch with cavalry, routing Mance Rayder's wildling host"

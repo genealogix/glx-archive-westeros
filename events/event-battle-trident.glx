@@ -12,7 +12,19 @@ events:
               role: combatant
             - person: person-lewyn-martell
               role: combatant
+            - person: person-barristan-selmy
+              role: combatant
+              notes: "Fought for the royalists. Severely wounded. Robert sent his own maester to tend Barristan's wounds after the battle."
+            - person: person-jon-arryn
+              role: combatant
+            - person: person-hoster-tully
+              role: combatant
+            - person: person-roose-bolton
+              role: combatant
+            - person: person-jon-connington
+              role: subject
+              notes: "His earlier defeat at the Battle of the Bells forced this decisive engagement"
         properties:
-            description: "The Battle of the Trident — the decisive battle of Robert's Rebellion. Robert Baratheon and Rhaegar Targaryen met in single combat in the waters of the Trident. Robert slew Rhaegar with his warhammer, scattering the rubies from Rhaegar's breastplate into the river. The royalist army broke and fled."
+            description: "The Battle of the Trident (283 AC) — the decisive battle of Robert's Rebellion, fought at the ruby ford of the Trident. The royalist army of nearly 40,000 men under Prince Rhaegar Targaryen met the combined rebel host of Houses Baratheon, Stark, Arryn, and Tully. Robert Baratheon and Rhaegar met in single combat in the waters of the ford. Robert slew Rhaegar with his warhammer, scattering the rubies from Rhaegar's black breastplate into the river — the spot became known as the Ruby Ford. On the rebel left, Dornishmen under Prince Lewyn Martell threatened the flank until Ser Lyn Corbray picked up his wounded father's Valyrian steel sword Lady Forlorn and led a charge that broke the Dornish line, killing Lewyn. Ser Barristan Selmy killed a dozen friends of Robert and Ned but was severely wounded. Ser Jonothor Darry of the Kingsguard was slain. Lord Jason Mallister slew three of Rhaegar's bannermen. The royalist army broke and fled."
             also_known_as: "The Battle of the Trident, The Ruby Ford"
-        notes: "The spot where Rhaegar fell became known as the Ruby Ford. Prince Lewyn Martell of the Kingsguard was also slain. Robert was wounded and sent Ned south to take King's Landing."
+        notes: "Robert was wounded in the battle and could not pursue. He sent Ned south with the vanguard to take King's Landing. Barristan Selmy was found among the dead and wounded — Robert sent his own maester to tend to him over the objections of others who wanted him killed, saying 'I will not have such a man die in the dirt.' The Freys arrived with their host only after the battle was decided ('the Late Lord Frey'). The royalist army had been numerically superior but less battle-hardened than the rebels. Ser Jonothor Darry of the Kingsguard was killed in the fighting."

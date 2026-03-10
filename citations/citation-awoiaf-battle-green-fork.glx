@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-battle-green-fork:
+        source: source-awoiaf
+        properties:
+            locator: "Battle of the Green Fork"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the diversionary battle at the Green Fork."

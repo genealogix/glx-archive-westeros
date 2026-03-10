@@ -1,0 +1,10 @@
+assertions:
+    assertion-catelyn-captures-tyrion-description:
+        subject:
+            event: event-catelyn-captures-tyrion
+        property: description
+        value: "Catelyn seized Tyrion at the crossroads inn based on Littlefinger's false accusation"
+        citations:
+            - citation-agot-catelyn-v
+        confidence: high
+        notes: "Littlefinger falsely identified the Valyrian steel dagger as Tyrion's, prompting Catelyn to act"

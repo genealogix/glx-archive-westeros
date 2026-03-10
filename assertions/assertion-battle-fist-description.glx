@@ -1,0 +1,9 @@
+assertions:
+    assertion-battle-fist-description:
+        subject:
+            event: event-battle-fist-first-men
+        property: description
+        value: "Others and wights destroyed the Night's Watch at the Fist of the First Men"
+        citations:
+            - citation-awoiaf-battle-fist-first-men
+        confidence: high

@@ -1,0 +1,10 @@
+assertions:
+    assertion-sack-astapor-description:
+        subject:
+            event: event-sack-of-astapor
+        property: description
+        value: "Daenerys commanded 'Dracarys', freed the Unsullied, and destroyed the Good Masters"
+        citations:
+            - citation-awoiaf-sack-astapor
+        confidence: high
+        notes: "Daenerys traded Drogon for the Unsullied, then ordered the dragon to burn the slavers"

@@ -1,0 +1,10 @@
+assertions:
+    assertion-purple-wedding-olenna-poison:
+        subject:
+            event: event-purple-wedding
+        property: description
+        value: "Joffrey poisoned by the Strangler at his wedding feast, conspiracy of Olenna Tyrell and Petyr Baelish"
+        citations:
+            - citation-asos-sansa-vii
+        confidence: high
+        notes: "Sansa's hairnet contained the poison; Olenna plucked the gem into the wine"

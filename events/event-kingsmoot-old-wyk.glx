@@ -12,7 +12,9 @@ events:
               role: participant
             - person: person-aeron-greyjoy
               role: officiant
+            - person: person-erik-ironmaker
+              role: participant
         properties:
-            description: "The Kingsmoot on Old Wyk to choose a new King of the Iron Islands after the death of Balon Greyjoy. Claimants included Euron, Asha, Victarion, Gylbert Farwynd, Erik Ironmaker, and Dunstan Drumm. Euron Crow's Eye won with promises of dragons."
+            description: "The Kingsmoot on Old Wyk (300 AC) — the first Kingsmoot in thousands of years, called by Aeron 'Damphair' Greyjoy after the death of King Balon Greyjoy. Held at Nagga's Bones on Old Wyk. Claimants included Euron Crow's Eye, Asha Greyjoy (Balon's daughter), Victarion Greyjoy (Balon's brother), Gylbert Farwynd, Erik Ironmaker, and Dunstan Drumm. Asha offered trade and peace; Victarion offered war and plunder; Euron trumped all by promising to conquer Westeros with dragons, producing a dragon horn (Dragonbinder) bound with Valyrian steel bands. Euron won the Seastone Chair."
             also_known_as: "The Kingsmoot"
-        notes: "The first Kingsmoot in thousands of years, called by Aeron Damphair. Euron won the Seastone Chair. Listed in the AFFC appendix under Claimants to the Seastone Chair."
+        notes: "Aeron Damphair called the Kingsmoot expecting Victarion to win, not Euron. He despises and fears Euron. Asha tried to claim by both right and cunning — she offered land and peace to the ironborn. But Euron's spectacular promises and the dragonhorn overwhelmed her practical arguments. The dragonhorn killed the man who blew it — his lungs charred from the inside. Euron told Victarion to sail the Iron Fleet to Slaver's Bay to bring Daenerys Targaryen to him as a bride."

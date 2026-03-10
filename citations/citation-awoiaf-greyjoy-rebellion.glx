@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-greyjoy-rebellion:
+        source: source-awoiaf
+        properties:
+            locator: "Greyjoy's Rebellion"
+            accessed: "2026-03-10"
+        notes: "AWOIAF article on the Greyjoy Rebellion. Lists all battles and participants."

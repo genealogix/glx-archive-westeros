@@ -8,6 +8,10 @@ events:
               role: combatant
             - person: person-edmure-tully
               role: subject
+            - person: person-brynden-tully-blackfish
+              role: combatant
+            - person: person-tytos-blackwood
+              role: combatant
         properties:
-            description: "The Battle of the Camps — fought immediately after the Whispering Wood. Robb Stark's forces attacked the Lannister siege camps around Riverrun from multiple directions, routing the besiegers and lifting the siege. Edmure Tully sallied from Riverrun to join the attack."
-        notes: "The three-pronged attack at night caught the leaderless Lannister forces (their commander Jaime having been captured) completely off guard. This victory freed Riverrun and made Robb a celebrated war leader."
+            description: "The Battle of the Camps (298 AC) — fought immediately after the Whispering Wood. Robb Stark's forces attacked the three Lannister siege camps around Riverrun from multiple directions in a nighttime assault. Ser Brynden Tully ('the Blackfish') led one column. With Jaime captured and no overall commander, the leaderless Lannister forces were routed. Edmure Tully sallied from Riverrun with the garrison to join the attack. The siege was broken and thousands of Lannister soldiers were killed, captured, or drowned trying to flee across the rivers."
+        notes: "The three camps were separated by the rivers around Riverrun (the Tumblestone and the Red Fork), preventing them from reinforcing each other. This made the night attack devastating. The victory freed Riverrun and reunited Robb with his mother Catelyn and his great-uncle the Blackfish."
