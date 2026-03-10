@@ -1,0 +1,8 @@
+events:
+    event-birth-petyr-baelish:
+        type: birth
+        date: "268"
+        participants:
+            - person: person-petyr-baelish
+              role: principal
+        notes: "Born in the Fingers, the Vale of Arryn. Son of a minor lord."

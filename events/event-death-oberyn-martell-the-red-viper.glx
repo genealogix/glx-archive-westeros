@@ -1,0 +1,13 @@
+events:
+    event-death-oberyn-martell-the-red-viper:
+        type: death
+        date: "300"
+        place: place-kings-landing
+        participants:
+            - person: person-oberyn-martell-the-red-viper
+              role: principal
+            - person: person-gregor-clegane
+              role: perpetrator
+        properties:
+            cause: "Skull crushed by Ser Gregor Clegane during trial by combat"
+        notes: "Oberyn championed Tyrion Lannister in his trial by combat. He had Gregor beaten and poisoned with manticore venom on his spear, but demanded a confession of Elia's murder. Gregor seized the opening, tripped Oberyn, knocked out his teeth with a gauntleted fist, and crushed his skull while screaming his confession."

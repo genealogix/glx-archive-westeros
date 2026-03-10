@@ -1,6 +1,13 @@
 events:
     event-birth-cersei-lannister:
         type: birth
+        date: "266"
+        place: place-casterly-rock
         participants:
             - person: person-cersei-lannister
               role: principal
+            - person: person-tywin-lannister
+              role: parent
+            - person: person-joanna-lannister
+              role: parent
+        notes: "Twin to Jaime Lannister, born moments before him."

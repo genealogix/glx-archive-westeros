@@ -1,6 +1,11 @@
 events:
     event-birth-lyanna-stark:
         type: birth
+        date: "266"
+        place: place-winterfell
         participants:
             - person: person-lyanna-stark
               role: principal
+            - person: person-rickard-stark
+              role: parent
+        notes: "Younger sister of Brandon and Eddard Stark."

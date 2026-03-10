@@ -1,0 +1,10 @@
+events:
+    event-death-sandor-clegane:
+        type: death
+        date: "300"
+        participants:
+            - person: person-sandor-clegane
+              role: principal
+        properties:
+            cause: "Left to die of infected wounds (supposedly)"
+        notes: "Wounded at the inn at the crossroads fighting Polliver and the Tickler. The wound festered with fever. Arya Stark refused to give him the gift of mercy and left him dying under a tree by the Trident. A gravedigger matching Sandor's description was later seen on the Quiet Isle by Brienne — the Elder Brother told her 'The Hound is dead' but may have meant the persona, not the man."

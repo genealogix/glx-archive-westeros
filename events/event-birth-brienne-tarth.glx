@@ -1,0 +1,8 @@
+events:
+    event-birth-brienne-tarth:
+        type: birth
+        date: "ABT 280"
+        participants:
+            - person: person-brienne-tarth
+              role: principal
+        notes: "Daughter of Lord Selwyn Tarth, the Evenstar."

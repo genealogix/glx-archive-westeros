@@ -1,0 +1,10 @@
+events:
+    event-death-beric-dondarrion:
+        type: death
+        date: "299"
+        participants:
+            - person: person-beric-dondarrion
+              role: principal
+        properties:
+            cause: "Gave his life-fire to resurrect Catelyn Stark"
+        notes: "Lord Beric gave his final life to resurrect Catelyn Stark through the last kiss of R'hllor. He had been killed and resurrected six times before by Thoros of Myr. This seventh death was permanent."

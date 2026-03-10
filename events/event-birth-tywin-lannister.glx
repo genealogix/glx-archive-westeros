@@ -1,6 +1,11 @@
 events:
     event-birth-tywin-lannister:
         type: birth
+        date: "242"
+        place: place-casterly-rock
         participants:
             - person: person-tywin-lannister
               role: principal
+            - person: person-tytos-lannister
+              role: parent
+        notes: "Eldest son of Tytos Lannister and Jeyne Marbrand."

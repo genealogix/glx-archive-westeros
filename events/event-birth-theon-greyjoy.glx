@@ -1,0 +1,9 @@
+events:
+    event-birth-theon-greyjoy:
+        type: birth
+        date: "ABT 279"
+        place: place-pyke
+        participants:
+            - person: person-theon-greyjoy
+              role: principal
+        notes: "Last surviving son of Balon Greyjoy and Alannys Harlaw."

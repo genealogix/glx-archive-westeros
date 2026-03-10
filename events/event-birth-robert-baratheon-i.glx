@@ -1,6 +1,11 @@
 events:
     event-birth-robert-baratheon-i:
         type: birth
+        date: "262"
+        place: place-storms-end
         participants:
             - person: person-robert-baratheon-i
               role: principal
+            - person: person-steffon-baratheon
+              role: parent
+        notes: "Eldest son of Steffon Baratheon and Cassana Estermont."

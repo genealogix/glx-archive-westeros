@@ -1,6 +1,13 @@
 events:
     event-birth-daenerys-targaryen-304:
         type: birth
+        date: "284"
+        place: place-dragonstone
         participants:
             - person: person-daenerys-targaryen-304
               role: principal
+            - person: person-aerys-targaryen-ii
+              role: parent
+            - person: person-rhaella-targaryen
+              role: parent
+        notes: "Born on Dragonstone during a great storm that destroyed the Targaryen fleet, hence 'Stormborn.'"

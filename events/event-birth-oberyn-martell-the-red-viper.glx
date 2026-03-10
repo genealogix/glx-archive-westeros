@@ -1,6 +1,8 @@
 events:
     event-birth-oberyn-martell-the-red-viper:
         type: birth
+        date: "257"
         participants:
             - person: person-oberyn-martell-the-red-viper
               role: principal
+        notes: "Younger brother of Doran and elder brother of Elia Martell."

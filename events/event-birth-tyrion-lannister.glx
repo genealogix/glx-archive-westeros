@@ -1,6 +1,13 @@
 events:
     event-birth-tyrion-lannister:
         type: birth
+        date: "273"
+        place: place-casterly-rock
         participants:
             - person: person-tyrion-lannister
               role: principal
+            - person: person-tywin-lannister
+              role: parent
+            - person: person-joanna-lannister
+              role: parent
+        notes: "Born a dwarf. His mother Joanna died giving birth to him."

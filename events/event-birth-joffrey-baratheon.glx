@@ -1,6 +1,11 @@
 events:
     event-birth-joffrey-baratheon:
         type: birth
+        date: "286"
+        place: place-kings-landing
         participants:
             - person: person-joffrey-baratheon
               role: principal
+            - person: person-cersei-lannister
+              role: parent
+        notes: "Officially son of Robert Baratheon. Actually fathered by Jaime Lannister."

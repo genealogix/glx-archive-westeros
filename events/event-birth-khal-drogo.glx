@@ -1,0 +1,8 @@
+events:
+    event-birth-khal-drogo:
+        type: birth
+        date: "ABT 267"
+        participants:
+            - person: person-khal-drogo
+              role: principal
+        notes: "Born among the Dothraki."

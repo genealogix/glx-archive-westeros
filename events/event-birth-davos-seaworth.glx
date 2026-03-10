@@ -1,0 +1,9 @@
+events:
+    event-birth-davos-seaworth:
+        type: birth
+        date: "ABT 260"
+        place: place-kings-landing
+        participants:
+            - person: person-davos-seaworth
+              role: principal
+        notes: "Born in Flea Bottom, King's Landing."

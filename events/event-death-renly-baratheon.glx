@@ -1,0 +1,10 @@
+events:
+    event-death-renly-baratheon:
+        type: death
+        date: "299"
+        participants:
+            - person: person-renly-baratheon
+              role: principal
+        properties:
+            cause: "Killed by a shadow assassin"
+        notes: "Murdered in his camp on the eve of battle against Stannis's forces at Storm's End. A shadow creature with the face of Stannis, birthed by Melisandre using Stannis's life force, cut through his gorget and into his throat. Catelyn Stark and Brienne of Tarth witnessed his death. Brienne was blamed for the murder."

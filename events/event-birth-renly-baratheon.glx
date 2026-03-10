@@ -1,6 +1,11 @@
 events:
     event-birth-renly-baratheon:
         type: birth
+        date: "277"
+        place: place-storms-end
         participants:
             - person: person-renly-baratheon
               role: principal
+            - person: person-steffon-baratheon
+              role: parent
+        notes: "Youngest of the three Baratheon brothers."

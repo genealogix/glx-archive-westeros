@@ -1,0 +1,13 @@
+events:
+    event-death-eddard-stark:
+        type: death
+        date: "299"
+        place: place-great-sept-of-baelor
+        participants:
+            - person: person-eddard-stark
+              role: principal
+            - person: person-ilyn-payne
+              role: executioner
+        properties:
+            cause: "Beheaded on the steps of the Great Sept of Baelor"
+        notes: "Executed on King Joffrey's orders. Ser Ilyn Payne used Ned's own Valyrian steel greatsword Ice. Joffrey broke a promise of mercy brokered by Cersei and the Small Council. Arya Stark and Sansa Stark witnessed the execution."
