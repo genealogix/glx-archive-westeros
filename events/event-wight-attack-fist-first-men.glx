@@ -1,6 +1,6 @@
 events:
     event-wight-attack-fist-first-men:
-        title: "The disaster at the Fist"
+        title: "The Disaster at the Fist"
         type: battle
         date: "299"
         place: place-fist-of-the-first-men

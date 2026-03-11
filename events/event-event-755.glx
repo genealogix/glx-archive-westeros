@@ -1,6 +1,6 @@
 events:
     event-event-755:
-        title: "Event 755"
+        title: "Legacy Event 755"
         type: event
         participants:
             - person: person-garth-tyrell-the-gross

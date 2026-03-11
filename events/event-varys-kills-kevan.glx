@@ -1,6 +1,6 @@
 events:
     event-varys-kills-kevan:
-        title: "The Epilogue Murder"
+        title: "Varys Kills Kevan Lannister"
         type: assassination
         date: "300"
         place: place-red-keep
