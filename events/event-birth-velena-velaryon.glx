@@ -1,5 +1,6 @@
 events:
     event-birth-velena-velaryon:
+        title: "Birth of Velena Velaryon"
         type: birth
         participants:
             - person: person-velena-velaryon

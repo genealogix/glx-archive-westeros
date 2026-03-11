@@ -1,5 +1,6 @@
 events:
     event-marriage-ronnel-arryn-and-belmore:
+        title: "Marriage of Ronnel Arryn and Belmore"
         type: marriage
         participants:
             - person: person-ronnel-arryn

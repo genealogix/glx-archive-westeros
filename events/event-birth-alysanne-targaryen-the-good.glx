@@ -1,5 +1,6 @@
 events:
     event-birth-alysanne-targaryen-the-good:
+        title: "Birth of Alysanne Targaryen"
         type: birth
         participants:
             - person: person-alysanne-targaryen-the-good

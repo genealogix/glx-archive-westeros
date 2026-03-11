@@ -1,5 +1,6 @@
 events:
     event-marriage-paxter-redwyne-and-mina-tyrell:
+        title: "Marriage of Paxter Redwyne and Mina Tyrell"
         type: marriage
         participants:
             - person: person-paxter-redwyne

@@ -1,5 +1,6 @@
 events:
     event-birth-baelor-targaryen-breakspear:
+        title: "Birth of Baelor Targaryen"
         type: birth
         participants:
             - person: person-baelor-targaryen-breakspear

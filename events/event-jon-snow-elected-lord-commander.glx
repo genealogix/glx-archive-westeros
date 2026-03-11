@@ -1,5 +1,6 @@
 events:
     event-jon-snow-elected-lord-commander:
+        title: "Election of Jon Snow as Lord Commander"
         type: election
         date: "300"
         place: place-castle-black

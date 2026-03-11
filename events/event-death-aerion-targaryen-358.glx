@@ -1,5 +1,6 @@
 events:
     event-death-aerion-targaryen-358:
+        title: "Death of Aerion Targaryen"
         type: death
         participants:
             - person: person-aerion-targaryen-358

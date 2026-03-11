@@ -1,5 +1,6 @@
 events:
     event-birth-elyn-norridge:
+        title: "Birth of Elyn Norridge"
         type: birth
         participants:
             - person: person-elyn-norridge

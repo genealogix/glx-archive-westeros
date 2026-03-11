@@ -1,5 +1,6 @@
 events:
     event-birth-alyn-haigh:
+        title: "Birth of Alyn Haigh"
         type: birth
         participants:
             - person: person-alyn-haigh

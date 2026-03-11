@@ -1,5 +1,6 @@
 events:
     event-birth-mariya-derry:
+        title: "Birth of Mariya Derry"
         type: birth
         participants:
             - person: person-mariya-derry

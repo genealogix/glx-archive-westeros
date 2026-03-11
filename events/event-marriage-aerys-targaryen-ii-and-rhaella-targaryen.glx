@@ -1,5 +1,6 @@
 events:
     event-marriage-aerys-targaryen-ii-and-rhaella-targaryen:
+        title: "Marriage of Aerys Targaryen II and Rhaella Targaryen"
         type: marriage
         participants:
             - person: person-aerys-targaryen-ii

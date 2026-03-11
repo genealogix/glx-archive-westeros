@@ -1,5 +1,6 @@
 events:
     event-marriage-robert-baratheon-i-and-cersei-lannister:
+        title: "Marriage of Robert Baratheon I and Cersei Lannister"
         type: marriage
         participants:
             - person: person-robert-baratheon-i

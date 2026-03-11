@@ -1,5 +1,6 @@
 events:
     event-birth-harys-haigh:
+        title: "Birth of Ser Harys Haigh"
         type: birth
         participants:
             - person: person-harys-haigh

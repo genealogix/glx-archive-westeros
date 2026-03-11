@@ -1,5 +1,6 @@
 events:
     event-birth-garse-goodbrook:
+        title: "Birth of Garse Goodbrook"
         type: birth
         participants:
             - person: person-garse-goodbrook

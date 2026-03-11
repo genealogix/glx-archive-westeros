@@ -1,5 +1,6 @@
 events:
     event-death-robin-flint:
+        title: "Death of Robin Flint"
         type: death
         date: "299"
         place: place-the-twins

@@ -1,5 +1,6 @@
 events:
     event-birth-maelys-blackfyre-the-monstrous:
+        title: "Birth of Maelys Blackfyre"
         type: birth
         participants:
             - person: person-maelys-blackfyre-the-monstrous

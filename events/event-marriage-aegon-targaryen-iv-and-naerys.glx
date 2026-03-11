@@ -1,5 +1,6 @@
 events:
     event-marriage-aegon-targaryen-iv-and-naerys:
+        title: "Marriage of Aegon Targaryen IV and Naerys"
         type: marriage
         participants:
             - person: person-aegon-targaryen-iv

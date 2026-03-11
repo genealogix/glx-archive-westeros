@@ -1,5 +1,6 @@
 events:
     event-birth-elia-martell:
+        title: "Birth of Elia Martell"
         type: birth
         participants:
             - person: person-elia-martell

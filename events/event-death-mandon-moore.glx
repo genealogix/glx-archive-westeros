@@ -1,5 +1,6 @@
 events:
     event-death-mandon-moore:
+        title: "Death of Ser Mandon Moore"
         type: death
         date: "299"
         place: place-blackwater-bay

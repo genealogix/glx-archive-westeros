@@ -1,5 +1,6 @@
 events:
     event-frey-negotiation:
+        title: "Frey Negotiation at the Twins"
         type: council
         date: "298"
         place: place-the-twins

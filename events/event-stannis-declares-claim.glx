@@ -1,5 +1,6 @@
 events:
     event-stannis-declares-claim:
+        title: "Stannis Declares His Claim"
         type: coronation
         date: "299"
         place: place-dragonstone

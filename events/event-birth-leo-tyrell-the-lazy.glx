@@ -1,5 +1,6 @@
 events:
     event-birth-leo-tyrell-the-lazy:
+        title: "Birth of Leo Tyrell"
         type: birth
         participants:
             - person: person-leo-tyrell-the-lazy

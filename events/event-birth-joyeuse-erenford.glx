@@ -1,5 +1,6 @@
 events:
     event-birth-joyeuse-erenford:
+        title: "Birth of Joyeuse Erenford"
         type: birth
         participants:
             - person: person-joyeuse-erenford

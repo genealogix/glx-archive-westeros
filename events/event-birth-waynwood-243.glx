@@ -1,5 +1,6 @@
 events:
     event-birth-waynwood-243:
+        title: "Birth of Waynwood"
         type: birth
         participants:
             - person: person-waynwood-243

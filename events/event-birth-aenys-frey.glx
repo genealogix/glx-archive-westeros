@@ -1,5 +1,6 @@
 events:
     event-birth-aenys-frey:
+        title: "Birth of Aenys Frey"
         type: birth
         participants:
             - person: person-aenys-frey

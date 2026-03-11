@@ -1,5 +1,6 @@
 events:
     event-death-arryn-236:
+        title: "Death of Arryn"
         type: death
         participants:
             - person: person-arryn-236

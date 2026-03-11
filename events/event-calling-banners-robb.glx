@@ -1,5 +1,6 @@
 events:
     event-calling-banners-robb:
+        title: "Robb Stark Calls His Banners"
         type: council
         date: "298"
         place: place-winterfell

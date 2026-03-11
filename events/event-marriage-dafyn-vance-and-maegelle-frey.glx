@@ -1,5 +1,6 @@
 events:
     event-marriage-dafyn-vance-and-maegelle-frey:
+        title: "Marriage of Dafyn Vance and Maegelle Frey"
         type: marriage
         participants:
             - person: person-dafyn-vance

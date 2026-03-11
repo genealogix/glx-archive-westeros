@@ -1,5 +1,6 @@
 events:
     event-death-baelor-targaryen-breakspear:
+        title: "Death of Baelor Targaryen"
         type: death
         participants:
             - person: person-baelor-targaryen-breakspear

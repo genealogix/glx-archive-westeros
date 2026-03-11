@@ -1,5 +1,6 @@
 events:
     event-birth-benjen-stark:
+        title: "Birth of Benjen Stark"
         type: birth
         participants:
             - person: person-benjen-stark

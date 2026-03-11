@@ -1,5 +1,6 @@
 events:
     event-birth-tytos-lannister:
+        title: "Birth of Tytos Lannister"
         type: birth
         participants:
             - person: person-tytos-lannister

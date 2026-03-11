@@ -1,5 +1,6 @@
 events:
     event-birth-argella-durrendon:
+        title: "Birth of Argella Durrendon"
         type: birth
         participants:
             - person: person-argella-durrendon

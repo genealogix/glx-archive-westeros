@@ -1,5 +1,6 @@
 events:
     event-birth-leo-blackbar:
+        title: "Birth of Leo Blackbar"
         type: birth
         participants:
             - person: person-leo-blackbar

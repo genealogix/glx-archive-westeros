@@ -1,5 +1,6 @@
 events:
     event-tower-of-joy:
+        title: "The Tower of Joy"
         type: battle
         date: "283"
         place: place-tower-of-joy

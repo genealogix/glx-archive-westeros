@@ -1,5 +1,6 @@
 events:
     event-death-perra-royce:
+        title: "Death of Perra Royce"
         type: death
         participants:
             - person: person-perra-royce

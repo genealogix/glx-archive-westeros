@@ -1,5 +1,6 @@
 events:
     event-birth-dorea-sand:
+        title: "Birth of Dorea Sand"
         type: birth
         participants:
             - person: person-dorea-sand

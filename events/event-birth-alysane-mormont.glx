@@ -1,5 +1,6 @@
 events:
     event-birth-alysane-mormont:
+        title: "Birth of Alysane Mormont"
         type: birth
         participants:
             - person: person-alysane-mormont

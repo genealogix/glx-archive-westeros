@@ -1,5 +1,6 @@
 events:
     event-birth-jon-connington:
+        title: "Birth of Jon Connington"
         type: birth
         date: "ABT 260"
         participants:

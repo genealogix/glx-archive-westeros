@@ -1,5 +1,6 @@
 events:
     event-marriage-jorah-mormont-and-glover:
+        title: "Marriage of Ser Jorah Mormont and Glover"
         type: marriage
         participants:
             - person: person-jorah-mormont

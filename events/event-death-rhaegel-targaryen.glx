@@ -1,5 +1,6 @@
 events:
     event-death-rhaegel-targaryen:
+        title: "Death of Rhaegel Targaryen"
         type: death
         participants:
             - person: person-rhaegel-targaryen

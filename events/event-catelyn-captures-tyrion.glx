@@ -1,5 +1,6 @@
 events:
     event-catelyn-captures-tyrion:
+        title: "The Arrest of Tyrion Lannister"
         type: captivity
         date: "298"
         place: place-crossroads-inn

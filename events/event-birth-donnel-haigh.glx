@@ -1,5 +1,6 @@
 events:
     event-birth-donnel-haigh:
+        title: "Birth of Ser Donnel Haigh"
         type: birth
         participants:
             - person: person-donnel-haigh

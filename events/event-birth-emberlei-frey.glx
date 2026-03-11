@@ -1,5 +1,6 @@
 events:
     event-birth-emberlei-frey:
+        title: "Birth of Emberlei Frey"
         type: birth
         participants:
             - person: person-emberlei-frey

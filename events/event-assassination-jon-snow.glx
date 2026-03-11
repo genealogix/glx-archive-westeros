@@ -1,5 +1,6 @@
 events:
     event-assassination-jon-snow:
+        title: "For the Watch"
         type: assassination
         date: "300"
         place: place-castle-black

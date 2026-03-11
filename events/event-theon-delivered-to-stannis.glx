@@ -1,5 +1,6 @@
 events:
     event-theon-delivered-to-stannis:
+        title: "Theon's Arrival at Stannis's Camp"
         type: battle
         date: "300"
         participants:

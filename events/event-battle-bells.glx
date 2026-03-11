@@ -1,5 +1,6 @@
 events:
     event-battle-bells:
+        title: "The Battle of the Bells"
         type: battle
         date: "283"
         place: place-stoney-sept

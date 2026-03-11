@@ -1,5 +1,6 @@
 events:
     event-death-valarr-targaryen:
+        title: "Death of Valarr Targaryen"
         type: death
         participants:
             - person: person-valarr-targaryen

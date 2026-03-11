@@ -1,5 +1,6 @@
 events:
     event-robert-arrives-winterfell:
+        title: "Robert Arrives at Winterfell"
         type: coronation
         date: "298"
         place: place-winterfell

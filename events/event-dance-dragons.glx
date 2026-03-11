@@ -1,5 +1,6 @@
 events:
     event-dance-dragons:
+        title: "The Dance of the Dragons"
         type: war
         date: "BET 129 AND 131"
         participants:

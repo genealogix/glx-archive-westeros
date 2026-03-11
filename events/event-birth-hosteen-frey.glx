@@ -1,5 +1,6 @@
 events:
     event-birth-hosteen-frey:
+        title: "Birth of Hosteen Frey"
         type: birth
         participants:
             - person: person-hosteen-frey

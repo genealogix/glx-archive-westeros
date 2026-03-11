@@ -1,5 +1,6 @@
 events:
     event-birth-elbert-arryn:
+        title: "Birth of Elbert Arryn"
         type: birth
         participants:
             - person: person-elbert-arryn

@@ -1,5 +1,6 @@
 events:
     event-death-daemon-blackfyre:
+        title: "Death of Daemon Blackfyre"
         type: death
         participants:
             - person: person-daemon-blackfyre

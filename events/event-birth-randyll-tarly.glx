@@ -1,5 +1,6 @@
 events:
     event-birth-randyll-tarly:
+        title: "Birth of Randyll Tarly"
         type: birth
         participants:
             - person: person-randyll-tarly

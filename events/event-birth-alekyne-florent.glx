@@ -1,5 +1,6 @@
 events:
     event-birth-alekyne-florent:
+        title: "Birth of Alekyne Florent"
         type: birth
         participants:
             - person: person-alekyne-florent

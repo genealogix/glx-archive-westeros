@@ -1,5 +1,6 @@
 events:
     event-death-beric-dondarrion:
+        title: "Death of Beric Dondarrion"
         type: death
         date: "299"
         participants:

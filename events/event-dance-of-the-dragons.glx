@@ -1,5 +1,6 @@
 events:
     event-dance-of-the-dragons:
+        title: "The Dance of the Dragons"
         type: rebellion
         date: "BET 129 AND 131"
         participants:

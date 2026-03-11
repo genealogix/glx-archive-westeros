@@ -1,5 +1,6 @@
 events:
     event-birth-wynafrei-whent:
+        title: "Birth of Wynafrei Whent"
         type: birth
         participants:
             - person: person-wynafrei-whent

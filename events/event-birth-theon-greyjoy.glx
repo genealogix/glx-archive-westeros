@@ -1,5 +1,6 @@
 events:
     event-birth-theon-greyjoy:
+        title: "Birth of Theon Greyjoy"
         type: birth
         date: "ABT 279"
         place: place-pyke

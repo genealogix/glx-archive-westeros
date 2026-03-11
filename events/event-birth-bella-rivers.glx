@@ -1,5 +1,6 @@
 events:
     event-birth-bella-rivers:
+        title: "Birth of Bella Rivers"
         type: birth
         participants:
             - person: person-bella-rivers

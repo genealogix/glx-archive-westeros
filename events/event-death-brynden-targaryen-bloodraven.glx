@@ -1,5 +1,6 @@
 events:
     event-death-brynden-targaryen-bloodraven:
+        title: "Death of Brynden Targaryen"
         type: death
         participants:
             - person: person-brynden-targaryen-bloodraven

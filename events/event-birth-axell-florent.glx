@@ -1,5 +1,6 @@
 events:
     event-birth-axell-florent:
+        title: "Birth of Ser Axell Florent"
         type: birth
         participants:
             - person: person-axell-florent

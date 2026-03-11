@@ -1,5 +1,6 @@
 events:
     event-birth-robb-stark:
+        title: "Birth of Robb Stark"
         type: birth
         date: "283"
         place: place-riverrun

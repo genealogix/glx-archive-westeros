@@ -1,5 +1,6 @@
 events:
     event-birth-royce-472:
+        title: "Birth of Royce"
         type: birth
         participants:
             - person: person-royce-472

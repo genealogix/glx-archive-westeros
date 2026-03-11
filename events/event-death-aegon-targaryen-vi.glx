@@ -1,5 +1,6 @@
 events:
     event-death-aegon-targaryen-vi:
+        title: "Death of Aegon Targaryen VI"
         type: death
         place: place-kings-landing
         participants:

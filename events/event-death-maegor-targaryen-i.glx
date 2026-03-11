@@ -1,5 +1,6 @@
 events:
     event-death-maegor-targaryen-i:
+        title: "Death of Maegor Targaryen I"
         type: death
         participants:
             - person: person-maegor-targaryen-i

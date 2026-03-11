@@ -1,5 +1,6 @@
 events:
     event-birth-jaehaerys-targaryen-i-the-conciliator:
+        title: "Birth of Jaehaerys Targaryen I"
         type: birth
         participants:
             - person: person-jaehaerys-targaryen-i-the-conciliator

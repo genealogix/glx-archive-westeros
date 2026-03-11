@@ -1,5 +1,6 @@
 events:
     event-birth-roose-bolton:
+        title: "Birth of Roose Bolton"
         type: birth
         date: "ABT 260"
         participants:

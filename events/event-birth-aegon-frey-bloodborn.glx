@@ -1,5 +1,6 @@
 events:
     event-birth-aegon-frey-bloodborn:
+        title: "Birth of Aegon Frey"
         type: birth
         participants:
             - person: person-aegon-frey-bloodborn

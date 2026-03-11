@@ -1,5 +1,6 @@
 events:
     event-birth-ryam-florent:
+        title: "Birth of Ser Ryam Florent"
         type: birth
         participants:
             - person: person-ryam-florent

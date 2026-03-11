@@ -1,5 +1,6 @@
 events:
     event-death-dacey-mormont:
+        title: "Death of Dacey Mormont"
         type: death
         date: "299"
         place: place-the-twins

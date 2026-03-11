@@ -1,5 +1,6 @@
 events:
     event-dragon-hatching:
+        title: "Birth of the dragons"
         type: birth
         date: "299"
         place: place-dothraki-sea

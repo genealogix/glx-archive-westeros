@@ -1,5 +1,6 @@
 events:
     event-birth-khal-drogo:
+        title: "Birth of Khal Drogo"
         type: birth
         date: "ABT 267"
         participants:

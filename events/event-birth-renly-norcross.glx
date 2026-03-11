@@ -1,5 +1,6 @@
 events:
     event-birth-renly-norcross:
+        title: "Birth of Renly Norcross"
         type: birth
         participants:
             - person: person-renly-norcross

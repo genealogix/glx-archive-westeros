@@ -1,5 +1,6 @@
 events:
     event-birth-lyra-mormont:
+        title: "Birth of Lyra Mormont"
         type: birth
         participants:
             - person: person-lyra-mormont

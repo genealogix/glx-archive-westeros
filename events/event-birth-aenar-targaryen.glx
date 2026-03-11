@@ -1,5 +1,6 @@
 events:
     event-birth-aenar-targaryen:
+        title: "Birth of Aenar Targaryen"
         type: birth
         participants:
             - person: person-aenar-targaryen

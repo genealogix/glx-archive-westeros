@@ -1,5 +1,6 @@
 events:
     event-death-ser-hugh:
+        title: "Death of Ser Hugh of the Vale"
         type: death
         date: "298"
         place: place-kings-landing

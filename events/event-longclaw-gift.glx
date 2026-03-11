@@ -1,5 +1,6 @@
 events:
     event-longclaw-gift:
+        title: "Longclaw Given to Jon Snow"
         type: knighting
         date: "298"
         place: place-castle-black

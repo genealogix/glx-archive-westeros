@@ -1,5 +1,6 @@
 events:
     event-death-luwin:
+        title: "Death of Luwin"
         type: death
         date: "299"
         place: place-winterfell

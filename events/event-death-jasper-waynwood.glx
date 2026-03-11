@@ -1,5 +1,6 @@
 events:
     event-death-jasper-waynwood:
+        title: "Death of Jasper Waynwood"
         type: death
         participants:
             - person: person-jasper-waynwood

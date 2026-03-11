@@ -1,5 +1,6 @@
 events:
     event-marriage-stannis-baratheon-and-selyse-florent:
+        title: "Marriage of Stannis Baratheon and Selyse Florent"
         type: marriage
         participants:
             - person: person-stannis-baratheon

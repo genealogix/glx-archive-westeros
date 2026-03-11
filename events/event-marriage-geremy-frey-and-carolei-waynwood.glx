@@ -1,5 +1,6 @@
 events:
     event-marriage-geremy-frey-and-carolei-waynwood:
+        title: "Marriage of Geremy Frey and Carolei Waynwood"
         type: marriage
         participants:
             - person: person-geremy-frey

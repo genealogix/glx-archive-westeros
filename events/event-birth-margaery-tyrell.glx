@@ -1,5 +1,6 @@
 events:
     event-birth-margaery-tyrell:
+        title: "Birth of Margaery Tyrell"
         type: birth
         participants:
             - person: person-margaery-tyrell

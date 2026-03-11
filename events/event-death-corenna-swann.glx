@@ -1,5 +1,6 @@
 events:
     event-death-corenna-swann:
+        title: "Death of Corenna Swann"
         type: death
         participants:
             - person: person-corenna-swann

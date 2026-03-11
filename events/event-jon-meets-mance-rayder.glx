@@ -1,5 +1,6 @@
 events:
     event-jon-meets-mance-rayder:
+        title: "Jon Snow Meets Mance Rayder"
         type: trial
         date: "299"
         participants:

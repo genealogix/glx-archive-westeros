@@ -1,5 +1,6 @@
 events:
     event-marriage-walder-frey-and-annara-farring:
+        title: "Marriage of Walder Frey and Annara Farring"
         type: marriage
         participants:
             - person: person-walder-frey

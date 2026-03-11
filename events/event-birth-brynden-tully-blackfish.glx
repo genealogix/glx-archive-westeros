@@ -1,5 +1,6 @@
 events:
     event-birth-brynden-tully-blackfish:
+        title: "Birth of Ser Brynden Tully"
         type: birth
         participants:
             - person: person-brynden-tully-blackfish

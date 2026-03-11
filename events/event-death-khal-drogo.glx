@@ -1,5 +1,6 @@
 events:
     event-death-khal-drogo:
+        title: "Death of Khal Drogo"
         type: death
         date: "298"
         participants:

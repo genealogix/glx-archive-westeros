@@ -1,5 +1,6 @@
 events:
     event-death-maelys-blackfyre-the-monstrous:
+        title: "Death of Maelys Blackfyre"
         type: death
         participants:
             - person: person-maelys-blackfyre-the-monstrous

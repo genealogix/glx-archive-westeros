@@ -1,5 +1,6 @@
 events:
     event-birth-raymund-frey:
+        title: "Birth of Raymund Frey"
         type: birth
         participants:
             - person: person-raymund-frey

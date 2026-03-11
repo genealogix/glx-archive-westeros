@@ -1,5 +1,6 @@
 events:
     event-marriage-luthor-tyrell-395-and-elyn-norridge-757:
+        title: "Marriage of Ser Luthor Tyrell and Elyn Norridge"
         type: marriage
         participants:
             - person: person-luthor-tyrell-395

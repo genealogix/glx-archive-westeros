@@ -1,5 +1,6 @@
 events:
     event-death-unknown-326:
+        title: "Death of Unknown 326"
         type: death
         participants:
             - person: person-unknown-326

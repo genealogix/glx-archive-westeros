@@ -1,5 +1,6 @@
 events:
     event-marriage-whalen-frey-and-sylwa-paege:
+        title: "Marriage of Whalen Frey and Sylwa Paege"
         type: marriage
         participants:
             - person: person-whalen-frey

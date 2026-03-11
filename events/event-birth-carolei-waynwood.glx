@@ -1,5 +1,6 @@
 events:
     event-birth-carolei-waynwood:
+        title: "Birth of Carolei Waynwood"
         type: birth
         participants:
             - person: person-carolei-waynwood

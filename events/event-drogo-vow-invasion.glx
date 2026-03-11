@@ -1,5 +1,6 @@
 events:
     event-drogo-vow-invasion:
+        title: "Drogo Vows to Invade Westeros"
         type: council
         date: "298"
         place: place-vaes-dothrak

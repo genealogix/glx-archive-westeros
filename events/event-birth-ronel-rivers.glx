@@ -1,5 +1,6 @@
 events:
     event-birth-ronel-rivers:
+        title: "Birth of Ronel Rivers"
         type: birth
         participants:
             - person: person-ronel-rivers

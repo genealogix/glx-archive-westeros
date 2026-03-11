@@ -1,5 +1,6 @@
 events:
     event-long-night:
+        title: "The Long Night"
         type: event
         participants:
             - person: person-last-hero

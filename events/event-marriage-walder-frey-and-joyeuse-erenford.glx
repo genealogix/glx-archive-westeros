@@ -1,5 +1,6 @@
 events:
     event-marriage-walder-frey-and-joyeuse-erenford:
+        title: "Marriage of Walder Frey and Joyeuse Erenford"
         type: marriage
         participants:
             - person: person-walder-frey

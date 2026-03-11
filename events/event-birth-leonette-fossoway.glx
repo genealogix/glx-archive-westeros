@@ -1,5 +1,6 @@
 events:
     event-birth-leonette-fossoway:
+        title: "Birth of Leonette Fossoway"
         type: birth
         participants:
             - person: person-leonette-fossoway

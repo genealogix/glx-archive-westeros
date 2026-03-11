@@ -1,5 +1,6 @@
 events:
     event-marriage-hosman-norcross-and-delena-florent:
+        title: "Marriage of Hosman Norcross and Delena Florent"
         type: marriage
         participants:
             - person: person-hosman-norcross

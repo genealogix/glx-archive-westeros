@@ -1,5 +1,6 @@
 events:
     event-war-ninepenny-kings:
+        title: "The War of the Ninepenny Kings"
         type: war
         date: "260"
         place: place-the-stepstones

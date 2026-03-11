@@ -1,5 +1,6 @@
 events:
     event-birth-robert-baratheon-i:
+        title: "Birth of Robert Baratheon I"
         type: birth
         date: "262"
         place: place-storms-end

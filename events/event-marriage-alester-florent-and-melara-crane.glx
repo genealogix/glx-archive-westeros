@@ -1,5 +1,6 @@
 events:
     event-marriage-alester-florent-and-melara-crane:
+        title: "Marriage of Alester Florent and Melara Crane"
         type: marriage
         participants:
             - person: person-alester-florent

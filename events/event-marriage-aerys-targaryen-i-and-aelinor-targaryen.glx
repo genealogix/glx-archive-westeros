@@ -1,5 +1,6 @@
 events:
     event-marriage-aerys-targaryen-i-and-aelinor-targaryen:
+        title: "Marriage of Aerys Targaryen I and Aelinor Targaryen"
         type: marriage
         participants:
             - person: person-aerys-targaryen-i

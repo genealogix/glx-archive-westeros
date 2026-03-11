@@ -1,5 +1,6 @@
 events:
     event-lysa-arryn-death:
+        title: "The Moon Door"
         type: death
         date: "300"
         place: place-the-eyrie

@@ -1,5 +1,6 @@
 events:
     event-birth-annara-farring:
+        title: "Birth of Annara Farring"
         type: birth
         participants:
             - person: person-annara-farring

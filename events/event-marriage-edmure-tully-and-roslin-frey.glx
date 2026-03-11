@@ -1,5 +1,6 @@
 events:
     event-marriage-edmure-tully-and-roslin-frey:
+        title: "Marriage of Ser Edmure Tully and Roslin Frey"
         type: marriage
         date: "299"
         place: place-the-twins

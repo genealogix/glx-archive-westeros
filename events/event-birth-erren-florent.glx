@@ -1,5 +1,6 @@
 events:
     event-birth-erren-florent:
+        title: "Birth of Ser Erren Florent"
         type: birth
         participants:
             - person: person-erren-florent

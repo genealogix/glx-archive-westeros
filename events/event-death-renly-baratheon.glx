@@ -1,5 +1,6 @@
 events:
     event-death-renly-baratheon:
+        title: "Death of Renly Baratheon"
         type: death
         date: "299"
         participants:

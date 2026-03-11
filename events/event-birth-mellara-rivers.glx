@@ -1,5 +1,6 @@
 events:
     event-birth-mellara-rivers:
+        title: "Birth of Mellara Rivers"
         type: birth
         participants:
             - person: person-mellara-rivers

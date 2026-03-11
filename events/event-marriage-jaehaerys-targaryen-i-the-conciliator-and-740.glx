@@ -1,5 +1,6 @@
 events:
     event-marriage-jaehaerys-targaryen-i-the-conciliator-and-740:
+        title: "Marriage of Jaehaerys Targaryen I and Alysanne Targaryen"
         type: marriage
         participants:
             - person: person-jaehaerys-targaryen-i-the-conciliator

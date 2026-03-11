@@ -1,5 +1,6 @@
 events:
     event-birth-bradamar-frey:
+        title: "Birth of Bradamar Frey"
         type: birth
         participants:
             - person: person-bradamar-frey

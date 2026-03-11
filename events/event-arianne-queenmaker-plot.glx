@@ -1,5 +1,6 @@
 events:
     event-arianne-queenmaker-plot:
+        title: "Arianne's Queenmaker Plot"
         type: conspiracy
         date: "300"
         place: place-dorne

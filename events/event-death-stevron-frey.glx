@@ -1,5 +1,6 @@
 events:
     event-death-stevron-frey:
+        title: "Death of Stevron Frey"
         type: death
         date: "299"
         participants:

@@ -1,5 +1,6 @@
 events:
     event-aegon-identity-revealed:
+        title: "Aegon's Identity Revealed"
         type: coronation
         date: "300"
         participants:

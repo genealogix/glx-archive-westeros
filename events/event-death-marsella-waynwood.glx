@@ -1,5 +1,6 @@
 events:
     event-death-marsella-waynwood:
+        title: "Death of Marsella Waynwood"
         type: death
         participants:
             - person: person-marsella-waynwood

@@ -1,5 +1,6 @@
 events:
     event-birth-eddard-stark:
+        title: "Birth of Eddard Stark"
         type: birth
         date: "263"
         place: place-winterfell

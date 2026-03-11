@@ -1,5 +1,6 @@
 events:
     event-marriage-viserys-targaryen-i-and-arryn-341:
+        title: "Marriage of Viserys Targaryen I and Arryn"
         type: marriage
         participants:
             - person: person-viserys-targaryen-i

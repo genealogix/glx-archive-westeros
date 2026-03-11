@@ -1,5 +1,6 @@
 events:
     event-ten-thousand-ships:
+        title: "The Ten Thousand Ships"
         type: exile
         date: "ABT 700 BC"
         participants:

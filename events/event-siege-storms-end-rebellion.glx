@@ -1,5 +1,6 @@
 events:
     event-siege-storms-end-rebellion:
+        title: "The Siege of Storm's End (Robert's Rebellion)"
         type: siege
         date: "BET 282 AND 283"
         place: place-storms-end

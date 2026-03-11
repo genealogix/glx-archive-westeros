@@ -1,5 +1,6 @@
 events:
     event-death-royce-470:
+        title: "Death of Royce"
         type: death
         participants:
             - person: person-royce-470

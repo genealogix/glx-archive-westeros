@@ -1,5 +1,6 @@
 events:
     event-ned-stark-imprisoned:
+        title: "Imprisonment of Eddard Stark"
         type: trial
         date: "298"
         place: place-the-red-keep

@@ -1,5 +1,6 @@
 events:
     event-birth-myriah-martell:
+        title: "Birth of Myriah Martell"
         type: birth
         participants:
             - person: person-myriah-martell

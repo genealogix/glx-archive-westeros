@@ -1,5 +1,6 @@
 events:
     event-marriage-rycherd-crane-and-rylene-florent:
+        title: "Marriage of Rycherd Crane and Rylene Florent"
         type: marriage
         participants:
             - person: person-rycherd-crane

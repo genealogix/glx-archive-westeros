@@ -1,5 +1,6 @@
 events:
     event-death-jeyne-royce:
+        title: "Death of Jeyne Royce"
         type: death
         participants:
             - person: person-jeyne-royce

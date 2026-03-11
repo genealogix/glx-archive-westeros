@@ -1,5 +1,6 @@
 events:
     event-death-hoster-tully:
+        title: "Death of Hoster Tully"
         type: death
         date: "299"
         place: place-riverrun

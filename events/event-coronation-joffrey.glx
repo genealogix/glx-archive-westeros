@@ -1,5 +1,6 @@
 events:
     event-coronation-joffrey:
+        title: "Coronation of Joffrey Baratheon"
         type: coronation
         date: "298"
         place: place-kings-landing

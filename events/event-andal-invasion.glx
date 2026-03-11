@@ -1,5 +1,6 @@
 events:
     event-andal-invasion:
+        title: "The Coming of the Andals"
         type: rebellion
         date: "BEF 2000 BC"
         participants:

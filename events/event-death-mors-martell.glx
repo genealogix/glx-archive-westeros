@@ -1,5 +1,6 @@
 events:
     event-death-mors-martell:
+        title: "Death of Mors Martell"
         type: death
         participants:
             - person: person-mors-martell

@@ -1,5 +1,6 @@
 events:
     event-death-matarys-targaryen:
+        title: "Death of Matarys Targaryen"
         type: death
         participants:
             - person: person-matarys-targaryen

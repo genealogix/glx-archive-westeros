@@ -1,5 +1,6 @@
 events:
     event-birth-deana-hardyng:
+        title: "Birth of Deana Hardyng"
         type: birth
         participants:
             - person: person-deana-hardyng

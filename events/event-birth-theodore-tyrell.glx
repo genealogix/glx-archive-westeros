@@ -1,5 +1,6 @@
 events:
     event-birth-theodore-tyrell:
+        title: "Birth of Ser Theodore Tyrell"
         type: birth
         participants:
             - person: person-theodore-tyrell

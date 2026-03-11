@@ -1,5 +1,6 @@
 events:
     event-death-myriah-martell:
+        title: "Death of Myriah Martell"
         type: death
         participants:
             - person: person-myriah-martell

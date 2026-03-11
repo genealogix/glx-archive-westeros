@@ -1,5 +1,6 @@
 events:
     event-birth-haegon-blackfyre:
+        title: "Birth of Haegon Blackfyre"
         type: birth
         participants:
             - person: person-haegon-blackfyre

@@ -1,5 +1,6 @@
 events:
     event-birth-dickon-frey:
+        title: "Birth of Dickon Frey"
         type: birth
         participants:
             - person: person-dickon-frey

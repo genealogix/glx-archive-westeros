@@ -1,5 +1,6 @@
 events:
     event-death-orys-baratheon:
+        title: "Death of Orys Baratheon"
         type: death
         participants:
             - person: person-orys-baratheon

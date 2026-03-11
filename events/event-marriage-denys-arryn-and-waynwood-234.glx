@@ -1,5 +1,6 @@
 events:
     event-marriage-denys-arryn-and-waynwood-234:
+        title: "Marriage of Denys Arryn and Waynwood"
         type: marriage
         participants:
             - person: person-denys-arryn

@@ -1,5 +1,6 @@
 events:
     event-death-balon-greyjoy:
+        title: "Death of Balon Greyjoy"
         type: death
         date: "AFT 299"
         place: place-pyke

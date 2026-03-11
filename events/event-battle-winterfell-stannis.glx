@@ -1,5 +1,6 @@
 events:
     event-battle-winterfell-stannis:
+        title: "The Battle of Winterfell"
         type: battle
         date: "300"
         place: place-winterfell

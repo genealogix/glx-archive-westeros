@@ -1,5 +1,6 @@
 events:
     event-birth-tyrek-lannister:
+        title: "Birth of Tyrek Lannister"
         type: birth
         participants:
             - person: person-tyrek-lannister

@@ -1,5 +1,6 @@
 events:
     event-birth-malwyn-frey:
+        title: "Birth of Malwyn Frey"
         type: birth
         participants:
             - person: person-malwyn-frey

@@ -1,5 +1,6 @@
 events:
     event-birth-redwyne:
+        title: "Birth of Redwyne"
         type: birth
         participants:
             - person: person-redwyne

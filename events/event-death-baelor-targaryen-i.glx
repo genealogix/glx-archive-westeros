@@ -1,5 +1,6 @@
 events:
     event-death-baelor-targaryen-i:
+        title: "Death of Baelor Targaryen I"
         type: death
         participants:
             - person: person-baelor-targaryen-i

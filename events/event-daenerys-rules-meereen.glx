@@ -1,5 +1,6 @@
 events:
     event-daenerys-rules-meereen:
+        title: "Daenerys Rules Meereen"
         type: coronation
         date: "300"
         place: place-meereen

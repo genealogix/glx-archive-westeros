@@ -1,5 +1,6 @@
 events:
     event-death-alys-frey:
+        title: "Death of Alys Frey"
         type: death
         participants:
             - person: person-alys-frey

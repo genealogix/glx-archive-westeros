@@ -1,5 +1,6 @@
 events:
     event-walk-of-shame:
+        title: "The Walk of Shame"
         type: event
         date: "300"
         place: place-kings-landing

@@ -1,5 +1,6 @@
 events:
     event-marriage-pate-and-amerei-frey-gatehouse-ami:
+        title: "Marriage of Ser Pate and Amerei Frey"
         type: marriage
         participants:
             - person: person-pate

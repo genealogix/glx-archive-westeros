@@ -1,5 +1,6 @@
 events:
     event-birth-janyce-hunter:
+        title: "Birth of Janyce Hunter"
         type: birth
         participants:
             - person: person-janyce-hunter

@@ -1,5 +1,6 @@
 events:
     event-daenerys-inspects-unsullied-astapor:
+        title: "Daenerys Acquires the Unsullied"
         type: trial
         date: "299"
         place: place-astapor

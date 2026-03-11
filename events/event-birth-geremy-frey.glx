@@ -1,5 +1,6 @@
 events:
     event-birth-geremy-frey:
+        title: "Birth of Geremy Frey"
         type: birth
         participants:
             - person: person-geremy-frey

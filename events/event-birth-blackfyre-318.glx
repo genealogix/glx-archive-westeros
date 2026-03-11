@@ -1,5 +1,6 @@
 events:
     event-birth-blackfyre-318:
+        title: "Birth of Blackfyre"
         type: birth
         participants:
             - person: person-blackfyre-318

@@ -1,5 +1,6 @@
 events:
     event-birth-tyrion-lannister:
+        title: "Birth of Tyrion Lannister"
         type: birth
         date: "273"
         place: place-casterly-rock

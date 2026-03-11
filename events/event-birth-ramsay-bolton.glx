@@ -1,5 +1,6 @@
 events:
     event-birth-ramsay-bolton:
+        title: "Birth of Ramsay Bolton"
         type: birth
         date: "ABT 282"
         participants:

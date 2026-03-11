@@ -1,5 +1,6 @@
 events:
     event-death-olyvar-martell:
+        title: "Death of Olyvar Martell"
         type: death
         participants:
             - person: person-olyvar-martell

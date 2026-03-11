@@ -1,5 +1,6 @@
 events:
     event-aegons-conquest:
+        title: "Aegon's Conquest"
         type: rebellion
         date: "BET 2 BC AND 2"
         participants:

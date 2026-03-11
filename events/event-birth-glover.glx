@@ -1,5 +1,6 @@
 events:
     event-birth-glover:
+        title: "Birth of Glover"
         type: birth
         participants:
             - person: person-glover

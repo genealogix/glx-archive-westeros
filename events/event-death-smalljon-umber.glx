@@ -1,5 +1,6 @@
 events:
     event-death-smalljon-umber:
+        title: "Death of Jon Umber"
         type: death
         date: "299"
         place: place-the-twins

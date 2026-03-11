@@ -1,5 +1,6 @@
 events:
     event-birth-cleos-frey:
+        title: "Birth of Cleos Frey"
         type: birth
         participants:
             - person: person-cleos-frey

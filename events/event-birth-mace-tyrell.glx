@@ -1,5 +1,6 @@
 events:
     event-birth-mace-tyrell:
+        title: "Birth of Mace Tyrell"
         type: birth
         participants:
             - person: person-mace-tyrell

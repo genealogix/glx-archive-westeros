@@ -1,5 +1,6 @@
 events:
     event-ramsay-bolton-wedding-winterfell:
+        title: "The Winterfell Wedding"
         type: marriage_ceremony
         date: "300"
         place: place-winterfell

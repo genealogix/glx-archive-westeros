@@ -1,5 +1,6 @@
 events:
     event-birth-rickard-wylde:
+        title: "Birth of Rickard Wylde"
         type: birth
         participants:
             - person: person-rickard-wylde

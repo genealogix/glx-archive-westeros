@@ -1,5 +1,6 @@
 events:
     event-kingsmoot-called-by-aeron:
+        title: "Aeron Calls the Kingsmoot"
         type: announcement
         date: "300"
         place: place-great-wyk

@@ -1,5 +1,6 @@
 events:
     event-birth-stannis-baratheon:
+        title: "Birth of Stannis Baratheon"
         type: birth
         participants:
             - person: person-stannis-baratheon

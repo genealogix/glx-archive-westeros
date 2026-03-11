@@ -1,5 +1,6 @@
 events:
     event-dragons-freed-meereen:
+        title: "Dragons Freed in Meereen"
         type: battle
         date: "300"
         place: place-meereen

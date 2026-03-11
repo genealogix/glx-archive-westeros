@@ -1,5 +1,6 @@
 events:
     event-arya-arrives-braavos:
+        title: "Arya Arrives in Braavos"
         type: arrival
         date: "300"
         place: place-braavos

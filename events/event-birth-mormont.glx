@@ -1,5 +1,6 @@
 events:
     event-birth-mormont:
+        title: "Birth of Mormont"
         type: birth
         participants:
             - person: person-mormont

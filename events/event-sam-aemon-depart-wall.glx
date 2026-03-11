@@ -1,5 +1,6 @@
 events:
     event-sam-aemon-depart-wall:
+        title: "Sam and Aemon Depart the Wall"
         type: departure
         date: "300"
         place: place-castle-black

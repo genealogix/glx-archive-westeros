@@ -1,5 +1,6 @@
 events:
     event-birth-alys-frey:
+        title: "Birth of Alys Frey"
         type: birth
         participants:
             - person: person-alys-frey

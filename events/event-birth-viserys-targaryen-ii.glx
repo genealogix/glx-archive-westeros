@@ -1,5 +1,6 @@
 events:
     event-birth-viserys-targaryen-ii:
+        title: "Birth of Viserys Targaryen II"
         type: birth
         participants:
             - person: person-viserys-targaryen-ii

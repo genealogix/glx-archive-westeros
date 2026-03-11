@@ -1,5 +1,6 @@
 events:
     event-marriage-rickard-stark-and-flint:
+        title: "Marriage of Rickard Stark and Flint"
         type: marriage
         participants:
             - person: person-rickard-stark

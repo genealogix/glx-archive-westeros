@@ -1,5 +1,6 @@
 events:
     event-marriage-desmond-redwyne-and-denyse-hightower:
+        title: "Marriage of Desmond Redwyne and Denyse Hightower"
         type: marriage
         participants:
             - person: person-desmond-redwyne

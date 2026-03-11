@@ -1,5 +1,6 @@
 events:
     event-birth-zia-frey:
+        title: "Birth of Zia Frey"
         type: birth
         participants:
             - person: person-zia-frey

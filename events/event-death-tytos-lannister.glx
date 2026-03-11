@@ -1,5 +1,6 @@
 events:
     event-death-tytos-lannister:
+        title: "Death of Tytos Lannister"
         type: death
         participants:
             - person: person-tytos-lannister

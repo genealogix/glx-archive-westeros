@@ -1,5 +1,6 @@
 events:
     event-marriage-oberyn-martell-the-red-viper-and-ellaria-sand:
+        title: "Marriage of Oberyn Martell and Ellaria Sand"
         type: marriage
         participants:
             - person: person-oberyn-martell-the-red-viper

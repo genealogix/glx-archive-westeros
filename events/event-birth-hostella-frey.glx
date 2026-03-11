@@ -1,5 +1,6 @@
 events:
     event-birth-hostella-frey:
+        title: "Birth of Hostella Frey"
         type: birth
         participants:
             - person: person-hostella-frey

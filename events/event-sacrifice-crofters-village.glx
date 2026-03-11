@@ -1,5 +1,6 @@
 events:
     event-sacrifice-crofters-village:
+        title: "Sacrifice at the Crofters' Village"
         type: execution
         date: "300"
         participants:

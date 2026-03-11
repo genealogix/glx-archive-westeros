@@ -1,5 +1,6 @@
 events:
     event-birth-barra-waters:
+        title: "Birth of Barra Waters"
         type: birth
         participants:
             - person: person-barra-waters

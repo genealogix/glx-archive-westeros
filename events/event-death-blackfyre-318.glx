@@ -1,5 +1,6 @@
 events:
     event-death-blackfyre-318:
+        title: "Death of Blackfyre"
         type: death
         participants:
             - person: person-blackfyre-318

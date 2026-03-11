@@ -1,5 +1,6 @@
 events:
     event-birth-walder-vance:
+        title: "Birth of Walder Vance"
         type: birth
         participants:
             - person: person-walder-vance

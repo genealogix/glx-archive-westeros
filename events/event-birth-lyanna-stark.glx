@@ -1,5 +1,6 @@
 events:
     event-birth-lyanna-stark:
+        title: "Birth of Lyanna Stark"
         type: birth
         date: "266"
         place: place-winterfell

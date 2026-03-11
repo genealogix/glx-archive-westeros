@@ -1,5 +1,6 @@
 events:
     event-blackfyre-rebellion-first:
+        title: "First Blackfyre Rebellion"
         type: rebellion
         date: "196"
         participants:

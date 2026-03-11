@@ -1,5 +1,6 @@
 events:
     event-execution-ned-stark:
+        title: "Execution of Eddard Stark"
         type: execution
         date: "299"
         place: place-great-sept-of-baelor

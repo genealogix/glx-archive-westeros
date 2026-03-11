@@ -1,5 +1,6 @@
 events:
     event-birth-samwell-tarly:
+        title: "Birth of Samwell Tarly"
         type: birth
         participants:
             - person: person-samwell-tarly

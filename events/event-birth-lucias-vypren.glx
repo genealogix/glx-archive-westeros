@@ -1,5 +1,6 @@
 events:
     event-birth-lucias-vypren:
+        title: "Birth of Lucias Vypren"
         type: birth
         participants:
             - person: person-lucias-vypren

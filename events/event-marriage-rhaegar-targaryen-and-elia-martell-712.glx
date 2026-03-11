@@ -1,5 +1,6 @@
 events:
     event-marriage-rhaegar-targaryen-and-elia-martell-712:
+        title: "Marriage of Rhaegar Targaryen and Elia Martell"
         type: marriage
         participants:
             - person: person-rhaegar-targaryen

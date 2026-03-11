@@ -1,5 +1,6 @@
 events:
     event-birth-marianne-vance:
+        title: "Birth of Marianne Vance"
         type: birth
         participants:
             - person: person-marianne-vance

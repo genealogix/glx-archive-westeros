@@ -1,5 +1,6 @@
 events:
     event-nymeria-bites-joffrey:
+        title: "The Trident Incident"
         type: battle
         date: "298"
         place: place-the-riverlands

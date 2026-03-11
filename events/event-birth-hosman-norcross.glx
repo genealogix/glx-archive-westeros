@@ -1,5 +1,6 @@
 events:
     event-birth-hosman-norcross:
+        title: "Birth of Hosman Norcross"
         type: birth
         participants:
             - person: person-hosman-norcross

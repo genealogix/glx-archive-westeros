@@ -1,5 +1,6 @@
 events:
     event-birth-doran-martell:
+        title: "Birth of Doran Martell"
         type: birth
         participants:
             - person: person-doran-martell

@@ -1,5 +1,6 @@
 events:
     event-death-ronnel-arryn:
+        title: "Death of Ronnel Arryn"
         type: death
         participants:
             - person: person-ronnel-arryn

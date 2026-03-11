@@ -1,5 +1,6 @@
 events:
     event-birth-harmen-uller:
+        title: "Birth of Harmen Uller"
         type: birth
         participants:
             - person: person-harmen-uller

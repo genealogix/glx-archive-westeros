@@ -1,5 +1,6 @@
 events:
     event-marriage-steffon-baratheon-and-cassana-estermont:
+        title: "Marriage of Steffon Baratheon and Cassana Estermont"
         type: marriage
         participants:
             - person: person-steffon-baratheon

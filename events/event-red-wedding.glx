@@ -1,5 +1,6 @@
 events:
     event-red-wedding:
+        title: "The Red Wedding"
         type: guest_right_violation
         date: "299"
         place: place-the-twins

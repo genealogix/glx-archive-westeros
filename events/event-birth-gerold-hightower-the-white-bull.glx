@@ -1,5 +1,6 @@
 events:
     event-birth-gerold-hightower-the-white-bull:
+        title: "Birth of Ser Gerold Hightower"
         type: birth
         participants:
             - person: person-gerold-hightower-the-white-bull

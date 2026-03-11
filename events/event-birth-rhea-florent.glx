@@ -1,5 +1,6 @@
 events:
     event-birth-rhea-florent:
+        title: "Birth of Rhea Florent"
         type: birth
         participants:
             - person: person-rhea-florent

@@ -1,5 +1,6 @@
 events:
     event-marriage-aenys-frey-and-tyana-wylde:
+        title: "Marriage of Aenys Frey and Tyana Wylde"
         type: marriage
         participants:
             - person: person-aenys-frey

@@ -1,5 +1,6 @@
 events:
     event-death-lewyn-martell:
+        title: "Death of Lewyn Martell"
         type: death
         place: place-the-trident
         participants:

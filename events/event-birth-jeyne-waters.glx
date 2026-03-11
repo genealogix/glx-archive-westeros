@@ -1,5 +1,6 @@
 events:
     event-birth-jeyne-waters:
+        title: "Birth of Jeyne Waters"
         type: birth
         participants:
             - person: person-jeyne-waters

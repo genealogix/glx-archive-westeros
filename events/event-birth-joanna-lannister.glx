@@ -1,5 +1,6 @@
 events:
     event-birth-joanna-lannister:
+        title: "Birth of Joanna Lannister"
         type: birth
         participants:
             - person: person-joanna-lannister

@@ -1,5 +1,6 @@
 events:
     event-battle-winterfell-boltons:
+        title: "The Battle of Ice"
         type: battle
         date: "300"
         place: place-winterfell

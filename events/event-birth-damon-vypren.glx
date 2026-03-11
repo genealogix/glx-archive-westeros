@@ -1,5 +1,6 @@
 events:
     event-birth-damon-vypren:
+        title: "Birth of Damon Vypren"
         type: birth
         participants:
             - person: person-damon-vypren

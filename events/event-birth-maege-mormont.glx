@@ -1,5 +1,6 @@
 events:
     event-birth-maege-mormont:
+        title: "Birth of Maege Mormont"
         type: birth
         participants:
             - person: person-maege-mormont

@@ -1,5 +1,6 @@
 events:
     event-birth-rhaenyra:
+        title: "Birth of Rhaenyra"
         type: birth
         participants:
             - person: person-rhaenyra

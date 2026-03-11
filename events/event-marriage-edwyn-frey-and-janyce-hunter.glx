@@ -1,5 +1,6 @@
 events:
     event-marriage-edwyn-frey-and-janyce-hunter:
+        title: "Marriage of Edwyn Frey and Janyce Hunter"
         type: marriage
         participants:
             - person: person-edwyn-frey

@@ -1,5 +1,6 @@
 events:
     event-jaime-kingslaying:
+        title: "The Kingslaying"
         type: assassination
         date: "283"
         place: place-red-keep

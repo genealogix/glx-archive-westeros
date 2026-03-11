@@ -1,5 +1,6 @@
 events:
     event-vows-jon-snow:
+        title: "Jon Snow Takes the Black"
         type: knighting
         date: "298"
         place: place-weirwood-grove-beyond-wall

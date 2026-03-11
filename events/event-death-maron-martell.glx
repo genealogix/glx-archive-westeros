@@ -1,5 +1,6 @@
 events:
     event-death-maron-martell:
+        title: "Death of Maron Martell"
         type: death
         participants:
             - person: person-maron-martell

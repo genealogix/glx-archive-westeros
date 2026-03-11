@@ -1,5 +1,6 @@
 events:
     event-defiance-duskendale:
+        title: "The Defiance of Duskendale"
         type: captivity
         date: "ABT 277"
         place: place-duskendale

@@ -1,5 +1,6 @@
 events:
     event-battle-castle-black:
+        title: "The Battle of Castle Black"
         type: battle
         date: "300"
         place: place-castle-black

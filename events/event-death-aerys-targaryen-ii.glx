@@ -1,5 +1,6 @@
 events:
     event-death-aerys-targaryen-ii:
+        title: "Death of Aerys Targaryen II"
         type: death
         participants:
             - person: person-aerys-targaryen-ii

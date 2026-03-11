@@ -1,5 +1,6 @@
 events:
     event-theon-returns-to-pyke:
+        title: "Theon Returns to Pyke"
         type: exile
         date: "299"
         place: place-pyke

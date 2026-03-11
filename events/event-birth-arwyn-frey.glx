@@ -1,5 +1,6 @@
 events:
     event-birth-arwyn-frey:
+        title: "Birth of Arwyn Frey"
         type: birth
         participants:
             - person: person-arwyn-frey

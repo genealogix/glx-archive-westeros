@@ -1,5 +1,6 @@
 events:
     event-birth-jasper-waynwood:
+        title: "Birth of Jasper Waynwood"
         type: birth
         participants:
             - person: person-jasper-waynwood

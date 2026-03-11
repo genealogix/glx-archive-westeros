@@ -1,5 +1,6 @@
 events:
     event-birth-maegon-targaryen:
+        title: "Birth of Maegon Targaryen"
         type: birth
         participants:
             - person: person-maegon-targaryen

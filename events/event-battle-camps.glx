@@ -1,5 +1,6 @@
 events:
     event-battle-camps:
+        title: "Battle of the Camps"
         type: battle
         date: "298"
         place: place-riverrun

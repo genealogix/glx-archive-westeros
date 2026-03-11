@@ -1,5 +1,6 @@
 events:
     event-birth-garse-flowers:
+        title: "Birth of Garse Flowers"
         type: birth
         participants:
             - person: person-garse-flowers

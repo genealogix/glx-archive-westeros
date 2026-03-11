@@ -1,5 +1,6 @@
 events:
     event-marriage-jon-fossoway-and-janna-tyrell:
+        title: "Marriage of Jon Fossoway and Janna Tyrell"
         type: marriage
         participants:
             - person: person-jon-fossoway

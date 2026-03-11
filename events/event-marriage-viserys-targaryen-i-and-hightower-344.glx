@@ -1,5 +1,6 @@
 events:
     event-marriage-viserys-targaryen-i-and-hightower-344:
+        title: "Marriage of Viserys Targaryen I and Hightower"
         type: marriage
         participants:
             - person: person-viserys-targaryen-i

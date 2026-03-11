@@ -1,5 +1,6 @@
 events:
     event-birth-harrold-hardyng:
+        title: "Birth of Harrold Hardyng"
         type: birth
         participants:
             - person: person-harrold-hardyng

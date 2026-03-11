@@ -1,5 +1,6 @@
 events:
     event-birth-sylwa-paege:
+        title: "Birth of Sylwa Paege"
         type: birth
         participants:
             - person: person-sylwa-paege

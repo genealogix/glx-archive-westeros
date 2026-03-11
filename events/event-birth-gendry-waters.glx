@@ -1,5 +1,6 @@
 events:
     event-birth-gendry-waters:
+        title: "Birth of Gendry Waters"
         type: birth
         participants:
             - person: person-gendry-waters

@@ -1,5 +1,6 @@
 events:
     event-death-lucas-blackwood:
+        title: "Death of Lucas Blackwood"
         type: death
         date: "299"
         place: place-the-twins

@@ -1,5 +1,6 @@
 events:
     event-birth-walder-rivers:
+        title: "Birth of Walder Rivers"
         type: birth
         participants:
             - person: person-walder-rivers

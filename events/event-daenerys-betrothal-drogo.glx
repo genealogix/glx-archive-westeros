@@ -1,5 +1,6 @@
 events:
     event-daenerys-betrothal-drogo:
+        title: "Betrothal of Daenerys and Drogo"
         type: betrothal_ceremony
         date: "298"
         participants:

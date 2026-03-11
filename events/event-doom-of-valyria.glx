@@ -1,5 +1,6 @@
 events:
     event-doom-of-valyria:
+        title: "The Doom"
         type: rebellion
         date: "102 BC"
         participants:

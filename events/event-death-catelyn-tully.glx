@@ -1,5 +1,6 @@
 events:
     event-death-catelyn-tully:
+        title: "Death of Catelyn Tully"
         type: death
         date: "299"
         place: place-the-twins

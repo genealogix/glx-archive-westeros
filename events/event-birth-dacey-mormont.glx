@@ -1,5 +1,6 @@
 events:
     event-birth-dacey-mormont:
+        title: "Birth of Dacey Mormont"
         type: birth
         participants:
             - person: person-dacey-mormont

@@ -1,5 +1,6 @@
 events:
     event-birth-aerion-targaryen-285:
+        title: "Birth of Aerion Targaryen"
         type: birth
         participants:
             - person: person-aerion-targaryen-285

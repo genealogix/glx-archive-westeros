@@ -1,5 +1,6 @@
 events:
     event-birth-zhoe-blanetree:
+        title: "Birth of Zhoe Blanetree"
         type: birth
         participants:
             - person: person-zhoe-blanetree

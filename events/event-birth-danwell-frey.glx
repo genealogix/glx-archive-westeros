@@ -1,5 +1,6 @@
 events:
     event-birth-danwell-frey:
+        title: "Birth of Ser Danwell Frey"
         type: birth
         participants:
             - person: person-danwell-frey

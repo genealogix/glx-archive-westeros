@@ -1,5 +1,6 @@
 events:
     event-birth-mors-martell:
+        title: "Birth of Mors Martell"
         type: birth
         participants:
             - person: person-mors-martell

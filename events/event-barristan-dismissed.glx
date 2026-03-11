@@ -1,5 +1,6 @@
 events:
     event-barristan-dismissed:
+        title: "Dismissal of Barristan Selmy"
         type: abdication
         date: "298"
         place: place-throne-room-kings-landing

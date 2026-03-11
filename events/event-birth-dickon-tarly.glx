@@ -1,5 +1,6 @@
 events:
     event-birth-dickon-tarly:
+        title: "Birth of Dickon Tarly"
         type: birth
         participants:
             - person: person-dickon-tarly

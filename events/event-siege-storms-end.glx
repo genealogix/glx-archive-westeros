@@ -1,5 +1,6 @@
 events:
     event-siege-storms-end:
+        title: "The Siege of Storm's End"
         type: siege
         date: "BET 283 AND 283"
         place: place-storms-end

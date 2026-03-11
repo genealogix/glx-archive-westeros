@@ -1,5 +1,6 @@
 events:
     event-tragedy-summerhall:
+        title: "The Tragedy at Summerhall"
         type: death
         date: "259"
         place: place-summerhall

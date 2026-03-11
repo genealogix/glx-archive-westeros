@@ -1,5 +1,6 @@
 events:
     event-execution-janos-slynt:
+        title: "Execution of Janos Slynt"
         type: execution
         date: "300"
         place: place-castle-black

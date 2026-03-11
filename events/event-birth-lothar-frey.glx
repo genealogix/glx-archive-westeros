@@ -1,5 +1,6 @@
 events:
     event-birth-lothar-frey:
+        title: "Birth of Lothar Frey"
         type: birth
         participants:
             - person: person-lothar-frey

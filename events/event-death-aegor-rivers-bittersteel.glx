@@ -1,5 +1,6 @@
 events:
     event-death-aegor-rivers-bittersteel:
+        title: "Death of Aegor Rivers"
         type: death
         participants:
             - person: person-aegor-rivers-bittersteel

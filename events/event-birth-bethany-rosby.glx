@@ -1,5 +1,6 @@
 events:
     event-birth-bethany-rosby:
+        title: "Birth of Bethany Rosby"
         type: birth
         participants:
             - person: person-bethany-rosby

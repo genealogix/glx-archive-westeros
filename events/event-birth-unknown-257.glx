@@ -1,5 +1,6 @@
 events:
     event-birth-unknown-257:
+        title: "Birth of Princess Of Dorne"
         type: birth
         participants:
             - person: person-unknown-257

@@ -1,5 +1,6 @@
 events:
     event-birth-aegor-rivers-bittersteel:
+        title: "Birth of Aegor Rivers"
         type: birth
         participants:
             - person: person-aegor-rivers-bittersteel

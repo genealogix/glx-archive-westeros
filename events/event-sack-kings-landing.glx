@@ -1,5 +1,6 @@
 events:
     event-sack-kings-landing:
+        title: "The Sack of King's Landing"
         type: sack
         date: "283"
         place: place-kings-landing

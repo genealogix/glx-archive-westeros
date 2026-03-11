@@ -1,5 +1,6 @@
 events:
     event-birth-valarr-targaryen:
+        title: "Birth of Valarr Targaryen"
         type: birth
         participants:
             - person: person-valarr-targaryen

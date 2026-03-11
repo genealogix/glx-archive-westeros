@@ -1,5 +1,6 @@
 events:
     event-birth-hoster-frey:
+        title: "Birth of Hoster Frey"
         type: birth
         participants:
             - person: person-hoster-frey

@@ -1,5 +1,6 @@
 events:
     event-siege-storms-end-stannis:
+        title: "Siege of Storm's End by Stannis"
         type: siege
         date: "299"
         place: place-storms-end

@@ -1,5 +1,6 @@
 events:
     event-daenerys-daznak-pit:
+        title: "Drogon in the Pit"
         type: event
         date: "300"
         place: place-meereen

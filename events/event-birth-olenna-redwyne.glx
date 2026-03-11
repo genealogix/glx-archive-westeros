@@ -1,5 +1,6 @@
 events:
     event-birth-olenna-redwyne:
+        title: "Birth of Olenna Redwyne"
         type: birth
         participants:
             - person: person-olenna-redwyne

@@ -1,5 +1,6 @@
 events:
     event-death-stark-465:
+        title: "Death of Stark"
         type: death
         participants:
             - person: person-stark-465

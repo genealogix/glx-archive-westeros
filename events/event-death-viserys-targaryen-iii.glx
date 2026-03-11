@@ -1,5 +1,6 @@
 events:
     event-death-viserys-targaryen-iii:
+        title: "Death of Viserys Targaryen III"
         type: death
         date: "298"
         place: place-vaes-dothrak

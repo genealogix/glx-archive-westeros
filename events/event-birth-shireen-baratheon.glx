@@ -1,5 +1,6 @@
 events:
     event-birth-shireen-baratheon:
+        title: "Birth of Shireen Baratheon"
         type: birth
         participants:
             - person: person-shireen-baratheon

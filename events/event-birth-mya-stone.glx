@@ -1,5 +1,6 @@
 events:
     event-birth-mya-stone:
+        title: "Birth of Mya Stone"
         type: birth
         participants:
             - person: person-mya-stone

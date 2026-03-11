@@ -1,5 +1,6 @@
 events:
     event-birth-gunthor-hightower:
+        title: "Birth of Gunthor Hightower"
         type: birth
         participants:
             - person: person-gunthor-hightower

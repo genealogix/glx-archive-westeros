@@ -1,5 +1,6 @@
 events:
     event-death-mirri-maz-duur:
+        title: "Death of Mirri Maz Duur"
         type: death
         date: "298"
         participants:

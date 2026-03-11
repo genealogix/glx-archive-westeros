@@ -1,5 +1,6 @@
 events:
     event-engagement-beric-dondarrion-and-allyria-dayne:
+        title: "Betrothal of Beric Dondarrion and Allyria Dayne"
         type: engagement
         participants:
             - person: person-beric-dondarrion

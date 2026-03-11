@@ -1,5 +1,6 @@
 events:
     event-marriage-lucias-vypren-and-lythene-frey:
+        title: "Marriage of Lucias Vypren and Lythene Frey"
         type: marriage
         participants:
             - person: person-lucias-vypren

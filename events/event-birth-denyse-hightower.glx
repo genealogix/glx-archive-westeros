@@ -1,5 +1,6 @@
 events:
     event-birth-denyse-hightower:
+        title: "Birth of Denyse Hightower"
         type: birth
         participants:
             - person: person-denyse-hightower

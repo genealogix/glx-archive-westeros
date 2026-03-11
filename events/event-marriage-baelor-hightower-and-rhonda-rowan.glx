@@ -1,5 +1,6 @@
 events:
     event-marriage-baelor-hightower-and-rhonda-rowan:
+        title: "Marriage of Baelor Hightower and Rhonda Rowan"
         type: marriage
         participants:
             - person: person-baelor-hightower

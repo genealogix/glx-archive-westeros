@@ -1,5 +1,6 @@
 events:
     event-marriage-gaemon-targaryen-and-daenys-targaryen:
+        title: "Marriage of Gaemon Targaryen and Daenys Targaryen"
         type: marriage
         participants:
             - person: person-gaemon-targaryen

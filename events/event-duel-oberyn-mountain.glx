@@ -1,5 +1,6 @@
 events:
     event-duel-oberyn-mountain:
+        title: "Oberyn vs the Mountain"
         type: trial_by_combat
         date: "300"
         place: place-kings-landing

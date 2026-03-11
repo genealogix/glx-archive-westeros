@@ -1,5 +1,6 @@
 events:
     event-birth-tyta-frey:
+        title: "Birth of Tyta Frey"
         type: birth
         participants:
             - person: person-tyta-frey

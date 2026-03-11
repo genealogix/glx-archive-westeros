@@ -1,5 +1,6 @@
 events:
     event-marriage-tywin-lannister-and-joanna-lannister:
+        title: "Marriage of Tywin Lannister and Joanna Lannister"
         type: marriage
         participants:
             - person: person-tywin-lannister

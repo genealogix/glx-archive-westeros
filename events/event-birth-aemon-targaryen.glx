@@ -1,5 +1,6 @@
 events:
     event-birth-aemon-targaryen:
+        title: "Birth of Maester Aemon Targaryen"
         type: birth
         participants:
             - person: person-aemon-targaryen

@@ -1,5 +1,6 @@
 events:
     event-assassination-renly-baratheon:
+        title: "Murder of Renly Baratheon"
         type: death
         date: "299"
         place: place-storms-end

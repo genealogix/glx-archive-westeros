@@ -1,5 +1,6 @@
 events:
     event-marriage-arryn-474-and-royce-471:
+        title: "Marriage of Arryn and Royce"
         type: marriage
         participants:
             - person: person-arryn-474

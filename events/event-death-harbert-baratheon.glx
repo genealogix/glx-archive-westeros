@@ -1,5 +1,6 @@
 events:
     event-death-harbert-baratheon:
+        title: "Death of Ser Harbert Baratheon"
         type: death
         participants:
             - person: person-harbert-baratheon

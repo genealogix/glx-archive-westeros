@@ -1,5 +1,6 @@
 events:
     event-birth-minisa-whent:
+        title: "Birth of Minisa Whent"
         type: birth
         participants:
             - person: person-minisa-whent

@@ -1,5 +1,6 @@
 events:
     event-birth-rowena:
+        title: "Birth of Rowena"
         type: birth
         participants:
             - person: person-rowena

@@ -1,5 +1,6 @@
 events:
     event-death-rhaena-targaryen:
+        title: "Death of Septa Rhaena Targaryen"
         type: death
         participants:
             - person: person-rhaena-targaryen

@@ -1,5 +1,6 @@
 events:
     event-marriage-jon-cupps-and-leyla-hightower:
+        title: "Marriage of Ser Jon Cupps and Leyla Hightower"
         type: marriage
         participants:
             - person: person-jon-cupps

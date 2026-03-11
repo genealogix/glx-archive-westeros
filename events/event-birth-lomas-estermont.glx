@@ -1,5 +1,6 @@
 events:
     event-birth-lomas-estermont:
+        title: "Birth of Lomas Estermont"
         type: birth
         participants:
             - person: person-lomas-estermont

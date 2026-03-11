@@ -1,5 +1,6 @@
 events:
     event-birth-tywin-frey-ty:
+        title: "Birth of Tywin Frey"
         type: birth
         participants:
             - person: person-tywin-frey-ty

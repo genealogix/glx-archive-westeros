@@ -1,5 +1,6 @@
 events:
     event-marriage-jon-arryn-and-lysa-tully:
+        title: "Marriage of Jon Arryn and Lysa Tully"
         type: marriage
         participants:
             - person: person-jon-arryn

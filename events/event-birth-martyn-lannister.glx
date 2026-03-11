@@ -1,5 +1,6 @@
 events:
     event-birth-martyn-lannister:
+        title: "Birth of Martyn Lannister"
         type: birth
         participants:
             - person: person-martyn-lannister

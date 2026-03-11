@@ -1,5 +1,6 @@
 events:
     event-battle-whispering-wood:
+        title: "Battle of the Whispering Wood"
         type: battle
         date: "298"
         place: place-the-whispering-wood

@@ -1,5 +1,6 @@
 events:
     event-marriage-rhaegar-frey-and-jeyne-beesbury:
+        title: "Marriage of Rhaegar Frey and Jeyne Beesbury"
         type: marriage
         participants:
             - person: person-rhaegar-frey

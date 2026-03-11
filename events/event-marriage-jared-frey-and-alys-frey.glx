@@ -1,5 +1,6 @@
 events:
     event-marriage-jared-frey-and-alys-frey:
+        title: "Marriage of Jared Frey and Alys Frey"
         type: marriage
         participants:
             - person: person-jared-frey

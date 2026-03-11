@@ -1,5 +1,6 @@
 events:
     event-birth-jeyne-westerling:
+        title: "Birth of Jeyne Westerling"
         type: birth
         participants:
             - person: person-jeyne-westerling

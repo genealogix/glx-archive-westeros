@@ -1,5 +1,6 @@
 events:
     event-birth-tyana-wylde:
+        title: "Birth of Tyana Wylde"
         type: birth
         participants:
             - person: person-tyana-wylde

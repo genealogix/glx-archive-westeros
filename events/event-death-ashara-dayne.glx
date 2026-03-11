@@ -1,5 +1,6 @@
 events:
     event-death-ashara-dayne:
+        title: "Death of Ashara Dayne"
         type: death
         participants:
             - person: person-ashara-dayne

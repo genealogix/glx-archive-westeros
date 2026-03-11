@@ -1,5 +1,6 @@
 events:
     event-birth-roslin-frey:
+        title: "Birth of Roslin Frey"
         type: birth
         participants:
             - person: person-roslin-frey

@@ -1,5 +1,6 @@
 events:
     event-faith-militant-restored:
+        title: "Restoration of the Faith Militant"
         type: coronation
         date: "300"
         participants:

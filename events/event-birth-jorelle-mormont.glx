@@ -1,5 +1,6 @@
 events:
     event-birth-jorelle-mormont:
+        title: "Birth of Jorelle Mormont"
         type: birth
         participants:
             - person: person-jorelle-mormont

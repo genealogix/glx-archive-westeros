@@ -1,5 +1,6 @@
 events:
     event-marriage-unknown-325-and-elaena-targaryen:
+        title: "Marriage of Unknown 325 and Elaena Targaryen"
         type: marriage
         participants:
             - person: person-unknown-325

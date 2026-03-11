@@ -1,5 +1,6 @@
 events:
     event-birth-melessa-florent:
+        title: "Birth of Melessa Florent"
         type: birth
         participants:
             - person: person-melessa-florent

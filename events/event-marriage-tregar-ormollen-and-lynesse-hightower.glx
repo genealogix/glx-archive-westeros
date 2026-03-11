@@ -1,5 +1,6 @@
 events:
     event-marriage-tregar-ormollen-and-lynesse-hightower:
+        title: "Marriage of Tregar Ormollen and Lynesse Hightower"
         type: marriage
         participants:
             - person: person-tregar-ormollen

@@ -1,5 +1,6 @@
 events:
     event-death-haegon-blackfyre:
+        title: "Death of Haegon Blackfyre"
         type: death
         participants:
             - person: person-haegon-blackfyre

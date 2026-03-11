@@ -1,5 +1,6 @@
 events:
     event-death-lady:
+        title: "Death of Eddard Stark"
         type: death
         date: "298"
         place: place-castle-darry

@@ -1,5 +1,6 @@
 events:
     event-birth-morya-frey:
+        title: "Birth of Morya Frey"
         type: birth
         participants:
             - person: person-morya-frey

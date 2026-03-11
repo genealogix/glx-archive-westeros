@@ -1,5 +1,6 @@
 events:
     event-marriage-arwood-frey-and-ryella-royce:
+        title: "Marriage of Arwood Frey and Ryella Royce"
         type: marriage
         participants:
             - person: person-arwood-frey

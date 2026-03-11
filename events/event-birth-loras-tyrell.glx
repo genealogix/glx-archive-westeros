@@ -1,5 +1,6 @@
 events:
     event-birth-loras-tyrell:
+        title: "Birth of Ser Loras Tyrell"
         type: birth
         participants:
             - person: person-loras-tyrell

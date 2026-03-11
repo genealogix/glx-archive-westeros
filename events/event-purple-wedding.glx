@@ -1,5 +1,6 @@
 events:
     event-purple-wedding:
+        title: "The Purple Wedding"
         type: poisoning
         date: "300"
         place: place-kings-landing

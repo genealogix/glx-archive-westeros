@@ -1,5 +1,6 @@
 events:
     event-birth-jon-snow:
+        title: "Birth of Jon Snow"
         type: birth
         date: "283"
         participants:

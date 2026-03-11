@@ -1,5 +1,6 @@
 events:
     event-marriage-jaime-lannister-and-cersei-lannister:
+        title: "Marriage of Ser Jaime Lannister and Cersei Lannister"
         type: marriage
         participants:
             - person: person-jaime-lannister

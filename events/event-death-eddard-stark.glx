@@ -1,5 +1,6 @@
 events:
     event-death-eddard-stark:
+        title: "Death of Eddard Stark"
         type: death
         date: "299"
         place: place-great-sept-of-baelor

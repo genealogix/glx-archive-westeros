@@ -1,5 +1,6 @@
 events:
     event-birth-jaime-lannister:
+        title: "Birth of Ser Jaime Lannister"
         type: birth
         date: "266"
         place: place-casterly-rock

@@ -1,5 +1,6 @@
 events:
     event-trial-tyrion:
+        title: "Trial of Tyrion Lannister"
         type: trial
         date: "300"
         place: place-kings-landing

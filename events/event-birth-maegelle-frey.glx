@@ -1,5 +1,6 @@
 events:
     event-birth-maegelle-frey:
+        title: "Birth of Maegelle Frey"
         type: birth
         participants:
             - person: person-maegelle-frey

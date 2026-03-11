@@ -1,5 +1,6 @@
 events:
     event-birth-corenna-swann:
+        title: "Birth of Corenna Swann"
         type: birth
         participants:
             - person: person-corenna-swann

@@ -1,5 +1,6 @@
 events:
     event-red-comet-appearance:
+        title: "The Red Messenger"
         type: birth
         date: "299"
         participants:

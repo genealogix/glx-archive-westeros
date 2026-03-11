@@ -1,5 +1,6 @@
 events:
     event-battle-blackwater:
+        title: "The Battle of the Blackwater"
         type: battle
         date: "299"
         place: place-blackwater-bay

@@ -1,5 +1,6 @@
 events:
     event-death-denys-arryn:
+        title: "Death of Denys Arryn"
         type: death
         participants:
             - person: person-denys-arryn

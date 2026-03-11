@@ -1,5 +1,6 @@
 events:
     event-birth-edwyle-stark:
+        title: "Birth of Edwyle Stark"
         type: birth
         participants:
             - person: person-edwyle-stark

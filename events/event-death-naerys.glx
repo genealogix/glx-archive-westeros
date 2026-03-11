@@ -1,5 +1,6 @@
 events:
     event-death-naerys:
+        title: "Death of Naerys"
         type: death
         participants:
             - person: person-naerys

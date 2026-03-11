@@ -1,5 +1,6 @@
 events:
     event-birth-olene-tyrell:
+        title: "Birth of Olene Tyrell"
         type: birth
         participants:
             - person: person-olene-tyrell

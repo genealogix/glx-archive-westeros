@@ -1,5 +1,6 @@
 events:
     event-death-joanna-lannister:
+        title: "Death of Joanna Lannister"
         type: death
         participants:
             - person: person-joanna-lannister

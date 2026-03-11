@@ -1,5 +1,6 @@
 events:
     event-birth-betharios:
+        title: "Birth of Betharios"
         type: birth
         place: place-braavos
         participants:

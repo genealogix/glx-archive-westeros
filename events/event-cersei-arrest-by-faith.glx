@@ -1,5 +1,6 @@
 events:
     event-cersei-arrest-by-faith:
+        title: "Arrest of Cersei Lannister"
         type: trial
         date: "300"
         place: place-kings-landing

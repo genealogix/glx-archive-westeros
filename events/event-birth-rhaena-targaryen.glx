@@ -1,5 +1,6 @@
 events:
     event-birth-rhaena-targaryen:
+        title: "Birth of Septa Rhaena Targaryen"
         type: birth
         participants:
             - person: person-rhaena-targaryen

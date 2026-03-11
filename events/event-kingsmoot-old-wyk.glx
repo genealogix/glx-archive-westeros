@@ -1,5 +1,6 @@
 events:
     event-kingsmoot-old-wyk:
+        title: "The Kingsmoot"
         type: kingsmoot
         date: "300"
         place: place-old-wyk

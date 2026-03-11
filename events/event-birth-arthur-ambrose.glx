@@ -1,5 +1,6 @@
 events:
     event-birth-arthur-ambrose:
+        title: "Birth of Arthur Ambrose"
         type: birth
         participants:
             - person: person-arthur-ambrose

@@ -1,5 +1,6 @@
 events:
     event-doom-valyria:
+        title: "The Doom"
         type: event
         date: "ABT 114 BEF 1"
         place: place-valyria

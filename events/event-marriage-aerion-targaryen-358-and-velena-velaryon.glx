@@ -1,5 +1,6 @@
 events:
     event-marriage-aerion-targaryen-358-and-velena-velaryon:
+        title: "Marriage of Aerion Targaryen and Velena Velaryon"
         type: marriage
         participants:
             - person: person-aerion-targaryen-358

@@ -1,5 +1,6 @@
 events:
     event-bran-wakes:
+        title: "Bran's Awakening"
         type: birth
         date: "298"
         place: place-winterfell

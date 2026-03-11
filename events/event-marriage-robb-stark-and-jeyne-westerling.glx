@@ -1,5 +1,6 @@
 events:
     event-marriage-robb-stark-and-jeyne-westerling:
+        title: "Marriage of Robb Stark and Jeyne Westerling"
         type: marriage
         date: "299"
         participants:

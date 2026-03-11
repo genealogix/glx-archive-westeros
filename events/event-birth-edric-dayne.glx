@@ -1,5 +1,6 @@
 events:
     event-birth-edric-dayne:
+        title: "Birth of Edric Dayne"
         type: birth
         participants:
             - person: person-edric-dayne

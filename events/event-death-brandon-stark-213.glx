@@ -1,5 +1,6 @@
 events:
     event-death-brandon-stark-213:
+        title: "Death of Brandon Stark"
         type: death
         place: place-kings-landing
         participants:

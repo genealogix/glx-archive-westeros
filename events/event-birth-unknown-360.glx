@@ -1,5 +1,6 @@
 events:
     event-birth-unknown-360:
+        title: "Birth of Unknown 360"
         type: birth
         participants:
             - person: person-unknown-360

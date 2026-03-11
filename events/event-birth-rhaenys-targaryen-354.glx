@@ -1,5 +1,6 @@
 events:
     event-birth-rhaenys-targaryen-354:
+        title: "Birth of Rhaenys Targaryen"
         type: birth
         participants:
             - person: person-rhaenys-targaryen-354

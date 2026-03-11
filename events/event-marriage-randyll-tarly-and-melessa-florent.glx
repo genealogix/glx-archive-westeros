@@ -1,5 +1,6 @@
 events:
     event-marriage-randyll-tarly-and-melessa-florent:
+        title: "Marriage of Randyll Tarly and Melessa Florent"
         type: marriage
         participants:
             - person: person-randyll-tarly

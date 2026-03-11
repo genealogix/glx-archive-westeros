@@ -1,5 +1,6 @@
 events:
     event-death-jon-waters:
+        title: "Death of Ser Jon Waters"
         type: death
         participants:
             - person: person-jon-waters

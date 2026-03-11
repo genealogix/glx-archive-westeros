@@ -1,5 +1,6 @@
 events:
     event-birth-wendel-frey:
+        title: "Birth of Wendel Frey"
         type: birth
         participants:
             - person: person-wendel-frey

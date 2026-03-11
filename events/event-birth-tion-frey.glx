@@ -1,5 +1,6 @@
 events:
     event-birth-tion-frey:
+        title: "Birth of Tion Frey"
         type: birth
         participants:
             - person: person-tion-frey

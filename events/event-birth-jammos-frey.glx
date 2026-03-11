@@ -1,5 +1,6 @@
 events:
     event-birth-jammos-frey:
+        title: "Birth of Jammos Frey"
         type: birth
         participants:
             - person: person-jammos-frey

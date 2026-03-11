@@ -1,5 +1,6 @@
 events:
     event-birth-naerys:
+        title: "Birth of Naerys"
         type: birth
         participants:
             - person: person-naerys

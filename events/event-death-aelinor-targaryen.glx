@@ -1,5 +1,6 @@
 events:
     event-death-aelinor-targaryen:
+        title: "Death of Aelinor Targaryen"
         type: death
         participants:
             - person: person-aelinor-targaryen

@@ -1,5 +1,6 @@
 events:
     event-birth-rhaegar-frey:
+        title: "Birth of Rhaegar Frey"
         type: birth
         participants:
             - person: person-rhaegar-frey

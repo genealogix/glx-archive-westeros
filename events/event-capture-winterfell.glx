@@ -1,5 +1,6 @@
 events:
     event-capture-winterfell:
+        title: "Theon's Taking of Winterfell"
         type: battle
         date: "299"
         place: place-winterfell

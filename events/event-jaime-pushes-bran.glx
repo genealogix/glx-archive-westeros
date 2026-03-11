@@ -1,5 +1,6 @@
 events:
     event-jaime-pushes-bran:
+        title: "Jaime Pushes Bran from the Tower"
         type: death
         date: "298"
         place: place-winterfell

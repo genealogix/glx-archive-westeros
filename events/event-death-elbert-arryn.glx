@@ -1,5 +1,6 @@
 events:
     event-death-elbert-arryn:
+        title: "Death of Elbert Arryn"
         type: death
         place: place-kings-landing
         participants:

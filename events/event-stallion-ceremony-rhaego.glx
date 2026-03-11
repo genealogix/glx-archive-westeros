@@ -1,5 +1,6 @@
 events:
     event-stallion-ceremony-rhaego:
+        title: "Dosh Khaleen Ceremony for Rhaego"
         type: birth
         date: "298"
         place: place-vaes-dothrak

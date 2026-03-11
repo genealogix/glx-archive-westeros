@@ -1,5 +1,6 @@
 events:
     event-death-brandon-stark-466:
+        title: "Death of Brandon Stark"
         type: death
         participants:
             - person: person-brandon-stark-466

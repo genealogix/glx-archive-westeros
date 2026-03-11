@@ -1,5 +1,6 @@
 events:
     event-sam-arrives-citadel:
+        title: "Sam Arrives at the Citadel"
         type: coronation
         date: "300"
         place: place-oldtown

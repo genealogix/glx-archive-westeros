@@ -1,5 +1,6 @@
 events:
     event-marriage-tygett-lannister-and-darlessa-marbrand-706:
+        title: "Marriage of Tygett Lannister and Darlessa Marbrand"
         type: marriage
         participants:
             - person: person-tygett-lannister

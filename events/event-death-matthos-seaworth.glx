@@ -1,5 +1,6 @@
 events:
     event-death-matthos-seaworth:
+        title: "Death of Matthos Seaworth"
         type: death
         date: "299"
         place: place-blackwater-bay

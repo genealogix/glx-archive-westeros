@@ -1,5 +1,6 @@
 events:
     event-birth-jon-cupps:
+        title: "Birth of Ser Jon Cupps"
         type: birth
         participants:
             - person: person-jon-cupps

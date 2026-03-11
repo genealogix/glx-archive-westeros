@@ -1,5 +1,6 @@
 events:
     event-marriage-symond-frey-and-betharios:
+        title: "Marriage of Symond Frey and Betharios"
         type: marriage
         participants:
             - person: person-symond-frey

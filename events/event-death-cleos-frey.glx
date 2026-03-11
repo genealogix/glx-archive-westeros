@@ -1,5 +1,6 @@
 events:
     event-death-cleos-frey:
+        title: "Death of Cleos Frey"
         type: death
         date: "299"
         participants:

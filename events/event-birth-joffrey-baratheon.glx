@@ -1,5 +1,6 @@
 events:
     event-birth-joffrey-baratheon:
+        title: "Birth of Joffrey Baratheon"
         type: birth
         date: "286"
         place: place-kings-landing

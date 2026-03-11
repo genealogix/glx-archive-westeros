@@ -1,5 +1,6 @@
 events:
     event-death-sandor-clegane:
+        title: "Death of Sandor Clegane"
         type: death
         date: "300"
         participants:

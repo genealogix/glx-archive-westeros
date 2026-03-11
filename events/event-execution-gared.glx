@@ -1,5 +1,6 @@
 events:
     event-execution-gared:
+        title: "Execution of Gared"
         type: execution
         date: "298"
         participants:

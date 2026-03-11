@@ -1,5 +1,6 @@
 events:
     event-birth-argilac-durrendon-the-arrogant:
+        title: "Birth of Argilac Durrendon"
         type: birth
         participants:
             - person: person-argilac-durrendon-the-arrogant

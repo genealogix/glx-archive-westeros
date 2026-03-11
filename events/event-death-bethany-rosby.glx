@@ -1,5 +1,6 @@
 events:
     event-death-bethany-rosby:
+        title: "Death of Bethany Rosby"
         type: death
         participants:
             - person: person-bethany-rosby

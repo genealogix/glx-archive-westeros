@@ -1,5 +1,6 @@
 events:
     event-birth-targaryen-348:
+        title: "Birth of Targaryen"
         type: birth
         participants:
             - person: person-targaryen-348

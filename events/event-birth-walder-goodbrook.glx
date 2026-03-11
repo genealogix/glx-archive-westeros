@@ -1,5 +1,6 @@
 events:
     event-birth-walder-goodbrook:
+        title: "Birth of Walder Goodbrook"
         type: birth
         participants:
             - person: person-walder-goodbrook

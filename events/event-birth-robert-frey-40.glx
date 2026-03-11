@@ -1,5 +1,6 @@
 events:
     event-birth-robert-frey-40:
+        title: "Birth of Robert Frey"
         type: birth
         participants:
             - person: person-robert-frey-40

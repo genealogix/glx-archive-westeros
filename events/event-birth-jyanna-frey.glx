@@ -1,5 +1,6 @@
 events:
     event-birth-jyanna-frey:
+        title: "Birth of Jyanna Frey"
         type: birth
         participants:
             - person: person-jyanna-frey

@@ -1,5 +1,6 @@
 events:
     event-birth-rickard-stark:
+        title: "Birth of Rickard Stark"
         type: birth
         participants:
             - person: person-rickard-stark

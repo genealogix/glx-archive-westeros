@@ -1,5 +1,6 @@
 events:
     event-birth-ryman-frey:
+        title: "Birth of Ryman Frey"
         type: birth
         participants:
             - person: person-ryman-frey

@@ -1,5 +1,6 @@
 events:
     event-birth-aegon-targaryen-i-the-conqueror:
+        title: "Birth of Aegon Targaryen I"
         type: birth
         participants:
             - person: person-aegon-targaryen-i-the-conqueror

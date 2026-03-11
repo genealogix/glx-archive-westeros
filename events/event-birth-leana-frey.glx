@@ -1,5 +1,6 @@
 events:
     event-birth-leana-frey:
+        title: "Birth of Leana Frey"
         type: birth
         participants:
             - person: person-leana-frey

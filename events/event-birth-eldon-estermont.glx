@@ -1,5 +1,6 @@
 events:
     event-birth-eldon-estermont:
+        title: "Birth of Eldon Estermont"
         type: birth
         participants:
             - person: person-eldon-estermont

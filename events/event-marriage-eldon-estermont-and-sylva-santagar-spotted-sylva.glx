@@ -1,5 +1,6 @@
 events:
     event-marriage-eldon-estermont-and-sylva-santagar-spotted-sylva:
+        title: "Marriage of Eldon Estermont and Sylva Santagar"
         type: marriage
         participants:
             - person: person-eldon-estermont

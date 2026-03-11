@@ -1,5 +1,6 @@
 events:
     event-coronation-robert:
+        title: "Coronation of Robert Baratheon"
         type: coronation
         date: "283"
         place: place-kings-landing

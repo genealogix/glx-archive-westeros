@@ -1,5 +1,6 @@
 events:
     event-great-hall-brawl-winterfell:
+        title: "Great Hall Brawl at Winterfell"
         type: battle
         date: "300"
         place: place-winterfell

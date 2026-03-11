@@ -1,5 +1,6 @@
 events:
     event-birth-flement-brax:
+        title: "Birth of Flement Brax"
         type: birth
         participants:
             - person: person-flement-brax

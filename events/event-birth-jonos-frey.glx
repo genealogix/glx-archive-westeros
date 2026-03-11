@@ -1,5 +1,6 @@
 events:
     event-birth-jonos-frey:
+        title: "Birth of Jonos Frey"
         type: birth
         participants:
             - person: person-jonos-frey

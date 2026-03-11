@@ -1,5 +1,6 @@
 events:
     event-house-of-undying:
+        title: "Daenerys in the House of the Undying"
         type: trial
         date: "299"
         place: place-house-of-the-undying

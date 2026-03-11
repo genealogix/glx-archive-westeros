@@ -1,5 +1,6 @@
 events:
     event-birth-uller:
+        title: "Birth of Uller"
         type: birth
         participants:
             - person: person-uller

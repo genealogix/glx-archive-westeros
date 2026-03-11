@@ -1,5 +1,6 @@
 events:
     event-birth-lewyn-martell:
+        title: "Birth of Lewyn Martell"
         type: birth
         participants:
             - person: person-lewyn-martell

@@ -1,5 +1,6 @@
 events:
     event-birth-ronnel-arryn:
+        title: "Birth of Ronnel Arryn"
         type: birth
         participants:
             - person: person-ronnel-arryn

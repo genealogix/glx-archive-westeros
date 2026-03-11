@@ -1,5 +1,6 @@
 events:
     event-birth-oberyn-martell-the-red-viper:
+        title: "Birth of Oberyn Martell"
         type: birth
         date: "257"
         participants:

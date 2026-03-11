@@ -1,5 +1,6 @@
 events:
     event-birth-arianne-martell:
+        title: "Birth of Arianne Martell"
         type: birth
         participants:
             - person: person-arianne-martell

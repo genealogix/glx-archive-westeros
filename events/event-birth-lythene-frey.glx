@@ -1,5 +1,6 @@
 events:
     event-birth-lythene-frey:
+        title: "Birth of Lythene Frey"
         type: birth
         participants:
             - person: person-lythene-frey

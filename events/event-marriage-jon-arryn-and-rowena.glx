@@ -1,5 +1,6 @@
 events:
     event-marriage-jon-arryn-and-rowena:
+        title: "Marriage of Jon Arryn and Rowena"
         type: marriage
         participants:
             - person: person-jon-arryn

@@ -1,5 +1,6 @@
 events:
     event-death-waynwood-245:
+        title: "Death of Waynwood"
         type: death
         participants:
             - person: person-waynwood-245

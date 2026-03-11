@@ -1,5 +1,6 @@
 events:
     event-birth-elys-waynwood:
+        title: "Birth of Elys Waynwood"
         type: birth
         participants:
             - person: person-elys-waynwood

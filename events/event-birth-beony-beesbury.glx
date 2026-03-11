@@ -1,5 +1,6 @@
 events:
     event-birth-beony-beesbury:
+        title: "Birth of Beony Beesbury"
         type: birth
         participants:
             - person: person-beony-beesbury

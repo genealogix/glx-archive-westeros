@@ -1,5 +1,6 @@
 events:
     event-birth-rylene-florent:
+        title: "Birth of Rylene Florent"
         type: birth
         participants:
             - person: person-rylene-florent

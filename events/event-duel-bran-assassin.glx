@@ -1,5 +1,6 @@
 events:
     event-duel-bran-assassin:
+        title: "The Catspaw Assassination Attempt"
         type: assassination
         date: "298"
         place: place-winterfell

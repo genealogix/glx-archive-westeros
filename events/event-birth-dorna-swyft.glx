@@ -1,5 +1,6 @@
 events:
     event-birth-dorna-swyft:
+        title: "Birth of Dorna Swyft"
         type: birth
         participants:
             - person: person-dorna-swyft

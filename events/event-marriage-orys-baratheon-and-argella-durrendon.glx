@@ -1,5 +1,6 @@
 events:
     event-marriage-orys-baratheon-and-argella-durrendon:
+        title: "Marriage of Orys Baratheon and Argella Durrendon"
         type: marriage
         participants:
             - person: person-orys-baratheon

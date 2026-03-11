@@ -1,5 +1,6 @@
 events:
     event-birth-lancel-lannister:
+        title: "Birth of Lancel Lannister"
         type: birth
         participants:
             - person: person-lancel-lannister

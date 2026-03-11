@@ -1,5 +1,6 @@
 events:
     event-birth-medwick-tyrell:
+        title: "Birth of Maester Medwick Tyrell"
         type: birth
         participants:
             - person: person-medwick-tyrell

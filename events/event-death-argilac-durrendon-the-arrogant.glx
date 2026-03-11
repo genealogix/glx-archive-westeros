@@ -1,5 +1,6 @@
 events:
     event-death-argilac-durrendon-the-arrogant:
+        title: "Death of Argilac Durrendon"
         type: death
         participants:
             - person: person-argilac-durrendon-the-arrogant

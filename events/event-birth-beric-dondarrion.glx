@@ -1,5 +1,6 @@
 events:
     event-birth-beric-dondarrion:
+        title: "Birth of Beric Dondarrion"
         type: birth
         date: "ABT 276"
         participants:

@@ -1,5 +1,6 @@
 events:
     event-coronation-robb:
+        title: "The King in the North declaration"
         type: coronation
         date: "299"
         place: place-riverrun

@@ -1,5 +1,6 @@
 events:
     event-birth-malora-hightower:
+        title: "Birth of Malora Hightower"
         type: birth
         participants:
             - person: person-malora-hightower

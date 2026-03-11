@@ -1,5 +1,6 @@
 events:
     event-marriage-lothar-frey-and-leonella-lefford:
+        title: "Marriage of Lothar Frey and Leonella Lefford"
         type: marriage
         participants:
             - person: person-lothar-frey

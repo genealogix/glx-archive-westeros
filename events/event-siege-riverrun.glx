@@ -1,5 +1,6 @@
 events:
     event-siege-riverrun:
+        title: "Siege of Riverrun"
         type: siege
         date: "300"
         place: place-riverrun

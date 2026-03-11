@@ -1,5 +1,6 @@
 events:
     event-birth-aemon-blackfyre:
+        title: "Birth of Aemon Blackfyre"
         type: birth
         participants:
             - person: person-aemon-blackfyre

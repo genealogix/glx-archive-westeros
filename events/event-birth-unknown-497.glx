@@ -1,5 +1,6 @@
 events:
     event-birth-unknown-497:
+        title: "Birth of Unknown 497"
         type: birth
         participants:
             - person: person-unknown-497

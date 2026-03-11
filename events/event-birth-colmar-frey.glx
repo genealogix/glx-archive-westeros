@@ -1,5 +1,6 @@
 events:
     event-birth-colmar-frey:
+        title: "Birth of Colmar Frey"
         type: birth
         participants:
             - person: person-colmar-frey

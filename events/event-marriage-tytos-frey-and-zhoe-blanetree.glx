@@ -1,5 +1,6 @@
 events:
     event-marriage-tytos-frey-and-zhoe-blanetree:
+        title: "Marriage of Ser Tytos Frey and Zhoe Blanetree"
         type: marriage
         participants:
             - person: person-tytos-frey

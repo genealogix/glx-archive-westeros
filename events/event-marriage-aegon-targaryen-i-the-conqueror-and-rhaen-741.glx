@@ -1,5 +1,6 @@
 events:
     event-marriage-aegon-targaryen-i-the-conqueror-and-rhaen-741:
+        title: "Marriage of Aegon Targaryen I and Rhaenys Targaryen"
         type: marriage
         participants:
             - person: person-aegon-targaryen-i-the-conqueror

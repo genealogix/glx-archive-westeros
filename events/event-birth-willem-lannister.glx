@@ -1,5 +1,6 @@
 events:
     event-birth-willem-lannister:
+        title: "Birth of Willem Lannister"
         type: birth
         participants:
             - person: person-willem-lannister

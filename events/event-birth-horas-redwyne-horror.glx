@@ -1,5 +1,6 @@
 events:
     event-birth-horas-redwyne-horror:
+        title: "Birth of Horas Redwyne"
         type: birth
         participants:
             - person: person-horas-redwyne-horror

@@ -1,5 +1,6 @@
 events:
     event-death-jory-cassel:
+        title: "Death of Jory Cassel"
         type: death
         date: "298"
         place: place-kings-landing

@@ -1,5 +1,6 @@
 events:
     event-nights-king-reign:
+        title: "The Reign of the Night's King"
         type: rebellion
         date: "BEF 6000 BC"
         participants:

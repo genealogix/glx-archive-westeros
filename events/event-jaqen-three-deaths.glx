@@ -1,5 +1,6 @@
 events:
     event-jaqen-three-deaths:
+        title: "Jaqen H'ghar's Three Deaths"
         type: death
         date: "299"
         place: place-harrenhal

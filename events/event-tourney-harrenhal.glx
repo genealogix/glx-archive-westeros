@@ -1,5 +1,6 @@
 events:
     event-tourney-harrenhal:
+        title: "The Tourney at Harrenhal"
         type: tournament
         date: "281"
         place: place-harrenhal

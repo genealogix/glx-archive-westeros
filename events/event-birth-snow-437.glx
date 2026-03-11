@@ -1,5 +1,6 @@
 events:
     event-birth-snow-437:
+        title: "Birth of Snow"
         type: birth
         participants:
             - person: person-snow-437

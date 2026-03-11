@@ -1,5 +1,6 @@
 events:
     event-birth-edric-storm:
+        title: "Birth of Edric Storm"
         type: birth
         participants:
             - person: person-edric-storm

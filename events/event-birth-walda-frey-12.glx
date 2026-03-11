@@ -1,5 +1,6 @@
 events:
     event-birth-walda-frey-12:
+        title: "Birth of Walda Frey"
         type: birth
         participants:
             - person: person-walda-frey-12

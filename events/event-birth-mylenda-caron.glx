@@ -1,5 +1,6 @@
 events:
     event-birth-mylenda-caron:
+        title: "Birth of Mylenda Caron"
         type: birth
         participants:
             - person: person-mylenda-caron

@@ -1,5 +1,6 @@
 events:
     event-birth-arryn-474:
+        title: "Birth of Arryn"
         type: birth
         participants:
             - person: person-arryn-474

@@ -1,5 +1,6 @@
 events:
     event-birth-garrett-flowers:
+        title: "Birth of Garrett Flowers"
         type: birth
         participants:
             - person: person-garrett-flowers

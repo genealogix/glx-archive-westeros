@@ -1,5 +1,6 @@
 events:
     event-birth-stafford-lannister:
+        title: "Birth of Stafford Lannister"
         type: birth
         participants:
             - person: person-stafford-lannister

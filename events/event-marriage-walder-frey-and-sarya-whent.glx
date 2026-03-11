@@ -1,5 +1,6 @@
 events:
     event-marriage-walder-frey-and-sarya-whent:
+        title: "Marriage of Walder Frey and Sarya Whent"
         type: marriage
         participants:
             - person: person-walder-frey

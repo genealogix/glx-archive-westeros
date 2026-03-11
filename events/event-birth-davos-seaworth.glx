@@ -1,5 +1,6 @@
 events:
     event-birth-davos-seaworth:
+        title: "Birth of Davos Seaworth"
         type: birth
         date: "ABT 260"
         place: place-kings-landing

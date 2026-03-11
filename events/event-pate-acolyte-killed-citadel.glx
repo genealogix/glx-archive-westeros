@@ -1,5 +1,6 @@
 events:
     event-pate-acolyte-killed-citadel:
+        title: "Murder of Pate at the Citadel"
         type: death
         date: "300"
         place: place-oldtown

@@ -1,5 +1,6 @@
 events:
     event-burning-of-the-seven-dragonstone:
+        title: "Burning of the Seven on Dragonstone"
         type: execution
         date: "299"
         place: place-dragonstone

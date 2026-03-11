@@ -1,5 +1,6 @@
 events:
     event-birth-jeyne-goodbrook:
+        title: "Birth of Jeyne Goodbrook"
         type: birth
         participants:
             - person: person-jeyne-goodbrook

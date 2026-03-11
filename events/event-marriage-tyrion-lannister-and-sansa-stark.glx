@@ -1,5 +1,6 @@
 events:
     event-marriage-tyrion-lannister-and-sansa-stark:
+        title: "Marriage of Tyrion Lannister and Sansa Stark"
         type: marriage
         date: "299"
         place: place-kings-landing

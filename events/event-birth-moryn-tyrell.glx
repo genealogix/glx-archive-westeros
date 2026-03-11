@@ -1,5 +1,6 @@
 events:
     event-birth-moryn-tyrell:
+        title: "Birth of Ser Moryn Tyrell"
         type: birth
         participants:
             - person: person-moryn-tyrell

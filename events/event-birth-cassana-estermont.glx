@@ -1,5 +1,6 @@
 events:
     event-birth-cassana-estermont:
+        title: "Birth of Cassana Estermont"
         type: birth
         participants:
             - person: person-cassana-estermont

@@ -1,5 +1,6 @@
 events:
     event-birth-morton-waynwood:
+        title: "Birth of Morton Waynwood"
         type: birth
         participants:
             - person: person-morton-waynwood

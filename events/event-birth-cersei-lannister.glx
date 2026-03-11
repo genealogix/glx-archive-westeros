@@ -1,5 +1,6 @@
 events:
     event-birth-cersei-lannister:
+        title: "Birth of Cersei Lannister"
         type: birth
         date: "266"
         place: place-casterly-rock

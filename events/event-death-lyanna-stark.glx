@@ -1,5 +1,6 @@
 events:
     event-death-lyanna-stark:
+        title: "Death of Lyanna Stark"
         type: death
         participants:
             - person: person-lyanna-stark

@@ -1,5 +1,6 @@
 events:
     event-birth-catelyn-tully:
+        title: "Birth of Catelyn Tully"
         type: birth
         date: "264"
         place: place-riverrun

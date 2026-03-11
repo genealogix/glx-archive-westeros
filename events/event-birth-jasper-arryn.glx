@@ -1,5 +1,6 @@
 events:
     event-birth-jasper-arryn:
+        title: "Birth of Jasper Arryn"
         type: birth
         participants:
             - person: person-jasper-arryn

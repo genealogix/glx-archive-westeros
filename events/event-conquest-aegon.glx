@@ -1,5 +1,6 @@
 events:
     event-conquest-aegon:
+        title: "Aegon's Conquest"
         type: conquest
         date: "BET 1 AND 2"
         participants:

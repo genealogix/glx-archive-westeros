@@ -1,5 +1,6 @@
 events:
     event-birth-robert-brax-155:
+        title: "Birth of Robert Brax"
         type: birth
         participants:
             - person: person-robert-brax-155

@@ -1,5 +1,6 @@
 events:
     event-birth-sansa-stark:
+        title: "Birth of Sansa Stark"
         type: birth
         participants:
             - person: person-sansa-stark

@@ -1,5 +1,6 @@
 events:
     event-birth-jaime-frey:
+        title: "Birth of Jaime Frey"
         type: birth
         participants:
             - person: person-jaime-frey

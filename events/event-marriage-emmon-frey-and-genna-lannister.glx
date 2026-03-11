@@ -1,5 +1,6 @@
 events:
     event-marriage-emmon-frey-and-genna-lannister:
+        title: "Marriage of Emmon Frey and Genna Lannister"
         type: marriage
         participants:
             - person: person-emmon-frey

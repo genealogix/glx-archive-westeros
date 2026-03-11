@@ -1,5 +1,6 @@
 events:
     event-death-cassana-estermont:
+        title: "Death of Cassana Estermont"
         type: death
         participants:
             - person: person-cassana-estermont

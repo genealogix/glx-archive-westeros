@@ -1,5 +1,6 @@
 events:
     event-marriage-aegon-targaryen-and-eleana-targaryen:
+        title: "Marriage of Aegon Targaryen and Eleana Targaryen"
         type: marriage
         participants:
             - person: person-aegon-targaryen

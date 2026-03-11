@@ -1,5 +1,6 @@
 events:
     event-death-arthur-dayne:
+        title: "Death of Ser Arthur Dayne"
         type: death
         place: place-tower-of-joy
         participants:

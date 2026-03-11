@@ -1,5 +1,6 @@
 events:
     event-birth-sylva-santagar-spotted-sylva:
+        title: "Birth of Sylva Santagar"
         type: birth
         participants:
             - person: person-sylva-santagar-spotted-sylva

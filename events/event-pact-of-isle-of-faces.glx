@@ -1,5 +1,6 @@
 events:
     event-pact-of-isle-of-faces:
+        title: "The Pact"
         type: alliance
         date: "BEF 8000 BC"
         place: place-isle-of-faces

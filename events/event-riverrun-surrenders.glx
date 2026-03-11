@@ -1,5 +1,6 @@
 events:
     event-riverrun-surrenders:
+        title: "Surrender of Riverrun"
         type: battle
         date: "300"
         participants:

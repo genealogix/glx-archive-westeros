@@ -1,5 +1,6 @@
 events:
     event-death-aemon-targaryen-the-dragonknight:
+        title: "Death of Aemon Targaryen"
         type: death
         participants:
             - person: person-aemon-targaryen-the-dragonknight

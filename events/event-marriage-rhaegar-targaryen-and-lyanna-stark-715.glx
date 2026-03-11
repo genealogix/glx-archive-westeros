@@ -1,5 +1,6 @@
 events:
     event-marriage-rhaegar-targaryen-and-lyanna-stark-715:
+        title: "Marriage of Rhaegar Targaryen and Lyanna Stark"
         type: marriage
         participants:
             - person: person-rhaegar-targaryen

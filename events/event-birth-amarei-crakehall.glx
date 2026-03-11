@@ -1,5 +1,6 @@
 events:
     event-birth-amarei-crakehall:
+        title: "Birth of Amarei Crakehall"
         type: birth
         participants:
             - person: person-amarei-crakehall

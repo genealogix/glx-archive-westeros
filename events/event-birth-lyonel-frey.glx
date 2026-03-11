@@ -1,5 +1,6 @@
 events:
     event-birth-lyonel-frey:
+        title: "Birth of Lyonel Frey"
         type: birth
         participants:
             - person: person-lyonel-frey

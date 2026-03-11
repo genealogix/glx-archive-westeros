@@ -1,5 +1,6 @@
 events:
     event-marriage-eddard-stark-and-catelyn-tully:
+        title: "Marriage of Eddard Stark and Catelyn Tully"
         type: marriage
         participants:
             - person: person-eddard-stark

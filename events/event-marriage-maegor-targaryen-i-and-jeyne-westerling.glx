@@ -1,5 +1,6 @@
 events:
     event-marriage-maegor-targaryen-i-and-jeyne-westerling:
+        title: "Marriage of Maegor Targaryen I and Jeyne Westerling"
         type: marriage
         participants:
             - person: person-maegor-targaryen-i

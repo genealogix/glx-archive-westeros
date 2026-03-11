@@ -1,5 +1,6 @@
 events:
     event-birth-jon-arryn:
+        title: "Birth of Jon Arryn"
         type: birth
         participants:
             - person: person-jon-arryn

@@ -1,5 +1,6 @@
 events:
     event-death-gerold-hightower-the-white-bull:
+        title: "Death of Ser Gerold Hightower"
         type: death
         participants:
             - person: person-gerold-hightower-the-white-bull

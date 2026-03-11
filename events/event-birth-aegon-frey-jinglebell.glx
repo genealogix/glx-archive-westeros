@@ -1,5 +1,6 @@
 events:
     event-birth-aegon-frey-jinglebell:
+        title: "Birth of Aegon Frey"
         type: birth
         participants:
             - person: person-aegon-frey-jinglebell

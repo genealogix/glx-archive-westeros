@@ -1,5 +1,6 @@
 events:
     event-tyrion-captured-by-jorah:
+        title: "Tyrion Captured by Jorah Mormont"
         type: exile
         date: "300"
         place: place-volantis

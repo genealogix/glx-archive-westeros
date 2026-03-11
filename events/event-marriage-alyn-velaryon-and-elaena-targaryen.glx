@@ -1,5 +1,6 @@
 events:
     event-marriage-alyn-velaryon-and-elaena-targaryen:
+        title: "Marriage of Alyn Velaryon and Elaena Targaryen"
         type: marriage
         participants:
             - person: person-alyn-velaryon

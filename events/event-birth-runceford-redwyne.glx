@@ -1,5 +1,6 @@
 events:
     event-birth-runceford-redwyne:
+        title: "Birth of Runceford Redwyne"
         type: birth
         participants:
             - person: person-runceford-redwyne

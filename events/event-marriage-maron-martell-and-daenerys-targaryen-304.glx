@@ -1,5 +1,6 @@
 events:
     event-marriage-maron-martell-and-daenerys-targaryen-304:
+        title: "Marriage of Maron Martell and Daenerys Targaryen"
         type: marriage
         participants:
             - person: person-maron-martell

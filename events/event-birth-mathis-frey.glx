@@ -1,5 +1,6 @@
 events:
     event-birth-mathis-frey:
+        title: "Birth of Mathis Frey"
         type: birth
         participants:
             - person: person-mathis-frey

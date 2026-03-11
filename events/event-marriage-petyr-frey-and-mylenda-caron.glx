@@ -1,5 +1,6 @@
 events:
     event-marriage-petyr-frey-and-mylenda-caron:
+        title: "Marriage of Petyr Frey and Mylenda Caron"
         type: marriage
         participants:
             - person: person-petyr-frey

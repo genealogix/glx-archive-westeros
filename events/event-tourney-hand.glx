@@ -1,5 +1,6 @@
 events:
     event-tourney-hand:
+        title: "The Hand's Tourney"
         type: tournament
         date: "298"
         place: place-kings-landing

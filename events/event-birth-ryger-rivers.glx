@@ -1,5 +1,6 @@
 events:
     event-birth-ryger-rivers:
+        title: "Birth of Ryger Rivers"
         type: birth
         participants:
             - person: person-ryger-rivers

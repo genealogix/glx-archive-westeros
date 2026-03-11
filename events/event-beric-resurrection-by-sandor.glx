@@ -1,5 +1,6 @@
 events:
     event-beric-resurrection-by-sandor:
+        title: "Sandor Clegane's Trial by Combat"
         type: death
         date: "299"
         place: place-hollow-hill

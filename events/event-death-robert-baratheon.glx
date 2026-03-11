@@ -1,5 +1,6 @@
 events:
     event-death-robert-baratheon:
+        title: "Death of Robert Baratheon I"
         type: death
         date: "298"
         place: place-the-red-keep

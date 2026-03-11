@@ -1,5 +1,6 @@
 events:
     event-birth-jeyne-darry:
+        title: "Birth of Jeyne Darry"
         type: birth
         participants:
             - person: person-jeyne-darry

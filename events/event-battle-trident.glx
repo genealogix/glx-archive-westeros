@@ -1,5 +1,6 @@
 events:
     event-battle-trident:
+        title: "The Battle of the Trident"
         type: battle
         date: "283"
         place: place-the-trident

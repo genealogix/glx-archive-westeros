@@ -1,5 +1,6 @@
 events:
     event-death-jaehaerys-targaryen-ii:
+        title: "Death of Jaehaerys Targaryen II"
         type: death
         participants:
             - person: person-jaehaerys-targaryen-ii

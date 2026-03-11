@@ -1,5 +1,6 @@
 events:
     event-death-tygett-lannister:
+        title: "Death of Tygett Lannister"
         type: death
         participants:
             - person: person-tygett-lannister

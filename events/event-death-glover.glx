@@ -1,5 +1,6 @@
 events:
     event-death-glover:
+        title: "Death of Glover"
         type: death
         participants:
             - person: person-glover

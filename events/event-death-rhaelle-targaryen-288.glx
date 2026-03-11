@@ -1,5 +1,6 @@
 events:
     event-death-rhaelle-targaryen-288:
+        title: "Death of Rhaelle Targaryen"
         type: death
         participants:
             - person: person-rhaelle-targaryen-288

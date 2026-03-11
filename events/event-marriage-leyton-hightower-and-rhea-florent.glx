@@ -1,5 +1,6 @@
 events:
     event-marriage-leyton-hightower-and-rhea-florent:
+        title: "Marriage of Leyton Hightower and Rhea Florent"
         type: marriage
         participants:
             - person: person-leyton-hightower

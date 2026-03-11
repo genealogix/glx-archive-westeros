@@ -1,5 +1,6 @@
 events:
     event-death-aemond-targaryen:
+        title: "Death of Aemond Targaryen"
         type: death
         participants:
             - person: person-aemond-targaryen

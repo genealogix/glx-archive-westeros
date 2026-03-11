@@ -1,5 +1,6 @@
 events:
     event-birth-belmore:
+        title: "Birth of Belmore"
         type: birth
         participants:
             - person: person-belmore

@@ -1,5 +1,6 @@
 events:
     event-marriage-leslyn-haigh-and-perriane-frey:
+        title: "Marriage of Leslyn Haigh and Perriane Frey"
         type: marriage
         participants:
             - person: person-leslyn-haigh

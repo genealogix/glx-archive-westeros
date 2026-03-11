@@ -1,5 +1,6 @@
 events:
     event-birth-ashara-dayne:
+        title: "Birth of Ashara Dayne"
         type: birth
         participants:
             - person: person-ashara-dayne

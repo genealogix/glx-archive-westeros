@@ -1,5 +1,6 @@
 events:
     event-birth-dayne-482:
+        title: "Birth of Dayne"
         type: birth
         participants:
             - person: person-dayne-482

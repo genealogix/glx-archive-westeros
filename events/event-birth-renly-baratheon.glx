@@ -1,5 +1,6 @@
 events:
     event-birth-renly-baratheon:
+        title: "Birth of Renly Baratheon"
         type: birth
         date: "277"
         place: place-storms-end

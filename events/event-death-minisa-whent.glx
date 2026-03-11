@@ -1,5 +1,6 @@
 events:
     event-death-minisa-whent:
+        title: "Death of Minisa Whent"
         type: death
         participants:
             - person: person-minisa-whent

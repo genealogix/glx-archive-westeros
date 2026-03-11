@@ -1,5 +1,6 @@
 events:
     event-birth-rycherd-crane:
+        title: "Birth of Rycherd Crane"
         type: birth
         participants:
             - person: person-rycherd-crane

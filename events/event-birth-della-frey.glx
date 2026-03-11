@@ -1,5 +1,6 @@
 events:
     event-birth-della-frey:
+        title: "Birth of Della Frey"
         type: birth
         participants:
             - person: person-della-frey

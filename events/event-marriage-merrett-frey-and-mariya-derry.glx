@@ -1,5 +1,6 @@
 events:
     event-marriage-merrett-frey-and-mariya-derry:
+        title: "Marriage of Merrett Frey and Mariya Derry"
         type: marriage
         participants:
             - person: person-merrett-frey

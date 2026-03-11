@@ -1,5 +1,6 @@
 events:
     event-jeyne-poole-escape-winterfell:
+        title: "Escape of Jeyne Poole from Winterfell"
         type: exile
         date: "300"
         place: place-winterfell

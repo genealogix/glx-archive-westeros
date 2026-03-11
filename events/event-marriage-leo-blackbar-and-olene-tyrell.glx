@@ -1,5 +1,6 @@
 events:
     event-marriage-leo-blackbar-and-olene-tyrell:
+        title: "Marriage of Leo Blackbar and Olene Tyrell"
         type: marriage
         participants:
             - person: person-leo-blackbar

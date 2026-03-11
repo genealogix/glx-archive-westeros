@@ -1,5 +1,6 @@
 events:
     event-battle-meereen:
+        title: "The Battle of Slaver's Bay"
         type: battle
         date: "300"
         place: place-meereen

@@ -1,5 +1,6 @@
 events:
     event-birth-rhonda-rowan:
+        title: "Birth of Rhonda Rowan"
         type: birth
         participants:
             - person: person-rhonda-rowan

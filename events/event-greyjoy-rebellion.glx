@@ -1,5 +1,6 @@
 events:
     event-greyjoy-rebellion:
+        title: "The Greyjoy Rebellion"
         type: rebellion
         date: "289"
         place: place-pyke

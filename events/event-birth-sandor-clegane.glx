@@ -1,5 +1,6 @@
 events:
     event-birth-sandor-clegane:
+        title: "Birth of Sandor Clegane"
         type: birth
         date: "ABT 271"
         participants:

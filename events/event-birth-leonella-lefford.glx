@@ -1,5 +1,6 @@
 events:
     event-birth-leonella-lefford:
+        title: "Birth of Leonella Lefford"
         type: birth
         participants:
             - person: person-leonella-lefford

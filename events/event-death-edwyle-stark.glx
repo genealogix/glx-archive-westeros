@@ -1,5 +1,6 @@
 events:
     event-death-edwyle-stark:
+        title: "Death of Edwyle Stark"
         type: death
         participants:
             - person: person-edwyle-stark

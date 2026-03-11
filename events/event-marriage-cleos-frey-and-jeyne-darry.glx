@@ -1,5 +1,6 @@
 events:
     event-marriage-cleos-frey-and-jeyne-darry:
+        title: "Marriage of Cleos Frey and Jeyne Darry"
         type: marriage
         participants:
             - person: person-cleos-frey

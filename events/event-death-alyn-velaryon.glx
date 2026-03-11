@@ -1,5 +1,6 @@
 events:
     event-death-alyn-velaryon:
+        title: "Death of Alyn Velaryon"
         type: death
         participants:
             - person: person-alyn-velaryon

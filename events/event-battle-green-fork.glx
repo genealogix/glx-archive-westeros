@@ -1,5 +1,6 @@
 events:
     event-battle-green-fork:
+        title: "Battle of the Green Fork"
         type: battle
         date: "298"
         place: place-the-green-fork

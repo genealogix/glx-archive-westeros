@@ -1,5 +1,6 @@
 events:
     event-death-mycah:
+        title: "Death of Mycah"
         type: death
         date: "298"
         place: place-the-riverlands

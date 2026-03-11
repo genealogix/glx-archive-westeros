@@ -1,5 +1,6 @@
 events:
     event-death-cressen:
+        title: "Death of Cressen"
         type: death
         date: "299"
         place: place-dragonstone

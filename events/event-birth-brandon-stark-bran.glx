@@ -1,5 +1,6 @@
 events:
     event-birth-brandon-stark-bran:
+        title: "Birth of Brandon Stark"
         type: birth
         participants:
             - person: person-brandon-stark-bran

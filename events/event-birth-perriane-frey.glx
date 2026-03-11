@@ -1,5 +1,6 @@
 events:
     event-birth-perriane-frey:
+        title: "Birth of Perriane Frey"
         type: birth
         participants:
             - person: person-perriane-frey

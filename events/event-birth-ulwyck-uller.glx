@@ -1,5 +1,6 @@
 events:
     event-birth-ulwyck-uller:
+        title: "Birth of Ulwyck Uller"
         type: birth
         participants:
             - person: person-ulwyck-uller

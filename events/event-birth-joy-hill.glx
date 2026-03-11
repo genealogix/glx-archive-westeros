@@ -1,5 +1,6 @@
 events:
     event-birth-joy-hill:
+        title: "Birth of Joy Hill"
         type: birth
         participants:
             - person: person-joy-hill

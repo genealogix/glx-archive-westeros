@@ -1,5 +1,6 @@
 events:
     event-birth-aemon-estermont:
+        title: "Birth of Aemon Estermont"
         type: birth
         participants:
             - person: person-aemon-estermont

@@ -1,5 +1,6 @@
 events:
     event-burial-lyanna-stark:
+        title: "Burial of Lyanna Stark"
         type: burial
         place: place-winterfell-crypts
         participants:

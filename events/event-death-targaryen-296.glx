@@ -1,5 +1,6 @@
 events:
     event-death-targaryen-296:
+        title: "Death of Targaryen"
         type: death
         participants:
             - person: person-targaryen-296

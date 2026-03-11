@@ -1,5 +1,6 @@
 events:
     event-birth-willas-tyrell:
+        title: "Birth of Willas Tyrell"
         type: birth
         participants:
             - person: person-willas-tyrell

@@ -1,5 +1,6 @@
 events:
     event-birth-sandor-frey:
+        title: "Birth of Sandor Frey"
         type: birth
         participants:
             - person: person-sandor-frey

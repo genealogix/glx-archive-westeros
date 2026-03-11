@@ -1,5 +1,6 @@
 events:
     event-death-rhaenyra:
+        title: "Death of Rhaenyra"
         type: death
         participants:
             - person: person-rhaenyra

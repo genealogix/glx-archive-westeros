@@ -1,5 +1,6 @@
 events:
     event-marriage-mace-tyrell-and-alerie-hightower:
+        title: "Marriage of Mace Tyrell and Alerie Hightower"
         type: marriage
         participants:
             - person: person-mace-tyrell

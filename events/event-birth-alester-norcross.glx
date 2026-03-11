@@ -1,5 +1,6 @@
 events:
     event-birth-alester-norcross:
+        title: "Birth of Alester Norcross"
         type: birth
         participants:
             - person: person-alester-norcross

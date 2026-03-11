@@ -1,5 +1,6 @@
 events:
     event-marriage-alyn-velaryon-and-unknown-336:
+        title: "Marriage of Alyn Velaryon and Unknown 336"
         type: marriage
         participants:
             - person: person-alyn-velaryon

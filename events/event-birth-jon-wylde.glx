@@ -1,5 +1,6 @@
 events:
     event-birth-jon-wylde:
+        title: "Birth of Jon Wylde"
         type: birth
         participants:
             - person: person-jon-wylde

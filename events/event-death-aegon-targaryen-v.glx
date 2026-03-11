@@ -1,5 +1,6 @@
 events:
     event-death-aegon-targaryen-v:
+        title: "Death of Aegon Targaryen V"
         type: death
         participants:
             - person: person-aegon-targaryen-v

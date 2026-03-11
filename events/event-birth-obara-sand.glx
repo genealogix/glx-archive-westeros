@@ -1,5 +1,6 @@
 events:
     event-birth-obara-sand:
+        title: "Birth of Obara Sand"
         type: birth
         participants:
             - person: person-obara-sand

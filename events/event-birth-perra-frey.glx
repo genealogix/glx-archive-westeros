@@ -1,5 +1,6 @@
 events:
     event-birth-perra-frey:
+        title: "Birth of Perra Frey"
         type: birth
         participants:
             - person: person-perra-frey

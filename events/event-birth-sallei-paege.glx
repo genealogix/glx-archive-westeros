@@ -1,5 +1,6 @@
 events:
     event-birth-sallei-paege:
+        title: "Birth of Sallei Paege"
         type: birth
         participants:
             - person: person-sallei-paege

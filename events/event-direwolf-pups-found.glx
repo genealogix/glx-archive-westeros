@@ -1,5 +1,6 @@
 events:
     event-direwolf-pups-found:
+        title: "Discovery of the Direwolf Pups"
         type: birth
         date: "298"
         participants:

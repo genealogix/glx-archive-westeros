@@ -1,5 +1,6 @@
 events:
     event-engagement-joffrey-baratheon-and-sansa-stark:
+        title: "Betrothal of Joffrey Baratheon and Sansa Stark"
         type: engagement
         participants:
             - person: person-joffrey-baratheon

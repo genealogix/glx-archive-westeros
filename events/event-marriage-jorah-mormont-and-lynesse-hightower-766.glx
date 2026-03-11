@@ -1,5 +1,6 @@
 events:
     event-marriage-jorah-mormont-and-lynesse-hightower-766:
+        title: "Marriage of Ser Jorah Mormont and Lynesse Hightower"
         type: marriage
         participants:
             - person: person-jorah-mormont

@@ -1,5 +1,6 @@
 events:
     event-death-merrett-frey:
+        title: "Death of Merrett Frey"
         type: death
         date: "299"
         participants:

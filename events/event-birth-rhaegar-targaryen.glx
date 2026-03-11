@@ -1,5 +1,6 @@
 events:
     event-birth-rhaegar-targaryen:
+        title: "Birth of Rhaegar Targaryen"
         type: birth
         participants:
             - person: person-rhaegar-targaryen

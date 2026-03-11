@@ -1,5 +1,6 @@
 events:
     event-birth-rhaelle-targaryen-288:
+        title: "Birth of Rhaelle Targaryen"
         type: birth
         participants:
             - person: person-rhaelle-targaryen-288

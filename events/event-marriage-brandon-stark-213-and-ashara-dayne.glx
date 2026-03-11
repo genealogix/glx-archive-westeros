@@ -1,5 +1,6 @@
 events:
     event-marriage-brandon-stark-213-and-ashara-dayne:
+        title: "Marriage of Brandon Stark and Ashara Dayne"
         type: marriage
         participants:
             - person: person-brandon-stark-213

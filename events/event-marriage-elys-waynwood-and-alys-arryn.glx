@@ -1,5 +1,6 @@
 events:
     event-marriage-elys-waynwood-and-alys-arryn:
+        title: "Marriage of Elys Waynwood and Alys Arryn"
         type: marriage
         participants:
             - person: person-elys-waynwood

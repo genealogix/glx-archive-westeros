@@ -1,5 +1,6 @@
 events:
     event-marriage-kevan-lannister-and-dorna-swyft:
+        title: "Marriage of Kevan Lannister and Dorna Swyft"
         type: marriage
         participants:
             - person: person-kevan-lannister

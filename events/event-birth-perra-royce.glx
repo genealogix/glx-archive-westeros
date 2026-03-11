@@ -1,5 +1,6 @@
 events:
     event-birth-perra-royce:
+        title: "Birth of Perra Royce"
         type: birth
         participants:
             - person: person-perra-royce

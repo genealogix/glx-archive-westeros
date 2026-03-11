@@ -1,5 +1,6 @@
 events:
     event-birth-arya-stark:
+        title: "Birth of Arya Stark"
         type: birth
         participants:
             - person: person-arya-stark

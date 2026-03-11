@@ -1,5 +1,6 @@
 events:
     event-fall-of-yunkai:
+        title: "The Battle of Yunkai"
         type: battle
         date: "299"
         place: place-yunkai

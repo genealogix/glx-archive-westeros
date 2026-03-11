@@ -1,5 +1,6 @@
 events:
     event-marriage-raymund-frey-and-beony-beesbury:
+        title: "Marriage of Raymund Frey and Beony Beesbury"
         type: marriage
         participants:
             - person: person-raymund-frey

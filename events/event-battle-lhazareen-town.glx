@@ -1,5 +1,6 @@
 events:
     event-battle-lhazareen-town:
+        title: "Battle of the Lhazareen Town"
         type: battle
         date: "298"
         participants:

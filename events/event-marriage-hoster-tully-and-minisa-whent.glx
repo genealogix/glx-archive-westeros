@@ -1,5 +1,6 @@
 events:
     event-marriage-hoster-tully-and-minisa-whent:
+        title: "Marriage of Hoster Tully and Minisa Whent"
         type: marriage
         participants:
             - person: person-hoster-tully

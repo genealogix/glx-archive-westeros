@@ -1,5 +1,6 @@
 events:
     event-birth-jon-waters:
+        title: "Birth of Ser Jon Waters"
         type: birth
         participants:
             - person: person-jon-waters

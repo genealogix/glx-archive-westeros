@@ -1,5 +1,6 @@
 events:
     event-birth-tully:
+        title: "Birth of Tully"
         type: birth
         participants:
             - person: person-tully

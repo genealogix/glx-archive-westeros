@@ -1,5 +1,6 @@
 events:
     event-birth-lia-serry:
+        title: "Birth of Lia Serry"
         type: birth
         participants:
             - person: person-lia-serry

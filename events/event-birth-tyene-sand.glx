@@ -1,5 +1,6 @@
 events:
     event-birth-tyene-sand:
+        title: "Birth of Tyene Sand"
         type: birth
         participants:
             - person: person-tyene-sand

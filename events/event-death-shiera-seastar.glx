@@ -1,5 +1,6 @@
 events:
     event-death-shiera-seastar:
+        title: "Death of Shiera Seastar"
         type: death
         participants:
             - person: person-shiera-seastar

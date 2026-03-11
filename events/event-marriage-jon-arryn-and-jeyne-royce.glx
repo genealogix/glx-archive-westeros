@@ -1,5 +1,6 @@
 events:
     event-marriage-jon-arryn-and-jeyne-royce:
+        title: "Marriage of Jon Arryn and Jeyne Royce"
         type: marriage
         participants:
             - person: person-jon-arryn

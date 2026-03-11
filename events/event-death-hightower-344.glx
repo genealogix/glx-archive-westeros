@@ -1,5 +1,6 @@
 events:
     event-death-hightower-344:
+        title: "Death of Hightower"
         type: death
         participants:
             - person: person-hightower-344

@@ -1,5 +1,6 @@
 events:
     event-birth-jon-fossoway:
+        title: "Birth of Jon Fossoway"
         type: birth
         participants:
             - person: person-jon-fossoway

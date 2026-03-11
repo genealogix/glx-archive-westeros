@@ -1,5 +1,6 @@
 events:
     event-wight-attack-castle-black:
+        title: "Wight Attack at Castle Black"
         type: battle
         date: "298"
         place: place-castle-black

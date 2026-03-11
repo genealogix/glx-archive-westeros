@@ -1,5 +1,6 @@
 events:
     event-birth-edwyn-frey:
+        title: "Birth of Edwyn Frey"
         type: birth
         participants:
             - person: person-edwyn-frey

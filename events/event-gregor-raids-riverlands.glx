@@ -1,5 +1,6 @@
 events:
     event-gregor-raids-riverlands:
+        title: "Gregor's Chevauchée"
         type: raid
         date: "298"
         place: place-the-riverlands

@@ -1,5 +1,6 @@
 events:
     event-birth-alyn-velaryon:
+        title: "Birth of Alyn Velaryon"
         type: birth
         participants:
             - person: person-alyn-velaryon

@@ -1,5 +1,6 @@
 events:
     event-marriage-jammos-frey-and-sallei-paege:
+        title: "Marriage of Jammos Frey and Sallei Paege"
         type: marriage
         participants:
             - person: person-jammos-frey

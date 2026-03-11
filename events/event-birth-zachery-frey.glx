@@ -1,5 +1,6 @@
 events:
     event-birth-zachery-frey:
+        title: "Birth of Zachery Frey"
         type: birth
         participants:
             - person: person-zachery-frey

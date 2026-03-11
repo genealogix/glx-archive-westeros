@@ -1,5 +1,6 @@
 events:
     event-marriage-stevron-frey-and-jeyne-lydden:
+        title: "Marriage of Stevron Frey and Jeyne Lydden"
         type: marriage
         participants:
             - person: person-stevron-frey

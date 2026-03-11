@@ -1,5 +1,6 @@
 events:
     event-birth-allyria-dayne:
+        title: "Birth of Allyria Dayne"
         type: birth
         participants:
             - person: person-allyria-dayne

@@ -1,5 +1,6 @@
 events:
     event-birth-melwys-rivers:
+        title: "Birth of Melwys Rivers"
         type: birth
         participants:
             - person: person-melwys-rivers

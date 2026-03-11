@@ -1,5 +1,6 @@
 events:
     event-birth-melara-crane:
+        title: "Birth of Melara Crane"
         type: birth
         participants:
             - person: person-melara-crane

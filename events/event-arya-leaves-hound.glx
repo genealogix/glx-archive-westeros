@@ -1,5 +1,6 @@
 events:
     event-arya-leaves-hound:
+        title: "Arya Leaves the Hound"
         type: separation
         date: "300"
         place: place-the-riverlands

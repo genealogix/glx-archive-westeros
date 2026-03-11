@@ -1,5 +1,6 @@
 events:
     event-marriage-flement-brax-and-morya-frey:
+        title: "Marriage of Flement Brax and Morya Frey"
         type: marriage
         participants:
             - person: person-flement-brax

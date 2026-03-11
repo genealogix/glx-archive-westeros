@@ -1,5 +1,6 @@
 events:
     event-birth-alyn-ambrose:
+        title: "Birth of Alyn Ambrose"
         type: birth
         participants:
             - person: person-alyn-ambrose

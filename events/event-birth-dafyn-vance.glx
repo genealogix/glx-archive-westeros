@@ -1,5 +1,6 @@
 events:
     event-birth-dafyn-vance:
+        title: "Birth of Dafyn Vance"
         type: birth
         participants:
             - person: person-dafyn-vance

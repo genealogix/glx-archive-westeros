@@ -1,5 +1,6 @@
 events:
     event-birth-harbert-baratheon:
+        title: "Birth of Ser Harbert Baratheon"
         type: birth
         participants:
             - person: person-harbert-baratheon

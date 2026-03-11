@@ -1,5 +1,6 @@
 events:
     event-birth-tommen-baratheon:
+        title: "Birth of Tommen Baratheon"
         type: birth
         date: "291"
         place: place-kings-landing

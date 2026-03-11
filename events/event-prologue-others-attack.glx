@@ -1,5 +1,6 @@
 events:
     event-prologue-others-attack:
+        title: "The Others Attack the Rangers"
         type: death
         date: "298"
         participants:

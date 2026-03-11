@@ -1,5 +1,6 @@
 events:
     event-birth-colin-florent:
+        title: "Birth of Ser Colin Florent"
         type: birth
         participants:
             - person: person-colin-florent

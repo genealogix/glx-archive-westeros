@@ -1,5 +1,6 @@
 events:
     event-birth-walda-rivers-152:
+        title: "Birth of Walda Rivers"
         type: birth
         participants:
             - person: person-walda-rivers-152

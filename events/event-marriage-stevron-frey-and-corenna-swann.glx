@@ -1,5 +1,6 @@
 events:
     event-marriage-stevron-frey-and-corenna-swann:
+        title: "Marriage of Stevron Frey and Corenna Swann"
         type: marriage
         participants:
             - person: person-stevron-frey

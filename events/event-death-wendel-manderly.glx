@@ -1,5 +1,6 @@
 events:
     event-death-wendel-manderly:
+        title: "Death of Wendel Manderly"
         type: death
         date: "299"
         place: place-the-twins

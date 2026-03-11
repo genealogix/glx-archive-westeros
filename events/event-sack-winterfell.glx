@@ -1,5 +1,6 @@
 events:
     event-sack-winterfell:
+        title: "The Burning of Winterfell"
         type: sack
         date: "299"
         place: place-winterfell

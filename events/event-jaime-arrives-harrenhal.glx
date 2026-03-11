@@ -1,5 +1,6 @@
 events:
     event-jaime-arrives-harrenhal:
+        title: "Jaime Arrives at Harrenhal"
         type: battle
         date: "299"
         place: place-harrenhal

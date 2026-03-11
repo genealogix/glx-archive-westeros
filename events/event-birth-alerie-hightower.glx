@@ -1,5 +1,6 @@
 events:
     event-birth-alerie-hightower:
+        title: "Birth of Alerie Hightower"
         type: birth
         participants:
             - person: person-alerie-hightower

@@ -1,5 +1,6 @@
 events:
     event-trial-sandor-clegane:
+        title: "Trial of Sandor Clegane"
         type: trial
         date: "299"
         place: place-hollow-hill

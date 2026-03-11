@@ -1,5 +1,6 @@
 events:
     event-death-elia-martell:
+        title: "Death of Elia Martell"
         type: death
         place: place-kings-landing
         participants:

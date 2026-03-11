@@ -1,5 +1,6 @@
 events:
     event-birth-hightower-425:
+        title: "Birth of Hightower"
         type: birth
         participants:
             - person: person-hightower-425

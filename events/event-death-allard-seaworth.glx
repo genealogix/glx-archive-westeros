@@ -1,5 +1,6 @@
 events:
     event-death-allard-seaworth:
+        title: "Death of Allard Seaworth"
         type: death
         date: "299"
         place: place-blackwater-bay

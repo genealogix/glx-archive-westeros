@@ -1,5 +1,6 @@
 events:
     event-rebellion-roberts:
+        title: "Robert's Rebellion"
         type: rebellion
         date: "BET 282 AND 283"
         place: place-westeros

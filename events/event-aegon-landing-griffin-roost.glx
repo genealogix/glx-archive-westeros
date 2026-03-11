@@ -1,5 +1,6 @@
 events:
     event-aegon-landing-griffin-roost:
+        title: "Aegon's Landing"
         type: conquest
         date: "300"
         place: place-griffins-roost

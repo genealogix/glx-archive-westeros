@@ -1,5 +1,6 @@
 events:
     event-stannis-arrives-wall:
+        title: "Stannis comes North"
         type: arrival
         date: "300"
         place: place-castle-black

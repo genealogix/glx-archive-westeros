@@ -1,5 +1,6 @@
 events:
     event-birth-florent:
+        title: "Birth of Florent"
         type: birth
         participants:
             - person: person-florent

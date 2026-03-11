@@ -1,5 +1,6 @@
 events:
     event-death-viserys-targaryen-ii:
+        title: "Death of Viserys Targaryen II"
         type: death
         participants:
             - person: person-viserys-targaryen-ii

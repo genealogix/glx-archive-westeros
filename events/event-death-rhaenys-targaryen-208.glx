@@ -1,5 +1,6 @@
 events:
     event-death-rhaenys-targaryen-208:
+        title: "Death of Rhaenys Targaryen"
         type: death
         participants:
             - person: person-rhaenys-targaryen-208

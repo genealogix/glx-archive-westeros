@@ -1,5 +1,6 @@
 events:
     event-brienne-hanged-by-stoneheart:
+        title: "Brienne Hanged by Lady Stoneheart"
         type: trial
         date: "300"
         participants:

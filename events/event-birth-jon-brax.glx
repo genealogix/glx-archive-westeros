@@ -1,5 +1,6 @@
 events:
     event-birth-jon-brax:
+        title: "Birth of Jon Brax"
         type: birth
         participants:
             - person: person-jon-brax

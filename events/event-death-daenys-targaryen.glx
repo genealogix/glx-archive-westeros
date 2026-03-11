@@ -1,5 +1,6 @@
 events:
     event-death-daenys-targaryen:
+        title: "Death of Daenys Targaryen"
         type: death
         participants:
             - person: person-daenys-targaryen

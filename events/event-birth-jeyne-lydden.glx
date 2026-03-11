@@ -1,5 +1,6 @@
 events:
     event-birth-jeyne-lydden:
+        title: "Birth of Jeyne Lydden"
         type: birth
         participants:
             - person: person-jeyne-lydden

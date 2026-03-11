@@ -1,5 +1,6 @@
 events:
     event-birth-steffon-frey:
+        title: "Birth of Steffon Frey"
         type: birth
         participants:
             - person: person-steffon-frey

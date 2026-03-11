@@ -1,5 +1,6 @@
 events:
     event-marriage-aegon-targaryen-i-the-conqueror-and-visen-742:
+        title: "Marriage of Aegon Targaryen I and Visenya Targaryen"
         type: marriage
         participants:
             - person: person-aegon-targaryen-i-the-conqueror

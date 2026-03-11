@@ -1,5 +1,6 @@
 events:
     event-birth-arwood-frey:
+        title: "Birth of Arwood Frey"
         type: birth
         participants:
             - person: person-arwood-frey

@@ -1,5 +1,6 @@
 events:
     event-marriage-renly-baratheon-and-loras-tyrell:
+        title: "Marriage of Renly Baratheon and Ser Loras Tyrell"
         type: marriage
         participants:
             - person: person-renly-baratheon

@@ -1,5 +1,6 @@
 events:
     event-birth-gormon-tyrell:
+        title: "Birth of Maester Gormon Tyrell"
         type: birth
         participants:
             - person: person-gormon-tyrell

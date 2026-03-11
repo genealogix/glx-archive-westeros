@@ -1,5 +1,6 @@
 events:
     event-birth-leslyn-haigh:
+        title: "Birth of Leslyn Haigh"
         type: birth
         participants:
             - person: person-leslyn-haigh

@@ -1,5 +1,6 @@
 events:
     event-birth-daeron-targaryen-i:
+        title: "Birth of Daeron Targaryen I"
         type: birth
         participants:
             - person: person-daeron-targaryen-i

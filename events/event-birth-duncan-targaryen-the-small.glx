@@ -1,5 +1,6 @@
 events:
     event-birth-duncan-targaryen-the-small:
+        title: "Birth of Duncan Targaryen"
         type: birth
         participants:
             - person: person-duncan-targaryen-the-small

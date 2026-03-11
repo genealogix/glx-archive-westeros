@@ -1,5 +1,6 @@
 events:
     event-trial-by-combat-eyrie:
+        title: "Trial by Combat at the Eyrie"
         type: trial
         date: "298"
         place: place-the-eyrie

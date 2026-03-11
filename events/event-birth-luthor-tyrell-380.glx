@@ -1,5 +1,6 @@
 events:
     event-birth-luthor-tyrell-380:
+        title: "Birth of Luthor Tyrell"
         type: birth
         participants:
             - person: person-luthor-tyrell-380

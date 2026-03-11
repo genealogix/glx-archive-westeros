@@ -1,5 +1,6 @@
 events:
     event-cersei-assumes-regency:
+        title: "Cersei Assumes the Regency"
         type: coronation
         date: "300"
         place: place-kings-landing

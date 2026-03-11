@@ -1,5 +1,6 @@
 events:
     event-birth-daenerys-targaryen-304:
+        title: "Birth of Daenerys Targaryen"
         type: birth
         date: "284"
         place: place-dragonstone

@@ -1,5 +1,6 @@
 events:
     event-birth-sarella-sand:
+        title: "Birth of Sarella Sand"
         type: birth
         participants:
             - person: person-sarella-sand

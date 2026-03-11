@@ -1,5 +1,6 @@
 events:
     event-birth-jared-frey:
+        title: "Birth of Jared Frey"
         type: birth
         participants:
             - person: person-jared-frey

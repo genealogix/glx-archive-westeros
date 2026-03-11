@@ -1,5 +1,6 @@
 events:
     event-birth-elyana-vypren:
+        title: "Birth of Elyana Vypren"
         type: birth
         participants:
             - person: person-elyana-vypren

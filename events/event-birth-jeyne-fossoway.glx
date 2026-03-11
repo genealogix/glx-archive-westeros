@@ -1,5 +1,6 @@
 events:
     event-birth-jeyne-fossoway:
+        title: "Birth of Jeyne Fossoway"
         type: birth
         participants:
             - person: person-jeyne-fossoway

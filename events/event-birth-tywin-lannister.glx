@@ -1,5 +1,6 @@
 events:
     event-birth-tywin-lannister:
+        title: "Birth of Tywin Lannister"
         type: birth
         date: "242"
         place: place-casterly-rock

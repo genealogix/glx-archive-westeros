@@ -1,5 +1,6 @@
 events:
     event-marriage-daeron-targaryen-ii-and-myriah-martell:
+        title: "Marriage of Daeron Targaryen II and Myriah Martell"
         type: marriage
         participants:
             - person: person-daeron-targaryen-ii

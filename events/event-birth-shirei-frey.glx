@@ -1,5 +1,6 @@
 events:
     event-birth-shirei-frey:
+        title: "Birth of Shirei Frey"
         type: birth
         participants:
             - person: person-shirei-frey

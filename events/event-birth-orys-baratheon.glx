@@ -1,5 +1,6 @@
 events:
     event-birth-orys-baratheon:
+        title: "Birth of Orys Baratheon"
         type: birth
         participants:
             - person: person-orys-baratheon

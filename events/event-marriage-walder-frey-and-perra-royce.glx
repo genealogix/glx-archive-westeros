@@ -1,5 +1,6 @@
 events:
     event-marriage-walder-frey-and-perra-royce:
+        title: "Marriage of Walder Frey and Perra Royce"
         type: marriage
         participants:
             - person: person-walder-frey

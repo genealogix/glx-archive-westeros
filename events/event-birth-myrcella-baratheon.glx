@@ -1,5 +1,6 @@
 events:
     event-birth-myrcella-baratheon:
+        title: "Birth of Myrcella Baratheon"
         type: birth
         participants:
             - person: person-myrcella-baratheon

@@ -1,5 +1,6 @@
 events:
     event-birth-merrell-florent:
+        title: "Birth of Merrell Florent"
         type: birth
         participants:
             - person: person-merrell-florent

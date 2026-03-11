@@ -1,5 +1,6 @@
 events:
     event-birth-merrett-frey:
+        title: "Birth of Merrett Frey"
         type: birth
         participants:
             - person: person-merrett-frey

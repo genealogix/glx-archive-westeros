@@ -1,5 +1,6 @@
 events:
     event-execution-brandon-rickard-stark:
+        title: "Execution of Brandon and Rickard Stark"
         type: execution
         date: "282"
         place: place-kings-landing

@@ -1,5 +1,6 @@
 events:
     event-birth-hardyng:
+        title: "Birth of Ser Hardyng"
         type: birth
         participants:
             - person: person-hardyng

@@ -1,5 +1,6 @@
 events:
     event-birth-anya-waynwood:
+        title: "Birth of Anya Waynwood"
         type: birth
         participants:
             - person: person-anya-waynwood

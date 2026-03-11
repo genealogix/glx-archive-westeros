@@ -1,5 +1,6 @@
 events:
     event-death-velaryon:
+        title: "Death of Velaryon"
         type: death
         participants:
             - person: person-velaryon

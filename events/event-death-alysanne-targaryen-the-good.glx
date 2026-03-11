@@ -1,5 +1,6 @@
 events:
     event-death-alysanne-targaryen-the-good:
+        title: "Death of Alysanne Targaryen"
         type: death
         participants:
             - person: person-alysanne-targaryen-the-good
