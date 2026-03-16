@@ -1,0 +1,11 @@
+assertions:
+    assertion-petyr-religion-faith:
+        subject:
+            person: person-petyr-baelish
+        property: religion
+        value: "Faith of the Seven"
+        citations:
+            - citation-awoiaf-petyr-baelish
+        confidence: medium
+        status: accepted
+        notes: "As a Valeman raised at Riverrun, Petyr follows the Faith of the Seven by default. He married Lysa Arryn in a ceremony before a septon. No explicit statement of devout faith."

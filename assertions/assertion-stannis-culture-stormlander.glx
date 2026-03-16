@@ -1,0 +1,12 @@
+assertions:
+    assertion-stannis-culture-stormlander:
+        subject:
+            person: person-stannis-baratheon
+        property: culture
+        value: "Stormlander"
+        citations:
+            - citation-awoiaf-stannis-baratheon
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "Born at Storm's End. Second son of Steffon Baratheon, Lord of Storm's End. House Baratheon rules the Stormlands."

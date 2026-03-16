@@ -1,0 +1,12 @@
+assertions:
+  assertion-tywin-died-at-kings-landing:
+    subject:
+      person: person-tywin-lannister
+    property: died_at
+    value: "place-kings-landing"
+    citations:
+      - citation-asos-tyrion-xi
+      - citation-awoiaf-tywin-lannister
+    confidence: high
+    status: proven
+    notes: "Tywin was killed by Tyrion in the Tower of the Hand at King's Landing. ASOS Tyrion XI: Tyrion shot Tywin with a crossbow while he sat on the privy. AWOIAF wiki confirms: Died 300 AC, Tower of the Hand, King's Landing."

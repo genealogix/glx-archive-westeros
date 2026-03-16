@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-alias-the-ned:
+        subject:
+            person: person-eddard-stark
+        property: alias
+        value: "The Ned"
+        citations:
+            - citation-awoiaf-eddard-stark
+        confidence: high
+        status: proven
+        notes: "Northern lords and smallfolk refer to Eddard Stark as 'the Ned' — a Northern colloquialism expressing respect and familiarity. Used in ADWD by northern characters remembering Lord Stark. Per AWOIAF infobox, referenced in ADWD The Prince of Winterfell."

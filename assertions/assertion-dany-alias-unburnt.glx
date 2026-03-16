@@ -1,0 +1,12 @@
+assertions:
+    assertion-dany-alias-unburnt:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: alias
+        value: "The Unburnt"
+        citations:
+            - citation-acok-appendix
+            - citation-awoiaf-daenerys-targaryen
+        confidence: high
+        status: proven
+        notes: "ACOK Appendix: 'the Unburnt.' Daenerys walked into Khal Drogo's funeral pyre and emerged unburned with three living dragons."

@@ -1,0 +1,7 @@
+citations:
+    citation-asos-sansa-v:
+        source: source-asos
+        properties:
+            locator: "Sansa V"
+            accessed: "2026-03-15"
+        notes: "Sansa arrives at the Fingers with Petyr Baelish after fleeing King's Landing."

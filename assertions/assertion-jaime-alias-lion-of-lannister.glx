@@ -1,0 +1,12 @@
+assertions:
+  assertion-jaime-alias-lion-of-lannister:
+    subject:
+      person: person-jaime-lannister
+    property: alias
+    value: "The Lion of Lannister"
+    citations:
+      - citation-agot-appendix
+      - citation-awoiaf-jaime-lannister
+    confidence: high
+    status: accepted
+    notes: "AGOT Appendix, House Lannister section: 'SER JAIME, called the Kingslayer, the Lion of Lannister, heir to Casterly Rock.' One of his earliest aliases."

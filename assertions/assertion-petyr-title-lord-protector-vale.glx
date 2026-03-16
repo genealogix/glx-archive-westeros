@@ -1,0 +1,12 @@
+assertions:
+    assertion-petyr-title-lord-protector-vale:
+        subject:
+            person: person-petyr-baelish
+        property: title
+        value: "Lord Protector of the Eyrie and the Vale of Arryn"
+        citations:
+            - citation-affc-alayne-i
+            - citation-awoiaf-petyr-baelish
+        confidence: high
+        status: proven
+        notes: "After marrying Lysa Arryn and then murdering her by pushing her through the Moon Door, Petyr assumed the role of Lord Protector of the Vale, guardian of young Robert Arryn. From 300 AC."

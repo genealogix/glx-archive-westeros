@@ -1,0 +1,12 @@
+assertions:
+    assertion-sandor-house-clegane:
+        subject:
+            person: person-sandor-clegane
+        property: house
+        value: "Clegane"
+        citations:
+            - citation-agot-appendix
+            - citation-awoiaf-sandor-clegane
+        confidence: high
+        status: proven
+        notes: "Member of House Clegane, a minor house of the westerlands sworn to House Lannister. Younger brother of Ser Gregor Clegane."

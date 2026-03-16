@@ -1,0 +1,11 @@
+assertions:
+  assertion-jenny-oldstones-culture:
+    subject:
+      person: person-jenny-of-oldstones
+    property: culture
+    value: "Rivermen"
+    citations:
+      - citation-awoiaf-jenny-of-oldstones
+    confidence: high
+    status: proven
+    notes: "Jenny dwelt among the ruins of Oldstones in the riverlands. Rivermen culture per AWOIAF."

@@ -1,0 +1,12 @@
+assertions:
+    assertion-sansa-alias-alayne-stone:
+        subject:
+            person: person-sansa-stark
+        property: alias
+        value: "Alayne Stone"
+        citations:
+            - citation-affc-sansa-i
+            - citation-awoiaf-sansa-stark
+        confidence: high
+        status: proven
+        notes: "After fleeing King's Landing with Petyr Baelish's help, Sansa assumes the identity of Alayne Stone, supposedly Littlefinger's bastard daughter. She dyes her auburn hair brown to conceal her Tully coloring. The alias is first used in ASOS and continues as her identity through AFFC and into TWOW."

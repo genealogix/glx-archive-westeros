@@ -1,0 +1,11 @@
+assertions:
+  assertion-alliser-thorne-gender:
+    subject:
+      person: person-alliser-thorne
+    property: gender
+    value: "male"
+    citations:
+      - citation-agot-jon-iii
+    confidence: high
+    status: proven
+    notes: "Alliser Thorne is male; referred to as Ser throughout the novels."

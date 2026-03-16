@@ -1,0 +1,11 @@
+assertions:
+  assertion-harren-black-gender:
+    subject:
+      person: person-harren-the-black
+    property: gender
+    value: "male"
+    citations:
+      - citation-twoiaf-conquest
+    confidence: high
+    status: proven
+    notes: "Harren Hoare is male; referred to as King throughout historical accounts."

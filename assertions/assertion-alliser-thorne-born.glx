@@ -1,0 +1,11 @@
+assertions:
+  assertion-alliser-thorne-born:
+    subject:
+      person: person-alliser-thorne
+    property: born_on
+    value: "BET 247 AND 248"
+    citations:
+      - citation-awoiaf-alliser-thorne
+    confidence: medium
+    status: proven
+    notes: "Born 247 or 248 AC in the Crownlands. Calculated from his age of approximately fifty years in AGOT (298 AC)."

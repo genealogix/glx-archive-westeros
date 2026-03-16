@@ -1,0 +1,11 @@
+assertions:
+  assertion-high-sparrow-religion:
+    subject:
+      person: person-high-sparrow
+    property: religion
+    value: "Faith of the Seven"
+    citations:
+      - citation-affc-cersei-vi
+    confidence: high
+    status: proven
+    notes: "A devout septon who became High Septon; his entire identity is defined by the Faith of the Seven."

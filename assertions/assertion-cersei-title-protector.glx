@@ -1,0 +1,12 @@
+assertions:
+  assertion-cersei-title-protector:
+    subject:
+      person: person-cersei-lannister
+    property: title
+    value: "Protector of the Realm"
+    citations:
+      - citation-acok-appendix
+      - citation-affc-appendix
+    confidence: high
+    status: accepted
+    notes: "ACOK Appendix: 'QUEEN CERSEI, Queen Regent and Protector of the Realm.' AFFC Appendix confirms continuation: 'Protector of the Realm.' Cersei assumed this title after Robert's death."

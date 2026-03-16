@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-alias-usurper:
+        subject:
+            person: person-robert-baratheon-i
+        property: alias
+        value: "The Usurper"
+        citations:
+            - citation-agot-daenerys-i
+            - citation-awoiaf-robert-baratheon
+        confidence: high
+        status: proven
+        notes: "Viserys Targaryen and Targaryen loyalists refer to Robert as 'the Usurper' for taking the Iron Throne from House Targaryen. AGOT Daenerys I: Viserys repeatedly calls him 'the Usurper.'"

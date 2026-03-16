@@ -1,0 +1,12 @@
+assertions:
+    assertion-sandor-cause-of-death:
+        subject:
+            person: person-sandor-clegane
+        property: cause_of_death
+        value: "Left to die of wound fever (supposedly)"
+        citations:
+            - citation-asos-arya-xiii
+            - citation-affc-brienne-vii
+        confidence: medium
+        status: disputed
+        notes: "After the fight at the crossroads inn, Sandor was badly wounded. He begged Arya to give him mercy, but she left him to die. ASOS Arya XIII: 'He watched the blood run down his leg, and said, \"Do you remember where the heart is?\"' The Elder Brother on the Quiet Isle claimed to have found him near death and that 'The Hound' died. Whether Sandor himself survived as the gravedigger is deliberately ambiguous."

@@ -1,0 +1,12 @@
+assertions:
+  assertion-jaime-title-lord-commander:
+    subject:
+      person: person-jaime-lannister
+    property: title
+    value: "Lord Commander of the Kingsguard"
+    citations:
+      - citation-acok-appendix
+      - citation-asos-appendix
+    confidence: high
+    status: accepted
+    notes: "ACOK Appendix: 'SER JAIME LANNISTER, the Kingslayer, Lord Commander of the Kingsguard, a captive at Riverrun.' Jaime was named Lord Commander after the death of Ser Barristan Selmy (dismissed from the Kingsguard)."

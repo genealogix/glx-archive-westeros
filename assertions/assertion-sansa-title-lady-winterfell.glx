@@ -1,0 +1,12 @@
+assertions:
+    assertion-sansa-title-lady-winterfell:
+        subject:
+            person: person-sansa-stark
+        property: title
+        value: "Lady of Winterfell"
+        citations:
+            - citation-asos-sansa-iii
+            - citation-awoiaf-sansa-stark
+        confidence: high
+        status: accepted
+        notes: "Sansa is styled Lady of Winterfell after her marriage to Tyrion Lannister in ASOS. The Lannisters intend to claim the North through this marriage. Per AWOIAF infobox, referenced in ASOS Sansa III and ASOS Sansa VII. ASOS Sansa III: Tyrion tells her the marriage will make her Lady of Winterfell."

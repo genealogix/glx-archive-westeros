@@ -1,0 +1,12 @@
+assertions:
+    assertion-petyr-title-master-of-coin:
+        subject:
+            person: person-petyr-baelish
+        property: title
+        value: "Master of Coin"
+        citations:
+            - citation-agot-appendix
+            - citation-acok-tyrion-iii
+        confidence: high
+        status: proven
+        notes: "AGOT Appendix: 'PETYR BAELISH, called LITTLEFINGER, master of coin.' Served on the small council of King Robert I Baratheon. Within three years of arriving at King's Landing, he had risen to master of coin. Held position from approximately 289 to 299 AC."

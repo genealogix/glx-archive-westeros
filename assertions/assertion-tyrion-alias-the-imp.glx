@@ -1,0 +1,12 @@
+assertions:
+  assertion-tyrion-alias-the-imp:
+    subject:
+      person: person-tyrion-lannister
+    property: alias
+    value: "The Imp"
+    citations:
+      - citation-agot-appendix
+      - citation-agot-tyrion-i
+    confidence: high
+    status: accepted
+    notes: "AGOT Appendix: 'TYRION, called the Imp, a dwarf.' His most common alias, used throughout the entire series. In AGOT Tyrion I, Jon Snow first introduces himself to Tyrion by this name."

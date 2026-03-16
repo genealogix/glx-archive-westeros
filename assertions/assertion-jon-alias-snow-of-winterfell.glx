@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-alias-snow-of-winterfell:
+        subject:
+            person: person-jon-snow
+        property: alias
+        value: "The Snow of Winterfell"
+        citations:
+            - citation-awoiaf-jon-snow
+        confidence: high
+        status: proven
+        notes: "Used by wildlings and others to identify Jon Snow. Per AWOIAF infobox, referenced in ASOS Jon VII. Distinguishes him from other bastards bearing the surname Snow."

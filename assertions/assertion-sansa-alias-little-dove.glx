@@ -1,0 +1,11 @@
+assertions:
+    assertion-sansa-alias-little-dove:
+        subject:
+            person: person-sansa-stark
+        property: alias
+        value: "Little Dove"
+        citations:
+            - citation-awoiaf-sansa-stark
+        confidence: high
+        status: proven
+        notes: "Cersei Lannister refers to Sansa as 'little dove' throughout ACOK and ASOS, a seemingly affectionate but patronizing term."

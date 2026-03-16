@@ -1,0 +1,12 @@
+assertions:
+  assertion-jaime-alias-golden-man:
+    subject:
+      person: person-jaime-lannister
+    property: alias
+    value: "The Golden Man"
+    citations:
+      - citation-acok-catelyn-v
+      - citation-awoiaf-jaime-lannister
+    confidence: high
+    status: accepted
+    notes: "Per AWOIAF wiki: 'The golden man' is used to describe Jaime, referencing his golden hair and handsome appearance. Referenced in ACOK Catelyn chapters when she visits Jaime in his cell at Riverrun."

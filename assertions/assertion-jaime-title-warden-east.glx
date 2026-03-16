@@ -1,0 +1,12 @@
+assertions:
+  assertion-jaime-title-warden-east:
+    subject:
+      person: person-jaime-lannister
+    property: title
+    value: "Warden of the East"
+    citations:
+      - citation-asos-appendix
+      - citation-awoiaf-jaime-lannister
+    confidence: high
+    status: accepted
+    notes: "Per AWOIAF wiki and appendix references, Jaime was briefly named Warden of the East during ASOS/AFFC, a title normally held by the Arryns. The appointment was later rescinded."

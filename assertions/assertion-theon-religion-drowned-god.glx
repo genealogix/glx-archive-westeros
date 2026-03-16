@@ -1,0 +1,12 @@
+assertions:
+    assertion-theon-religion-drowned-god:
+        subject:
+            person: person-theon-greyjoy
+        property: religion
+        value: "Drowned God"
+        citations:
+            - citation-acok-theon-i
+            - citation-awoiaf-theon-greyjoy
+        confidence: medium
+        status: accepted
+        notes: "Theon was blessed with seawater by his uncle Aeron Damphair upon returning to Pyke. AWOIAF notes he is 'not particularly religious' but culturally follows the Drowned God as an ironborn."

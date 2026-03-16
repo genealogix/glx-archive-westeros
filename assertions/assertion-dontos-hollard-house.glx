@@ -1,0 +1,11 @@
+assertions:
+  assertion-dontos-hollard-house:
+    subject:
+      person: person-dontos-hollard
+    property: house
+    value: "Hollard"
+    citations:
+      - citation-awoiaf-dontos-hollard
+    confidence: high
+    status: proven
+    notes: "Last surviving member of House Hollard, a Crownlands house destroyed after the Defiance of Duskendale. Only Dontos was spared at Barristan Selmy's request."

@@ -1,0 +1,11 @@
+assertions:
+  assertion-daenys-dreamer-title:
+    subject:
+      person: person-daenys-the-dreamer
+    property: title
+    value: "Lady of Dragonstone"
+    citations:
+      - citation-awoiaf-daenys-targaryen
+    confidence: high
+    status: proven
+    notes: "Lady of Dragonstone through her marriage to her brother Gaemon Targaryen, who became Lord of Dragonstone after their father Aenar."

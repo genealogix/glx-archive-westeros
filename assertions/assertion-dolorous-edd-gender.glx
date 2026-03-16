@@ -1,0 +1,11 @@
+assertions:
+  assertion-dolorous-edd-gender:
+    subject:
+      person: person-dolorous-edd
+    property: gender
+    value: "male"
+    citations:
+      - citation-awoiaf-eddison-tollett
+    confidence: high
+    status: proven
+    notes: "Eddison Tollett is male; referred to as a brother of the Night's Watch throughout."

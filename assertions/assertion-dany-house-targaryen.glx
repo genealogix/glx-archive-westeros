@@ -1,0 +1,12 @@
+assertions:
+    assertion-dany-house-targaryen:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: house
+        value: "Targaryen"
+        citations:
+            - citation-agot-appendix
+            - citation-awoiaf-daenerys-targaryen
+        confidence: high
+        status: proven
+        notes: "Youngest child of King Aerys II Targaryen. AGOT Appendix lists her under House Targaryen: 'PRINCESS DAENERYS, called Daenerys Stormborn, a maid of thirteen years.'"

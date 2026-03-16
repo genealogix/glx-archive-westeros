@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-alias-white-wolf:
+        subject:
+            person: person-jon-snow
+        property: alias
+        value: "The White Wolf"
+        citations:
+            - citation-awoiaf-jon-snow
+        confidence: medium
+        status: accepted
+        notes: "Jon Snow is associated with Ghost, his white albino direwolf. The alias 'The White Wolf' appears in show canon (HBO Game of Thrones) where it is used as a title by the Northern lords. In the novels, the association with Ghost and his Stark heritage inform the nickname. Per AWOIAF."

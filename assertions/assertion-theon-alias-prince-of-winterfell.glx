@@ -1,0 +1,12 @@
+assertions:
+    assertion-theon-alias-prince-of-winterfell:
+        subject:
+            person: person-theon-greyjoy
+        property: alias
+        value: "Prince of Winterfell"
+        citations:
+            - citation-acok-theon-iii
+            - citation-affc-appendix
+        confidence: high
+        status: proven
+        notes: "Theon styled himself Prince of Winterfell after capturing the castle in 299 AC. AFFC Appendix: 'THEON, styling himself the Prince of Winterfell.'"

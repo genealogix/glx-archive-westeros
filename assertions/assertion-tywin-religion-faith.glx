@@ -1,0 +1,12 @@
+assertions:
+  assertion-tywin-religion-faith:
+    subject:
+      person: person-tywin-lannister
+    property: religion
+    value: "Faith of the Seven"
+    citations:
+      - citation-agot-appendix
+      - citation-awoiaf-tywin-lannister
+    confidence: high
+    status: accepted
+    notes: "Tywin follows the Faith of the Seven as the lord of a major Westerosi house. His funeral in AFFC features the silent sisters and the rites of the Faith. He was buried at Casterly Rock following the traditional sept ceremony."

@@ -1,0 +1,12 @@
+assertions:
+    assertion-jon-house-stark:
+        subject:
+            person: person-jon-snow
+        property: house
+        value: "Stark"
+        citations:
+            - citation-agot-appendix
+            - citation-awoiaf-jon-snow
+        confidence: high
+        status: accepted
+        notes: "AGOT Appendix lists Jon Snow under House Stark: 'his bastard son, JON SNOW, a boy of fourteen.' While not a trueborn Stark (he bears the bastard surname Snow), he is raised as part of the Stark household and his primary allegiance is House Stark. AWOIAF lists his allegiance as House Stark and Night's Watch."

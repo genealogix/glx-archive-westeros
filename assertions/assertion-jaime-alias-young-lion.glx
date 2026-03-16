@@ -1,0 +1,12 @@
+assertions:
+  assertion-jaime-alias-young-lion:
+    subject:
+      person: person-jaime-lannister
+    property: alias
+    value: "The Young Lion"
+    citations:
+      - citation-affc-cersei-v
+      - citation-awoiaf-jaime-lannister
+    confidence: high
+    status: accepted
+    notes: "Per AWOIAF wiki: Jaime was known as 'The Young Lion' in his youth, referencing his early prowess and his role as the youngest-ever Kingsguard member. Referenced in AFFC Cersei V (Jaime VIII)."

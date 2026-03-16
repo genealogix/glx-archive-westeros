@@ -1,0 +1,12 @@
+assertions:
+  assertion-alleras-sphinx-house:
+    subject:
+      person: person-alleras-sphinx
+    property: house
+    value: "Martell"
+    citations:
+      - citation-affc-prologue
+      - citation-awoiaf-alleras
+    confidence: medium
+    status: speculative
+    notes: "If Alleras is Sarella Sand (Oberyn Martell's bastard daughter), then Martell is correct. The text strongly implies but does not explicitly confirm this identity. 'Alleras' is 'Sarella' spelled backwards. Oberyn's daughters are described as being sent to various locations in AFFC, with Sarella said to be 'playing a game' in Oldtown."

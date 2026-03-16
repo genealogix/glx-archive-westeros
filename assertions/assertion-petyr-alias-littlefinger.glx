@@ -1,0 +1,13 @@
+assertions:
+    assertion-petyr-alias-littlefinger:
+        subject:
+            person: person-petyr-baelish
+        property: alias
+        value: "Littlefinger"
+        citations:
+            - citation-agot-appendix
+            - citation-agot-catelyn-iv
+            - citation-awoiaf-petyr-baelish
+        confidence: high
+        status: proven
+        notes: "AGOT Appendix: 'PETYR BAELISH, called LITTLEFINGER, master of coin.' The nickname was given to him in his youth by Edmure Tully on account of his short size and slender build, as well as the small size and location of his family's holdings on the smallest peninsula of the Fingers."

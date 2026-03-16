@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-alias-lord-crow:
+        subject:
+            person: person-jon-snow
+        property: alias
+        value: "Lord Crow"
+        citations:
+            - citation-awoiaf-jon-snow
+        confidence: high
+        status: proven
+        notes: "The wildlings call Jon 'Lord Crow' as a mocking term combining his status as Lord Commander with the wildling epithet for Night's Watch men ('crows'). Per AWOIAF infobox, referenced in ADWD Jon VII (Tormund Giantsbane's chapters)."

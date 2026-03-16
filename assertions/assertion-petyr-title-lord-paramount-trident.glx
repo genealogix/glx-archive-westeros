@@ -1,0 +1,12 @@
+assertions:
+    assertion-petyr-title-lord-paramount-trident:
+        subject:
+            person: person-petyr-baelish
+        property: title
+        value: "Lord Paramount of the Trident"
+        citations:
+            - citation-asos-sansa-iii
+            - citation-awoiaf-petyr-baelish
+        confidence: high
+        status: proven
+        notes: "Granted along with Harrenhal after brokering the Tyrell-Lannister alliance. From 299 AC."

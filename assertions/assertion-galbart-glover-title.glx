@@ -1,0 +1,12 @@
+assertions:
+  assertion-galbart-glover-title:
+    subject:
+      person: person-galbart-glover
+    property: title
+    value: "Master of Deepwood Motte"
+    citations:
+      - citation-asos-appendix
+      - citation-awoiaf-galbart-glover
+    confidence: high
+    status: proven
+    notes: "Master of Deepwood Motte, the seat of House Glover in the Wolfswood. Listed in ASOS Appendix."

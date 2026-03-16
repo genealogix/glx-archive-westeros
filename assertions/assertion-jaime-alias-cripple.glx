@@ -1,0 +1,12 @@
+assertions:
+  assertion-jaime-alias-cripple:
+    subject:
+      person: person-jaime-lannister
+    property: alias
+    value: "Cripple"
+    citations:
+      - citation-asos-jaime-iv
+      - citation-awoiaf-jaime-lannister
+    confidence: high
+    status: accepted
+    notes: "After losing his sword hand to Zollo at Vargo Hoat's command, Jaime is called 'cripple' by various characters. The alias reflects the destruction of his identity as Westeros's greatest swordsman."

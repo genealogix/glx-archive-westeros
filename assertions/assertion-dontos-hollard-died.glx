@@ -1,0 +1,12 @@
+assertions:
+  assertion-dontos-hollard-died:
+    subject:
+      person: person-dontos-hollard
+    property: died_on
+    value: "300"
+    citations:
+      - citation-asos-sansa-vi
+      - citation-awoiaf-dontos-hollard
+    confidence: high
+    status: proven
+    notes: "Killed on the first day of 300 AC in Blackwater Bay by crossbow bolts fired on Littlefinger's orders, after helping Sansa escape King's Landing following Joffrey's death."

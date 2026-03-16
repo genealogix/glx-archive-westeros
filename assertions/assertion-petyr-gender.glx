@@ -1,0 +1,11 @@
+assertions:
+    assertion-petyr-gender:
+        subject:
+            person: person-petyr-baelish
+        property: gender
+        value: "male"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "Listed as a lord and male throughout all sources."

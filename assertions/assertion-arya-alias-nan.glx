@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-alias-nan:
+        subject:
+            person: person-arya-stark
+        property: alias
+        value: "Nan"
+        citations:
+            - citation-acok-appendix
+        confidence: high
+        status: proven
+        notes: "Identity used by Arya while serving as cupbearer to Roose Bolton at Harrenhal. She calls herself 'Nan' when Bolton asks her name."

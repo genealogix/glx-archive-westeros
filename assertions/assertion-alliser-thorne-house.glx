@@ -1,0 +1,11 @@
+assertions:
+  assertion-alliser-thorne-house:
+    subject:
+      person: person-alliser-thorne
+    property: house
+    value: "Thorne"
+    citations:
+      - citation-awoiaf-alliser-thorne
+    confidence: high
+    status: proven
+    notes: "Knight of House Thorne of the Crownlands."

@@ -1,0 +1,12 @@
+assertions:
+    assertion-dany-alias-mother-of-dragons:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: alias
+        value: "Mother of Dragons"
+        citations:
+            - citation-acok-appendix
+            - citation-awoiaf-daenerys-targaryen
+        confidence: high
+        status: proven
+        notes: "ACOK Appendix: 'DAENERYS TARGARYEN, called Daenerys Stormborn, the Unburnt, Mother of Dragons.' Earned after hatching three dragon eggs in Khal Drogo's funeral pyre."

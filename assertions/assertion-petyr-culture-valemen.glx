@@ -1,0 +1,11 @@
+assertions:
+    assertion-petyr-culture-valemen:
+        subject:
+            person: person-petyr-baelish
+        property: culture
+        value: "Valemen"
+        citations:
+            - citation-awoiaf-petyr-baelish
+        confidence: high
+        status: proven
+        notes: "AWOIAF lists Petyr's culture as Valemen. Born in the Fingers, the Vale of Arryn. His family held a small holding on the smallest of the Fingers."

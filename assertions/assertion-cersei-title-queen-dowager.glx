@@ -1,0 +1,11 @@
+assertions:
+  assertion-cersei-title-queen-dowager:
+    subject:
+      person: person-cersei-lannister
+    property: title
+    value: "Queen Dowager"
+    citations:
+      - citation-affc-appendix
+    confidence: high
+    status: accepted
+    notes: "AFFC Appendix: 'CERSEI LANNISTER, the First of Her Name, widow of King Robert I Baratheon, Queen Dowager, Protector of the Realm, Lady of Casterly Rock, and Queen Regent.' Cersei became Queen Dowager upon Robert's death in 298 AC."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-alias-great-lord-snow:
+        subject:
+            person: person-jon-snow
+        property: alias
+        value: "The Great Lord Snow"
+        citations:
+            - citation-awoiaf-jon-snow
+        confidence: high
+        status: proven
+        notes: "Sarcastic title used by Sam Tarly in AFFC Sam I when talking about Jon's new status as Lord Commander. Per AWOIAF infobox, referenced in AFFC Samwell I."

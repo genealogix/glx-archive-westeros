@@ -12,6 +12,9 @@ persons:
                 - value: "Black Harren"
             gender: "male"
             house: "Hoare"
+            died_on: "BET -2 AND -1"
+            cause_of_death: "At War"
+            culture: "Ironborn"
             title:
                 - value: "King of the Isles and the Rivers"
         notes: "Last king of House Hoare. Grandson of Harwyn Hardhand, who took the Trident from Argilac's grandsire Arrec. Harren inherited vast domains stretching from the Iron Islands through the riverlands to Duskendale and Rosby. He devoted most of his forty-year reign to building Harrenhal beside the Gods Eye — the largest castle ever raised in Westeros — completing it on the very day Aegon landed at the mouth of the Blackwater. Known for cruelty: 'No king in Westeros was more feared than Black Harren, whose cruelty had become legendary.' The riverlords, whom he had taxed and worked to death building Harrenhal, rose against him when Aegon arrived. Lord Edmyn Tully defected, and one by one the riverlords declared for Aegon. Harren took refuge in Harrenhal, boasting 'stone does not burn,' but Aegon flew Balerion high above the clouds and descended within the castle walls, melting the towers and burning Harren and his sons alive."

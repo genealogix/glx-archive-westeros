@@ -1,0 +1,12 @@
+assertions:
+    assertion-petyr-title-lord-harrenhal:
+        subject:
+            person: person-petyr-baelish
+        property: title
+        value: "Lord of Harrenhal"
+        citations:
+            - citation-asos-sansa-iii
+            - citation-awoiaf-petyr-baelish
+        confidence: high
+        status: proven
+        notes: "Petyr was granted Harrenhal by the crown in reward for brokering the Tyrell-Lannister alliance before the Battle of the Blackwater. This elevated him to Lord Paramount of the Trident."

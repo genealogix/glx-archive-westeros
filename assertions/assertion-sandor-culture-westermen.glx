@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-culture-westermen:
+        subject:
+            person: person-sandor-clegane
+        property: culture
+        value: "Westermen"
+        citations:
+            - citation-awoiaf-sandor-clegane
+        confidence: high
+        status: proven
+        notes: "AWOIAF lists culture as Westermen. Born in the westerlands. House Clegane's keep is in the westerlands, sworn to House Lannister."

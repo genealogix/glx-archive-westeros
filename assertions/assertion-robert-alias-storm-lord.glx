@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-alias-storm-lord:
+        subject:
+            person: person-robert-baratheon-i
+        property: alias
+        value: "The Storm Lord"
+        citations:
+            - citation-awoiaf-robert-baratheon
+        confidence: high
+        status: proven
+        notes: "As Lord of Storm's End before becoming king, Robert was known as the storm lord. Referenced in ASOS."

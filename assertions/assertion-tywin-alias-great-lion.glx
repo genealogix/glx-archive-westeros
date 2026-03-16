@@ -1,0 +1,11 @@
+assertions:
+  assertion-tywin-alias-great-lion:
+    subject:
+      person: person-tywin-lannister
+    property: alias
+    value: "The Great Lion of the Rock"
+    citations:
+      - citation-awoiaf-tywin-lannister
+    confidence: high
+    status: accepted
+    notes: "Per AWOIAF wiki infobox: 'The great lion of the rock.' A common epithet used to describe Tywin's status as the preeminent Lannister of his generation. Referenced in ASOS Tyrion IV."

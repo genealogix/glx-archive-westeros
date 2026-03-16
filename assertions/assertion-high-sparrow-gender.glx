@@ -1,0 +1,11 @@
+assertions:
+  assertion-high-sparrow-gender:
+    subject:
+      person: person-high-sparrow
+    property: gender
+    value: "male"
+    citations:
+      - citation-affc-cersei-vi
+    confidence: high
+    status: proven
+    notes: "The High Sparrow is male; described as a small, thin man throughout AFFC."

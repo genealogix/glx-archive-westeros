@@ -1,0 +1,12 @@
+assertions:
+    assertion-dany-alias-stormborn:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: alias
+        value: "Daenerys Stormborn"
+        citations:
+            - citation-agot-daenerys-i
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "AGOT Appendix: 'PRINCESS DAENERYS, called Daenerys Stormborn.' Born during a great storm that destroyed the Targaryen fleet at Dragonstone."

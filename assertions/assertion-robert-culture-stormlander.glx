@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-culture-stormlander:
+        subject:
+            person: person-robert-baratheon-i
+        property: culture
+        value: "Stormlander"
+        citations:
+            - citation-awoiaf-robert-baratheon
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "Robert was born at Storm's End in the stormlands to House Baratheon, the ruling house of the Stormlands."

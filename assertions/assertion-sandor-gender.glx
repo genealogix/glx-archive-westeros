@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-gender:
+        subject:
+            person: person-sandor-clegane
+        property: gender
+        value: "male"
+        citations:
+            - citation-agot-appendix
+        confidence: high
+        status: proven
+        notes: "Listed throughout as male. AGOT Appendix under House Lannister."

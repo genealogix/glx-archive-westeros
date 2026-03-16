@@ -1,0 +1,12 @@
+assertions:
+  assertion-jenny-oldstones-gender:
+    subject:
+      person: person-jenny-of-oldstones
+    property: gender
+    value: "female"
+    citations:
+      - citation-twoiaf-aegon-v
+      - citation-awoiaf-jenny-of-oldstones
+    confidence: high
+    status: proven
+    notes: "Jenny of Oldstones is female; described as a 'strange and lovely girl' in TWOIAF."

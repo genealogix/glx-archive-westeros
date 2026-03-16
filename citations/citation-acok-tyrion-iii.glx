@@ -1,0 +1,7 @@
+citations:
+    citation-acok-tyrion-iii:
+        source: source-acok
+        properties:
+            locator: "Tyrion III"
+            accessed: "2026-03-15"
+        notes: "Tyrion reflects on Petyr Baelish's rise to Master of Coin and his financial acumen. Describes his background from the smallest of the Fingers."

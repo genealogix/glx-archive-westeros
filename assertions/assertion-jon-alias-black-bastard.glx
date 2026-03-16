@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-alias-black-bastard:
+        subject:
+            person: person-jon-snow
+        property: alias
+        value: "The Black Bastard of the Wall"
+        citations:
+            - citation-awoiaf-jon-snow
+        confidence: high
+        status: proven
+        notes: "Used by various characters in ADWD to refer to Jon Snow, combining his bastard status with his Night's Watch (black) allegiance. Per AWOIAF infobox, referenced in ADWD The Blind Girl (Arya's chapter where she hears news of the Wall)."

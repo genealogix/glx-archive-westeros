@@ -1,0 +1,12 @@
+assertions:
+  assertion-high-sparrow-title:
+    subject:
+      person: person-high-sparrow
+    property: title
+    value: "High Septon"
+    citations:
+      - citation-affc-cersei-vi
+      - citation-awoiaf-high-sparrow
+    confidence: high
+    status: proven
+    notes: "Elected High Septon in 300 AC when sparrows stormed the Great Sept of Baelor during the selection process. Named 'the High Sparrow' by Moon Boy."

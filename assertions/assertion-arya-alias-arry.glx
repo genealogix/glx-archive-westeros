@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-alias-arry:
+        subject:
+            person: person-arya-stark
+        property: alias
+        value: "Arry"
+        citations:
+            - citation-acok-arya-i
+        confidence: high
+        status: proven
+        notes: "Arya disguises herself as a boy named 'Arry' to travel north with Yoren's Night's Watch recruits after Ned's execution. The alias is given to her by Yoren who cuts her hair and tells the recruits she is an orphan boy."

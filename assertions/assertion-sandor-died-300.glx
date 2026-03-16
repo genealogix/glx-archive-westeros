@@ -1,0 +1,12 @@
+assertions:
+    assertion-sandor-died-300:
+        subject:
+            person: person-sandor-clegane
+        property: died_on
+        value: "300"
+        citations:
+            - citation-asos-arya-xiii
+            - citation-affc-brienne-vii
+        confidence: medium
+        status: disputed
+        notes: "Arya left Sandor to die of his wounds after the fight at the crossroads inn. AWOIAF states 'Died: 300 AC (supposedly).' The Elder Brother on the Quiet Isle confirmed the Hound is dead, but the large limping gravedigger on the isle is widely believed to be Sandor alive. Confidence medium due to ambiguity."

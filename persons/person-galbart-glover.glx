@@ -8,6 +8,8 @@ persons:
                     surname: "Glover"
             gender: male
             house: "Glover"
+            culture: "Northmen"
+            religion: "Old Gods"
             title:
                 - value: "Master of Deepwood Motte"
         notes: "A lord of House Glover, master of Deepwood Motte, one of the northern lords who rode with Robb Stark. He was present at the war council at Riverrun where Robb was acclaimed King in the North (AGOT, Catelyn XI). He had observed Jaime Lannister's fighting retreat during the Whispering Wood, noting that Jaime fought his way up the valley trying to reach Robb even after it was clear he was lost."

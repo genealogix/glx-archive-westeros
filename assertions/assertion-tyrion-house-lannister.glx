@@ -1,0 +1,11 @@
+assertions:
+  assertion-tyrion-house-lannister:
+    subject:
+      person: person-tyrion-lannister
+    property: house
+    value: "Lannister"
+    citations:
+      - citation-agot-appendix
+    confidence: high
+    status: accepted
+    notes: "AGOT Appendix, House Lannister section: 'TYRION, called the Imp, a dwarf.' Listed as the youngest of Lord Tywin's children."

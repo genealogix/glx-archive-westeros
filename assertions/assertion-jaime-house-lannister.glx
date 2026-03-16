@@ -1,0 +1,11 @@
+assertions:
+  assertion-jaime-house-lannister:
+    subject:
+      person: person-jaime-lannister
+    property: house
+    value: "Lannister"
+    citations:
+      - citation-agot-appendix
+    confidence: high
+    status: accepted
+    notes: "AGOT Appendix, House Lannister section: 'SER JAIME, called the Kingslayer, heir to Casterly Rock.' Listed under Lord Tywin's children."

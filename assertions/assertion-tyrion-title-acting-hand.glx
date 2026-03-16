@@ -1,0 +1,11 @@
+assertions:
+  assertion-tyrion-title-acting-hand:
+    subject:
+      person: person-tyrion-lannister
+    property: title
+    value: "Acting Hand of the King"
+    citations:
+      - citation-acok-appendix
+    confidence: high
+    status: accepted
+    notes: "ACOK Appendix: 'TYRION LANNISTER, acting Hand of the King.' Tyrion was sent to King's Landing by Tywin to serve as acting Hand in his stead, arriving at the start of ACOK."

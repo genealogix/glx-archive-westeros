@@ -1,0 +1,12 @@
+assertions:
+  assertion-alleras-sphinx-culture:
+    subject:
+      person: person-alleras-sphinx
+    property: culture
+    value: "Dornish"
+    citations:
+      - citation-affc-prologue
+      - citation-awoiaf-alleras
+    confidence: high
+    status: proven
+    notes: "Half-Dornish (father is a Dornishman) and half-Summer Islander (mother is a Summer Islander trader). Born in Dorne. Speaks with a soft Dornish drawl."

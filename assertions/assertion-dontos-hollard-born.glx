@@ -1,0 +1,11 @@
+assertions:
+  assertion-dontos-hollard-born:
+    subject:
+      person: person-dontos-hollard
+    property: born_on
+    value: "BET 261 AND 263"
+    citations:
+      - citation-awoiaf-dontos-hollard
+    confidence: medium
+    status: proven
+    notes: "Born 261-263 AC near Duskendale. Age calculated from text."

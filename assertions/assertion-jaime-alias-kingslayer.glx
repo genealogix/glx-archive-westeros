@@ -1,0 +1,12 @@
+assertions:
+  assertion-jaime-alias-kingslayer:
+    subject:
+      person: person-jaime-lannister
+    property: alias
+    value: "The Kingslayer"
+    citations:
+      - citation-agot-appendix
+      - citation-awoiaf-jaime-lannister
+    confidence: high
+    status: accepted
+    notes: "AGOT Appendix: 'SER JAIME, called the Kingslayer, heir to Casterly Rock.' Jaime earned this epithet for slaying King Aerys II Targaryen during the Sack of King's Landing in 283 AC."

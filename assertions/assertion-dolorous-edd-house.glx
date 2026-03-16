@@ -1,0 +1,11 @@
+assertions:
+  assertion-dolorous-edd-house:
+    subject:
+      person: person-dolorous-edd
+    property: house
+    value: "Tollett"
+    citations:
+      - citation-awoiaf-eddison-tollett
+    confidence: high
+    status: proven
+    notes: "From House Tollett of the Vale. Appears to have been born to a lesser branch, as he speaks of being raised in humble circumstances."

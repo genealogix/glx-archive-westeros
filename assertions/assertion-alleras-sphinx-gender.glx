@@ -1,0 +1,11 @@
+assertions:
+  assertion-alleras-sphinx-gender:
+    subject:
+      person: person-alleras-sphinx
+    property: gender
+    value: "male"
+    citations:
+      - citation-affc-prologue
+    confidence: medium
+    status: speculative
+    notes: "Alleras presents as male at the Citadel and is referred to with male pronouns throughout AFFC. However, the strong textual evidence suggests Alleras is actually Sarella Sand (female) in disguise — 'Alleras' is 'Sarella' reversed, and Doran Martell says Sarella is 'playing a game' in Oldtown. The Citadel does not admit women."

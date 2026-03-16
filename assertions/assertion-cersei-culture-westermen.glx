@@ -1,0 +1,11 @@
+assertions:
+  assertion-cersei-culture-westermen:
+    subject:
+      person: person-cersei-lannister
+    property: culture
+    value: "Westermen"
+    citations:
+      - citation-awoiaf-cersei-lannister
+    confidence: high
+    status: accepted
+    notes: "Cersei is of the Westermen culture, born at Casterly Rock to House Lannister. Per AWOIAF infobox: Culture — Westermen."

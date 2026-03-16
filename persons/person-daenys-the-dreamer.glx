@@ -11,4 +11,8 @@ persons:
                 - value: "Daenys the Dreamer"
             gender: "female"
             house: "Targaryen"
+            born_on: "BEF -126"
+            culture: "Valyrian"
+            title:
+                - value: "Lady of Dragonstone"
         notes: "Maiden daughter of Aenar Targaryen, known as Daenys the Dreamer. She foresaw the Doom of Valyria in prophetic dreams and persuaded her father to move the family to Dragonstone twelve years before the cataclysm. Her foresight ensured the Targaryens were the only dragonlord family to survive the Doom. She later became the wife and consort of her brother Gaemon Targaryen (Gaemon the Glorious), following the Valyrian custom of sibling marriage."

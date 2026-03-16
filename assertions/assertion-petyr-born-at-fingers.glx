@@ -1,0 +1,11 @@
+assertions:
+    assertion-petyr-born-at-fingers:
+        subject:
+            person: person-petyr-baelish
+        property: born_at
+        value: "place-the-vale"
+        citations:
+            - citation-awoiaf-petyr-baelish
+        confidence: high
+        status: proven
+        notes: "Born in the Fingers, the Vale of Arryn. AWOIAF infobox: 'Born: 268 AC, the Fingers, the Vale of Arryn.'"

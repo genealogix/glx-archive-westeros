@@ -1,0 +1,11 @@
+assertions:
+  assertion-tywin-culture-westermen:
+    subject:
+      person: person-tywin-lannister
+    property: culture
+    value: "Westermen"
+    citations:
+      - citation-awoiaf-tywin-lannister
+    confidence: high
+    status: accepted
+    notes: "Tywin is of the Westermen culture, born at Casterly Rock to House Lannister. Per AWOIAF infobox: Culture — Westermen."

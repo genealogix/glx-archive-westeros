@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-alias-king-at-wall:
+        subject:
+            person: person-stannis-baratheon
+        property: alias
+        value: "The King at the Wall"
+        citations:
+            - citation-adwd-appendix
+        confidence: high
+        status: proven
+        notes: "ADWD Appendix lists Stannis as 'The King at the Wall' after he sailed north to the Wall to save the Night's Watch from Mance Rayder's wildling host."

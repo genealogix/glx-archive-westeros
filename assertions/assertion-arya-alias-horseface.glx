@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-alias-horseface:
+        subject:
+            person: person-arya-stark
+        property: alias
+        value: "Arya Horseface"
+        citations:
+            - citation-agot-arya-i
+        confidence: high
+        status: proven
+        notes: "Childhood nickname from Sansa and Jeyne Poole, mocking Arya's long face. Per AWOIAF infobox, referenced in AGOT Arya I."

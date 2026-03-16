@@ -1,0 +1,12 @@
+assertions:
+  assertion-harren-black-house:
+    subject:
+      person: person-harren-the-black
+    property: house
+    value: "Hoare"
+    citations:
+      - citation-twoiaf-conquest
+      - citation-awoiaf-harren-hoare
+    confidence: high
+    status: proven
+    notes: "Last king of House Hoare. The house was extinguished when Harren and all his sons were burned alive at Harrenhal by Aegon I and Balerion."

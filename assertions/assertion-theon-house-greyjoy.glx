@@ -1,0 +1,12 @@
+assertions:
+    assertion-theon-house-greyjoy:
+        subject:
+            person: person-theon-greyjoy
+        property: house
+        value: "Greyjoy"
+        citations:
+            - citation-agot-appendix
+            - citation-awoiaf-theon-greyjoy
+        confidence: high
+        status: proven
+        notes: "AGOT Appendix lists House Greyjoy. Theon is the sole surviving son and heir apparent of Balon Greyjoy, Lord of the Iron Islands."

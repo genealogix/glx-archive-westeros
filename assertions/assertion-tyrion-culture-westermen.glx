@@ -1,0 +1,11 @@
+assertions:
+  assertion-tyrion-culture-westermen:
+    subject:
+      person: person-tyrion-lannister
+    property: culture
+    value: "Westermen"
+    citations:
+      - citation-awoiaf-tyrion-lannister
+    confidence: high
+    status: accepted
+    notes: "Tyrion is of the Westermen culture, born at Casterly Rock to House Lannister. Per AWOIAF infobox: Culture — Westermen."

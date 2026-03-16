@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-alias-prince-of-fools:
+        subject:
+            person: person-theon-greyjoy
+        property: alias
+        value: "Prince of Fools"
+        citations:
+            - citation-awoiaf-theon-greyjoy
+        confidence: high
+        status: proven
+        notes: "AWOIAF: his sister Asha called him 'Prince of Fools' for his capture of Winterfell. ACOK reference."

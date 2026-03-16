@@ -1,0 +1,11 @@
+assertions:
+  assertion-dolorous-edd-born-at:
+    subject:
+      person: person-dolorous-edd
+    property: born_at
+    value: "place-the-vale"
+    citations:
+      - citation-awoiaf-eddison-tollett
+    confidence: medium
+    status: proven
+    notes: "Born in the Vale of Arryn according to AWOIAF. Vale culture."

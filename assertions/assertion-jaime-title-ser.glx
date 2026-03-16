@@ -1,0 +1,12 @@
+assertions:
+  assertion-jaime-title-ser:
+    subject:
+      person: person-jaime-lannister
+    property: title
+    value: "Ser"
+    citations:
+      - citation-agot-appendix
+      - citation-awoiaf-jaime-lannister
+    confidence: high
+    status: accepted
+    notes: "AGOT Appendix: 'SER JAIME, called the Kingslayer.' Jaime was knighted in 281 AC by Ser Arthur Dayne during the campaign against the Kingswood Brotherhood, at the age of fifteen."

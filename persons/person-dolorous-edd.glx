@@ -6,7 +6,11 @@ persons:
                 fields:
                     given: Eddison
                     surname: Tollett
+                    type: "birth"
                 value: Eddison Tollett
             alias:
                 - value: "Dolorous Edd"
-        notes: "Steward to Lord Commander Jon Snow at Castle Black (ADWD Appendix)."
+                - value: "Edd Tollett"
+            house: "Tollett"
+            culture: "Valemen"
+        notes: "Squire from a lesser branch of House Tollett in the Vale. Steward of the Night's Watch, recruited by Yoren. Known for his dry, pessimistic humor — beloved by his brothers. Served as personal steward to Lord Commander Jon Snow at Castle Black. Survived the great ranging, the Fist of the First Men, and the march to Craster's Keep."

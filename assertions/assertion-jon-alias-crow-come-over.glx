@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-alias-crow-come-over:
+        subject:
+            person: person-jon-snow
+        property: alias
+        value: "The Crow-Come-Over"
+        citations:
+            - citation-awoiaf-jon-snow
+        confidence: high
+        status: proven
+        notes: "Wildling name for Jon Snow, referring to his crossing over from the Night's Watch to infiltrate Mance Rayder's host. Per AWOIAF infobox, referenced in ASOS Jon VII."

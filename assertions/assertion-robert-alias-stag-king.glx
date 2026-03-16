@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-alias-stag-king:
+        subject:
+            person: person-robert-baratheon-i
+        property: alias
+        value: "The Stag King"
+        citations:
+            - citation-awoiaf-robert-baratheon
+        confidence: medium
+        status: accepted
+        notes: "Informal alias referencing the Baratheon sigil of the crowned stag."

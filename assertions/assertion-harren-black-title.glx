@@ -1,0 +1,12 @@
+assertions:
+  assertion-harren-black-title:
+    subject:
+      person: person-harren-the-black
+    property: title
+    value: "King of the Isles and the Rivers"
+    citations:
+      - citation-twoiaf-conquest
+      - citation-awoiaf-harren-hoare
+    confidence: high
+    status: proven
+    notes: "Last King of the Isles and the Rivers. His domains stretched from the Iron Islands through the riverlands. Successor: none (house extinguished; title passed to House Tully as Lords Paramount under Aegon I)."

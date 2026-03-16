@@ -1,0 +1,12 @@
+assertions:
+    assertion-ned-died-at-baelor:
+        subject:
+            person: person-eddard-stark
+        property: died_at
+        value: "place-great-sept-of-baelor"
+        citations:
+            - citation-agot-arya-v
+            - citation-awoiaf-eddard-stark
+        confidence: high
+        status: proven
+        notes: "Eddard Stark was executed on the steps of the Great Sept of Baelor in King's Landing, 299 AC. Witnessed by his daughters Sansa (on the platform) and Arya (in the crowd). Beheaded by Ser Ilyn Payne using Ice, the Stark ancestral Valyrian steel greatsword."

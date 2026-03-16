@@ -1,0 +1,12 @@
+assertions:
+  assertion-cersei-title-shield-lannisport:
+    subject:
+      person: person-cersei-lannister
+    property: title
+    value: "Shield of Lannisport"
+    citations:
+      - citation-adwd-appendix
+      - citation-awoiaf-cersei-lannister
+    confidence: high
+    status: accepted
+    notes: "Cersei inherited the title Shield of Lannisport along with Lady of Casterly Rock after Tywin's death. Per AWOIAF wiki infobox. ADWD Appendix lists her full titles including Lady of Casterly Rock."

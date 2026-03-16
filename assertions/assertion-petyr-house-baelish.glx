@@ -1,0 +1,12 @@
+assertions:
+    assertion-petyr-house-baelish:
+        subject:
+            person: person-petyr-baelish
+        property: house
+        value: "Baelish"
+        citations:
+            - citation-agot-appendix
+            - citation-awoiaf-petyr-baelish
+        confidence: high
+        status: proven
+        notes: "Head of House Baelish. AWOIAF: 'Petyr Baelish is the Lord and head of House Baelish.' His family held the smallest of the Fingers in the Vale."

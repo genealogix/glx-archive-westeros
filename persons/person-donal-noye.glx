@@ -8,6 +8,10 @@ persons:
                     given: "Donal"
                     surname: "Noye"
             gender: "male"
+            born_on: "BEF 252"
+            died_on: "300"
+            cause_of_death: "At War"
+            culture: "Stormlander"
             title:
                 - value: "Armorer, Castle Black"
-        notes: "One-armed armorer of the Night's Watch at Castle Black. Lost his arm in battle. Worked in the armory at Castle Black. Helped reforge the pommel of Longclaw after the wight fire. Known to have forged Robert Baratheon's famous war hammer in his earlier life."
+        notes: "One-armed armorer and steward of the Night's Watch at Castle Black. Formerly in service to House Baratheon of Storm's End, where he forged Robert's warhammer — the weapon that killed Rhaegar Targaryen at the Trident. Lost his left arm to a festering axe wound during the siege of Storm's End in Robert's Rebellion. Died heroically at Castle Black in 300 AC, defending the gate tunnel in single combat against the giant Mag the Mighty during the wildling assault on the Wall."

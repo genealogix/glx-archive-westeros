@@ -1,0 +1,13 @@
+assertions:
+    assertion-sandor-alias-hound:
+        subject:
+            person: person-sandor-clegane
+        property: alias
+        value: "The Hound"
+        citations:
+            - citation-agot-appendix
+            - citation-agot-sansa-i
+            - citation-awoiaf-sandor-clegane
+        confidence: high
+        status: proven
+        notes: "AGOT Appendix: 'SANDOR CLEGANE, called the Hound.' Named for the three dogs on House Clegane's sigil and his fierce, loyal nature. His distinctive helm is sculpted into the shape of a snarling dog's head."

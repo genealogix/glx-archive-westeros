@@ -1,0 +1,11 @@
+assertions:
+  assertion-tyrion-title-lord-casterly-rock:
+    subject:
+      person: person-tyrion-lannister
+    property: title
+    value: "Lord of Casterly Rock"
+    citations:
+      - citation-awoiaf-tyrion-lannister
+    confidence: medium
+    status: speculative
+    notes: "Tyrion claims the title Lord of Casterly Rock after Tywin's death, but the claim is not universally recognized. Cersei holds the title as Lady of Casterly Rock per AFFC/ADWD appendices. Tyrion's claim rests on being Tywin's lawful son (Jaime is excluded by his Kingsguard vows). The claim is contested and Tyrion is in exile."

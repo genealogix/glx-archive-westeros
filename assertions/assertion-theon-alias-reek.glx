@@ -1,0 +1,12 @@
+assertions:
+    assertion-theon-alias-reek:
+        subject:
+            person: person-theon-greyjoy
+        property: alias
+        value: "Reek"
+        citations:
+            - citation-adwd-reek-i
+            - citation-awoiaf-theon-greyjoy
+        confidence: high
+        status: proven
+        notes: "Ramsay Bolton broke Theon through prolonged torture and gave him the identity 'Reek.' ADWD Reek I opens with Theon as 'Reek' — he has internalized the identity. 'My name is Reek, it rhymes with meek.'"

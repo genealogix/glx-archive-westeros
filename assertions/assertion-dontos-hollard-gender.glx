@@ -1,0 +1,11 @@
+assertions:
+  assertion-dontos-hollard-gender:
+    subject:
+      person: person-dontos-hollard
+    property: gender
+    value: "male"
+    citations:
+      - citation-awoiaf-dontos-hollard
+    confidence: high
+    status: proven
+    notes: "Dontos Hollard is male; referred to as Ser throughout the novels."

@@ -1,0 +1,12 @@
+assertions:
+  assertion-daenys-dreamer-gender:
+    subject:
+      person: person-daenys-the-dreamer
+    property: gender
+    value: "female"
+    citations:
+      - citation-twoiaf-doom-valyria
+      - citation-awoiaf-daenys-targaryen
+    confidence: high
+    status: proven
+    notes: "Daenys Targaryen is female; described as a maiden daughter of Aenar Targaryen."
