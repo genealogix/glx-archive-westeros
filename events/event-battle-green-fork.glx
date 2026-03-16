@@ -2,7 +2,7 @@ events:
     event-battle-green-fork:
         title: "Battle of the Green Fork"
         type: battle
-        date: "298"
+        date: "299"
         place: place-the-green-fork
         participants:
             - person: person-tywin-lannister
@@ -20,6 +20,9 @@ events:
               role: combatant
             - person: person-addam-marbrand
               role: combatant
+            - person: person-bronn
+              role: combatant
+              notes: "Fought in the vanguard alongside Tyrion and the Vale mountain clansmen"
         properties:
-            description: "The Battle of the Green Fork (298 AC) — a diversionary engagement in the War of the Five Kings. Robb Stark split his forces at the Twins: he sent approximately 16,000 infantry under Lord Roose Bolton south along the kingsroad to engage Tywin Lannister's army at the Green Fork, while Robb himself took 6,000 cavalry west to attack Jaime Lannister at the Whispering Wood. Bolton's force engaged Tywin's larger host at the Green Fork and was defeated as intended — the point was to hold Tywin in place while Robb destroyed Jaime's army. Tyrion Lannister fought in the vanguard with the mountain clansmen of the Vale."
+            description: "The Battle of the Green Fork (299 AC) — a diversionary engagement in the War of the Five Kings. Robb Stark split his forces at the Twins: he sent approximately 16,000 infantry under Lord Roose Bolton south along the kingsroad to engage Tywin Lannister's army at the Green Fork, while Robb himself took 6,000 cavalry west to attack Jaime Lannister at the Whispering Wood. Bolton's force engaged Tywin's larger host at the Green Fork and was defeated as intended — the point was to hold Tywin in place while Robb destroyed Jaime's army. Tyrion Lannister fought in the vanguard with the mountain clansmen of the Vale."
         notes: "Bolton's handling of the battle was later suspected to have been deliberately treacherous — he put rival Northern houses (the Hornwoods, Cerwyns, and Karstarks) in the vanguard where they took the heaviest casualties, while preserving his own Bolton forces. This pattern of eliminating rival Northern strength would later prove important when Bolton betrayed the Starks."

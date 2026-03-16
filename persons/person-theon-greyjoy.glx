@@ -9,6 +9,7 @@ persons:
                 value: Theon Greyjoy
             born_on: "ABT 279"
             born_at: place-pyke
+            culture: "Ironmen"
             alias:
                 - value: "Theon Turncloak"
                 - value: "Prince of Winterfell"

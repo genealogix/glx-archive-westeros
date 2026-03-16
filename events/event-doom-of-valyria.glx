@@ -1,7 +1,7 @@
 events:
     event-doom-of-valyria:
         title: "The Doom"
-        type: rebellion
+        type: cataclysm
         date: "102 BC"
         participants:
             - person: person-daenys-the-dreamer

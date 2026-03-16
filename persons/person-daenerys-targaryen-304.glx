@@ -7,14 +7,25 @@ persons:
                     given: Daenerys
                     surname: Targaryen
                 value: Daenerys Targaryen
+            culture: "Valyrian"
             alias:
                 - value: "Daenerys Stormborn"
+                - value: "Dany"
                 - value: "The Unburnt"
                 - value: "Mother of Dragons"
                 - value: "Khaleesi of the Dothraki"
                 - value: "Breaker of Shackles"
+                - value: "Breaker of Chains"
                 - value: "Mhysa"
                 - value: "The Silver Queen"
+                - value: "Silver Lady"
+                - value: "The Dragon Queen"
+                - value: "The Queen Across the Waters"
+                - value: "Dragonmother"
+                - value: "Daughter of Death"
+                - value: "Bride of Fire"
+                - value: "Slayer of Lies"
+                - value: "Child of Three"
             title:
                 - value: "Princess of Dragonstone"
                   date: "FROM 284"

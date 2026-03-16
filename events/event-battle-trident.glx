@@ -22,6 +22,12 @@ events:
               role: combatant
             - person: person-roose-bolton
               role: combatant
+            - person: person-jason-mallister
+              role: combatant
+              notes: "Fought for the rebels, slew three of Rhaegar's bannermen"
+            - person: person-wyman-manderly
+              role: combatant
+              notes: "Commanded Manderly forces on the rebel side"
             - person: person-jon-connington
               role: subject
               notes: "His earlier defeat at the Battle of the Bells forced this decisive engagement"

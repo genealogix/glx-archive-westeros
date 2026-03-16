@@ -3,7 +3,7 @@ events:
         title: "The Murder of Tywin Lannister"
         type: death
         date: "300"
-        place: place-red-keep
+        place: place-the-red-keep
         participants:
             - person: person-tyrion-lannister
               role: perpetrator

@@ -2,6 +2,7 @@ events:
     event-birth-aerys-targaryen-ii:
         title: "Birth of Aerys Targaryen II"
         type: birth
+        date: "ABT 244"
         participants:
             - person: person-aerys-targaryen-ii
               role: principal

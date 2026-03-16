@@ -37,6 +37,12 @@ events:
             - person: person-sansa-stark
               role: witness
               notes: "Sheltered in Maegor's Holdfast with the queen during the battle"
+            - person: person-mace-tyrell
+              role: combatant
+              notes: "Commanded the Tyrell-Lannister relief force that arrived late in the battle"
+            - person: person-randyll-tarly
+              role: combatant
+              notes: "Commanded forces in the Tyrell-Lannister relief army"
             - person: person-lancel-lannister
               role: combatant
         properties:

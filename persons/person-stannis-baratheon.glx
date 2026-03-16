@@ -11,11 +11,16 @@ persons:
                 - "MH:I195"
             born_on: "264"
             born_at: place-storms-end
+            culture: "Stormlander"
             alias:
                 - value: "The King in the Narrow Sea"
                 - value: "The King at the Wall"
                 - value: "Azor Ahai Reborn"
                 - value: "The Mannis"
+                - value: "The King of the Painted Table"
+                - value: "The Dark Lord"
+                - value: "The King of Dragonstone"
+                - value: "The Prince That Was Promised"
             title:
                 - value: "Ser"
                 - value: "Lord of Dragonstone"
@@ -26,6 +31,11 @@ persons:
                   date: "FROM 299"
                 - value: "Lord of the Seven Kingdoms"
                   date: "FROM 299"
+                - value: "Protector of the Realm"
+                  date: "FROM 299"
+                - value: "Lord of Storm's End"
+                - value: "Commander of the Nightfort"
+                  date: "FROM 300"
             house: "Baratheon"
             religion: "R'hllor"
         notes: "Second son of Steffon Baratheon and Cassana Estermont. Broad-shouldered, sinewy, with a tightness to his face — hard is the word men use for Stannis. Grinding his teeth is his tell. Held Storm's End through a year-long siege during Robert's Rebellion, nearly starving. Resents that Robert gave Storm's End to Renly instead of him. Proclaimed himself king after discovering Joffrey's true parentage. Wielded Lightbringer, a flaming sword, proclaimed Azor Ahai reborn by Melisandre. Defeated at the Blackwater. Sailed north to rescue the Night's Watch from Mance Rayder's wildling host. At Castle Black and marching on Winterfell as of ADWD."

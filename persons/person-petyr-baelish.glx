@@ -8,6 +8,7 @@ persons:
                     surname: Baelish
                 value: Petyr Baelish
             born_on: "268"
+            culture: "Valemen"
             alias:
                 - value: "Littlefinger"
                 - value: "Lord Littlefinger"

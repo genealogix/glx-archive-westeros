@@ -3,7 +3,7 @@ assertions:
         subject:
             person: person-robert-baratheon-i
         property: died_at
-        value: "place-red-keep"
+        value: "place-the-red-keep"
         citations:
             - citation-agot-eddard-xiv
         confidence: high

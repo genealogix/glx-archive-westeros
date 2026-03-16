@@ -26,6 +26,18 @@ events:
             - person: person-rodrik-greyjoy
               role: victim
               notes: "Killed at Seagard"
+            - person: person-victarion-greyjoy
+              role: combatant
+              notes: "Lord Captain of the Iron Fleet, led the burning of the Lannister fleet at Lannisport. Defeated by Stannis at Fair Isle."
+            - person: person-euron-greyjoy
+              role: combatant
+              notes: "Planned the surprise attack on the Lannister fleet at Lannisport"
+            - person: person-maron-greyjoy
+              role: victim
+              notes: "Killed when the south tower of Pyke collapsed during the final assault"
+            - person: person-aeron-greyjoy
+              role: combatant
+              notes: "Captured during the sea battle off Fair Isle, spent the rest of the war beneath Casterly Rock"
             - person: person-jason-mallister
               role: combatant
               notes: "Killed Rodrik Greyjoy during the storming of Seagard"

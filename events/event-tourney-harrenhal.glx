@@ -27,6 +27,9 @@ events:
             - person: person-howland-reed
               role: guest
               notes: "Crannogman who was beaten by three squires, prompting the Knight of the Laughing Tree"
+            - person: person-benjen-stark
+              role: guest
+              notes: "Youngest Stark sibling, attended with Brandon, Eddard, and Lyanna"
             - person: person-ashara-dayne
               role: guest
         properties:

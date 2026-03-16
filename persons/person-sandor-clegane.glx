@@ -8,6 +8,8 @@ persons:
                     given: Sandor
                     surname: Clegane
             born_on: "ABT 271"
+            born_at: place-the-westerlands
+            culture: "Westermen"
             died_on: "300"
             cause_of_death: "Left to die of wound fever (supposedly)"
             alias:

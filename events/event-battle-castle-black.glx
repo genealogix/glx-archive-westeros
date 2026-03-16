@@ -22,6 +22,12 @@ events:
               role: combatant
             - person: person-janos-slynt
               role: combatant
+            - person: person-samwell-tarly
+              role: combatant
+              notes: "Helped engineer Jon's election as Lord Commander after the battle"
+            - person: person-bowen-marsh
+              role: combatant
+              notes: "Led the garrison force west to meet diversionary attacks, returned with reinforcements later"
             - person: person-dalla
               role: subject
               notes: "Mance's wife, died giving birth during the battle"

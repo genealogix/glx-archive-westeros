@@ -31,6 +31,13 @@ events:
               role: combatant
             - person: person-mace-tyrell
               role: combatant
+              notes: "Led the Tyrell siege of Storm's End throughout the war"
+            - person: person-jaime-lannister
+              role: combatant
+              notes: "Kingsguard who slew King Aerys II during the Sack of King's Landing"
+            - person: person-jon-connington
+              role: combatant
+              notes: "Hand of the King who lost the Battle of the Bells, then exiled by Aerys"
         properties:
             description: "Robert's Rebellion (also known as the War of the Usurper) — a civil war fought from 282-283 AC that overthrew the Targaryen dynasty. Triggered by Prince Rhaegar Targaryen's abduction of Lyanna Stark from the Tourney at Harrenhal, followed by Brandon Stark's arrest when he rode to King's Landing demanding justice, and the execution of both Brandon and his father Lord Rickard Stark by the Mad King Aerys II, who then demanded Jon Arryn hand over his wards Eddard Stark and Robert Baratheon. Jon Arryn raised his banners in revolt instead. The rebel alliance was cemented by the double wedding of Ned Stark to Catelyn Tully and Jon Arryn to Lysa Tully at Riverrun, securing House Tully's support. Major battles included Summerhall (three engagements won by Robert), Ashford (Targaryen victory), the Battle of the Bells (Robert rescued at Stoney Sept by Ned), and the decisive Battle of the Trident where Robert slew Rhaegar. The war ended with the Sack of King's Landing by Tywin Lannister's forces and Robert's coronation."
             also_known_as: "Robert's Rebellion, The War of the Usurper"

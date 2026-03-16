@@ -551,6 +551,11 @@ event_types:
     description: "Formation of a political, military, or personal alliance (distinct from a formal pact)"
     category: "other"
 
+  cataclysm:
+    label: "Cataclysm"
+    description: "Natural disaster, magical catastrophe, or large-scale destructive event"
+    category: "other"
+
   marriage_ceremony:
     label: "Marriage Ceremony"
     description: "The wedding ceremony event (distinct from the marriage relationship)"

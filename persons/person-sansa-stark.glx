@@ -14,10 +14,15 @@ persons:
             title:
                 - value: "Princess"
                   date: "FROM 298 TO 299"
+                - value: "Lady of Winterfell"
+                  date: "FROM 299"
             house: "Stark"
             religion: "Faith of the Seven"
             alias:
                 - value: "Alayne Stone"
                 - value: "Little Bird"
                 - value: "Little Dove"
+                - value: "Wolf Girl"
+                - value: "Jonquil"
+                - value: "Lady Lannister"
         notes: "Eldest daughter of Eddard Stark and Catelyn Tully. Auburn hair (Tully coloring) and blue eyes. Her direwolf Lady was killed on Robert's orders. Betrothed to Joffrey Baratheon, later married to Tyrion Lannister. Fled King's Landing after Joffrey's murder with the help of Petyr Baelish. Disguised as Alayne Stone, supposed natural daughter of Littlefinger, in the Vale. A maid of three-and-ten as of ADWD."

@@ -13,12 +13,16 @@ persons:
             born_on: "262"
             born_at: place-storms-end
             died_on: "298"
-            died_at: place-red-keep
+            died_at: place-the-red-keep
             cause_of_death: "Gored by a boar while hunting, exacerbated by wine"
+            culture: "Stormlander"
             alias:
                 - value: "The Usurper"
                 - value: "The Stag King"
                 - value: "The Demon of the Trident"
+                - value: "The Whoremonger King"
+                - value: "The Storm Lord"
+                - value: "The Fat King"
             title:
                 - value: "Ser"
                 - value: "Lord of Storm's End"

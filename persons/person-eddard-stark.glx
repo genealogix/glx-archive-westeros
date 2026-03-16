@@ -23,6 +23,8 @@ persons:
                   date: "FROM 298 TO 298"
                 - value: "Protector of the Realm"
                   date: "FROM 298 TO 298"
+                - value: "Lord Regent"
+                  date: "FROM 298 TO 298"
             house: "Stark"
             religion: "Old Gods"
             alias:

@@ -9,6 +9,7 @@ events:
               role: combatant
             - person: person-jon-snow
               role: subject
+              notes: "Not present at the battle — was with Qhorin Halfhand's scouting party in the Skirling Pass"
             - person: person-samwell-tarly
               role: combatant
               notes: "Survived the battle and the march south"

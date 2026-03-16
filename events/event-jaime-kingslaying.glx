@@ -3,7 +3,7 @@ events:
         title: "The Kingslaying"
         type: assassination
         date: "283"
-        place: place-red-keep
+        place: place-the-red-keep
         participants:
             - person: person-jaime-lannister
               role: perpetrator
