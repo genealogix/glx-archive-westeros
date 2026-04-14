@@ -1,0 +1,12 @@
+assertions:
+    assertion-obara-sand-name:
+        subject:
+            person: person-obara-sand
+        property: name
+        value: Obara Sand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes. Source text: OBARA, eight-and-twenty, Oberyn''s daughter by an Oldtown whore'

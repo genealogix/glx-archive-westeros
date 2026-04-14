@@ -1,0 +1,8 @@
+events:
+    event-birth-jorah-mormont:
+        title: Birth of Ser Jorah Mormont
+        type: birth
+        date: "ABT 254"
+        participants:
+            - person: person-jorah-mormont
+              role: principal

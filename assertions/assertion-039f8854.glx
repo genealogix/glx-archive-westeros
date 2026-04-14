@@ -1,0 +1,11 @@
+assertions:
+    assertion-quaithe-name-acok:
+        subject:
+            person: person-quaithe
+        property: name
+        value: Quaithe
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The Queen Across the Water section. Source text: ''QUAITHE, a masked shadowbinder of Asshai.'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-beric-trial-by-combat-sandor:
+        subject:
+            event: event-trial-sandor-clegane
+        property: outcome
+        value: Sandor Clegane wins the trial by combat, defeating and killing Beric Dondarrion, and is declared innocent
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-arya-vi
+        notes: 'The Hound''s cold steel ''clove him clean down to the breastbone'' when Beric''s burning sword snapped in two. Sandor is then declared innocent by R''hllor''s judgment per trial by combat law. The irony: the Hound, terrified of fire, defeats a man wielding a flaming sword. Beric is immediately resurrected for the sixth time by Thoros.'

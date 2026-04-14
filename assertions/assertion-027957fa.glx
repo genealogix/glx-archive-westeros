@@ -1,0 +1,11 @@
+assertions:
+    assertion-sansa-stark-captive:
+        subject:
+            person: person-sansa-stark
+        property: status
+        value: captive in King's Landing
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: 'ASOS appendix, King in the North section. Source text: ''PRINCESS SANSA, a maid of twelve, a captive in King''s Landing'''

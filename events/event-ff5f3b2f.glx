@@ -1,0 +1,7 @@
+events:
+    event-death-aelix-targaryen:
+        title: Death of Aelix Targaryen
+        type: death
+        participants:
+            - person: person-aelix-targaryen
+              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-eddard-stark-house:
+        subject:
+            person: person-eddard-stark
+        property: house
+        value: Stark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section.

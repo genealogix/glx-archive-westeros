@@ -1,0 +1,11 @@
+assertions:
+    assertion-cersei-lannister-title:
+        subject:
+            person: person-cersei-lannister
+        property: title
+        value: Queen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section. Source text: his wife, QUEEN CERSEI, of House Lannister'

@@ -1,9 +1,0 @@
-events:
-    event-marriage-jon-wylde-and-elyana-vypren:
-        title: "Marriage of Jon Wylde and Elyana Vypren"
-        type: marriage
-        participants:
-            - person: person-jon-wylde
-              role: subject
-            - person: person-elyana-vypren
-              role: subject

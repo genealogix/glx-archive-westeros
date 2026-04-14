@@ -1,0 +1,11 @@
+assertions:
+    assertion-tower-of-joy-arthur-dayne:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-arthur-dayne
+            role: combatant
+            notes: 'The Sword of the Morning, wielding Dawn. Died at the Tower of Joy. Source text: ''Ser Arthur Dayne, the Sword of the Morning, had a sad smile on his lips.'''
+        confidence: high
+        citations:
+            - citation-agot-eddard-x

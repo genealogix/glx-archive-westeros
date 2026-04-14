@@ -1,0 +1,11 @@
+persons:
+    person-alysane-mormont:
+        properties:
+            external_ids:
+                - MH:I432
+            gender: female
+            name:
+                fields:
+                    given: Alysane
+                    surname: Mormont
+                value: Alysane Mormont

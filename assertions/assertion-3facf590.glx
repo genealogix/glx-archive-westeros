@@ -1,0 +1,11 @@
+assertions:
+    assertion-mya-stone-name:
+        subject:
+            person: person-mya-stone
+        property: name
+        value: Mya Stone
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Arryn section (not House Baratheon). Listed under Lord Nestor Royce''s service. Robert''s bastard daughter per the narrative. Source text: MYA STONE, a bastard girl in his service'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-littlefinger-ward-of-tully:
+        subject:
+            person: person-petyr-baelish
+        property: description
+        value: Ward of Hoster Tully at Riverrun; childhood with Catelyn and Lysa
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-catelyn-iv
+        notes: 'Source text: ''He was my father''s ward. We grew up together in Riverrun. I thought of him as a brother, but his feelings for me were … more than brotherly.'' Petyr Baelish''s family held ''the smallest of the Fingers'' — modest holdings. He was raised at Riverrun with Catelyn and her siblings. Catelyn''s brother Edmure gave him the nickname ''Littlefinger.'''

@@ -1,0 +1,10 @@
+sources:
+    source-affc:
+        title: A Feast for Crows
+        type: novel
+        authors:
+            - George R.R. Martin
+        date: "2005"
+        repository: repository-asoiaf-novels
+        properties:
+            isbn: 978-0553801507

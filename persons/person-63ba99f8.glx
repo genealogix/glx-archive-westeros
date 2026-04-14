@@ -1,0 +1,15 @@
+persons:
+    person-paxter-redwyne:
+        properties:
+            external_ids:
+                - MH:I389
+            gender: male
+            house: Redwyne
+            name:
+                fields:
+                    given: Paxter
+                    surname: Redwyne
+                value: Paxter Redwyne
+            title:
+                - value: Lord of the Arbor
+        notes: Lord of the Arbor. Husband of Lady Mina Tyrell, sister of Mace Tyrell.

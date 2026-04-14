@@ -1,0 +1,11 @@
+assertions:
+    assertion-edwyle-stark-name:
+        subject:
+            person: person-edwyle-stark
+        property: name
+        value: Edwyle Stark
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in any novel appendix. Edwyle Stark (Rickard's father) appears only in TWOIAF and supplementary sources. May require TWOIAF chapter-level citation.

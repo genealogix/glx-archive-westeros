@@ -1,0 +1,9 @@
+events:
+    event-marriage-doran-martell-and-mellario-727:
+        title: Marriage of Doran Martell and Mellario
+        type: marriage
+        participants:
+            - person: person-doran-martell
+              role: subject
+            - person: person-mellario
+              role: subject

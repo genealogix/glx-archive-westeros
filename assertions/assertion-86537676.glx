@@ -1,0 +1,11 @@
+assertions:
+    assertion-elia-martell-house:
+        subject:
+            person: person-elia-martell
+        property: house
+        value: Martell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Martell section.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-pyat-pree-name-acok:
+        subject:
+            person: person-pyat-pree
+        property: name
+        value: Pyat Pree
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The Queen Across the Water section. Source text: ''PYAT PREE, a warlock of Qarth.'''

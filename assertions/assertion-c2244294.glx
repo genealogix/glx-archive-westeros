@@ -1,0 +1,11 @@
+assertions:
+    assertion-dany-titles-meereen:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: title
+        value: Queen of Meereen, Mother of Dragons, Breaker of Chains, Daenerys Stormborn the Unburnt
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-meereen
+        notes: 'By this chapter Daenerys holds: Queen of Meereen (de facto ruler of the city after its conquest), Khaleesi (from her marriage to Drogo), Mother of Dragons (from hatching Drogon, Rhaegal, Viserion), Breaker of Chains (from freeing slaves at Astapor, Yunkai, Meereen), Daenerys Stormborn (birthname), the Unburnt (survived Drogo''s funeral pyre). She rules from the Great Pyramid after destroying the harpy throne and replacing it with an ebony bench.'

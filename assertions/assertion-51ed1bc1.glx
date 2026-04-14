@@ -1,0 +1,12 @@
+assertions:
+    assertion-ulwyck-uller-name:
+        subject:
+            person: person-ulwyck-uller
+        property: name
+        value: Ulwyck Uller
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

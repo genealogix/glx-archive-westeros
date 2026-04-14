@@ -1,0 +1,12 @@
+assertions:
+    assertion-theon-betray-starks:
+        subject:
+            person: person-theon-greyjoy
+        property: description
+        value: House Stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-theon-ii
+            - citation-acok-theon-iii
+        notes: Theon Greyjoy was ward/hostage of Ned Stark for nine years and fought for Robb Stark in the War of the Five Kings. By capturing Winterfell and styling himself 'Prince of Winterfell,' he betrays the Starks who raised him. His alias 'Theon Turncloak' derives from this betrayal.

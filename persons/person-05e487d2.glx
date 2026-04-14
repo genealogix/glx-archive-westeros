@@ -1,0 +1,11 @@
+persons:
+    person-maegelle-frey:
+        properties:
+            external_ids:
+                - MH:I17
+            gender: female
+            name:
+                fields:
+                    given: Maegelle
+                    surname: Frey
+                value: Maegelle Frey

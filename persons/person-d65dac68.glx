@@ -1,0 +1,11 @@
+persons:
+    person-harmen-uller:
+        properties:
+            external_ids:
+                - MH:I273
+            gender: male
+            name:
+                fields:
+                    given: Harmen
+                    surname: Uller
+                value: Harmen Uller

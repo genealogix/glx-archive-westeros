@@ -1,0 +1,8 @@
+events:
+    event-birth-obara-sand:
+        title: Birth of Obara Sand
+        type: birth
+        date: "ABT 271"
+        participants:
+            - person: person-obara-sand
+              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-genna-lannister-name:
+        subject:
+            person: person-genna-lannister
+        property: name
+        value: Genna Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Listed as Tywin''s sister. Source text: GENNA , his sister, wed to Ser Emmon Frey'

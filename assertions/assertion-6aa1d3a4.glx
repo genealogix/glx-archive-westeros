@@ -1,0 +1,12 @@
+assertions:
+    assertion-unknown-257-name:
+        subject:
+            person: person-unknown-257
+        property: name
+        value: '''Princess Of Dorne'''
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

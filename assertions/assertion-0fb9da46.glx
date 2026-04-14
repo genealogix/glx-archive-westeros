@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-baratheon-bastard-gendry:
+        subject:
+            person: person-robert-baratheon-i
+        property: description
+        value: Gendry (armorer's apprentice)
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+            - citation-agot-arya-iii
+        notes: 'Source text: ''That the armorer''s sullen apprentice was the king''s son, Ned had no doubt. The Baratheon look was stamped on his face, in his jaw, his eyes, that black hair. Renly was too young to have fathered a boy of that age, Stannis too cold and proud in his honor. Gendry had to be Robert''s.'' Gendry is an apprentice at an armorer''s shop in King''s Landing. He has the Baratheon black hair and jaw. Ned identified him in his investigation of Robert''s bastards.'

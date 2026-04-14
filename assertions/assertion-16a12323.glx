@@ -1,0 +1,11 @@
+assertions:
+    assertion-euron-greyjoy-name:
+        subject:
+            person: person-euron-greyjoy
+        property: name
+        value: Euron Greyjoy
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'AFFC Appendix. Source text: EURON, called Crow''s Eye, captain of the Silence. Also listed as claimant at the Kingsmoot: EURON GREYJOY, called THE CROW''S EYE, brother to Balon Greyjoy and captain of the Silence'

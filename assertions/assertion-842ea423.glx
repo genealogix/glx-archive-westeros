@@ -1,0 +1,11 @@
+assertions:
+    assertion-aemon-targaryen-age-at-death:
+        subject:
+            event: event-birth-aemon-targaryen
+        property: date
+        value: ABT 198
+        confidence: high
+        status: proven
+        citations:
+            - citation-affc-samwell-aemon-death
+        notes: Sam confirmed Maester Aemon's age as 102 at his death (300 AC), placing his birth around 198 AC. He was the third son of King Maekar I Targaryen, born to be given to the Citadel to prevent succession conflicts. He refused the Iron Throne when it was offered after the death of his brother Aegon V (Egg) and lived out his days at Castle Black.

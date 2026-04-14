@@ -1,0 +1,12 @@
+persons:
+    person-aegor-rivers-bittersteel:
+        properties:
+            external_ids:
+                - MH:I309
+            gender: male
+            name:
+                fields:
+                    given: Aegor
+                    nickname: Bittersteel
+                    surname: Rivers
+                value: Aegor Rivers

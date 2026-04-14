@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-born-storms-end:
+        subject:
+            event: event-birth-stannis-baratheon
+        property: place
+        value: place-storms-end
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-stannis-baratheon
+        notes: Born at Storm's End.

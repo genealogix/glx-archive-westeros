@@ -1,0 +1,11 @@
+assertions:
+    assertion-roose-bolton-lord-dreadfort-adwd:
+        subject:
+            person: person-roose-bolton
+        property: title
+        value: Lord of the Dreadfort
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''ROOSE BOLTON, Lord of the Dreadfort'''

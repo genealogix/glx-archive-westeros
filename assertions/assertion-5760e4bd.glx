@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-connington-love-for-rhaegar:
+        subject:
+            person: person-jon-connington
+        property: description
+        value: Jon Connington loved Rhaegar Targaryen. He served him as Hand, and his loyalty to Aegon (whom he believes to be Rhaegar's son) is driven in part by this love as well as honor. He regrets not being ruthless enough at Stoney Sept — he prioritized Rhaegar's mercy over ending Robert's Rebellion, and it cost everything.
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-lost-lord
+        notes: 'Explicit in Connington''s internal monologue in The Lost Lord. He thinks: ''He could have ended Robert''s Rebellion at Stoney Sept. He failed.'' His love for Rhaegar is implied but strongly suggested by the text.'

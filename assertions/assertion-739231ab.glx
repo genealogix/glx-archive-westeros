@@ -1,0 +1,11 @@
+assertions:
+    assertion-aegon-vi-identity-claimed:
+        subject:
+            person: person-young-griff
+        property: name
+        value: Aegon Targaryen, firstborn son of Rhaegar Targaryen and Princess Elia of Dorne
+        confidence: low
+        status: speculative
+        citations:
+            - citation-adwd-the-lost-lord
+        notes: Jon Connington publicly declares Young Griff to be Aegon Targaryen VI to the Golden Company officers. The claim is that the infant Aegon was swapped with another baby before the Sack of King's Landing; the real Aegon was spirited away to Essos by Varys. This is plausible given Varys's known motivations, but cannot be verified from the text — Varys could have raised any boy as Aegon. Some theorize Young Griff is a Blackfyre pretender. See person-aegon-targaryen-vi for the full entity.

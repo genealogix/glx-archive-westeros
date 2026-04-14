@@ -1,0 +1,11 @@
+assertions:
+    assertion-edmure-tully-title-heir:
+        subject:
+            person: person-edmure-tully
+        property: title
+        value: Heir to Riverrun
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: 'ASOS appendix, House Tully section. Source text: ''SER EDMURE, his only son, heir to Riverrun'''

@@ -1,0 +1,11 @@
+persons:
+    person-aegon-targaryen:
+        properties:
+            external_ids:
+                - MH:I368
+            gender: male
+            name:
+                fields:
+                    given: Aegon
+                    surname: Targaryen
+                value: Aegon Targaryen

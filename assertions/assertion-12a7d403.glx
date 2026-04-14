@@ -1,0 +1,11 @@
+assertions:
+    assertion-dontos-hollard-born:
+        subject:
+            event: event-12d83a24
+        property: date
+        value: BET 261 AND 263
+        confidence: medium
+        status: proven
+        citations:
+            - citation-awoiaf-dontos-hollard
+        notes: Born 261-263 AC near Duskendale. Age calculated from text.

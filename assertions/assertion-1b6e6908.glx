@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-brotherhood-captive:
+        subject:
+            person: person-arya-stark
+        property: description
+        value: Arya is held by the Brotherhood Without Banners for ransom to be paid by Robb Stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-arya-iv
+        notes: Harwin explains they plan to ransom Arya to Robb Stark at Riverrun. Lord Beric promises on his honor as a knight to return her safely to her mother's arms. Arya accepts this reluctantly. The plan ultimately fails when the Brotherhood sells her to Sandor Clegane instead after the Red Wedding.

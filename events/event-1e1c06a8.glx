@@ -1,0 +1,12 @@
+events:
+    event-birth-tywin-lannister:
+        title: Birth of Tywin Lannister
+        type: birth
+        place: place-casterly-rock
+        date: "242"
+        participants:
+            - person: person-tywin-lannister
+              role: principal
+            - person: person-tytos-lannister
+              role: parent
+        notes: Eldest son of Tytos Lannister and Jeyne Marbrand.

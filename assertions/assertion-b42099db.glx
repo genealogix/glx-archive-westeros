@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-snow-gender:
+        subject:
+            person: person-jon-snow
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Stark section. Listed as 'his bastard son, a boy'.

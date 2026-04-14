@@ -1,0 +1,7 @@
+events:
+    event-death-jeyne-westerling:
+        title: Death of Jeyne Westerling
+        type: death
+        participants:
+            - person: person-jeyne-westerling
+              role: principal

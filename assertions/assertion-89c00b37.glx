@@ -1,0 +1,11 @@
+assertions:
+    assertion-ilyn-payne-name:
+        subject:
+            person: person-ilyn-payne
+        property: name
+        value: Ser Ilyn Payne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section. Source text: SER ILYN PA YNE, the King''s Justice, a headsman'

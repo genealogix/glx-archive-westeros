@@ -1,0 +1,10 @@
+persons:
+    person-snow-436:
+        properties:
+            external_ids:
+                - MH:I436
+            gender: female
+            name:
+                fields:
+                    surname: Snow
+                value: Snow

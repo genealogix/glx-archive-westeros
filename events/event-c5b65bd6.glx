@@ -1,0 +1,8 @@
+events:
+    event-birth-obella-sand:
+        title: Birth of Obella Sand
+        type: birth
+        date: "ABT 287"
+        participants:
+            - person: person-obella-sand
+              role: principal

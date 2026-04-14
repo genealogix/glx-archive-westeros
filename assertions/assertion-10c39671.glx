@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-died-red-keep:
+        subject:
+            event: event-death-robert-baratheon
+        property: place
+        value: place-the-red-keep
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-xiv
+        notes: Died at the Red Keep in King's Landing.

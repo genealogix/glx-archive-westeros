@@ -1,0 +1,11 @@
+assertions:
+    assertion-aelinor-targaryen-name:
+        subject:
+            person: person-aelinor-targaryen
+        property: name
+        value: Aelinor Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section (Aerys I). Note: Born Aelinor Penrose, wife of King Aerys I. The GEDCOM records her under the Targaryen surname by marriage. Source text: Wed to Aelinor Penrose, he never showed an interest in getting her with child, and rumor had it that he had even failed to consummate the marriage.'

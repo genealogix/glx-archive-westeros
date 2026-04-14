@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-appearance-agot:
+        subject:
+            person: person-eddard-stark
+        property: description
+        value: Long brown hair, closely trimmed beard shot with white; grey eyes; lean face; thirty-five years old at time of AGOT
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-i
+        notes: 'Source text (Bran I): ''Bran''s father sat solemnly on his horse, long brown hair stirring in the wind. His closely trimmed beard was shot with white, making him look older than his thirty-five years. He had a grim cast to his grey eyes this day.'''

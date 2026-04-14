@@ -1,0 +1,11 @@
+assertions:
+    assertion-marwyn-sails-for-daenerys:
+        subject:
+            person: person-archmaester-marwyn
+        property: status
+        value: Departed Oldtown for Slaver's Bay to counsel Daenerys Targaryen (300 AC)
+        confidence: high
+        status: proven
+        citations:
+            - citation-affc-samwell-iv
+        notes: 'Archmaester Marwyn told Sam: ''Get myself to Slaver''s Bay, in Aemon''s place. The swan ship that delivered Slayer should serve my needs well enough.'' He also warned Sam not to speak of dragons or prophecy to the other archmaesters: ''they may need to kill you too...Who do you think killed all the dragons the last time around? Gallant dragonslayers armed with swords?...The world the Citadel is building has no place in it for sorcery or prophecy or glass candles, much less for dragons.'' He then immediately left for the docks. He intended to use the Cinnamon Wind (the Summer Islands swan ship that brought Sam from Braavos) for his passage to Essos.'

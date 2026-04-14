@@ -1,0 +1,11 @@
+assertions:
+    assertion-alester-norcross-gender:
+        subject:
+            person: person-alester-norcross
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix, House Florent section. Listed as son.

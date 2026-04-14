@@ -1,0 +1,11 @@
+assertions:
+    assertion-wallace-waynwood-name:
+        subject:
+            person: person-wallace-waynwood
+        property: name
+        value: Wallace Waynwood
+        confidence: high
+        status: accepted
+        citations:
+            - citation-adwd-appendix
+        notes: 'Verified against ADWD Appendix, House Arryn section. Not in AGOT Appendix; first appears in ADWD. Source text: WALLACE, her youngest son'

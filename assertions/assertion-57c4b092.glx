@@ -1,0 +1,11 @@
+assertions:
+    assertion-olenna-redwyne-alias:
+        subject:
+            person: person-olenna-redwyne
+        property: alias
+        value: The Queen of Thorns
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Tyrell section.

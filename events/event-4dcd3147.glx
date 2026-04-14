@@ -1,0 +1,7 @@
+events:
+    event-death-runceford-redwyne:
+        title: Death of Runceford Redwyne
+        type: death
+        participants:
+            - person: person-runceford-redwyne
+              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-stark-gender:
+        subject:
+            person: person-arya-stark
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Stark section. Listed as 'the younger daughter, a girl'.

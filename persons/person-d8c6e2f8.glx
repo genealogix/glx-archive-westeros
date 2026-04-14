@@ -1,0 +1,11 @@
+persons:
+    person-melwys-rivers:
+        properties:
+            external_ids:
+                - MH:I145
+            gender: male
+            name:
+                fields:
+                    given: Melwys
+                    surname: Rivers
+                value: Melwys Rivers

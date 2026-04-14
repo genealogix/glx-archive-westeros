@@ -1,0 +1,8 @@
+events:
+    event-birth-walder-frey:
+        title: Birth of Walder Frey
+        type: birth
+        date: "ABT 208"
+        participants:
+            - person: person-walder-frey
+              role: principal

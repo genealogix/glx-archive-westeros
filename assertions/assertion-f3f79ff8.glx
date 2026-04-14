@@ -1,0 +1,11 @@
+assertions:
+    assertion-rickard-karstark-house:
+        subject:
+            person: person-rickard-karstark
+        property: house
+        value: Karstark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section.

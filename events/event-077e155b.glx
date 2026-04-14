@@ -1,0 +1,9 @@
+events:
+    event-marriage-kevan-lannister-and-dorna-swyft:
+        title: Marriage of Kevan Lannister and Dorna Swyft
+        type: marriage
+        participants:
+            - person: person-kevan-lannister
+              role: subject
+            - person: person-dorna-swyft
+              role: subject

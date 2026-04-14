@@ -1,0 +1,11 @@
+assertions:
+    assertion-brynden-tully-blackfish-gender:
+        subject:
+            person: person-brynden-tully-blackfish
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Tully section. Listed as 'Ser' and 'his brother'.

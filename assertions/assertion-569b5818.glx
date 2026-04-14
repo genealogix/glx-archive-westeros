@@ -1,0 +1,12 @@
+assertions:
+    assertion-leo-blackbar-name:
+        subject:
+            person: person-leo-blackbar
+        property: name
+        value: Leo Blackbar
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

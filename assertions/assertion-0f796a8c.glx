@@ -1,0 +1,11 @@
+assertions:
+    assertion-benjen-stark-gender:
+        subject:
+            person: person-benjen-stark
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Stark section. Listed as 'his younger brother, a man'.

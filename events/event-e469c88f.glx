@@ -1,0 +1,7 @@
+events:
+    event-birth-walda-frey-fat-walda:
+        title: Birth of Walda Frey
+        type: birth
+        participants:
+            - person: person-walda-frey-fat-walda
+              role: principal

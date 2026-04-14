@@ -1,0 +1,11 @@
+assertions:
+    assertion-asha-marriage-erik-adwd:
+        subject:
+            person: person-asha-greyjoy
+        property: description
+        value: Erik Ironmaker
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''ASHA, captain of the Black Wind and conqueror of Deepwood Motte, m. Erik Ironmaker'''

@@ -1,0 +1,12 @@
+assertions:
+    assertion-quentyn-martell-cause-of-death:
+        subject:
+            person: person-quentyn-martell
+        property: cause_of_death
+        value: Dragonfire — burned by Rhaegal in the Great Pyramid of Meereen
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-dragontamer
+            - citation-adwd-the-queens-hand
+        notes: 'The Dragontamer chapter ends with Quentyn engulfed by Rhaegal''s fire: ''When he raised his whip, he saw that the lash was burning. His hand as well. All of him, all of him was burning. Oh, he thought. Then he began to scream.'' The Queen''s Hand confirms Archibald Yronwood used his burned hands to beat out the flames that had consumed Quentyn — evidence he survived the initial burning long enough to be found.'

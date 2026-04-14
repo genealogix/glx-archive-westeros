@@ -1,0 +1,11 @@
+assertions:
+    assertion-sam-tarly-king-maker:
+        subject:
+            person: person-samwell-tarly
+        property: description
+        value: Engineered Jon Snow's election as Lord Commander by privately campaigning with the rival candidates
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jon-lord-commander
+        notes: 'Sam approached Cotter Pyke first (the scarier), then Ser Denys Mallister. He told each a partial lie: that the king intended to impose the other if no choice was made that night. Maester Aemon had effectively encouraged Sam by asking ''Could you?'' when Sam asked if he could do something about the stalemate. Text: ''I have no place here... Someone had to help Maester Aemon up the steps. Don''t look at me, I''m just the maester''s steward.'''

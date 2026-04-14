@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-captures-winterfell:
+        subject:
+            event: event-capture-winterfell
+        property: description
+        value: Theon Greyjoy captures Winterfell with approximately twenty ironborn
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-theon-iii
+        notes: 'Theon deviates from Lord Balon''s orders to raid the Stony Shore and instead takes Winterfell. He uses Dagmer Cleftjaw to feint against Torrhen''s Square, drawing Ser Rodrik Cassel and Winterfell''s garrison away. With Ser Rodrik gone, Theon scales the walls of Winterfell with a small force and opens the gates. He takes Bran and Rickon Stark hostage. Source: ''Theon Greyjoy has mounted their heads on the walls of Winterfell. Theon Greyjoy, who ate at my table since he was a boy of ten.'' (ACOK Catelyn VII, Catelyn reporting to Robb).'

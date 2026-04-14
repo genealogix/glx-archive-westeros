@@ -1,0 +1,11 @@
+assertions:
+    assertion-eddard-stark-name:
+        subject:
+            person: person-eddard-stark
+        property: name
+        value: Eddard Stark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Stark section. Source text: EDDARD STARK, Lord of Winterfell, Warden of the North'

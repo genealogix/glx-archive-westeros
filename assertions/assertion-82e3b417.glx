@@ -1,0 +1,12 @@
+assertions:
+    assertion-merrett-frey-name:
+        subject:
+            person: person-merrett-frey
+        property: name
+        value: Merrett Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Alive in ASOS, hanged by AFFC (by Brotherhood Without Banners). Source text: {MERRETT}, hanged at Oldstones, m. Mariya Darry'

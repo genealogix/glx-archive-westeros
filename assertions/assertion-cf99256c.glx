@@ -1,0 +1,11 @@
+assertions:
+    assertion-horas-redwyne-horror-gender:
+        subject:
+            person: person-horas-redwyne-horror
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: SER HORAS, mocked as Horror, twin to Hobber'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-willem-lannister-gender:
+        subject:
+            person: person-willem-lannister
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Lannister section. Listed as son.

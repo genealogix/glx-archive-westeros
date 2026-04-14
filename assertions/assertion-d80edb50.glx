@@ -1,0 +1,11 @@
+assertions:
+    assertion-hot-pie-lommy-arya-companions:
+        subject:
+            person: person-arya-stark
+        property: companions
+        value: Hot Pie and Lommy Greenhands travel with Arya in Yoren's party
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-arya-vi
+        notes: Hot Pie (orphan baker's son) and Lommy Greenhands (orphan dyer's apprentice) are among Yoren's recruits traveling north with Arya (disguised as 'Arry'). Lommy gives Arya the name 'Lumpyhead' and Gendry 'the Bull.' Lommy is killed by Polliver at the holdfast on the Gods Eye. Hot Pie stays at the inn when Arya and Gendry are captured and taken to Harrenhal.

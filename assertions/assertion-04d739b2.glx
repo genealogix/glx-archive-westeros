@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaegal-kills-quentyn:
+        subject:
+            event: event-dragontamer-quentyn-burned
+        property: description
+        value: Rhaegal (the green dragon)
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-dragontamer
+        notes: 'Quentyn had been focusing on Viserion with his whip when Rhaegal attacked from behind: ''He heard the sound of leathern wings and the air was full of ash and cinders and a monstrous roar... Rhaegal, he reminded himself, the green one is Rhaegal. When he raised his whip, he saw that the lash was burning. His hand as well. All of him, all of him was burning.'' Rhaegal is the green dragon, Viserion the white/cream dragon.'

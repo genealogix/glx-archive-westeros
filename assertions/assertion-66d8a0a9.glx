@@ -1,0 +1,12 @@
+assertions:
+    assertion-garse-goodbrook-name:
+        subject:
+            person: person-garse-goodbrook
+        property: name
+        value: Garse Goodbrook
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

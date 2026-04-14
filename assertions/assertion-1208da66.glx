@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-death-purple-wedding:
+        subject:
+            event: event-death-joffrey-baratheon
+        property: date
+        value: "300"
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-sansa-iv
+        notes: Joffrey Baratheon was poisoned with the Strangler at his wedding feast. The poison was administered by Olenna Tyrell in conspiracy with Petyr Baelish.

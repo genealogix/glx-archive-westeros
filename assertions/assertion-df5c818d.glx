@@ -1,0 +1,11 @@
+assertions:
+    assertion-oberyn-death-manner:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: cause_of_death
+        value: Skull crushed by Ser Gregor Clegane's armored fist during trial by combat
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-oberyn-duel
+        notes: 'Text: ''There was a sickening crunch. Ellaria Sand wailed in terror, and Tyrion''s breakfast came boiling back up.'' Gregor had seized Oberyn when he came too close, wrestled him down, thrust fingers into his eyes, and slammed his armored fist into Oberyn''s mouth and skull. Death was effectively instant. Gregor survived but was mortally wounded by the manticore venom Oberyn had coated his spear with.'

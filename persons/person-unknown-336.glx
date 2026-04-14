@@ -1,6 +1,0 @@
-persons:
-    person-unknown-336:
-        properties:
-            gender: female
-            external_ids:
-                - "MH:I336"

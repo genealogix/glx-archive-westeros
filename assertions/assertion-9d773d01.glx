@@ -1,0 +1,11 @@
+assertions:
+    assertion-aegon-conquest-start-date:
+        subject:
+            event: event-aegons-conquest
+        property: date
+        value: 2 BC (Aegon's Landing) — 2 AC (Coronation at Oldtown)
+        confidence: high
+        status: proven
+        citations:
+            - citation-twoiaf-conquest
+        notes: 'TWOIAF clarifies the often-misunderstood dating: Aegon landed at the Blackwater in 2 BC, but his reign is dated from his coronation at Oldtown (1 AC). Most conquering happened in 2 BC to 1 BC. Dorne remained unsubdued for nearly two more centuries.'

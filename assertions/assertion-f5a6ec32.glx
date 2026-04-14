@@ -1,0 +1,11 @@
+assertions:
+    assertion-fist-first-men-camp:
+        subject:
+            event: event-battle-fist-first-men
+        property: description
+        value: Night's Watch camps at the Fist of the First Men awaiting Qhorin Halfhand
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-jon-vi
+        notes: 'The Night''s Watch Great Ranging reaches the Fist of the First Men, a defensible hilltop crowned with ancient stone walls. Lord Commander Mormont camps there to await Qhorin Halfhand and the Shadow Tower rangers before deciding to confront Mance Rayder''s gathering host. Source text: ''The wildlings called it the Fist of the First Men, rangers said. It did look like a fist, Jon Snow thought, punching up through earth and wood, its bare brown slopes knuckled with stone.'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-hallyne-name-acok:
+        subject:
+            person: person-hallyne
+        property: name
+        value: Hallyne the Pyromancer
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King on the Iron Throne section. Source text: ''HALLYNE THE PYROMANCER, a Wisdom of the Guild of Alchemists.'''

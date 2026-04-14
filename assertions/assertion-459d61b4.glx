@@ -1,0 +1,11 @@
+assertions:
+    assertion-tower-of-joy-howland-reed:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-howland-reed
+            role: combatant
+            notes: 'The crannogman, one of only two survivors. Source text: ''the crannogman, Howland Reed'' and ''only two had lived to ride away; Eddard Stark himself and the little crannogman, Howland Reed.'''
+        confidence: high
+        citations:
+            - citation-agot-eddard-x

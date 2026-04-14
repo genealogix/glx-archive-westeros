@@ -1,0 +1,11 @@
+assertions:
+    assertion-cressen-name-acok:
+        subject:
+            person: person-cressen
+        property: name
+        value: Cressen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the Narrow Sea section. Source text: ''MAESTER CRESSEN, healer and tutor, an old man.'''

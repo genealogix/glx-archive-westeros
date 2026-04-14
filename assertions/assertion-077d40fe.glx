@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrek-lannister-name:
+        subject:
+            person: person-tyrek-lannister
+        property: name
+        value: Tyrek Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Son of Ser Tygett and Darlessa Marbrand. Also listed in House Baratheon section as squire to King Robert. Source text: their son, TYREK, squire to the king'

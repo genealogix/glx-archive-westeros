@@ -1,0 +1,11 @@
+assertions:
+    assertion-maron-greyjoy-death:
+        subject:
+            person: person-maron-greyjoy
+        property: cause_of_death
+        value: Crushed in the collapse of the old south tower of Pyke during the Greyjoy Rebellion
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-theon-i
+        notes: 'Source text (Theon I): ''Maron [was] crushed in the collapse of the old south tower [of Pyke].'' Theon remembers Maron for his ''cruel japes and endless lies.'' The new south tower at Pyke was built after the rebellion, its stone still a paler shade of grey. Robert Baratheon made the breach that collapsed the south tower.'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-victarion-iron-captain-adwd:
+        subject:
+            person: person-victarion-greyjoy
+        property: title
+        value: Lord Captain of the Iron Fleet
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''VICTARION, Lord Captain of the Iron Fleet, master of the Iron Victory'''

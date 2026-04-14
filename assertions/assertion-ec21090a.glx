@@ -1,0 +1,11 @@
+assertions:
+    assertion-patchface-name-acok:
+        subject:
+            person: person-patchface
+        property: name
+        value: Patchface
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the Narrow Sea section. Source text: ''PATCHFACE, a lackwit fool.'''

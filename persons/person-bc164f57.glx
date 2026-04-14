@@ -1,0 +1,9 @@
+persons:
+    person-haldon-halfmaester:
+        properties:
+            alias:
+                - value: The Halfmaester
+            gender: male
+            name:
+                value: Haldon
+        notes: Tutor and companion to Young Griff on the Rhoyne (ADWD Appendix).

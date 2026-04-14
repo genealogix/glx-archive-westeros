@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-first-marriage-annulled:
+        subject:
+            person: person-tyrion-lannister
+        property: description
+        value: Annulled by Lord Tywin Lannister
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-tyrion-vi
+        notes: 'Source text: ''The septon sobered and confessed all to my lord father. That was the end of my marriage.'' Lord Tywin Lannister forced an end to Tyrion''s secret marriage to Tysha. As punishment, Tywin had Tysha given to his guards — each paying a silver coin — and forced Tyrion to watch, going last with a gold coin because he was a Lannister and ''worth more.'' This trauma deeply scarred Tyrion.'

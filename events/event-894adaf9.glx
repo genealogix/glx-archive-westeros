@@ -1,0 +1,7 @@
+events:
+    event-birth-serra-frey:
+        title: Birth of Serra Frey
+        type: birth
+        participants:
+            - person: person-serra-frey
+              role: principal

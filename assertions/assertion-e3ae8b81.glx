@@ -1,0 +1,12 @@
+assertions:
+    assertion-cleos-frey-gender:
+        subject:
+            person: person-cleos-frey
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Emmon''s son, SER CLEOS, m. Jeyne Darry'

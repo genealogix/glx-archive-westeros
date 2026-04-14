@@ -1,0 +1,17 @@
+persons:
+    person-lancel-lannister:
+        properties:
+            external_ids:
+                - MH:I172
+            gender: male
+            house: Lannister
+            name:
+                fields:
+                    given: Lancel
+                    surname: Lannister
+                value: Lancel Lannister
+            title:
+                - value: Ser
+                - date: FROM 300
+                  value: Lord of Darry
+        notes: Son of Ser Kevan Lannister. Formerly squire to King Robert, recently knighted after Robert's death (ACOK appendix). Cersei's lover. Newly raised to Lord of Darry per the AFFC appendix.

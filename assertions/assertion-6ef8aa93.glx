@@ -1,0 +1,11 @@
+assertions:
+    assertion-roose-bolton-killed-robb:
+        subject:
+            person: person-roose-bolton
+        property: description
+        value: Personally killed Robb Stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Roose Bolton, Lord of the Dreadfort and Robb Stark''s own bannerman, personally killed Robb Stark with a longsword thrust through the heart. He was seated on the dais near Catelyn throughout the feast, ate little, and drank hippocras — calm because he knew what was coming. His pale pink cloak was spotted with blood. Direct text: ''A man in dark armor and a pale pink cloak spotted with blood stepped up to Robb. Jaime Lannister sends his regards. He thrust his longsword through her son''s heart, and twisted.'' The pale pink cloak identifies him as Bolton (House Bolton''s colors).'

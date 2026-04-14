@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-stark-cause-of-death:
+        subject:
+            person: person-eddard-stark
+        property: cause_of_death
+        value: Execution by beheading
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-arya-v
+        notes: 'Eddard Stark was beheaded at the Great Sept of Baelor by Ser Ilyn Payne on the orders of King Joffrey Baratheon. The blade used was Ice, Ned''s own Valyrian steel greatsword. Witnessed directly by Arya from the crowd (she was stopped by Yoren before the blow fell, but heard the crowd''s reaction) and by Sansa who was brought to witness. Source: ''Ser Ilyn drew a two-handed greatsword from the scabbard on his back. As he lifted the blade above his head, sunlight seemed to ripple and dance down the dark metal, glinting off an edge sharper than any razor. Ice, she thought, he has Ice!'''

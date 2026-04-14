@@ -1,0 +1,11 @@
+assertions:
+    assertion-arstan-argues-against-slavery:
+        subject:
+            person: person-arstan-whitebeard
+        property: description
+        value: Argued against buying Unsullied on the grounds that slavery is abominated by both old gods and new, and would damage Daenerys's cause in Westeros
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-ii
+        notes: 'Arstan''s speech: ''There have been no slaves in the Seven Kingdoms for thousands of years. The old gods and the new alike hold slavery to be an abomination. Evil. If you should land in Westeros at the head of a slave army, many good men will oppose you for no other reason than that. You will do great harm to your cause, and to the honor of your House.'''

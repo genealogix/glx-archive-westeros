@@ -1,0 +1,9 @@
+events:
+    event-marriage-hosteen-frey-and-bellena-hawick:
+        title: Marriage of Hosteen Frey and Bellena Hawick
+        type: marriage
+        participants:
+            - person: person-hosteen-frey
+              role: subject
+            - person: person-bellena-hawick
+              role: subject

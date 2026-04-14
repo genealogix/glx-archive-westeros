@@ -1,0 +1,11 @@
+assertions:
+    assertion-matthos-seaworth-killed-blackwater:
+        subject:
+            person: person-matthos-seaworth
+        property: cause_of_death
+        value: Killed at the Battle of the Blackwater (wildfire)
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-davos-iii
+        notes: 'Matthos is named at Davos''s side on Black Betha during the battle. ACOK Davos III: ''Matthos''s shout alerted him... Matthos lent him a hand to help him back over the rail.'' After the wildfire explosion, Davos thinks: ''My sons... but there was no way to look for them amidst the roaring chaos.'' Black Betha is listed among the destroyed ships. Confirmed dead in ADWD appendix and in person-davos-seaworth notes: ''Sons Dale, Allard, Matthos, and Maric were killed at the Battle of the Blackwater.'''

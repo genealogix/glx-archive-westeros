@@ -1,0 +1,11 @@
+assertions:
+    assertion-aemon-estermont-name:
+        subject:
+            person: person-aemon-estermont
+        property: name
+        value: Aemon Estermont
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'Verified against ACOK Appendix, King in Highgarden section. Son of Ser Eldon Estermont, cousin to Renly. Source text: Ser Eldon''s son, SER AEMON ESTERMONT, a cousin'

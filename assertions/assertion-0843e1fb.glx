@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-stark-death:
+        subject:
+            event: event-death-robb-stark
+        property: date
+        value: "299"
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Robb Stark was murdered at the Red Wedding at the Twins. While the ASOS appendix reflects the start-of-book state (Robb alive), his death occurs during the events of ASOS. Confirmed in AFFC/ADWD appendix as '{ROBB STARK}, murdered at the Red Wedding'.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-eleana-targaryen-gender:
+        subject:
+            person: person-eleana-targaryen
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: his daughter Elaena'

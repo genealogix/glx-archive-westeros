@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-title-princess:
+        subject:
+            person: person-arya-stark
+        property: title
+        value: Princess
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: ACOK Appendix lists Arya under Robb Stark's entry as 'PRINCESS ARYA, a girl of nine, missing.' Titled Princess as sister of King Robb Stark, King in the North and King of the Trident.

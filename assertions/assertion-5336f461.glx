@@ -1,0 +1,11 @@
+assertions:
+    assertion-shae-name-acok:
+        subject:
+            person: person-shae
+        property: name
+        value: Shae
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King on the Iron Throne section. Source text: ''Tyrion''s concubine, SHAE, a camp follower, eighteen.'''

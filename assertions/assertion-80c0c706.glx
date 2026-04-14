@@ -1,0 +1,12 @@
+assertions:
+    assertion-amarei-crakehall-name:
+        subject:
+            person: person-amarei-crakehall
+        property: name
+        value: Amarei Crakehall
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

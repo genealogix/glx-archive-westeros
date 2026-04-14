@@ -1,0 +1,11 @@
+persons:
+    person-rhea-florent:
+        properties:
+            external_ids:
+                - MH:I407
+            gender: female
+            name:
+                fields:
+                    given: Rhea
+                    surname: Florent
+                value: Rhea Florent

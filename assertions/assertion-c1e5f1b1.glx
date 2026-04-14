@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-saves-loras:
+        subject:
+            person: person-sandor-clegane
+        property: description
+        value: Intervened to save Loras Tyrell from Ser Gregor Clegane at the Hand's tourney
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: ''But as Gregor lifted his sword for the killing blow, a rasping voice warned, Leave him be, and a steel-clad hand wrenched him away from the boy... the two brothers stood hammering at each other as a dazed Loras Tyrell was helped to safety.'' Sandor then yielded the champion''s purse but ''took the victory, and the champion''s purse, and, for perhaps the first time in his life, the love of the commons.'' Loras afterward: ''I owe you my life. The day is yours, ser.'' Sandor: ''I am no ser.'' This establishes the debt Loras owes Sandor and the origin of their significant relationship in later books.'

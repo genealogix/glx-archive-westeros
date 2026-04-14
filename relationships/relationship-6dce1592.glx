@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-baratheon-robert-stannis:
+        type: sibling
+        participants:
+            - person: person-robert-baratheon-i
+              role: sibling
+            - person: person-stannis-baratheon
+              role: sibling
+        properties:
+            context: Sons of Steffon Baratheon and Cassana Estermont. Full brothers.
+        notes: 'AGOT appendix: House Baratheon. Robert and Stannis had a difficult relationship — Robert never fully valued Stannis, granting Storm''s End to Renly over him. Stannis considered this a deep slight.'

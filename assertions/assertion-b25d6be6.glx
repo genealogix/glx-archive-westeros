@@ -1,0 +1,12 @@
+assertions:
+    assertion-desmera-redwyne-name:
+        subject:
+            person: person-desmera-redwyne
+        property: name
+        value: Desmera Redwyne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Tyrell section. Daughter of Paxter Redwyne and Mina Tyrell. Source text: DESMERA REDWYNE, a maid of sixteen'

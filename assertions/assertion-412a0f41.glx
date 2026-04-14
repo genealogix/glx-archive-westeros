@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaego-name:
+        subject:
+            person: person-rhaego
+        property: name
+        value: Rhaego
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-v
+        notes: 'Source text: Daenerys declared: ''He shall be called Rhaego.'' Named by Daenerys after her dead brother Rhaegar Targaryen.'

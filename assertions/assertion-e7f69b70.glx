@@ -1,0 +1,11 @@
+assertions:
+    assertion-varys-secret-passage-red-keep:
+        subject:
+            person: person-varys
+        property: description
+        value: Knows secret passages inside the Red Keep
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: Ned asks how Varys got past his guards. ''The Red Keep has ways known only to ghosts and spiders.'' Varys accessed Ned''s chambers in the Tower of the Hand without being seen by three posted guards. He was in disguise (rough spun robe, smelled of sweat not lilacs). This is the first explicit reference to the Red Keep''s secret passages, which become increasingly significant in later books.'

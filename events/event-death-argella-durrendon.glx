@@ -1,7 +1,0 @@
-events:
-    event-death-argella-durrendon:
-        title: "Death of Argella Durrendon"
-        type: death
-        participants:
-            - person: person-argella-durrendon
-              role: principal

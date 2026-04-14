@@ -1,0 +1,8 @@
+events:
+    event-birth-loras-tyrell:
+        title: Birth of Ser Loras Tyrell
+        type: birth
+        date: "282"
+        participants:
+            - person: person-loras-tyrell
+              role: principal

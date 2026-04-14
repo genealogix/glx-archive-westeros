@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-rainbow-guard-established:
+        subject:
+            person: person-renly-baratheon
+        property: description
+        value: Established the Rainbow Guard as his own Kingsguard, each of the seven wearing a different color; Loras Tyrell serves as Lord Commander
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue, Davos reporting to Cressen): ''Renly''s made his own Kingsguard, but these seven don''t wear white. Each one has his own color. Loras Tyrell''s their Lord Commander.'' Bryce the Orange is mentioned as one of the Rainbow Guard (Bryce Caron).'

@@ -1,0 +1,9 @@
+events:
+    event-birth-roose-bolton:
+        title: Birth of Roose Bolton
+        type: birth
+        date: "ABT 260"
+        participants:
+            - person: person-roose-bolton
+              role: principal
+        notes: Son of a Bolton lord. Lord of the Dreadfort.

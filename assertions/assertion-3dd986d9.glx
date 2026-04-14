@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-born-winterfell:
+        subject:
+            event: event-birth-brandon-stark-bran
+        property: place
+        value: place-winterfell
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-bran-stark
+        notes: Born at Winterfell.

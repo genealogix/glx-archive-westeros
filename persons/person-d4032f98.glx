@@ -1,0 +1,10 @@
+persons:
+    person-tarly-461:
+        properties:
+            external_ids:
+                - MH:I461
+            gender: female
+            name:
+                fields:
+                    surname: Tarly
+                value: Tarly

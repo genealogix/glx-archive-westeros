@@ -1,0 +1,11 @@
+assertions:
+    assertion-doran-martell-title:
+        subject:
+            person: person-doran-martell
+        property: title
+        value: Lord of Sunspear, Prince of Dorne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Martell section.

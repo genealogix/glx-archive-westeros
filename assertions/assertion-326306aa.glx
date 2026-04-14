@@ -1,0 +1,11 @@
+assertions:
+    assertion-joanna-lannister-name:
+        subject:
+            person: person-joanna-lannister
+        property: name
+        value: Joanna Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Braces indicate deceased. Source text: his wife, {LA DY JOA NNA }, a cousin, died in childbed'

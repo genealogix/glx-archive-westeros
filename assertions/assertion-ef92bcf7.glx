@@ -1,0 +1,11 @@
+assertions:
+    assertion-varys-illyrio-tunnels-conversation:
+        subject:
+            person: person-varys
+        property: description
+        value: Secret meeting with Illyrio beneath the Red Keep
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-arya-iii
+        notes: 'Source text: ''One said they found one bastard. The rest will come soon. A day, two days, a fortnight. And when he learns the truth, what will he do? The gods alone know. The fools tried to kill his son, and what''s worse, they made a mummer''s farce of it. He''s not a man to put that aside. I warn you, the wolf and lion will soon be at each other''s throats, whether we will it or no.'' Arya Stark overheard this conversation in tunnels beneath the Red Keep. The torchbearer (Varys) and the man with the forked yellow beard (Illyrio Mopatis) were discussing the political situation, warning about ''too soon'' for war. The stout man in the steel cap (Varys) mentioned Lord Stark had ''the bastard, the book, and soon enough he''ll have the truth'' — referring to Ned''s investigation of Jon Arryn''s murder and the Baratheon bastards.'

@@ -1,0 +1,16 @@
+persons:
+    person-endrew-tarth:
+        properties:
+            gender: male
+            house: Tarth
+            name:
+                fields:
+                    given: Endrew
+                    prefix: Ser
+                    surname: Tarth
+                    type: birth
+                value: Endrew Tarth
+            title:
+                - value: Ser
+                - value: Master-at-Arms, Castle Black
+        notes: Knight of the Night's Watch from House Tarth. Came from the Shadow Tower to Castle Black after Ser Jaremy Rykker's death to assume duties as master-at-arms. Appointed to teach Jon Snow two-handed fighting techniques when Jon's burned hand healed.

@@ -1,0 +1,12 @@
+assertions:
+    assertion-rhonda-rowan-name:
+        subject:
+            person: person-rhonda-rowan
+        property: name
+        value: Rhonda Rowan
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

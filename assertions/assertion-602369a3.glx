@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-death-date:
+        subject:
+            event: event-death-viserys-targaryen
+        property: date
+        value: "298"
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-daenerys-v
+        notes: Approximate date; during Khal Drogo's stay in Vaes Dothrak, which was early in the events of AGOT (~298 AC).

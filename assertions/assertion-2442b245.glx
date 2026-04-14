@@ -1,0 +1,11 @@
+assertions:
+    assertion-daario-stormcrows-adwd:
+        subject:
+            person: person-daario-naharis
+        property: title
+        value: Captain of the Stormcrows
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''DAARIO NAHARIS, a flamboyant Tyroshi sellsword, captain of the Stormcrows'''

@@ -1,0 +1,15 @@
+persons:
+    person-alerie-hightower:
+        properties:
+            external_ids:
+                - MH:I376
+            gender: female
+            house: Hightower
+            name:
+                fields:
+                    given: Alerie
+                    surname: Hightower
+                value: Alerie Hightower
+            title:
+                - value: Lady
+        notes: Wife of Mace Tyrell. Of House Hightower of Oldtown.

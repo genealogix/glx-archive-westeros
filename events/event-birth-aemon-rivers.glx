@@ -1,7 +1,0 @@
-events:
-    event-birth-aemon-rivers:
-        title: "Birth of Ser Aemon Rivers"
-        type: birth
-        participants:
-            - person: person-aemon-rivers
-              role: principal

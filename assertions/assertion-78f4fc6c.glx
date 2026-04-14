@@ -1,0 +1,11 @@
+assertions:
+    assertion-allyria-dayne-name:
+        subject:
+            person: person-allyria-dayne
+        property: name
+        value: Allyria Dayne
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: From GEDCOM. Allyria Dayne is mentioned in ASOS prose (betrothed to Beric Dondarrion) but does not appear by name in any novel appendix. Retained at medium confidence as a prose-only character.

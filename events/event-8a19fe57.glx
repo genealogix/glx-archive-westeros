@@ -1,0 +1,7 @@
+events:
+    event-25aa5f2f:
+        type: birth
+        date: "BET 247 AND 248"
+        participants:
+            - person: person-alliser-thorne
+              role: principal

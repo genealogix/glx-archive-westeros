@@ -1,0 +1,11 @@
+assertions:
+    assertion-benjen-stark-appearance-jon-i:
+        subject:
+            person: person-benjen-stark
+        property: description
+        value: Sharp-featured, gaunt, blue-grey eyes; tall; wears Night's Watch black
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-jon-i
+        notes: 'Source text (Jon I): ''His uncle was sharp-featured and gaunt as a mountain crag, but there was always a hint of laughter in his blue-grey eyes. He dressed in black, as befitted a man of the Night''s Watch.'''

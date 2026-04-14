@@ -1,0 +1,12 @@
+assertions:
+    assertion-jeyne-darry-name:
+        subject:
+            person: person-jeyne-darry
+        property: name
+        value: Jeyne Darry
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

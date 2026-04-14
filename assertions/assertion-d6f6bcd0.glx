@@ -1,0 +1,12 @@
+assertions:
+    assertion-rlj-show-confirmed:
+        subject:
+            person: person-jon-snow
+        property: parent
+        value: person-rhaegar-targaryen and person-lyanna-stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-got-s06e10
+            - citation-got-s07e07
+        notes: 'R+L=J confirmed in HBO''s Game of Thrones. In S06E10 ''The Winds of Winter,'' Bran''s vision shows Lyanna giving birth to Jon at the Tower of Joy and whispering to Ned: ''If Robert finds out, he''ll kill him. You have to protect him. Promise me, Ned.'' In S07E07 ''The Dragon and the Wolf,'' it is further revealed that Rhaegar and Lyanna were secretly married, making Jon a trueborn Targaryen named Aegon. Show canon diverges from books here: Rhaegar''s marriage to Elia was annulled (book-only: no annulment is mentioned; Targaryens historically practiced polygamy). D&D confirmed GRRM told them Jon''s parentage before the show began, calling it ''the central mystery'' of the series. Status: proven (show canon). Note: While the show confirms Jon''s parentage, the specific details (annulment vs. polygamy, name ''Aegon'') may differ in the books.'

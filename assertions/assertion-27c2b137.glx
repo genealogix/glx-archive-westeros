@@ -1,0 +1,11 @@
+assertions:
+    assertion-pylos-name-acok:
+        subject:
+            person: person-pylos
+        property: name
+        value: Pylos
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the Narrow Sea section. Source text: ''MAESTER PYLOS, his young successor.'''

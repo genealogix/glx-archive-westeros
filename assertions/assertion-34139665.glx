@@ -1,0 +1,11 @@
+assertions:
+    assertion-balon-greyjoy-house:
+        subject:
+            person: person-balon-greyjoy
+        property: house
+        value: Greyjoy
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Greyjoy section.

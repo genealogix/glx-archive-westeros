@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-296-gender:
+        subject:
+            person: person-targaryen-296
+        property: gender
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Likely Aelor Targaryen, son of Rhaegel.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-born-winterfell:
+        subject:
+            event: event-birth-eddard-stark
+        property: place
+        value: place-winterfell
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-eddard-stark
+        notes: Born at Winterfell, seat of House Stark.

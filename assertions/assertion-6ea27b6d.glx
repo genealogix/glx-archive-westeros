@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-stark-title-lord-winterfell-acok:
+        subject:
+            person: person-robb-stark
+        property: title
+        value: Lord of Winterfell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: From ACOK Appendix, The King in the North section. Robb is now Lord of Winterfell following his father's death.

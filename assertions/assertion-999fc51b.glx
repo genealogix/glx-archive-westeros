@@ -1,0 +1,11 @@
+assertions:
+    assertion-janos-slynt-insubordination:
+        subject:
+            person: person-janos-slynt
+        property: description
+        value: 'Refused Lord Commander Jon Snow''s direct order to take command of Greyguard three separate times. Said: ''You can stick your order up your bastard''s arse.'' Laughed at Jon''s authority. His defiance forced Jon to make an example or lose command of the Watch.'
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-jon-ii
+        notes: All from Jon II POV. Slynt's three refusals are described in detail, including his attempts to intimidate Jon by invoking Tywin Lannister and claiming important friends.

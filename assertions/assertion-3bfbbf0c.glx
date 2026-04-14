@@ -1,0 +1,11 @@
+assertions:
+    assertion-margaery-tyrell-gender:
+        subject:
+            person: person-margaery-tyrell
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: MARGAERY, their daughter, a maid of fourteen years'

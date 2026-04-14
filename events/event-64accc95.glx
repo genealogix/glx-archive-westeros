@@ -1,0 +1,7 @@
+events:
+    event-death-jeyne-waters:
+        title: Death of Jeyne Waters
+        type: death
+        participants:
+            - person: person-jeyne-waters
+              role: principal

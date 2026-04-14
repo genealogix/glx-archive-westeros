@@ -1,0 +1,11 @@
+assertions:
+    assertion-aegon-targaryen-vi-name:
+        subject:
+            person: person-aegon-targaryen-vi
+        property: name
+        value: Aegon Targaryen VI
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Targaryen section. Son of Prince Rhaegar and Princess Elia Martell. Source text: {PRINCE AEGON}, a babe, slain during the Sack of King''s Landing'

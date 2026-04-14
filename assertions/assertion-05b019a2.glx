@@ -1,0 +1,12 @@
+assertions:
+    assertion-whalen-frey-name:
+        subject:
+            person: person-whalen-frey
+        property: name
+        value: Whalen Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER WHALEN, Lord Walder''s fourteenth son, m. Sylwa Paege'

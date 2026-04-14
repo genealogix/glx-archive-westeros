@@ -1,0 +1,11 @@
+assertions:
+    assertion-alys-arryn-gender:
+        subject:
+            person: person-alys-arryn
+        property: gender
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. May appear only in TWOIAF or supplementary sources.

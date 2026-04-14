@@ -1,0 +1,11 @@
+assertions:
+    assertion-dagmer-cleftjaw-role:
+        subject:
+            person: person-dagmer-cleftjaw
+        property: description
+        value: Commands Theon's forces in the feint against Torrhen's Square
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-theon-iii
+        notes: 'Dagmer Cleftjaw commands Theon''s ironborn longship Foamdrinker and leads the diversionary attack on Torrhen''s Square that draws Ser Rodrik Cassel away from Winterfell. Source text: ''Dagmer Cleftjaw stood by the high carved prow of his longship, Foamdrinker.'''

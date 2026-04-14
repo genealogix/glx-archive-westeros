@@ -1,0 +1,12 @@
+assertions:
+    assertion-rhaegal-viserion-freed:
+        subject:
+            event: event-dragons-freed-meereen
+        property: description
+        value: Rhaegal and Viserion escaped from the dragon pit during Quentyn Martell's theft attempt
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-dragontamer
+            - citation-adwd-the-queens-hand
+        notes: 'Rhaegal''s collar showed three feet of broken chain. Viserion had excavated a nest in the pyramid wall. During Quentyn''s attempt, a Windblown crossbowman fired a bolt into Viserion''s neck; enraged, the dragon killed the man and broke for the door. Quentyn struck Viserion with the whip without effect. Rhaegal then attacked Quentyn from behind. Both dragons escaped the pyramid into the city. Rhaegal made his lair on the pyramid of Hazkar (setting it ablaze); Viserion occupied Yherizan. Barristan''s account: ''We have herded a thousand sheep into the Daznak''s Pit... Both dragons seemed to have a taste for mutton, returning to Daznak''s whenever they grew hungry.'''

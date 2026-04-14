@@ -1,0 +1,11 @@
+assertions:
+    assertion-gerion-lannister-name:
+        subject:
+            person: person-gerion-lannister
+        property: name
+        value: Gerion Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Braces indicate deceased/lost. Source text: {GERION}, his youngest brother, lost at sea'

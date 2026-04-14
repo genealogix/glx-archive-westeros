@@ -1,0 +1,12 @@
+assertions:
+    assertion-aegon-targaryen-iii-gender:
+        subject:
+            person: person-aegon-targaryen-iii
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: the young Aegon III—who was eleven at the time—agreed to make Lord Stark his Hand'

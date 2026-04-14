@@ -1,0 +1,9 @@
+events:
+    event-birth-hodor:
+        title: Birth of Hodor
+        type: birth
+        place: place-winterfell
+        participants:
+            - person: person-hodor
+              role: principal
+        notes: True name Walder. Great-grandson of Old Nan.

@@ -1,0 +1,7 @@
+events:
+    event-birth-walder-haigh:
+        title: Birth of Walder Haigh
+        type: birth
+        participants:
+            - person: person-walder-haigh
+              role: principal

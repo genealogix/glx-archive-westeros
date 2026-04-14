@@ -1,0 +1,11 @@
+persons:
+    person-myriah-martell:
+        properties:
+            external_ids:
+                - MH:I291
+            gender: female
+            name:
+                fields:
+                    given: Myriah
+                    surname: Martell
+                value: Myriah Martell

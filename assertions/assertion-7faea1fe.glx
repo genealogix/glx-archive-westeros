@@ -1,0 +1,12 @@
+assertions:
+    assertion-donnel-waynwood-name:
+        subject:
+            person: person-donnel-waynwood
+        property: name
+        value: Donnel Waynwood
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Arryn section. ADWD Appendix updates to ''SER DONNEL, the Knight of the Bloody Gate''. Source text: SER DONNEL WAYNWOOD, her son'

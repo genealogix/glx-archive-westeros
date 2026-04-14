@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-death-cause:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: cause_of_death
+        value: Molten gold poured over head by Khal Drogo
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-v
+        notes: 'Source text: ''Crown! Here. A crown for Cart King! And upended the pot over the head of the man who had been her brother.'' Khal Drogo melted his gold medallion belt in an iron stew pot and poured it over Viserys''s head, burning him to death. No blood was shed, technically fulfilling the prohibition against bloodshed in Vaes Dothrak. Daenerys watched: ''He was no dragon, Dany thought, curiously calm. Fire cannot kill a dragon.'''

@@ -1,0 +1,12 @@
+assertions:
+    assertion-sansa-stark-name:
+        subject:
+            person: person-sansa-stark
+        property: name
+        value: Sansa Stark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to ''SANSA, his sister, m. Tyrion of House Lannister''. Source text: SANSA, the eldest daughter, eleven'

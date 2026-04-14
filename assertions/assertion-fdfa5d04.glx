@@ -1,0 +1,11 @@
+assertions:
+    assertion-tower-of-joy-martyn-cassel:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-martyn-cassel
+            role: combatant
+            notes: 'Jory Cassel''s father. Died at the Tower of Joy. Source text: ''Proud Martyn Cassel, Jory''s father.'''
+        confidence: high
+        citations:
+            - citation-agot-eddard-x

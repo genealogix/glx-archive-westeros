@@ -1,0 +1,11 @@
+assertions:
+    assertion-cassana-estermont-gender:
+        subject:
+            person: person-cassana-estermont
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix. Listed as Lady.

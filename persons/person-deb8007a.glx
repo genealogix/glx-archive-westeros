@@ -1,0 +1,11 @@
+persons:
+    person-velena-velaryon:
+        properties:
+            external_ids:
+                - MH:I359
+            gender: female
+            name:
+                fields:
+                    given: Velena
+                    surname: Velaryon
+                value: Velena Velaryon

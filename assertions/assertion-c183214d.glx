@@ -1,0 +1,12 @@
+assertions:
+    assertion-stannis-rightful-claim:
+        subject:
+            person: person-stannis-baratheon
+        property: title
+        value: King of the Seven Kingdoms (rightful heir by law)
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-prologue
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I, Stannis''s proclamation read by Pylos): ''All men know me for the trueborn son of Steffon Baratheon, Lord of Storm''s End, by his lady wife Cassana of House Estermont. I declare upon the honor of my House that my beloved brother Robert, our late king, left no trueborn issue of his body, the boy Joffrey, the boy Tommen, and the girl Myrcella being abominations born of incest between Cersei Lannister and her brother Jaime the Kingslayer. By right of birth and blood, I do this day lay claim to the Iron Throne.'' In the prologue Cressen confirms: ''Stannis Baratheon, Lord of Dragonstone and by the grace of the gods rightful heir to the Iron Throne.'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-born-riverrun:
+        subject:
+            event: event-birth-catelyn-tully
+        property: place
+        value: place-riverrun
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-i
+        notes: Born at Riverrun, seat of House Tully.

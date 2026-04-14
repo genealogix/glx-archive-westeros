@@ -1,0 +1,8 @@
+events:
+    event-death-aegon-targaryen-iii:
+        title: Death of Aegon Targaryen III
+        type: death
+        date: "157"
+        participants:
+            - person: person-aegon-targaryen-iii
+              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-samwell-tarly-gender:
+        subject:
+            person: person-samwell-tarly
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Tyrell section. Listed as elder son of Randyll Tarly.

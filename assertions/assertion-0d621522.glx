@@ -1,0 +1,12 @@
+assertions:
+    assertion-elinor-tyrell-name:
+        subject:
+            person: person-elinor-tyrell
+        property: name
+        value: Elinor Tyrell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Tyrell section. Daughter of Ser Theodore Tyrell, one of Margaery''s companions. Source text: Theodore''s daughter, ELINOR'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-alysanne-hightower-name:
+        subject:
+            person: person-alysanne-hightower
+        property: name
+        value: Alysanne Hightower
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Married to Lord Arthur Ambrose. Source text: Lord Leyton''s daughter, ALYSANNE, m. Lord Arthur Ambrose'

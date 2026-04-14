@@ -1,0 +1,11 @@
+assertions:
+    assertion-shae-false-testimony:
+        subject:
+            person: person-shae
+        property: description
+        value: Testified falsely against Tyrion Lannister at his murder trial
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-tyrion-trial
+        notes: 'Shae appeared as Cersei''s final witness and gave wholly fabricated testimony: that Tyrion had plotted with Sansa to poison Joffrey, that he intended to kill Cersei, Tywin, and eventually Tommen to seize the throne, and that he had forced her into his service at the Green Fork. She also publicly revealed and mocked his private name for her (''my giant of Lannister''). Text: ''They plotted it together... The Imp and Lady Sansa plotted it after the Young Wolf died... I was his whore, all the time he was here in King''s Landing.'''

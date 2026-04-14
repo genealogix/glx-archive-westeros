@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-accused-tyrion:
+        subject:
+            person: person-joffrey-baratheon
+        property: description
+        value: Pointed toward Tyrion while dying, appearing to accuse him
+        confidence: medium
+        status: proven
+        citations:
+            - citation-asos-tyrion-lxviii
+        notes: 'Tyrion''s POV: ''he lifted a hand... reaching for his uncle, or pointing... Is he begging my forgiveness, or does he think I can save him?'' The gesture was ambiguous — whether accusation or plea. Cersei chose to interpret it as accusation and immediately ordered Tyrion arrested. Text: ''The boy was making a dry clacking noise, trying to speak. His eyes bulged white with terror, and he lifted a hand...'''

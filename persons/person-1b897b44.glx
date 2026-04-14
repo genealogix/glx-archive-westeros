@@ -1,0 +1,10 @@
+persons:
+    person-naerys:
+        properties:
+            external_ids:
+                - MH:I303
+            gender: female
+            name:
+                fields:
+                    given: Naerys
+                value: Naerys

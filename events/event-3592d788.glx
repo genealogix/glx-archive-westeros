@@ -1,0 +1,14 @@
+events:
+    event-birth-jaime-lannister:
+        title: Birth of Ser Jaime Lannister
+        type: birth
+        place: place-casterly-rock
+        date: "266"
+        participants:
+            - person: person-jaime-lannister
+              role: principal
+            - person: person-tywin-lannister
+              role: parent
+            - person: person-joanna-lannister
+              role: parent
+        notes: Twin to Cersei Lannister, born moments after her.

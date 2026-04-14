@@ -1,0 +1,12 @@
+assertions:
+    assertion-oberyn-motivation-elia:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: description
+        value: Volunteered as Tyrion's champion to force Gregor Clegane to publicly confess to raping and murdering Elia Martell and killing her children
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-tyrion-trial
+            - citation-asos-oberyn-duel
+        notes: 'Oberyn told Tyrion directly: ''Elia and her children have waited long for justice. But this day they shall have it.'' During the duel he repeatedly chanted ''You raped her. You murdered her. You killed her children.'' He wanted Gregor to name himself and by implication name Tywin as the one who gave the orders. Text: ''I have killed large men before. The trick is to get them off their feet. Once they go down, they''re dead.'''

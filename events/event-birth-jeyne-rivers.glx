@@ -1,7 +1,0 @@
-events:
-    event-birth-jeyne-rivers:
-        title: "Birth of Jeyne Rivers"
-        type: birth
-        participants:
-            - person: person-jeyne-rivers
-              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-hosteen-frey-massacre-role:
+        subject:
+            person: person-hosteen-frey
+        property: description
+        value: Cut down Lucas Blackwood during the massacre
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Ser Hosteen Frey personally killed Lucas Blackwood during the Red Wedding massacre. Direct text: ''She saw Lucas Blackwood cut down by Ser Hosteen Frey.'' Hosteen was among those pounding cups on the table when the bedding ceremony was called — one of the first signals.'

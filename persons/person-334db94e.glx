@@ -1,0 +1,11 @@
+persons:
+    person-elbert-arryn:
+        properties:
+            external_ids:
+                - MH:I248
+            gender: male
+            name:
+                fields:
+                    given: Elbert
+                    surname: Arryn
+                value: Elbert Arryn

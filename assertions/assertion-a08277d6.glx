@@ -1,0 +1,12 @@
+assertions:
+    assertion-baelor-targaryen-i-gender:
+        subject:
+            person: person-baelor-targaryen-i
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: the Iron Throne passed to his brother Baelor, a youth of ten-and-seven'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-brown-ben-second-sons-adwd:
+        subject:
+            person: person-brown-ben-plumm
+        property: title
+        value: Captain of the Second Sons
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''BEN PLUMM, called BROWN BEN, a mongrel sellsword, captain of the Second Sons'''

@@ -1,9 +1,0 @@
-events:
-    event-marriage-hardyng-and-waynwood-237:
-        title: "Marriage of Ser Hardyng and Waynwood"
-        type: marriage
-        participants:
-            - person: person-hardyng
-              role: subject
-            - person: person-waynwood-237
-              role: subject

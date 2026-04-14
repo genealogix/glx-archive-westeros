@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-party-splits-north:
+        subject:
+            person: person-brandon-stark-bran
+        property: status
+        value: Departed Winterfell north with Hodor, Meera Reed, and Jojen Reed; Rickon departed east with Osha
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-bran-vii
+        notes: 'ACOK Bran VII: Maester Luwin''s dying words — ''The princes... Robb''s heirs. Not... not together... do you hear?'' Osha decided: ''I''ll take Rickon with me... I''ll try the East Gate, and follow the kingsroad a ways.'' Meera said: ''We''ll take the Hunter''s Gate.'' Jojen announced: ''Our road is north.'' This separation continues through ASOS and ADWD.'

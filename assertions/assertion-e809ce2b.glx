@@ -1,0 +1,11 @@
+assertions:
+    assertion-tywin-lannister-death:
+        subject:
+            event: event-death-tywin-lannister
+        property: date
+        value: "300"
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Tywin Lannister was killed by his son Tyrion with a crossbow while on the privy. Occurs at the very end of ASOS. Confirmed dead in AFFC appendix.

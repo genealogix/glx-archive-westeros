@@ -1,0 +1,12 @@
+persons:
+    person-maelys-blackfyre-the-monstrous:
+        properties:
+            external_ids:
+                - MH:I320
+            gender: male
+            name:
+                fields:
+                    given: Maelys
+                    nickname: The Monstrous
+                    surname: Blackfyre
+                value: Maelys Blackfyre

@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-lies-to-robert:
+        subject:
+            person: person-joffrey-baratheon
+        property: description
+        value: Lied to King Robert about Trident incident
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-iii
+        notes: 'Source text: ''Joff told us what happened. You and the butcher boy beat him with clubs while you set your wolf on him.'' Joffrey''s account contradicted Arya''s and the physical evidence. Even Robert Baratheon said privately: ''My son was lying, I''d stake my soul on it.'' Ned Stark also knew the truth. POV: Eddard, with Robert''s private admission.'

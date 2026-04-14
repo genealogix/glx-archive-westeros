@@ -1,0 +1,12 @@
+assertions:
+    assertion-patrek-vance-gender:
+        subject:
+            person: person-patrek-vance
+        property: gender
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

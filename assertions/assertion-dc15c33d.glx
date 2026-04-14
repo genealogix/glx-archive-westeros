@@ -1,0 +1,12 @@
+assertions:
+    assertion-alys-frey-name:
+        subject:
+            person: person-alys-frey
+        property: name
+        value: Alys Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Mentioned only as Jared''s deceased wife. She was a Frey cousin. Source text: SER JARED, Lord Walder''s fourth son, m. {Alys Frey}'

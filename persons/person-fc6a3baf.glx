@@ -1,0 +1,11 @@
+persons:
+    person-alyssa-blackwood:
+        properties:
+            external_ids:
+                - MH:I103
+            gender: female
+            name:
+                fields:
+                    given: Alyssa
+                    surname: Blackwood
+                value: Alyssa Blackwood

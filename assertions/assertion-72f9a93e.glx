@@ -1,0 +1,12 @@
+assertions:
+    assertion-tyrion-flees-to-essos:
+        subject:
+            person: person-tyrion-lannister
+        property: description
+        value: After killing Tywin Lannister and Shae (ASOS), Tyrion was smuggled across the Narrow Sea by Varys. He arrived in Pentos where he was hosted by Magister Illyrio Mopatis. Cersei placed a lordship on his head. Illyrio arranged for him to join Young Griff's company on the Shy Maid on the Rhoyne, en route to Daenerys.
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-tyrion-i
+            - citation-adwd-tyrion-ii
+        notes: Established across Tyrion I and II POV chapters.

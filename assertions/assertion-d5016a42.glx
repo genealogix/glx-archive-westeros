@@ -1,0 +1,11 @@
+assertions:
+    assertion-davos-sons-named:
+        subject:
+            person: person-davos-seaworth
+        property: description
+        value: Sons Dale, Allard, Matthos, Maric, Devan (squire to Stannis), and two younger boys Stannis and Steffon
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I): ''Dale and Allard captained galleys as well, Maric was oarmaster on the Fury, Matthos served his father on Black Betha, and the king had taken Devan as a royal squire.'' Also: ''Marya was mistress of a small keep on Cape Wrath.'' Sons Stannis and Steffon are named as younger boys who have learned their letters. Four sons (Dale, Allard, Matthos, Maric) died at the Blackwater.'

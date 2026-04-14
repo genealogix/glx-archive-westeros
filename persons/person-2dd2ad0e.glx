@@ -1,0 +1,15 @@
+persons:
+    person-donal-noye:
+        properties:
+            cause_of_death: At War
+            culture: Stormlander
+            gender: male
+            name:
+                fields:
+                    given: Donal
+                    surname: Noye
+                    type: birth
+                value: Donal Noye
+            title:
+                - value: Armorer, Castle Black
+        notes: One-armed armorer and steward of the Night's Watch at Castle Black. Formerly in service to House Baratheon of Storm's End, where he forged Robert's warhammer — the weapon that killed Rhaegar Targaryen at the Trident. Lost his left arm to a festering axe wound during the siege of Storm's End in Robert's Rebellion. Died heroically at Castle Black in 300 AC, defending the gate tunnel in single combat against the giant Mag the Mighty during the wildling assault on the Wall.

@@ -1,0 +1,15 @@
+persons:
+    person-jacelyn-bywater:
+        properties:
+            alias:
+                - value: Ironhand
+            gender: male
+            name:
+                fields:
+                    given: Jacelyn
+                    prefix: Ser
+                    surname: Bywater
+                value: Ser Jacelyn Bywater
+            title:
+                - value: Captain of the River Gate
+        notes: Called Ironhand. Captain of the River Gate of the City Watch of King's Landing (gold cloaks). First appears in ACOK appendix.

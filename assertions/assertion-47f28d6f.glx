@@ -1,0 +1,12 @@
+assertions:
+    assertion-aegon-vi-born-281:
+        subject:
+            event: event-birth-aegon-targaryen-vi
+        property: date
+        value: "281"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-eddard-stark
+            - citation-agot-appendix
+        notes: Born 281 AC in King's Landing. Son of Rhaegar and Elia.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-olenna-redwyne-house:
+        subject:
+            person: person-olenna-redwyne
+        property: house
+        value: Redwyne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Tyrell section.

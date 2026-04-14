@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-baratheon-title:
+        subject:
+            person: person-stannis-baratheon
+        property: title
+        value: Lord of Dragonstone, Master of Ships
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section. Source text: STA NNIS BA RA THEON, Lord of Dragonstone; also listed as master of ships on the small council.'

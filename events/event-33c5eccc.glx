@@ -1,0 +1,7 @@
+events:
+    event-death-duncan-targaryen-the-small:
+        title: Death of Duncan Targaryen
+        type: death
+        participants:
+            - person: person-duncan-targaryen-the-small
+              role: principal

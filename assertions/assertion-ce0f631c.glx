@@ -1,0 +1,11 @@
+assertions:
+    assertion-ramsay-bolton-bastard-adwd:
+        subject:
+            person: person-ramsay-bolton
+        property: title
+        value: Lord of the Hornwood
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''RAMSAY BOLTON, his natural son, called THE BASTARD OF BOLTON, Lord of the Hornwood'''

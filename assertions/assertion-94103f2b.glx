@@ -1,0 +1,11 @@
+assertions:
+    assertion-sansa-born-286:
+        subject:
+            event: event-birth-sansa-stark
+        property: date
+        value: "286"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-sansa-stark
+        notes: Born in 286 AC at Winterfell. Age 13 by AFFC.

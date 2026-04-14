@@ -1,0 +1,12 @@
+persons:
+    person-ryam-florent:
+        properties:
+            external_ids:
+                - MH:I440
+            gender: male
+            name:
+                fields:
+                    given: Ryam
+                    prefix: Ser
+                    surname: Florent
+                value: Ser Ryam Florent

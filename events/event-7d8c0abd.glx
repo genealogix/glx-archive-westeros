@@ -1,0 +1,7 @@
+events:
+    event-birth-omer-florent:
+        title: Birth of Maester Omer Florent
+        type: birth
+        participants:
+            - person: person-omer-florent
+              role: principal

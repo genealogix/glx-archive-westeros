@@ -1,0 +1,12 @@
+assertions:
+    assertion-elia-martell-name:
+        subject:
+            person: person-elia-martell
+        property: name
+        value: Elia Martell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Martell section. Curly braces indicate deceased. Source text: {PRINCESS ELIA, raped and murdered during the Sack of King''s Landing}'

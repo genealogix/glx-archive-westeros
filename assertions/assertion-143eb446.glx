@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-appearance-jon-i:
+        subject:
+            person: person-joffrey-baratheon
+        property: description
+        value: Twelve years old; tall for his age; golden blond curls; deep green eyes; pouty lips; disdainful manner
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-jon-i
+        notes: 'Source text (Jon I): ''Sansa, two years older, drew the crown prince, Joffrey Baratheon. He was twelve, younger than Jon or Robb, but taller than either, to Jon''s vast dismay. Prince Joffrey had his sister''s hair and his mother''s deep green eyes. A thick tangle of blond curls dripped down past his golden choker and high velvet collar.'''

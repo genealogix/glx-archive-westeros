@@ -1,0 +1,11 @@
+assertions:
+    assertion-davos-hand-adwd:
+        subject:
+            person: person-davos-seaworth
+        property: title
+        value: Hand of the King
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''SER DAVOS SEAWORTH, Lord of the Rainwood, Admiral of the Narrow Sea, and Hand of the King, called THE ONION KNIGHT'''

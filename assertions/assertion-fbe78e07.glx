@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-286-name:
+        subject:
+            person: person-targaryen-286
+        property: name
+        value: Targaryen
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: 'Imported from GEDCOM as unnamed male Targaryen. Child of Aerion Brightflame per relationship data. Likely Maegor, son of Aerion, mentioned in TWOIAF. Cannot confirm without given name in GEDCOM. Source text: Aerion Brightfire''s son was born in 232 AC, and given the ominous name of Maegor by his sire'

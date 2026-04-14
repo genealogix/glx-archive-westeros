@@ -1,0 +1,11 @@
+assertions:
+    assertion-balon-greyjoy-death:
+        subject:
+            person: person-balon-greyjoy
+        property: cause_of_death
+        value: Killed in a fall
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: AFFC Appendix states Balon was 'killed in a fall.' He fell from a bridge at Pyke during a storm.

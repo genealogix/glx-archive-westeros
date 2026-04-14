@@ -1,0 +1,12 @@
+persons:
+    person-argilac-durrendon-the-arrogant:
+        properties:
+            external_ids:
+                - MH:I363
+            gender: male
+            name:
+                fields:
+                    given: Argilac
+                    nickname: The Arrogant
+                    surname: Durrendon
+                value: Argilac Durrendon

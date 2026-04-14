@@ -1,0 +1,12 @@
+assertions:
+    assertion-loras-tyrell-name:
+        subject:
+            person: person-loras-tyrell
+        property: name
+        value: Ser Loras Tyrell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Tyrell section. Known as the Knight of Flowers. Source text: SER LORAS, the Knight of Flowers, their youngest son, a Sworn Brother of the Kingsguard'

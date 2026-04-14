@@ -1,0 +1,7 @@
+events:
+    event-042c3097:
+        type: death
+        date: "299"
+        participants:
+            - person: person-lommy-greenhands
+              role: principal

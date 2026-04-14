@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-father-official:
+        subject:
+            person: person-joffrey-baratheon
+        property: parent
+        value: person-robert-baratheon-i
+        confidence: low
+        status: disproven
+        citations:
+            - citation-agot-appendix
+        notes: Officially recorded as Robert Baratheon's son. Disproven by Ned Stark's investigation and Cersei's own confession.

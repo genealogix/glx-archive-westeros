@@ -1,0 +1,11 @@
+assertions:
+    assertion-jorah-banished:
+        subject:
+            person: person-jorah-mormont
+        property: description
+        value: Banished from Meereen by Daenerys Targaryen for spying on her and reporting to Varys/Robert Baratheon
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-meereen
+        notes: 'Ser Barristan Selmy revealed that Jorah''s intelligence reports led directly to the poisoning attempt on Daenerys in Vaes Dothrak. Jorah confirmed he had written from Qarth. Dany: ''I cannot forgive you. I can''t.'' Jorah: ''I have loved you.'' Dany banished him before dawn on pain of death by Strong Belwas. Text: ''You did not die in battle, so it must be they still have some use for you. But I don''t. I will not have you near me. You are banished, ser.'''

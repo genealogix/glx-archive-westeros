@@ -1,0 +1,12 @@
+assertions:
+    assertion-daenys-dreamer-house:
+        subject:
+            person: person-daenys-the-dreamer
+        property: house
+        value: Targaryen
+        confidence: high
+        status: proven
+        citations:
+            - citation-twoiaf-doom-valyria
+            - citation-awoiaf-daenys-targaryen
+        notes: Daughter of Aenar Targaryen, a Valyrian dragonlord. House Targaryen was the only dragonrider family to survive the Doom thanks to her prophetic dream.

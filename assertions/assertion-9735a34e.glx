@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-clegane-alias-acok:
+        subject:
+            person: person-sandor-clegane
+        property: alias
+        value: the Hound
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: From ACOK Appendix, Kingsguard listing.

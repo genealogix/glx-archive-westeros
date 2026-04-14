@@ -1,0 +1,11 @@
+assertions:
+    assertion-oberyn-martell-alias-affc:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: alias
+        value: The Red Viper
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Called The Red Viper in the AFFC appendix.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaego-prophecy:
+        subject:
+            person: person-rhaego
+        property: alias
+        value: The Stallion Who Mounts the World
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-daenerys-v
+        notes: 'Source text: ''The prince is riding, and he shall be the stallion who mounts the world.'' The dosh khaleen prophesied that Rhaego would be the khal of khals, uniting all Dothraki into one khalasar and riding to the ends of the earth. The prophecy was unfulfilled as Rhaego was stillborn.'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-obella-sand-age-affc:
+        subject:
+            event: event-birth-obella-sand
+        property: date
+        value: ABT 287
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: AFFC Appendix lists Obella as twelve. Daughter of Oberyn and Ellaria Sand.

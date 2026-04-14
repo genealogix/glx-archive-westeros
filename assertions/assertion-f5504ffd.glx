@@ -1,0 +1,11 @@
+assertions:
+    assertion-alleras-sphinx-identity:
+        subject:
+            person: person-alleras-the-sphinx
+        property: alias
+        value: Possibly Sarella Sand (bastard daughter of Oberyn Martell)
+        confidence: low
+        status: speculative
+        citations:
+            - citation-affc-samwell-iv
+        notes: Alleras is described as half-Dornish, with 'skin the color of a light brown ale' and a 'soft Dornish drawl.' He is called 'the Sphinx' — referencing the sphinxes at the Citadel gates — and the prologue of AFFC notes Oberyn Martell's bastard daughter Sarella Sand was 'playing some Game in Oldtown.' Many fans believe Alleras = Sarella Sand in disguise, which would explain his presence at the Citadel (normally restricted to men). This is not confirmed in the text; confidence is low.

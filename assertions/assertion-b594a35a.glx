@@ -1,0 +1,11 @@
+assertions:
+    assertion-varamyr-second-life:
+        subject:
+            person: person-varamyr-sixskins
+        property: description
+        value: Varamyr Sixskins died at an unnamed wildling village, his body claimed by Thistle after he attempted to seize her as a skin. His consciousness entered his wolf One Eye as a second life — the skinchanger's form of continuation after death.
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-prologue
+        notes: The Prologue is Varamyr's POV at the moment of death. We witness his consciousness transferring into One Eye directly. His human body dies when Thistle rejects his seizure and turns on him as a wight.

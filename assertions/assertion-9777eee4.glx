@@ -1,0 +1,11 @@
+assertions:
+    assertion-donnel-locke-death:
+        subject:
+            event: event-908d6d93
+        property: date
+        value: "299"
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Killed at the Red Wedding by crossbow. Direct text: ''The crossbows took Donnel Locke, Owen Norrey, and half a dozen more.'''

@@ -1,9 +1,0 @@
-events:
-    event-marriage-gunthor-hightower-and-jeyne-fossoway:
-        title: "Marriage of Gunthor Hightower and Jeyne Fossoway"
-        type: marriage
-        participants:
-            - person: person-gunthor-hightower
-              role: subject
-            - person: person-jeyne-fossoway
-              role: subject

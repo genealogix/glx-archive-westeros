@@ -1,0 +1,12 @@
+assertions:
+    assertion-tyta-frey-gender:
+        subject:
+            person: person-tyta-frey
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: TYTA, called TYTA THE MAID, a maid of twenty-nine'

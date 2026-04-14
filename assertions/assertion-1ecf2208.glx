@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-born-dragonstone:
+        subject:
+            event: event-birth-daenerys-targaryen-206
+        property: place
+        value: Dragonstone
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-i
+        notes: 'Source text (Daenerys I): ''She had been born on Dragonstone nine moons after their flight, while a raging summer storm threatened to rip the island fastness apart.'' Her mother died birthing her. The Targaryen fleet was smashed at anchor during the storm, earning her the name ''Stormborn.'''

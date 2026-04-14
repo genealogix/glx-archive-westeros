@@ -1,0 +1,6 @@
+places:
+    place-lannisport:
+        name: Lannisport
+        parent: place-the-westerlands
+        type: city
+        notes: A major city and port on the coast beneath Casterly Rock. One of the largest cities in Westeros. Home to a cadet branch of House Lannister.

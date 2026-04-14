@@ -1,0 +1,12 @@
+assertions:
+    assertion-rhaelle-targaryen-288-gender:
+        subject:
+            person: person-rhaelle-targaryen-288
+        property: gender
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Daughter of Maekar I. Not individually named in TWOIAF text found.

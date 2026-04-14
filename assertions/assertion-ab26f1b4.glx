@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-snow-appearance-agot:
+        subject:
+            person: person-jon-snow
+        property: description
+        value: Slender, dark; grey eyes so dark they seem almost black; graceful and quick; age 14 at AGOT
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-i
+        notes: 'Source text (Bran I): ''Jon''s eyes were a grey so dark they seemed almost black, but there was little they did not see. He was of an age with Robb, but they did not look alike. Jon was slender where Robb was muscular, dark where Robb was fair, graceful and quick where his half brother was strong and fast.'''

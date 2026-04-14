@@ -1,0 +1,8 @@
+events:
+    event-birth-loreza-sand:
+        title: Birth of Loreza Sand
+        type: birth
+        date: "ABT 293"
+        participants:
+            - person: person-loreza-sand
+              role: principal

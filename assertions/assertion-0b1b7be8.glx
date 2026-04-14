@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-stark-attaints-gregor:
+        subject:
+            person: person-gregor-clegane
+        property: description
+        value: Stripped of all rank, titles, lands, and incomes by Ned Stark acting as Hand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-xi
+        notes: 'Source text: ''I denounce him, and attaint him, and strip him of all rank and titles, of all lands and incomes and holdings, and do sentence him to death.'' Ned Stark, sitting the Iron Throne as King''s Hand, formally attainted and sentenced Gregor Clegane to death, sending Lord Beric Dondarrion with eighty men to execute the sentence. The legal authority was contested — Robert had not personally ordered this.'

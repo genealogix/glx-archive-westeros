@@ -1,0 +1,11 @@
+assertions:
+    assertion-patchface-origin:
+        subject:
+            person: person-patchface
+        property: description
+        value: Found in Volantis as a boy, bought by Lord Steffon Baratheon; survived the wreck of the Windproud in Shipbreaker Bay; left broken in body and mind
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue): ''Lord Steffon of cherished memory had found him in Volantis, across the narrow sea. The king—Aerys II Targaryen—had sent his lordship to seek a bride for Prince Rhaegar... We have found the most splendid fool... he juggles and riddles and does magic, and he can sing prettily in four tongues. We have bought his freedom.'' The ship Windproud broke up in Shipbreaker Bay; Patchface washed up after two days, broken in mind. His face was tattooed in Volantene slave fashion: ''from neck to scalp the boy''s skin had been patterned in squares of red and green motley.'''

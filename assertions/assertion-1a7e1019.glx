@@ -1,0 +1,12 @@
+assertions:
+    assertion-galbart-glover-house:
+        subject:
+            person: person-galbart-glover
+        property: house
+        value: Glover
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-appendix
+            - citation-awoiaf-galbart-glover
+        notes: Head of House Glover, a northern house and bannermen of House Stark. Seat at Deepwood Motte.

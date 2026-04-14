@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-names-wolf-summer:
+        subject:
+            person: person-brandon-stark-bran
+        property: direwolf
+        value: Summer
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-bran-iii
+        notes: 'Source text: Bran looked up calmly. ''His name is Summer,'' he said. This is the first naming of Bran''s direwolf. The wolf had grown considerably during Bran''s coma and was now large enough to jump onto his bed.'

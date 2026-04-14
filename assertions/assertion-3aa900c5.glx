@@ -1,0 +1,11 @@
+assertions:
+    assertion-brienne-tarth-name-acok:
+        subject:
+            person: person-brienne-tarth
+        property: name
+        value: Brienne of Tarth
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in Highgarden section (Rainbow Guard). Source text: ''BRIENNE OF TARTH, the Blue, also called BRIENNE THE BEAUTY, daughter to Lord Selwyn the Evenstar.'''

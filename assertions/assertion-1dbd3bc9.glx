@@ -1,0 +1,11 @@
+assertions:
+    assertion-darlessa-marbrand-name:
+        subject:
+            person: person-darlessa-marbrand
+        property: name
+        value: Darlessa Marbrand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Listed as widow of Ser Tygett. Source text: his widow, DA RLESSA , of House Marbrand'

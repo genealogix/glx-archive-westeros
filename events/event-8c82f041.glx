@@ -1,0 +1,7 @@
+events:
+    event-0b52f36c:
+        type: death
+        date: "BEF 300"
+        participants:
+            - person: person-jon-arryn
+              role: principal

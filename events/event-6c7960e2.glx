@@ -1,0 +1,7 @@
+events:
+    event-f7433ad6:
+        type: birth
+        date: "BEF 252"
+        participants:
+            - person: person-donal-noye
+              role: principal

@@ -1,0 +1,7 @@
+events:
+    event-df6995a1:
+        type: death
+        date: "BET -2 AND -1"
+        participants:
+            - person: person-harren-the-black
+              role: principal

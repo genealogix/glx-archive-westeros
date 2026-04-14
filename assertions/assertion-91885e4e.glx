@@ -1,0 +1,12 @@
+assertions:
+    assertion-hosman-norcross-name:
+        subject:
+            person: person-hosman-norcross
+        property: name
+        value: Hosman Norcross
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ACOK Appendix, House Florent section. Husband of Delena Florent. Confirmed in ASOS and AFFC appendices. Source text: DELENA, wed to SER HOSMAN NORCROSS'

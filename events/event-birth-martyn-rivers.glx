@@ -1,7 +1,0 @@
-events:
-    event-birth-martyn-rivers:
-        title: "Birth of Martyn Rivers"
-        type: birth
-        participants:
-            - person: person-martyn-rivers
-              role: principal

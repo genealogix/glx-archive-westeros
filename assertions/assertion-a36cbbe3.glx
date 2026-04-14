@@ -1,0 +1,11 @@
+assertions:
+    assertion-bowen-marsh-lord-steward-adwd:
+        subject:
+            person: person-bowen-marsh
+        property: title
+        value: Lord Steward
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''BOWEN MARSH, Lord Steward'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-baratheon-title:
+        subject:
+            person: person-renly-baratheon
+        property: title
+        value: Lord of Storm's End, Master of Laws
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section. Source text: RENLY BA RA THEON, Lord of Storm''s End; also listed as master of laws on the small council.'

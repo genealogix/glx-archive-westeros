@@ -1,0 +1,11 @@
+assertions:
+    assertion-yoren-saved-arya:
+        subject:
+            person: person-yoren
+        property: role
+        value: rescued Arya Stark from the crowd at Ned's execution and began smuggling her north
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-arya-v
+        notes: Yoren grabbed Arya from the crowd, shook her so her teeth rattled, told her 'Don't look!' and then cut her hair with his knife to disguise her as a boy before taking her north with a Night's Watch recruiting party. He had recognized her and acted to protect her. He is subsequently described as the man who escorted her disguised as 'Arry' in ACOK.

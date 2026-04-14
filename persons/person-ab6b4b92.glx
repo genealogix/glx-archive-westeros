@@ -1,0 +1,11 @@
+persons:
+    person-baelor-hightower:
+        properties:
+            external_ids:
+                - MH:I408
+            gender: male
+            name:
+                fields:
+                    given: Baelor
+                    surname: Hightower
+                value: Baelor Hightower

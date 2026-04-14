@@ -1,0 +1,10 @@
+events:
+    event-birth-theon-greyjoy:
+        title: Birth of Theon Greyjoy
+        type: birth
+        place: place-pyke
+        date: "ABT 279"
+        participants:
+            - person: person-theon-greyjoy
+              role: principal
+        notes: Last surviving son of Balon Greyjoy and Alannys Harlaw.

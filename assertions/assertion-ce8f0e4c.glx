@@ -1,0 +1,11 @@
+assertions:
+    assertion-daemon-blackfyre-ii-name:
+        subject:
+            person: person-daemon-blackfyre-ii
+        property: name
+        value: Daemon Blackfyre II
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section (Aerys I). Also called Daemon the Younger. Led the Second Blackfyre Rebellion at Whitewalls in 211 AC. Source text: Lord Gormon convinced Daemon Blackfyre''s eldest surviving son, Daemon the Younger, to cross the narrow sea and make a play for the throne.'

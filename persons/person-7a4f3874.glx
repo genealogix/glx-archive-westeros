@@ -1,0 +1,20 @@
+persons:
+    person-aegon-targaryen-iii:
+        properties:
+            alias:
+                - value: Aegon the Dragonbane
+                - value: Aegon the Unlucky
+                - value: The Broken King
+            external_ids:
+                - MH:I321
+            gender: male
+            house: Targaryen
+            name:
+                fields:
+                    given: Aegon
+                    suffix: III
+                    surname: Targaryen
+                value: Aegon Targaryen III
+            title:
+                - value: King of the Andals, the Rhoynar, and the First Men
+        notes: Aegon III, the Dragonbane. Reigned 131–157 AC. Son of Rhaenyra Targaryen and Daemon Targaryen. Came to the throne aged eleven after the Dance of the Dragons. His reign began with a long regency plagued by political manipulation (including Lord Unwin Peake's machinations). A deeply melancholy king who always wore black; he witnessed his mother being fed to his uncle Aegon II's dragon Sunfyre as a boy. He feared and hated dragons yet tried to hatch new ones to strengthen the throne. The last Targaryen dragon died in 153 AC during his reign — hence 'Dragonbane.' Married first Jaehaera Targaryen (Aegon II's daughter, who died young) then Daenaera Velaryon. Had two sons (Daeron I, Baelor I) and three daughters. Died 157 AC of consumption, aged 36.

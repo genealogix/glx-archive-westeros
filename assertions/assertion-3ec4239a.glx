@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-poured-wine:
+        subject:
+            person: person-tyrion-lannister
+        property: description
+        value: Picked up Joffrey's fallen chalice and poured out the remaining poisoned wine
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-tyrion-lxviii
+        notes: 'This act was later used as evidence against Tyrion at his trial — multiple witnesses testified he poured out the wine ''to destroy the evidence.'' From Tyrion''s POV, he simply examined the cup and dumped it, thinking the wine might have been poisoned. Text: ''his eyes fell on the wedding chalice, forgotten on the floor. He went and scooped it up. There was still a half-inch of deep purple wine in the bottom of it. Tyrion considered it a moment, then poured it on the floor.'''

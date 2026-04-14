@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-connington-greyscale:
+        subject:
+            person: person-jon-connington
+        property: description
+        value: Jon Connington contracted greyscale during Robert's Rebellion when he dove into the river at Stoney Sept to save a drowning man (or escaped Robert). He has kept it hidden. By ADWD it is spreading on his hand.
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-lost-lord
+        notes: Established in The Lost Lord POV, Jon Connington's own chapter. He reflects on the greyscale in his hand and the need to keep it hidden from the men of the Golden Company and from Young Griff/Aegon.

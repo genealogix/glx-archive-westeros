@@ -1,0 +1,7 @@
+events:
+    event-death-visenya-targaryen:
+        title: Death of Visenya Targaryen
+        type: death
+        participants:
+            - person: person-visenya-targaryen
+              role: principal

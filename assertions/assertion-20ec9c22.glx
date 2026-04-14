@@ -1,0 +1,11 @@
+assertions:
+    assertion-cersei-lannister-gender:
+        subject:
+            person: person-cersei-lannister
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Lannister section. Listed as Queen.

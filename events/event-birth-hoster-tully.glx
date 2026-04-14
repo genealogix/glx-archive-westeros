@@ -1,7 +1,0 @@
-events:
-    event-birth-hoster-tully:
-        title: "Birth of Hoster Tully"
-        type: birth
-        participants:
-            - person: person-hoster-tully
-              role: principal

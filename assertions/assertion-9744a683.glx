@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-wargs-three-eyed-crow:
+        subject:
+            person: person-brandon-stark-bran
+        property: description
+        value: Three-eyed crow dream before waking from coma
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-bran-iii
+        notes: 'Source text: ''A crow was spiraling down with him... I''m trying, the crow replied... Now you know, the crow whispered as it sat on his shoulder. Now you know why you must live... Because winter is coming.'' Bran fell in the dream and the three-eyed crow taught him to fly. The crow had ''three eyes, and the third eye was full of a terrible knowledge.'' When Bran looked at the world below he saw: Maester Luwin, Robb in the yard, Hodor, the weirwood, his mother on a ship (with Ser Rodrik), Ned pleading with the king, Sansa crying, Arya holding secrets; and Jon at the Wall, and beyond the Wall into ''the heart of winter.'' This establishes Bran as a greenseer/warg from his first appearance.'

@@ -1,0 +1,11 @@
+persons:
+    person-alester-florent:
+        properties:
+            external_ids:
+                - MH:I444
+            gender: male
+            name:
+                fields:
+                    given: Alester
+                    surname: Florent
+                value: Alester Florent

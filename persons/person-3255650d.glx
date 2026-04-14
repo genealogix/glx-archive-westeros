@@ -1,0 +1,11 @@
+persons:
+    person-lyanna-mormont:
+        properties:
+            external_ids:
+                - MH:I435
+            gender: female
+            name:
+                fields:
+                    given: Lyanna
+                    surname: Mormont
+                value: Lyanna Mormont

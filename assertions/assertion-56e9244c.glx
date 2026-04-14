@@ -1,0 +1,11 @@
+assertions:
+    assertion-tysha-arranged-by-jaime:
+        subject:
+            person: person-tysha
+        property: occupation
+        value: Hired by Jaime Lannister to introduce Tyrion to women
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-tyrion-vi
+        notes: 'Source text: ''The girl was a whore, you see. Jaime arranged the whole affair, the road, the outlaws, all of it. He thought it was time I had a woman. He paid double for a maiden, knowing it would be my first time.'' Jaime staged the rescue scenario on the road near Casterly Rock. Tyrion did not know this at the time and genuinely fell in love with Tysha.'

@@ -1,7 +1,0 @@
-events:
-    event-birth-bellena-hawick:
-        title: "Birth of Bellena Hawick"
-        type: birth
-        participants:
-            - person: person-bellena-hawick
-              role: principal

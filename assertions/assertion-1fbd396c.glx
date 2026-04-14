@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-needle-gift:
+        subject:
+            person: person-arya-stark
+        property: possession
+        value: Needle — a slender braavo-style sword gifted by Jon Snow
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-jon-ii
+        notes: 'Source text (Jon II): ''"The scabbard was soft grey leather, supple as sin. Jon drew out the blade slowly, so she could see the deep blue sheen of the steel." Jon had Mikken the blacksmith make it specially. Arya names it "Needle." Jon tells her: "The bravos use swords like this in Pentos and Myr and the other Free Cities. It won''t hack a man''s head off, but it can poke him full of holes if you''re fast enough."'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-built-storms-end:
+        subject:
+            person: person-bran-the-builder
+        property: role
+        value: Designer of the final Storm's End
+        confidence: low
+        status: speculative
+        citations:
+            - citation-twoiaf-durran-godsgrief
+        notes: Tales say Bran the Builder (who would have been a boy at the time) designed the seventh and final Storm's End for Durran Godsgrief. Archmaester Vyron argues the castle's Andal-influenced design suggests it was actually rebuilt in Andal times, long after Durran and Bran. The tight stone joinery that keeps out even the wind is unparalleled among First Men construction.

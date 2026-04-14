@@ -1,0 +1,11 @@
+assertions:
+    assertion-roose-bolton-marriage-walda-adwd:
+        subject:
+            relationship: rel-marriage-roose-bolton-walda-frey
+        participant:
+            person: person-roose-bolton
+            role: spouse
+            notes: 'ADWD Appendix: Merrett''s daughter ''WALDA, called FAT WALDA, m. Roose Bolton, Lord of the Dreadfort'''
+        confidence: high
+        citations:
+            - citation-adwd-appendix

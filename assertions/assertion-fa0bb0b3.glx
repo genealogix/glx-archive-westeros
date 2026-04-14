@@ -1,0 +1,11 @@
+assertions:
+    assertion-cortnay-penrose-name-acok:
+        subject:
+            person: person-cortnay-penrose
+        property: name
+        value: Ser Cortnay Penrose
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in Highgarden section. Source text: ''SER CORTNAY PENROSE, castellan of Storm''s End.'''

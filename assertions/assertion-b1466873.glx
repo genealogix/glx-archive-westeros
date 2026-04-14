@@ -1,0 +1,11 @@
+assertions:
+    assertion-skahaz-shavepate-adwd:
+        subject:
+            person: person-skahaz-mo-kandaq
+        property: alias
+        value: The Shavepate
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''SKAHAZ MO KANDAQ, called THE SHAVEPATE, shaven-headed commander of the Brazen Beasts'''

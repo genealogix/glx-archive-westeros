@@ -1,0 +1,11 @@
+assertions:
+    assertion-desmera-redwyne-gender:
+        subject:
+            person: person-desmera-redwyne
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: DESMERA, a maid of fifteen'

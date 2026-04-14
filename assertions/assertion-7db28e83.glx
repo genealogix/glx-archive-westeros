@@ -1,0 +1,12 @@
+assertions:
+    assertion-sarella-sand-name:
+        subject:
+            person: person-sarella-sand
+        property: name
+        value: Sarella Sand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes. Source text: SARELLA, nineteen, his daughter by a trader, captain of the Feathered Kiss'

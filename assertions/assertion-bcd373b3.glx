@@ -1,0 +1,11 @@
+assertions:
+    assertion-aurane-waters-alias:
+        subject:
+            person: person-aurane-waters
+        property: alias
+        value: The Bastard of Driftmark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Called the Bastard of Driftmark in the AFFC appendix.

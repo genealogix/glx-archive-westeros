@@ -1,0 +1,12 @@
+assertions:
+    assertion-amerei-frey-gatehouse-ami-name:
+        subject:
+            person: person-amerei-frey-gatehouse-ami
+        property: name
+        value: Amerei 'Gatehouse Ami' Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists her as a widow of sixteen. AFFC Riverlands appendix calls her LADY AMEREI FREY, called GATEHOUSE AMI. Source text: Merrett''s daughter, AMEREI, called AMI, m. {Ser Pate of the Blue Fork, slain by Ser Gregor Clegane}'

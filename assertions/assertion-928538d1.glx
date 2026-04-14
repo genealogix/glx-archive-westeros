@@ -1,0 +1,11 @@
+assertions:
+    assertion-osha-mance-knowledge:
+        subject:
+            person: person-osha
+        property: description
+        value: Mance Rayder would pay for a Stark hostage
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-bran-v
+        notes: 'Source text (the tall woman Osha speaking): ''gods be damned, think what Mance would give to have Benjen Stark''s own blood to hostage!'' Osha knew of Mance Rayder and his interest in the Starks, indicating she had contact with his forces beyond the Wall.'

@@ -1,0 +1,18 @@
+persons:
+    person-viserys-targaryen-iii:
+        properties:
+            alias:
+                - value: The Beggar King
+            external_ids:
+                - MH:I205
+            gender: male
+            house: Targaryen
+            name:
+                fields:
+                    given: Viserys
+                    suffix: III
+                    surname: Targaryen
+                value: Viserys Targaryen III
+            title:
+                - value: Prince
+        notes: Styling himself Viserys, Third of His Name, Lord of the Seven Kingdoms. Called the Beggar King.

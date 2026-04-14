@@ -1,0 +1,11 @@
+assertions:
+    assertion-baelor-targaryen-breakspear-gender:
+        subject:
+            person: person-baelor-targaryen-breakspear
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Baelor Breakspear was cut down in his prime by his own brother Maekar at the tourney at Ashford in the year 209 AC.'

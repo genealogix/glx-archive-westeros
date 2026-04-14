@@ -1,0 +1,12 @@
+assertions:
+    assertion-sylwa-paege-name:
+        subject:
+            person: person-sylwa-paege
+        property: name
+        value: Sylwa Paege
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

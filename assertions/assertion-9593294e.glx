@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-hand-identity-crisis:
+        subject:
+            person: person-jaime-lannister
+        property: description
+        value: Jaime's entire identity as the greatest swordsman in Westeros collapses with the loss of his right hand
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jaime-iv
+        notes: 'Jaime''s internal monologue after losing his hand: ''They took my sword hand. Was that all I was, a sword hand? Gods be good, is it true?'' His demoralization is total. Brienne''s challenge (''Are you so craven?'') is the thing that prevents him from letting himself die. This begins the most significant character arc in the novel — Jaime reconsidering who he is without his sword.'

@@ -1,0 +1,12 @@
+assertions:
+    assertion-jaehaerys-targaryen-ii-gender:
+        subject:
+            person: person-jaehaerys-targaryen-ii
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Jaehaerys II Targaryen was thin and scrawny, and had battled various ailments all his life. Yet he did not lack for courage, or intelligence.'

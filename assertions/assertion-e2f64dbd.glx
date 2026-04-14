@@ -1,0 +1,12 @@
+assertions:
+    assertion-harrold-hardyng-name:
+        subject:
+            person: person-harrold-hardyng
+        property: name
+        value: Harrold Hardyng
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

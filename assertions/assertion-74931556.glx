@@ -1,0 +1,12 @@
+assertions:
+    assertion-walda-frey-fat-walda-name:
+        subject:
+            person: person-walda-frey-fat-walda
+        property: name
+        value: Walda 'Fat Walda' Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Merrett''s daughter, WALDA, called FAT WALDA, m. Roose Bolton, Lord of the Dreadfort'

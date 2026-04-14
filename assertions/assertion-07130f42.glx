@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-recovers-needle:
+        subject:
+            person: person-arya-stark
+        property: description
+        value: Recovered her sword Needle from Polliver at the inn near the ruby ford
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-arya-hound
+        notes: 'Polliver had taken Needle from Arya at Harrenhal. At the inn she retrieved it from his swordbelt after the Hound killed him. Text: ''She found twigs and fallen branches... Hanging beside his dagger was a slimmer blade, too long to be a dirk, too short to be a man''s sword... but it felt just right in her hand.'' She then used Needle to give the mercy kill to the dying squire.'

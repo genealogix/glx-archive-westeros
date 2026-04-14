@@ -1,7 +1,0 @@
-events:
-    event-birth-tytos-frey:
-        title: "Birth of Ser Tytos Frey"
-        type: birth
-        participants:
-            - person: person-tytos-frey
-              role: principal

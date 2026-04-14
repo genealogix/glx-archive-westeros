@@ -1,0 +1,12 @@
+assertions:
+    assertion-bella-rivers-gender:
+        subject:
+            person: person-bella-rivers
+        property: gender
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

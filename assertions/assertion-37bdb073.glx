@@ -1,0 +1,11 @@
+assertions:
+    assertion-aerys-targaryen-ii-title:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: title
+        value: King of the Andals and the Rhoynar and the First Men
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Targaryen section. Reigned 262-283.

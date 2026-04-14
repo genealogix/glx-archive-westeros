@@ -1,0 +1,12 @@
+assertions:
+    assertion-jeyne-lydden-name:
+        subject:
+            person: person-jeyne-lydden
+        property: name
+        value: Jeyne Lydden
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

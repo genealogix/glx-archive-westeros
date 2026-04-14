@@ -1,0 +1,7 @@
+events:
+    event-birth-baratheon-500:
+        title: Birth of Baratheon
+        type: birth
+        participants:
+            - person: person-baratheon-500
+              role: principal

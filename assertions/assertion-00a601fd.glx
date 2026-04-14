@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-born-pyke:
+        subject:
+            event: event-birth-theon-greyjoy
+        property: place
+        value: place-pyke
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-theon-greyjoy
+        notes: Born at Pyke, seat of House Greyjoy.

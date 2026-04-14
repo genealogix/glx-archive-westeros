@@ -1,0 +1,11 @@
+assertions:
+    assertion-jacelyn-bywater-name-acok:
+        subject:
+            person: person-jacelyn-bywater
+        property: name
+        value: Ser Jacelyn Bywater
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King on the Iron Throne section. Source text: ''SER JACELYN BYWATER, called IRONHAND, captain of the River Gate.'''

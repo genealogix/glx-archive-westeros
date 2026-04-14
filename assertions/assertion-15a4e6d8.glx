@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-captured-jorah:
+        subject:
+            person: person-tyrion-lannister
+        property: description
+        value: Jorah Mormont captured Tyrion Lannister in a pleasure house in Volantis, intending to bring him to Daenerys as a gift to regain her favor after his exile from her service.
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-tyrion-v
+        notes: Directly from Tyrion V POV. Jorah says he is taking 'the dwarf' to 'the queen.' This ends Tyrion's journey with the Shy Maid company and begins a new arc.

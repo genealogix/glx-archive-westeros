@@ -1,0 +1,11 @@
+assertions:
+    assertion-dalla-death-childbirth-adwd:
+        subject:
+            person: person-dalla
+        property: cause_of_death
+        value: Childbirth
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''his wife, {DALLA}, died in childbirth'' (curly braces indicate deceased)'

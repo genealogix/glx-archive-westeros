@@ -1,0 +1,12 @@
+assertions:
+    assertion-bryan-frey-name:
+        subject:
+            person: person-bryan-frey
+        property: name
+        value: Bryan Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Walton''s son, BRYAN, a squire'

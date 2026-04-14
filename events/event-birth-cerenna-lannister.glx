@@ -1,7 +1,0 @@
-events:
-    event-birth-cerenna-lannister:
-        title: "Birth of Cerenna Lannister"
-        type: birth
-        participants:
-            - person: person-cerenna-lannister
-              role: principal

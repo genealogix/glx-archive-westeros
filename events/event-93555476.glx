@@ -1,0 +1,7 @@
+events:
+    event-birth-kevan-lannister:
+        title: Birth of Kevan Lannister
+        type: birth
+        participants:
+            - person: person-kevan-lannister
+              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-balon-greyjoy-religion:
+        subject:
+            person: person-balon-greyjoy
+        property: religion
+        value: Drowned God
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Greyjoy section. Ironborn faith implied by Greyjoy house.

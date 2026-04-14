@@ -1,0 +1,9 @@
+persons:
+    person-black-pearl:
+        properties:
+            alias:
+                - value: The Black Pearl
+            gender: female
+            name:
+                value: Bellegere Otherys
+        notes: A courtesan of Braavos, descended from the pirate queen of the same name (ADWD Appendix).

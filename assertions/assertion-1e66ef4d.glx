@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-pushes-bran:
+        subject:
+            person: person-brandon-stark-bran
+        property: cause_of_injury
+        value: Pushed from First Keep window by Jaime Lannister
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-ii
+        notes: 'Source text: ''The things I do for love,'' he said with loathing. He gave Bran a shove.'' Jaime pushed Bran from the window of the First Keep at Winterfell after Bran witnessed the incestuous encounter between Jaime and Cersei.'

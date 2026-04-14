@@ -1,0 +1,11 @@
+persons:
+    person-mina-tyrell:
+        properties:
+            external_ids:
+                - MH:I387
+            gender: female
+            name:
+                fields:
+                    given: Mina
+                    surname: Tyrell
+                value: Mina Tyrell

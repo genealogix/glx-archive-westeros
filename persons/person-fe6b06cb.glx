@@ -1,0 +1,11 @@
+persons:
+    person-edwyn-frey:
+        properties:
+            external_ids:
+                - MH:I8
+            gender: male
+            name:
+                fields:
+                    given: Edwyn
+                    surname: Frey
+                value: Edwyn Frey

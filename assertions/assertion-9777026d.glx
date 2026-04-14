@@ -1,0 +1,11 @@
+assertions:
+    assertion-roose-bolton-bolton-men-massacre:
+        subject:
+            person: person-roose-bolton
+        property: description
+        value: Bolton men in shaggy fur cloaks entered through other doors to kill Robb's guard
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Bolton''s own soldiers, disguised among the guests or stationed outside, entered through separate doors during the massacre. Catelyn briefly mistook them for rescue: ''men were pouring in the other doors as well, mailed men in shaggy fur cloaks with steel in their hands. Northmen! She took them for rescue for half a heartbeat, till one of them struck the Smalljon''s head off with two huge blows of his axe. Hope blew out like a candle in a storm.'''

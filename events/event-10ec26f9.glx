@@ -1,0 +1,13 @@
+events:
+    event-battle-meereen:
+        title: The Battle of Slaver's Bay
+        type: battle
+        place: place-meereen
+        date: "300"
+        participants:
+            - person: person-daenerys-targaryen-304
+              role: principal
+        properties:
+            also_known_as: The Battle of Slaver's Bay, The Siege of Meereen
+            description: The Battle of Meereen / Siege of Meereen — the Yunkish alliance, the slavers of Slaver's Bay, and various sellsword companies besieged Meereen after Daenerys Targaryen refused to abandon the city. The battle began while Daenerys was absent (having flown away on Drogon from the fighting pits). Barristan Selmy led a sortie. The Ironborn fleet under Victarion Greyjoy arrived during the fighting.
+        notes: 'The battle is still unresolved at the end of ADWD. Multiple forces are converging: the slavers, the Ironborn, the Volantene fleet, and the sellsword companies (some of whom are switching sides).'

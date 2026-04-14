@@ -1,0 +1,13 @@
+persons:
+    person-mya-stone:
+        properties:
+            bastard_name: Stone
+            external_ids:
+                - MH:I192
+            gender: female
+            name:
+                fields:
+                    given: Mya
+                    surname: Stone
+                value: Mya Stone
+        notes: A bastard girl in service at the Eyrie. Listed in AGOT Appendix under House Arryn.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-culture-westermen:
+        subject:
+            person: person-jaime-lannister
+        property: culture
+        value: Westermen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-awoiaf-jaime-lannister
+        notes: 'Jaime is of the Westermen culture, born at Casterly Rock to House Lannister. Per AWOIAF infobox: Culture — Westermen.'

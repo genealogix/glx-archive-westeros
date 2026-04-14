@@ -1,0 +1,12 @@
+assertions:
+    assertion-walda-frey-white-walda-name:
+        subject:
+            person: person-walda-frey-white-walda
+        property: name
+        value: Walda 'White Walda' Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists age ten, AFFC eleven. Source text: Rhaegar''s daughter, WALDA, a girl of eleven, called WHITE WALDA'

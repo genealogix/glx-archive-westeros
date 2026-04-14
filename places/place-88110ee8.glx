@@ -1,0 +1,6 @@
+places:
+    place-the-whispering-wood:
+        name: The Whispering Wood
+        parent: place-the-riverlands
+        type: forest
+        notes: Forest in the Riverlands near Riverrun where Robb Stark ambushed and captured Jaime Lannister during the War of the Five Kings.

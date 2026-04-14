@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-lannister-title-acting-hand-acok:
+        subject:
+            person: person-tyrion-lannister
+        property: title
+        value: Acting Hand of the King
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King on the Iron Throne section. Source text: ''TYRION LANNISTER, acting Hand of the King.'''

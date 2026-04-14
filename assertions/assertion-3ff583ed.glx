@@ -1,0 +1,11 @@
+assertions:
+    assertion-daena-targaryen-gender:
+        subject:
+            person: person-daena-targaryen
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, Sisters of Baelor I section. Source text: Daena is the most famed of the three sisters'

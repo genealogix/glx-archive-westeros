@@ -1,0 +1,11 @@
+persons:
+    person-bryan-frey:
+        properties:
+            external_ids:
+                - MH:I27
+            gender: male
+            name:
+                fields:
+                    given: Bryan
+                    surname: Frey
+                value: Bryan Frey

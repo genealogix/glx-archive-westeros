@@ -1,0 +1,11 @@
+assertions:
+    assertion-barristan-queensguard-adwd:
+        subject:
+            person: person-barristan-selmy
+        property: title
+        value: Lord Commander of the Queensguard
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''SER BARRISTAN SELMY, called BARRISTAN THE BOLD, Lord Commander of the Queensguard'''

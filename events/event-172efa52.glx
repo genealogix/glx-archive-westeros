@@ -1,0 +1,8 @@
+events:
+    event-birth-aenys-targaryen-i:
+        title: Birth of Aenys Targaryen I
+        type: birth
+        date: "7 BC"
+        participants:
+            - person: person-aenys-targaryen-i
+              role: principal

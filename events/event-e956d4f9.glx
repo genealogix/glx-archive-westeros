@@ -1,0 +1,12 @@
+events:
+    event-birth-eddard-stark:
+        title: Birth of Eddard Stark
+        type: birth
+        place: place-winterfell
+        date: "263"
+        participants:
+            - person: person-eddard-stark
+              role: principal
+            - person: person-rickard-stark
+              role: parent
+        notes: Second son of Lord Rickard Stark and Lady Lyarra Stark.

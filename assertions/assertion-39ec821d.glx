@@ -1,0 +1,11 @@
+assertions:
+    assertion-jeyne-poole-identity:
+        subject:
+            person: person-jeyne-poole
+        property: parent
+        value: person-vayon-poole
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-prince-of-winterfell
+        notes: 'Theon Greyjoy''s internal monologue confirms that Ramsay''s bride is not Arya Stark but ''a steward''s whelp.'' The arms of House Poole (blue plate on white, grey tressure) are mentioned: ''Those were the arms they should have hung.'''

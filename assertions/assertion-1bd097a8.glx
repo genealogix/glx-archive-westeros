@@ -1,0 +1,11 @@
+assertions:
+    assertion-coldhands-is-benjen-disproven:
+        subject:
+            person: person-coldhands
+        property: identity
+        value: person-benjen-stark
+        confidence: high
+        status: disproven
+        citations:
+            - citation-grrm-adwd-manuscript-note
+        notes: 'One of the most popular ASOIAF theories definitively disproven by the author. Fans long speculated that Coldhands — a mysterious, undead-but-sentient figure in Night''s Watch blacks who aids Bran beyond the Wall — was Benjen Stark, who vanished on a ranging in AGOT. In January 2015, Reddit user _honeybird examined GRRM''s original ADWD manuscript at the Cushing Library (Texas A&M University) and found a marginal note: editor Anne Groell wrote ''Is this Benjen? I think it''s Benjen...'' with a smiley face. GRRM''s response, circled in red ink: ''NO.'' Additional textual counter-evidence: Leaf tells Bran that Coldhands was ''killed long ago'' (ADWD Bran II), while Benjen disappeared only two years before. The HBO show merged the characters anyway — in S06E06, Benjen appears as a Coldhands-like figure who says the Children of the Forest saved him.'

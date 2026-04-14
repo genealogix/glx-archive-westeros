@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-lannister-cersei-tyrion:
+        type: sibling
+        participants:
+            - person: person-cersei-lannister
+              role: sibling
+            - person: person-tyrion-lannister
+              role: sibling
+        properties:
+            context: Children of Tywin Lannister and Joanna Lannister. Full siblings.
+        notes: 'AGOT appendix: House Lannister. Cersei harbored deep resentment toward Tyrion, blaming him for their mother''s death and viewing him as a threat. Their relationship was openly hostile.'

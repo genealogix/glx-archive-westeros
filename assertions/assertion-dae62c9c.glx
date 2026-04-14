@@ -1,0 +1,11 @@
+assertions:
+    assertion-balon-greyjoy-title-agot:
+        subject:
+            person: person-balon-greyjoy
+        property: title
+        value: Lord of the Iron Islands, King of Salt and Rock, Son of the Sea Wind, Lord Reaper of Pyke
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Greyjoy section. Source text: BA LON GREYJOY, Lord of the Iron Islands, King of Salt and Rock, Son of the Sea Wind, Lord Reaper of Pyke'

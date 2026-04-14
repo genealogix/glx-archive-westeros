@@ -1,0 +1,12 @@
+assertions:
+    assertion-perriane-frey-name:
+        subject:
+            person: person-perriane-frey
+        property: name
+        value: Perriane Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: PERRIANE, Lord Walder''s daughter, m. Ser Leslyn Haigh'

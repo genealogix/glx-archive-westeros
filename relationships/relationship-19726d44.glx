@@ -1,0 +1,11 @@
+relationships:
+    rel-prisoner-theon-ramsay:
+        type: prisoner
+        participants:
+            - person: person-theon-greyjoy
+              role: prisoner
+            - person: person-ramsay-bolton
+              role: captor
+        properties:
+            context: Theon held captive at the Dreadfort by Ramsay Bolton (ADWD Appendix)
+            started_on: "299"

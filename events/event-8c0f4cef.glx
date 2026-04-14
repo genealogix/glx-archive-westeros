@@ -1,0 +1,7 @@
+events:
+    event-631ee1ff:
+        type: death
+        date: "298"
+        participants:
+            - person: person-gared
+              role: principal

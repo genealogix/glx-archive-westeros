@@ -1,0 +1,11 @@
+assertions:
+    assertion-xaro-refuses-ships:
+        subject:
+            person: person-xaro-xhoan-daxos
+        property: description
+        value: Refuses to provide Daenerys with ships or military aid
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-daenerys-iv
+        notes: 'Despite repeated requests, Xaro Xhoan Daxos refuses to fund ships for Daenerys. He favors her staying in Qarth or marrying him. Source: ''Xaro Xhoan Daxos is a man of peace.'' Daenerys ultimately leaves Qarth after the destruction of the House of the Undying.'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-dragon-hatching-event:
+        subject:
+            event: event-dragon-hatching
+        property: description
+        value: Three dragons hatched from eggs given to Daenerys as wedding gifts, the first dragons in the world in over a century
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-ix
+        notes: 'The three dragons: (1) black-and-scarlet, draped across Daenerys''s shoulders with red eyes — later named Drogon; (2) cream-and-gold, suckling at her left breast — later named Viserion; (3) green-and-bronze, suckling at her right breast — later named Rhaegal. The eggs had been given to Daenerys by Illyrio Mopatis as a wedding gift, described as petrified but keeping their colour. The hatching was connected to Drogo''s death and the burning of Mirri Maz Duur.'

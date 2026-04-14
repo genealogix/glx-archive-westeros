@@ -1,0 +1,10 @@
+persons:
+    person-snow-437:
+        properties:
+            external_ids:
+                - MH:I437
+            gender: male
+            name:
+                fields:
+                    surname: Snow
+                value: Snow

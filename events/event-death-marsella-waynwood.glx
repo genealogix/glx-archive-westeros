@@ -1,9 +1,0 @@
-events:
-    event-death-marsella-waynwood:
-        title: "Death of Marsella Waynwood"
-        type: death
-        participants:
-            - person: person-marsella-waynwood
-              role: principal
-        properties:
-            cause: Maternal Death

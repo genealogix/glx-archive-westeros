@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-escapes-winterfell-crypts:
+        subject:
+            person: person-brandon-stark-bran
+        property: status
+        value: Escaped the Sack of Winterfell by hiding in the crypts with Rickon, Hodor, Osha, Meera Reed, and Jojen Reed
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-bran-vii
+        notes: 'ACOK Bran VII: ''We never went. Well, only to the edge, and then doubled back. I sent the wolves on to make a trail, but we hid in Father''s tomb.'' The six fugitives hid in the Stark crypts beneath Winterfell. After the fires died, Hodor forced open the crypt door and they emerged to find the castle burned. Bran and the Reeds departed through the Hunter''s Gate heading north. Rickon and Osha departed through the East Gate heading toward the kingsroad.'

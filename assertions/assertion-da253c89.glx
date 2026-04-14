@@ -1,0 +1,11 @@
+assertions:
+    assertion-donal-noye-cause-of-death:
+        subject:
+            person: person-donal-noye
+        property: cause_of_death
+        value: At War
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-donal-noye
+        notes: Killed in single combat with the giant Mag the Mighty while defending the gate beneath the Wall during the battle of Castle Black (ASOS Jon VIII).

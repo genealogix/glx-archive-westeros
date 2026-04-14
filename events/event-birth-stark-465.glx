@@ -1,7 +1,0 @@
-events:
-    event-birth-stark-465:
-        title: "Birth of Stark"
-        type: birth
-        participants:
-            - person: person-stark-465
-              role: principal

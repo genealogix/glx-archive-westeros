@@ -1,0 +1,11 @@
+assertions:
+    assertion-mya-stone-mychel-redfort:
+        subject:
+            person: person-mya-stone
+        property: description
+        value: Mychel Redfort (squire to Ser Lyn Corbray)
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-catelyn-vi
+        notes: 'Source text: ''Mychel''s my love. Mychel Redfort. He''s squire to Ser Lyn Corbray. We''re to wed as soon as he becomes a knight, next year or the year after.'' Catelyn privately doubted the match would happen, as Redforts were old Vale blood and would not wed a bastard.'

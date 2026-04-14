@@ -1,7 +1,0 @@
-citations:
-    citation-asos-tyrion-x:
-        source: source-asos
-        properties:
-            locator: "Tyrion X"
-            accessed: "2026-03-10"
-        notes: "The trial of Tyrion for Joffrey's murder."

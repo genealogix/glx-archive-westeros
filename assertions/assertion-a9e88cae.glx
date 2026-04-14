@@ -1,0 +1,11 @@
+assertions:
+    assertion-obara-sand-gender:
+        subject:
+            person: person-obara-sand
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Martell section. Source text: OBARA, eight-and-twenty, Oberyn''s daughter by an Oldtown whore'

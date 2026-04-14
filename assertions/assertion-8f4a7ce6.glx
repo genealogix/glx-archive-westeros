@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-hand-cut-off:
+        subject:
+            person: person-jaime-lannister
+        property: cause_of_injury
+        value: Right hand severed by Zollo the Fat Dothraki on Vargo Hoat's order
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jaime-iii
+        notes: 'The text is explicit: ''Sunlight ran silver along the edge of the arakh as it came shivering down, almost too fast to see. And Jaime screamed.'' Zollo is confirmed as the cutter in subsequent chapters. The hand is hung around Jaime''s neck on a cord by Urswyck.'

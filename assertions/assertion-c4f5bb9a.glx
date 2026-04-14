@@ -1,0 +1,12 @@
+assertions:
+    assertion-mylenda-caron-gender:
+        subject:
+            person: person-mylenda-caron
+        property: gender
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

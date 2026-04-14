@@ -1,0 +1,11 @@
+persons:
+    person-lomas-estermont:
+        properties:
+            external_ids:
+                - MH:I478
+            gender: male
+            name:
+                fields:
+                    given: Lomas
+                    surname: Estermont
+                value: Lomas Estermont

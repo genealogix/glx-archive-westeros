@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-death-brienne-falsely-accused:
+        subject:
+            person: person-brienne-tarth
+        property: description
+        value: Murder of Renly Baratheon
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-catelyn-v
+        notes: Brienne of Tarth was present at Renly's death and was immediately accused by his Kingsguard. She and Catelyn fled together. The accusation is false — the killer was a supernatural shadow creature.

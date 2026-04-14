@@ -1,0 +1,11 @@
+assertions:
+    assertion-beric-dondarrion-final-death:
+        subject:
+            person: person-thoros-of-myr
+        property: description
+        value: Beric Dondarrion gave his final life to resurrect Catelyn Stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-affc-brienne-viii
+        notes: 'Thoros told Brienne: ''Lord Beric''s fire has gone out of this world, I fear. A grimmer shadow leads us in his place.'' He confirmed Beric permanently died when he gave Catelyn the kiss of life, spending the last of his many resurrection-lives. Beric had been resurrected six times by Thoros using R''hllor''s power.'

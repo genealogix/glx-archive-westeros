@@ -1,0 +1,11 @@
+assertions:
+    assertion-brandon-stark-213-name:
+        subject:
+            person: person-brandon-stark-213
+        property: name
+        value: Brandon Stark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Stark section. Eddard''s elder brother, deceased (indicated by braces). Source text: {BRANDON}, his elder brother, murdered by the command of Aerys II Targaryen'

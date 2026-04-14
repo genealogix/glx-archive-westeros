@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-mother-died-birthing:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: parent
+        value: Mother died in childbirth (Rhaella Targaryen)
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-i
+        notes: 'Source text (Daenerys I): ''Her mother had died birthing her, and for that her brother Viserys had never forgiven her.'''

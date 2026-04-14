@@ -1,0 +1,11 @@
+assertions:
+    assertion-mance-rayder-defection-reason:
+        subject:
+            person: person-mance-rayder
+        property: description
+        value: Left the Night's Watch because the Watch refused to let him keep a wildling woman's silk-patched cloak
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jon-i
+        notes: 'Mance tells the story in his own words: a shadow-cat shredded his black cloak on a ranging. A wildling woman repaired it with scarlet silk from Asshai — her greatest treasure, given freely. When he returned to the Shadow Tower, Ser Denys Mallister gave him a new all-black cloak and told him the old one was fit for burning. Text: ''I left the next morning ... for a place where a kiss was not a crime, and a man could wear any cloak he chose.'''

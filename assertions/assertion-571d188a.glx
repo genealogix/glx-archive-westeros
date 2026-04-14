@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-doubts-joffrey:
+        subject:
+            person: person-robert-baratheon-i
+        property: description
+        value: Privately fears Joffrey is not suited to rule; knows Joffrey lied about the Trident incident
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+            - citation-agot-eddard-iii
+        notes: 'Source text (Eddard V): ''The thought of Joffrey on the throne, with Cersei standing behind him whispering in his ear. My son. How could I have made a son like that, Ned?'' And (Eddard III): Robert said privately, ''My son was lying, I''d stake my soul on it.'' Robert is aware of Joffrey''s flaws but does not act on this awareness in public. His failure to discipline Joffrey or investigate the truth at Darry has lasting consequences.'

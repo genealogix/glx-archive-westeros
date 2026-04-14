@@ -1,0 +1,8 @@
+events:
+    event-death-maegor-targaryen-i:
+        title: Death of Maegor Targaryen I
+        type: death
+        date: "48"
+        participants:
+            - person: person-maegor-targaryen-i
+              role: principal

@@ -1,0 +1,10 @@
+assertions:
+    assertion-dragon-hatching-description:
+        subject:
+            event: event-dragon-hatching
+        property: description
+        value: Three dragons hatched from Khal Drogo's funeral pyre, first dragons in over a century
+        confidence: high
+        citations:
+            - citation-agot-daenerys-x
+        notes: Drogon, Rhaegal, and Viserion hatched as Daenerys walked into the flames unburnt

@@ -1,0 +1,11 @@
+assertions:
+    assertion-lannister-182-name:
+        subject:
+            person: person-lannister-182
+        property: name
+        value: Lannister
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Unnamed Lannister placeholder from GEDCOM import. Not identifiable in any novel appendix. No given name recorded.

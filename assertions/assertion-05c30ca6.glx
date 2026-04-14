@@ -1,0 +1,11 @@
+assertions:
+    assertion-balon-greyjoy-title-king-acok:
+        subject:
+            person: person-balon-greyjoy
+        property: title
+        value: King of Salt and Rock, Son of the Sea Wind, Lord Reaper of Pyke
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, House Greyjoy section. Source text: ''BALON GREYJOY, Lord of the Iron Islands, King of Salt and Rock, Son of the Sea Wind, Lord Reaper of Pyke, captain of the Great Kraken.'' Balon has crowned himself king.'

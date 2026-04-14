@@ -1,0 +1,15 @@
+persons:
+    person-rowena:
+        properties:
+            cause_of_death: Died of a winter chill
+            external_ids:
+                - MH:I229
+            gender: female
+            house: Arryn
+            name:
+                fields:
+                    given: Rowena
+                value: Rowena
+            title:
+                - value: Lady
+        notes: Second wife of Jon Arryn, his cousin. Died of a winter chill, childless.

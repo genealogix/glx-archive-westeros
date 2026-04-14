@@ -1,0 +1,11 @@
+assertions:
+    assertion-connington-exile-adwd:
+        subject:
+            person: person-jon-connington
+        property: status
+        value: exiled
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''JON CONNINGTON, once Lord of Storm''s End and Hand of the King, exiled by Aerys II Targaryen, believed dead of drink.'' Also identified as Griff, foster father to Young Griff.'

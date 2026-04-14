@@ -1,0 +1,11 @@
+persons:
+    person-beony-beesbury:
+        properties:
+            external_ids:
+                - MH:I95
+            gender: female
+            name:
+                fields:
+                    given: Beony
+                    surname: Beesbury
+                value: Beony Beesbury

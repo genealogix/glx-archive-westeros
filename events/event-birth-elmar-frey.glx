@@ -1,7 +1,0 @@
-events:
-    event-birth-elmar-frey:
-        title: "Birth of Elmar Frey"
-        type: birth
-        participants:
-            - person: person-elmar-frey
-              role: principal

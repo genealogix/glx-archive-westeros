@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-stark-king-in-the-north:
+        subject:
+            person: person-robb-stark
+        property: title
+        value: King in the North
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-xi
+        notes: 'Robb Stark was acclaimed King in the North at a war council in Riverrun''s Great Hall, after the victories at the Whispering Wood and the Camps and following Ned Stark''s execution. The Greatjon Umber was first: ''There sits the only king I mean to bow my knee to, m''lords. The King in the North!'' Lord Karstark, Lady Mormont, and then the river lords — Blackwood, Bracken, Mallister — all followed. The first such declaration since Aegon''s Conquest over three hundred years earlier. Robb also became informally King of the Trident by virtue of the river lords'' acclamation.'

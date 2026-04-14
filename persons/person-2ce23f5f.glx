@@ -1,0 +1,11 @@
+persons:
+    person-andros-brax:
+        properties:
+            external_ids:
+                - MH:I153
+            gender: male
+            name:
+                fields:
+                    given: Andros
+                    surname: Brax
+                value: Andros Brax

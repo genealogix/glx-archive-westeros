@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-targaryen-iii-alias-cart-king:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: alias
+        value: Cart King
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-vi
+        notes: 'Khal Drogo called Viserys ''Cart King'' at the moment of his death — a Dothraki insult, implying he was fit only to ride in a cart rather than on horseback. Source: ''Crown! Here. A crown for Cart King!'''

@@ -1,7 +1,0 @@
-events:
-    event-birth-benfrey-frey:
-        title: "Birth of Benfrey Frey"
-        type: birth
-        participants:
-            - person: person-benfrey-frey
-              role: principal

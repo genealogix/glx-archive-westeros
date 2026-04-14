@@ -1,7 +1,0 @@
-events:
-    event-death-cyrenna-swann:
-        title: "Death of Cyrenna Swann"
-        type: death
-        participants:
-            - person: person-cyrenna-swann
-              role: principal

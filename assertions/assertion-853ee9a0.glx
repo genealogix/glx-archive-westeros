@@ -1,0 +1,12 @@
+assertions:
+    assertion-rylene-florent-name:
+        subject:
+            person: person-rylene-florent
+        property: name
+        value: Rylene Florent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ACOK Appendix, House Florent section. Sister of Lord Alester Florent. Confirmed in ASOS and AFFC appendices. Source text: his sister, RYLENE, wed to Ser Rycherd Crane'

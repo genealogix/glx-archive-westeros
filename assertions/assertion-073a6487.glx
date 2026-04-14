@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-hair-eyes:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: description
+        value: Silver-gold hair; violet (purple) eyes; Valyrian appearance
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-i
+        notes: 'Source text (Daenerys I): Illyrio says ''That silver-gold hair, those purple eyes … she is the blood of old Valyria, no doubt, no doubt.'' The girl''s dialog describes the gown as purple ''to bring out the violet in your eyes.'''

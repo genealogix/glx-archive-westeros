@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-captive-dreadfort-adwd:
+        subject:
+            person: person-theon-greyjoy
+        property: status
+        value: captive
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''THEON, called by northmen THEON TURNCLOAK, a captive at the Dreadfort'''

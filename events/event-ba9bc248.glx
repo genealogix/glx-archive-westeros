@@ -1,0 +1,10 @@
+events:
+    event-death-tygett-lannister:
+        title: Death of Tygett Lannister
+        type: death
+        date: "BEF 300"
+        participants:
+            - person: person-tygett-lannister
+              role: principal
+        properties:
+            cause: Illness

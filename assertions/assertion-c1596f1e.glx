@@ -1,0 +1,11 @@
+assertions:
+    assertion-elia-sand-gender:
+        subject:
+            person: person-elia-sand
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Martell section. Source text: ELIA, fourteen, his daughter by Ellaria Sand'

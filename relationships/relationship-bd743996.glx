@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-lannister-jaime-tyrion:
+        type: sibling
+        participants:
+            - person: person-jaime-lannister
+              role: sibling
+            - person: person-tyrion-lannister
+              role: sibling
+        properties:
+            context: Children of Tywin Lannister and Joanna Lannister. Full siblings.
+        notes: 'AGOT appendix: House Lannister. Jaime was one of the few Lannisters who treated Tyrion with genuine affection. Tywin blamed Tyrion for Joanna''s death in childbirth.'

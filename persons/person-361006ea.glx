@@ -1,0 +1,11 @@
+persons:
+    person-arthur-ambrose:
+        properties:
+            external_ids:
+                - MH:I411
+            gender: male
+            name:
+                fields:
+                    given: Arthur
+                    surname: Ambrose
+                value: Arthur Ambrose

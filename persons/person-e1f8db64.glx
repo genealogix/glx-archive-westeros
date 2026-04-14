@@ -1,0 +1,20 @@
+persons:
+    person-ramsay-bolton:
+        properties:
+            alias:
+                - value: The Bastard of Bolton
+                - value: The Bastard of the Dreadfort
+                - value: Lord Ramsay
+                - value: Reek
+            gender: male
+            house: Bolton
+            name:
+                fields:
+                    given: Ramsay
+                    surname: Bolton
+                value: Ramsay Bolton
+            title:
+                - value: Lord of the Hornwood
+                - date: AFT 300
+                  value: Lord of Winterfell
+        notes: 'Natural son of Roose Bolton, born of a miller''s wife whom Roose raped, invoking the lord''s right of first night. The woman''s husband was hanged for ''cheating'' Roose by marrying without permission. Roose Bolton believes Ramsay poisoned his trueborn heir Domeric Bolton who had sought out his bastard half-brother against orders. Ramsay''s weapons include a falchion, long dagger, and small curved flaying knife. His dogs (named for women he hunted and killed) include Red Jeyne, Grey Jeyne, Helicent, Maude, Jez, Sara, Willow. His men (the Bastard''s Boys) include: Sour Alyn, Luton, Skinner, Damon Dance-for-Me (with his greased whip), Yellow Dick, Grunt (mute), Ben Bones (kennelmaster), Steelshanks Walton. His squires are Little Walder Frey and Big Walder Frey. He marries ''Arya Stark'' (actually Jeyne Poole) at Winterfell in 300 AC and styles himself Lord of Winterfell. He is explicitly aware Jeyne is not Arya. He kills Luton during the Great Hall brawl by driving a spear through his chest. (ADWD ''Reek II,'' ''The Prince of Winterfell,'' ''The Turncloak,'' ''Theon'')'

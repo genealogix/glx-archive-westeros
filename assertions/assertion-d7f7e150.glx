@@ -1,0 +1,11 @@
+assertions:
+    assertion-jason-mallister-name:
+        subject:
+            person: person-jason-mallister
+        property: name
+        value: Jason Mallister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Tully section. Source text: JA SON MA LLISTER, Lord of Seagard'

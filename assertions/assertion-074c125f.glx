@@ -1,0 +1,12 @@
+assertions:
+    assertion-andros-brax-name:
+        subject:
+            person: person-andros-brax
+        property: name
+        value: Andros Brax
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-melisandre-alias-melony:
+        subject:
+            person: person-melisandre
+        property: alias
+        value: Melony
+        confidence: medium
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: Her ADWD POV chapter reveals she was once a slave girl called Melony.

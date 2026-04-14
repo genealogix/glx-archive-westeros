@@ -1,0 +1,7 @@
+events:
+    event-birth-alyssa-blackwood:
+        title: Birth of Alyssa Blackwood
+        type: birth
+        participants:
+            - person: person-alyssa-blackwood
+              role: principal

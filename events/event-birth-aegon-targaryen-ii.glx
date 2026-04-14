@@ -1,7 +1,0 @@
-events:
-    event-birth-aegon-targaryen-ii:
-        title: "Birth of Aegon Targaryen II"
-        type: birth
-        participants:
-            - person: person-aegon-targaryen-ii
-              role: principal

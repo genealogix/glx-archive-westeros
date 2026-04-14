@@ -1,0 +1,12 @@
+assertions:
+    assertion-perwyn-frey-name:
+        subject:
+            person: person-perwyn-frey
+        property: name
+        value: Perwyn Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Eldest son by sixth wife Lady Bethany of House Rosby. Source text: SER PERWYN, Lord Walder''s fifteenth son'

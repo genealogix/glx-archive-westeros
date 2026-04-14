@@ -1,0 +1,11 @@
+assertions:
+    assertion-denys-redwyne-gender:
+        subject:
+            person: person-denys-redwyne
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Source text: her son, DENYS, a squire'

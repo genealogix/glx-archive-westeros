@@ -1,0 +1,11 @@
+assertions:
+    assertion-lancel-lannister-name:
+        subject:
+            person: person-lancel-lannister
+        property: name
+        value: Lancel Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Also mentioned in House Baratheon section as squire to King Robert. Source text: their eldest son, LA NCEL, squire to the king'

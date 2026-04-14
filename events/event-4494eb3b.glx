@@ -1,0 +1,7 @@
+events:
+    event-birth-symond-frey:
+        title: Birth of Symond Frey
+        type: birth
+        participants:
+            - person: person-symond-frey
+              role: principal

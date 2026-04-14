@@ -1,0 +1,6 @@
+persons:
+    person-unknown-328:
+        properties:
+            external_ids:
+                - MH:I328
+            gender: unknown

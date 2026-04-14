@@ -1,0 +1,9 @@
+events:
+    event-marriage-robert-baratheon-i-and-delena-florent:
+        title: Marriage of Robert Baratheon I and Delena Florent
+        type: marriage
+        participants:
+            - person: person-robert-baratheon-i
+              role: subject
+            - person: person-delena-florent
+              role: subject

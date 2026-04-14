@@ -1,0 +1,12 @@
+assertions:
+    assertion-rickon-stark-name:
+        subject:
+            person: person-rickon-stark
+        property: name
+        value: Rickon Stark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to ''RICKON, a boy of four, believed dead''. Source text: RICKON, a boy of three'

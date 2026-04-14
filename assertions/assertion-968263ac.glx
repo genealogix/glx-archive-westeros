@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-umber-greatjon-gender:
+        subject:
+            person: person-jon-umber-greatjon
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section.

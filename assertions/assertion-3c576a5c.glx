@@ -1,0 +1,11 @@
+assertions:
+    assertion-barra-waters-name:
+        subject:
+            person: person-barra-waters
+        property: name
+        value: Barra Waters
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in any novel appendix (AGOT through ADWD). Barra appears in the AGOT narrative but is not listed in any appendix. Sourced from GEDCOM import.

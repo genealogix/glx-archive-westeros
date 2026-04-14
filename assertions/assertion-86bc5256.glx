@@ -1,0 +1,11 @@
+assertions:
+    assertion-illyrio-identified:
+        subject:
+            person: person-varys
+        property: description
+        value: Met secretly with Illyrio Mopatis beneath Red Keep
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-arya-iii
+        notes: Arya Stark observed the man with the forked yellow beard as 'grossly fat, yet he seemed to walk lightly, carrying his weight on the balls of his feet as a water dancer might. His rings glimmered in the torchlight, red-gold and pale silver, crusted with rubies, sapphires, slitted yellow tiger eyes. Every finger wore a ring; some had two.' This matches the description of Magister Illyrio Mopatis from Pentos. The two were speaking about delaying the 'wolf and lion' conflict and waiting for Daenerys's child to be born before the khal would march.

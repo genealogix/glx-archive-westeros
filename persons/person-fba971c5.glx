@@ -1,0 +1,11 @@
+persons:
+    person-morton-waynwood:
+        properties:
+            external_ids:
+                - MH:I252
+            gender: male
+            name:
+                fields:
+                    given: Morton
+                    surname: Waynwood
+                value: Morton Waynwood

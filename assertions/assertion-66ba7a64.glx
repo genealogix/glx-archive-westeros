@@ -1,0 +1,12 @@
+assertions:
+    assertion-amarei-crakehall-gender:
+        subject:
+            person: person-amarei-crakehall
+        property: gender
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

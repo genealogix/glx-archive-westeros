@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenys-dreamer-born:
+        subject:
+            event: event-84e73b7e
+        property: date
+        value: BEF -126
+        confidence: medium
+        status: proven
+        citations:
+            - citation-awoiaf-daenys-targaryen
+        notes: Born before 126 BC (Before the Conquest) in Valyria. Valyrian culture. She was already a maiden when she had her prophetic dream before the family's departure for Dragonstone in 114 BC.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-myrielle-lannister-name:
+        subject:
+            person: person-myrielle-lannister
+        property: name
+        value: Myrielle Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Daughter of Ser Stafford Lannister. Source text: his daughters, CERENNA and MYRIELLE'

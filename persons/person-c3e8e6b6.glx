@@ -1,0 +1,10 @@
+persons:
+    person-lannister-179:
+        properties:
+            external_ids:
+                - MH:I179
+            gender: male
+            name:
+                fields:
+                    surname: Lannister
+                value: Lannister

@@ -1,0 +1,12 @@
+assertions:
+    assertion-daenerys-targaryen-304-name:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: name
+        value: Daenerys Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-acok-appendix
+        notes: 'Verified against AGOT and ACOK Appendices. AGOT: ''PRINCESS DAENERYS, called Daenerys Stormborn, a maid of thirteen years.'' ACOK: ''DAENERYS TARGARYEN, called Daenerys Stormborn, the Unburnt, Mother of Dragons, Khaleesi of the Dothraki, and First of Her Name.'' Gained new titles after hatching dragons.'

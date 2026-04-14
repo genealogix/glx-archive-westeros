@@ -1,0 +1,11 @@
+assertions:
+    assertion-beric-born-276:
+        subject:
+            event: event-birth-beric-dondarrion
+        property: date
+        value: ABT 276
+        confidence: medium
+        status: proven
+        citations:
+            - citation-awoiaf-eddard-stark
+        notes: Born approximately 276 AC.

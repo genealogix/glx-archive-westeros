@@ -1,0 +1,11 @@
+assertions:
+    assertion-barristan-born-236:
+        subject:
+            event: event-0aa114f2
+        property: date
+        value: "236"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-robert-baratheon
+        notes: Born 236 AC. Knighted by Aegon V.

@@ -1,0 +1,12 @@
+assertions:
+    assertion-daeron-targaryen-i-gender:
+        subject:
+            person: person-daeron-targaryen-i
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: The eldest of his sons, Daeron, was a mere boy of fourteen years when he assumed the throne.'

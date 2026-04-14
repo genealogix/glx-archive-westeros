@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-condemned:
+        subject:
+            person: person-tyrion-lannister
+        property: description
+        value: Condemned to death after Oberyn's defeat
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-oberyn-duel
+        notes: 'With his champion defeated and dead, Tyrion was legally condemned. He was sent to the black cells to await execution. He later escaped with Jaime Lannister''s help and Varys''s orchestration, before killing Tywin Lannister and Shae in his father''s chambers. Text: ''He never heard his father speak the words that condemned him. Perhaps no words were necessary.'''

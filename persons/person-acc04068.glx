@@ -1,0 +1,11 @@
+persons:
+    person-mariya-derry:
+        properties:
+            external_ids:
+                - MH:I86
+            gender: female
+            name:
+                fields:
+                    given: Mariya
+                    surname: Derry
+                value: Mariya Derry

@@ -1,0 +1,11 @@
+persons:
+    person-harrold-hardyng:
+        properties:
+            external_ids:
+                - MH:I239
+            gender: male
+            name:
+                fields:
+                    given: Harrold
+                    surname: Hardyng
+                value: Harrold Hardyng

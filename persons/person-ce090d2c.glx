@@ -1,0 +1,11 @@
+persons:
+    person-edwyle-stark:
+        properties:
+            external_ids:
+                - MH:I464
+            gender: male
+            name:
+                fields:
+                    given: Edwyle
+                    surname: Stark
+                value: Edwyle Stark

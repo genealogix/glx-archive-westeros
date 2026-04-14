@@ -1,0 +1,12 @@
+assertions:
+    assertion-bethany-rosby-name:
+        subject:
+            person: person-bethany-rosby
+        property: name
+        value: Bethany Rosby
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

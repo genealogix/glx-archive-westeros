@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhea-florent-gender:
+        subject:
+            person: person-rhea-florent
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix, House Florent section. Listed as daughter.

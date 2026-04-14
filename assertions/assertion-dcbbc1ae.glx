@@ -1,0 +1,12 @@
+assertions:
+    assertion-edric-storm-father:
+        subject:
+            person: person-edric-storm
+        property: parent
+        value: person-robert-baratheon-i
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-ix
+            - citation-acok-appendix
+        notes: 'Source text (AGOT Eddard IX): Littlefinger told Ned ''He''s acknowledged that boy at Storm''s End, the one he fathered the night Lord Stannis wed. The mother was a Florent, niece to the Lady Selyse, one of her bedmaids.'' Robert publicly acknowledged Edric Storm. Confirmed in appendices as Robert''s bastard by Delena Florent.'

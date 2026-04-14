@@ -1,0 +1,11 @@
+assertions:
+    assertion-asha-greyjoy-gender:
+        subject:
+            person: person-asha-greyjoy
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Listed as only daughter of Balon Greyjoy in the AFFC appendix.

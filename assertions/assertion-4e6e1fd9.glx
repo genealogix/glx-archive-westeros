@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaqen-offer-three-deaths:
+        subject:
+            person: person-jaqen-hghar
+        property: description
+        value: Offers Arya three deaths in payment for saving him from the fire
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-arya-vi
+        notes: 'Jaqen H''ghar explains he owes Arya three deaths because she ''took three that were his'' (saving him, Rorge, and Biter from the burning wagon). Source text: ''The Red God has his due, sweet girl, and only death may pay for life. This girl took three that were his. This girl must give three in their places. Speak the names, and a man will do the rest.'' This reveals Jaqen''s nature as a Faceless Man of Braavos.'

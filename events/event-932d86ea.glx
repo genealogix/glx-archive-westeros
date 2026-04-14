@@ -1,0 +1,7 @@
+events:
+    event-death-velena-velaryon:
+        title: Death of Velena Velaryon
+        type: death
+        participants:
+            - person: person-velena-velaryon
+              role: principal

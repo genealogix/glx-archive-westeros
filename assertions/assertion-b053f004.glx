@@ -1,0 +1,11 @@
+assertions:
+    assertion-lysa-arryn-forced-abortion:
+        subject:
+            person: person-lysa-tully
+        property: description
+        value: Hoster Tully likely forced Lysa to abort a pregnancy by Petyr Baelish before arranging her marriage to Jon Arryn
+        confidence: medium
+        status: asserted
+        citations:
+            - citation-asos-catelyn-i
+        notes: 'Catelyn''s deduction, not directly confirmed in this chapter. She reasons: ''You made him take her. Lysa was the price Jon Arryn had to pay for the swords and spears of House Tully.'' The ''Tansy'' in Hoster''s delirium likely refers to tansy tea, a known abortifacient in the medieval world of Westeros. Hoster''s guilt and repeated begging for forgiveness of ''the blood'' strongly implies this. Confidence is medium because it is Catelyn''s inference, though later events (Lysa''s confession in ASOS) confirm the substance of it.'

@@ -1,0 +1,8 @@
+events:
+    event-death-aegon-targaryen-v:
+        title: Death of Aegon Targaryen V
+        type: death
+        date: "259"
+        participants:
+            - person: person-aegon-targaryen-v
+              role: principal

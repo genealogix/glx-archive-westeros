@@ -1,0 +1,11 @@
+assertions:
+    assertion-jorah-mormont-gender:
+        subject:
+            person: person-jorah-mormont
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Verified against AFFC Appendix. Listed as Ser and son of Lord Jeor.

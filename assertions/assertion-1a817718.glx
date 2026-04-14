@@ -1,0 +1,11 @@
+assertions:
+    assertion-roose-bolton-harrenhal-command:
+        subject:
+            person: person-roose-bolton
+        property: role
+        value: Roose Bolton holds Harrenhal as commander of Robb Stark's forces in the Riverlands, 299 AC
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jaime-iv
+        notes: 'When Jaime arrives at Harrenhal, Roose Bolton is clearly the lord in effective command with Frey bannermen present. Bolton says of the Brave Companions: ''Pray recall, my lord, you are not master of Harrenhal till I march north.'' His pale eyes and cold manner are described: ''Pale as morning mist, his eyes concealed more than they told.'' His tacit awareness of Cersei and Jaime''s relationship is signaled by his pause before saying ''nephew.'''

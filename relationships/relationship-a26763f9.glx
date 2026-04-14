@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-targaryen-rhaegar-daenerys:
+        type: sibling
+        participants:
+            - person: person-rhaegar-targaryen
+              role: sibling
+            - person: person-daenerys-targaryen-206
+              role: sibling
+        properties:
+            context: Children of Aerys II Targaryen and Rhaella Targaryen. Full siblings. Rhaegar died before Daenerys was born.
+        notes: 'AGOT appendix: House Targaryen. Daenerys was born on Dragonstone during the storm that destroyed the Targaryen fleet (hence ''Stormborn'') after Rhaegar''s death at the Battle of the Trident.'

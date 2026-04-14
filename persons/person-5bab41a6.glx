@@ -1,0 +1,12 @@
+persons:
+    person-urrigon-greyjoy:
+        properties:
+            cause_of_death: Died of a wound gone bad
+            gender: male
+            house: Greyjoy
+            name:
+                fields:
+                    given: Urrigon
+                    surname: Greyjoy
+                value: Urrigon Greyjoy
+        notes: Brother or half-brother of King Balon Greyjoy. Died of a wound gone bad. Listed as deceased in the AFFC appendix.

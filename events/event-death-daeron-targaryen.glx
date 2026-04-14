@@ -1,7 +1,0 @@
-events:
-    event-death-daeron-targaryen:
-        title: "Death of Daeron Targaryen"
-        type: death
-        participants:
-            - person: person-daeron-targaryen
-              role: principal

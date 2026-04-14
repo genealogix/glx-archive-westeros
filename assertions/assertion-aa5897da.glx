@@ -1,0 +1,11 @@
+assertions:
+    assertion-maron-martell-gender:
+        subject:
+            person: person-maron-martell
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-appendix
+        notes: 'Verified against TWOIAF. Source text: Prince Maron Martell'

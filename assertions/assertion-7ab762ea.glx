@@ -1,0 +1,11 @@
+assertions:
+    assertion-baratheon-499-gender:
+        subject:
+            person: person-baratheon-499
+        property: gender
+        value: male
+        confidence: low
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Unnamed Baratheon placeholder from GEDCOM import. Not found in any novel appendix.

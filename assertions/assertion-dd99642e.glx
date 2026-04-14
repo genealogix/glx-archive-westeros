@@ -1,0 +1,11 @@
+assertions:
+    assertion-balon-rejects-robb-alliance:
+        subject:
+            person: person-balon-greyjoy
+        property: description
+        value: Rejected Robb Stark's offer of alliance; declared his own plan to attack and seize the North while Robb fought in the south
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-theon-i
+        notes: 'Source text (Theon I): Lord Balon burns Robb''s letter and says: ''What is given can be taken away... I mean to carve out a kingdom with fire and sword... but not from the west, and not at the bidding of King Robb the Boy... I hunger for a different plum... not so juicy sweet, to be sure, yet it hangs there ripe and undefended.'' The undefended plum is the North, left with only a skeleton garrison while Robb''s forces are in the south.'

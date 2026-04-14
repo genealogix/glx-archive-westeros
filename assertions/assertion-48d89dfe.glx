@@ -1,0 +1,12 @@
+assertions:
+    assertion-aerys-targaryen-i-name:
+        subject:
+            person: person-aerys-targaryen-i
+        property: name
+        value: Aerys Targaryen I
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists ''209-221 Aerys I second son to Daeron II (left no issue)''. Source text: ASSUMING THE THRONE in 209 AC, Daeron''s second son, Aerys, had never imagined he would be king, and was singularly ill suited to sit the Iron Throne. Aerys was learned, in his way, though his interests were largely to do with dusty tomes concerned with ancient prophecy and the higher mysteries.'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenys-targaryen-name:
+        subject:
+            person: person-daenys-targaryen
+        property: name
+        value: Daenys Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Daenys the Dreamer, whose prophetic vision prompted Aenar to leave Valyria. Source text: unexpected to all (save perhaps Aenar Targaryen and his maiden daughter Daenys the Dreamer), the Doom came to Valyria.'

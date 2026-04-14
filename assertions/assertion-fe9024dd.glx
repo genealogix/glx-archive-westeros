@@ -1,0 +1,11 @@
+assertions:
+    assertion-ramsay-bolton-mother-identity:
+        subject:
+            person: person-ramsay-bolton
+        property: parent
+        value: Unknown — miller's wife near the Weeping Water
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-reek-ii
+        notes: Described by Roose Bolton as 'a tall, willowy creature, very healthy-looking. Long legs and small firm breasts, like two ripe plums.' She was the young wife of a miller on the Weeping Water. After being raped by Roose she was beaten by her dead husband's brother and driven from the mill. Roose gave her the mill back and had the brother's tongue cut out. She disobeyed Roose's order never to tell the boy his father's identity, which Roose credits for making Ramsay what he is. Name unknown.

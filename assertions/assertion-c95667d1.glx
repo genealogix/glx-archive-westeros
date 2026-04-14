@@ -1,0 +1,11 @@
+assertions:
+    assertion-arys-oakheart-name:
+        subject:
+            person: person-arys-oakheart
+        property: name
+        value: Ser Arys Oakheart
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section (Kingsguard). Source text: SER A RYS OA KHEA RT'

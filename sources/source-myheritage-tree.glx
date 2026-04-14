@@ -1,8 +1,0 @@
-sources:
-    source-myheritage-tree:
-        title: "ASOIAF MyHeritage Family Tree"
-        type: digital_record
-        authors:
-            - "Unknown contributor"
-        date: "2013"
-        repository: repository-myheritage-import

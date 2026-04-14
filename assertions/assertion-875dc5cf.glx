@@ -1,0 +1,11 @@
+assertions:
+    assertion-hoster-tully-death:
+        subject:
+            event: event-death-hoster-tully
+        property: date
+        value: "299"
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Hoster Tully died of a prolonged illness at Riverrun early in ASOS. While the ASOS appendix still lists him as living (reflecting start-of-book state), his death occurs early in the text. Confirmed dead in AFFC appendix.

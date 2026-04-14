@@ -1,0 +1,11 @@
+assertions:
+    assertion-willem-lannister-name:
+        subject:
+            person: person-willem-lannister
+        property: name
+        value: Willem Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Twin to Martyn, sons of Ser Kevan. Source text: their twin sons, WILLEM and MA RTYN'

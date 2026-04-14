@@ -1,0 +1,11 @@
+assertions:
+    assertion-balon-greyjoy-name:
+        subject:
+            person: person-balon-greyjoy
+        property: name
+        value: Balon Greyjoy
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'AFFC Appendix, King of the Isles and the North section. Source text: BALON GREYJOY, the Ninth of His Name Since the Grey King, King of the Iron Islands and the North, King of Salt and Rock, Son of the Sea Wind, and Lord Reaper of Pyke, killed in a fall'

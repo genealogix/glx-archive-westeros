@@ -1,0 +1,9 @@
+events:
+    event-death-ryam-florent:
+        title: Death of Ser Ryam Florent
+        type: death
+        participants:
+            - person: person-ryam-florent
+              role: principal
+        properties:
+            cause: Accident

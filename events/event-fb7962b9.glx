@@ -1,0 +1,8 @@
+events:
+    event-birth-dorea-sand:
+        title: Birth of Dorea Sand
+        type: birth
+        date: "ABT 291"
+        participants:
+            - person: person-dorea-sand
+              role: principal

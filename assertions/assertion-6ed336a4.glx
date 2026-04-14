@@ -1,0 +1,12 @@
+assertions:
+    assertion-bran-built-wall:
+        subject:
+            person: person-bran-the-builder
+        property: role
+        value: Builder of the Wall
+        confidence: low
+        status: speculative
+        citations:
+            - citation-twoiaf-nights-watch
+            - citation-twoiaf-kings-of-winter
+        notes: Legend credits Brandon the Builder with constructing the Wall after the Long Night, working with the children of the forest and perhaps giants. The maesters of the Citadel note the Wall's construction was likely a multi-generational effort and that 'Brandon the Builder' may be a composite figure representing generations of Stark ancestors rather than a single man. The Wall's foundations may have originally been stone, though now it appears entirely as ice.

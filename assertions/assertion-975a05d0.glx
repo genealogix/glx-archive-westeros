@@ -1,0 +1,12 @@
+assertions:
+    assertion-bradamar-frey-name:
+        subject:
+            person: person-bradamar-frey
+        property: name
+        value: Bradamar Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Symond''s son, BRADAMAR, a boy of ten, a ward of Oro Tendyris, a merchant of Braavos'

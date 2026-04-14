@@ -1,0 +1,11 @@
+assertions:
+    assertion-dorna-swyft-gender:
+        subject:
+            person: person-dorna-swyft
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Lannister section.

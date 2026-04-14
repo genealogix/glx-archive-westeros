@@ -1,0 +1,11 @@
+assertions:
+    assertion-hightower-425-name:
+        subject:
+            person: person-hightower-425
+        property: name
+        value: Hightower
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Surname-only placeholder. Based on relationships (parent of Leyton Hightower), this is Leyton's father. Not named in novel appendices. Requires further verification.

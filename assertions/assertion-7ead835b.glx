@@ -1,0 +1,12 @@
+assertions:
+    assertion-lia-serry-name:
+        subject:
+            person: person-lia-serry
+        property: name
+        value: Lia Serry
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,11 @@
+persons:
+    person-daena-targaryen:
+        properties:
+            external_ids:
+                - MH:I308
+            gender: female
+            name:
+                fields:
+                    given: Daena
+                    surname: Targaryen
+                value: Daena Targaryen

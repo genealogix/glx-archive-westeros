@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-stark-title-king-in-the-north-acok:
+        subject:
+            person: person-robb-stark
+        property: title
+        value: King in the North
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the North section. Source text: ''ROBB STARK, Lord of Winterfell and King in the North, eldest son of Eddard Stark, Lord of Winterfell, and Lady Catelyn of House Tully, a boy of fifteen years.'''

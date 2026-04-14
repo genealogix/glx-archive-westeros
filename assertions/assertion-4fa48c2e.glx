@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaqen-iron-coin:
+        subject:
+            person: person-jaqen-hghar
+        property: description
+        value: Confirmed Faceless Man of Braavos
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-arya-ix
+        notes: 'After the three deaths are fulfilled, Jaqen H''ghar gives Arya an iron coin and the words ''Valar morghulis,'' then changes his face — confirming his nature as a Faceless Man. Source text: ''Jaqen is as dead as Arry, and I have promises to keep. Valar morghulis, Arya Stark. Say it again.'' The coin will later let Arya gain passage to Braavos.'

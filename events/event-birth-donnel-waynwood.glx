@@ -1,7 +1,0 @@
-events:
-    event-birth-donnel-waynwood:
-        title: "Birth of Donnel Waynwood"
-        type: birth
-        participants:
-            - person: person-donnel-waynwood
-              role: principal

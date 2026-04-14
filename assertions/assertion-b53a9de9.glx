@@ -1,0 +1,11 @@
+assertions:
+    assertion-amory-lorch-name-acok:
+        subject:
+            person: person-amory-lorch
+        property: name
+        value: Ser Amory Lorch
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, House Lannister section. Source text: ''SER AMORY LORCH, a captain of foragers.'''

@@ -1,0 +1,12 @@
+assertions:
+    assertion-dany-culture-valyrian:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: culture
+        value: Valyrian
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-daenerys-targaryen
+            - citation-agot-daenerys-i
+        notes: 'House Targaryen are of Valyrian descent. AWOIAF lists her race as Valyrian. She has the classical Valyrian look: violet eyes, pale skin, and silver-gold hair.'

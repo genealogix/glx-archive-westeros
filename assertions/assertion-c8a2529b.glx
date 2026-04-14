@@ -1,0 +1,11 @@
+assertions:
+    assertion-sarella-sand-gender:
+        subject:
+            person: person-sarella-sand
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Martell section. Source text: SARELLA, nineteen, his daughter by a trader'

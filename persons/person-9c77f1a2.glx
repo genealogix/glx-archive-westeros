@@ -1,0 +1,11 @@
+persons:
+    person-olyvar-martell:
+        properties:
+            external_ids:
+                - MH:I262
+            gender: male
+            name:
+                fields:
+                    given: Olyvar
+                    surname: Martell
+                value: Olyvar Martell

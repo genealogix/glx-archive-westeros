@@ -1,0 +1,11 @@
+assertions:
+    assertion-kraznys-insults-daenerys:
+        subject:
+            person: person-kraznys-mo-nakloz
+        property: description
+        value: Kraznys habitually insulted Daenerys in High Valyrian, not knowing she understood him; Missandei softened his words in translation
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-ii
+        notes: 'Kraznys called Daenerys ''the Westerosi whore,'' ''this cow,'' ''this ignorant whore of a westerner,'' and similar. Missandei consistently softened these: e.g. when he said ''Tell the cow to stop her bleating,'' she translated ''What is he doing?'' When he said to ''lick honey off her breasts,'' she said ''Astapor is most beautiful at dusk.'' Daenerys feigned ignorance of High Valyrian throughout.'

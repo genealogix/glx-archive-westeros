@@ -1,0 +1,11 @@
+persons:
+    person-aelix-targaryen:
+        properties:
+            external_ids:
+                - MH:I366
+            gender: male
+            name:
+                fields:
+                    given: Aelix
+                    surname: Targaryen
+                value: Aelix Targaryen

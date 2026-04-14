@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-parents:
+        subject:
+            person: person-stannis-baratheon
+        property: parent
+        value: Steffon Baratheon and Cassana Estermont
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I, Stannis''s proclamation): ''All men know me for the trueborn son of Steffon Baratheon, Lord of Storm''s End, by his lady wife Cassana of House Estermont.'' This is Stannis''s own formal statement confirming his parentage.'

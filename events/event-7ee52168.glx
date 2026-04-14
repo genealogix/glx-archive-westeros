@@ -1,0 +1,10 @@
+events:
+    event-death-aerys-targaryen-ii:
+        title: Death of Aerys Targaryen II
+        type: death
+        date: "283"
+        participants:
+            - person: person-aerys-targaryen-ii
+              role: principal
+        properties:
+            cause: Homicide

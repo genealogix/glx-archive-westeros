@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-targaryen-iii-gender:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix. Source text: PRINCE VISERYS, styling himself Viserys, the Third of His Name'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-garlan-tyrell-alias:
+        subject:
+            person: person-garlan-tyrell
+        property: alias
+        value: The Gallant
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Tyrell section. Source text: SER GA RLA N, called the Gallant'

@@ -1,0 +1,12 @@
+assertions:
+    assertion-jon-connington-true-identity:
+        subject:
+            person: person-jon-connington
+        property: alias
+        value: Griff
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-lost-lord
+            - citation-adwd-tyrion-iii
+        notes: Jon Connington traveled under the alias 'Griff' for years as a sellsword while fostering Young Griff (Aegon). His true identity as the exiled Lord of Griffin's Roost and former Hand of the King is confirmed by his own POV in The Lost Lord. Tyrion suspects it earlier (ADWD Tyrion III) from his Stormlands accent.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-sylva-santagar-spotted-sylva-gender:
+        subject:
+            person: person-sylva-santagar-spotted-sylva
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Verified against AFFC Appendix, Dorne section. Listed as daughter and heir.

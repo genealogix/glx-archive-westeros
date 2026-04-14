@@ -1,0 +1,11 @@
+assertions:
+    assertion-edwyle-stark-gender:
+        subject:
+            person: person-edwyle-stark
+        property: gender
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in any novel appendix. May appear only in TWOIAF or supplementary sources.

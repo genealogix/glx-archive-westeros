@@ -1,0 +1,8 @@
+events:
+    event-death-aerys-targaryen-i:
+        title: Death of Aerys Targaryen I
+        type: death
+        date: "221"
+        participants:
+            - person: person-aerys-targaryen-i
+              role: principal

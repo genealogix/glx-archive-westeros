@@ -1,0 +1,11 @@
+assertions:
+    assertion-littlefinger-duel-brandon-stark:
+        subject:
+            person: person-petyr-baelish
+        property: description
+        value: Challenged Brandon Stark for Catelyn Tully's hand in marriage
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-catelyn-iv
+        notes: 'Source text: ''When it was announced that I was to wed Brandon Stark, Petyr challenged for the right to my hand. It was madness. Brandon was twenty, Petyr scarcely fifteen. I had to beg Brandon to spare Petyr''s life. He let him off with a scar. Afterward my father sent him away.'' Petyr was approximately 15 when Brandon was 20 at the time of this duel. Brandon Stark was betrothed to Catelyn and killed Petyr in the duel but spared his life at Catelyn''s pleading, leaving a scar. Petyr was then sent away from Riverrun.'

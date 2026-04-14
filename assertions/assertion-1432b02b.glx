@@ -1,0 +1,11 @@
+assertions:
+    assertion-qhorin-killed-by-jon:
+        subject:
+            person: person-qhorin-halfhand
+        property: cause_of_death
+        value: Killed by Jon Snow to allow Jon to infiltrate the wildlings
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-jon-vii
+        notes: 'Qhorin Halfhand orders Jon to kill him as a stratagem — Jon''s execution of the Halfhand will convince the wildlings Jon has truly defected from the Night''s Watch. Source: wildling Ragwyle later says ''Who would have thought it? Qhorin Halfhand slain by some lordling''s byblow.'' (ACOK Jon XI). This is referenced in the chunk at line 16015.'

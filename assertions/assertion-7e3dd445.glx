@@ -1,0 +1,11 @@
+assertions:
+    assertion-victarion-greyjoy-title:
+        subject:
+            person: person-victarion-greyjoy
+        property: title
+        value: Lord Captain of the Iron Fleet
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Titled Lord Captain of the Iron Fleet in the AFFC appendix.

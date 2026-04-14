@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-father-actual:
+        subject:
+            person: person-joffrey-baratheon
+        property: parent
+        value: person-jaime-lannister
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-xii
+        notes: 'Source text: ''All three are Jaime''s,'' he said. It was not a question. ''Thank the gods.'' Cersei confirmed directly to Ned in the godswood. Ned had deduced this from Grand Maester Malleon''s tome on lineages: in every recorded Baratheon-Lannister mating, the black Baratheon hair dominated the gold. Joffrey, Myrcella, and Tommen all have golden Lannister hair — the pattern is broken, indicating they are not Robert''s children.'

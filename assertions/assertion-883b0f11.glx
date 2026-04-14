@@ -1,0 +1,12 @@
+assertions:
+    assertion-merrell-florent-name:
+        subject:
+            person: person-merrell-florent
+        property: name
+        value: Merrell Florent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ACOK Appendix, House Florent section. Son of Ser Colin Florent. Confirmed in ASOS and AFFC appendices. Source text: Colin''s son, MERRELL, a squire on the Arbor'

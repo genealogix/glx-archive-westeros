@@ -1,0 +1,11 @@
+persons:
+    person-olyvar-frey:
+        properties:
+            external_ids:
+                - MH:I130
+            gender: male
+            name:
+                fields:
+                    given: Olyvar
+                    surname: Frey
+                value: Olyvar Frey

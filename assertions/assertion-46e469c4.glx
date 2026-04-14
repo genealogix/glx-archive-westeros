@@ -1,0 +1,11 @@
+assertions:
+    assertion-missandei-origin-naath:
+        subject:
+            person: person-missandei
+        property: description
+        value: Missandei is from Naath; no older than ten at the time of the Astapor chapters; spoke Common Tongue well despite never having been to Westeros
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-ii
+        notes: 'Text: ''No older than ten, she had the round flat face, dusky skin, and golden eyes of Naath. The Peaceful People, her folk were called. All agreed that they made the best slaves.'''

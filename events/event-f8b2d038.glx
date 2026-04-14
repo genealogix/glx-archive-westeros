@@ -1,0 +1,7 @@
+events:
+    event-birth-willamen-frey:
+        title: Birth of Willamen Frey
+        type: birth
+        participants:
+            - person: person-willamen-frey
+              role: principal

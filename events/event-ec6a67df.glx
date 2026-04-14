@@ -1,0 +1,7 @@
+events:
+    event-2287ef33:
+        type: death
+        date: "289"
+        participants:
+            - person: person-quellon-greyjoy
+              role: principal

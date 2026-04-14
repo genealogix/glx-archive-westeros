@@ -1,0 +1,13 @@
+persons:
+    person-shireen-baratheon:
+        properties:
+            external_ids:
+                - MH:I198
+            gender: female
+            house: Baratheon
+            name:
+                fields:
+                    given: Shireen
+                    surname: Baratheon
+                value: Shireen Baratheon
+        notes: A girl of nine at the time of AGOT.

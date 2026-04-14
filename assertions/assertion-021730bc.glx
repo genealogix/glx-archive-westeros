@@ -1,0 +1,12 @@
+assertions:
+    assertion-sandor-frey-gender:
+        subject:
+            person: person-sandor-frey
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Geremy''s son, SANDOR, a boy of twelve, a squire to Ser Donnel Waynwood'

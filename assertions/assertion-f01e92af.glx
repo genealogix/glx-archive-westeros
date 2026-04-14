@@ -1,0 +1,11 @@
+assertions:
+    assertion-tywin-lannister-house:
+        subject:
+            person: person-tywin-lannister
+        property: house
+        value: Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Lannister section.

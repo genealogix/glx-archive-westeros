@@ -1,0 +1,12 @@
+assertions:
+    assertion-tommen-born-291:
+        subject:
+            event: event-birth-tommen-baratheon
+        property: date
+        value: "291"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-cersei-lannister
+            - citation-agot-appendix
+        notes: Born 291 AC in King's Landing.

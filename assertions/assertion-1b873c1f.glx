@@ -1,0 +1,11 @@
+assertions:
+    assertion-cersei-title-lady-casterly-rock-affc:
+        subject:
+            person: person-cersei-lannister
+        property: title
+        value: Lady of Casterly Rock
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Cersei styled Lady of Casterly Rock in the AFFC appendix, following Tywin's death.

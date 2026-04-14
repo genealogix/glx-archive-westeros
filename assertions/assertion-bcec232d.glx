@@ -1,0 +1,11 @@
+assertions:
+    assertion-tywin-lannister-cause-of-death:
+        subject:
+            person: person-tywin-lannister
+        property: cause_of_death
+        value: Killed by crossbow bolt, shot by his son Tyrion
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Tyrion shot Tywin with a crossbow while Tywin was on the privy. Tyrion had been freed from his cell by Jaime Lannister and Varys.

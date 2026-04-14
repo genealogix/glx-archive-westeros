@@ -1,0 +1,9 @@
+events:
+    event-marriage-jon-arryn-and-jeyne-royce:
+        title: Marriage of Jon Arryn and Jeyne Royce
+        type: marriage
+        participants:
+            - person: person-jon-arryn
+              role: subject
+            - person: person-jeyne-royce
+              role: subject

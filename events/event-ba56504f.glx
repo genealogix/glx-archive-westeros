@@ -1,0 +1,7 @@
+events:
+    event-birth-tarly-460:
+        title: Birth of Tarly
+        type: birth
+        participants:
+            - person: person-tarly-460
+              role: principal

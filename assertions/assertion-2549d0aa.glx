@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-religion-rhllor:
+        subject:
+            person: person-stannis-baratheon
+        property: religion
+        value: R'hllor
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+        notes: Renounced the Faith of the Seven for the Lord of Light under Melisandre's influence.

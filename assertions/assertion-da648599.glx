@@ -1,0 +1,12 @@
+assertions:
+    assertion-strangler-in-hairnet:
+        subject:
+            event: event-purple-wedding
+        property: description
+        value: The Strangler dissolved from a black amethyst in Sansa's hairnet, dropped into Joffrey's wine by Olenna Tyrell
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-sansa-vi
+            - citation-asos-tyrion-lxviii
+        notes: 'Confirmed from Sansa''s POV: she notices one black amethyst is missing from her hairnet and realizes the stones ''were no amethysts.'' Dontos confirms ''There was magic in them'' before the escape. Littlefinger later reveals the full scheme — he arranged the hairnet and had Olenna place the poison in Joffrey''s wine. Text: ''Black amethysts from Asshai. One of them was missing.'''

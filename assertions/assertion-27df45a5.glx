@@ -1,0 +1,11 @@
+assertions:
+    assertion-unsullied-training-regime:
+        subject:
+            person: person-kraznys-mo-nakloz
+        property: description
+        value: Unsullied training begins at age five; only one in three survives; must strangle their puppy after one year; must kill an infant with a silver mark to earn the spiked cap
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-ii
+        notes: 'Kraznys''s description via Missandei''s translation: ''They begin their training at five. Every day they train from dawn to dusk... Only one boy in three survives it.'' On the infant murder: ''To win his spiked cap, an Unsullied must go to the slave marts with a silver mark, find some wailing newborn, and kill it before its mother''s eyes. In this way, we make certain that there is no weakness left in them.'''

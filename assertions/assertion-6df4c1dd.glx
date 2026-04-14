@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-alias-giant-of-lannister:
+        subject:
+            person: person-tyrion-lannister
+        property: alias
+        value: Giant of Lannister
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-appendix
+        notes: Title given after the Battle of the Green Fork.

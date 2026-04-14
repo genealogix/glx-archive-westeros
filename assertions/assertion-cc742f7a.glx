@@ -1,0 +1,12 @@
+assertions:
+    assertion-trystane-martell-name:
+        subject:
+            person: person-trystane-martell
+        property: name
+        value: Trystane Martell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Martell section. Source text: PRINCE TRYSTANE, betrothed to Myrcella Baratheon'

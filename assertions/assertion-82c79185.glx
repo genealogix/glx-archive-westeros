@@ -1,0 +1,12 @@
+assertions:
+    assertion-daenerys-speaks-valyrian:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: description
+        value: Daenerys speaks High Valyrian fluently and deliberately concealed this from Kraznys throughout negotiations
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-ii
+            - citation-asos-daenerys-iii
+        notes: The text establishes in Daenerys II that 'Kraznys's High Valyrian was twisted and thickened by the characteristic growl of Ghis, and flavored here and there with words of slaver argot. Dany understood him well enough, but she smiled and looked blankly at the slave girl.' The deception is strategic and gives Daenerys complete information advantage.

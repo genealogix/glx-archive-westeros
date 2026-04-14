@@ -1,0 +1,11 @@
+assertions:
+    assertion-arys-oakheart-gender:
+        subject:
+            person: person-arys-oakheart
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon section. Listed as Ser.

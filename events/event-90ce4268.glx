@@ -1,0 +1,7 @@
+events:
+    event-birth-wallace-waynwood:
+        title: Birth of Wallace Waynwood
+        type: birth
+        participants:
+            - person: person-wallace-waynwood
+              role: principal

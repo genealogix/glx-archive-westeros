@@ -1,0 +1,11 @@
+assertions:
+    assertion-alyn-velaryon-name:
+        subject:
+            person: person-alyn-velaryon
+        property: name
+        value: Alyn Velaryon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, Sisters of Baelor I section. Also mentioned in the Daeron I section regarding the conquest of Dorne as ''the king''s cousin and master of ships, Alyn Velaryon'' and ''Lord Alyn Oakenfist''. Source text: Elaena outlived her siblings and led a tumultuous life once freed from the Maidenvault. Following in Daena''s footsteps, she bore the bastard twins Jon and Jeyne Waters to Alyn Velaryon, Lord Oakenfist.'

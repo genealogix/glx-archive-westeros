@@ -1,0 +1,11 @@
+assertions:
+    assertion-stark-sigil:
+        subject:
+            person: person-eddard-stark
+        property: description
+        value: 'House Stark sigil: grey direwolf on an ice-white field'
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-i
+        notes: 'Source text (Bran I): ''Over their heads flapped the banner of the Starks of Winterfell: a grey direwolf racing across an ice-white field.'''

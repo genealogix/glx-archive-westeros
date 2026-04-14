@@ -1,0 +1,11 @@
+assertions:
+    assertion-garlan-tyrell-gender:
+        subject:
+            person: person-garlan-tyrell
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: SER GARLAN, called the Gallant, their second son'

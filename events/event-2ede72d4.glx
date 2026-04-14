@@ -1,0 +1,7 @@
+events:
+    event-bffad808:
+        type: birth
+        place: place-the-vale
+        participants:
+            - person: person-dolorous-edd
+              role: principal

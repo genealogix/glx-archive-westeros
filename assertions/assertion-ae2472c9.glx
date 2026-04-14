@@ -1,0 +1,11 @@
+assertions:
+    assertion-lewyn-martell-gender:
+        subject:
+            person: person-lewyn-martell
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-appendix
+        notes: 'Verified against TWOIAF. Source text: Prince Lewyn of Dorne'

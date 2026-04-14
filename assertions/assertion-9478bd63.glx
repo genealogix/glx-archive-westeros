@@ -1,0 +1,11 @@
+assertions:
+    assertion-martell-name:
+        subject:
+            person: person-martell
+        property: name
+        value: Martell
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Surname-only placeholder without given name. Not identifiable in novel appendices. Likely a GEDCOM import artifact.

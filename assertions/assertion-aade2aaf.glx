@@ -1,0 +1,11 @@
+assertions:
+    assertion-runceford-redwyne-name:
+        subject:
+            person: person-runceford-redwyne
+        property: name
+        value: Runceford Redwyne
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Not found in novel appendices. May be from TWOIAF or a GEDCOM artifact. Requires further verification.

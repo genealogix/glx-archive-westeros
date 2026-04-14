@@ -1,0 +1,7 @@
+events:
+    event-birth-jeyne-beesbury:
+        title: Birth of Jeyne Beesbury
+        type: birth
+        participants:
+            - person: person-jeyne-beesbury
+              role: principal

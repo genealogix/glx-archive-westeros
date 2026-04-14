@@ -1,0 +1,11 @@
+assertions:
+    assertion-cersei-had-high-septon-killed:
+        subject:
+            person: person-cersei-lannister
+        property: description
+        value: Murder of the previous High Septon (the fat one)
+        confidence: high
+        status: proven
+        citations:
+            - citation-affc-cersei-vii
+        notes: 'Under torture by the Faith Militant, Osney Kettleblack confessed to the High Sparrow: ''She sent me to kill the old High Septon. He never had no guards. I just come in when he was sleeping and pushed a pillow down across his face.'' This was the confession that triggered Cersei''s arrest. Cersei had previously arranged the murder of the fat High Septon and replaced him — only to see the replacement (the High Sparrow) prove far more dangerous.'

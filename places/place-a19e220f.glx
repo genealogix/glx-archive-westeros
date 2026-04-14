@@ -1,0 +1,6 @@
+places:
+    place-the-neck:
+        name: The Neck
+        parent: place-the-north
+        type: swamp
+        notes: A narrow strip of swampland separating the North from the rest of Westeros. Home to the crannogmen of House Reed. Its marshes and bogs make it nearly impossible to cross except by the causeway through Moat Cailin.

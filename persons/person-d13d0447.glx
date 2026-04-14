@@ -1,0 +1,11 @@
+persons:
+    person-jeyne-lydden:
+        properties:
+            external_ids:
+                - MH:I15
+            gender: female
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Lydden
+                value: Jeyne Lydden

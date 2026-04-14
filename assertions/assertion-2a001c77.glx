@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-tully-widow:
+        subject:
+            person: person-catelyn-tully
+        property: description
+        value: widow
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: 'ASOS appendix, King in the North section. Source text: ''his mother, LADY CATELYN, of House Tully, widow of Lord Eddard Stark'''

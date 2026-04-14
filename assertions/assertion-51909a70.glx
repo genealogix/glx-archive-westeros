@@ -1,0 +1,11 @@
+assertions:
+    assertion-iron-bank-stannis-meeting:
+        subject:
+            person: person-stannis-baratheon
+        property: event
+        value: Meeting with Tycho Nestoris of the Iron Bank of Braavos at the crofter's village
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-sacrifice
+        notes: Tycho Nestoris of the Iron Bank of Braavos arrives at Stannis's snowbound camp with Tristifer Botley and five other freed Iron Islanders, having ransomed them from Sybelle Glover at Deepwood Motte as a way to secure an escort. He states it is 'most urgent' that he speak with Stannis at once. This implies the Iron Bank has business with Stannis — almost certainly regarding his previously established loan (referenced in earlier ADWD chapters) and Lannister debts.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-beric-dondarrion-mission:
+        subject:
+            person: person-beric-dondarrion
+        property: description
+        value: Sent to execute Gregor Clegane by Ned Stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-xi
+        notes: 'Source text: ''Lord Beric Dondarrion, you shall have the command, as befits your rank.'' Ned Stark sent Lord Beric Dondarrion with Thoros of Myr, Ser Gladden, Lord Lothar, and twenty guards each (totaling ~100 men) to execute Gregor Clegane in the westlands. Ser Robar Royce was sent to inform King Robert.'

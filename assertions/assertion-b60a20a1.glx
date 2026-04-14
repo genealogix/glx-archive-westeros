@@ -1,0 +1,12 @@
+assertions:
+    assertion-sandor-name:
+        subject:
+            person: person-sandor-clegane
+        property: name
+        value: Sandor Clegane
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-appendix
+            - citation-awoiaf-sandor-clegane
+        notes: 'AGOT Appendix lists him under House Lannister: ''SANDOR CLEGANE, called the Hound, his sworn shield.'''

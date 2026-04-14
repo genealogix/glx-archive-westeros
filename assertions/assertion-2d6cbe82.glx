@@ -1,0 +1,11 @@
+assertions:
+    assertion-nymeria-sand-age-affc:
+        subject:
+            event: event-birth-nymeria-sand
+        property: date
+        value: ABT 274
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: AFFC Appendix lists Nymeria as five-and-twenty, placing her birth around 274 AC. Called Lady Nym. Daughter of Oberyn by a noblewoman of Volantis.

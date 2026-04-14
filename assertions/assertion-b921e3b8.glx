@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-beric-three-clegane-deaths:
+        subject:
+            person: person-beric-dondarrion
+        property: description
+        value: Three of Beric's six deaths were at the hands of House Clegane
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-arya-vi
+        notes: 'Beric''s own account: ''That''s thrice I have died at the hands of House Clegane. You would think that I might have learned...'' — Gregor (mace to temple via Ser Burton Crakehall, and dirk through eye), and now Sandor. The hanging at Rushing Falls victim was also connected to Gregor''s men.'

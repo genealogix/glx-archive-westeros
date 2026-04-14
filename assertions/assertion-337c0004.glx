@@ -1,0 +1,11 @@
+assertions:
+    assertion-chett-crime:
+        subject:
+            person: person-chett
+        property: description
+        value: Sent to the Wall for murdering Bessa
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-prologue
+        notes: 'Text: ''She stopped laughing when he put his knife in her. That was sweet, the look on her face, so he pulled the knife out and put it in her again. When they caught him down near Sevenstreams, old Lord Walder Frey hadn''t even bothered to come himself to do the judging. He''d sent one of his bastards, that Walder Rivers, and the next thing Chett had known he was walking to the Wall with that foul-smelling black devil Yoren.'''

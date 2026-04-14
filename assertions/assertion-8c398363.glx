@@ -1,0 +1,11 @@
+assertions:
+    assertion-desmond-redwyne-gender:
+        subject:
+            person: person-desmond-redwyne
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Source text: Ser Desmond Redwyne'

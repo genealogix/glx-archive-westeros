@@ -1,0 +1,11 @@
+assertions:
+    assertion-lothar-frey-planner:
+        subject:
+            person: person-lothar-frey
+        property: description
+        value: Principal planner and negotiator for the Frey side
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: Lame Lothar served as Lord Walder's steward and was the chief emissary who negotiated the terms of reconciliation that lured Robb Stark to the Twins. He arranged the Edmure-Roslin match, set the conditions (Robb must apologize in person), and conveyed the false goodwill. At the feast he sat on the dais and was among those first pounding cups when the bedding ceremony began — the signal for the gallery musicians. He was notably gracious and cheerful with Catelyn en route, concealing his knowledge of the plot.

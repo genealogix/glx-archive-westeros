@@ -1,0 +1,11 @@
+assertions:
+    assertion-tower-of-joy-oswell-whent:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-oswell-whent
+            role: combatant
+            notes: 'Kingsguard. Died at the Tower of Joy. Source text: ''Ser Oswell Whent was on one knee, sharpening his blade with a whetstone.'''
+        confidence: high
+        citations:
+            - citation-agot-eddard-x

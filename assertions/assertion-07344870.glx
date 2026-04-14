@@ -1,0 +1,11 @@
+assertions:
+    assertion-orys-baratheon-first-hand:
+        subject:
+            person: person-orys-baratheon
+        property: title
+        value: First Hand of the King
+        confidence: high
+        status: proven
+        citations:
+            - citation-twoiaf-conquest
+        notes: 'TWOIAF states directly: ''Thus Baratheon is reckoned by the maesters the first King''s Hand.'' Aegon proclaimed him ''my shield, my stalwart, my strong right hand'' at the Aegonfort ceremony.'

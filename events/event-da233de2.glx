@@ -1,0 +1,10 @@
+events:
+    event-birth-tommen-baratheon:
+        title: Birth of Tommen Baratheon
+        type: birth
+        place: place-kings-landing
+        date: "291"
+        participants:
+            - person: person-tommen-baratheon
+              role: principal
+        notes: Officially son of Robert Baratheon and Cersei Lannister. Actually fathered by Jaime Lannister.

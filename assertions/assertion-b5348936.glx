@@ -1,0 +1,12 @@
+assertions:
+    assertion-grey-wind-killed-red-wedding:
+        subject:
+            person: person-robb-stark
+        property: description
+        value: Grey Wind killed at the Red Wedding, penned outside the hall by Walder Frey's insistence
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+            - citation-asos-davos-iv
+        notes: 'Walder Frey insisted Grey Wind be excluded from the feast hall, neutralizing Robb''s protection. Catelyn heard ''the wild howling of a wolf'' during the massacre — too late. Robb''s last words referenced Grey Wind: ''Mother, Grey Wind...'' The direwolf''s howling outside is described as ''sharp with rage and grief'' in Arya''s chapter. His head was subsequently sewn onto Robb''s corpse. Direct text: ''Catelyn heard the crash of distant battle, and closer the wild howling of a wolf. Grey Wind, she remembered too late.'''

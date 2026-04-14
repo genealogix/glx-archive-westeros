@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-killed-red-wedding:
+        subject:
+            person: person-catelyn-tully
+        property: cause_of_death
+        value: Throat cut by Raymund Frey at the Red Wedding
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'After Robb was killed and Catelyn killed Jinglebell, her throat was cut. The assertion file assertions-catelyn-death-red-wedding.glx exists; this assertion adds the specific perpetrator detail. Text: ''Then the steel was at her throat, and its bite was red and cold.'' The AFFC appendix identifies Ser Raymund Frey as the one who cut her throat. Catelyn''s body was thrown naked into the river.'

@@ -1,0 +1,12 @@
+assertions:
+    assertion-jon-fossoway-name:
+        subject:
+            person: person-jon-fossoway
+        property: name
+        value: Jon Fossoway
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Tyrell section. Husband of Janna Tyrell (Mace''s sister). Source text: LADY JANNA, wed to Ser Jon Fossoway'

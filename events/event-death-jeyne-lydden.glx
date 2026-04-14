@@ -1,9 +1,0 @@
-events:
-    event-death-jeyne-lydden:
-        title: "Death of Jeyne Lydden"
-        type: death
-        participants:
-            - person: person-jeyne-lydden
-              role: principal
-        properties:
-            cause: Accident

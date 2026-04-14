@@ -1,0 +1,11 @@
+assertions:
+    assertion-jory-cassel-burial:
+        subject:
+            person: person-jory-cassel
+        property: description
+        value: Winterfell, beside his grandfather
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-x
+        notes: 'Source text: ''I gave them over to the silent sisters, to be sent north to Winterfell. Jory would want to lie beside his grandfather.'' Ned''s captain Alyn arranged for the bodies of Jory and the other slain to be sent north via the silent sisters. Jory''s father Martyn Cassel died at the Tower of Joy.'

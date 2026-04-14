@@ -1,0 +1,11 @@
+persons:
+    person-alysanne-hightower:
+        properties:
+            external_ids:
+                - MH:I410
+            gender: female
+            name:
+                fields:
+                    given: Alysanne
+                    surname: Hightower
+                value: Alysanne Hightower

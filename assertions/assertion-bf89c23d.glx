@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-tully-title:
+        subject:
+            person: person-catelyn-tully
+        property: title
+        value: Lady
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Stark section. Source text: his wife, LA DY CA TELYN, of House Tully'

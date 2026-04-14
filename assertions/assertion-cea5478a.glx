@@ -1,0 +1,11 @@
+assertions:
+    assertion-wight-attack-fist-scale:
+        subject:
+            event: event-wight-attack-fist-first-men
+        property: description
+        value: Three hundred Night's Watch brothers at the Fist
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-prologue
+        notes: 'Text: ''Three hundred sworn brothers of the Night''s Watch had ridden north, two hundred from Castle Black and another hundred from the Shadow Tower. It was the biggest ranging in living memory, near a third of the Watch''s strength.'''

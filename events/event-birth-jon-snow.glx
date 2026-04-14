@@ -1,9 +1,0 @@
-events:
-    event-birth-jon-snow:
-        title: "Birth of Jon Snow"
-        type: birth
-        date: "283"
-        participants:
-            - person: person-jon-snow
-              role: principal
-        notes: "Acknowledged bastard of Eddard Stark. True parentage (Rhaegar Targaryen and Lyanna Stark) strongly implied but not confirmed in the novels."

@@ -1,0 +1,11 @@
+assertions:
+    assertion-winterfell-hot-springs:
+        subject:
+            person: person-catelyn-tully
+        property: description
+        value: Winterfell was built over natural hot springs that heat the castle walls year-round
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-ii
+        notes: 'Source text (Catelyn II): ''The castle had been built over natural hot springs, and the scalding waters rushed through its walls and chambers like blood through a man''s body, driving the chill from the stone halls, filling the glass gardens with a moist warmth, keeping the earth from freezing.'''

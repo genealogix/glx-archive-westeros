@@ -1,0 +1,11 @@
+events:
+    event-death-elia-martell:
+        title: Death of Elia Martell
+        type: death
+        place: place-kings-landing
+        date: "BEF 300"
+        participants:
+            - person: person-elia-martell
+              role: principal
+        properties:
+            cause: Homicide

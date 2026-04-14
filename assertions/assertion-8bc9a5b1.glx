@@ -1,0 +1,11 @@
+assertions:
+    assertion-davos-knighted-siege-storms-end:
+        subject:
+            person: person-davos-seaworth
+        property: description
+        value: Knighted by Stannis Baratheon after smuggling onions and salt fish past the Redwyne blockade to relieve the garrison at Storm's End during Robert's Rebellion
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue): ''Lord Stannis and a small garrison had held the castle for close to a year, against the great host of the Lords Tyrell and Redwyne... Cloaked in that darkness, Davos the smuggler had dared the Redwyne cordon... His little ship had a black hull, black sails, black oars, and a hold crammed with onions and salt fish... it had kept the garrison alive long enough for Eddard Stark to reach Storm''s End and break the siege. Lord Stannis had rewarded Davos with choice lands on Cape Wrath, a small keep, and a knight''s honours — but he had also decreed that he lose a joint of each finger on his left hand, to pay for all his years of smuggling.'' Davos submitted on the condition that Stannis wield the knife himself.'

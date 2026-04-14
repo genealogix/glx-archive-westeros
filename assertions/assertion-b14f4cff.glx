@@ -1,0 +1,11 @@
+assertions:
+    assertion-roose-bolton-conspirator:
+        subject:
+            person: person-roose-bolton
+        property: description
+        value: Co-conspirator with Walder Frey and Tywin Lannister
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: Roose Bolton held a toast at the feast's start 'pointedly mentioning that Walder and Walder [the Little Walder and Big Walder Freys] were in the care of his bastard son' — an unspoken threat signaling his alignment with the Freys. His words 'Jaime Lannister sends his regards' implicate Tywin Lannister as the architect of the conspiracy. Bolton had his own forces (Bolton men in shaggy fur cloaks) ready to enter through separate doors to slaughter Robb's guards. He subsequently became Warden of the North as reward.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-luwin-death-sack-winterfell:
+        subject:
+            person: person-luwin
+        property: cause_of_death
+        value: Mortally wounded in the Sack of Winterfell; mercy-killed by Osha in the godswood
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-bran-vii
+        notes: 'ACOK Bran VII: ''On the edge of the black pool, beneath the shelter of the heart tree, Maester Luwin lay on his belly in the dirt. A trail of blood twisted back through damp leaves where he had crawled... "I''m dying, woman."... Osha joined them in the yard a few moments later. She said no word of Maester Luwin.'' He was mercy-killed by Osha at his own request (implied — she sent the children away, then joined them saying nothing).'

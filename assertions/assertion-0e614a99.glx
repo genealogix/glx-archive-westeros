@@ -1,0 +1,11 @@
+assertions:
+    assertion-ramsay-bolton-parentage:
+        subject:
+            person: person-ramsay-bolton
+        property: parent
+        value: person-roose-bolton
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-reek-ii
+        notes: 'Roose Bolton reveals his account of Ramsay''s conception to Theon/Reek: while hunting a fox along the Weeping Water, he came upon a mill and saw a young woman (the miller''s new young wife) washing clothes. He invoked the lord''s right of first night, having the miller hanged for marrying without his leave, then raped the woman under the tree where the body swayed. A year later the woman appeared at the Dreadfort with the infant Ramsay, who had Roose''s pale eyes. Roose gave the woman the mill and had the brother who had beaten her and driven her away have his tongue cut out. Text: ''The babe did have my eyes.'' Source: Roose Bolton''s own account to Theon/Reek (ADWD, ''Reek II'').'

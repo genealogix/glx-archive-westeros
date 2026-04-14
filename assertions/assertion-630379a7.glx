@@ -1,0 +1,10 @@
+assertions:
+    assertion-mutiny-crasters-keep-description:
+        subject:
+            event: event-mutiny-crasters-keep
+        property: description
+        value: Night's Watch mutineers killed Lord Commander Mormont and Craster
+        confidence: high
+        citations:
+            - citation-asos-samwell-ii
+        notes: The mutiny occurred during the retreat from the Fist of the First Men

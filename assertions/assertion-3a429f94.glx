@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-age-acok:
+        subject:
+            event: event-birth-stannis-baratheon
+        property: date
+        value: ABT 264
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue): ''Though he was not yet five-and-thirty, only a fringe of thin black hair remained on his head.'' ACOK is set in 299 AC. Five-and-thirty = 35, so born approximately 264 AC.'

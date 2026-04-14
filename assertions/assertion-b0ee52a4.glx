@@ -1,0 +1,12 @@
+assertions:
+    assertion-colmar-frey-name:
+        subject:
+            person: person-colmar-frey
+        property: name
+        value: Colmar Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: COLMAR, Lord Walder''s twentieth son, eleven and promised to the Faith'

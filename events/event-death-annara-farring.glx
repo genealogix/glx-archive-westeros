@@ -1,7 +1,0 @@
-events:
-    event-death-annara-farring:
-        title: "Death of Annara Farring"
-        type: death
-        participants:
-            - person: person-annara-farring
-              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-tommen-baratheon-name:
+        subject:
+            person: person-tommen-baratheon
+        property: name
+        value: Tommen Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Baratheon section. Source text: PRINCE TOMMEN, a boy of seven'

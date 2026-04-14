@@ -1,0 +1,11 @@
+assertions:
+    assertion-domeric-bolton-poisoned-by-ramsay:
+        subject:
+            person: person-domeric-bolton
+        property: cause_of_death
+        value: Poison — administered by Ramsay Bolton
+        confidence: medium
+        status: suspected
+        citations:
+            - citation-adwd-reek-ii
+        notes: 'Roose Bolton tells Theon/Reek that Domeric died of ''a sickness of the bowels'' — the official account — but adds ''I say poison.'' Roose believes Ramsay killed his trueborn heir after Domeric sought out his bastard half-brother against Roose''s orders. Domeric had served four years as Lady Dustin''s page and three years in the Vale as Lord Redfort''s squire; he played the high harp, read histories, and was praised as a promising jouster. The account comes from Roose Bolton (a famously subtle and calculating lord), and no independent corroboration exists. Source: unreliable narrator (Roose Bolton, a known manipulator). Confidence: medium.'

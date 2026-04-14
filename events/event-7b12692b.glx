@@ -1,0 +1,9 @@
+events:
+    event-birth-aegon-targaryen-vi:
+        title: Birth of Aegon Targaryen VI
+        type: birth
+        place: place-kings-landing
+        date: "281"
+        participants:
+            - person: person-aegon-targaryen-vi
+              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-stark-death-date:
+        subject:
+            event: event-death-eddard-stark
+        property: date
+        value: "299"
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-arya-v
+        notes: Ned was executed in 299 AC at the Great Sept of Baelor, King's Landing.

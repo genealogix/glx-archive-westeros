@@ -1,0 +1,11 @@
+assertions:
+    assertion-matarys-targaryen-name:
+        subject:
+            person: person-matarys-targaryen
+        property: name
+        value: Matarys Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section (Daeron II). Son of Baelor Breakspear, died in the Great Spring Sickness. Source text: Baelor had sons—the young princes Valarr and Matarys... the sons of Baelor Breakspear were amongst those carried away'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-braavos-adwd:
+        subject:
+            person: person-arya-stark
+        property: alias
+        value: Cat of the Canals
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''ARYA of House Stark, a novice in service at the House of Black and White, also known as ARRY, NAN, WEASEL, SQUAB, SALTY, and CAT OF THE CANALS'''

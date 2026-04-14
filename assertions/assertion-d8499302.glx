@@ -1,0 +1,11 @@
+assertions:
+    assertion-moqorro-priest-adwd:
+        subject:
+            person: person-moqorro
+        property: religion
+        value: R'hllor
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''MOQORRO, a priest of R''hllor'' — right hand to Benerro, High Priest of R''hllor in Volantis'

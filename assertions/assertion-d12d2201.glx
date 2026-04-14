@@ -1,0 +1,11 @@
+assertions:
+    assertion-melisandre-red-woman-adwd:
+        subject:
+            person: person-melisandre
+        property: alias
+        value: The Red Woman
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''LADY MELISANDRE OF ASSHAI, called THE RED WOMAN, a priestess of R''hllor, the Lord of Light'''

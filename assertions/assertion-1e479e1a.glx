@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-death-stannis-agency:
+        subject:
+            event: event-assassination-renly-baratheon
+        property: description
+        value: Stannis Baratheon was the agent behind the shadow assassin that killed Renly
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-catelyn-v
+        notes: Catelyn identifies the shadow as bearing Stannis's likeness. Confirmed later by Catelyn's statement 'it was his brother's' shadow. Melisandre's shadow-binding power is the mechanism; Stannis's life force is the source.

@@ -1,0 +1,9 @@
+events:
+    event-marriage-garse-goodbrook-and-kyra-frey:
+        title: Marriage of Garse Goodbrook and Kyra Frey
+        type: marriage
+        participants:
+            - person: person-garse-goodbrook
+              role: subject
+            - person: person-kyra-frey
+              role: subject

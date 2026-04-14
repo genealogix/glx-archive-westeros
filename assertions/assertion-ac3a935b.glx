@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-ward-ten-years:
+        subject:
+            person: person-theon-greyjoy
+        property: description
+        value: Spent approximately ten years as ward/hostage at Winterfell under Lord Eddard Stark, taken after the Greyjoy Rebellion when he was ten years old
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-theon-i
+        notes: 'Source text (Theon I): ''Ten years, or close as makes no matter. I was a boy of ten when I was taken to Winterfell as a ward of Eddard Stark.'' Also: ''Nine years, is it?'' Lord Balon said. ''Ten,'' Theon answered. Balon: ''A boy they took. What are you now?'' Theon: ''A man. Your blood and your heir.'''

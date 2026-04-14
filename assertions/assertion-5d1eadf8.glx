@@ -1,0 +1,11 @@
+assertions:
+    assertion-rycherd-crane-gender:
+        subject:
+            person: person-rycherd-crane
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix, House Florent section. Listed as Ser.

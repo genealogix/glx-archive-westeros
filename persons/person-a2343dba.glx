@@ -1,0 +1,18 @@
+persons:
+    person-jon-connington:
+        properties:
+            alias:
+                - value: Griff
+                - value: The Griffin
+            gender: male
+            house: Connington
+            name:
+                fields:
+                    given: Jon
+                    surname: Connington
+                value: Jon Connington
+            title:
+                - value: Lord of Griffin's Roost
+                - date: FROM 282 TO 283
+                  value: Hand of the King
+        notes: Lord of Griffin's Roost in the Stormlands. Served as Hand of the King to Aerys II. Defeated by Robert Baratheon at the Battle of the Bells — exiled for his failure. Believed to have drunk himself to death in the Free Cities. In truth, secretly raised Young Griff (Aegon VI) under Varys and Illyrio Mopatis's direction. Red-haired, fierce, proud. Was deeply in love with Rhaegar Targaryen, though this was never reciprocated. Contracted greyscale from the Rhoyne during ADWD — his fingers are turning grey and stiff, and he knows he is dying. Landed at Griffin's Roost with the Golden Company, reclaiming his ancestral seat. Took Storm's End by guile. Racing against his greyscale to see Aegon on the Iron Throne before his time runs out.

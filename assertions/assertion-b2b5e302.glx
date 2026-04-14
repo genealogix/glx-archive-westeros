@@ -1,0 +1,11 @@
+assertions:
+    assertion-preston-greenfield-name:
+        subject:
+            person: person-preston-greenfield
+        property: name
+        value: Ser Preston Greenfield
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section (Kingsguard). Source text: SER PRESTON GREENFIELD'

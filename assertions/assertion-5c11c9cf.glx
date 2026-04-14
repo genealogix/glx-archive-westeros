@@ -1,0 +1,11 @@
+assertions:
+    assertion-baelor-hightower-name:
+        subject:
+            person: person-baelor-hightower
+        property: name
+        value: Baelor Hightower
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Leyton''s eldest son and heir, called Baelor Brightsmile. Source text: Lord Leyton''s eldest son and heir, SER BAELOR, called BAELOR BRIGHTSMILE, m. Rhonda Rowan'

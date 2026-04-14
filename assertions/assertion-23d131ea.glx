@@ -1,0 +1,12 @@
+assertions:
+    assertion-jaehaerys-targaryen-ii-name:
+        subject:
+            person: person-jaehaerys-targaryen-ii
+        property: name
+        value: Jaehaerys Targaryen II
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists ''259-262 Jaehaerys II second son of Aegon the Unlikely''. Source text: THE TRAGEDY OF Summerhall brought Jaehaerys, the Second of His Name, to the Iron Throne in 259 AC... The new king was four-and-thirty years of age as he ascended the Iron Throne. No one would have called him formidable.'

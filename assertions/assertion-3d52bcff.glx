@@ -1,0 +1,12 @@
+assertions:
+    assertion-luthor-tyrell-395-name:
+        subject:
+            person: person-luthor-tyrell-395
+        property: name
+        value: Ser Luthor Tyrell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Moryn, deceased, married to Lady Elyn Norridge. Source text: Moryn''s son, {SER LUTHOR}, m. Lady Elyn Norridge'

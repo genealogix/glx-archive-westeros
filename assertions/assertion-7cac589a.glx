@@ -1,0 +1,11 @@
+assertions:
+    assertion-cersei-lannister-house:
+        subject:
+            person: person-cersei-lannister
+        property: house
+        value: Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon and Lannister sections.

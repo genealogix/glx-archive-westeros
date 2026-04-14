@@ -1,0 +1,11 @@
+assertions:
+    assertion-obara-sand-age-affc:
+        subject:
+            event: event-birth-obara-sand
+        property: date
+        value: ABT 271
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: AFFC Appendix lists Obara as eight-and-twenty, placing her birth around 271 AC. Daughter of Oberyn by an Oldtown whore.

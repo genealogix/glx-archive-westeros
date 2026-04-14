@@ -1,0 +1,11 @@
+assertions:
+    assertion-thoros-resurrection-method:
+        subject:
+            person: person-thoros-of-myr
+        property: description
+        value: Thoros resurrects Beric using the 'last kiss' — breathing fire into a dead man's body as a ritual of R'hllor
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-arya-vi
+        notes: 'Thoros explains: ''That first time, his lordship had a hole right through him and blood in his mouth, I knew there was no hope. So when his poor torn chest stopped moving, I gave him the good god''s own kiss to send him on his way. I filled my mouth with fire and breathed the flames inside him, down his throat to lungs and heart and soul. The last kiss it is called.'' Thoros attributes the power entirely to R''hllor, not to himself.'

@@ -1,0 +1,13 @@
+events:
+    event-death-joffrey-baratheon:
+        title: Death of Joffrey Baratheon
+        type: death
+        place: place-kings-landing
+        date: "300"
+        participants:
+            - person: person-joffrey-baratheon
+              role: principal
+        properties:
+            also_known_as: The Purple Wedding
+            cause: Poisoned at his wedding feast (the Strangler)
+        notes: King Joffrey I Baratheon died at his own wedding feast to Margaery Tyrell, poisoned by the Strangler — a plot orchestrated by Olenna Tyrell and Petyr Baelish. Tyrion Lannister was falsely accused.

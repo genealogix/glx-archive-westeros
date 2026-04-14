@@ -1,0 +1,11 @@
+assertions:
+    assertion-mors-martell-gender:
+        subject:
+            person: person-mors-martell
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Martell introductory text. Source text: took Lord Mors Martell to husband'

@@ -1,0 +1,8 @@
+events:
+    event-death-viserys-targaryen-ii:
+        title: Death of Viserys Targaryen II
+        type: death
+        date: "172"
+        participants:
+            - person: person-viserys-targaryen-ii
+              role: principal

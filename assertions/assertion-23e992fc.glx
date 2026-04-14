@@ -1,0 +1,11 @@
+assertions:
+    assertion-elaena-targaryen-name:
+        subject:
+            person: person-elaena-targaryen
+        property: name
+        value: Elaena Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, Sisters of Baelor I section. Thrice wed; bore bastard twins to Alyn Velaryon. Source text: Elaena, the youngest, was more willful than Rhaena, but not as beautiful as either of her sisters. While in the Maidenvault, it is said she cut her ''crowning glory''—her long hair, platinum-pale with a streak of gold running through it—and sent it to her brother, pleading for her freedom'

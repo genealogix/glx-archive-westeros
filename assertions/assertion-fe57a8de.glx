@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaella-targaryen-house:
+        subject:
+            person: person-rhaella-targaryen
+        property: house
+        value: Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Targaryen section.

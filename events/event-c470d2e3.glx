@@ -1,0 +1,7 @@
+events:
+    event-death-tyrell:
+        title: Death of Tyrell
+        type: death
+        participants:
+            - person: person-tyrell
+              role: principal

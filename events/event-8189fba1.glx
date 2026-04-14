@@ -1,0 +1,8 @@
+events:
+    event-birth-samwell-tarly:
+        title: Birth of Samwell Tarly
+        type: birth
+        date: "283"
+        participants:
+            - person: person-samwell-tarly
+              role: principal

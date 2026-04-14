@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-built-winterfell:
+        subject:
+            person: person-bran-the-builder
+        property: role
+        value: Builder of Winterfell
+        confidence: low
+        status: speculative
+        citations:
+            - citation-twoiaf-kings-of-winter
+        notes: Legend credits Brandon the Builder with founding Winterfell. A past maester at Winterfell examined the First Keep and found it had been rebuilt so many times a precise dating was impossible. The castle likely developed as a complex of linked ringforts over generations.

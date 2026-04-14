@@ -1,0 +1,7 @@
+events:
+    event-birth-pate:
+        title: Birth of Ser Pate
+        type: birth
+        participants:
+            - person: person-pate
+              role: principal

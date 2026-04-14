@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-tully-catelyn-lysa:
+        type: sibling
+        participants:
+            - person: person-catelyn-tully
+              role: sibling
+            - person: person-lysa-tully
+              role: sibling
+        properties:
+            context: Daughters of Hoster Tully and Minisa Whent. Full siblings.
+        notes: 'AGOT appendix: House Tully. Catelyn and Lysa were close as girls. Lysa secretly loved Petyr Baelish (Littlefinger) from childhood; after Hoster forced Lysa to abort Petyr''s child, Lysa''s personality changed. The sisters drifted apart and Lysa''s mental instability made her a difficult figure for Catelyn to rely on.'

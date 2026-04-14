@@ -1,0 +1,11 @@
+assertions:
+    assertion-sam-tarly-steward-petition:
+        subject:
+            person: person-samwell-tarly
+        property: night_watch_assignment
+        value: Steward
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-jon-v
+        notes: 'Source text: ''Why shouldn''t Sam be a steward?'' Jon Snow argued to Maester Aemon that Sam''s gifts — reading, writing, sums, raven-keeping — suited him for the steward order, not warrior training. Maester Aemon agreed to consider it. Sam eventually became a steward and keeper of ravens under Maester Aemon.'

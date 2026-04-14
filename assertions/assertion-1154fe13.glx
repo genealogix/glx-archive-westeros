@@ -1,0 +1,11 @@
+assertions:
+    assertion-lysa-confessed-jon-arryn-murder:
+        subject:
+            person: person-lysa-tully
+        property: description
+        value: Confessed to poisoning Jon Arryn with 'tears in his wine' on Littlefinger's instruction, and to writing the false letter blaming the Lannisters
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-sansa-eyrie
+        notes: 'Lysa confessed to Sansa (and Marillion) while hysterical at the Moon Door: ''I never let them... you told me to put the tears in Jon''s wine, and I did. For Robert, and for us! And I wrote Catelyn and told her the Lannisters had killed my lord husband, just as you said.'' This is the canonical revelation that the inciting act of the entire series — Jon Arryn''s death and Catelyn''s suspicion of the Lannisters — was engineered by Petyr Baelish. Text: line ~20019 of asos.txt.'

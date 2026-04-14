@@ -1,0 +1,11 @@
+assertions:
+    assertion-davos-wife-marya:
+        subject:
+            person: person-davos-seaworth
+        property: description
+        value: Wife is Marya, a carpenter's daughter; mistress of a small keep on Cape Wrath
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I): ''Marya was mistress of a small keep on Cape Wrath, with servants who called her m''lady.'' Davos also reflects: ''When he thought of Nissa Nissa, it was his own Marya he pictured, a good-natured plump woman with sagging breasts and a kindly smile, the best woman in the world.'''

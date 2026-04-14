@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-religion-old-gods:
+        subject:
+            person: person-arya-stark
+        property: religion
+        value: Old Gods
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-arya-i
+        notes: Follows the Old Gods like her father.

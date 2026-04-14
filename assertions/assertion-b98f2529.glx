@@ -1,0 +1,11 @@
+assertions:
+    assertion-mya-stone-age:
+        subject:
+            event: event-birth-mya-stone
+        property: date
+        value: ABT 281
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-catelyn-vi
+        notes: 'Source text: ''A wiry girl of seventeen or eighteen years.'' At the time of AGOT (~298 AC) Mya Stone was seventeen or eighteen, placing her birth around 280-281 AC.'

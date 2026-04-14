@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-is-tywins-son:
+        subject:
+            person: person-tyrion-lannister
+        property: parent
+        value: person-tywin-lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-xii
+        notes: 'The conventional and most widely accepted position: Tyrion is Tywin and Joanna Lannister''s son, as stated throughout the series. Joanna died giving birth to Tyrion — which Tywin and Cersei hold against him. Tywin''s ''You are no son of mine'' is most naturally read as emotional disownment, not a statement of biological fact. Genna Lannister tells Jaime: ''Tyrion is Tywin''s son, not you'' — meaning Tyrion inherited Tywin''s intellect and political cunning. The thematic heart of their relationship depends on Tyrion being Tywin''s biological son: the child Tywin hates most is the one most like him.'

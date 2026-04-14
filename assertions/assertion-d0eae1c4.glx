@@ -1,0 +1,11 @@
+assertions:
+    assertion-tully-name:
+        subject:
+            person: person-tully
+        property: name
+        value: Tully
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Unnamed Tully male from GEDCOM import, likely a placeholder for Hoster's father or an ancestor. May appear only in TWOIAF or supplementary sources.

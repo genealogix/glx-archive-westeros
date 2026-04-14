@@ -1,0 +1,12 @@
+assertions:
+    assertion-ice-sword-description:
+        subject:
+            person: person-eddard-stark
+        property: possession
+        value: Ice — Valyrian steel greatsword, heirloom of House Stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-i
+            - citation-agot-catelyn-i
+        notes: 'Source text (Bran I): ''Theon Greyjoy brought forth the sword. "Ice," that sword was called. It was as wide across as a man''s hand, and taller even than Robb. The blade was Valyrian steel, spell-forged and dark as smoke. Nothing held an edge like Valyrian steel.'' Source text (Catelyn I): ''It had been forged in Valyria, before the Doom had come to the old Freehold... Four hundred years old it was, and as sharp as the day it was forged. The name it bore was older still, a legacy from the age of heroes, when the Starks were Kings in the North.'''

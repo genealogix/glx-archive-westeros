@@ -1,0 +1,15 @@
+persons:
+    person-edric-dayne:
+        properties:
+            external_ids:
+                - MH:I486
+            gender: male
+            house: Dayne
+            name:
+                fields:
+                    given: Edric
+                    surname: Dayne
+                value: Edric Dayne
+            title:
+                - value: Lord of Starfall
+        notes: Lord of Starfall. Listed in AGOT Appendix under House Martell.

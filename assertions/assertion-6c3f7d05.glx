@@ -1,0 +1,11 @@
+assertions:
+    assertion-asha-greyjoy-captive-stannis:
+        subject:
+            person: person-asha-greyjoy
+        property: location
+        value: Captive of Stannis Baratheon, crofter's village camp
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-sacrifice
+        notes: 'Asha Greyjoy is held as Stannis''s prize captive, ''fettered at wrist and ankle,'' guarded by Alysane Mormont (''the She-Bear''). Stannis intends to take her to Winterfell to display as proof of his power. Ser Clayton Suggs and the queen''s men want to burn her as a blood sacrifice to R''hllor. Ser Justin Massey advocates for her survival. She witnesses the burning sacrifice of four of Peasebury''s men. Tycho Nestoris knows who she is when he arrives: ''You are the Lady Asha of House Greyjoy, unless I am mistaken.'''

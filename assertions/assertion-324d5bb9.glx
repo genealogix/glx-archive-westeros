@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-stark-claim-jon-is-his:
+        subject:
+            person: person-jon-snow
+        property: parent
+        value: person-eddard-stark
+        confidence: low
+        status: disproven
+        citations:
+            - citation-agot-eddard-xii
+        notes: 'Eddard Stark publicly claimed Jon Snow as his own bastard son, fathered during Robert''s Rebellion. Robert Baratheon noted Jon''s mother must have been ''a rare wench'' to make Ned forget his honor. Catelyn heard rumors it was Ashara Dayne; Ned told Robert it was ''Wylla.'' Ned''s reputation for unshakeable honor made this claim widely accepted — but Robert also said Ned ''never could lie for love nor honor,'' which is ironic if the biggest lie Ned ever told was precisely for love (of Lyanna) and honor (his promise to her). The show confirms Ned lied to protect Jon from Robert''s wrath toward Targaryen children. Status: disproven (show), disproven by weight of textual evidence (books).'

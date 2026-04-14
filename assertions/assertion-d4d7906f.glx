@@ -1,0 +1,11 @@
+assertions:
+    assertion-cleos-frey-identity:
+        subject:
+            person: person-cleos-frey
+        property: description
+        value: Ser Cleos Frey is the son of Emmon Frey and Genna Lannister (Tywin's sister); served as escort for Jaime's escape
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jaime-i
+        notes: 'Jaime identifies him: ''Cleos was his Aunt Genna''s son by that dullard Emmon Frey, who had lived in terror of Lord Tywin Lannister since the day he wed his sister.'' Cleos had been at Riverrun carrying Catelyn''s terms to Tyrion. ''Lady Stark had promised him release if he delivered her message to Tyrion.'''

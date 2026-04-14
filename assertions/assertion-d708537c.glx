@@ -1,0 +1,12 @@
+assertions:
+    assertion-sallei-paege-name:
+        subject:
+            person: person-sallei-paege
+        property: name
+        value: Sallei Paege
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

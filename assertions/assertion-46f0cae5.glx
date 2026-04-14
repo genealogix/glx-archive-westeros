@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaena-targaryen-name:
+        subject:
+            person: person-rhaena-targaryen
+        property: name
+        value: Septa Rhaena Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, Sisters of Baelor I section. Sister of King Baelor I, became a septa. Source text: Of Baelor''s other sisters, Rhaena was almost as pious as her brother, and in time became a septa.'

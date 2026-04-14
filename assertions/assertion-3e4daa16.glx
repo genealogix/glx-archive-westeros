@@ -1,0 +1,12 @@
+assertions:
+    assertion-cersei-lannister-name:
+        subject:
+            person: person-cersei-lannister
+        property: name
+        value: Cersei Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-acok-appendix
+        notes: 'Verified against AGOT and ACOK Appendices. AGOT: ''QUEEN CERSEI, wife of King Robert I Baratheon.'' ACOK: ''QUEEN CERSEI, Queen Regent and Protector of the Realm.'' Now widow and regent for Joffrey.'

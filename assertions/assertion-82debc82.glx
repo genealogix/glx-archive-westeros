@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-stark-protector-of-realm:
+        subject:
+            person: person-eddard-stark
+        property: title
+        value: Lord Protector of the Realm
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-xiv
+        notes: Robert Baratheon named Ned Stark Lord Regent and Protector of the Realm in his deathbed will. Ned secretly wrote 'my heir' rather than 'my son Joffrey.' Robert sealed the letter. Ser Barristan Selmy confirmed the seal was unbroken. Cersei tore the letter up in the throne room.

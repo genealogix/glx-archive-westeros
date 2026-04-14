@@ -1,0 +1,11 @@
+assertions:
+    assertion-minisa-whent-cause-of-death:
+        subject:
+            person: person-minisa-whent
+        property: cause_of_death
+        value: Died in childbed
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Tully section. Source text: his wife, {LA DY MINISA, of House Whent}, died in childbed'

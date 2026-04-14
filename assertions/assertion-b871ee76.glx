@@ -1,0 +1,12 @@
+assertions:
+    assertion-elia-sand-name:
+        subject:
+            person: person-elia-sand
+        property: name
+        value: Elia Sand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes, daughter of Oberyn and Ellaria. Source text: ELIA, fourteen, his daughter by Ellaria Sand'

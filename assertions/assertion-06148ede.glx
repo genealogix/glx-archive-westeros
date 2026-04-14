@@ -1,0 +1,12 @@
+assertions:
+    assertion-horas-redwyne-horror-name:
+        subject:
+            person: person-horas-redwyne-horror
+        property: name
+        value: Horas 'Horror' Redwyne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Tyrell section. Twin to Hobber, mocked as Horror. Source text: SER HORAS REDWYNE, twin to Hobber, called HORROR'

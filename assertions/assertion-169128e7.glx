@@ -1,0 +1,11 @@
+assertions:
+    assertion-osha-captured:
+        subject:
+            person: person-osha
+        property: description
+        value: Captured by Robb Stark at the wolfswood
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-v
+        notes: 'Source text: ''Give me my life, m''lord of Stark, and I am yours.'' Osha threw down her spear and surrendered to Robb Stark after her companions were killed. Robb and Maester Luwin decided to question her and take her to Winterfell.'

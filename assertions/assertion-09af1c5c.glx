@@ -1,0 +1,12 @@
+assertions:
+    assertion-alyn-ambrose-name:
+        subject:
+            person: person-alyn-ambrose
+        property: name
+        value: Alyn Ambrose
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

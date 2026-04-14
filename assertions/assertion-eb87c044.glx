@@ -1,0 +1,11 @@
+assertions:
+    assertion-ramsay-bolton-burned-winterfell:
+        subject:
+            event: event-sack-winterfell
+        property: description
+        value: Ramsay Snow (Bastard of Bolton) and his men burned Winterfell, not the ironborn
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-bran-vii
+        notes: 'ACOK Bran VII: Osha and Bran find corpses of both ironborn and Bolton men in the burned castle. Osha points out a badge: ''A little man, all red.'' Bran: ''The flayed man of the Dreadfort.'' This confirms Ramsay''s forces carried out the actual burning. Theon''s men are also found dead, implying they were killed when the Boltons took the castle. The archive note in event-sack-winterfell correctly states this but without a direct citation.'

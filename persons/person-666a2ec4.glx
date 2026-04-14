@@ -1,0 +1,11 @@
+persons:
+    person-delena-florent:
+        properties:
+            external_ids:
+                - MH:I189
+            gender: female
+            name:
+                fields:
+                    given: Delena
+                    surname: Florent
+                value: Delena Florent

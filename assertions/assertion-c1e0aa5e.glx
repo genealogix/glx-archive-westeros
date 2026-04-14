@@ -1,0 +1,11 @@
+assertions:
+    assertion-sylva-santagar-spotted-sylva-name:
+        subject:
+            person: person-sylva-santagar-spotted-sylva
+        property: name
+        value: Sylva 'Spotted Sylva' Santagar
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, Dorne section. Daughter and heir of Ser Symon Santagar, the Knight of Spottswood. Source text: SYLVA, his daughter and heir, called SPOTTED SYLVA for her freckles'

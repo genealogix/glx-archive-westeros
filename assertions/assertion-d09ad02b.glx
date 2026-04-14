@@ -1,0 +1,11 @@
+assertions:
+    assertion-sarya-whent-name:
+        subject:
+            person: person-sarya-whent
+        property: name
+        value: Sarya Whent
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Sarya Whent appears only in chapter text or supplementary sources. May require chapter-level citation.

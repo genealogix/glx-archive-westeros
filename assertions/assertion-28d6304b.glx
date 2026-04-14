@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-cupps-gender:
+        subject:
+            person: person-jon-cupps
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Verified against AFFC Appendix. Listed as Ser.

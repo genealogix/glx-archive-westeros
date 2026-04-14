@@ -1,0 +1,7 @@
+events:
+    event-fc18eb27:
+        type: birth
+        place: place-lys
+        participants:
+            - person: person-doreah
+              role: principal

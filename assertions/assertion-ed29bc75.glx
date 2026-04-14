@@ -1,0 +1,12 @@
+assertions:
+    assertion-rhaelle-targaryen-288-name:
+        subject:
+            person: person-rhaelle-targaryen-288
+        property: name
+        value: Rhaelle Targaryen
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Daughter of Maekar I per relationship data. Not explicitly named in TWOIAF text found so far; Maekar's daughters are not listed individually. Keep at medium confidence.

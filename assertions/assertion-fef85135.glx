@@ -1,0 +1,11 @@
+assertions:
+    assertion-dolorous-edd-born-at:
+        subject:
+            event: event-bffad808
+        property: place
+        value: place-the-vale
+        confidence: medium
+        status: proven
+        citations:
+            - citation-awoiaf-eddison-tollett
+        notes: Born in the Vale of Arryn according to AWOIAF. Vale culture.

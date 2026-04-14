@@ -1,0 +1,11 @@
+persons:
+    person-jon-brax:
+        properties:
+            external_ids:
+                - MH:I124
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    surname: Brax
+                value: Jon Brax

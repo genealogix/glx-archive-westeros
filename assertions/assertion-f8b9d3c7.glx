@@ -1,0 +1,12 @@
+assertions:
+    assertion-willamen-frey-name:
+        subject:
+            person: person-willamen-frey
+        property: name
+        value: Willamen Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: MAESTER WILLAMEN, Lord Walder''s seventeenth son, in service at Longbow Hall'

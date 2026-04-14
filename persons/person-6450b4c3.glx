@@ -1,0 +1,10 @@
+persons:
+    person-dayne-483:
+        properties:
+            external_ids:
+                - MH:I483
+            gender: male
+            name:
+                fields:
+                    surname: Dayne
+                value: Dayne

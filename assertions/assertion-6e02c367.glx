@@ -1,0 +1,12 @@
+assertions:
+    assertion-omer-florent-name:
+        subject:
+            person: person-omer-florent
+        property: name
+        value: Maester Omer Florent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ACOK Appendix, House Florent section. Son of Ser Colin Florent. Confirmed in ASOS and AFFC appendices. Source text: Colin''s son, MAESTER OMER, in service at Old Oak'

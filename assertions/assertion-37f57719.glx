@@ -1,0 +1,12 @@
+assertions:
+    assertion-luthor-tyrell-404-name:
+        subject:
+            person: person-luthor-tyrell-404
+        property: name
+        value: Luthor Tyrell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Tyrell section. Son of Ser Theodore, a squire. Source text: Theodore''s son, LUTHOR, a squire'

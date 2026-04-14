@@ -1,0 +1,7 @@
+events:
+    event-birth-elinor-tyrell:
+        title: Birth of Elinor Tyrell
+        type: birth
+        participants:
+            - person: person-elinor-tyrell
+              role: principal

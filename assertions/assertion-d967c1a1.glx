@@ -1,0 +1,11 @@
+assertions:
+    assertion-barristan-selmy-plans-battle:
+        subject:
+            person: person-barristan-selmy
+        property: description
+        value: Planned military assault on Yunkai'i siege forces
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-queens-hand
+        notes: 'Barristan prepares a beacon fire atop the Great Pyramid as a signal for a simultaneous attack on the Yunkai''i besieging Meereen. He coordinates with Grey Worm (Unsullied), Marselen (Mother''s Men), Symon Stripeback (Free Brothers), Tal Toraq (Stalwart Shields), Rommo (Dothraki), the Stormcrows, and pit fighters. His plan is to break the siege and kill the slave lords before the Volantene fleet arrives. Direct quote: ''"Fire and blood," said Barristan Selmy, softly, softly.'' He recruits Archibald Yronwood and Gerris Drinkwater as additional swords.'

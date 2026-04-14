@@ -1,0 +1,11 @@
+assertions:
+    assertion-luthor-tyrell-380-gender:
+        subject:
+            person: person-luthor-tyrell-380
+        property: gender
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Olenna's deceased husband, Mace's father.

@@ -1,0 +1,9 @@
+events:
+    event-birth-rickon-stark:
+        title: Birth of Rickon Stark
+        type: birth
+        place: place-winterfell
+        date: "295"
+        participants:
+            - person: person-rickon-stark
+              role: principal

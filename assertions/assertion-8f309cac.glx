@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-targaryen-iii-death-date:
+        subject:
+            event: event-death-viserys-targaryen
+        property: date
+        value: "298"
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-vi
+        notes: Viserys died in Vaes Dothrak in 298 AC. The exact date within the year is unknown.

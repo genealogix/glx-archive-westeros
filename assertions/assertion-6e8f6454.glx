@@ -1,0 +1,11 @@
+assertions:
+    assertion-lyanna-born-266:
+        subject:
+            event: event-birth-lyanna-stark
+        property: date
+        value: "266"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-eddard-stark
+        notes: Born 266 AC at Winterfell.

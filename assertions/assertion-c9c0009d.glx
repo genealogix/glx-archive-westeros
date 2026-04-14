@@ -1,0 +1,11 @@
+assertions:
+    assertion-dany-house-of-undying:
+        subject:
+            event: event-house-of-undying
+        property: outcome
+        value: Daenerys escapes the House of the Undying; Drogon destroys the Undying Ones
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-daenerys-iv
+        notes: 'Daenerys enters the House of the Undying at Pyat Pree''s urging, experiences visions, and the Undying Ones attempt to drain her vitality. Drogon saves her by burning the Undying and the building. Source text: ''In this city of splendors, Dany had expected the House of the Undying Ones to be the most splendid of all, but she emerged from her palanquin to behold a grey and ancient ruin.'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-snow-436-gender:
+        subject:
+            person: person-snow-436
+        property: gender
+        value: female
+        confidence: low
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Unnamed female Snow from GEDCOM import.

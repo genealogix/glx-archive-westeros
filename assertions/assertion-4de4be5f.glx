@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-baratheon-title-king-acok:
+        subject:
+            person: person-stannis-baratheon
+        property: title
+        value: King (self-styled)
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the Narrow Sea section. Source text: ''STANNIS BARATHEON, the First of His Name, the older of King Robert''s brothers, formerly Lord of Dragonstone.'' Styles himself king.'

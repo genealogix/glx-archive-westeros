@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-battle-blackwater:
+        source: source-awoiaf
+        properties:
+            accessed: "2026-03-10"
+            locator: Battle of the Blackwater
+        notes: AWOIAF article on the Battle of the Blackwater. Details the wildfire trap, commanders, and Tywin-Tyrell relief.

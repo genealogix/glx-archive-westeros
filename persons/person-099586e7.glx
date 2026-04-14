@@ -1,0 +1,11 @@
+persons:
+    person-robert-brax-122:
+        properties:
+            external_ids:
+                - MH:I122
+            gender: male
+            name:
+                fields:
+                    given: Robert
+                    surname: Brax
+                value: Robert Brax

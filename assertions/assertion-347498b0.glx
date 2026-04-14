@@ -1,0 +1,12 @@
+assertions:
+    assertion-erren-florent-name:
+        subject:
+            person: person-erren-florent
+        property: name
+        value: Ser Erren Florent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ACOK Appendix, House Florent section. AFFC Appendix adds ''a captive at Highgarden''. Source text: Ser Ryam''s second son, SER ERREN'

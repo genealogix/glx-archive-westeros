@@ -1,0 +1,11 @@
+assertions:
+    assertion-rickard-karstark-title:
+        subject:
+            person: person-rickard-karstark
+        property: title
+        value: Lord of Karhold
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-manderly-lord-white-harbor-adwd:
+        subject:
+            person: person-wyman-manderly
+        property: title
+        value: Lord of White Harbor
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''WYMAN MANDERLY, Lord of White Harbor, vastly fat'''

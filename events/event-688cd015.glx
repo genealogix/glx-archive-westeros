@@ -1,0 +1,7 @@
+events:
+    event-f9a1748d:
+        type: death
+        date: "ABT 259"
+        participants:
+            - person: person-jenny-of-oldstones
+              role: principal

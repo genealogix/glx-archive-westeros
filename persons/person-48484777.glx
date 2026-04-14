@@ -1,0 +1,12 @@
+persons:
+    person-walda-frey-white-walda:
+        properties:
+            external_ids:
+                - MH:I41
+            gender: female
+            name:
+                fields:
+                    given: Walda
+                    nickname: White Walda
+                    surname: Frey
+                value: Walda Frey

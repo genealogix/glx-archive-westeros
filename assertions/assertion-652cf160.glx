@@ -1,0 +1,11 @@
+assertions:
+    assertion-penny-dwarf-mummer-adwd:
+        subject:
+            person: person-penny
+        property: name
+        value: Penny
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''PENNY, a dwarf girl and mummer'' — listed under Old Volantis. Her brother Groat was murdered and beheaded.'

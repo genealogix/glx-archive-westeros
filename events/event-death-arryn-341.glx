@@ -1,7 +1,0 @@
-events:
-    event-death-arryn-341:
-        title: "Death of Arryn"
-        type: death
-        participants:
-            - person: person-arryn-341
-              role: principal

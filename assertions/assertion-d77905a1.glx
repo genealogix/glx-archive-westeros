@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-tully-death:
+        subject:
+            event: event-death-catelyn-tully
+        property: date
+        value: "299"
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Catelyn was murdered at the Red Wedding at the Twins. ASOS appendix lists her as 'LADY CATELYN, of House Tully, widow of Lord Eddard Stark'. Her death occurs during the events of ASOS (Catelyn VII). Later resurrected as Lady Stoneheart.

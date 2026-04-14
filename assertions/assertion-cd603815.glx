@@ -1,0 +1,11 @@
+assertions:
+    assertion-aelinor-targaryen-gender:
+        subject:
+            person: person-aelinor-targaryen
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Wed to Aelinor Penrose'

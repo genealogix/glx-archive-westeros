@@ -1,0 +1,12 @@
+assertions:
+    assertion-zhoe-blanetree-name:
+        subject:
+            person: person-zhoe-blanetree
+        property: name
+        value: Zhoe Blanetree
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

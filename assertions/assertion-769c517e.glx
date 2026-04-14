@@ -1,0 +1,12 @@
+assertions:
+    assertion-alester-norcross-name:
+        subject:
+            person: person-alester-norcross
+        property: name
+        value: Alester Norcross
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ACOK Appendix, House Florent section. Son of Delena Florent and Ser Hosman Norcross. AFFC Appendix adds ''her eldest trueborn son, a boy of nine''. Source text: Delena''s son, ALESTER NORCROSS'

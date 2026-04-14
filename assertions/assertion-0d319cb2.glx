@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-baratheon-title-king-acok:
+        subject:
+            person: person-joffrey-baratheon
+        property: title
+        value: King on the Iron Throne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King on the Iron Throne section. Source text: ''JOFFREY BARATHEON, the First of His Name, a boy of thirteen years, the eldest son of King Robert I Baratheon and Queen Cersei of House Lannister.'''

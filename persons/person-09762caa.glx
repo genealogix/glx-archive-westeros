@@ -1,0 +1,11 @@
+persons:
+    person-garse-flowers:
+        properties:
+            external_ids:
+                - MH:I394
+            gender: male
+            name:
+                fields:
+                    given: Garse
+                    surname: Flowers
+                value: Garse Flowers

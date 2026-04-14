@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-religion-faith:
+        subject:
+            person: person-catelyn-tully
+        property: religion
+        value: Faith of the Seven
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-i
+        notes: Catelyn follows the Faith of the Seven, as is traditional for House Tully.

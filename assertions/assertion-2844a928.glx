@@ -1,0 +1,12 @@
+assertions:
+    assertion-jon-snow-name:
+        subject:
+            person: person-jon-snow
+        property: name
+        value: Jon Snow
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to ''his bastard half-brother, JON SNOW, of the Night''s Watch''. Source text: his bastard son, JON SNOW, a boy of fourteen'

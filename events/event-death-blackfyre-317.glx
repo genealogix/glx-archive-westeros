@@ -1,7 +1,0 @@
-events:
-    event-death-blackfyre-317:
-        title: "Death of Blackfyre"
-        type: death
-        participants:
-            - person: person-blackfyre-317
-              role: principal

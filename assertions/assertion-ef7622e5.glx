@@ -1,0 +1,12 @@
+assertions:
+    assertion-maegor-targaryen-i-name:
+        subject:
+            person: person-maegor-targaryen-i
+        property: name
+        value: Maegor Targaryen I
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists ''42-48 Maegor I Maegor the Cruel, son of Aegon and Visenya''. Source text: MAEGOR, THE FIRST of His Name, came to the throne after the sudden death of his brother, King Aenys, in the year 42 AC. He is better remembered as Maegor the Cruel, and it was a well-earned sobriquet, for no crueler king ever sat the Iron Throne.'

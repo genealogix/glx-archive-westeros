@@ -1,0 +1,11 @@
+persons:
+    person-edric-storm:
+        properties:
+            external_ids:
+                - MH:I190
+            gender: male
+            name:
+                fields:
+                    given: Edric
+                    surname: Storm
+                value: Edric Storm

@@ -1,0 +1,9 @@
+relationships:
+    rel-pc-balon-greyjoy-theon:
+        type: parent_child
+        participants:
+            - person: person-balon-greyjoy
+              role: parent
+            - person: person-theon-greyjoy
+              role: child
+        notes: Theon Greyjoy, youngest son of Balon, called Theon Turncloak. AFFC appendix.

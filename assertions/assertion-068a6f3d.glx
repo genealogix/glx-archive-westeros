@@ -1,0 +1,12 @@
+assertions:
+    assertion-royce-472-name:
+        subject:
+            person: person-royce-472
+        property: name
+        value: Royce
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,12 @@
+assertions:
+    assertion-ellaria-sand-name:
+        subject:
+            person: person-ellaria-sand
+        property: name
+        value: Ellaria Sand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Martell section. First appears in ASOS appendix. Source text: ELLARIA SAND, Prince Oberyn''s paramour, natural daughter of Lord Harmen Uller'

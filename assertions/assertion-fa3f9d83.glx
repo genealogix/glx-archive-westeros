@@ -1,0 +1,11 @@
+assertions:
+    assertion-vargo-hoat-name-acok-2:
+        subject:
+            person: person-vargo-hoat
+        property: name
+        value: Vargo Hoat
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, House Lannister section. Source text: ''VARGO HOAT, of the Free City of Qohor, captain of the sellsword company called the Brave Companions.'''

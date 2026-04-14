@@ -1,0 +1,11 @@
+events:
+    event-death-arthur-dayne:
+        title: Death of Ser Arthur Dayne
+        type: death
+        place: place-tower-of-joy
+        participants:
+            - person: person-arthur-dayne
+              role: principal
+        properties:
+            cause: At War
+            event_subtype: WAR

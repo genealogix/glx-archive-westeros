@@ -1,0 +1,12 @@
+assertions:
+    assertion-edmure-tully-name:
+        subject:
+            person: person-edmure-tully
+        property: name
+        value: Ser Edmure Tully
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Tully section. ADWD Appendix updates to ''EDMURE TULLY, Lord of Riverrun, taken captive at his wedding and held prisoner by the Freys''. Source text: SER EDMURE, heir to Riverrun'

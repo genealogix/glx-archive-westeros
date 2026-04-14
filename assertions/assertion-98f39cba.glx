@@ -1,0 +1,12 @@
+assertions:
+    assertion-mariya-derry-gender:
+        subject:
+            person: person-mariya-derry
+        property: gender
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

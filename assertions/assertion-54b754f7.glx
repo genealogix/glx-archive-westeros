@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyene-sand-gender:
+        subject:
+            person: person-tyene-sand
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Martell section. Source text: TYENE, three-and-twenty, Oberyn''s daughter by a septa'

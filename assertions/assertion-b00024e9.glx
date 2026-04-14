@@ -1,0 +1,12 @@
+assertions:
+    assertion-cassana-estermont-name:
+        subject:
+            person: person-cassana-estermont
+        property: name
+        value: Cassana Estermont
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against ACOK Appendix, King in the Narrow Sea section. Named as mother of Stannis and Renly. Same phrasing appears in ASOS, AFFC, and ADWD appendices. Source text: secondborn son of Lord Steffon Baratheon and Lady Cassana of House Estermont'

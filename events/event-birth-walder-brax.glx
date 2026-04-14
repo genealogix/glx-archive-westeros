@@ -1,7 +1,0 @@
-events:
-    event-birth-walder-brax:
-        title: "Birth of Walder Brax"
-        type: birth
-        participants:
-            - person: person-walder-brax
-              role: principal

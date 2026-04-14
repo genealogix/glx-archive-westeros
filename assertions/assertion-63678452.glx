@@ -1,0 +1,11 @@
+assertions:
+    assertion-rodrik-cassel-title:
+        subject:
+            person: person-rodrik-cassel
+        property: title
+        value: Ser, Master-at-Arms
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section.

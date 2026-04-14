@@ -1,0 +1,11 @@
+assertions:
+    assertion-unsullied-wine-of-courage:
+        subject:
+            event: event-daenerys-inspects-unsullied-astapor
+        property: description
+        value: Unsullied drink the 'wine of courage' — a drug made from nightshade, bloodfly larva, black lotus root — that suppresses pain
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-ii
+        notes: 'Text: ''The wine of courage... It is no true wine at all, but made from deadly nightshade, bloodfly larva, black lotus root, and many secret things. They drink it with every meal from the day they are cut, and with each passing year feel less and less. It makes them fearless in battle.'''

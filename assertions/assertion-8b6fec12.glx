@@ -1,0 +1,11 @@
+assertions:
+    assertion-arnolf-karstark-castellan-adwd:
+        subject:
+            person: person-arnolf-karstark
+        property: title
+        value: Castellan of Karhold
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''his uncle ARNOLF, castellan of Karhold'' (uncle to the late Lord Rickard Karstark)'

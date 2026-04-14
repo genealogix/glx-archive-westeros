@@ -1,0 +1,11 @@
+assertions:
+    assertion-tommen-father-actual:
+        subject:
+            person: person-tommen-baratheon
+        property: parent
+        value: person-jaime-lannister
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-xii
+        notes: 'Source text: ''All three are Jaime''s,'' he said. Cersei confirmed all three children are Jaime Lannister''s, not Robert''s.'

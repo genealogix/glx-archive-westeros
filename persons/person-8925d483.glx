@@ -1,0 +1,6 @@
+persons:
+    person-unknown-493:
+        properties:
+            external_ids:
+                - MH:I493
+            gender: unknown

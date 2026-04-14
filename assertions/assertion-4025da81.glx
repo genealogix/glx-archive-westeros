@@ -1,0 +1,11 @@
+assertions:
+    assertion-loras-mare-in-heat-tactic:
+        subject:
+            person: person-loras-tyrell
+        property: description
+        value: Used a mare in heat to defeat Ser Gregor Clegane at the Hand's tourney
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: ''Ser Gregor was having trouble controlling his horse. The stallion was screaming and pawing the ground... His courser was as slim as her rider, a beautiful grey mare... Ser Gregor''s huge stallion trumpeted as he caught her scent.'' Littlefinger: ''Tyrell had to know the mare was in heat. I swear the boy planned the whole thing. Gregor has always favored huge, ill-tempered stallions with more spirit than sense.'' Loras''s grey mare was deliberately chosen. The strategy was effective but considered dishonorable by some (Ser Barristan: ''There is small honor in tricks'').'

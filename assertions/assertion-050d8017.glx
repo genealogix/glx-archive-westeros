@@ -1,0 +1,11 @@
+assertions:
+    assertion-tully-gender:
+        subject:
+            person: person-tully
+        property: gender
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Unnamed Tully male from GEDCOM import.

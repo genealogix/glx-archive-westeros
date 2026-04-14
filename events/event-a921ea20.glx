@@ -1,0 +1,21 @@
+events:
+    event-battle-bells:
+        title: The Battle of the Bells
+        type: battle
+        place: place-stoney-sept
+        date: "283"
+        participants:
+            - person: person-robert-baratheon-i
+              role: combatant
+            - person: person-eddard-stark
+              role: combatant
+            - person: person-hoster-tully
+              role: combatant
+            - person: person-jon-arryn
+              role: combatant
+            - person: person-jon-connington
+              role: commander
+        properties:
+            also_known_as: The Battle of the Bells
+            description: The Battle of the Bells (283 AC) — a pivotal battle during Robert's Rebellion. Lord Jon Connington, the young Hand of the King, tracked the wounded Robert Baratheon to the town of Stoney Sept after defeating him in an earlier engagement. Connington occupied the town and searched house to house for Robert, who was hidden by a sympathetic townsman. The septons of Stoney Sept rang their bells to warn of the approaching rebel armies. Eddard Stark, Hoster Tully, and Jon Arryn arrived with a combined relief force. The battle raged through the narrow streets. Robert emerged from hiding, armor still bloody, and fought in the streets with his warhammer. The royalists were routed and Connington forced to retreat.
+        notes: 'Jon Connington later reflected bitterly that he should have burned the town to flush Robert out rather than searching honorably — ''I wanted the glory of slaying Robert in single combat.'' This defeat cost Connington his position as Hand — Aerys stripped him of his lands and titles and sent him into exile. Connington eventually fled to the Free Cities, where Illyrio Mopatis and Varys entrusted him with raising Young Griff (the alleged Aegon VI Targaryen). The battle was the turning point where the rebel alliance fully coalesced — the combined Stark-Tully-Arryn-Baratheon host was now united. Source: ADWD The Griffin Reborn (Jon Connington''s memories of the battle).'

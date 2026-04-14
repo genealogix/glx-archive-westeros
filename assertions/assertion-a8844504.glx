@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-greyjoy-gender:
+        subject:
+            person: person-theon-greyjoy
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Listed as son of Balon Greyjoy in the AFFC appendix.

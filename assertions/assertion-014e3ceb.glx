@@ -1,0 +1,12 @@
+assertions:
+    assertion-lysa-tully-name:
+        subject:
+            person: person-lysa-tully
+        property: name
+        value: Lysa Tully
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Tully section. Also in AGOT Arryn section as ''LADY LYSA, of House Tully''. ADWD Tully section updates to ''{LADY LYSA ARRYN}, widow of Lord Jon Arryn of the Vale, pushed to her death from the Eyrie''. Source text: LYSA, the younger daughter, wed to Lord Jon Arryn'

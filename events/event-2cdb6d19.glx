@@ -1,0 +1,8 @@
+events:
+    event-death-daeron-targaryen-ii:
+        title: Death of Daeron Targaryen II
+        type: death
+        date: "209"
+        participants:
+            - person: person-daeron-targaryen-ii
+              role: principal

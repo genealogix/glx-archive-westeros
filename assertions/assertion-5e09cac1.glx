@@ -1,0 +1,11 @@
+assertions:
+    assertion-dorea-sand-age-affc:
+        subject:
+            event: event-birth-dorea-sand
+        property: date
+        value: ABT 291
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: AFFC Appendix lists Dorea as eight. Daughter of Oberyn and Ellaria Sand.

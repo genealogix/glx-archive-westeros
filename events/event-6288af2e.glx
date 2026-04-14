@@ -1,0 +1,8 @@
+events:
+    event-birth-aegon-targaryen-v:
+        title: Birth of Aegon Targaryen V
+        type: birth
+        date: "200"
+        participants:
+            - person: person-aegon-targaryen-v
+              role: principal

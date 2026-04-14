@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-clegane-left-brothers-keep:
+        subject:
+            person: person-sandor-clegane
+        property: description
+        value: Left Gregor's keep the same day Gregor inherited it, never returned
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: ''Gregor had inherited the keep, the gold, and the family estates. His younger brother Sandor had left the same day to take service with the Lannisters as a sworn sword, and it was said that he had never returned, not even to visit.'' Combined with the reference to Gregor having set the fire that burned Sandor''s face, this explains Sandor''s deep hatred of his brother and his loyalty to the Lannisters as escape from Gregor''s shadow.'

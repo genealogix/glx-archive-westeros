@@ -1,7 +1,0 @@
-events:
-    event-birth-blackfyre-317:
-        title: "Birth of Blackfyre"
-        type: birth
-        participants:
-            - person: person-blackfyre-317
-              role: principal

@@ -1,0 +1,14 @@
+events:
+    event-marriage-joffrey-baratheon-and-margaery-tyrell:
+        title: Marriage of Joffrey Baratheon and Margaery Tyrell
+        type: marriage
+        place: place-kings-landing
+        date: "300"
+        participants:
+            - person: person-joffrey-baratheon
+              role: subject
+            - person: person-margaery-tyrell
+              role: subject
+        properties:
+            description: The wedding of King Joffrey I Baratheon and Margaery Tyrell at the Great Sept of Baelor. The wedding feast became known as the Purple Wedding when Joffrey was poisoned.
+        notes: Joffrey died at his own wedding feast, poisoned by the Strangler. The marriage was never consummated.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-arryn-death-lannister:
+        subject:
+            person: person-jon-arryn
+        property: cause_of_death
+        value: Alleged murder by the Lannisters / the queen
+        confidence: low
+        status: alleged
+        citations:
+            - citation-agot-catelyn-i
+        notes: 'Source text: Catelyn tells Ned, ''Lysa says Jon Arryn was murdered.'' And: ''The Lannisters,'' she told him. ''The queen.'' The allegation comes from Lysa Arryn''s secret letter, written in a private cipher she and Catelyn shared as girls. Robert says in Eddard II that Jon ''sickened so quickly'' and ''a fortnight later he was dead. The sickness was like a fire in his gut.'' Low confidence — Lysa''s accusation is potentially motivated by grief and fear.'

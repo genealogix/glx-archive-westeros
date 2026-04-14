@@ -1,0 +1,10 @@
+events:
+    event-death-jeyne-royce:
+        title: Death of Jeyne Royce
+        type: death
+        date: "BEF 300"
+        participants:
+            - person: person-jeyne-royce
+              role: principal
+        properties:
+            cause: Maternal Death

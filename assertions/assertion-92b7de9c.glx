@@ -1,0 +1,11 @@
+assertions:
+    assertion-leyton-hightower-gender:
+        subject:
+            person: person-leyton-hightower
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Source text: LEYTON HIGHTOWER, Voice of Oldtown, Lord of the Port'

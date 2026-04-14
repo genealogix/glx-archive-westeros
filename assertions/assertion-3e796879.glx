@@ -1,0 +1,11 @@
+assertions:
+    assertion-jorah-mormont-exile-reason:
+        subject:
+            person: person-jorah-mormont
+        property: description
+        value: Exiled for selling poachers to a Tyroshi slaver instead of surrendering them to the Night's Watch
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-i
+        notes: 'Source text (Daenerys I): ''The Usurper wanted his head. Some trifling affront. He sold some poachers to a Tyroshi slaver instead of giving them to the Night''s Watch.'' Illyrio''s words. Jorah is described as ''past forty and balding, but still strong and fit'' and wearing ''a dark green [tunic], embroidered with the likeness of a black bear standing on two legs'' — House Mormont''s sigil.'

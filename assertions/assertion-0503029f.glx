@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-renly-brothers:
+        subject:
+            person: person-stannis-baratheon
+        property: sibling
+        value: person-renly-baratheon
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue): Cressen reflects ''I never wanted Cressen at that feast. He''d angered me...I did not want him dead.'' Stannis refers repeatedly to ''my brother Renly'' and ''my charming young brother.'' Confirmed sibling relationship between Stannis and Renly Baratheon.'

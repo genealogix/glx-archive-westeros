@@ -1,0 +1,11 @@
+events:
+    event-death-brandon-stark-213:
+        title: Death of Brandon Stark
+        type: death
+        place: place-kings-landing
+        date: "BEF 300"
+        participants:
+            - person: person-brandon-stark-213
+              role: principal
+        properties:
+            cause: Homicide

@@ -1,0 +1,11 @@
+assertions:
+    assertion-dorna-swyft-name:
+        subject:
+            person: person-dorna-swyft
+        property: name
+        value: Dorna Swyft
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Listed as wife of Ser Kevan. Source text: his wife, DORNA , of House Swyft'

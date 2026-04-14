@@ -1,0 +1,8 @@
+events:
+    event-birth-elia-sand:
+        title: Birth of Elia Sand
+        type: birth
+        date: "ABT 285"
+        participants:
+            - person: person-elia-sand
+              role: principal

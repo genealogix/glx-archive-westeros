@@ -1,0 +1,11 @@
+assertions:
+    assertion-varamyr-killed-haggon:
+        subject:
+            person: person-varamyr-sixskins
+        property: cause_of_death
+        value: Killed by Varamyr Sixskins, who drove him out of his wolf Greyskin and claimed the beast, denying Haggon a second life
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-prologue
+        notes: Varamyr reflects on killing Haggon during the Prologue. Haggon had taught him the laws of skinchanging — that eating human flesh, mating as wolf with wolf, and seizing another person's body are all abominations. Varamyr violated all three. Haggon died weeping.

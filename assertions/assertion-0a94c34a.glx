@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-alias-weasel:
+        subject:
+            person: person-arya-stark
+        property: alias
+        value: Weasel
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-appendix
+        notes: One of Arya's identities during her time at Harrenhal. Referenced in ACOK. She takes the name while serving as a servant at Harrenhal under Amory Lorch's command, before becoming Roose Bolton's cupbearer.

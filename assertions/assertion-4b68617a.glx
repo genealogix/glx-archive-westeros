@@ -1,0 +1,12 @@
+assertions:
+    assertion-lady-killed-innocent:
+        subject:
+            event: event-death-lady
+        property: description
+        value: Lady killed unjustly — was not present at the Trident incident
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-iii
+            - citation-agot-sansa-i
+        notes: 'Source text: ''Lady wasn''t there,'' Arya shouted angrily. ''You leave her alone!'' and ''it wasn''t Lady, it was Nymeria.'' Lady (Sansa''s direwolf) was not present when Nymeria bit Joffrey. Nymeria could not be found, so Cersei demanded Lady as a substitute. Robert acquiesced, saying ''Damn you, Cersei.'' Ned killed Lady with Ice and sent the body to Winterfell. Sansa''s reaction: ''don''t let them do it, please, please, it wasn''t Lady, Lady didn''t bite anybody, she''s good.'''

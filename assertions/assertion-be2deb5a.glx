@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-appearance-daenerys-i:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: description
+        value: Gaunt young man with nervous hands; feverish look in pale lilac eyes; silver-blond hair pulled back tight; hard gaunt face; rested hand on sword hilt
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-i
+        notes: 'Source text (Daenerys I): ''He was a gaunt young man with nervous hands and a feverish look in his pale lilac eyes. His hair, the same silver-blond as hers, had been pulled back tightly behind his head and fastened with a dragonbone brooch. It was a severe look that emphasized the hard, gaunt lines of his face.'''

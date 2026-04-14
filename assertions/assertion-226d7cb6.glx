@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-born-264:
+        subject:
+            event: event-birth-catelyn-tully
+        property: date
+        value: "264"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-eddard-stark
+        notes: Born in 264 AC at Riverrun.

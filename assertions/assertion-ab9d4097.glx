@@ -1,0 +1,12 @@
+assertions:
+    assertion-rickard-stark-name:
+        subject:
+            person: person-rickard-stark
+        property: name
+        value: Rickard Stark
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: 'Not listed as a separate entry in any novel appendix. Mentioned indirectly as Eddard''s father in chapter text (AGOT Eddard I: ''Lord Rickard Stark, Ned''s father''). GEDCOM data retained pending chapter-level citation.'

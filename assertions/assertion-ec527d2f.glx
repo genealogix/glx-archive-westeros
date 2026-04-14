@@ -1,0 +1,12 @@
+assertions:
+    assertion-jon-waters-name:
+        subject:
+            person: person-jon-waters
+        property: name
+        value: Ser Jon Waters
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

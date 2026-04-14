@@ -1,0 +1,11 @@
+assertions:
+    assertion-walder-frey-ward-theon-age:
+        subject:
+            person: person-theon-greyjoy
+        property: description
+        value: Lean, dark youth of nineteen; ward of Eddard Stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-i
+        notes: 'Source text (Bran I): ''Theon was a lean, dark youth of nineteen who found everything amusing. He laughed, put his boot on the head, and kicked it away.'' Theon is also explicitly called Ned''s ward: ''his ward Theon Greyjoy brought forth the sword.'''

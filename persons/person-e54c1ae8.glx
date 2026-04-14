@@ -1,0 +1,11 @@
+persons:
+    person-alys-arryn:
+        properties:
+            external_ids:
+                - MH:I231
+            gender: female
+            name:
+                fields:
+                    given: Alys
+                    surname: Arryn
+                value: Alys Arryn

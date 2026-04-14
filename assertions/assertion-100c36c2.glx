@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-faith-of-seven:
+        subject:
+            person: person-catelyn-tully
+        property: religion
+        value: Faith of the Seven
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-i
+        notes: 'Source text (Catelyn I): ''Catelyn had been anointed with the seven oils and named in the rainbow of light that filled the sept of Riverrun. She was of the Faith, like her father and grandfather and his father before him. Her gods had names, and their faces were as familiar as the faces of her parents.'' She also prayed to the seven faces of god in Jon II.'

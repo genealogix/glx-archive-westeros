@@ -1,0 +1,11 @@
+assertions:
+    assertion-tywin-born-casterly-rock:
+        subject:
+            event: event-birth-tywin-lannister
+        property: place
+        value: place-casterly-rock
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-tywin-lannister
+        notes: Born at Casterly Rock.

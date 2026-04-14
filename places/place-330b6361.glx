@@ -1,0 +1,6 @@
+places:
+    place-harlaw:
+        name: Harlaw
+        parent: place-the-iron-islands
+        type: island
+        notes: The most populous of the Iron Islands after Great Wyk. Seat of House Harlaw. Known as the Isle of Ten Towers.

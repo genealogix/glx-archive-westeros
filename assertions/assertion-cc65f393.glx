@@ -1,0 +1,11 @@
+assertions:
+    assertion-gregor-clegane-raids-riverlands:
+        subject:
+            person: person-gregor-clegane
+        property: description
+        value: Raids on Sherrer, Wendish Town, and Mummer's Ford
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-xi
+        notes: 'Source text: Villagers testified about raiders led by a man ''big as an ox with a voice like stone breaking'' who burned and slaughtered at Sherrer, Wendish Town, and the Mummer''s Ford. Ser Marq Piper named Gregor Clegane: ''The Mountain! Can any man doubt it?'' Ned Stark concluded Lord Tywin Lannister sent Gregor to terrorize the Riverlands in retaliation for Catelyn''s capture of Tyrion, designed to goad Edmure Tully into scattering his forces.'

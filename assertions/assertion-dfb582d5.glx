@@ -1,0 +1,11 @@
+assertions:
+    assertion-ellaria-sand-gender:
+        subject:
+            person: person-ellaria-sand
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: 'Verified against ASOS Appendix, House Martell section. Source text: Prince Oberyn''s paramour, ELLARIA SAND'

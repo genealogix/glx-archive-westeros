@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-born-279:
+        subject:
+            event: event-birth-theon-greyjoy
+        property: date
+        value: ABT 279
+        confidence: medium
+        status: proven
+        citations:
+            - citation-awoiaf-theon-greyjoy
+        notes: Born approximately 278-279 AC at Pyke.

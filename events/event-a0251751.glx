@@ -1,0 +1,9 @@
+events:
+    event-marriage-baratheon-499-and-rhaelle-targaryen-199:
+        title: Marriage of Baratheon and Rhaelle Targaryen
+        type: marriage
+        participants:
+            - person: person-baratheon-499
+              role: subject
+            - person: person-rhaelle-targaryen-199
+              role: subject

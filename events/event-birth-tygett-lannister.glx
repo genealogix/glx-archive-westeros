@@ -1,7 +1,0 @@
-events:
-    event-birth-tygett-lannister:
-        title: "Birth of Tygett Lannister"
-        type: birth
-        participants:
-            - person: person-tygett-lannister
-              role: principal

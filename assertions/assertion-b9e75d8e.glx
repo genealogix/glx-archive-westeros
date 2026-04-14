@@ -1,0 +1,11 @@
+assertions:
+    assertion-rickard-karstark-gender:
+        subject:
+            person: person-rickard-karstark
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section. Listed as Lord.
