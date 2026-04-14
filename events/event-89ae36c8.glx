@@ -1,0 +1,9 @@
+events:
+    event-marriage-aegon-targaryen-iii-and-velaryon:
+        title: Marriage of Aegon Targaryen III and Velaryon
+        type: marriage
+        participants:
+            - person: person-aegon-targaryen-iii
+              role: subject
+            - person: person-velaryon
+              role: subject

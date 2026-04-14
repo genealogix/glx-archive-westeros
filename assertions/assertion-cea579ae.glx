@@ -1,0 +1,11 @@
+assertions:
+    assertion-jeyne-fossoway-name:
+        subject:
+            person: person-jeyne-fossoway
+        property: name
+        value: Jeyne Fossoway
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Wife of Ser Gunthor Hightower, of the green apple Fossoways. Source text: Lord Leyton''s son, SER GUNTHOR, m. Jeyne Fossoway, of the green apple Fossoways'

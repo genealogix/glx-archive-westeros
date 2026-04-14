@@ -1,0 +1,11 @@
+assertions:
+    assertion-smalljon-umber-name:
+        subject:
+            person: person-smalljon-umber
+        property: name
+        value: Jon Umber (the Smalljon)
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: Called the Smalljon to distinguish him from his father the Greatjon (Lord Jon Umber). Named in the text of Catelyn VII overturning the table and bludgeoning Ser Raymund Frey. The Greatjon's notes in his person file also reference his son Smalljon.

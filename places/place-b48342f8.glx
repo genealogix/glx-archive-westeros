@@ -1,0 +1,8 @@
+places:
+    place-blackhaven:
+        name: Blackhaven
+        parent: place-the-stormlands
+        type: castle
+        properties:
+            seat_of: House Dondarrion
+        notes: Seat of House Dondarrion in the Dornish Marches of the Stormlands. Guards one of the passes into Dorne.

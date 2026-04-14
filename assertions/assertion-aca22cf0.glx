@@ -1,0 +1,11 @@
+assertions:
+    assertion-kevan-lannister-name:
+        subject:
+            person: person-kevan-lannister
+        property: name
+        value: Kevan Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Listed as Tywin''s eldest brother. Source text: SER KEVA N, his eldest brother'

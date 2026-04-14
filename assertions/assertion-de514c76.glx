@@ -1,0 +1,11 @@
+assertions:
+    assertion-roose-bolton-treachery-signs:
+        subject:
+            person: person-roose-bolton
+        property: allegiance
+        value: Signs of Roose Bolton's divided loyalty and approaching treachery are apparent at Harrenhal
+        confidence: medium
+        status: speculative
+        citations:
+            - citation-asos-jaime-iv
+        notes: Roose informs Jaime that Joffrey's betrothal to Sansa is broken (post-Blackwater), volunteers news of Tywin's position, and seems unusually forthcoming with Lannister intelligence. His pause before 'nephew' suggests he knows the truth of Joffrey's parentage. Arya's earlier chapters note that Bolton stabled goats in Littlefinger's hall. His protection of Jaime (against Hoat's plan to ransom him piecemeal) sets up the eventual revelation of his conspiracy with Tywin.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-baratheon-cause-of-death:
+        subject:
+            person: person-joffrey-baratheon
+        property: cause_of_death
+        value: Poisoned at his wedding feast (the Strangler)
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Joffrey was poisoned with the Strangler at his wedding feast, a plot orchestrated by Olenna Tyrell and Petyr Baelish. Known as the Purple Wedding.

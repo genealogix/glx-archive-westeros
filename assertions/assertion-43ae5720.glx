@@ -1,0 +1,12 @@
+assertions:
+    assertion-elyn-norridge-name:
+        subject:
+            person: person-elyn-norridge
+        property: name
+        value: Elyn Norridge
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,12 @@
+assertions:
+    assertion-jon-brax-name:
+        subject:
+            person: person-jon-brax
+        property: name
+        value: Jon Brax
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

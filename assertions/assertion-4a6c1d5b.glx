@@ -1,0 +1,11 @@
+assertions:
+    assertion-meryn-trant-name:
+        subject:
+            person: person-meryn-trant
+        property: name
+        value: Ser Meryn Trant
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section (Kingsguard). Source text: SER MERYN TRA NT'

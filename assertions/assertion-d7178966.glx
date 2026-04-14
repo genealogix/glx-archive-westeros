@@ -1,0 +1,11 @@
+assertions:
+    assertion-azor-ahai-long-night:
+        subject:
+            person: person-azor-ahai
+        property: role
+        value: Hero of the Long Night who wielded Lightbringer against the darkness
+        confidence: low
+        status: speculative
+        citations:
+            - citation-twoiaf-long-night
+        notes: The annals of Asshai record a hero who fought the Long Night with a red sword, called Azor Ahai by followers of R'hllor. The Yi Ti tradition names him differently (Hyrkoon the Hero, Yin Tar). The Citadel notes these legends are so varied across cultures that the historical kernel — if any — cannot be recovered. Confidence is low due to the legendary nature and the gap of thousands of years.

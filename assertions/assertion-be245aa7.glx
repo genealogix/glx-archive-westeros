@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-born-storms-end:
+        subject:
+            event: event-birth-renly-baratheon
+        property: place
+        value: place-storms-end
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-renly-baratheon
+        notes: Born at Storm's End.

@@ -1,0 +1,12 @@
+assertions:
+    assertion-tywin-born-242:
+        subject:
+            event: event-birth-tywin-lannister
+        property: date
+        value: "242"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-tywin-lannister
+            - citation-twoiaf-targaryen-aerys-ii
+        notes: Born 242 AC at Casterly Rock.

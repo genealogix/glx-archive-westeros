@@ -1,0 +1,11 @@
+assertions:
+    assertion-petyr-born-268:
+        subject:
+            event: event-birth-petyr-baelish
+        property: date
+        value: "268"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-petyr-baelish
+        notes: Born 268 AC in the Fingers, the Vale of Arryn.

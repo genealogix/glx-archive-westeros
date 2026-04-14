@@ -1,0 +1,11 @@
+assertions:
+    assertion-gerold-dayne-name:
+        subject:
+            person: person-gerold-dayne-darkstar
+        property: name
+        value: Gerold Dayne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'AFFC Appendix, House Martell section. Source text: SER GEROLD DAYNE, called DARKSTAR, the Knight of High Hermitage, his cousin and bannerman'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-aegon-vi-blackfyre-theory:
+        subject:
+            person: person-young-griff
+        property: house
+        value: Blackfyre (theoretical)
+        confidence: low
+        status: speculative
+        citations:
+            - citation-adwd-the-lost-lord
+        notes: 'Fan theory (not stated in text): Young Griff may be a Blackfyre descendant (through the female line, which Bittersteel kept alive in exile) rather than a true Targaryen. Evidence: Illyrio Mopatis''s late wife Serra had Valyrian features; the Golden Company''s founders were Blackfyre loyalists; Varys is not trustworthy. The text at line 6474 notes Harry Strickland''s great-grandsire ''rose with the Black Dragon during the first Blackfyre Rebellion.'' GRRM has not confirmed or denied. Confidence low; status speculative.'

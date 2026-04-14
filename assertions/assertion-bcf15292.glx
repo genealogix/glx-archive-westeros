@@ -1,0 +1,11 @@
+assertions:
+    assertion-lysa-tully-house:
+        subject:
+            person: person-lysa-tully
+        property: house
+        value: Tully
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Arryn and Tully sections.

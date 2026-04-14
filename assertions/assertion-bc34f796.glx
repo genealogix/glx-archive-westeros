@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-helm-stolen-by-rorge:
+        subject:
+            person: person-sandor-clegane
+        property: alias
+        value: Hound helm was stolen by Rorge, used at Saltpans
+        confidence: high
+        status: proven
+        citations:
+            - citation-affc-brienne-vii
+        notes: The Elder Brother stated clearly that he buried Sandor Clegane, left his helm as a grave marker, and a passing wayfarer (later identified as Rorge) stole the helm. The man who committed the Saltpans atrocities was Rorge wearing Sandor's famous burned-face helmet, not Sandor Clegane himself.

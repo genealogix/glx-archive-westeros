@@ -1,0 +1,12 @@
+assertions:
+    assertion-maegelle-frey-name:
+        subject:
+            person: person-maegelle-frey
+        property: name
+        value: Maegelle Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Stevron''s daughter, {MAEGELLE}, died in childbed, m. Ser Dafyn Vance'

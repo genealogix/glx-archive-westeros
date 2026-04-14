@@ -1,9 +1,0 @@
-events:
-    event-death-rowena:
-        title: "Death of Rowena"
-        type: death
-        participants:
-            - person: person-rowena
-              role: principal
-        properties:
-            cause: Illness

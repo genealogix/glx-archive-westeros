@@ -1,0 +1,13 @@
+assertions:
+    assertion-blackwater-wildfire-chain:
+        subject:
+            event: event-battle-blackwater
+        property: description
+        value: Tyrion used wildfire-stuffed hulks and a great chain across the Blackwater to trap and destroy Stannis's fleet
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-tyrion-xiv
+            - citation-acok-tyrion-xv
+            - citation-acok-davos-iii
+        notes: 'Confirmed from three POVs. Davos III (Stannis''s side): ''With a grinding, splintering, tearing crash, Swordfish split the rotted hulk asunder... From inside her Davos saw green gushing from a thousand broken jars.'' Tyrion XIV (King''s Landing walls): ''He had stuffed full of King Aerys''s fickle fruits... plumes of fire thirty and forty feet high danced upon the waters.'' The chain appears at end of Davos III: ''The chain. Gods save us, they''ve raised the chain... a boom stretched taut, a bare two or three feet above the water.'''

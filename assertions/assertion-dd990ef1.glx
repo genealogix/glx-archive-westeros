@@ -1,0 +1,11 @@
+assertions:
+    assertion-selyse-florent-house:
+        subject:
+            person: person-selyse-florent
+        property: house
+        value: Florent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon section.

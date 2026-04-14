@@ -1,7 +1,0 @@
-events:
-    event-death-redwyne:
-        title: "Death of Redwyne"
-        type: death
-        participants:
-            - person: person-redwyne
-              role: principal

@@ -1,0 +1,7 @@
+events:
+    event-birth-hobber-redwyne-slobber:
+        title: Birth of Hobber Redwyne
+        type: birth
+        participants:
+            - person: person-hobber-redwyne-slobber
+              role: principal

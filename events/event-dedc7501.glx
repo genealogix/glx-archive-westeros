@@ -1,0 +1,9 @@
+events:
+    event-marriage-aegon-targaryen-iv-and-daena-targaryen:
+        title: Marriage of Aegon Targaryen IV and Daena Targaryen
+        type: marriage
+        participants:
+            - person: person-aegon-targaryen-iv
+              role: subject
+            - person: person-daena-targaryen
+              role: subject

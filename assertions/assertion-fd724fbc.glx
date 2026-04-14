@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-killed-by-roose-bolton:
+        subject:
+            person: person-robb-stark
+        property: cause_of_death
+        value: Stabbed through the heart by Roose Bolton
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Roose Bolton personally delivered the killing blow to Robb Stark with a longsword through the heart, saying ''Jaime Lannister sends his regards'' — implicating Tywin Lannister as co-conspirator. Direct text: ''A man in dark armor and a pale pink cloak spotted with blood stepped up to Robb. Jaime Lannister sends his regards. He thrust his longsword through her son''s heart, and twisted.'' Bolton wore the pale pink Frey sigil cloak over dark armor.'

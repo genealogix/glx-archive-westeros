@@ -1,0 +1,12 @@
+assertions:
+    assertion-aegon-targaryen-i-the-conqueror-name:
+        subject:
+            person: person-aegon-targaryen-i-the-conqueror
+        property: name
+        value: Aegon 'The Conqueror' Targaryen I
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Also listed in AGOT Appendix as ''1-37 Aegon I Aegon the Conquerer, Aegon the Dragon''. Source text: The Aegon who is known to history as Aegon the Conqueror and Aegon the Dragon was born on Dragonstone in 27 BC. He was the only son, and second child, of Aerion, Lord of Dragonstone, and Lady Valaena of House Velaryon'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-age-acok:
+        subject:
+            person: person-renly-baratheon
+        property: description
+        value: One-and-twenty years of age at the opening of ACOK (299 AC)
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue): ''The bold little boy with wild black hair and laughing eyes was a man grown now, one-and-twenty, and still he played his games.'' Cressen reflecting on Renly as he knew him as a child at Storm''s End.'

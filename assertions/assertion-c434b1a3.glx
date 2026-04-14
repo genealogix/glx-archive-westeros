@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-age-fled-kings-landing:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: description
+        value: Was eight years old when he fled King's Landing with Daenerys
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-i
+        notes: 'Source text (Daenerys I): ''Viserys had been a boy of eight when they fled King''s Landing to escape the advancing armies of the Usurper, but Daenerys had been only a quickening in their mother''s womb.'' Robert''s Rebellion ended in 283 AC, confirming Viserys born approximately 275 AC.'

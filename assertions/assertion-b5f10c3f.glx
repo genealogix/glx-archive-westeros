@@ -1,0 +1,12 @@
+assertions:
+    assertion-robb-stark-title-king-north:
+        subject:
+            person: person-robb-stark
+        property: title
+        value: King in the North
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-asos-appendix
+        notes: 'First appears in ACOK appendix: ''ROBB STARK, Lord of Winterfell and King in the North.'' Continues in ASOS appendix: ''ROBB STARK, Lord of Winterfell, King in the North, and King of the Trident.'''

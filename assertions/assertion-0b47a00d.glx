@@ -1,0 +1,12 @@
+assertions:
+    assertion-morton-waynwood-name:
+        subject:
+            person: person-morton-waynwood
+        property: name
+        value: Morton Waynwood
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Arryn section. ADWD Appendix updates to ''SER MORTON, her eldest son and heir''. Source text: SER MORTON WAYNWOOD, her son, suitor to Lady Lysa'

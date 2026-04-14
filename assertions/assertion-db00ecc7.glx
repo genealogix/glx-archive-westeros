@@ -1,0 +1,11 @@
+assertions:
+    assertion-lucas-blackwood-death:
+        subject:
+            event: event-death-lucas-blackwood
+        property: date
+        value: "299"
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Killed at the Red Wedding by Ser Hosteen Frey. Direct text: ''She saw Lucas Blackwood cut down by Ser Hosteen Frey.'''

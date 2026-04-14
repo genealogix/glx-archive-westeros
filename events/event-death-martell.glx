@@ -1,7 +1,0 @@
-events:
-    event-death-martell:
-        title: "Death of Martell"
-        type: death
-        participants:
-            - person: person-martell
-              role: principal

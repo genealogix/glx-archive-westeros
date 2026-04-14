@@ -1,0 +1,12 @@
+assertions:
+    assertion-dorea-sand-name:
+        subject:
+            person: person-dorea-sand
+        property: name
+        value: Dorea Sand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes, daughter of Oberyn and Ellaria. Source text: DOREA, eight, his daughter by Ellaria Sand'

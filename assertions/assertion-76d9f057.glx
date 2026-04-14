@@ -1,0 +1,12 @@
+assertions:
+    assertion-arwood-frey-name:
+        subject:
+            person: person-arwood-frey
+        property: name
+        value: Arwood Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Hosteen''s son, SER ARWOOD, m. Ryella Royce'

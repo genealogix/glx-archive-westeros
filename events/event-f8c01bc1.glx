@@ -1,0 +1,7 @@
+events:
+    event-c4774bb7:
+        type: death
+        date: "299"
+        participants:
+            - person: person-owen-norrey
+              role: principal

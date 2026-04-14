@@ -1,0 +1,11 @@
+assertions:
+    assertion-cersei-accused-tyrion-sansa:
+        subject:
+            person: person-cersei-lannister
+        property: description
+        value: Publicly accused Tyrion Lannister and Sansa Stark of murdering Joffrey
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-tyrion-lxviii
+        notes: 'Text: ''Arrest my brother. He did this, the dwarf. Him and his little wife. They killed my son. Your king. Take them! Take them both!'' — Cersei commanded Ser Loras Tyrell. Tyrion was taken into custody; Sansa had already fled the hall.'

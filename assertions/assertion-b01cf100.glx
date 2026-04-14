@@ -1,0 +1,11 @@
+assertions:
+    assertion-hoster-tully-name:
+        subject:
+            person: person-hoster-tully
+        property: name
+        value: Hoster Tully
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tully section. Source text: HOSTER TULLY, Lord of Riverrun'

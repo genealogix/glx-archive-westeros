@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrell-gender:
+        subject:
+            person: person-tyrell
+        property: gender
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Unidentified placeholder person.

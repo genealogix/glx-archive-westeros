@@ -1,0 +1,11 @@
+assertions:
+    assertion-ser-hugh-suspected-poisoner:
+        subject:
+            person: person-ser-hugh-of-the-vale
+        property: description
+        value: Suspected agent who administered poison to Jon Arryn
+        confidence: medium
+        status: suspected
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: Varys: ''There was one boy. All he was, he owed Jon Arryn, but when the widow fled to the Eyrie with her household, he stayed in King''s Landing and prospered... He must have cut a gallant figure in the tourney, him in his bright new armor, with those crescent moons on his cloak. A pity he died so untimely, before you could talk to him…'' Ned identifies him: ''The squire. Ser Hugh.'' Ser Hugh was conveniently killed in the tourney before Ned could question him. His death may have been arranged. This is Varys''s accusation, not confirmed by direct evidence — confidence medium.'

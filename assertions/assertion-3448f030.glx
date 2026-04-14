@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-alias-stormborn-adwd:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: alias
+        value: Daenerys Stormborn
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''called DAENERYS STORMBORN, the UNBURNT, MOTHER OF DRAGONS'''

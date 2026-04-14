@@ -1,0 +1,9 @@
+events:
+    event-death-maegelle-frey:
+        title: Death of Maegelle Frey
+        type: death
+        participants:
+            - person: person-maegelle-frey
+              role: principal
+        properties:
+            cause: Maternal Death

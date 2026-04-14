@@ -1,0 +1,11 @@
+assertions:
+    assertion-dany-decides-stay-meereen:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: description
+        value: Chose to remain in Meereen as queen rather than immediately sailing for Westeros
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-meereen
+        notes: 'The decision crystallized after Dany learned that Astapor had already collapsed under ''King Cleon'' — a butcher-slave who seized power after she freed the city and left. This demonstrated that freed cities need governing, not just liberation. Text: ''She was Daenerys Stormborn, the Unburnt, khaleesi and queen, Mother of Dragons, slayer of warlocks, breaker of chains, and there was no one in the world that she could trust.'''

@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-born-262:
+        subject:
+            event: event-birth-robert-baratheon-i
+        property: date
+        value: "262"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-robert-baratheon
+            - citation-twoiaf-fall-of-dragons-roberts-rebellion
+        notes: Born 262 AC at Storm's End.

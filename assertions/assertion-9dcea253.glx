@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-baratheon-gender:
+        subject:
+            person: person-renly-baratheon
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Baratheon section. Listed as Lord.

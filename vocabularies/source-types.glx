@@ -17,7 +17,7 @@ source_types:
   
   military:
     label: "Military Record"
-    description: "Military service records, pension files"
+    description: "Military service records, draft registrations, muster rolls, pension files"
   
   newspaper:
     label: "Newspaper"
@@ -63,63 +63,17 @@ source_types:
     label: "Photograph Collection"
     description: "Photo collections"
   
-  # === ASOIAF Custom Source Types ===
+  population_register:
+    label: "Population Register"
+    description: "Civil population registers, household registration records"
 
-  novel:
-    label: "Novel"
-    description: "Published novel in the ASOIAF series"
+  tax_record:
+    label: "Tax Record"
+    description: "Tax rolls, assessments, tithes, and related fiscal records"
 
-  companion:
-    label: "Companion Volume"
-    description: "Published companion or reference book (TWOIAF, Fire & Blood)"
-
-  television:
-    label: "Television Series"
-    description: "TV adaptation episode"
-
-  wiki:
-    label: "Wiki"
-    description: "Fan-maintained wiki reference (AWOIAF, Fandom)"
-
-  author_statement:
-    label: "Author Statement"
-    description: "Direct statement from George R.R. Martin (So Spake Martin)"
-
-  digital_record:
-    label: "Digital Record"
-    description: "Digitally compiled record or family tree export"
-
-  novella:
-    label: "Novella"
-    description: "Published novella or short story in the ASOIAF universe (Dunk and Egg stories, The Princess and the Queen)"
-
-  appendix:
-    label: "Novel Appendix"
-    description: "Appendix section of an ASOIAF novel listing houses, titles, and family members"
-
-  sample_chapter:
-    label: "Sample Chapter"
-    description: "Pre-publication sample chapter released by the author (e.g., TWOW preview chapters)"
-
-  rpg_sourcebook:
-    label: "RPG Sourcebook"
-    description: "A Song of Ice and Fire Roleplaying sourcebook or supplement"
-
-  interview:
-    label: "Interview"
-    description: "Published interview with George R.R. Martin or show creators"
-
-  fan_analysis:
-    label: "Fan Analysis"
-    description: "Detailed fan analysis or theory with textual evidence (low confidence source)"
-
-  map:
-    label: "Map"
-    description: "Official map of Westeros, Essos, or other regions"
-
-  family_tree_diagram:
-    label: "Family Tree Diagram"
-    description: "Published or official family tree diagram"
+  notarial_record:
+    label: "Notarial Record"
+    description: "Notarial acts, contracts, and legal instruments recorded by a notary"
 
   other:
     label: "Other"

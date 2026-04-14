@@ -1,0 +1,11 @@
+persons:
+    person-damon-vypren:
+        properties:
+            external_ids:
+                - MH:I77
+            gender: male
+            name:
+                fields:
+                    given: Damon
+                    surname: Vypren
+                value: Damon Vypren

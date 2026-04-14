@@ -1,0 +1,7 @@
+events:
+    event-death-waynwood-244:
+        title: Death of Waynwood
+        type: death
+        participants:
+            - person: person-waynwood-244
+              role: principal

@@ -1,0 +1,12 @@
+assertions:
+    assertion-garrett-flowers-name:
+        subject:
+            person: person-garrett-flowers
+        property: name
+        value: Garrett Flowers
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Tyrell section. Bastard son of Garth ''the Gross'' Tyrell. Source text: Garth''s bastard sons, GARSE and GARRETT FLOWERS'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-addam-marbrand-name:
+        subject:
+            person: person-addam-marbrand
+        property: name
+        value: Ser Addam Marbrand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Lannister section. Source text: SER A DDA M MA RBRA ND'

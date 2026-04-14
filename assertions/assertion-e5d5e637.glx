@@ -1,0 +1,11 @@
+assertions:
+    assertion-stark-words:
+        subject:
+            person: person-eddard-stark
+        property: description
+        value: 'House Stark words: ''Winter is coming'''
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-i
+        notes: 'Source text (Catelyn I): ''The Stark words. Every noble house had its words. Family mottoes, touchstones, prayers of sorts, they boasted of honor and glory, promised loyalty and truth, swore faith and courage. All but the Starks. Winter is coming, said the Stark words.'''

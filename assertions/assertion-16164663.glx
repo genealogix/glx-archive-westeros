@@ -1,0 +1,12 @@
+assertions:
+    assertion-nymeria-burned-ships:
+        subject:
+            person: person-nymeria
+        property: description
+        value: Burned the Rhoynish fleet on arriving in Dorne to prevent retreat
+        confidence: high
+        status: proven
+        citations:
+            - citation-twoiaf-ten-thousand-ships
+            - citation-twoiaf-nymeria
+        notes: 'TWOIAF: Nymeria burned the ships on arrival in Dorne and declared ''Our wanderings are at an end. We have found a new home, and here we shall live and die.'' In the light of their burning, she named Mors Martell the Prince of Dorne. Some Rhoynar mourned the loss; they became the orphans of the Greenblood who still ply that river to this day.'

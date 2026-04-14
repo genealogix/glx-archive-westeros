@@ -1,0 +1,8 @@
+events:
+    event-death-maekar-targaryen-i:
+        title: Death of Maekar Targaryen I
+        type: death
+        date: "233"
+        participants:
+            - person: person-maekar-targaryen-i
+              role: principal

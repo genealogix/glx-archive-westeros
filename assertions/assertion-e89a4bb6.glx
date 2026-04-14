@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-348-name:
+        subject:
+            person: person-targaryen-348
+        property: name
+        value: Targaryen
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM as unnamed female Targaryen. Child of Viserys I and a Hightower per relationship data. Likely Princess Helaena Targaryen, the only daughter of Viserys I by Alicent Hightower mentioned in TWOIAF, but cannot confirm without given name.

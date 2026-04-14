@@ -1,0 +1,12 @@
+assertions:
+    assertion-belmore-name:
+        subject:
+            person: person-belmore
+        property: name
+        value: Belmore
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,13 @@
+persons:
+    person-darlessa-marbrand:
+        properties:
+            external_ids:
+                - MH:I176
+            gender: female
+            house: Marbrand
+            name:
+                fields:
+                    given: Darlessa
+                    surname: Marbrand
+                value: Darlessa Marbrand
+        notes: Widow of Ser Tygett Lannister.

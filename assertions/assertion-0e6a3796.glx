@@ -1,0 +1,13 @@
+assertions:
+    assertion-robb-stark-name:
+        subject:
+            person: person-robb-stark
+        property: name
+        value: Robb Stark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-acok-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to ''{ROBB STARK}, King in the North, King of the Trident, Lord of Winterfell, called THE YOUNG WOLF, murdered at the Red Wedding''. Source text: ROBB, the heir to Winterfell, fourteen years of age'

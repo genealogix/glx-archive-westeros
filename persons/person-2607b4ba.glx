@@ -1,0 +1,8 @@
+persons:
+    person-test-person:
+        properties:
+            name:
+                fields:
+                    given: Test
+                    surname: Person
+                value: Test Person

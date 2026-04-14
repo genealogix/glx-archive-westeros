@@ -1,0 +1,11 @@
+assertions:
+    assertion-trystane-betrothal-affc:
+        subject:
+            person: person-trystane-martell
+        property: title
+        value: Prince
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'AFFC Appendix. Source text: PRINCE TRYSTANE, betrothed to Myrcella Baratheon'

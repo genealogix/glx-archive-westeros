@@ -1,0 +1,11 @@
+assertions:
+    assertion-barbrey-dustin-lady-barrowton-adwd:
+        subject:
+            person: person-barbrey-dustin
+        property: title
+        value: Lady of Barrowton
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''BARBREY DUSTIN, his daughter, Lady of Barrowton, widow of Lord Willam Dustin'''

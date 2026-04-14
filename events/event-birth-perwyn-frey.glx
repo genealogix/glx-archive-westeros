@@ -1,7 +1,0 @@
-events:
-    event-birth-perwyn-frey:
-        title: "Birth of Perwyn Frey"
-        type: birth
-        participants:
-            - person: person-perwyn-frey
-              role: principal

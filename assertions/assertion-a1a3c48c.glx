@@ -1,0 +1,11 @@
+assertions:
+    assertion-lysa-tully-title:
+        subject:
+            person: person-lysa-tully
+        property: title
+        value: Lady
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Arryn section. Source text: his third wife and widow, LA DY LYSA, of House Tully'

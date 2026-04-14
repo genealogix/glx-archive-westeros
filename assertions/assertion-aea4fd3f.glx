@@ -1,0 +1,11 @@
+assertions:
+    assertion-brienne-rainbow-guard:
+        subject:
+            person: person-brienne-tarth
+        property: description
+        value: Was one of King Renly's Rainbow Guard — seven chosen bodyguards; Renly personally cloaked her with their striped silk
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jaime-i
+        notes: 'Text: ''I was one of King Renly''s chosen seven. With his own hands, he cloaked me with the striped silk of the Rainbow Guard.'' This confirms Brienne''s personal loyalty to Renly and the formation of his Queensguard equivalent.'

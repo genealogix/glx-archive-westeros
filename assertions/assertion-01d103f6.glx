@@ -1,0 +1,12 @@
+assertions:
+    assertion-dafyn-vance-name:
+        subject:
+            person: person-dafyn-vance
+        property: name
+        value: Dafyn Vance
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

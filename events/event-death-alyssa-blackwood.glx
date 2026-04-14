@@ -1,7 +1,0 @@
-events:
-    event-death-alyssa-blackwood:
-        title: "Death of Alyssa Blackwood"
-        type: death
-        participants:
-            - person: person-alyssa-blackwood
-              role: principal

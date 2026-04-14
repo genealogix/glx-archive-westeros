@@ -1,0 +1,11 @@
+assertions:
+    assertion-melisandre-religion-acok:
+        subject:
+            person: person-melisandre
+        property: religion
+        value: R'hllor
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: From ACOK Appendix, The King in the Narrow Sea section. A priestess of R'hllor.

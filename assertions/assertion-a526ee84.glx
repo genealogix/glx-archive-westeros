@@ -1,0 +1,12 @@
+assertions:
+    assertion-tyrion-lannister-name:
+        subject:
+            person: person-tyrion-lannister
+        property: name
+        value: Tyrion Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-acok-appendix
+        notes: 'Verified against AGOT and ACOK Appendices. ACOK: ''TYRION LANNISTER, acting Hand of the King.'' Promoted from just ''the Imp'' to acting Hand.'

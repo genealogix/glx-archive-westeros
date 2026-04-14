@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-fireproof:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: description
+        value: Daenerys walked into Drogo's funeral pyre and emerged unharmed, confirming her immunity to fire (or at least fire of this magnitude)
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-ix
+        notes: 'Source text: ''When the fire died at last and the ground became cool enough to walk upon, Ser Jorah Mormont found her amidst the ashes, surrounded by blackened logs and bits of glowing ember and the burnt bones of man and woman and stallion. She was naked, covered with soot, her clothes turned to ash, her beautiful hair all crisped away … yet she was unhurt.'' Note: This is the only instance in AGOT of Daenerys walking unharmed through fire. Whether this is a permanent magical immunity or specific to this moment of dragon-birth is debated. Her hair was destroyed, suggesting it was not trivial. This contrasts with Viserys who was killed by molten gold.'

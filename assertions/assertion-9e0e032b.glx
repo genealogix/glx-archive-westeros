@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-alias-underfoot:
+        subject:
+            person: person-arya-stark
+        property: alias
+        value: Arya Underfoot
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-arya-ii
+        notes: Nickname given at Winterfell because of her habit of being everywhere underfoot. Referenced in AGOT Arya II per AWOIAF infobox.

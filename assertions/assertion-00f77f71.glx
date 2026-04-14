@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-friendship-ned:
+        subject:
+            person: person-robert-baratheon-i
+        property: description
+        value: Robert and Ned were wards together at the Eyrie under Jon Arryn and fought together in Robert's Rebellion; Robert loves him like a brother
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-i
+            - citation-agot-eddard-ii
+        notes: 'Source text (Catelyn I): ''In his youth, Ned had fostered at the Eyrie, and the childless Lord Arryn had become a second father to him and his fellow ward, Robert Baratheon.'' Source text (Eddard II): Robert says ''Those years we spent in the Eyrie… gods, those were good years. I want you at my side again, Ned.'''

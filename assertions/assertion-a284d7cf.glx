@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-stannis-relationship:
+        subject:
+            person: person-jon-snow
+        property: description
+        value: Jon Snow describes his father Eddard Stark as having called Stannis Baratheon 'just but harsh.' Jon navigates a difficult relationship with Stannis — respecting his determination and justice while disagreeing with his burning of Mance and his treatment of wildlings.
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-jon-i
+        notes: 'Jon I POV: ''My father always said you were a just man. Just but harsh had been Lord Eddard''s exact words, but Jon did not think it would be wise to share that.'' Establishes Ned Stark''s assessment of Stannis and Jon''s cautious diplomacy.'

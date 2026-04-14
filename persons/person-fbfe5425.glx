@@ -1,0 +1,16 @@
+persons:
+    person-dolorous-edd:
+        properties:
+            alias:
+                - value: Dolorous Edd
+                - value: Edd Tollett
+            culture: Valemen
+            gender: male
+            house: Tollett
+            name:
+                fields:
+                    given: Eddison
+                    surname: Tollett
+                    type: birth
+                value: Eddison Tollett
+        notes: Squire from a lesser branch of House Tollett in the Vale. Steward of the Night's Watch, recruited by Yoren. Known for his dry, pessimistic humor — beloved by his brothers. Served as personal steward to Lord Commander Jon Snow at Castle Black. Survived the great ranging, the Fist of the First Men, and the march to Craster's Keep.

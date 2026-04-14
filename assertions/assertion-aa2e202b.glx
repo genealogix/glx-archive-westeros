@@ -1,0 +1,11 @@
+assertions:
+    assertion-aerys-targaryen-ii-died-on:
+        subject:
+            event: event-death-aerys-targaryen-ii
+        property: date
+        value: "283"
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, Targaryen succession list: 262-283 A erys II'

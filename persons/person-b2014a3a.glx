@@ -1,0 +1,12 @@
+persons:
+    person-sylva-santagar-spotted-sylva:
+        properties:
+            external_ids:
+                - MH:I479
+            gender: female
+            name:
+                fields:
+                    given: Sylva
+                    nickname: Spotted Sylva
+                    surname: Santagar
+                value: Sylva Santagar

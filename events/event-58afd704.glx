@@ -1,0 +1,9 @@
+events:
+    event-birth-arya-stark:
+        title: Birth of Arya Stark
+        type: birth
+        place: place-winterfell
+        date: "289"
+        participants:
+            - person: person-arya-stark
+              role: principal

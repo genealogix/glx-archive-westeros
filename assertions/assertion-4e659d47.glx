@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-arryn-gender:
+        subject:
+            person: person-jon-arryn
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Arryn section. Listed as Lord, Warden, and Hand of the King.

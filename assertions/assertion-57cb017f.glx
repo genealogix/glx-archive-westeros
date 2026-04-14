@@ -1,0 +1,12 @@
+assertions:
+    assertion-jeyne-rivers-name:
+        subject:
+            person: person-jeyne-rivers
+        property: name
+        value: Jeyne Rivers
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,10 @@
+events:
+    event-death-rhaella-targaryen:
+        title: Death of Rhaella Targaryen
+        type: death
+        date: "BEF 300"
+        participants:
+            - person: person-rhaella-targaryen
+              role: principal
+        properties:
+            cause: Maternal Death

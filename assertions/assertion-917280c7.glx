@@ -1,0 +1,11 @@
+assertions:
+    assertion-reznak-seneschal-adwd:
+        subject:
+            person: person-reznak-mo-reznak
+        property: name
+        value: Reznak mo Reznak
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''REZNAK MO REZNAK, her seneschal, bald and unctuous'''

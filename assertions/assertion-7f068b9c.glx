@@ -1,0 +1,11 @@
+assertions:
+    assertion-hoster-tully-title:
+        subject:
+            person: person-hoster-tully
+        property: title
+        value: Lord of Riverrun
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: 'ASOS appendix, House Tully section. Source text: ''HOSTER TULLY, Lord of Riverrun''. Still listed as Lord at the time of the ASOS appendix.'

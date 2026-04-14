@@ -1,0 +1,10 @@
+persons:
+    person-arryn-341:
+        properties:
+            external_ids:
+                - MH:I341
+            gender: female
+            name:
+                fields:
+                    surname: Arryn
+                value: Arryn

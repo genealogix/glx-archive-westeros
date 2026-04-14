@@ -1,0 +1,12 @@
+persons:
+    person-tom-sevenstrings:
+        properties:
+            alias:
+                - value: Tom Sevenstrings
+                - value: Tom o' Sevens
+            gender: male
+            name:
+                fields:
+                    given: Tom
+                value: Tom of Sevenstreams
+        notes: A singer and member of the Brotherhood Without Banners. Plays a woodharp. Known for his many illegitimate children (past seven by his own admission). An old friend and rumored former lover of Lady Smallwood of Acorn Hall. First appears with Arya in ASOS Arya IV.

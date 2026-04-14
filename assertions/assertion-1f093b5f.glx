@@ -1,0 +1,12 @@
+assertions:
+    assertion-olyvar-frey-name:
+        subject:
+            person: person-olyvar-frey
+        property: name
+        value: Olyvar Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists him as squire to Robb Stark; AFFC as formerly. Source text: OLYVAR, Lord Walder''s eighteenth son, formerly a squire to Robb Stark'

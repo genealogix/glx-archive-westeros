@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-343-name:
+        subject:
+            person: person-targaryen-343
+        property: name
+        value: Targaryen
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM as unnamed male Targaryen. Child of Viserys I and an Arryn per relationship data. Cannot match to a specific named child from TWOIAF.

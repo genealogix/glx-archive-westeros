@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-death-red-wedding-appendix:
+        subject:
+            event: event-death-catelyn-tully
+        property: cause
+        value: Murdered at the Red Wedding
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Catelyn Stark was murdered at the Twins during the Red Wedding. Her throat was cut. Confirmed dead in AFFC/ADWD appendix.

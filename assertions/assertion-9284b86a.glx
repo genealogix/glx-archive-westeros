@@ -1,0 +1,12 @@
+assertions:
+    assertion-selyse-florent-name:
+        subject:
+            person: person-selyse-florent
+        property: name
+        value: Selyse Florent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-acok-appendix
+        notes: 'Verified against AGOT Appendix (House Baratheon: ''his wife, LADY SELYSE of House Florent'') and ACOK Appendix (House Florent: ''Ser Ryam''s daughter, QUEEN SELYSE, wed to King Stannis''). Source text: Ser Ryam''s daughter, QUEEN SELYSE, wed to King Stannis'

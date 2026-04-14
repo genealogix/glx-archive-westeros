@@ -1,0 +1,12 @@
+assertions:
+    assertion-walder-frey-name:
+        subject:
+            person: person-walder-frey
+        property: name
+        value: Walder Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: WALDER FREY, Lord of the Crossing'

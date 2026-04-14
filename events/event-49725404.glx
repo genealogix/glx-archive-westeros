@@ -1,0 +1,14 @@
+events:
+    event-death-cressen:
+        title: Death of Cressen
+        type: death
+        place: place-dragonstone
+        date: "299"
+        participants:
+            - person: person-cressen
+              role: subject
+            - person: person-melisandre
+              role: survivor
+        properties:
+            cause: Poison (self-administered)
+            description: Maester Cressen, old and frail, slipped poison into a shared wine cup at the feast on Dragonstone and drank from it himself after offering it to Melisandre, intending to poison her and free Stannis from her influence. Melisandre drank and survived unharmed, protected by her ruby and the power of R'hllor. Cressen died of the poison he had prepared. Davos Seaworth witnessed the act and understood what had happened.

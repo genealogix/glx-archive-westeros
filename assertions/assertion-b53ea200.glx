@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaqen-kills-tickler:
+        subject:
+            person: person-tickler
+        property: cause_of_death
+        value: Killed by Jaqen H'ghar (second of Arya's three deaths)
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-arya-vii
+        notes: The Tickler, Ser Gregor Clegane's torturer at Harrenhal, is the second of Jaqen's three deaths named by Arya.

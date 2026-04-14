@@ -1,0 +1,12 @@
+assertions:
+    assertion-roslin-frey-name:
+        subject:
+            person: person-roslin-frey
+        property: name
+        value: Roslin Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists her as a maid of sixteen; AFFC notes her marriage to Edmure Tully. Source text: ROSLIN, sixteen, m. Lord Edmure Tully at the Red Wedding'

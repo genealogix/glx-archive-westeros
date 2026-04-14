@@ -1,0 +1,9 @@
+relationships:
+    rel-pc-balon-greyjoy-rodrik:
+        type: parent_child
+        participants:
+            - person: person-balon-greyjoy
+              role: parent
+            - person: person-rodrik-greyjoy
+              role: child
+        notes: Rodrik Greyjoy, eldest son of Balon, slain during Balon's first rebellion. AFFC appendix.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-death-red-wedding-appendix:
+        subject:
+            event: event-death-robb-stark
+        property: cause
+        value: Murdered at the Red Wedding
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: 'Robb Stark was murdered at the Twins during the Red Wedding. Confirmed dead in AFFC/ADWD appendix: ''{ROBB STARK}, King in the North, King of the Trident, Lord of Winterfell, called THE YOUNG WOLF, murdered at the Red Wedding''.'

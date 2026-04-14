@@ -1,0 +1,12 @@
+assertions:
+    assertion-daenerys-buys-unsullied:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: description
+        value: Daenerys trades her dragon Drogon and her ships for 8,000 Unsullied soldiers at Astapor
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-ii
+            - citation-asos-daenerys-iii
+        notes: 'Daenerys feigns ignorance of Valyrian while Kraznys mo Nakloz insults her in ASOS Daenerys II. In Daenerys III she executes her plan: offers Drogon as payment for all 8,000 Unsullied. Kraznys accepts. The trade is then immediately reversed when Daenerys reveals her Valyrian fluency and orders Drogon to burn him.'

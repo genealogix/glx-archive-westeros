@@ -1,0 +1,7 @@
+events:
+    event-birth-darlessa-marbrand:
+        title: Birth of Darlessa Marbrand
+        type: birth
+        participants:
+            - person: person-darlessa-marbrand
+              role: principal

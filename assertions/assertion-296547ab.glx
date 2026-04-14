@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-347-gender:
+        subject:
+            person: person-targaryen-347
+        property: gender
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Unnamed son of Viserys I by Alicent Hightower.

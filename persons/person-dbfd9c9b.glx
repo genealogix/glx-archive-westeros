@@ -1,0 +1,16 @@
+persons:
+    person-robert-arryn:
+        properties:
+            external_ids:
+                - MH:I227
+            gender: male
+            house: Arryn
+            name:
+                fields:
+                    given: Robert
+                    surname: Arryn
+                value: Robert Arryn
+            title:
+                - value: Lord of the Eyrie
+                - value: Defender of the Vale
+        notes: A sickly boy of six years at the time of AGOT. Son of Jon Arryn and Lysa Tully.

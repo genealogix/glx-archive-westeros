@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-301-name:
+        subject:
+            person: person-targaryen-301
+        property: name
+        value: Targaryen
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM as unnamed male Targaryen. Child of Valarr Targaryen per relationship data. TWOIAF mentions Valarr died in the Great Spring Sickness but does not name his children. Cannot verify from source text.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-brienne-mission-catelyn:
+        subject:
+            person: person-brienne-tarth
+        property: description
+        value: Catelyn Stark commanded Brienne to deliver Jaime to King's Landing in exchange for Sansa and Arya; Brienne swore it on her sword
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jaime-i
+        notes: 'Text: ''It is Lady Catelyn I serve. And she commanded me to deliver you safe to your brother Tyrion at King''s Landing, not to bandy words with you.'' Catelyn''s terms as Jaime recalls: ''Swear that you will never again take up arms against Stark nor Tully. Swear that you will compel your brother to honor his pledge to return my daughters safe and unharmed.'''

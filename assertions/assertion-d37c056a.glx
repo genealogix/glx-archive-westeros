@@ -1,0 +1,11 @@
+assertions:
+    assertion-varys-title:
+        subject:
+            person: person-varys
+        property: title
+        value: Master of Whisperers
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section. Source text: master of whisperers'

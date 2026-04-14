@@ -1,0 +1,26 @@
+persons:
+    person-theon-greyjoy:
+        properties:
+            alias:
+                - value: Theon Turncloak
+                - value: Prince of Winterfell
+                - value: Reek
+                - value: Prince of Fools
+                - value: The Squid Prince
+                - value: Theon Kinslayer
+                - value: The Prince of Stink
+            culture: Ironmen
+            gender: male
+            house: Greyjoy
+            name:
+                fields:
+                    given: Theon
+                    surname: Greyjoy
+                value: Theon Greyjoy
+            religion: Drowned God
+            title:
+                - date: FROM 299
+                  value: Captain of the Sea Bitch
+                - date: FROM 299 TO 299
+                  value: Prince of Winterfell
+        notes: 'Last surviving son of King Balon Greyjoy and Lady Alannys Harlaw. Ward of Ned Stark at Winterfell for nine years (289-299 AC) after the Greyjoy Rebellion. Betrayed the Starks by seizing Winterfell. Broken by Ramsay Bolton''s prolonged torture — missing fingers, toes, broken teeth, white hair, gaunt and aged beyond his years. Given the identity ''Reek.'' Forced to give away the false Arya Stark (Jeyne Poole) at her wedding to Ramsay. Escaped Winterfell by jumping from the battlements with Jeyne. His last prayer at the heart tree: ''Let me die as Theon, not as Reek.'''

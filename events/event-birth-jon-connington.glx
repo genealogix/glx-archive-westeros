@@ -1,9 +1,0 @@
-events:
-    event-birth-jon-connington:
-        title: "Birth of Jon Connington"
-        type: birth
-        date: "ABT 260"
-        participants:
-            - person: person-jon-connington
-              role: principal
-        notes: "Lord of Griffin's Roost in the Stormlands."

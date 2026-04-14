@@ -1,0 +1,11 @@
+assertions:
+    assertion-aeron-greyjoy-drowned-and-reborn:
+        subject:
+            person: person-aeron-greyjoy
+        property: description
+        value: Was once a jovial man fond of ale and songs; went down in a storm, nearly drowned, and emerged as a devout priest of the Drowned God called Damphair
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-theon-i
+        notes: 'Source text (Theon I): Theon reflects that ''In one of his rare curt letters, Lord Balon had written of his youngest brother going down in a storm, and turning holy when he washed up safe on shore.'' Aeron tells Theon: ''Young I was, and vain, but the sea washed my follies and my vanities away. That man drowned, nephew. His lungs filled with seawater, and the fish ate the scales off his eyes. When I rose again, I saw clearly.'''

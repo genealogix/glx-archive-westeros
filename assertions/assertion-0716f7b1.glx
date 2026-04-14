@@ -1,0 +1,11 @@
+assertions:
+    assertion-tower-of-joy-gerold-hightower:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-gerold-hightower-the-white-bull
+            role: combatant
+            notes: 'The White Bull, Lord Commander of the Kingsguard. Died at the Tower of Joy. Source text: ''between them stood fierce old Ser Gerold Hightower, the White Bull, Lord Commander of the Kingsguard.'''
+        confidence: high
+        citations:
+            - citation-agot-eddard-x

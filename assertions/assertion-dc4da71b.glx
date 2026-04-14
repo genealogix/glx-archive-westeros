@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-cersei-incest-bran-ii:
+        subject:
+            relationship: rel-secret-lover-jaime-cersei
+        property: status
+        value: confirmed by witness
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-ii
+        notes: 'Source text: ''The man had a hand down between her legs... Her hands buried themselves in his hair, his tangled golden hair... Bran saw her face. Her eyes were closed and her mouth was open, moaning. Her golden hair swung from side to side as her head moved back and forth, but still he recognized the queen.'' And: ''They looked as much alike as reflections in a mirror'' — confirming the man was Jaime. POV is Bran, aged 7.'

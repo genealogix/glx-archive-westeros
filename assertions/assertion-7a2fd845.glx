@@ -1,0 +1,11 @@
+assertions:
+    assertion-aenar-targaryen-doom-exodus:
+        subject:
+            person: person-aenar-targaryen
+        property: role
+        value: Fled Valyria twelve years before the Doom on his daughter's prophetic advice
+        confidence: high
+        status: proven
+        citations:
+            - citation-twoiaf-doom-valyria
+        notes: 'The account from TWOIAF is unambiguous: Aenar Targaryen sold his holdings and moved to Dragonstone 12 years before the Doom (114 BC) because his daughter Daenys the Dreamer foresaw the cataclysm. The result — the Targaryens being the only surviving dragonlord house — is the well-established foundation of the dynasty.'

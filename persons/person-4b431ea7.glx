@@ -1,0 +1,12 @@
+persons:
+    person-walda-frey-fat-walda:
+        properties:
+            external_ids:
+                - MH:I89
+            gender: female
+            name:
+                fields:
+                    given: Walda
+                    nickname: Fat Walda
+                    surname: Frey
+                value: Walda Frey

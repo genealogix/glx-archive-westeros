@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-stark-false-confession:
+        subject:
+            event: event-execution-ned-stark
+        property: description
+        value: Ned's confession of treason was false — given in exchange for Joffrey's implied promise of mercy (the black). Joffrey broke that promise.
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-arya-v
+        notes: 'Ned confessed publicly: ''I am Eddard Stark ... and I come before you to confess my treason.'' He also proclaimed Joffrey the true king. This was a false confession made to protect his daughters (Sansa was held hostage) and in hope of being sent to the Wall rather than executed. Joffrey then ordered his execution anyway, overruling Cersei and Varys who both moved to stop it.'

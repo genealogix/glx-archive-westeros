@@ -1,0 +1,11 @@
+assertions:
+    assertion-alliser-thorne-title:
+        subject:
+            person: person-alliser-thorne
+        property: title
+        value: Master-at-arms at Castle Black
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: Served as master-at-arms at Castle Black, training Night's Watch recruits. Listed in ADWD Appendix.

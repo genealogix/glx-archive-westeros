@@ -1,0 +1,11 @@
+assertions:
+    assertion-gunthor-hightower-gender:
+        subject:
+            person: person-gunthor-hightower
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Source text: Lord Leyton''s son, SER GUNTHOR'

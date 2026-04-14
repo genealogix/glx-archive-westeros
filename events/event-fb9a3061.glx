@@ -1,0 +1,7 @@
+events:
+    event-birth-stevron-frey:
+        title: Birth of Stevron Frey
+        type: birth
+        participants:
+            - person: person-stevron-frey
+              role: principal

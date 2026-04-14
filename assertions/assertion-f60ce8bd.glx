@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-snow-998th-lord-commander:
+        subject:
+            person: person-jon-snow
+        property: title
+        value: 998th Lord Commander of the Night's Watch
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jon-lord-commander
+        notes: 'Elected by vote of the assembled black brothers. Text: ''Pyp said, "We''re not the ones who got chosen as the nine-hundred-and-ninety-eighth Lord Commander of the Night''s Watch."'' Sam engineered the outcome by persuading Cotter Pyke and Ser Denys Mallister to withdraw, using the (false) threat that Stannis would impose his choice. Dolorous Edd Tollett formally nominated Jon. Mormont''s raven flying to Jon''s shoulder calling ''Snow'' was the turning point.'

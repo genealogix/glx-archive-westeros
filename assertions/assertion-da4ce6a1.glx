@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-quote-cripples-bastards:
+        subject:
+            person: person-tyrion-lannister
+        property: description
+        value: Has 'a tender spot in my heart for cripples and bastards and broken things'
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-bran-iv
+        notes: 'Source text: ''Your brother Jon asked it of me. And I have a tender spot in my heart for cripples and bastards and broken things.'' Tyrion Lannister, speaking to Robb Stark about why he would help Bran. This is a defining self-description revealing Tyrion''s empathy for outcasts — as a dwarf he identifies with those society marginalizes.'

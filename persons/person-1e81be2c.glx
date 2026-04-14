@@ -1,0 +1,9 @@
+persons:
+    person-harwin:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Harwin
+                value: Harwin
+        notes: A member of the Brotherhood Without Banners. Was formerly a horse master at Winterfell under Eddard Stark, and knew Arya as a child there — he recognizes her. He serves as a grounding point for Arya's experience with the Brotherhood. First appears ASOS Arya IV.

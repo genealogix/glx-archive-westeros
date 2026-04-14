@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-349-gender:
+        subject:
+            person: person-targaryen-349
+        property: gender
+        value: unknown
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM with unknown gender. Likely Princess Alyssa Targaryen, daughter of Jaehaerys I.

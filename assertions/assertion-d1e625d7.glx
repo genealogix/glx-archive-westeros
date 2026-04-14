@@ -1,0 +1,12 @@
+assertions:
+    assertion-brandon-stark-bran-name:
+        subject:
+            person: person-brandon-stark-bran
+        property: name
+        value: Brandon 'Bran' Stark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to ''BRANDON, called BRAN, a crippled boy of nine, heir to Winterfell, believed dead''. Source text: BRANDON, called Bran, seven'

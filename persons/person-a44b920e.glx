@@ -1,0 +1,11 @@
+persons:
+    person-alyn-haigh:
+        properties:
+            external_ids:
+                - MH:I47
+            gender: male
+            name:
+                fields:
+                    given: Alyn
+                    surname: Haigh
+                value: Alyn Haigh

@@ -1,0 +1,7 @@
+events:
+    event-birth-quentyn-martell:
+        title: Birth of Quentyn Martell
+        type: birth
+        participants:
+            - person: person-quentyn-martell
+              role: principal

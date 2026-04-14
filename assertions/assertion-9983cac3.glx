@@ -1,0 +1,11 @@
+assertions:
+    assertion-sansa-stark-title-princess:
+        subject:
+            person: person-sansa-stark
+        property: title
+        value: Princess
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: 'ASOS appendix, King in the North section. Source text: ''his sister, PRINCESS SANSA, a maid of twelve, a captive in King''s Landing''. Titled Princess as daughter of King Robb.'

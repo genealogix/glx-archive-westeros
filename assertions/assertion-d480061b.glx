@@ -1,0 +1,11 @@
+assertions:
+    assertion-lyanna-stark-name:
+        subject:
+            person: person-lyanna-stark
+        property: name
+        value: Lyanna Stark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Stark section. Eddard''s younger sister, deceased (indicated by braces). Source text: {LYANNA}, his younger sister, died in the mountains of Dorne'

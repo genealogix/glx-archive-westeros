@@ -1,0 +1,12 @@
+assertions:
+    assertion-stannis-baratheon-name:
+        subject:
+            person: person-stannis-baratheon
+        property: name
+        value: Stannis Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-acok-appendix
+        notes: 'Verified against AGOT Appendix, House Baratheon section. ACOK appendix adds: secondborn son of Lord Steffon Baratheon and Lady Cassana of House Estermont. Source text: STA NNIS BA RA THEON, Lord of Dragonstone'

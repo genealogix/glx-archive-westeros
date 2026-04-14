@@ -1,0 +1,11 @@
+persons:
+    person-tregar-ormollen:
+        properties:
+            external_ids:
+                - MH:I424
+            gender: male
+            name:
+                fields:
+                    given: Tregar
+                    surname: Ormollen
+                value: Tregar Ormollen

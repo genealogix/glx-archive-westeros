@@ -1,0 +1,7 @@
+events:
+    event-ada0b369:
+        type: death
+        date: "BEF 300"
+        participants:
+            - person: person-gerion-lannister
+              role: principal

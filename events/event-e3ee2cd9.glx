@@ -1,0 +1,10 @@
+events:
+    event-death-joanna-lannister:
+        title: Death of Joanna Lannister
+        type: death
+        date: "BEF 300"
+        participants:
+            - person: person-joanna-lannister
+              role: principal
+        properties:
+            cause: Maternal Death

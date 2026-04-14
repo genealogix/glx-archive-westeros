@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-dracarys-astapor:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: description
+        value: Daenerys commands 'Dracarys' — Drogon burns Kraznys mo Nakloz and the Unsullied sack Astapor, ending slavery there
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-iii
+        notes: 'Direct quote: ''There is a reason. A dragon is no slave.'' Then: ''Drogon,'' she sang out loudly, sweetly, all her fear forgotten. ''Dracarys.'' Drogon burns Kraznys alive. The Unsullied, now commanded by Daenerys, kill the Good Masters and strike the chains off every slave. Daenerys declares them free.'

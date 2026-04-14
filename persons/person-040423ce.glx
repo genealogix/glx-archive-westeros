@@ -1,0 +1,12 @@
+persons:
+    person-jon-waters:
+        properties:
+            external_ids:
+                - MH:I337
+            gender: male
+            name:
+                fields:
+                    given: Jon
+                    prefix: Ser
+                    surname: Waters
+                value: Ser Jon Waters

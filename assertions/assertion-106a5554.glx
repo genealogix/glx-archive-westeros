@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-born-264:
+        subject:
+            event: event-birth-stannis-baratheon
+        property: date
+        value: "264"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-stannis-baratheon
+        notes: Born 264 AC at Storm's End.

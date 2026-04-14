@@ -1,0 +1,11 @@
+assertions:
+    assertion-young-griff-identity-adwd:
+        subject:
+            person: person-young-griff
+        property: name
+        value: Young Griff
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''YOUNG GRIFF, a blue-haired lad of eighteen years'' — listed among the queen''s suitors on the Rhoyne. His foster father is Griff (Jon Connington).'

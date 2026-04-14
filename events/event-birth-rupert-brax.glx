@@ -1,7 +1,0 @@
-events:
-    event-birth-rupert-brax:
-        title: "Birth of Rupert Brax"
-        type: birth
-        participants:
-            - person: person-rupert-brax
-              role: principal

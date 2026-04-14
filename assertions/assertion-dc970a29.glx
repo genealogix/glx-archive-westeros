@@ -1,0 +1,12 @@
+assertions:
+    assertion-jammos-frey-name:
+        subject:
+            person: person-jammos-frey
+        property: name
+        value: Jammos Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER JAMMOS, Lord Walder''s thirteenth son, m. Sallei Paege'

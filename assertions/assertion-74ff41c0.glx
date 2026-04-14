@@ -1,0 +1,11 @@
+assertions:
+    assertion-eddard-stark-alias:
+        subject:
+            person: person-eddard-stark
+        property: alias
+        value: Ned
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section. Commonly called Ned throughout the novels.

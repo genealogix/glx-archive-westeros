@@ -1,0 +1,11 @@
+assertions:
+    assertion-rickon-born-295:
+        subject:
+            event: event-birth-rickon-stark
+        property: date
+        value: "295"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-bran-stark
+        notes: Born approximately 295 AC at Winterfell.

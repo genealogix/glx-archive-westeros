@@ -1,0 +1,11 @@
+assertions:
+    assertion-humfrey-hightower-name:
+        subject:
+            person: person-humfrey-hightower
+        property: name
+        value: Humfrey Hightower
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Leyton''s youngest son. Source text: Lord Leyton''s youngest son, SER HUMFREY'

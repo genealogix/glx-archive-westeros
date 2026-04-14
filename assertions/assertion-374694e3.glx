@@ -1,0 +1,11 @@
+assertions:
+    assertion-erren-florent-gender:
+        subject:
+            person: person-erren-florent
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix, House Florent section. Listed as Ser.

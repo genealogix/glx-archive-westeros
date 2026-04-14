@@ -1,0 +1,11 @@
+assertions:
+    assertion-aemon-targaryen-name:
+        subject:
+            person: person-aemon-targaryen
+        property: name
+        value: Maester Aemon Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section (Maekar I). Son of Maekar I, chose the Citadel over the throne. Later served at the Wall. Source text: Maekar''s third son, Aemon, was a bookish boy who had been sent to the Citadel in his youth and emerged as a sworn and chained maester.'

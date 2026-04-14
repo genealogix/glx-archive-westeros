@@ -1,0 +1,11 @@
+persons:
+    person-alyn-velaryon:
+        properties:
+            external_ids:
+                - MH:I333
+            gender: male
+            name:
+                fields:
+                    given: Alyn
+                    surname: Velaryon
+                value: Alyn Velaryon

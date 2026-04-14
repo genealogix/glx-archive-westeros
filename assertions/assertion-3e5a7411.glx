@@ -1,0 +1,11 @@
+assertions:
+    assertion-podrick-payne-name-acok:
+        subject:
+            person: person-podrick-payne
+        property: name
+        value: Podrick Payne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King on the Iron Throne section. Source text: ''Tyrion''s squire, PODRICK PAYNE.'''

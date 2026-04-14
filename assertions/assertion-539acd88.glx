@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-baratheon-house:
+        subject:
+            person: person-renly-baratheon
+        property: house
+        value: Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon section.

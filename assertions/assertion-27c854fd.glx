@@ -1,0 +1,11 @@
+assertions:
+    assertion-brandon-stark-213-gender:
+        subject:
+            person: person-brandon-stark-213
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Stark section. Listed as 'his elder brother'.

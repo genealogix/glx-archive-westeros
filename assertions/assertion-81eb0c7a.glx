@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-is-aerys-son:
+        subject:
+            person: person-tyrion-lannister
+        property: parent
+        value: person-aerys-targaryen-ii
+        confidence: low
+        status: speculative
+        citations:
+            - citation-twoiaf-aerys-joanna
+        notes: 'The ''Tyrion Targaryen'' theory proposes that Tyrion Lannister is the biological son of King Aerys II Targaryen and Joanna Lannister, not of Tywin. Supporting evidence: (1) TWOIAF records that Aerys took ''unwonted liberties'' with Joanna at her wedding bedding ceremony and had a known fixation on her; (2) Tywin''s dying words to Tyrion — ''You... you are no... no son of mine'' — could be literal rather than figurative; (3) Tyrion has mismatched eyes (one black, one green) and pale blond hair ''so light it seemed white,'' which could suggest mixed Targaryen-Lannister heritage; (4) Tyrion dreams of dragons in ADWD; (5) Tyrion is fascinated by dragons and dragonlore from childhood. Counter-evidence: (1) The wedding bedding was in 263 AC, and Tyrion was born in 273 AC — a full decade later; (2) Joanna left court and returned to Casterly Rock, though she visited King''s Landing at least once more (for the Anniversary Tourney of 272 AC, nine months before Tyrion''s birth); (3) making Tyrion a secret Targaryen undermines the thematic power of the Tywin-Tyrion relationship — Tyrion being Tywin''s truest son despite Tywin''s hatred; (4) GRRM has not commented on this theory. Confidence: low. A divisive theory in the fandom; many readers consider it thematically destructive even if textually possible.'

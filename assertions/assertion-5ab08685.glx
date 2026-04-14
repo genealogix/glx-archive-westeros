@@ -1,0 +1,12 @@
+assertions:
+    assertion-dickon-tarly-name:
+        subject:
+            person: person-dickon-tarly
+        property: name
+        value: Dickon Tarly
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section (under Tarly). AFFC Appendix: ''DICKON, his son and heir, a young squire''. ADWD notes ''Dickon Tarly of Horn Hill'' married to Eleanor Mooton. Source text: DICKON, his younger son, heir to Horn Hill'

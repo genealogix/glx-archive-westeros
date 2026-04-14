@@ -1,0 +1,11 @@
+assertions:
+    assertion-luthor-tyrell-380-name:
+        subject:
+            person: person-luthor-tyrell-380
+        property: name
+        value: Luthor Tyrell
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Mace's father, married to Lady Olenna Redwyne. Not explicitly named in novel appendices (Mace is listed as head of house). TWOIAF or wiki sources needed for verification.

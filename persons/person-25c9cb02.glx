@@ -1,0 +1,21 @@
+persons:
+    person-tommen-baratheon:
+        properties:
+            external_ids:
+                - MH:I170
+            gender: male
+            house: Baratheon
+            name:
+                fields:
+                    given: Tommen
+                    surname: Baratheon
+                value: Tommen Baratheon
+            religion: Faith of the Seven
+            title:
+                - date: FROM 291 TO 300
+                  value: Prince
+                - date: FROM 300
+                  value: King of the Andals, the Rhoynar, and the First Men
+                - date: FROM 300
+                  value: Lord of the Seven Kingdoms
+        notes: Officially the younger son of King Robert I and Queen Cersei. Actually the product of Jaime and Cersei's incest. A sweet, gentle, plump boy — the opposite of Joffrey. Loves his kittens (Ser Pounce, Lady Whiskers, Boots). Crowned king after Joffrey's death. Married Margaery Tyrell. His mother Cersei serves as Queen Regent. Easily manipulated by those around him — the High Sparrow, Margaery, and his own mother all vie for his loyalty.

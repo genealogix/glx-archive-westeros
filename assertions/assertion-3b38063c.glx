@@ -1,0 +1,11 @@
+assertions:
+    assertion-oberyn-died-300:
+        subject:
+            event: event-death-oberyn-martell-the-red-viper
+        property: date
+        value: "300"
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-appendix
+        notes: Died during trial by combat against Gregor Clegane.

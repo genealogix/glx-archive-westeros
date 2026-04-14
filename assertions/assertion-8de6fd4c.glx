@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-frey-40-gender:
+        subject:
+            person: person-robert-frey-40
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Rhaegar''s son, ROBERT, a boy of thirteen'

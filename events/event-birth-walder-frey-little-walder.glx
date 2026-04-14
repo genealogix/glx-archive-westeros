@@ -1,7 +1,0 @@
-events:
-    event-birth-walder-frey-little-walder:
-        title: "Birth of Walder Frey"
-        type: birth
-        participants:
-            - person: person-walder-frey-little-walder
-              role: principal

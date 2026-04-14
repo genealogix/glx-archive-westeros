@@ -1,0 +1,12 @@
+assertions:
+    assertion-shirei-frey-gender:
+        subject:
+            person: person-shirei-frey
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: SHIREI, a girl of six'

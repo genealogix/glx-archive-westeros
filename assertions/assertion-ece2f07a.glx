@@ -1,0 +1,11 @@
+assertions:
+    assertion-minisa-whent-name:
+        subject:
+            person: person-minisa-whent
+        property: name
+        value: Minisa Whent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tully section. Hoster Tully''s wife, deceased (indicated by braces). Source text: his wife, {LADY MINISA, of House Whent}, died in childbed'

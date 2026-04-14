@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-arryn-house:
+        subject:
+            person: person-robert-arryn
+        property: house
+        value: Arryn
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Arryn section.

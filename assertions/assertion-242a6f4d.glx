@@ -1,0 +1,11 @@
+assertions:
+    assertion-alys-arryn-name:
+        subject:
+            person: person-alys-arryn
+        property: name
+        value: Alys Arryn
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Alys Arryn is a historical figure. May appear only in TWOIAF or supplementary sources.

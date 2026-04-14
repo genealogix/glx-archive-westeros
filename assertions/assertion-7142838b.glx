@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-baratheon-death:
+        subject:
+            event: event-death-joffrey-baratheon
+        property: date
+        value: "300"
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Joffrey died at his wedding feast to Margaery Tyrell, poisoned by the Strangler. Occurs during the events of ASOS. Confirmed in AFFC appendix as dead.

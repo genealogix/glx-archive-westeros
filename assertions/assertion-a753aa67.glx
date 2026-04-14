@@ -1,0 +1,11 @@
+assertions:
+    assertion-valarr-targaryen-gender:
+        subject:
+            person: person-valarr-targaryen
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: the young princes Valarr and Matarys'

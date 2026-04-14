@@ -1,0 +1,7 @@
+events:
+    event-birth-jeyne-royce:
+        title: Birth of Jeyne Royce
+        type: birth
+        participants:
+            - person: person-jeyne-royce
+              role: principal

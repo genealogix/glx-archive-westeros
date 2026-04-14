@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-umber-greatjon-alias:
+        subject:
+            person: person-jon-umber-greatjon
+        property: alias
+        value: The Greatjon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Stark section. Source text: JON UMBER, called the Greatjon'

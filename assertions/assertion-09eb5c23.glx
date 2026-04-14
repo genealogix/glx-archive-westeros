@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaella-targaryen-title:
+        subject:
+            person: person-rhaella-targaryen
+        property: title
+        value: Queen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Targaryen section.

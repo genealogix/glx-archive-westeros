@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaegar-targaryen-title:
+        subject:
+            person: person-rhaegar-targaryen
+        property: title
+        value: Prince
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Targaryen section.

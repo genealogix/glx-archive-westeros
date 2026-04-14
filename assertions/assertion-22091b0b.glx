@@ -1,0 +1,11 @@
+assertions:
+    assertion-aerys-targaryen-name:
+        subject:
+            person: person-aerys-targaryen
+        property: name
+        value: Aerys Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Brother of Maegon, early Lord of Dragonstone. Father of Aelyx, Baelon, and Daemion. Source text: After them the lordship passed to their son Maegon, his brother Aerys, and Aerys''s sons, Aelyx, Baelon, and Daemion.'

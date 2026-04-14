@@ -1,0 +1,11 @@
+assertions:
+    assertion-donal-noye-died:
+        subject:
+            event: event-a4a33277
+        property: date
+        value: "300"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-donal-noye
+        notes: Died 300 AC at Castle Black defending the gate tunnel against Mag the Mighty, a giant, during the wildling assault on the Wall. Found dead with his arm around the giant's neck and his dirk in the giant's throat.

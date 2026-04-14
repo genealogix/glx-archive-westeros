@@ -1,0 +1,11 @@
+assertions:
+    assertion-tywin-lannister-title-agot:
+        subject:
+            person: person-tywin-lannister
+        property: title
+        value: Lord of Casterly Rock, Warden of the West, Shield of Lannisport
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Lannister section. Source text: TYWIN LA NNISTER, Lord of Casterly Rock, Warden of the West, Shield of Lannisport'

@@ -1,0 +1,7 @@
+events:
+    event-0571eebd:
+        type: birth
+        place: place-lys
+        participants:
+            - person: person-varys
+              role: principal

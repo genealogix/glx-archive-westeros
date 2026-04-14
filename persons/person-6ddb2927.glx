@@ -1,0 +1,11 @@
+persons:
+    person-androw-frey:
+        properties:
+            external_ids:
+                - MH:I73
+            gender: male
+            name:
+                fields:
+                    given: Androw
+                    surname: Frey
+                value: Androw Frey

@@ -1,0 +1,11 @@
+assertions:
+    assertion-shireen-age-acok:
+        subject:
+            event: event-birth-shireen-baratheon
+        property: date
+        value: ABT 289
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue): ''She would be ten on her next name day.'' ACOK set in 299 AC, so Shireen born approximately 289 AC. She had greyscale that ''had almost claimed her in the crib.'''

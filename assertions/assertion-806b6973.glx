@@ -1,0 +1,11 @@
+assertions:
+    assertion-garrett-flowers-gender:
+        subject:
+            person: person-garrett-flowers
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: his bastard sons, GARSE and GARRETT FLOWERS'

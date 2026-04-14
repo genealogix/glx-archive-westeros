@@ -1,9 +1,0 @@
-events:
-    event-marriage-theodore-tyrell-and-lia-serry:
-        title: "Marriage of Ser Theodore Tyrell and Lia Serry"
-        type: marriage
-        participants:
-            - person: person-theodore-tyrell
-              role: subject
-            - person: person-lia-serry
-              role: subject

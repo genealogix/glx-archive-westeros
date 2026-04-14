@@ -1,0 +1,11 @@
+assertions:
+    assertion-salladhor-saan-name-acok-2:
+        subject:
+            person: person-salladhor-saan
+        property: name
+        value: Salladhor Saan
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the Narrow Sea section. Source text: ''SALLADHOR SAAN, of the Free City of Lys, styled Prince of the Narrow Sea.'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-age-daenerys-i:
+        subject:
+            event: event-birth-daenerys-targaryen-206
+        property: date
+        value: ABT 284
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-i
+        notes: 'Source text (Daenerys I): ''Dany was thirteen, old enough to know that such gifts seldom come without their price, here in the free city of Pentos.'' AGOT is set in 298 AC, making her born approximately 284-285 AC. Her mother died birthing her after fleeing to Dragonstone.'

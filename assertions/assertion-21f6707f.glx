@@ -1,0 +1,12 @@
+assertions:
+    assertion-aegor-rivers-bittersteel-name:
+        subject:
+            person: person-aegor-rivers-bittersteel
+        property: name
+        value: Aegor 'Bittersteel' Rivers
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-dragonstone-seat:
+        subject:
+            person: person-stannis-baratheon
+        property: title
+        value: Lord of Dragonstone
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue): ''Stannis Baratheon, Lord of Dragonstone and by the grace of the gods rightful heir to the Iron Throne.'' Stannis resents having been given Dragonstone by Robert instead of Storm''s End: ''I never asked for Dragonstone. I never wanted it... he gives Storm''s End and its incomes to Renly.'''

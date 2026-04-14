@@ -1,0 +1,11 @@
+assertions:
+    assertion-chett-origin:
+        subject:
+            event: event-8c73ad4e
+        property: place
+        value: Hag's Mire
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-prologue
+        notes: 'Text: ''He had no trade to speak of, growing up in Hag''s Mire. His father had spent his life grubbing in other men''s fields and collecting leeches.'''

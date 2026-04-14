@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-cruelty-mycah:
+        subject:
+            person: person-joffrey-baratheon
+        property: description
+        value: Deliberate cruelty to smallfolk
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-sansa-i
+        notes: 'Source text: ''You''re only a butcher''s boy, and no knight. Joffrey lifted Lion''s Tooth and laid its point on Mycah''s cheek below the eye, as the butcher''s boy stood trembling... A bright bud of blood blossomed where his sword pressed into Mycah''s flesh, and a slow red line trickled down the boy''s cheek.'' Joffrey deliberately drew blood from an unarmed child. Later lied to King Robert about what happened (''You and the butcher boy beat him with clubs while you set your wolf on him''). After the hearing, ''Joffrey was smiling'' at the prospect of Lady being killed. POV: Sansa, direct witness. High confidence — multiple corroborating observers.'

@@ -1,0 +1,9 @@
+events:
+    event-birth-sansa-stark:
+        title: Birth of Sansa Stark
+        type: birth
+        place: place-winterfell
+        date: "286"
+        participants:
+            - person: person-sansa-stark
+              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-qhorin-halfhand-name-acok:
+        subject:
+            person: person-qhorin-halfhand
+        property: name
+        value: Qhorin Halfhand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, Night''s Watch (Shadow Tower). Source text: ''QHORIN called HALFHAND, a senior ranger.'''

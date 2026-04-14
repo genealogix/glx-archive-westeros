@@ -1,0 +1,12 @@
+assertions:
+    assertion-jon-wylde-name:
+        subject:
+            person: person-jon-wylde
+        property: name
+        value: Jon Wylde
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,12 @@
+assertions:
+    assertion-lyanna-stark-death:
+        subject:
+            person: person-lyanna-stark
+        property: cause_of_death
+        value: Fever/unknown; died at the Tower of Joy, Dorne
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-ii
+            - citation-agot-eddard-i
+        notes: 'Source text (Eddard II): ''I was with her when she died,'' Ned reminded the king. ''She wanted to come home, to rest beside Brandon and Father.'' Source text (Eddard I — Ned''s fever dream): ''Promise me, Ned,'' she had cried, in a room that smelled of blood and roses... The fever had taken her strength and her voice had been faint as a whisper.'' Lyanna was sixteen at time of death. Ned and Howland Reed were present. Robert vowed to kill Rhaegar Targaryen for ''what he did to her.'''

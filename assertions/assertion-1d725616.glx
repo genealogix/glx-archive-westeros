@@ -1,0 +1,11 @@
+assertions:
+    assertion-waynwood-250-name:
+        subject:
+            person: person-waynwood-250
+        property: name
+        value: Waynwood
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Unnamed Waynwood from GEDCOM import. Gender unknown.

@@ -1,0 +1,7 @@
+events:
+    event-birth-flint:
+        title: Birth of Flint
+        type: birth
+        participants:
+            - person: person-flint
+              role: principal

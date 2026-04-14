@@ -1,0 +1,11 @@
+assertions:
+    assertion-garth-hightower-name:
+        subject:
+            person: person-garth-hightower
+        property: name
+        value: Garth Hightower
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Called Greysteel. Source text: Lord Leyton''s son SER GARTH, called GREYSTEEL'

@@ -1,0 +1,10 @@
+persons:
+    person-targaryen-281:
+        properties:
+            external_ids:
+                - MH:I281
+            gender: male
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen

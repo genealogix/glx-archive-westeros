@@ -1,0 +1,12 @@
+assertions:
+    assertion-aegon-targaryen-iii-name:
+        subject:
+            person: person-aegon-targaryen-iii
+        property: name
+        value: Aegon Targaryen III
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists ''131-157 Aegon III the Dragonbane, Rhaenyra''s son''. Source text: WHEN AEGON THE Younger came to the Iron Throne in 131 AC as Aegon III, after the death of his uncle Aegon II, the realm may well have thought that its troubles were done.'

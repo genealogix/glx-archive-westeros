@@ -1,0 +1,11 @@
+assertions:
+    assertion-brandon-stark-213-cause-of-death:
+        subject:
+            person: person-brandon-stark-213
+        property: cause_of_death
+        value: Murdered by command of Aerys II Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Stark section. Source text: {BRA NDON}, his elder brother, murdered by the command of A erys II Targaryen'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-snow-stabbed-for-the-watch:
+        subject:
+            event: event-6ba09f22
+        property: date
+        value: "300"
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-jon-xiii
+        notes: 'Jon Snow is stabbed multiple times by Night''s Watch brothers at Castle Black. Wick Whittlestick slashes his throat, Bowen Marsh stabs him in the belly and leaves the dagger in the wound, others follow. Direct text: ''Bowen Marsh stood there before him, tears running down his cheeks. "For the Watch." He punched Jon in the belly. When he pulled his hand away, the dagger stayed where he had buried it.'' Jon falls face-first into the snow. His last word is ''Ghost.'' Whether he dies or survives is not resolved in ADWD.'

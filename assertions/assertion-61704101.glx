@@ -1,0 +1,11 @@
+assertions:
+    assertion-smalljon-umber-death:
+        subject:
+            event: event-death-smalljon-umber
+        property: date
+        value: "299"
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Killed at the Red Wedding. Beheaded by Bolton men after shielding Robb Stark with an overturned table. Direct text: ''one of them struck the Smalljon''s head off with two huge blows of his axe.'''

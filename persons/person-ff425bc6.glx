@@ -1,0 +1,18 @@
+persons:
+    person-horas-redwyne-horror:
+        properties:
+            alias:
+                - value: Horror
+            external_ids:
+                - MH:I390
+            gender: male
+            house: Redwyne
+            name:
+                fields:
+                    given: Horas
+                    nickname: Horror
+                    surname: Redwyne
+                value: Horas Redwyne
+            title:
+                - value: Ser
+        notes: Mocked as Horror. Twin to Hobber. Son of Paxter Redwyne.

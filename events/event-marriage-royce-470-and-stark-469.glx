@@ -1,9 +1,0 @@
-events:
-    event-marriage-royce-470-and-stark-469:
-        title: "Marriage of Royce and Stark"
-        type: marriage
-        participants:
-            - person: person-royce-470
-              role: subject
-            - person: person-stark-469
-              role: subject

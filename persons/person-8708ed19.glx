@@ -1,0 +1,11 @@
+persons:
+    person-waltyr-frey:
+        properties:
+            external_ids:
+                - MH:I139
+            gender: male
+            name:
+                fields:
+                    given: Waltyr
+                    surname: Frey
+                value: Waltyr Frey

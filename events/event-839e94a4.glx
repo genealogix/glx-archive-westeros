@@ -1,0 +1,14 @@
+events:
+    event-jaime-pushes-bran:
+        title: Jaime Pushes Bran from the Tower
+        type: death
+        place: place-winterfell
+        date: "298"
+        participants:
+            - person: person-brandon-stark-bran
+              role: subject
+            - person: person-jaime-lannister
+              role: perpetrator
+            - person: person-cersei-lannister
+              role: witness
+        notes: Bran Stark climbs the First Keep while exploring Winterfell on the eve of departure. He discovers Jaime and Cersei Lannister in an incestuous encounter through a window. Cersei spots him. Jaime pulls Bran onto the window sill, says 'The things I do for love,' and pushes him off. Bran falls into the courtyard below. He survives in a coma; his back is broken and legs shattered.

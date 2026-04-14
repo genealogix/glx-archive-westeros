@@ -1,0 +1,9 @@
+relationships:
+    rel-sibling-balon-aeron:
+        type: sibling
+        participants:
+            - person: person-balon-greyjoy
+              role: sibling
+            - person: person-aeron-greyjoy
+              role: sibling
+        notes: Brothers (or half-brothers) per AFFC appendix.

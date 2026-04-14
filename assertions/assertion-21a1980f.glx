@@ -1,0 +1,11 @@
+assertions:
+    assertion-red-wedding-place:
+        subject:
+            event: event-red-wedding
+        property: place
+        value: place-the-twins
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: The Red Wedding took place at the Twins, seat of House Frey. ASOS appendix lists the Twins as Lord Walder Frey's seat.

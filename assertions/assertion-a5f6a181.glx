@@ -1,0 +1,12 @@
+assertions:
+    assertion-dacey-mormont-name:
+        subject:
+            person: person-dacey-mormont
+        property: name
+        value: Dacey Mormont
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS Appendix, King in the North section (listed among Robb''s sworn swords). AFFC Appendix confirms death: ''{DACEY}, her eldest daughter and heir, slain at the Red Wedding''. Source text: DACEY MORMONT, eldest daughter of Lady Maege Mormont and heir to Bear Island'

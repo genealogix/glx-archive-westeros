@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-burned-littlefingers-letter:
+        subject:
+            person: person-catelyn-tully
+        property: description
+        value: Burned Littlefinger's letter unread after Brandon Stark's death
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-catelyn-iv
+        notes: 'Source text: ''He wrote to me at Riverrun after Brandon was killed, but I burned the letter unread. By then I knew that Ned would marry me in his brother''s place.'' Catelyn had no romantic interest in Petyr Baelish and burned his condolence/declaration letter without reading it.'

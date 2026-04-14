@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-clegane-name-acok:
+        subject:
+            person: person-sandor-clegane
+        property: name
+        value: Sandor Clegane
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King on the Iron Throne section (Kingsguard). Source text: ''SANDOR CLEGANE, called the HOUND.'''

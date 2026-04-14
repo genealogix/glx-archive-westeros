@@ -1,0 +1,12 @@
+assertions:
+    assertion-walder-frey-little-walder-gender:
+        subject:
+            person: person-walder-frey-little-walder
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Merrett''s son, WALDER, called LITTLE WALDER, a boy of seven'

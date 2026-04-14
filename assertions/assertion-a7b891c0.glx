@@ -1,0 +1,12 @@
+assertions:
+    assertion-alerie-hightower-name:
+        subject:
+            person: person-alerie-hightower
+        property: name
+        value: Alerie Hightower
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix. Listed under both House Tyrell (as Mace''s wife) and House Hightower (as Leyton''s daughter). Source text: Lord Leyton''s daughter, ALERIE, m. Lord Mace Tyrell'

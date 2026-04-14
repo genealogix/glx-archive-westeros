@@ -1,0 +1,11 @@
+assertions:
+    assertion-osmund-kettleblack-name-acok:
+        subject:
+            person: person-osmund-kettleblack
+        property: name
+        value: Ser Osmund Kettleblack
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King on the Iron Throne section. Source text: ''SER OSMUND KETTLEBLACK, a hedge knight of unsavory reputation.'' His brothers Osfryd and Osney also listed.'

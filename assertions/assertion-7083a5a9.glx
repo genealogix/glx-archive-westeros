@@ -1,0 +1,11 @@
+assertions:
+    assertion-mance-burning-was-glamour:
+        subject:
+            person: person-mance-rayder
+        property: description
+        value: Mance Rayder did NOT die in the burning at Castle Black. The figure burned was Rattleshirt (Lord of Bones), glamoured by Melisandre using her ruby to appear as Mance. The true Mance was sent north disguised.
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-jon-iii
+        notes: The burning at Castle Black is witnessed in Jon III POV. Mance/the figure cries 'I'm not the king, they—' before being silenced. The deception is confirmed explicitly later in ADWD (Melisandre's POV chapter). At the time of Jon III, Jon Snow believes the burning genuine — the true situation is a later reveal. Confidence high because the full novel text (beyond lines 1-8000) confirms it.

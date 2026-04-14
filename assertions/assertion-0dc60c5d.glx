@@ -1,0 +1,11 @@
+assertions:
+    assertion-janos-slynt-lord-harrenhal-acok:
+        subject:
+            person: person-janos-slynt
+        property: title
+        value: Lord of Harrenhal
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: From ACOK Appendix. Listed as 'JANOS SLYNT, Lord of Harrenhal, Lord Commander' in the City Watch section and 'LORD JANOS SLYNT, Commander of the City Watch' on the small council.

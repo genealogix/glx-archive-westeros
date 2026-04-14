@@ -1,0 +1,11 @@
+assertions:
+    assertion-florent-name:
+        subject:
+            person: person-florent
+        property: name
+        value: Florent
+        confidence: low
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. No given name available. Not individually identifiable in novel appendices. Likely a placeholder ancestor in the GEDCOM family tree. Retained with low confidence.

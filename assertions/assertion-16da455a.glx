@@ -1,0 +1,12 @@
+assertions:
+    assertion-aegon-frey-bloodborn-gender:
+        subject:
+            person: person-aegon-frey-bloodborn
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Aenys''s son, AEGON BLOODBORN, an outlaw'

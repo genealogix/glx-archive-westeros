@@ -1,0 +1,11 @@
+assertions:
+    assertion-beric-dondarrion-gender:
+        subject:
+            person: person-beric-dondarrion
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Verified against ASOS Appendix. Listed as Lord.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-elia-martell-cause-of-death:
+        subject:
+            person: person-elia-martell
+        property: cause_of_death
+        value: Slain during the Sack of King's Landing
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Martell section. Source text: {PRINCESS ELIA}, wed to Prince Rhaegar Targaryen, slain during the Sack of King''s Landing'

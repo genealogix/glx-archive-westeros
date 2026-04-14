@@ -1,0 +1,10 @@
+events:
+    event-birth-catelyn-tully:
+        title: Birth of Catelyn Tully
+        type: birth
+        place: place-riverrun
+        date: "264"
+        participants:
+            - person: person-catelyn-tully
+              role: principal
+        notes: Eldest daughter of Lord Hoster Tully and Lady Minisa Whent.

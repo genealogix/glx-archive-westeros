@@ -1,0 +1,10 @@
+persons:
+    person-mormont:
+        properties:
+            external_ids:
+                - MH:I429
+            gender: male
+            name:
+                fields:
+                    surname: Mormont
+                value: Mormont

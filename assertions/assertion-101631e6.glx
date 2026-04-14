@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-born-casterly-rock:
+        subject:
+            event: event-birth-tyrion-lannister
+        property: place
+        value: place-casterly-rock
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-tyrion-lannister
+        notes: Born at Casterly Rock.

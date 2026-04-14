@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-born-storms-end:
+        subject:
+            event: event-birth-robert-baratheon-i
+        property: place
+        value: place-storms-end
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-robert-baratheon
+        notes: Born at Storm's End.

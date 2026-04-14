@@ -1,0 +1,9 @@
+events:
+    event-birth-stannis-baratheon:
+        title: Birth of Stannis Baratheon
+        type: birth
+        place: place-storms-end
+        date: "264"
+        participants:
+            - person: person-stannis-baratheon
+              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-tower-of-joy-date:
+        subject:
+            event: event-tower-of-joy
+        property: date
+        value: "283"
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-i
+        notes: The Tower of Joy confrontation occurred in 283 AC, after the Sack of King's Landing. Ned found Lyanna dying.

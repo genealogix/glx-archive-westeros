@@ -1,0 +1,12 @@
+assertions:
+    assertion-renly-baratheon-name:
+        subject:
+            person: person-renly-baratheon
+        property: name
+        value: Renly Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-acok-appendix
+        notes: Verified against AGOT and ACOK Appendices. ACOK lists him as 'RENLY BARATHEON, the First of His Name, the younger of King Robert's brothers, formerly Lord of Storm's End, thirdborn son of Lord Steffon Baratheon and Lady Cassana of House Estermont.' Now styling himself King.

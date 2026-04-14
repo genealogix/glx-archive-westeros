@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-born-at-westerlands:
+        subject:
+            event: event-birth-sandor-clegane
+        property: place
+        value: place-the-westerlands
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-sandor-clegane
+        notes: 'AWOIAF infobox: ''Born: 270 AC or 271 AC, Westerlands.'' Born at or near Clegane''s Keep in the westerlands.'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-frey-name:
+        subject:
+            person: person-jaime-frey
+        property: name
+        value: Jaime Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Frey section. Not present in ASOS appendix (born between ASOS and AFFC). Twin of Tywin (person-tywin-frey-ty). Source text: Raymund''s twin sons, JAIME and TYWIN, newborn'

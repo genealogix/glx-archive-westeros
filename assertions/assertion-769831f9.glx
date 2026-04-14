@@ -1,0 +1,11 @@
+assertions:
+    assertion-randyll-tarly-gender:
+        subject:
+            person: person-randyll-tarly
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Tyrell section. Listed as Lord.

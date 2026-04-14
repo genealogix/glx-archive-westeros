@@ -1,0 +1,11 @@
+assertions:
+    assertion-symon-santagar-name:
+        subject:
+            person: person-symon-santagar
+        property: name
+        value: Ser Symon Santagar
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, Dorne section. Listed under Prince Doran''s bannermen. Father of Sylva Santagar. Source text: SER SYMON SANTAGAR, the Knight of Spottswood'

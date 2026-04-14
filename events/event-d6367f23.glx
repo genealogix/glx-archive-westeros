@@ -1,0 +1,10 @@
+events:
+    event-birth-davos-seaworth:
+        title: Birth of Davos Seaworth
+        type: birth
+        place: place-kings-landing
+        date: "ABT 260"
+        participants:
+            - person: person-davos-seaworth
+              role: principal
+        notes: Born in Flea Bottom, King's Landing.

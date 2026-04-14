@@ -1,0 +1,11 @@
+assertions:
+    assertion-velaryon-gender:
+        subject:
+            person: person-velaryon
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: A surpassingly beautiful child, Daenaera was but six when the princesses Rhaena and Baela presented her to the king'

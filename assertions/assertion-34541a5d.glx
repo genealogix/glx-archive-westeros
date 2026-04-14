@@ -1,0 +1,11 @@
+assertions:
+    assertion-gregor-clegane-size:
+        subject:
+            person: person-gregor-clegane
+        property: physical_description
+        value: Well over seven feet tall, closer to eight; massive shoulders; arms thick as small tree trunks
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: ''He was huge, the biggest man that Eddard Stark had ever seen. Robert Baratheon and his brothers were all big men, as was the Hound, and back at Winterfell there was a simpleminded stableboy named Hodor who dwarfed them all, but the knight they called the Mountain That Rides would have towered over Hodor. He was well over seven feet tall, closer to eight, with massive shoulders and arms thick as the trunks of small trees.'' POV: Eddard. Directly observed. Compared to Hodor (already noted as exceptionally large).'

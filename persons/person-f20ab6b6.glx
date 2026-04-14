@@ -1,0 +1,11 @@
+persons:
+    person-zachery-frey:
+        properties:
+            external_ids:
+                - MH:I57
+            gender: male
+            name:
+                fields:
+                    given: Zachery
+                    surname: Frey
+                value: Zachery Frey

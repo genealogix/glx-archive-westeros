@@ -1,0 +1,8 @@
+events:
+    event-birth-mellario:
+        title: Birth of Mellario
+        type: birth
+        place: place-norvos
+        participants:
+            - person: person-mellario
+              role: principal

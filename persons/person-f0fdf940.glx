@@ -1,0 +1,12 @@
+persons:
+    person-leo-tyrell-the-lazy:
+        properties:
+            external_ids:
+                - MH:I397
+            gender: male
+            name:
+                fields:
+                    given: Leo
+                    nickname: The Lazy
+                    surname: Tyrell
+                value: Leo Tyrell

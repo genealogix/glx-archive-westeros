@@ -1,0 +1,7 @@
+events:
+    event-birth-emmon-frey:
+        title: Birth of Emmon Frey
+        type: birth
+        participants:
+            - person: person-emmon-frey
+              role: principal

@@ -1,0 +1,12 @@
+assertions:
+    assertion-ned-execution-date:
+        subject:
+            event: event-execution-ned-stark
+        property: date
+        value: "299"
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-arya-v
+            - citation-agot-appendix
+        notes: Ned Stark was executed on the steps of the Great Sept of Baelor in 299 AC, ordered by King Joffrey despite promises of mercy.

@@ -1,0 +1,8 @@
+events:
+    event-birth-mya-stone:
+        title: Birth of Mya Stone
+        type: birth
+        date: "ABT 281"
+        participants:
+            - person: person-mya-stone
+              role: principal

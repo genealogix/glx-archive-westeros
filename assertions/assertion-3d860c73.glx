@@ -1,0 +1,11 @@
+assertions:
+    assertion-jasper-arryn-name:
+        subject:
+            person: person-jasper-arryn
+        property: name
+        value: Jasper Arryn
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Jasper Arryn (Jon Arryn's father) appears only in chapter text and TWOIAF. May require chapter-level citation.

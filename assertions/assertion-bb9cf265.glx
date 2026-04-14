@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-death-boar:
+        subject:
+            event: event-death-robert-baratheon
+        property: cause
+        value: Gored by a boar while hunting in the kingswood, wound mortified
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-xiv
+        notes: Robert Baratheon died from a boar-hunting wound. The boar gored him from groin to nipple with its tusks. He killed the boar himself despite his wounds. Two days elapsed before he was brought back to the Red Keep. Varys later implied that Lancel Lannister (Cersei's instrument) kept Robert drunk with wine on Cersei's orders, diminishing his hunting reflexes. This is consistent with an assassination by negligence rather than direct action.

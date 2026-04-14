@@ -1,0 +1,7 @@
+events:
+    event-birth-arthur-dayne:
+        title: Birth of Ser Arthur Dayne
+        type: birth
+        participants:
+            - person: person-arthur-dayne
+              role: principal

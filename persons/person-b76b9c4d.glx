@@ -1,0 +1,14 @@
+persons:
+    person-pypar:
+        properties:
+            alias:
+                - value: Pyp
+            gender: male
+            name:
+                fields:
+                    given: Pypar
+                    type: birth
+                value: Pypar
+            title:
+                - value: Ranger, Night's Watch
+        notes: Night's Watch ranger. Friend of Jon Snow at Castle Black. Known for being quick-witted and grinning. Was a mummer's boy before joining the Watch — caught stealing. Assigned to the rangers. Helped stop Jon from attacking Ser Alliser Thorne in the common hall.

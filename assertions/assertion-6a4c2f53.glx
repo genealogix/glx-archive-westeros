@@ -1,0 +1,11 @@
+assertions:
+    assertion-elia-sand-age-affc:
+        subject:
+            event: event-birth-elia-sand
+        property: date
+        value: ABT 285
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: AFFC Appendix lists Elia as fourteen. Daughter of Oberyn and Ellaria Sand.

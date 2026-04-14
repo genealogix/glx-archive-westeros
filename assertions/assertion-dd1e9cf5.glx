@@ -1,0 +1,12 @@
+assertions:
+    assertion-elmar-frey-name:
+        subject:
+            person: person-elmar-frey
+        property: name
+        value: Elmar Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: ELMAR, Lord Walder''s lastborn son, a boy of nine briefly betrothed to Arya Stark'

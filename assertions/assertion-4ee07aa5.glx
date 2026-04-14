@@ -1,0 +1,11 @@
+assertions:
+    assertion-gregor-clegane-aegon-targaryen-infant:
+        subject:
+            person: person-gregor-clegane
+        property: description
+        value: Suspected of killing infant Prince Aegon Targaryen and raping Princess Elia Martell
+        confidence: low
+        status: suspected
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: ''Some said it had been Gregor who''d dashed the skull of the infant prince Aegon Targaryen against a wall, and whispered that afterward he had raped the mother, the Dornish princess Elia, before putting her to the sword. These things were not said in Gregor''s hearing.'' POV: Eddard, reported as rumor/gossip. The text uses ''some said'' and ''whispered'' — this is hearsay, not confirmed. Confidence low, status suspected. Later books (ASOS) and explicit Lannister involvement provide more evidence but this citation alone is rumor.'

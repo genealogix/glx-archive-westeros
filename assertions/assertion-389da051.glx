@@ -1,0 +1,11 @@
+assertions:
+    assertion-chett-night-watch-mutiny:
+        subject:
+            person: person-chett
+        property: description
+        value: Ringleader of planned mutiny at Fist of First Men, intending to desert with fourteen brothers
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-prologue
+        notes: Chett was the primary planner of a desertion scheme, with fourteen brothers including Small Paul (to kill Mormont), Lark the Sisterman (to kill Bannen and Dywen), Softfoot, Dirk, Sweet Donnel Hill, Sawwood, and Maslyn. Direct POV — the most reliable possible source. The plot was abandoned when three horn blasts sounded.

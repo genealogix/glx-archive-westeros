@@ -1,0 +1,11 @@
+assertions:
+    assertion-rattleshirt-execution:
+        subject:
+            person: person-mance-rayder
+        property: description
+        value: Rattleshirt burned in place of Mance Rayder by Stannis
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-melisandre
+        notes: 'Melisandre glamored Mance Rayder to appear as Rattleshirt and Rattleshirt to appear as Mance. Stannis burned ''Mance'' (actually Rattleshirt) at Castle Black as punishment for desertion. Jon Snow mercy-killed ''Mance'' with an arrow during the burning — he was in fact killing Rattleshirt. The real Mance survived as Rattleshirt, wearing the ruby-set black iron fetter that maintains the glamor. The text in the Melisandre chapter confirms this: ''the wildling wore a sleeveless jerkin… In the black iron fetter about his wrist, the ruby seemed to pulse.'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-arya-departs-braavos:
+        subject:
+            person: person-arya-stark
+        property: description
+        value: Sailed from Saltpans to Braavos aboard the Braavosi ship Titan's Daughter after presenting Jaqen H'ghar's iron coin
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-arya-hound
+        notes: Arya reached Saltpans alone after leaving the dying Sandor Clegane. She found a Braavosi ship, presented the iron coin Jaqen gave her at Harrenhal, and spoke the words 'Valar Morghulis.' The captain replied 'Valar dohaeris' and agreed to take her to Braavos. This is the chapter's cliffhanger ending, leading into AFFC and ADWD. The ship is named the Titan's Daughter, after the Titan of Braavos.

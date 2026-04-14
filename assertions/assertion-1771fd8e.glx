@@ -1,0 +1,11 @@
+assertions:
+    assertion-dacey-mormont-gender:
+        subject:
+            person: person-dacey-mormont
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: Verified against ASOS Appendix. Listed as eldest daughter.

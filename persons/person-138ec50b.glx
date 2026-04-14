@@ -1,0 +1,11 @@
+persons:
+    person-talla-tarly:
+        properties:
+            external_ids:
+                - MH:I459
+            gender: female
+            name:
+                fields:
+                    given: Talla
+                    surname: Tarly
+                value: Talla Tarly

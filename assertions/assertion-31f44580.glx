@@ -1,0 +1,12 @@
+assertions:
+    assertion-garth-tyrell-the-gross-name:
+        subject:
+            person: person-garth-tyrell-the-gross
+        property: name
+        value: Garth 'The Gross' Tyrell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Tyrell section. Mace''s uncle, Lord Seneschal of Highgarden. Source text: GARTH, called THE GROSS, Lord Seneschal of Highgarden'

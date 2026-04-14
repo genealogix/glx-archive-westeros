@@ -1,0 +1,11 @@
+assertions:
+    assertion-kraznys-death:
+        subject:
+            person: person-kraznys-mo-nakloz
+        property: cause_of_death
+        value: Burned alive by Drogon at the Plaza of Punishment, Astapor, 299 AC
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-daenerys-iii
+        notes: 'Text: ''A lance of swirling dark flame took Kraznys full in the face. His eyes melted and ran down his cheeks, and the oil in his hair and beard burst so fiercely into fire that for an instant the slaver wore a burning crown twice as tall as his head.'''

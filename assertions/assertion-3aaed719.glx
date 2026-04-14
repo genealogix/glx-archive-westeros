@@ -1,0 +1,11 @@
+assertions:
+    assertion-tormund-giantsbane-adwd:
+        subject:
+            person: person-tormund-giantsbane
+        property: title
+        value: Mead-King of Ruddy Hall
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''TORMUND, Mead-King of Ruddy Hall, called GIANTSBANE, TALL-TALKER, HORN-BLOWER, and BREAKER OF ICE, also THUNDERFIST, HUSBAND TO BEARS, SPEAKER TO GODS, and FATHER OF HOSTS'''

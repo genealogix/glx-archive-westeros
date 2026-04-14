@@ -1,0 +1,11 @@
+assertions:
+    assertion-tygett-lannister-title:
+        subject:
+            person: person-tygett-lannister
+        property: title
+        value: Ser
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Lannister section.

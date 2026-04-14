@@ -1,0 +1,8 @@
+events:
+    event-birth-tyene-sand:
+        title: Birth of Tyene Sand
+        type: birth
+        date: "ABT 276"
+        participants:
+            - person: person-tyene-sand
+              role: principal

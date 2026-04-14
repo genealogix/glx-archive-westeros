@@ -1,0 +1,11 @@
+assertions:
+    assertion-red-wedding-date:
+        subject:
+            event: event-red-wedding
+        property: date
+        value: "299"
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: The Red Wedding occurred at the Twins in 299 AC during the wedding feast of Edmure Tully and Roslin Frey.

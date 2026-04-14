@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-greyjoy-alias:
+        subject:
+            person: person-theon-greyjoy
+        property: alias
+        value: Theon Turncloak
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Called Theon Turncloak by northmen per the AFFC appendix.

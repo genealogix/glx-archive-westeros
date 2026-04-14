@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-targaryen-iii-name:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: name
+        value: Viserys Targaryen III
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Targaryen section. Source text: PRINCE VISERYS, styling himself Viserys, the Third of His Name, Lord of the Seven Kingdoms, called the Beggar King'

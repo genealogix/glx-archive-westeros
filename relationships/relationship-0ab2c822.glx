@@ -1,0 +1,9 @@
+relationships:
+    rel-pc-balon-greyjoy-maron:
+        type: parent_child
+        participants:
+            - person: person-balon-greyjoy
+              role: parent
+            - person: person-maron-greyjoy
+              role: child
+        notes: Maron Greyjoy, son of Balon, slain during Balon's first rebellion. AFFC appendix.

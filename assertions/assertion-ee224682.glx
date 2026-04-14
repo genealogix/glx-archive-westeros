@@ -1,0 +1,11 @@
+assertions:
+    assertion-lysa-death-littlefinger:
+        subject:
+            person: person-lysa-tully
+        property: cause_of_death
+        value: Pushed through the Moon Door of the Eyrie by Petyr Baelish
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-sansa-eyrie
+        notes: 'Text: ''"Only Cat." He gave her a short, sharp shove. Lysa stumbled backward, her feet slipping on the wet marble. And then she was gone. She never screamed.'' Witnessed by Sansa Stark and Marillion. Littlefinger immediately told arriving guards: ''This singer has killed my lady wife.'' His last words to Lysa before shoving her: ''I''ve only loved one woman, I promise you... Only Cat.'''

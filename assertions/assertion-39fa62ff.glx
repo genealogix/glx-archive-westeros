@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-arryn-name:
+        subject:
+            person: person-jon-arryn
+        property: name
+        value: Jon Arryn
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Arryn section. Deceased (indicated by braces). Source text: {JON ARRYN}, Lord of the Eyrie, Defender of the Vale, Warden of the East, Hand of the King, recently deceased'

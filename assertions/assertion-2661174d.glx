@@ -1,0 +1,10 @@
+assertions:
+    assertion-robb-marries-jeyne-description:
+        subject:
+            event: event-robb-marries-jeyne
+        property: description
+        value: Robb married Jeyne Westerling at the Crag, breaking his Frey marriage pact
+        confidence: medium
+        citations:
+            - citation-awoiaf-roberts-rebellion
+        notes: Cited from general Robb Stark AWOIAF page; specific ASOS Catelyn II chapter describes the aftermath

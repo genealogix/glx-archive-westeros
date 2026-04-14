@@ -1,0 +1,11 @@
+assertions:
+    assertion-rodrik-harlaw-gender:
+        subject:
+            person: person-rodrik-harlaw
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Listed as Lord in the AFFC appendix.

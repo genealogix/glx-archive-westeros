@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-bastard-daughter-vale:
+        subject:
+            person: person-robert-baratheon-i
+        property: description
+        value: Unnamed daughter born in the Vale
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: ''Ned remembered Robert''s first child as well, a daughter born in the Vale when Robert was scarcely more than a boy himself. A sweet little girl; the young lord of Storm''s End had doted on her... The girl would be seventeen or eighteen now.'' Robert fathered a daughter in the Vale while he was ward to Jon Arryn at the Eyrie (likely ~279-281 AC). Robert visited her frequently even after losing interest in the mother.'

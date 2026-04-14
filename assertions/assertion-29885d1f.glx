@@ -1,0 +1,12 @@
+assertions:
+    assertion-hobber-redwyne-slobber-name:
+        subject:
+            person: person-hobber-redwyne-slobber
+        property: name
+        value: Hobber 'Slobber' Redwyne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Tyrell section. Twin to Horas, mocked as Slobber. Source text: SER HOBBER REDWYNE, twin to Horas, called SLOBBER'

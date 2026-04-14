@@ -1,0 +1,11 @@
+assertions:
+    assertion-shireen-baratheon-house:
+        subject:
+            person: person-shireen-baratheon
+        property: house
+        value: Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon section. Daughter of Stannis Baratheon.

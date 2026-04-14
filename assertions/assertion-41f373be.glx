@@ -1,0 +1,12 @@
+assertions:
+    assertion-alester-florent-name:
+        subject:
+            person: person-alester-florent
+        property: name
+        value: Alester Florent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ACOK Appendix, House Florent section. Also in ASOS and AFFC appendices. AFFC notes him as burned as a traitor: ''{ALESTER FLORENT}, Lord of Brightwater, burned as a traitor''. Source text: ALESTER FLORENT, Lord of Brightwater'

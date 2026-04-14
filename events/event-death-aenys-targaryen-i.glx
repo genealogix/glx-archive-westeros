@@ -1,7 +1,0 @@
-events:
-    event-death-aenys-targaryen-i:
-        title: "Death of Aenys Targaryen I"
-        type: death
-        participants:
-            - person: person-aenys-targaryen-i
-              role: principal

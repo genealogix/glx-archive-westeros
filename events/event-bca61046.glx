@@ -1,0 +1,7 @@
+events:
+    event-f1fa6d8b:
+        type: birth
+        date: "ABT 266"
+        participants:
+            - person: person-gregor-clegane
+              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-body-desecrated:
+        subject:
+            person: person-robb-stark
+        property: description
+        value: Grey Wind's head sewn onto corpse, crown nailed about ears
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-asos-davos-iv
+        notes: 'Street rumor in King''s Landing reported by Salladhor Saan to Davos. Direct text: ''They swear Lord Frey had the boy''s head hacked off, sewed the head of his direwolf in its place, and nailed a crown about his ears.'' Confidence medium as this is reported hearsay rather than direct POV witness, but widely accepted as accurate. The mockery targets Robb''s identity as a warg and his claim to kingship simultaneously.'

@@ -1,0 +1,11 @@
+persons:
+    person-della-frey:
+        properties:
+            external_ids:
+                - MH:I133
+            gender: female
+            name:
+                fields:
+                    given: Della
+                    surname: Frey
+                value: Della Frey

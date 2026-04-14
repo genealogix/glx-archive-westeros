@@ -1,0 +1,11 @@
+persons:
+    person-eldon-estermont:
+        properties:
+            external_ids:
+                - MH:I476
+            gender: male
+            name:
+                fields:
+                    given: Eldon
+                    surname: Estermont
+                value: Eldon Estermont

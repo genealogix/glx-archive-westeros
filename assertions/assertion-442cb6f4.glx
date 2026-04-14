@@ -1,0 +1,11 @@
+assertions:
+    assertion-anya-waynwood-gender:
+        subject:
+            person: person-anya-waynwood
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Arryn section. Listed as 'Lady' and 'a widow'.

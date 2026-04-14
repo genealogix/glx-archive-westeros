@@ -1,0 +1,12 @@
+assertions:
+    assertion-walder-haigh-gender:
+        subject:
+            person: person-walder-haigh
+        property: gender
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

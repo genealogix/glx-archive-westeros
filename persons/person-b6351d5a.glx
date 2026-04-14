@@ -1,0 +1,11 @@
+persons:
+    person-dafyn-vance:
+        properties:
+            external_ids:
+                - MH:I18
+            gender: male
+            name:
+                fields:
+                    given: Dafyn
+                    surname: Vance
+                value: Dafyn Vance

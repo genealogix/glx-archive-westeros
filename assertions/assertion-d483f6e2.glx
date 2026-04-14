@@ -1,0 +1,11 @@
+assertions:
+    assertion-bloodraven-identity:
+        subject:
+            person: person-brynden-rivers-three-eyed-crow
+        property: name
+        value: Brynden
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-bran-ii
+        notes: 'When Meera Reed asks his true name, Bloodraven says: ''I wore many names when I was quick, but even I once had a mother, and the name she gave me at her breast was Brynden.'' This confirms the three-eyed crow is Brynden Rivers, the historical Great Bastard and former Lord Commander of the Night''s Watch who went beyond the Wall and vanished. Cited from Bran''s chapter where Bloodraven speaks this in ADWD (line 9087 — beyond the 1-8000 range but key confirmation; the identity is implied in Bran II).'

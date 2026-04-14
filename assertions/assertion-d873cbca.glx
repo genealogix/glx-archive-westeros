@@ -1,0 +1,11 @@
+assertions:
+    assertion-allyria-dayne-gender:
+        subject:
+            person: person-allyria-dayne
+        property: gender
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: From GEDCOM. Referenced as Lady in prose. Not found in novel appendices.

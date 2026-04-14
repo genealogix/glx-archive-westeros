@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-297-name:
+        subject:
+            person: person-targaryen-297
+        property: name
+        value: Targaryen
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: 'Imported from GEDCOM as unnamed male Targaryen. Child of Rhaegel per relationship data. Could be another child of Rhaegel or a placeholder. Cannot confirm without given name in GEDCOM. Source text: slain in a grotesque mishap by the hand of his own twin sister and wife, Aelora, under circumstances that left her mad with grief. (Sadly, Aelora eventually took her own life)'

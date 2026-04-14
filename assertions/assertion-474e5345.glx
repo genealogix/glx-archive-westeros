@@ -1,0 +1,12 @@
+assertions:
+    assertion-aegon-targaryen-ii-name:
+        subject:
+            person: person-aegon-targaryen-ii
+        property: name
+        value: Aegon Targaryen II
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists ''129-131 Aegon II eldest son of Viserys''. Source text: When his escort arrived with the litter and lifted the curtain, they found the king dead with blood on his lips. And so ended King Aegon II, poisoned by the men who served him—for they had seen the end even if he had not.'

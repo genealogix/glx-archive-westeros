@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-lannister-wounded-blackwater:
+        subject:
+            person: person-tyrion-lannister
+        property: status
+        value: wounded and scarred on the Blackwater
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: 'ASOS appendix, House Lannister section. Source text: ''TYRION, called THE IMP, called HALFMAN, wounded and scarred on the Blackwater'''

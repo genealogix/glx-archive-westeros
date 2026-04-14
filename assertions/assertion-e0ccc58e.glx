@@ -1,0 +1,11 @@
+assertions:
+    assertion-myrcella-baratheon-name:
+        subject:
+            person: person-myrcella-baratheon
+        property: name
+        value: Myrcella Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Baratheon section. Source text: PRINCESS MYRCELLA , a girl of eight'

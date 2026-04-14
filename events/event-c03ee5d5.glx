@@ -1,0 +1,8 @@
+events:
+    event-birth-daeron-targaryen-i:
+        title: Birth of Daeron Targaryen I
+        type: birth
+        date: "143"
+        participants:
+            - person: person-daeron-targaryen-i
+              role: principal

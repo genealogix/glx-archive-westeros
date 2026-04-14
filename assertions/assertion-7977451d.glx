@@ -1,0 +1,11 @@
+assertions:
+    assertion-sansa-alias-little-bird:
+        subject:
+            person: person-sansa-stark
+        property: alias
+        value: Little Bird
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-sansa-iii
+        notes: Called 'little bird' by Sandor Clegane.

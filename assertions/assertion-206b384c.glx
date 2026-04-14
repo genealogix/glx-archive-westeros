@@ -1,0 +1,11 @@
+assertions:
+    assertion-hoster-tully-dying:
+        subject:
+            person: person-hoster-tully
+        property: description
+        value: Dying of illness at Riverrun by early ACOK; delirious, weakened, in constant pain managed with dreamwine and milk of the poppy
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-catelyn-i
+        notes: 'Source text (Catelyn I): ''Hoster Tully, Lord of Riverrun, lay abed in his solar... He was sleeping when Catelyn entered, his hair and beard as white as his featherbed, his once portly frame turned small and frail by the death that grew within him.'' Catelyn: ''The maester gives him dreamwine and milk of the poppy for his pain, so he sleeps most of the time... He talks of his regrets, of unfinished tasks, of people long dead... Sometimes he does not know what season it is, or who I am.'''

@@ -1,0 +1,13 @@
+persons:
+    person-tion-frey:
+        properties:
+            external_ids:
+                - MH:I31
+            gender: male
+            house: Frey
+            name:
+                fields:
+                    given: Tion
+                    surname: Frey
+                value: Tion Frey
+        notes: Son of Ser Emmon Frey and Genna Lannister. A squire.

@@ -1,0 +1,14 @@
+persons:
+    person-brandon-stark-213:
+        properties:
+            cause_of_death: Murdered by command of Aerys II Targaryen
+            external_ids:
+                - MH:I213
+            gender: male
+            house: Stark
+            name:
+                fields:
+                    given: Brandon
+                    surname: Stark
+                value: Brandon Stark
+        notes: Elder brother of Eddard Stark. Murdered by command of the Mad King.

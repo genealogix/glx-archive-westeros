@@ -1,0 +1,11 @@
+assertions:
+    assertion-imry-florent-commanded-stannis-fleet:
+        subject:
+            person: person-imry-florent
+        property: role
+        value: Commander of Stannis Baratheon's fleet at the Battle of the Blackwater
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-davos-iii
+        notes: 'ACOK Davos III: ''this time he had chosen to ride with his army, trusting Fury and the command of his fleet to his wife''s brother Ser Imry, who''d come over to his cause at Storm''s End with Lord Alester and all the other Florents.'''

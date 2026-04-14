@@ -1,0 +1,11 @@
+assertions:
+    assertion-qyburn-first-appearance:
+        subject:
+            person: person-qyburn
+        property: description
+        value: Qyburn first appears at Harrenhal treating Jaime Lannister's stump in 299 AC
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jaime-v
+        notes: 'Described as ''a grey-haired, fatherly man'' with ''warm brown eyes.'' His bedside manner is gentle and methodical. He serves under Roose Bolton at Harrenhal as keeper of the ravens (raven master). Text: ''No man who serves with Vargo Hoat is a stranger to stumps. He makes them wherever he goes.'''

@@ -1,0 +1,10 @@
+persons:
+    person-betharios:
+        properties:
+            external_ids:
+                - MH:I81
+            gender: female
+            name:
+                fields:
+                    given: Betharios
+                value: Betharios

@@ -1,0 +1,12 @@
+assertions:
+    assertion-tytos-frey-gender:
+        subject:
+            person: person-tytos-frey
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Jared''s son, SER TYTOS, m. Zhoe Blanetree'

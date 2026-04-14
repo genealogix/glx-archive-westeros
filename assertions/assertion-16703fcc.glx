@@ -1,0 +1,11 @@
+assertions:
+    assertion-carolei-waynwood-name:
+        subject:
+            person: person-carolei-waynwood
+        property: name
+        value: Carolei Waynwood
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Carolei Waynwood appears only in chapter text or supplementary sources. May require chapter-level citation.

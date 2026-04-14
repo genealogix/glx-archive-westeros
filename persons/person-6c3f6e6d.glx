@@ -1,0 +1,10 @@
+persons:
+    person-royce-473:
+        properties:
+            external_ids:
+                - MH:I473
+            gender: female
+            name:
+                fields:
+                    surname: Royce
+                value: Royce

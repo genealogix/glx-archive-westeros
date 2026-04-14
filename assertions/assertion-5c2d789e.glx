@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-appearance-agot:
+        subject:
+            person: person-robb-stark
+        property: description
+        value: 'Big and broad, with Tully coloring: fair skin, red-brown hair, blue eyes. Age 14 at time of AGOT.'
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-i
+        notes: 'Source text (Bran I): ''Robb... was big and broad and growing every day, with his mother''s coloring, the fair skin, red-brown hair, and blue eyes of the Tullys of Riverrun.'''

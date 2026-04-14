@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-born-casterly-rock:
+        subject:
+            event: event-birth-jaime-lannister
+        property: place
+        value: place-casterly-rock
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-jaime-lannister
+        notes: Born at Casterly Rock.

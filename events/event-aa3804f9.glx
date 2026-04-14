@@ -1,0 +1,7 @@
+events:
+    event-84e73b7e:
+        type: birth
+        date: "BEF -126"
+        participants:
+            - person: person-daenys-the-dreamer
+              role: principal

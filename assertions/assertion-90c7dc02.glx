@@ -1,0 +1,11 @@
+assertions:
+    assertion-melisandre-name-acok:
+        subject:
+            person: person-melisandre
+        property: name
+        value: Melisandre of Asshai
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the Narrow Sea section. Source text: ''LADY MELISANDRE OF ASSHAI, called the RED WOMAN, a priestess of R''hllor, the Heart of Fire.'''

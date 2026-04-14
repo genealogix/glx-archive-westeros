@@ -1,0 +1,11 @@
+assertions:
+    assertion-brienne-father-tarth:
+        subject:
+            person: person-brienne-tarth
+        property: description
+        value: Father is Selwyn of Tarth, Lord of Evenfall Hall; Tarth is known as the Sapphire Isle
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jaime-i
+        notes: 'Brienne tells Jaime: ''My father is Selwyn of Tarth, by the grace of the gods Lord of Evenfall.'' And on Tarth: ''Tarth is beautiful. The Sapphire Isle, it''s called.'' Brienne learned to manage oars and sail before she ever sat a horse.'

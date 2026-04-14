@@ -1,0 +1,11 @@
+assertions:
+    assertion-mya-stone-eyrie-guide:
+        subject:
+            person: person-mya-stone
+        property: occupation
+        value: Mountain guide between Gates of the Moon and the Eyrie
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-vi
+        notes: Mya Stone guided Catelyn Stark up the mountain steps by night to the Eyrie, leading mules through waycastles Stone, Snow, and Sky. She wore riding leathers and silvered ringmail and was described as having made the dark climb a hundred times.

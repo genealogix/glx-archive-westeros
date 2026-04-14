@@ -1,0 +1,11 @@
+assertions:
+    assertion-mace-tyrell-title:
+        subject:
+            person: person-mace-tyrell
+        property: title
+        value: Lord of Highgarden, Warden of the South, Defender of the Marches, High Marshal of the Reach
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Tyrell section.

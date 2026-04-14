@@ -1,0 +1,11 @@
+assertions:
+    assertion-aerys-targaryen-ii-alias:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: alias
+        value: The Mad King
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, Targaryen succession list: 262-283 A erys II the Mad King'

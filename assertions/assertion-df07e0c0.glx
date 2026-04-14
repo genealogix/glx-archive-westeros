@@ -1,0 +1,11 @@
+assertions:
+    assertion-maron-martell-name:
+        subject:
+            person: person-maron-martell
+        property: name
+        value: Maron Martell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-appendix
+        notes: 'Verified against TWOIAF. Prince Maron Martell married Daeron II''s sister Daenerys, sealing Dorne''s entry into the realm. Source text: Daeron II and Prince Maron Martell at the monument to King Baelor.'

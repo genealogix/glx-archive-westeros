@@ -1,0 +1,7 @@
+events:
+    event-death-aemon-blackfyre:
+        title: Death of Aemon Blackfyre
+        type: death
+        participants:
+            - person: person-aemon-blackfyre
+              role: principal

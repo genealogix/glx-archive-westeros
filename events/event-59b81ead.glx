@@ -1,0 +1,9 @@
+events:
+    event-birth-brandon-stark-bran:
+        title: Birth of Brandon Stark
+        type: birth
+        place: place-winterfell
+        date: "290"
+        participants:
+            - person: person-brandon-stark-bran
+              role: principal

@@ -1,0 +1,12 @@
+assertions:
+    assertion-petyr-name:
+        subject:
+            person: person-petyr-baelish
+        property: name
+        value: Petyr Baelish
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-appendix
+            - citation-awoiaf-petyr-baelish
+        notes: 'AGOT Appendix lists: ''PETYR BAELISH, called LITTLEFINGER, master of coin.'' Lord and head of House Baelish.'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-tytos-blackwood-house:
+        subject:
+            person: person-tytos-blackwood
+        property: house
+        value: Blackwood
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Tully section.

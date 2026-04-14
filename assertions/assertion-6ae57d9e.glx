@@ -1,0 +1,11 @@
+assertions:
+    assertion-loras-tyrell-rainbow-guard-acok:
+        subject:
+            person: person-loras-tyrell
+        property: title
+        value: Lord Commander of the Rainbow Guard
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in Highgarden section. Source text: ''SER LORAS TYRELL, the Knight of Flowers, Lord Commander.'' Also in House Tyrell section.'

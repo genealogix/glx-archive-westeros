@@ -1,7 +1,0 @@
-events:
-    event-birth-brandon-stark-466:
-        title: "Birth of Brandon Stark"
-        type: birth
-        participants:
-            - person: person-brandon-stark-466
-              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-queen-meereen-adwd:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: title
+        value: Queen of Meereen
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''DAENERYS TARGARYEN, the First of Her Name, Queen of Meereen, Queen of the Andals and the Rhoynar and the First Men'''

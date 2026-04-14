@@ -1,0 +1,11 @@
+assertions:
+    assertion-kingsguard-absent-from-trident:
+        subject:
+            event: event-tower-of-joy
+        property: description
+        value: The Kingsguard were not at the Battle of the Trident
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-x
+        notes: 'Source text: ''I looked for you on the Trident. We were not there.'' The three Kingsguard (Dayne, Whent, Hightower) were stationed at the Tower of Joy during Robert''s Rebellion, not fighting beside King Aerys or Prince Rhaegar. They stated they had sworn a vow. This is widely interpreted as indicating they were guarding Lyanna Stark and/or Jon Snow''s birth.'

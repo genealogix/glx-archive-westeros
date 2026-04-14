@@ -1,0 +1,11 @@
+assertions:
+    assertion-daella-targaryen-name:
+        subject:
+            person: person-daella-targaryen
+        property: name
+        value: Daella Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, children of Jaehaerys I section. Daughter of Jaehaerys I and Queen Alysanne. Source text: PRINCESS DAELLA. Wed to Lord Rodrik Arryn in 80 AC, Daella died in childbed after delivering to him a daughter, Aemma.'

@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-284-gender:
+        subject:
+            person: person-targaryen-284
+        property: gender
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Likely Vaella Targaryen, daughter of Prince Daeron the Drunken.

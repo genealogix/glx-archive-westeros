@@ -1,0 +1,11 @@
+assertions:
+    assertion-eldon-estermont-gender:
+        subject:
+            person: person-eldon-estermont
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix, King in Highgarden section. Listed as Ser.

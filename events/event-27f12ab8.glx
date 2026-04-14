@@ -1,0 +1,7 @@
+events:
+    event-birth-delena-florent:
+        title: Birth of Delena Florent
+        type: birth
+        participants:
+            - person: person-delena-florent
+              role: principal

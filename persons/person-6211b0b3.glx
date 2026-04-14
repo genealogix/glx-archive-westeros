@@ -1,0 +1,11 @@
+persons:
+    person-elyana-vypren:
+        properties:
+            external_ids:
+                - MH:I78
+            gender: female
+            name:
+                fields:
+                    given: Elyana
+                    surname: Vypren
+                value: Elyana Vypren

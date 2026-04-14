@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-death-shadow:
+        subject:
+            person: person-renly-baratheon
+        property: cause_of_death
+        value: Murdered by a shadow assassin
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-catelyn-v
+        notes: 'Catelyn Stark witnessed Renly''s death in his tent at Storm''s End. A shadow creature with Stannis''s likeness struck him down. Source text: ''She heard Renly begin a jest, his shadow moving, lifting its sword, black on green, candles guttering, shivering, something was queer, wrong, and then she saw Renly''s sword still in its scabbard, sheathed still, but the shadowsword . . .'' Catelyn later concludes (ACOK Catelyn V): ''I saw a shadow. I thought it was Renly''s shadow at the first, but it was his brother''s.'''

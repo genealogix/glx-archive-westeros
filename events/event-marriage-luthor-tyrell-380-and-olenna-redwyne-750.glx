@@ -1,9 +1,0 @@
-events:
-    event-marriage-luthor-tyrell-380-and-olenna-redwyne-750:
-        title: "Marriage of Luthor Tyrell and Olenna Redwyne"
-        type: marriage
-        participants:
-            - person: person-luthor-tyrell-380
-              role: subject
-            - person: person-olenna-redwyne
-              role: subject

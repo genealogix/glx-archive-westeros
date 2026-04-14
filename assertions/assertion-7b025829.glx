@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-death-wine-cersei:
+        subject:
+            event: event-death-robert-baratheon
+        property: cause_of_death
+        value: Lancel Lannister kept Robert supplied with strong wine at Cersei's orders
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-xvi
+        notes: 'Varys confirmed to Ned in the black cells: ''Cersei gave him the wineskins, and told him it was Robert''s favourite vintage.'' Lancel was the elder squire who fetched Robert''s wine during the hunt. Varys: ''It was not wine that killed the king. It was your mercy.'' (Meaning Ned''s mercy in warning Cersei allowed her to arrange this.)'

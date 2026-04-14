@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-baratheon-i-name:
+        subject:
+            person: person-robert-baratheon-i
+        property: name
+        value: Robert Baratheon I
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Baratheon section. Listed as King. Source text: KING ROBERT BA RA THEON, the First of His Name'

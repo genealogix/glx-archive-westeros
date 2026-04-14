@@ -1,0 +1,11 @@
+assertions:
+    assertion-tower-of-joy-lyanna-stark:
+        subject:
+            event: event-tower-of-joy
+        participant:
+            person: person-lyanna-stark
+            role: subject
+            notes: 'Found dying in a bed of blood inside the tower. Source text: ''Promise me, Ned, she had whispered, from behind her wall of blood-red petals.'' Her death is the culmination of the Tower of Joy sequence.'
+        confidence: high
+        citations:
+            - citation-agot-eddard-x

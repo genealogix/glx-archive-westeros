@@ -1,0 +1,12 @@
+events:
+    event-birth-lyanna-stark:
+        title: Birth of Lyanna Stark
+        type: birth
+        place: place-winterfell
+        date: "266"
+        participants:
+            - person: person-lyanna-stark
+              role: principal
+            - person: person-rickard-stark
+              role: parent
+        notes: Younger sister of Brandon and Eddard Stark.

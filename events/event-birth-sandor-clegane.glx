@@ -1,9 +1,0 @@
-events:
-    event-birth-sandor-clegane:
-        title: "Birth of Sandor Clegane"
-        type: birth
-        date: "ABT 271"
-        participants:
-            - person: person-sandor-clegane
-              role: principal
-        notes: "Second son of the lord of Clegane's Keep."

@@ -1,0 +1,10 @@
+persons:
+    person-clydas:
+        properties:
+            gender: male
+            name:
+                fields:
+                    given: Clydas
+                    type: birth
+                value: Clydas
+        notes: Hunched, pink-eyed brother of the Night's Watch. Assistant to Maester Aemon in the rookery at Castle Black, helping him tend the ravens and carry messages. Described as scurrying and shuffling.

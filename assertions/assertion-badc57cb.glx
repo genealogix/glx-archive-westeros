@@ -1,0 +1,11 @@
+assertions:
+    assertion-eldon-estermont-name:
+        subject:
+            person: person-eldon-estermont
+        property: name
+        value: Eldon Estermont
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'Verified against ACOK Appendix, King in Highgarden section. Listed as uncle of Renly Baratheon. Source text: SER ELDON ESTERMONT, an uncle'

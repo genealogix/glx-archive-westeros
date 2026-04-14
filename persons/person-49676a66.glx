@@ -1,0 +1,11 @@
+persons:
+    person-tyana-wylde:
+        properties:
+            external_ids:
+                - MH:I36
+            gender: female
+            name:
+                fields:
+                    given: Tyana
+                    surname: Wylde
+                value: Tyana Wylde

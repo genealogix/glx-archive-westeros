@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-targaryen-206-name:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: name
+        value: Daenerys Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section (Daeron II). This is Princess Daenerys, sister of Daeron II, who married Prince Maron Martell to bring Dorne into the realm. Source text: one of his earliest significant acts after assuming the throne was to begin negotiations with his good-brother, Prince Maron, to unify Dorne under Targaryen rule... Prince Maron agreed to be betrothed to Daeron''s sister, Daenerys, once she was of age.'

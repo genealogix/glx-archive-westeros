@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-frey-40-name:
+        subject:
+            person: person-robert-frey-40
+        property: name
+        value: Robert Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. This is Rhaegar Frey''s son Robert, distinct from Raymund''s son Robert (person-robert-frey-96). Source text: Rhaegar''s son, ROBERT, a boy of thirteen'

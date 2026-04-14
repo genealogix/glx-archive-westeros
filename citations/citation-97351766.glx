@@ -1,0 +1,7 @@
+citations:
+    citation-awoiaf-battle-castle-black:
+        source: source-awoiaf
+        properties:
+            accessed: "2026-03-10"
+            locator: Battle of Castle Black
+        notes: AWOIAF article on the defense of the Wall against Mance Rayder.

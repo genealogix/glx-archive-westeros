@@ -1,0 +1,11 @@
+assertions:
+    assertion-eddard-stark-title:
+        subject:
+            person: person-eddard-stark
+        property: title
+        value: Lord of Winterfell, Warden of the North
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Stark section. Source text: EDDA RD STA RK, Lord of Winterfell, Warden of the North'

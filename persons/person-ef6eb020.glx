@@ -1,0 +1,11 @@
+persons:
+    person-cynthea-frey:
+        properties:
+            external_ids:
+                - MH:I94
+            gender: female
+            name:
+                fields:
+                    given: Cynthea
+                    surname: Frey
+                value: Cynthea Frey

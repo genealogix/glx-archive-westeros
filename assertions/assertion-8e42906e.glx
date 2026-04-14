@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-refused-winterfell:
+        subject:
+            person: person-jon-snow
+        property: description
+        value: Refused King Stannis's offer to legitimize him as Jon Stark, Lord of Winterfell
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jon-lord-commander
+        notes: 'Jon spent a night walking the Wall weighing the offer. His meditation on Ghost returning — ''He belongs to the old gods, this one'' — gave him his answer: he could not tear up the heart tree at Winterfell for Melisandre''s fire god, nor abandon his vows. He chose to accept the election as Lord Commander. Text: ''He had his answer then.'' The reunion with Ghost after months of separation triggers Jon''s realization he is bound to the Wall and the old gods.'

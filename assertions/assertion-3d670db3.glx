@@ -1,0 +1,11 @@
+assertions:
+    assertion-lucas-blackwood-killed-hosteen:
+        subject:
+            person: person-lucas-blackwood
+        property: cause_of_death
+        value: Cut down by Ser Hosteen Frey
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Direct text: ''She saw Lucas Blackwood cut down by Ser Hosteen Frey.'' Lucas Blackwood was among Robb''s bannermen at the Red Wedding.'

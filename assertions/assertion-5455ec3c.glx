@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-tully-house:
+        subject:
+            person: person-catelyn-tully
+        property: house
+        value: Tully
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section. Born of House Tully.

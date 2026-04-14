@@ -1,0 +1,11 @@
+assertions:
+    assertion-asha-greyjoy-kingsmoot:
+        subject:
+            person: person-asha-greyjoy
+        property: title
+        value: Captain of the Black Wind
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Listed as a claimant at the Kingsmoot on Old Wyk. Champions: Qarl the Maid, Tristifer Botley, Ser Harras Harlaw.'

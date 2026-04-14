@@ -1,0 +1,11 @@
+assertions:
+    assertion-ilyn-payne-executioner-ned:
+        subject:
+            person: person-ilyn-payne
+        property: role
+        value: executioner at the execution of Eddard Stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-arya-v
+        notes: 'Ser Ilyn Payne, King''s Justice, carried out the execution using Ice — Ned''s own ancestral Valyrian steel greatsword. Source from Arya V: ''Ser Ilyn Payne gestured and the knight in black-and-gold gave a command. The gold cloaks flung Lord Eddard to the marble, with his head and chest out over the edge. Ser Ilyn drew a two-handed greatsword from the scabbard on his back.'''

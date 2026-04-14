@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-baratheon-robert-renly:
+        type: sibling
+        participants:
+            - person: person-robert-baratheon-i
+              role: sibling
+            - person: person-renly-baratheon
+              role: sibling
+        properties:
+            context: Sons of Steffon Baratheon and Cassana Estermont. Full brothers.
+        notes: 'AGOT appendix: House Baratheon. Renly was the youngest, given Storm''s End by Robert over the elder Stannis.'

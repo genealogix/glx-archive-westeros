@@ -1,0 +1,12 @@
+assertions:
+    assertion-blackfyre-319-name:
+        subject:
+            person: person-blackfyre-319
+        property: name
+        value: Blackfyre
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM as unnamed Blackfyre. Child of Daemon Blackfyre per relationship data. TWOIAF mentions Daemon had 'seven sons and daughters' by Rohanne of Tyrosh. Cannot identify specific name from source text.

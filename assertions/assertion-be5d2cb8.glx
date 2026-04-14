@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-born-277:
+        subject:
+            event: event-birth-renly-baratheon
+        property: date
+        value: "277"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-renly-baratheon
+        notes: Born 277 AC at Storm's End.

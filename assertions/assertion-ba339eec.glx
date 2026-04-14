@@ -1,0 +1,12 @@
+assertions:
+    assertion-barristan-selmy-queens-hand:
+        subject:
+            person: person-barristan-selmy
+        property: title
+        value: Queen's Hand
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-queens-hand
+            - citation-adwd-the-queensguard
+        notes: Barristan Selmy assumes the title of Queen's Hand in Daenerys's absence and Hizdahr zo Loraq's imprisonment. 'I am no Hand, a part of him wanted to cry out. I am only a simple knight, the queen's protector. I never wanted this. But with the queen gone and the king in chains, someone had to rule.' He holds this position while planning a military assault on the Yunkai'i besieging Meereen.

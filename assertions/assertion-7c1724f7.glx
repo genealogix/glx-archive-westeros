@@ -1,0 +1,11 @@
+assertions:
+    assertion-beric-six-resurrections:
+        subject:
+            person: person-beric-dondarrion
+        property: description
+        value: Beric Dondarrion has been killed and resurrected six times by ASOS
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-arya-vi
+        notes: 'Direct confirmation from Thoros of Myr: ''Six,'' Thoros said reluctantly. ''And each time is harder. You have grown reckless, my lord.'' Beric himself describes three of his deaths at Clegane hands: a mace blow to the temple from Ser Burton Crakehall, hanging at Rushing Falls, and Gregor Clegane''s dirk through the eye at the visor. The mechanism is the ''last kiss'' — Thoros breathes R''hllor''s fire into the dying man.'

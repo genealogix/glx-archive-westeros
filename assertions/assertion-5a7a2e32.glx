@@ -1,0 +1,11 @@
+assertions:
+    assertion-bowen-marsh-conspirator:
+        subject:
+            person: person-bowen-marsh
+        property: description
+        value: led the assassination of Jon Snow
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-jon-xiii
+        notes: 'Bowen Marsh, First Steward of the Night''s Watch, stabbed Jon Snow in the belly with a dagger and left the blade buried in the wound. He wept as he did it: ''Bowen Marsh stood there before him, tears running down his cheeks. "For the Watch."'' He and Othell Yarwyck had been seen slipping out of the Shieldhall just before the attack.'

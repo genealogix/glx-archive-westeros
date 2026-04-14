@@ -1,0 +1,12 @@
+assertions:
+    assertion-nymeria-sand-name:
+        subject:
+            person: person-nymeria-sand
+        property: name
+        value: Nymeria Sand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Martell section. One of the Sand Snakes. Source text: NYMERIA, called LADY NYM, five-and-twenty, his daughter by a noblewoman of Volantis'

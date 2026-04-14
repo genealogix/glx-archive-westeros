@@ -1,7 +1,0 @@
-events:
-    event-birth-robert-arryn:
-        title: "Birth of Robert Arryn"
-        type: birth
-        participants:
-            - person: person-robert-arryn
-              role: principal

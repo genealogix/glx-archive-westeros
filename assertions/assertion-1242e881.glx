@@ -1,0 +1,11 @@
+assertions:
+    assertion-sansa-alayne-adwd:
+        subject:
+            person: person-sansa-stark
+        property: alias
+        value: Alayne Stone
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''ALAYNE STONE, Lord Petyr''s natural daughter, a maid of three-and-ten, actually Sansa Stark'''

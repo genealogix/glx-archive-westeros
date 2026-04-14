@@ -1,0 +1,9 @@
+events:
+    event-marriage-garlan-tyrell-and-leonette-fossoway:
+        title: Marriage of Ser Garlan Tyrell and Leonette Fossoway
+        type: marriage
+        participants:
+            - person: person-garlan-tyrell
+              role: subject
+            - person: person-leonette-fossoway
+              role: subject

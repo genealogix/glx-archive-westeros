@@ -1,0 +1,11 @@
+assertions:
+    assertion-cersei-jaime-secret-lover:
+        subject:
+            person: person-cersei-lannister
+        property: description
+        value: person-jaime-lannister
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-xii
+        notes: 'Source text: ''Both. Since we were children together. And why not? The Targaryens wed brother to sister for three hundred years, to keep the bloodlines pure. And Jaime and I are more than brother and sister. We are one person in two bodies.'' Cersei confessed the incestuous relationship to Ned Stark in the godswood.'

@@ -1,0 +1,7 @@
+events:
+    event-0aa114f2:
+        type: birth
+        date: "236"
+        participants:
+            - person: person-barristan-selmy
+              role: principal

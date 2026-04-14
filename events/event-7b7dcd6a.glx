@@ -1,0 +1,8 @@
+events:
+    event-birth-sarella-sand:
+        title: Birth of Sarella Sand
+        type: birth
+        date: "ABT 280"
+        participants:
+            - person: person-sarella-sand
+              role: principal

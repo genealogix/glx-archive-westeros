@@ -1,0 +1,11 @@
+assertions:
+    assertion-baratheon-500-name:
+        subject:
+            person: person-baratheon-500
+        property: name
+        value: Baratheon
+        confidence: low
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Unnamed Baratheon placeholder from GEDCOM import. Not identifiable in any novel appendix. No given name recorded.

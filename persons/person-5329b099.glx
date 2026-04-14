@@ -1,0 +1,10 @@
+persons:
+    person-flint:
+        properties:
+            external_ids:
+                - MH:I468
+            gender: female
+            name:
+                fields:
+                    surname: Flint
+                value: Flint

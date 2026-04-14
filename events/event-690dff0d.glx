@@ -1,0 +1,7 @@
+events:
+    event-birth-janna-tyrell:
+        title: Birth of Janna Tyrell
+        type: birth
+        participants:
+            - person: person-janna-tyrell
+              role: principal

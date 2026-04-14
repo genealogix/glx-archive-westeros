@@ -1,0 +1,11 @@
+assertions:
+    assertion-harry-strickland-captain-general-adwd:
+        subject:
+            person: person-homeless-harry-strickland
+        property: title
+        value: Captain-General of the Golden Company
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''HOMELESS HARRY STRICKLAND, captain-general'' of the Golden Company, ten thousand strong'

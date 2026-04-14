@@ -1,0 +1,12 @@
+assertions:
+    assertion-theon-culture-ironmen:
+        subject:
+            person: person-theon-greyjoy
+        property: culture
+        value: Ironmen
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-theon-greyjoy
+            - citation-acok-theon-i
+        notes: AWOIAF lists culture as Ironmen. Born at Pyke in the Iron Islands to House Greyjoy. Though raised at Winterfell as a ward, he is ironborn by birth and culture.

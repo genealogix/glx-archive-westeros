@@ -1,0 +1,11 @@
+assertions:
+    assertion-mance-rayder-physical-description:
+        subject:
+            person: person-mance-rayder
+        property: physical_description
+        value: Middling height, slender, sharp-faced, with shrewd brown eyes and long brown hair mostly gone grey
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jon-i
+        notes: 'Text: ''The King-beyond-the-Wall looked nothing like a king, nor even much a wildling. He was of middling height, slender, sharp-faced, with shrewd brown eyes and long brown hair that had gone mostly to grey. There was no crown on his head... He wore wool and leather, and his only garment of note was his ragged black wool cloak, its long tears patched with faded red silk.'''

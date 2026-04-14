@@ -1,0 +1,8 @@
+events:
+    event-death-jaehaerys-targaryen-i-the-conciliator:
+        title: Death of Jaehaerys Targaryen I
+        type: death
+        date: "103"
+        participants:
+            - person: person-jaehaerys-targaryen-i-the-conciliator
+              role: principal

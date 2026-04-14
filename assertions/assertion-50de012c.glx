@@ -1,0 +1,12 @@
+assertions:
+    assertion-rhaella-targaryen-name:
+        subject:
+            person: person-rhaella-targaryen
+        property: name
+        value: Rhaella Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists ''{QUEEN RHAELLA} of House Targaryen, died in childbed on Dragonstone''. Source text: Aerys and his queen, his sister Rhaella, were young, and it was anticipated that they would have many more children.'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-eleana-targaryen-name:
+        subject:
+            person: person-eleana-targaryen
+        property: name
+        value: Eleana Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Note: TWOIAF spells the name ''Elaena'' but GEDCOM imported as ''Eleana''. Daughter of Gaemon the Glorious, ruled with her brother Aegon. Source text: Gaemon''s son Aegon and his daughter Elaena ruled together after his death.'

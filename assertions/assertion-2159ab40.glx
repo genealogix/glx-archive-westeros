@@ -1,0 +1,11 @@
+assertions:
+    assertion-lyanna-died-283:
+        subject:
+            event: event-death-lyanna-stark
+        property: date
+        value: "283"
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-x
+        notes: Died in 283 AC at the Tower of Joy in a 'bed of blood.'

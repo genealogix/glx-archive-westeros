@@ -1,0 +1,12 @@
+assertions:
+    assertion-mandon-moore-attacked-tyrion:
+        subject:
+            person: person-mandon-moore
+        property: status
+        value: Attacked Tyrion Lannister on the bridge of boats; killed by Podrick Payne
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-tyrion-xiv
+            - citation-acok-tyrion-xv
+        notes: 'ACOK Tyrion XIV: ''Ser Mandon was holding out his left hand, why... The point slashed just beneath his eyes, and he felt its cold hard touch and then a blaze of pain... Ser Mandon put the point of his sword to the hollow of his throat and curled both hands around the hilt. And suddenly he lurched to the left, staggering into the rail. Wood split, and Ser Mandon Moore vanished with a shout and a splash.'' Podrick Payne pushed Moore overboard. Tyrion''s face was slashed open; he was scarred for life (referenced in ASOS appendix as ''wounded and scarred on the Blackwater'').'

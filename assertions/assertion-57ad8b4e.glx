@@ -1,0 +1,11 @@
+assertions:
+    assertion-mace-tyrell-title-hand-acok:
+        subject:
+            person: person-mace-tyrell
+        property: title
+        value: Hand of the King
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in Highgarden section. Source text: ''MACE TYRELL, Lord of Highgarden and Hand of the King.'' Serving as Renly''s Hand.'

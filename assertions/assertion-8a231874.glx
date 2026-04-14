@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-snow-alias-bastard-winterfell-adwd:
+        subject:
+            person: person-jon-snow
+        property: alias
+        value: The Bastard of Winterfell
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: ADWD Appendix identifies him as 'the Bastard of Winterfell'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-rains-castamere-premeditation-evidence:
+        subject:
+            event: event-red-wedding
+        property: description
+        value: Multiple loyal Freys absent; Roslin wept; musicians replaced with crossbowmen; Edwyn wore mail
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Catelyn identified the signs of premeditation only as the massacre began: ''Olyvar, she thought, and Perwyn, Alesander, all absent. And Roslin wept...'' Olyvar Frey had served as Robb''s squire and requested to stay — his absence was meaningful. Perwyn Frey and Alesander Frey (a singer) were also deliberately kept away. Gallery musicians were replaced with crossbowmen. Edwyn Frey wore concealed mail under his silken sleeve.'

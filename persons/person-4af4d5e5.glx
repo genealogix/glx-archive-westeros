@@ -1,0 +1,16 @@
+persons:
+    person-bronn:
+        properties:
+            alias:
+                - value: Ser Bronn of the Blackwater
+            gender: male
+            name:
+                fields:
+                    given: Bronn
+                value: Bronn
+            title:
+                - date: FROM 299
+                  value: Ser
+                - date: FROM 300
+                  value: Lord Protector of Stokeworth
+        notes: A low-born sellsword with dark hair, dark eyes, and a feral, wolfish look. Championed Tyrion Lannister in his trial by combat at the Eyrie, defeating Ser Vardis Egen. Served as Tyrion's chief enforcer during his time as Hand. Knighted after the Battle of the Blackwater. Married Lollys Stokeworth. Refused to champion Tyrion in his second trial by combat, calculating the odds against the Mountain too poor. Named Lollys's bastard son 'Tyrion' as a parting insult to Cersei. Effectively seized control of Castle Stokeworth. A pragmatic survivor who always bets on himself.

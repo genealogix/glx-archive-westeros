@@ -1,0 +1,12 @@
+assertions:
+    assertion-merianne-frey-name:
+        subject:
+            person: person-merianne-frey
+        property: name
+        value: Merianne Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Whalen''s daughter, MERIANNE, called MERRY, eleven'

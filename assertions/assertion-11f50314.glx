@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-will-fly:
+        subject:
+            person: person-brandon-stark-bran
+        property: description
+        value: 'Bloodraven told Bran: ''You will never walk again, Bran, but you will fly.'' This is a prophecy of Bran''s destiny as a greenseer who can project his consciousness through weirwood trees and into animals.'
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-bran-ii
+        notes: Direct quote from Bran II. The meaning is metaphorical — greenseeing allows a kind of flight through time and space via the weirwood network.

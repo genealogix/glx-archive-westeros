@@ -1,0 +1,11 @@
+assertions:
+    assertion-theon-delivered-stannis:
+        subject:
+            person: person-theon-greyjoy
+        property: location
+        value: Stannis Baratheon's camp at the crofter's village
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-sacrifice
+        notes: 'Theon Greyjoy is delivered to Stannis Baratheon''s snowbound camp at the crofter''s village. He was found near Winterfell by Mors ''Crowfood'' Umber, and brought by Tycho Nestoris of the Iron Bank. He arrives emaciated — described as ''a skull with skin, his hair bone-white and filthy,'' stinking, half his teeth gone or broken. He identifies himself by name: ''"Theon," he repeated. "My name is Theon. You have to know your name."'' This mirrors his earlier struggle to reclaim his identity from the Reek conditioning imposed by Ramsay Bolton. Asha Greyjoy, present as Stannis''s prisoner, recognizes him.'

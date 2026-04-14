@@ -1,0 +1,11 @@
+assertions:
+    assertion-quentyn-martell-dragon-theft-plan:
+        subject:
+            person: person-quentyn-martell
+        property: description
+        value: Quentyn Martell plans to steal a dragon from Meereen's fighting pits with Windblown company assistance
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-spurned-suitor
+        notes: 'Quentyn tells the Tattered Prince ''I need you to help me steal a dragon.'' He invokes his Targaryen blood lineage as justification, and recalls Daenerys''s words: ''The dragon has three heads. My marriage need not be the end of all your hopes.'' He offers double Yunkish pay plus Dornish gold held in Volantis banking houses. The Tattered Prince demands Pentos as his true price. Text: ''What I want, said the Tattered Prince, is Pentos.'''

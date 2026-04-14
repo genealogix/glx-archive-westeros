@@ -1,0 +1,12 @@
+assertions:
+    assertion-anya-waynwood-name:
+        subject:
+            person: person-anya-waynwood
+        property: name
+        value: Anya Waynwood
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Arryn section. ADWD Appendix updates to ''ANYA WAYNWOOD, Lady of Ironoaks Castle''. Source text: LADY ANYA WAYNWOOD, a widow'

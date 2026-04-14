@@ -1,0 +1,11 @@
+assertions:
+    assertion-rodrik-harlaw-alias:
+        subject:
+            person: person-rodrik-harlaw
+        property: alias
+        value: The Reader
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Called the Reader in the AFFC appendix.

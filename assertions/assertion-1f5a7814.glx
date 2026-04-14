@@ -1,0 +1,12 @@
+assertions:
+    assertion-petyr-frey-name:
+        subject:
+            person: person-petyr-frey
+        property: name
+        value: Petyr Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Alive in ASOS, dead (hanged) by AFFC. Source text: Ryman''s son, {PETYR}, called PETYR PIMPLE, hanged at Oldstones, m. Mylenda Caron'

@@ -1,0 +1,12 @@
+assertions:
+    assertion-melessa-florent-name:
+        subject:
+            person: person-melessa-florent
+        property: name
+        value: Melessa Florent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ACOK Appendix, House Florent section. Daughter of Lord Alester Florent, wife of Lord Randyll Tarly. Confirmed in ASOS and AFFC appendices. Source text: MELESSA, wed to Lord Randyll Tarly'

@@ -1,7 +1,0 @@
-events:
-    event-death-luthor-tyrell-395:
-        title: "Death of Ser Luthor Tyrell"
-        type: death
-        participants:
-            - person: person-luthor-tyrell-395
-              role: principal

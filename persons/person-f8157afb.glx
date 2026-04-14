@@ -1,0 +1,11 @@
+persons:
+    person-lewyn-martell:
+        properties:
+            external_ids:
+                - MH:I259
+            gender: male
+            name:
+                fields:
+                    given: Lewyn
+                    surname: Martell
+                value: Lewyn Martell

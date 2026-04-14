@@ -1,0 +1,9 @@
+events:
+    event-death-luthor-tyrell-380:
+        title: Death of Luthor Tyrell
+        type: death
+        participants:
+            - person: person-luthor-tyrell-380
+              role: principal
+        properties:
+            cause: Accident

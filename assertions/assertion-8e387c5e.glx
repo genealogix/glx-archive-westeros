@@ -1,0 +1,11 @@
+assertions:
+    assertion-drogo-death-cost-rhaego:
+        subject:
+            person: person-daenerys-targaryen-206
+        property: description
+        value: Mirri Maz Duur's bloodmagic cost Daenerys her son Rhaego — born dead and monstrous as the price for Drogo's continued (mindless) life
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-ix
+        notes: Mirri Maz Duur warned 'only death can pay for life.' Rhaego was stillborn and described as monstrous — scaled, with leathery wings like a bat, already rotting. This fulfilled the Dothraki prophecy regarding the stallion who mounts the world being turned to ash. The dragon hatching may have been a second 'payment' — dragons for the lost son.

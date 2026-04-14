@@ -1,0 +1,11 @@
+persons:
+    person-wendel-frey:
+        properties:
+            external_ids:
+                - MH:I137
+            gender: male
+            name:
+                fields:
+                    given: Wendel
+                    surname: Frey
+                value: Wendel Frey

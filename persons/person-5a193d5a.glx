@@ -1,0 +1,10 @@
+persons:
+    person-targaryen-284:
+        properties:
+            external_ids:
+                - MH:I284
+            gender: female
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen

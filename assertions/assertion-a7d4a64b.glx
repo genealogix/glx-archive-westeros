@@ -1,0 +1,11 @@
+assertions:
+    assertion-blackwater-tyrion-sortie:
+        subject:
+            event: event-battle-blackwater
+        property: description
+        value: Tyrion Lannister led a mounted sortie from the King's Gate against the battering ram, with Ser Mandon Moore and Podrick Payne
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-tyrion-xiv
+        notes: 'ACOK Tyrion XIV: ''Very well, I''ll lead the sortie... Ser Mandon, you''ll bear the king''s banner. Pod, my helm... "They say I''m half a man," he said. "What does that make the lot of you?" That shamed them well enough.'' Sandor Clegane refused to lead the sortie. Tyrion routed the ram crew and fought along the riverfront.'

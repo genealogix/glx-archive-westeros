@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-religion-old-gods:
+        subject:
+            person: person-jon-snow
+        property: religion
+        value: Old Gods
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-jon-i
+        notes: Follows the Old Gods like his father Ned.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-reaches-three-eyed-crow:
+        subject:
+            person: person-brandon-stark-bran
+        property: description
+        value: Bran Stark reached the cave of Brynden Rivers (Lord Bloodraven, the three-eyed crow) beyond the Wall in 300 AC, fulfilling his recurring prophetic dream from AGOT. Bloodraven confirmed Bran will never walk again but will fly — meaning he will become a greenseer.
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-bran-ii
+        notes: Directly witnessed in Bran II POV. The description of Bloodraven — fused to a weirwood throne, one red eye, a root where his other eye should be — matches both the three-eyed crow of Bran's dreams and the historical figure Brynden Rivers (half-brother of Daeron II, former Lord Commander of the Night's Watch).

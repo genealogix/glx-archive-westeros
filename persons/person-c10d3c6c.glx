@@ -1,0 +1,10 @@
+persons:
+    person-belmore:
+        properties:
+            external_ids:
+                - MH:I247
+            gender: female
+            name:
+                fields:
+                    surname: Belmore
+                value: Belmore

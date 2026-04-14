@@ -1,0 +1,11 @@
+assertions:
+    assertion-walder-rivers-premeditation:
+        subject:
+            person: person-walder-rivers
+        property: description
+        value: Attended negotiations; knew of the plot in advance
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: Walder Rivers, a bastard son of Lord Walder Frey, attended the negotiation meeting where the Edmure marriage was arranged. He was blunt and curtly pressed Edmure to accept Roslin immediately, saying 'My grandfather has come to mislike lengthy betrothals' — with deliberate irony about Robb's breaking of his betrothal vow. His presence and sharp tongue at negotiations indicate he was part of the conspiracy. At the feast he was present but his specific actions during the massacre are not described in the text.

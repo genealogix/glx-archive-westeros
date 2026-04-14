@@ -1,0 +1,11 @@
+assertions:
+    assertion-hodor-name-acok:
+        subject:
+            person: person-hodor
+        property: name
+        value: Hodor
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the North section (household at Winterfell). Source text: ''HODOR, her great-grandson, a simpleminded stableboy.'' Great-grandson of Old Nan.'

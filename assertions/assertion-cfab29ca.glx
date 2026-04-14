@@ -1,0 +1,11 @@
+assertions:
+    assertion-renly-baratheon-title-king-acok:
+        subject:
+            person: person-renly-baratheon
+        property: title
+        value: King (self-styled)
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in Highgarden section. Source text: ''RENLY BARATHEON, the First of His Name, the younger of King Robert''s brothers, formerly Lord of Storm''s End.'' Styles himself king.'

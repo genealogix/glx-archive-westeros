@@ -1,0 +1,11 @@
+assertions:
+    assertion-groleo-execution-yunkai:
+        subject:
+            person: person-groleo
+        property: cause_of_death
+        value: Executed by Yunkai as reprisal for death of Yurkhaz zo Yunzak
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-discarded-knight
+        notes: 'Admiral Groleo''s severed head is thrown into Hizdahr zo Loraq''s court by the sellsword Bloodbeard. The Yunkish council of masters claims blood for blood — the death of their commander Yurkhaz zo Yunzak (trampled at Daznak''s Pit during Drogon''s attack) demands a Meereenese hostage''s death. Three other hostages are returned. Three Meereenese hostages (including Jhogo, Hero, and Daario Naharis) remain in Yunkish custody. Groleo had a wife, children, and grandchildren in Pentos; he had sailed with Daenerys from Pentos to Qarth and beyond. Text: ''All he ever wanted was to go home'' (Barristan''s thought).'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-baelon-targaryen-name:
+        subject:
+            person: person-baelon-targaryen
+        property: name
+        value: Baelon Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, children of Jaehaerys I section. Source text: PRINCE BAELON (called the Spring Prince for the season of his birth, and Baelon the Brave)... Baelon followed him as Hand less than a year after, and served admirably. But while hunting in 101 AC, Prince Baelon complained of a stitch in his side, and died within days of a burst belly.'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-stafford-lannister-new-army:
+        subject:
+            person: person-stafford-lannister
+        property: description
+        value: Raising new Lannister levies at Casterly Rock to reinforce Tywin's army; his son Ser Daven Lannister described as more formidable
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-catelyn-i
+        notes: 'Source text (Catelyn I): Brynden Tully reports: ''Ser Stafford Lannister, it''s said.'' Catelyn: ''Another nephew?'' Brynden: ''Cousin. Brother to Lord Tywin''s late wife, so twice related. An old man and a bit of a dullard, but he has a son, Ser Daven, who is more formidable.'' Stafford was later killed at the Battle of Oxcross.'

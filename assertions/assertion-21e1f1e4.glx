@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-qyburn-treatment:
+        subject:
+            person: person-jaime-lannister
+        property: medical_treatment
+        value: Qyburn cleaned and saved the stump at Harrenhal, refusing to amputate the arm
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-jaime-v
+        notes: Qyburn pared away necrotic flesh and poured boiling wine on the wound. Jaime refused milk of the poppy and threatened Qyburn's life if he amputated. Qyburn was a former maester stripped of his chain by the Citadel.

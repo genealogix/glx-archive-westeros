@@ -1,0 +1,10 @@
+assertions:
+    assertion-coronation-robert-description:
+        subject:
+            event: event-coronation-robert
+        property: description
+        value: Robert crowned king by right of conquest and Targaryen blood through Rhaelle Targaryen
+        confidence: high
+        citations:
+            - citation-awoiaf-roberts-rebellion
+        notes: Robert's Targaryen grandmother Rhaelle provided a claim to legitimize the new dynasty

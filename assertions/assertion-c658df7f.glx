@@ -1,0 +1,11 @@
+assertions:
+    assertion-waymar-royce-description:
+        subject:
+            person: person-waymar-royce
+        property: description
+        value: Eighteen years old, grey-eyed, graceful, slender as a knife; wore sable cloak; youngest son of an ancient house with too many heirs; sworn brother of the Night's Watch for less than half a year
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-prologue
+        notes: 'Source text (Prologue): ''Ser Waymar Royce was the youngest son of an ancient house with too many heirs. He was a handsome youth of eighteen, grey-eyed and graceful and slender as a knife... Ser Waymar had been a Sworn Brother of the Night''s Watch for less than half a year... His cloak was his crowning glory; sable, thick and black and soft as sin.'''

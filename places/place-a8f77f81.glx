@@ -1,0 +1,6 @@
+places:
+    place-oldtown:
+        name: Oldtown
+        parent: place-the-reach
+        type: city
+        notes: The oldest city in Westeros, located at the mouth of the Honeywine in the southwestern Reach. Home to the Citadel where maesters are trained, and the Starry Sept, the former seat of the Faith. Ruled by House Hightower from the Hightower.

@@ -1,0 +1,12 @@
+assertions:
+    assertion-danwell-frey-gender:
+        subject:
+            person: person-danwell-frey
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER DANWELL, m. Wynafrei Whent'

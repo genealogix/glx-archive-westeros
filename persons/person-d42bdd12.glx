@@ -1,0 +1,10 @@
+persons:
+    person-velaryon:
+        properties:
+            external_ids:
+                - MH:I322
+            gender: female
+            name:
+                fields:
+                    surname: Velaryon
+                value: Velaryon

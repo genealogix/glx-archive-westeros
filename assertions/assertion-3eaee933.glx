@@ -1,0 +1,12 @@
+assertions:
+    assertion-sandor-alias-dog:
+        subject:
+            person: person-sandor-clegane
+        property: alias
+        value: Dog
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-sansa-i
+            - citation-awoiaf-sandor-clegane
+        notes: Prince Joffrey frequently and dismissively calls Sandor 'Dog.' AWOIAF references AGOT for this alias.

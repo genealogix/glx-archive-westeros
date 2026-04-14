@@ -1,0 +1,12 @@
+assertions:
+    assertion-cersei-frey-name:
+        subject:
+            person: person-cersei-frey
+        property: name
+        value: Cersei Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists age six. Source text: Raymund''s daughter, CERSEI, called LITTLE BEE'

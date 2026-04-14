@@ -1,0 +1,11 @@
+persons:
+    person-petyr-frey:
+        properties:
+            external_ids:
+                - MH:I10
+            gender: male
+            name:
+                fields:
+                    given: Petyr
+                    surname: Frey
+                value: Petyr Frey

@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-golden-face-brans-dream:
+        subject:
+            person: person-brandon-stark-bran
+        property: description
+        value: Jaime Lannister's face in the falling dream
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-bran-iii
+        notes: 'Source text: ''A face swam up at him out of the grey mist, shining with light, golden. The things I do for love, it said. Bran screamed. The crow took to the air, cawing. Not that, it shrieked at him. Forget that, you do not need it now, put it aside, put it away.'' Bran''s unconscious recalls Jaime Lannister''s face and words immediately before pushing him from the tower. The crow (three-eyed raven) suppresses this memory. Jaime said ''the things I do for love'' to Cersei before pushing Bran — this confirms Bran retained the memory even during the coma.'

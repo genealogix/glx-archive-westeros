@@ -1,0 +1,11 @@
+assertions:
+    assertion-dacey-mormont-killed-ryman-frey:
+        subject:
+            person: person-dacey-mormont
+        property: cause_of_death
+        value: Axed in the stomach by Ser Ryman Frey
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Dacey Mormont smashed a wine flagon into Benfrey Frey''s face to break free and ran for the door. Ser Ryman Frey, clad in full plate, pushed into the hall with a dozen men-at-arms carrying longaxes and buried his axe in her stomach. Direct text: ''Ser Ryman buried the head of his axe in Dacey''s stomach.'''

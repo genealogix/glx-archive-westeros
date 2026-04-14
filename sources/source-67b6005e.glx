@@ -1,0 +1,10 @@
+sources:
+    source-acok:
+        title: A Clash of Kings
+        type: novel
+        authors:
+            - George R.R. Martin
+        date: "1998"
+        repository: repository-asoiaf-novels
+        properties:
+            isbn: 978-0553108033

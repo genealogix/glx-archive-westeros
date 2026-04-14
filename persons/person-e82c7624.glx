@@ -1,0 +1,12 @@
+persons:
+    person-aemon-rivers:
+        properties:
+            external_ids:
+                - MH:I151
+            gender: male
+            name:
+                fields:
+                    given: Aemon
+                    prefix: Ser
+                    surname: Rivers
+                value: Ser Aemon Rivers

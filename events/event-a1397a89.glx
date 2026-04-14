@@ -1,0 +1,9 @@
+events:
+    event-marriage-arthur-ambrose-and-alysanne-hightower:
+        title: Marriage of Arthur Ambrose and Alysanne Hightower
+        type: marriage
+        participants:
+            - person: person-arthur-ambrose
+              role: subject
+            - person: person-alysanne-hightower
+              role: subject

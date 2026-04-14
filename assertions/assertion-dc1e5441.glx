@@ -1,0 +1,11 @@
+assertions:
+    assertion-red-wedding-date-appendix:
+        subject:
+            event: event-red-wedding
+        property: date
+        value: "299"
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: The Red Wedding occurs during ASOS. The wedding of Edmure and Roslin at the Twins, which became a massacre. Depicted in Catelyn VII chapter of ASOS.

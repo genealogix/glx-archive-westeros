@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-arryn-poisoned-tears-of-lys:
+        subject:
+            person: person-petyr-baelish
+        property: cause_of_death
+        value: Poisoned with 'the tears of Lys'
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: Varys to Ned: ''The tears of Lys, they call it. A rare and costly thing, clear and sweet as water, and it leaves no trace. I begged Lord Arryn to use a taster, in this very room I begged him, but he would not hear of it.'' The poison was administered by someone close to Jon Arryn who ''often shared meat and mead with him.'' Varys implies Ser Hugh of the Vale was the poisoner, noting he stayed in King''s Landing after Lysa fled to the Eyrie. POV: Eddard, sole witness to Varys''s private revelation. Varys is an interested party — his information should be treated as medium-to-high confidence.'

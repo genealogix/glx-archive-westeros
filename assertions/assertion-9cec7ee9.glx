@@ -1,0 +1,11 @@
+assertions:
+    assertion-doom-of-valyria-cause-unknown:
+        subject:
+            event: event-doom-of-valyria
+        property: cause
+        value: Unknown — multiple theories, none conclusive
+        confidence: high
+        status: proven
+        citations:
+            - citation-twoiaf-doom-valyria
+        notes: 'TWOIAF explicitly states: ''To this day, no one knows what caused the Doom.'' Theories include: natural volcanic eruption of all Fourteen Flames; divine punishment for Valyrian promiscuity (septon theory); failure of spells that tamed the Flames (Septon Barth''s theory, referenced by Archmaester Gyldayn); assassination of mages who maintained the rituals; the curse of Garin the Great; or priests of R''hllor calling down fire. No theory is endorsed as definitive.'

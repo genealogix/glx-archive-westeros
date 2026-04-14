@@ -1,0 +1,12 @@
+assertions:
+    assertion-dickon-frey-name:
+        subject:
+            person: person-dickon-frey
+        property: name
+        value: Dickon Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Twin of Mathis. Source text: Jammos''s twin sons, DICKON and MATHIS, five'

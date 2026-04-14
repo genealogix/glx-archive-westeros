@@ -1,0 +1,12 @@
+assertions:
+    assertion-symond-frey-name:
+        subject:
+            person: person-symond-frey
+        property: name
+        value: Symond Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: SYMOND, m. Betharios of Braavos'

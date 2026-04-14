@@ -1,0 +1,10 @@
+persons:
+    person-arryn-475:
+        properties:
+            external_ids:
+                - MH:I475
+            gender: unknown
+            name:
+                fields:
+                    surname: Arryn
+                value: Arryn

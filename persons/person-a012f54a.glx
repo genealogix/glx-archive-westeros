@@ -1,0 +1,11 @@
+persons:
+    person-leyla-hightower:
+        properties:
+            external_ids:
+                - MH:I419
+            gender: female
+            name:
+                fields:
+                    given: Leyla
+                    surname: Hightower
+                value: Leyla Hightower

@@ -1,0 +1,6 @@
+places:
+    place-great-wyk:
+        name: Great Wyk
+        parent: place-the-iron-islands
+        type: island
+        notes: The largest of the Iron Islands. Seat of House Goodbrother.

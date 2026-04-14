@@ -1,0 +1,11 @@
+assertions:
+    assertion-rodrik-harlaw-name:
+        subject:
+            person: person-rodrik-harlaw
+        property: name
+        value: Rodrik Harlaw
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'AFFC Appendix, On Harlaw section. Source text: RODRIK HARLAW, called THE READER, Lord of Harlaw, Lord of Ten Towers, Harlaw of Harlaw'

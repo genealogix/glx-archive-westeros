@@ -1,0 +1,11 @@
+assertions:
+    assertion-elia-martell-title:
+        subject:
+            person: person-elia-martell
+        property: title
+        value: Princess
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Martell section.

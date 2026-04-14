@@ -1,0 +1,11 @@
+assertions:
+    assertion-lysa-arryn-letter-allegation:
+        subject:
+            person: person-lysa-tully
+        property: description
+        value: Sent secret letter to Catelyn alleging Lannisters (the queen) murdered Jon Arryn; letter concealed in false bottom of box with Myr lens; sealed in blue wax with moon-and-falcon of House Arryn
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-i
+        notes: 'Source text (Catelyn I): ''In the blue wax was the moon-and-falcon seal of House Arryn. "It''s from Lysa."'' And: ''Lysa says Jon Arryn was murdered... The Lannisters. The queen.'' The letter was written in a private cipher the sisters shared as girls and hidden in the false bottom of a carved wooden box sent to Maester Luwin, containing a Myr lens as cover.'

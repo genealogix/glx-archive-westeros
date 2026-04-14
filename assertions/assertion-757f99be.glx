@@ -1,0 +1,12 @@
+assertions:
+    assertion-flement-brax-name:
+        subject:
+            person: person-flement-brax
+        property: name
+        value: Flement Brax
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-arryn-236-gender:
+        subject:
+            person: person-arryn-236
+        property: gender
+        value: unknown
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Unnamed Arryn from GEDCOM import.

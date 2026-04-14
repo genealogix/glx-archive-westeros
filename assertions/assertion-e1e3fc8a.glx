@@ -1,0 +1,12 @@
+assertions:
+    assertion-waltyr-frey-name:
+        subject:
+            person: person-waltyr-frey
+        property: name
+        value: Waltyr Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: WALTYR, called TYR, Lord Walder''s twenty-first son, ten'

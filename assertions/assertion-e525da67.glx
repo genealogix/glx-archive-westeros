@@ -1,0 +1,12 @@
+assertions:
+    assertion-waltyr-frey-gender:
+        subject:
+            person: person-waltyr-frey
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: WALTYR, called TYR, a boy of ten'

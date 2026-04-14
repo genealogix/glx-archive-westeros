@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-snow-fate-ambiguous:
+        subject:
+            person: person-jon-snow
+        property: description
+        value: ambiguous — possibly dead, possibly resurrected
+        confidence: low
+        status: speculative
+        citations:
+            - citation-adwd-jon-xiii
+        notes: Jon's final chapter ends with him falling face-first into the snow after multiple stab wounds. ADWD does not confirm his death. Melisandre of Asshai is present at Castle Black, and had previously been associated with resurrection (Thoros of Myr via R'hllor is established as capable of raising the dead). His connection to Ghost through warging is also a potential survival mechanism. As of the end of ADWD, his fate is the single largest unresolved cliffhanger in the series.

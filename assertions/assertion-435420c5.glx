@@ -1,0 +1,12 @@
+assertions:
+    assertion-benfrey-frey-gender:
+        subject:
+            person: person-benfrey-frey
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER BENFREY, m. Jyanna Frey, a cousin'

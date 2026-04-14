@@ -1,0 +1,12 @@
+assertions:
+    assertion-emmon-frey-name:
+        subject:
+            person: person-emmon-frey
+        property: name
+        value: Emmon Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER EMMON, Lord Walder''s second son, m. Genna Lannister'

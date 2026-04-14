@@ -1,0 +1,11 @@
+assertions:
+    assertion-gregor-clegane-name-acok:
+        subject:
+            person: person-gregor-clegane
+        property: name
+        value: Ser Gregor Clegane
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, House Lannister section. Source text: ''SER GREGOR CLEGANE, the Mountain That Rides.'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-donal-noye-born:
+        subject:
+            event: event-f7433ad6
+        property: date
+        value: BEF 252
+        confidence: medium
+        status: proven
+        citations:
+            - citation-awoiaf-donal-noye
+        notes: Born before 252 AC in the Stormlands. Stormlander culture, formerly in service to House Baratheon of Storm's End.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-osha-wildling:
+        subject:
+            person: person-osha
+        property: description
+        value: Beyond the Wall (wildling)
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-v
+        notes: 'Source text: ''I broke no oaths. Stiv and Wallen flew down off the Wall, not me. The black crows got no place for women.'' Osha is a wildling woman, not a Night''s Watch deserter. She was traveling south with the deserters Stiv and Wallen.'

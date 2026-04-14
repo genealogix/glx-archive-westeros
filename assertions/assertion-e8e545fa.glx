@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-bastard-storms-end:
+        subject:
+            person: person-robert-baratheon-i
+        property: description
+        value: Acknowledged bastard son at Storm's End (Edric Storm)
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-v
+        notes: 'Source text: ''He had openly acknowledged one of his bastards, a boy of Bran''s age whose mother was highborn. The lad was being fostered by Lord Renly''s castellan at Storm''s End.'' This is Edric Storm (though not named here), whose mother was Delena Florent. Bran is about 7 in 298 AC, so Edric would also be about 7.'

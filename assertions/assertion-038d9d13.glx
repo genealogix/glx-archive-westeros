@@ -1,0 +1,11 @@
+assertions:
+    assertion-rodrik-greyjoy-death:
+        subject:
+            person: person-rodrik-greyjoy
+        property: cause_of_death
+        value: Slain by Lord Jason Mallister at Seagard during the Greyjoy Rebellion
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-theon-i
+        notes: 'Source text (Theon I): ''Rodrik had been slain by Lord Jason Mallister at Seagard.'' Also: ''When my brother stormed Seagard, Lord Jason had slain Rodrik Greyjoy under the walls of the castle, and thrown the ironmen back into the bay.'' Theon remembers Rodrik chiefly for his ''drunken cuffs.'''

@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-tully-catelyn-edmure:
+        type: sibling
+        participants:
+            - person: person-catelyn-tully
+              role: sibling
+            - person: person-edmure-tully
+              role: sibling
+        properties:
+            context: Children of Hoster Tully and Minisa Whent. Full siblings.
+        notes: 'AGOT appendix: House Tully. Edmure is younger than Catelyn. He is well-meaning but prone to making strategic blunders; his decision to shelter Robb''s forces and accept the Red Wedding feast at the Twins was orchestrated by Walder Frey.'

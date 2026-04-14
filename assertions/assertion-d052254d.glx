@@ -1,0 +1,11 @@
+assertions:
+    assertion-jorelle-mormont-name:
+        subject:
+            person: person-jorelle-mormont
+        property: name
+        value: Jorelle Mormont
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Stark section. Listed as daughter of Maege Mormont. Source text: ALYSANE, LYRA, JORELLE, LYANNA, her daughters'

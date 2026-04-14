@@ -1,0 +1,11 @@
+assertions:
+    assertion-gregor-confessed-elia:
+        subject:
+            person: person-gregor-clegane
+        property: description
+        value: Confessed to killing Aegon Targaryen, raping Elia Martell, and smashing her head in while dying from Oberyn's poisoned spear
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-oberyn-duel
+        notes: 'Gregor confessed with Oberyn pinned beneath him: ''Elia of Dorne. I killed her screaming whelp. Then I raped her. Then I smashed her fucking head in.'' This is the most direct canonical confession to the crimes. Tyrion witnessed it. Text from the throne room, witnessed by hundreds. The confession implicates Tywin Lannister as the one who ordered the Sack murders.'

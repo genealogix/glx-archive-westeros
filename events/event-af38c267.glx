@@ -1,0 +1,9 @@
+events:
+    event-marriage-benfrey-frey-and-jyanna-frey:
+        title: Marriage of Benfrey Frey and Jyanna Frey
+        type: marriage
+        participants:
+            - person: person-benfrey-frey
+              role: subject
+            - person: person-jyanna-frey
+              role: subject

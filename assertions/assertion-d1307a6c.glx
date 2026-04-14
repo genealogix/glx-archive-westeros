@@ -1,0 +1,11 @@
+assertions:
+    assertion-osha-name-acok:
+        subject:
+            person: person-osha
+        property: name
+        value: Osha
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the North section (household at Winterfell). Source text: ''OSHA, a wildling woman taken captive in the wolfswood, serving as kitchen drudge.'''

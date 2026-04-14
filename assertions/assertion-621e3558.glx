@@ -1,0 +1,12 @@
+assertions:
+    assertion-cyrenna-swann-name:
+        subject:
+            person: person-cyrenna-swann
+        property: name
+        value: Cyrenna Swann
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

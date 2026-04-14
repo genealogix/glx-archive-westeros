@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-alias-king-narrow-sea:
+        subject:
+            person: person-stannis-baratheon
+        property: alias
+        value: The King in the Narrow Sea
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-appendix
+        notes: ACOK Appendix lists Stannis as 'The King in the Narrow Sea.' His seat at Dragonstone commands the Blackwater Bay approach.

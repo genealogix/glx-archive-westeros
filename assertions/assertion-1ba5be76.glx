@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaegel-targaryen-name:
+        subject:
+            person: person-rhaegel-targaryen
+        property: name
+        value: Rhaegel Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section (Aerys I). Third son of Daeron II, died 215 AC. Source text: Rhaegel, a sweet boy touched by madness... His brother Rhaegel, third son of Daeron the Good, had predeceased him, choking to death upon a lamprey pie in 215 AC during a feast.'

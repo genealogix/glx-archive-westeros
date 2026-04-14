@@ -1,0 +1,11 @@
+assertions:
+    assertion-meera-reed-name-acok:
+        subject:
+            person: person-meera-reed
+        property: name
+        value: Meera Reed
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the North section (bannermen in the north). Source text: ''Howland''s daughter, MEERA, a maid of fifteen.'''

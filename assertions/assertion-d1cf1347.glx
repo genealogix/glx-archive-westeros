@@ -1,0 +1,11 @@
+assertions:
+    assertion-melisandre-origin-asshai:
+        subject:
+            person: person-melisandre
+        property: description
+        value: Lady Melisandre of Asshai; reads from 'ancient books of Asshai'
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I): Melisandre speaks during the ceremony — ''In ancient books of Asshai it is written that there will come a day after a long summer when the stars bleed...'' Her full title ''Lady Melisandre of Asshai'' is established in the ACOK appendix.'

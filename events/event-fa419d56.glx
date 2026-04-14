@@ -1,0 +1,7 @@
+events:
+    event-birth-marsella-waynwood:
+        title: Birth of Marsella Waynwood
+        type: birth
+        participants:
+            - person: person-marsella-waynwood
+              role: principal

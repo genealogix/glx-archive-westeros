@@ -1,0 +1,13 @@
+assertions:
+    assertion-north-remembers-manderly-loyalty:
+        subject:
+            person: person-wyman-manderly
+        property: allegiance
+        value: House Stark
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-prince-of-winterfell
+            - citation-adwd-the-turncloak
+            - citation-adwd-theon
+        notes: 'Wyman Manderly''s outward submission to the Boltons conceals secret loyalty to House Stark. Evidence: (1) Lady Dustin tells Theon that Manderly wants to kill them all but ''does not have the belly for it'' — ironic, since he does have the belly for the murder of the three Freys (whose pies he serves). (2) Big Walder told Theon that Jared, Rhaegar, and Symond Frey never reached Barrowton after leaving White Harbor — ''Lord Wyman had them killed. That''s what I would have done if I was him.'' (3) Manderly calls drunkenly for ''a song about the Rat Cook'' — a reference to the story of a cook who murdered a king''s son and baked him in a pie, punished not for the murder but for violating guest right. (4) The three wedding pies are made from the three missing Freys. The chapter ''A Ghost in Winterfell'' later confirms ''The north remembers, Frey'' (Lady Dustin''s line, and Manderly''s hidden allegiance).'

@@ -1,7 +1,0 @@
-events:
-    event-birth-lynesse-hightower:
-        title: "Birth of Lynesse Hightower"
-        type: birth
-        participants:
-            - person: person-lynesse-hightower
-              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-lannister-captive-acok:
+        subject:
+            person: person-jaime-lannister
+        property: status
+        value: captive at Riverrun
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix. Source text: ''SER JAIME LANNISTER, the Kingslayer, Lord Commander of the Kingsguard, a captive at Riverrun.'' Listed twice (under Joffrey''s uncles and under the Kingsguard).'

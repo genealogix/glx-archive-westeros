@@ -1,0 +1,11 @@
+assertions:
+    assertion-jojen-reed-name-acok:
+        subject:
+            person: person-jojen-reed
+        property: name
+        value: Jojen Reed
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the North section (bannermen in the north). Source text: ''Howland''s son, JOJEN, a boy of thirteen.'''

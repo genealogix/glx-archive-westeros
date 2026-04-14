@@ -1,0 +1,11 @@
+assertions:
+    assertion-olyvar-martell-name:
+        subject:
+            person: person-olyvar-martell
+        property: name
+        value: Olyvar Martell
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Not found in novel appendices or TWOIAF House Martell sections. May be a GEDCOM artifact or very obscure reference. Requires further verification.

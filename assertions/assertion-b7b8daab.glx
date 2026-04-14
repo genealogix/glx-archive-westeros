@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-born-kings-landing:
+        subject:
+            event: event-birth-joffrey-baratheon
+        property: place
+        value: place-kings-landing
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-cersei-lannister
+        notes: Born in King's Landing.

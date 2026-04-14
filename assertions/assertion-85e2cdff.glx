@@ -1,0 +1,12 @@
+assertions:
+    assertion-aenys-targaryen-i-name:
+        subject:
+            person: person-aenys-targaryen-i
+        property: name
+        value: Aenys Targaryen I
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists ''37-42 Aenys I son of Aegon and Rhaenys''. Source text: Aenys, the Prince of Dragonstone and heir to the Iron Throne, was at Highgarden when he learned of his father''s death and swiftly flew on his dragon to receive his crown.'

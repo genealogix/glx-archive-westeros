@@ -1,0 +1,11 @@
+assertions:
+    assertion-brynden-tully-blackfish-alias:
+        subject:
+            person: person-brynden-tully-blackfish
+        property: alias
+        value: The Blackfish
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Arryn and Tully sections.

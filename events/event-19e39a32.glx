@@ -1,0 +1,7 @@
+events:
+    event-birth-walton-frey:
+        title: Birth of Walton Frey
+        type: birth
+        participants:
+            - person: person-walton-frey
+              role: principal

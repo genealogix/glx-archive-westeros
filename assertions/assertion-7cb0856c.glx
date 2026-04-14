@@ -1,0 +1,11 @@
+assertions:
+    assertion-daven-lannister-name:
+        subject:
+            person: person-daven-lannister
+        property: name
+        value: Daven Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Son of Ser Stafford Lannister. Source text: his son, SER DA VEN LA NNISTER'

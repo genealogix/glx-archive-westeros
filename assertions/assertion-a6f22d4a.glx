@@ -1,0 +1,11 @@
+assertions:
+    assertion-val-wildling-princess-adwd:
+        subject:
+            person: person-val
+        property: alias
+        value: The wildling princess
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''VAL, Dalla''s younger sister, "the wildling princess," a captive at Castle Black'''

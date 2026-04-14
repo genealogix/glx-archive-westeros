@@ -1,0 +1,11 @@
+assertions:
+    assertion-ryman-frey-massacre-role:
+        subject:
+            person: person-ryman-frey
+        property: description
+        value: Led armed men-at-arms into the hall; killed Dacey Mormont
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Ser Ryman Frey, heir to the Twins, left the feast early (feigning a call of nature) and returned clad in full plate at the head of a dozen men-at-arms with longaxes. He killed Dacey Mormont by burying his axe in her stomach as she tried to flee through a door. Direct text: ''Ser Ryman Frey pushed into the hall, clad in steel from helm to heel. A dozen Frey men-at-arms packed the door behind him. They were armed with heavy longaxes... Ser Ryman buried the head of his axe in Dacey''s stomach.'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-hizdahr-nobleman-adwd:
+        subject:
+            person: person-hizdahr-zo-loraq
+        property: name
+        value: Hizdahr zo Loraq
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''HIZDAHR ZO LORAQ, a wealthy Meereenese nobleman, of ancient lineage.'' Listed among both people of Meereen and the queen''s suitors.'

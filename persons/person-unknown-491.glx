@@ -1,6 +1,0 @@
-persons:
-    person-unknown-491:
-        properties:
-            gender: unknown
-            external_ids:
-                - "MH:I491"

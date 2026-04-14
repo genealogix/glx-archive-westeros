@@ -1,7 +1,0 @@
-events:
-    event-death-stark-469:
-        title: "Death of Stark"
-        type: death
-        participants:
-            - person: person-stark-469
-              role: principal

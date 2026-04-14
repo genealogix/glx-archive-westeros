@@ -1,0 +1,11 @@
+assertions:
+    assertion-hoster-tully-tansy-deathbed:
+        subject:
+            person: person-hoster-tully
+        property: description
+        value: In his final illness, Hoster repeatedly called for 'Tansy' and begged forgiveness for 'the blood'
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-i
+        notes: 'Text: ''Forgive me... the blood... oh, please... Tansy...'' and ''You''ll have others... sweet babes, and trueborn.'' Catelyn concludes he was speaking of a forced abortion of Lysa''s pregnancy (by Petyr Baelish) — Hoster forced Lysa to take tansy (an abortifacient herb) and then arranged her hasty marriage to Jon Arryn.'

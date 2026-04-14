@@ -1,0 +1,7 @@
+events:
+    event-cab4141f:
+        type: birth
+        date: "ABT 256"
+        participants:
+            - person: person-elder-brother
+              role: principal

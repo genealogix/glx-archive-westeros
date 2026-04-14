@@ -1,0 +1,10 @@
+sources:
+    source-agot:
+        title: A Game of Thrones
+        type: novel
+        authors:
+            - George R.R. Martin
+        date: "1996"
+        repository: repository-asoiaf-novels
+        properties:
+            isbn: 978-0553103540

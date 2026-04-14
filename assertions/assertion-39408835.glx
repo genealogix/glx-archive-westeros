@@ -1,0 +1,11 @@
+assertions:
+    assertion-elys-waynwood-name:
+        subject:
+            person: person-elys-waynwood
+        property: name
+        value: Elys Waynwood
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Elys Waynwood appears only in chapter text or supplementary sources. May require chapter-level citation.

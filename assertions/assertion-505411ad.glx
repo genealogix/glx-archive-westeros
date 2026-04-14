@@ -1,0 +1,11 @@
+assertions:
+    assertion-smalljon-umber-beheaded:
+        subject:
+            person: person-smalljon-umber
+        property: cause_of_death
+        value: Beheaded by Bolton men with longaxes
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'The Smalljon Umber first overturned a table to shield Robb from crossbow bolts, then bludgeoned Ser Raymund Frey with a leg of mutton. He was brought to his knees by a crossbow bolt reaching for his sword, and then beheaded by Bolton men in shaggy fur cloaks who entered through other doors. Direct text: ''one of them struck the Smalljon''s head off with two huge blows of his axe.'''

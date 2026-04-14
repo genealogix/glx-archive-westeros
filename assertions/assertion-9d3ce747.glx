@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-alias-yollo:
+        subject:
+            person: person-tyrion-lannister
+        property: alias
+        value: Yollo
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: Alias used in Essos while traveling with Jon Connington.

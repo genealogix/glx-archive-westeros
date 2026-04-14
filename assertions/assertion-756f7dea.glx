@@ -1,0 +1,11 @@
+assertions:
+    assertion-samwell-born-283:
+        subject:
+            event: event-birth-samwell-tarly
+        property: date
+        value: "283"
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-jon-snow
+        notes: Born 283 AC. Eldest son of Randyll Tarly.

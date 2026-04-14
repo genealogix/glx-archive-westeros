@@ -1,0 +1,11 @@
+assertions:
+    assertion-janos-slynt-execution:
+        subject:
+            person: person-janos-slynt
+        property: cause_of_death
+        value: Executed by beheading at Castle Black, 300 AC. Jon Snow used Longclaw.
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-jon-ii
+        notes: 'Janos Slynt''s death is witnessed directly in Jon II POV. He refused the order to take Greyguard three times, was dragged out by Edd Tollett and Iron Emmett, and beheaded by Jon Snow with Longclaw in the yard of Castle Black. His final words were a plea for mercy. Stannis Baratheon witnessed and nodded approval. Text: ''Longclaw descended. Can I have his boots? asked Owen the Oaf, as Janos Slynt''s head went rolling across the muddy ground.'''

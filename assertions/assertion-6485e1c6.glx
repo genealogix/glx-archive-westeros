@@ -1,0 +1,11 @@
+assertions:
+    assertion-tygett-lannister-name:
+        subject:
+            person: person-tygett-lannister
+        property: name
+        value: Tygett Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Braces indicate deceased. Source text: {SER TYGETT}, his second brother, died of a pox'

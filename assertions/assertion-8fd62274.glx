@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-baratheon-house:
+        subject:
+            person: person-stannis-baratheon
+        property: house
+        value: Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon section.

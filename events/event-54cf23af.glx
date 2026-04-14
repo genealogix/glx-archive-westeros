@@ -1,0 +1,7 @@
+events:
+    event-908d6d93:
+        type: death
+        date: "299"
+        participants:
+            - person: person-donnel-locke
+              role: principal

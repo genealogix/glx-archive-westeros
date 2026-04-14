@@ -1,0 +1,11 @@
+persons:
+    person-serra-frey:
+        properties:
+            external_ids:
+                - MH:I99
+            gender: female
+            name:
+                fields:
+                    given: Serra
+                    surname: Frey
+                value: Serra Frey

@@ -1,0 +1,12 @@
+assertions:
+    assertion-ned-stark-treason-official:
+        subject:
+            person: person-eddard-stark
+        property: description
+        value: Traitor who plotted with Robert's brothers to deny Joffrey the throne
+        confidence: low
+        status: disproven
+        citations:
+            - citation-agot-eddard-xv
+            - citation-agot-sansa-iv
+        notes: Official Lannister/Joffrey charge. Ned did oppose Joffrey's succession on the grounds that Joffrey is not Robert's trueborn son, but this was based on his investigation into the succession — not treason. His actual crime in Lannister terms was knowing the truth of Joffrey's parentage and trying to act on it. Sansa's letter to her family, written under duress, repeated the charge.

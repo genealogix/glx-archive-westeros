@@ -1,0 +1,7 @@
+events:
+    event-1e2b65d9:
+        type: birth
+        date: "299"
+        participants:
+            - person: person-rhaego
+              role: principal

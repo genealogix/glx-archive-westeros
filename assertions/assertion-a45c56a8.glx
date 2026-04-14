@@ -1,0 +1,11 @@
+assertions:
+    assertion-brandon-stark-elder-death:
+        subject:
+            person: person-brandon-stark-213
+        property: cause_of_death
+        value: Execution by strangulation, ordered by Aerys II Targaryen
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-ii
+        notes: 'Source text (Eddard II): ''Brandon had been twenty when he died, strangled by order of the Mad King Aerys Targaryen only a few short days before he was to wed Catelyn Tully of Riverrun. His father had been forced to watch him die.'' Brandon was betrothed to Catelyn; after his death, Ned (next eldest son) married Catelyn per custom.'

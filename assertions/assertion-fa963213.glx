@@ -1,0 +1,12 @@
+assertions:
+    assertion-bradamar-frey-gender:
+        subject:
+            person: person-bradamar-frey
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Symond''s son, BRADAMAR, a boy of ten, fostered on Braavos as a ward of Oro Tendyris'

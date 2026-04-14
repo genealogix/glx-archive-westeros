@@ -1,0 +1,11 @@
+assertions:
+    assertion-mance-king-beyond-wall-adwd:
+        subject:
+            person: person-mance-rayder
+        property: title
+        value: King-Beyond-the-Wall
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''MANCE RAYDER, King-Beyond-the-Wall, a captive at Castle Black'''

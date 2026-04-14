@@ -1,0 +1,11 @@
+assertions:
+    assertion-edric-storm-fostered-renly:
+        subject:
+            person: person-edric-storm
+        property: description
+        value: Fostered by Lord Renly Baratheon at Storm's End
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-ix
+        notes: 'Source text: ''Lord Stannis seemed to think that was a blot on the honor of his wife''s House, so when the boy was born, he shipped him off to Renly.'' Edric Storm (Robert''s acknowledged bastard) was sent to be fostered by Lord Renly Baratheon at Storm''s End.'

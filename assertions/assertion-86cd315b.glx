@@ -1,0 +1,11 @@
+assertions:
+    assertion-ramsay-pink-letter:
+        subject:
+            person: person-jon-snow
+        property: event
+        value: Received the Pink Letter from Ramsay Bolton
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-jon-xiii
+        notes: 'Jon receives a letter sealed with pink wax, addressed simply ''Bastard'' and signed ''Ramsay Bolton, Trueborn Lord of Winterfell.'' The letter claims Stannis and his host are dead, that Ramsay has Lightbringer, that Mance Rayder is caged at Winterfell, and demands the return of ''my bride'' (Jeyne Poole / false Arya), Melisandre, Selyse, Shireen, and ''my Reek'' (Theon). Direct quote: ''I will have my bride back. If you want Mance Rayder back, come and get him. I have him in a cage for all the north to see.'' The letter prompts Jon to announce his march to Winterfell at the Shieldhall, triggering his assassination. The veracity of the letter''s claims about Stannis''s death is not confirmed within ADWD.'

@@ -1,0 +1,12 @@
+persons:
+    person-alysanne-targaryen-the-good:
+        properties:
+            external_ids:
+                - MH:I351
+            gender: female
+            name:
+                fields:
+                    given: Alysanne
+                    nickname: The Good
+                    surname: Targaryen
+                value: Alysanne Targaryen

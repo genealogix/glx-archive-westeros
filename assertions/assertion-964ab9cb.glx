@@ -1,0 +1,11 @@
+assertions:
+    assertion-olenna-killed-joffrey:
+        subject:
+            person: person-olenna-redwyne
+        property: description
+        value: Dropped the Strangler into Joffrey's wine cup during the Purple Wedding feast
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-sansa-vi
+        notes: 'Revealed by Littlefinger to Sansa during the voyage away from King''s Landing. Olenna plucked the poison gem from Sansa''s hairnet when she adjusted Joffrey''s crown. The scheme was coordinated between Olenna Tyrell and Petyr Baelish. Margaery was likely unaware. Text: Littlefinger says ''I dared not befriend you openly... I knew he would be the perfect catspaw'' about Dontos, implying he orchestrated every element.'

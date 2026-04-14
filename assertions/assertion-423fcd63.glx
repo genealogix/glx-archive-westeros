@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaime-religion-faith:
+        subject:
+            person: person-jaime-lannister
+        property: religion
+        value: Faith of the Seven
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-appendix
+        notes: Jaime follows the Faith of the Seven.

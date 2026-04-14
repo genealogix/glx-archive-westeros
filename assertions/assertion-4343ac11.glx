@@ -1,0 +1,12 @@
+assertions:
+    assertion-rains-of-castamere-signal:
+        subject:
+            event: event-red-wedding
+        property: description
+        value: The Rains of Castamere (song) was the signal for the massacre
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+            - citation-asos-arya-xiii
+        notes: 'The playing of ''The Rains of Castamere'' by the gallery musicians was the signal for the massacre. Catelyn recognized it and used it to identify Edwyn Frey''s concealed mail. Arya also heard it playing from both castles simultaneously as the slaughter of the camp began. Direct text: ''No one sang the words, but Catelyn knew The Rains of Castamere when she heard it.'''

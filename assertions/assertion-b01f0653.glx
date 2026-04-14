@@ -1,0 +1,11 @@
+assertions:
+    assertion-selyse-florent-religion:
+        subject:
+            person: person-selyse-florent
+        property: religion
+        value: R'hllor
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue): ''The red woman had won her, heart and soul, turning her from the gods of the Seven Kingdoms, both old and new, to worship the one they called the Lord of Light.'' Selyse echoes Melisandre''s prayers during the burning ceremony and is foremost among the queen''s men.'

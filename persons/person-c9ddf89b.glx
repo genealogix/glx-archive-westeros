@@ -1,0 +1,11 @@
+persons:
+    person-shagwell:
+        properties:
+            alias:
+                - value: Shagwell the Fool
+            gender: male
+            name:
+                fields:
+                    given: Shagwell
+                value: Shagwell
+        notes: A jester in Vargo Hoat's Brave Companions. Wears green and pink motley. Present when Jaime Lannister's hand is cut off. Known for cruelty and mockery. First appears ASOS Jaime III.

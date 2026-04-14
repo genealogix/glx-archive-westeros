@@ -1,0 +1,12 @@
+assertions:
+    assertion-zachery-frey-name:
+        subject:
+            person: person-zachery-frey
+        property: name
+        value: Zachery Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Tytos''s son, ZACHERY, a boy of twelve sworn to the Faith, training at the Sept of Oldtown'

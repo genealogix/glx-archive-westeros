@@ -1,0 +1,11 @@
+assertions:
+    assertion-stafford-lannister-title:
+        subject:
+            person: person-stafford-lannister
+        property: title
+        value: Ser
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Lannister section.

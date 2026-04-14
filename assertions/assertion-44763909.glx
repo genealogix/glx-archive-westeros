@@ -1,0 +1,12 @@
+assertions:
+    assertion-cressen-death-poisoning:
+        subject:
+            person: person-cressen
+        property: cause_of_death
+        value: Poisoned himself while attempting to poison Melisandre
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I): ''He had seen the maester slip something into the wine cup. Poison. What else could it be? He drank a cup of death to free Stannis from Melisandre, but somehow her god shielded her.'' The Prologue depicts the act itself. Cressen poisoned the wine, offered it to Melisandre, drank himself. Melisandre survived; Cressen died.'

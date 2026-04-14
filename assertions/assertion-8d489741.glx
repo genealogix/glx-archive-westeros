@@ -1,0 +1,11 @@
+assertions:
+    assertion-benfrey-frey-massacre-role:
+        subject:
+            person: person-benfrey-frey
+        property: description
+        value: Seized Dacey Mormont; was struck by wine flagon in return
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Ser Benfrey Frey seized Dacey Mormont by the arm during the massacre. She grabbed a flagon of wine with her other hand and smashed it full in his face, breaking free. Direct text: ''Young Ser Benfrey had seized Dacey Mormont by the arm, but Catelyn saw her grab up a flagon of wine with her other hand, smash it full in his face, and run for the door.'''

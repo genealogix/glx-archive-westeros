@@ -1,0 +1,11 @@
+assertions:
+    assertion-edwyn-frey-concealed-mail:
+        subject:
+            person: person-edwyn-frey
+        property: description
+        value: Wore concealed mail beneath silk sleeve as signal of premeditation
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Catelyn grabbed Edwyn Frey''s arm and felt iron rings beneath his silken sleeve, confirming premeditated conspiracy. Direct text: ''She grabbed Edwyn by the arm to turn him and went cold all over when she felt the iron rings beneath his silken sleeve.'' This was the moment Catelyn understood the massacre had been planned.'

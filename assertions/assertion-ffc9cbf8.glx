@@ -1,0 +1,11 @@
+assertions:
+    assertion-addam-marbrand-house:
+        subject:
+            person: person-addam-marbrand
+        property: house
+        value: Marbrand
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Lannister section.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-jaqen-hghar-name-acok:
+        subject:
+            person: person-jaqen-hghar
+        property: name
+        value: Jaqen H'ghar
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, Night''s Watch (Castle Black). Source text: ''JAQEN H''GHAR, criminals bound for the Wall.'' Listed among Yoren''s recruits.'

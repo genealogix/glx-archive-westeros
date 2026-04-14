@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-robb-peace-terms:
+        subject:
+            person: person-stannis-baratheon
+        property: description
+        value: 'Robb Stark sent peace terms to Cersei: return of sisters, return of Ned''s bones and Ice, release of Lannister captives, recognition of Northern independence'
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-catelyn-i
+        notes: 'Source text (Catelyn I): Robb''s terms to Cersei read aloud in the great hall of Riverrun include: (1) release of Sansa and Arya; (2) Ned''s bones and household guard remains returned to Winterfell; (3) Ice (Ned''s greatsword) returned; (4) release of northern/riverland captives held by Tywin; (5) recognition of an independent North including the Trident. Cersei never accepted these terms.'

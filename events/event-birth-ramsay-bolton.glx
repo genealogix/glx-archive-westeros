@@ -1,9 +1,0 @@
-events:
-    event-birth-ramsay-bolton:
-        title: "Birth of Ramsay Bolton"
-        type: birth
-        date: "ABT 282"
-        participants:
-            - person: person-ramsay-bolton
-              role: principal
-        notes: "Natural son of Roose Bolton, born of a miller's wife."

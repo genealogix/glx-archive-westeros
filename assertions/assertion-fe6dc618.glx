@@ -1,0 +1,11 @@
+assertions:
+    assertion-edric-storm-gender:
+        subject:
+            person: person-edric-storm
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix. Listed as bastard son.

@@ -1,0 +1,11 @@
+persons:
+    person-alyn-frey:
+        properties:
+            external_ids:
+                - MH:I74
+            gender: male
+            name:
+                fields:
+                    given: Alyn
+                    surname: Frey
+                value: Alyn Frey

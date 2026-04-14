@@ -1,0 +1,11 @@
+assertions:
+    assertion-garlan-tyrell-house:
+        subject:
+            person: person-garlan-tyrell
+        property: house
+        value: Tyrell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Tyrell section.

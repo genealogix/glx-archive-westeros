@@ -1,0 +1,11 @@
+assertions:
+    assertion-boros-blount-gender:
+        subject:
+            person: person-boros-blount
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon section. Listed as Ser.

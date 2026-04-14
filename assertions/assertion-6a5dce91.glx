@@ -1,0 +1,12 @@
+assertions:
+    assertion-quentyn-martell-death:
+        subject:
+            event: event-dragontamer-quentyn-burned
+        property: date
+        value: "300"
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-dragontamer
+            - citation-adwd-the-queens-hand
+        notes: 'Quentyn Martell is burned by Rhaegal''s dragonflame in the dragon pit of the Great Pyramid of Meereen. He survives three days before dying. His death is confirmed in ''The Queen''s Hand'' from Barristan''s POV. Direct text: ''The Dornish prince was three days dying. He took his last shuddering breath in the bleak black dawn.'' His face was so badly burned that Barristan notes ''He has no lips'' and could see skull through sloughed flesh.'

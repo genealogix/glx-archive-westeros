@@ -1,0 +1,11 @@
+assertions:
+    assertion-edwyn-frey-massacre-trigger:
+        subject:
+            person: person-edwyn-frey
+        property: description
+        value: Wore concealed mail; discovery by Catelyn triggered the visible start of the massacre
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: Edwyn Frey (eldest son of Ryman, grandson of Lord Walder) wore iron ringmail concealed beneath his silken sleeve, visible proof of premeditation. When Catelyn felt the mail and slapped him, the crossbow volley from the gallery began immediately. He shoved Catelyn aside and moved toward a door. Robb moved to block him and was immediately struck by the first quarrel. Edwyn's flight toward the door was the physical trigger for the massacre's visible phase.

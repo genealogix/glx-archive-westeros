@@ -1,0 +1,11 @@
+assertions:
+    assertion-arys-oakheart-house:
+        subject:
+            person: person-arys-oakheart
+        property: house
+        value: Oakheart
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon section.

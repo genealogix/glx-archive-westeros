@@ -1,0 +1,12 @@
+assertions:
+    assertion-rhaegar-targaryen-name:
+        subject:
+            person: person-rhaegar-targaryen
+        property: name
+        value: Rhaegar Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists ''{PRINCE RHAEGAR}, heir to the Iron Throne, slain by Robert Baratheon on the Trident''. Source text: The new king had already provided the realm with an heir in the person of his son Rhaegar, born amongst the flames of Summerhall.'

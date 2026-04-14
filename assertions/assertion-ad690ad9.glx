@@ -1,0 +1,11 @@
+assertions:
+    assertion-lancel-cersei-affair:
+        subject:
+            person: person-cersei-lannister
+        property: description
+        value: person-lancel-lannister
+        confidence: high
+        status: proven
+        citations:
+            - citation-affc-jaime-iii
+        notes: 'Lancel confessed directly to Jaime at Darry Castle: ''I gave her comfort, after the king died. You were a captive, your father was in the field...She was afraid...I loved her. I wanted to protect her.'' He admitted to sleeping with Cersei after Robert''s death, though he claimed never to have ''finished inside'' her womb. He also tacitly confessed to helping poison King Robert: ''We are both kingslayers, ser. The brave man slays with a sword, the craven with a wineskin.'' Lancel subsequently confessed these sins to the old High Septon, whose murder Cersei then arranged — contributing to her eventual downfall.'

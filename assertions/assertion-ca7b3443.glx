@@ -1,0 +1,11 @@
+assertions:
+    assertion-davos-seaworth-name-acok:
+        subject:
+            person: person-davos-seaworth
+        property: name
+        value: Davos Seaworth
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in the Narrow Sea section. Source text: ''SER DAVOS SEAWORTH, called the ONION KNIGHT and sometimes SHORTHAND, once a smuggler, captain of Black Betha.'''

@@ -1,0 +1,11 @@
+assertions:
+    assertion-selyse-florent-title:
+        subject:
+            person: person-selyse-florent
+        property: title
+        value: Lady
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section. Source text: his wife, LA DY SELYSE of House Florent'

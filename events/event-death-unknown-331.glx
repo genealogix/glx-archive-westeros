@@ -1,7 +1,0 @@
-events:
-    event-death-unknown-331:
-        title: "Death of Unknown 331"
-        type: death
-        participants:
-            - person: person-unknown-331
-              role: principal

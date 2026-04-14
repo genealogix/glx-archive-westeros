@@ -1,0 +1,11 @@
+assertions:
+    assertion-eddard-stark-gender:
+        subject:
+            person: person-eddard-stark
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Stark section. Listed as lord and husband, with 'his wife' and 'his children' establishing male gender.

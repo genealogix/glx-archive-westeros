@@ -1,0 +1,11 @@
+assertions:
+    assertion-ronnel-arryn-name:
+        subject:
+            person: person-ronnel-arryn
+        property: name
+        value: Ronnel Arryn
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Ronnel Arryn (the boy King of Mountain and Vale during the Conquest) appears in TWOIAF. May require TWOIAF chapter-level citation.

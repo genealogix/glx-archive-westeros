@@ -1,0 +1,11 @@
+assertions:
+    assertion-minisa-whent-house:
+        subject:
+            person: person-minisa-whent
+        property: house
+        value: Whent
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Tully section.

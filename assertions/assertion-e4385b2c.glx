@@ -1,0 +1,11 @@
+assertions:
+    assertion-catelyn-kills-jinglebell:
+        subject:
+            person: person-catelyn-tully
+        property: description
+        value: Killed Aegon Frey (Jinglebell) as hostage gambit
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Catelyn seized Jinglebell (Aegon Frey, a halfwit) as a hostage and offered Walder Frey ''a son for a son'' — Jinglebell''s life for Robb''s freedom. Walder Frey refused, saying ''that''s a grandson...and he never was much use.'' After Roose Bolton killed Robb, Catelyn kept her threat and killed Jinglebell. Direct text: ''She tugged hard on Aegon''s hair and sawed at his neck until the blade grated on bone. Blood ran hot over her fingers. His little bells were ringing, ringing, ringing.'' The AFFC appendix confirms Jinglebell ''killed at the Red Wedding by Catelyn Stark.'''

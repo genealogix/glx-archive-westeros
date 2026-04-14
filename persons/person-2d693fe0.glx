@@ -1,0 +1,11 @@
+persons:
+    person-alyn-ambrose:
+        properties:
+            external_ids:
+                - MH:I463
+            gender: male
+            name:
+                fields:
+                    given: Alyn
+                    surname: Ambrose
+                value: Alyn Ambrose

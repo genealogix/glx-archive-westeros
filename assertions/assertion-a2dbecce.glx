@@ -1,0 +1,11 @@
+assertions:
+    assertion-balon-greyjoy-invasion-plan:
+        subject:
+            person: person-theon-greyjoy
+        property: description
+        value: Sent to harry the Stony Shore on Lord Balon's orders
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-theon-ii
+        notes: 'Lord Balon reveals his invasion plan: Theon gets eight longships to raid the Stony Shore as a feint, while Asha takes thirty ships to Deepwood Motte, and Victarion takes the Iron Fleet to Moat Cailin. Balon rejects Robb Stark''s offer of an alliance, burns the letter, and acts unilaterally.'

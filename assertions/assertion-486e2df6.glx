@@ -1,0 +1,11 @@
+assertions:
+    assertion-margaery-tyrell-marriage-renly-acok:
+        subject:
+            person: person-margaery-tyrell
+        property: spouse
+        value: person-renly-baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King in Highgarden section. Source text: ''his new bride, LADY MARGAERY of House Tyrell, a maid of fifteen years.'' Also in House Tyrell section: ''MARGAERY, their daughter, a maid of fifteen years, recently wed to Renly Baratheon.'''

@@ -1,0 +1,12 @@
+assertions:
+    assertion-serra-frey-name:
+        subject:
+            person: person-serra-frey
+        property: name
+        value: Serra Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists them as maiden girls of fourteen. Twin of Sarra. Source text: Raymund''s twin daughters, SERRA and SARRA'

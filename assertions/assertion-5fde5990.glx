@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-proclamation-joffrey-illegitimate:
+        subject:
+            person: person-stannis-baratheon
+        property: description
+        value: Proclaimed via raven letter to all lords that Joffrey, Tommen, and Myrcella are bastards born of incest between Cersei Lannister and her brother Jaime
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I, Pylos reading the letter): ''my beloved brother Robert, our late king, left no trueborn issue of his body, the boy Joffrey, the boy Tommen, and the girl Myrcella being abominations born of incest between Cersei Lannister and her brother Jaime the Kingslayer.'' Stannis ordered 117 ravens dispatched with copies of this letter. Davos was sent north to deliver letters by ship; his son Dale sent south; another son sent across the narrow sea.'

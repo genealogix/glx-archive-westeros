@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaenys-targaryen-354-name:
+        subject:
+            person: person-rhaenys-targaryen-354
+        property: name
+        value: Rhaenys Targaryen
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Targaryen section. Daughter of Prince Rhaegar and Princess Elia Martell. Source text: {PRINCESS RHAENYS}, a young girl, slain during the Sack of King''s Landing'

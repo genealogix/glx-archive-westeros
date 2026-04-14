@@ -1,0 +1,12 @@
+assertions:
+    assertion-arya-stark-name:
+        subject:
+            person: person-arya-stark
+        property: name
+        value: Arya Stark
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-adwd-appendix
+        notes: 'Verified against AGOT Appendix, House Stark section. ADWD Appendix updates to ''ARYA, a girl of eleven, missing and thought dead''. Source text: ARYA, the younger daughter, a girl of nine'

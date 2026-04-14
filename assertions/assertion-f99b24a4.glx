@@ -1,0 +1,11 @@
+assertions:
+    assertion-xaro-xhoan-daxos-name-acok:
+        subject:
+            person: person-xaro-xhoan-daxos
+        property: name
+        value: Xaro Xhoan Daxos
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The Queen Across the Water section. Source text: ''XARO XHOAN DAXOS, a merchant prince of Qarth.'''

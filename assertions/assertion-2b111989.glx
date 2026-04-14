@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-targaryen-304-titles-acok:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: alias
+        value: Daenerys Stormborn, the Unburnt, Mother of Dragons, Khaleesi of the Dothraki
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The Queen Across the Water section. Source text: ''DAENERYS TARGARYEN, called Daenerys Stormborn, the Unburnt, Mother of Dragons, Khaleesi of the Dothraki, and First of Her Name.'' New titles acquired after AGOT.'

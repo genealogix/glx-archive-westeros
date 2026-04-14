@@ -1,0 +1,11 @@
+assertions:
+    assertion-tyrion-appearance-jon-i:
+        subject:
+            person: person-tyrion-lannister
+        property: description
+        value: Dwarf; half his siblings' height; large head with squashed-in face; one green eye and one black; white-blond hair; stunted legs
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-jon-i
+        notes: 'Source text (Jon I): ''Tyrion Lannister, the youngest of Lord Tywin''s brood and by far the ugliest. All that the gods had given to Cersei and Jaime, they had denied Tyrion. He was a dwarf, half his brother''s height, struggling to keep pace on stunted legs. His head was too large for his body, with a brute''s squashed-in face beneath a swollen shelf of brow. One green eye and one black one peered out from under a lank fall of hair so blond it seemed white.'''

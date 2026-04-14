@@ -1,0 +1,11 @@
+assertions:
+    assertion-gerold-dayne-alias:
+        subject:
+            person: person-gerold-dayne-darkstar
+        property: alias
+        value: Darkstar
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Called Darkstar in the AFFC appendix.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-beric-seventh-death-catelyn:
+        subject:
+            person: person-beric-dondarrion
+        property: description
+        value: Beric gives his final death (seventh) to resurrect Catelyn Stark as Lady Stoneheart
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Referenced in Beric''s existing archive notes. Thoros warned: ''A seventh death might mean the end of both of us.'' This occurs at the Red Wedding aftermath — Arya VII (epilogue region). Not in this chunk but contextually confirmed.'

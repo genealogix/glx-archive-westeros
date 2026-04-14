@@ -1,0 +1,11 @@
+assertions:
+    assertion-black-walder-massacre-role:
+        subject:
+            person: person-walder-frey-black-walder
+        property: description
+        value: Hamstrung a Vance during the massacre
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Black Walder (Ser Walder Frey, son of Ryman) hamstrung one of the Vance bannermen during the massacre. Direct text: ''One of the Vances was hamstrung by Black Walder as he was wrestling with Ser Harys Haigh.'' Black Walder had been notably restrained throughout the approach to the Twins — ''Black Walder''s been mild as a lamb for once,'' Robb noted — concealing his foreknowledge.'

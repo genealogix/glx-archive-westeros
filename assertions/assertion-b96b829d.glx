@@ -1,0 +1,12 @@
+assertions:
+    assertion-walda-rivers-152-name:
+        subject:
+            person: person-walda-rivers-152
+        property: name
+        value: Walda Rivers
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

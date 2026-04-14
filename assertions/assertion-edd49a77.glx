@@ -1,0 +1,11 @@
+assertions:
+    assertion-oberyn-martell-the-red-viper-gender:
+        subject:
+            person: person-oberyn-martell-the-red-viper
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+        notes: 'Verified against ASOS Appendix, House Martell section. Source text: his brother, PRINCE OBERYN, called THE RED VIPER'

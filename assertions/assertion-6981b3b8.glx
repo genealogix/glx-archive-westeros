@@ -1,0 +1,11 @@
+assertions:
+    assertion-night-watch-strength-298:
+        subject:
+            person: person-benjen-stark
+        property: description
+        value: Night's Watch strength below 1000 at time of AGOT, losing men on rangings
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-i
+        notes: 'Source text (Catelyn I): Ned says ''Ben writes that the strength of the Night''s Watch is down below a thousand. It''s not only desertions. They are losing men on rangings as well.'''

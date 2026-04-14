@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-targaryen-rhaegar-viserys:
+        type: sibling
+        participants:
+            - person: person-rhaegar-targaryen
+              role: sibling
+            - person: person-viserys-targaryen-iii
+              role: sibling
+        properties:
+            context: Children of Aerys II Targaryen and Rhaella Targaryen. Full siblings.
+        notes: 'AGOT appendix: House Targaryen. Rhaegar was the crown prince; Viserys was born years later. Rhaegar died at the Trident in 283; Viserys and Daenerys were born after the dynasty''s fall.'

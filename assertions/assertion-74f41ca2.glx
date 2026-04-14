@@ -1,0 +1,11 @@
+assertions:
+    assertion-edric-storm-roberts-bastard:
+        subject:
+            person: person-edric-storm
+        property: description
+        value: Robert Baratheon fathered Edric Storm on Delena Florent in the marriage bed prepared for Stannis and Selyse on their wedding night; Robert acknowledged the child
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I): Stannis says: ''There''s proof of a sort at Storm''s End. Robert''s bastard. The one he fathered on my wedding night, in the very bed they''d made up for me and my bride. Delena was a Florent, and a maiden when he took her, so Robert acknowledged the babe. Edric Storm, they call him. He is said to be the very image of my brother.'' Stannis describes this as an outrage and a humiliation.'

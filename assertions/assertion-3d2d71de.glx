@@ -1,0 +1,12 @@
+assertions:
+    assertion-jonos-frey-name:
+        subject:
+            person: person-jonos-frey
+        property: name
+        value: Jonos Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Rhaegar''s son, JONOS, a boy of eight'

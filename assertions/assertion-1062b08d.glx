@@ -1,0 +1,11 @@
+assertions:
+    assertion-lommy-death:
+        subject:
+            person: person-lommy-greenhands
+        property: cause_of_death
+        value: Killed by Polliver (one of the Mountain's men)
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-arya-vi
+        notes: Lommy Greenhands was wounded in the leg during the Lannister attack on Yoren's party at the holdfast near the Gods Eye. He called for quarter but was killed by Polliver, one of Ser Gregor Clegane's men, who ran him through with Needle (Arya's sword). He is one of the names Arya silently blames herself for not protecting.

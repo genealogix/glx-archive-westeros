@@ -1,0 +1,12 @@
+events:
+    event-birth-renly-baratheon:
+        title: Birth of Renly Baratheon
+        type: birth
+        place: place-storms-end
+        date: "277"
+        participants:
+            - person: person-renly-baratheon
+              role: principal
+            - person: person-steffon-baratheon
+              role: parent
+        notes: Youngest of the three Baratheon brothers.

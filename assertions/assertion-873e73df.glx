@@ -1,0 +1,11 @@
+assertions:
+    assertion-mya-stone-bastard-vale:
+        subject:
+            person: person-mya-stone
+        property: bastard_name
+        value: Stone
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-vi
+        notes: 'Source text: ''Stone was a bastard''s name in the Vale, as Snow was in the north, and Flowers in Highgarden; in each of the Seven Kingdoms, custom had fashioned a surname for children born with no names of their own.'' Mya Stone''s surname confirms she is a bastard born in the Vale of Arryn.'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-death-place:
+        subject:
+            event: event-death-viserys-targaryen
+        property: place
+        value: place-vaes-dothrak
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-v
+        notes: Viserys died in Khal Drogo's feast hall in Vaes Dothrak, the sacred Dothraki city where it is forbidden to carry a blade or shed a free man's blood. He had violated the prohibition by drawing his sword inside the sacred city.

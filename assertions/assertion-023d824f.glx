@@ -1,0 +1,11 @@
+assertions:
+    assertion-ramsay-bastard-parent-adwd:
+        subject:
+            relationship: rel-pc-roose-bolton-ramsay-bolton
+        property: type
+        value: bastard_parent
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: Ramsay is listed as ''his natural son'' under Roose Bolton'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-seed-is-strong-arryn:
+        subject:
+            person: person-lysa-tully
+        property: description
+        value: 'Jon Arryn''s last words: ''The seed is strong'''
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-catelyn-vii
+        notes: 'Source text: ''The seed is strong, he told me. His last words. He kept saying Robert''s name, and he grabbed my arm so hard he left marks. Tell them, the seed is strong. His seed. He wanted everyone to know what a good strong boy my baby was going to be.'' Lysa Arryn reported Jon Arryn''s dying words, which she believed referred to their son Robert Arryn. Ned Stark realized it referred to Robert Baratheon''s seed — black hair dominant in all his bastards, proving Joffrey was not his.'

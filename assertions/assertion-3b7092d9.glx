@@ -1,0 +1,11 @@
+assertions:
+    assertion-shireen-greyscale:
+        subject:
+            person: person-shireen-baratheon
+        property: description
+        value: Survived greyscale as an infant; left half her face and neck stiff, cracked, and mottled black and grey
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+        notes: 'Source text (Prologue): ''A cross half one cheek and well down her neck, her flesh was stiff and dead, the skin cracked and flaking, mottled black and grey and stony to the touch.'' The greyscale ''had almost claimed her in the crib.'''

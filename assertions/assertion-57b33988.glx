@@ -1,0 +1,11 @@
+assertions:
+    assertion-stannis-lightbringer-ceremony:
+        subject:
+            person: person-stannis-baratheon
+        property: description
+        value: Participated in ceremony at Dragonstone where he drew a flaming sword from the burning statues of the Seven; Melisandre proclaimed it Lightbringer and Stannis as Azor Ahai reborn
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I): ''Stannis Baratheon strode forward like a soldier marching into battle... The king plunged into the fire with his teeth clenched... He went straight to the Mother, grasped the sword with his gloved hand, and wrenched it free... Then he was retreating, the sword held high, jade-green flames swirling around cherry-red steel.'' Melisandre proclaimed: ''Behold Lightbringer! Azor Ahai has come again!'' Salladhor Saan and Davos are skeptical: ''That sword was not Lightbringer.'' The sword was described as a ''burnt sword'' rather than the prophesied Lightbringer.'

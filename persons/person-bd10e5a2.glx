@@ -1,0 +1,10 @@
+persons:
+    person-stark-469:
+        properties:
+            external_ids:
+                - MH:I469
+            gender: female
+            name:
+                fields:
+                    surname: Stark
+                value: Stark

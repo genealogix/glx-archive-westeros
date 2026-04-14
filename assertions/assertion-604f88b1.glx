@@ -1,0 +1,11 @@
+assertions:
+    assertion-ned-offered-hand-of-king:
+        subject:
+            person: person-eddard-stark
+        property: title
+        value: Hand of the King
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-eddard-ii
+        notes: 'Source text: ''Lord Eddard Stark, I would name you the Hand of the King.'' Offered by Robert Baratheon in the Winterfell crypts. Ned drops to one knee and accepts, though reluctantly, partly at Catelyn''s urging after learning Jon Arryn was allegedly murdered by the Lannisters.'

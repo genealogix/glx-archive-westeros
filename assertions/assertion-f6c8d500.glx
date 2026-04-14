@@ -1,0 +1,11 @@
+assertions:
+    assertion-theodore-tyrell-gender:
+        subject:
+            person: person-theodore-tyrell
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Tyrell section. Source text: Luthor''s son, SER THEODORE, m. Lady Lia Serry'

@@ -1,0 +1,12 @@
+assertions:
+    assertion-steffon-frey-name:
+        subject:
+            person: person-steffon-frey
+        property: name
+        value: Steffon Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Walton''s son, STEFFON, called THE SWEET'

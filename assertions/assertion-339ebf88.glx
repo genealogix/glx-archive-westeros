@@ -1,0 +1,11 @@
+assertions:
+    assertion-haegon-blackfyre-gender:
+        subject:
+            person: person-haegon-blackfyre
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Haegon Blackfyre and Bittersteel launched the Third Blackfyre Rebellion'

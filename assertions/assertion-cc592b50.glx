@@ -1,0 +1,11 @@
+assertions:
+    assertion-viserys-not-a-dragon:
+        subject:
+            person: person-viserys-targaryen-iii
+        property: description
+        value: Viserys was not truly of dragon blood — fire killed him
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-daenerys-vi
+        notes: 'Daenerys''s internal observation after Viserys''s death by molten gold: ''He was no dragon, Dany thought, curiously calm. Fire cannot kill a dragon.'' This is contrast to Daenerys herself walking unharmed into Drogo''s pyre in Daenerys IX. Whether this reflects actual magical difference or Dany''s psychological interpretation is unclear, but the contrast is made explicit by the narrative.'

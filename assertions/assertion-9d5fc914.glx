@@ -1,0 +1,12 @@
+assertions:
+    assertion-aemon-targaryen-the-dragonknight-gender:
+        subject:
+            person: person-aemon-targaryen-the-dragonknight
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: He proved the greatest jouster and swordsman of his age'

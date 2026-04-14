@@ -1,0 +1,11 @@
+assertions:
+    assertion-rhaego-mother:
+        subject:
+            person: person-rhaego
+        property: parent
+        value: person-daenerys-targaryen-304
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-v
+        notes: Daenerys Targaryen was pregnant with Rhaego during the horse-heart ceremony at Vaes Dothrak. She named the unborn child Rhaego.

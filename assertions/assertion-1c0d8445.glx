@@ -1,0 +1,12 @@
+assertions:
+    assertion-walton-frey-name:
+        subject:
+            person: person-walton-frey
+        property: name
+        value: Walton Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Stevron''s son, WALTON, m. Deana Hardyng'

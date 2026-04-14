@@ -1,0 +1,12 @@
+assertions:
+    assertion-wendel-frey-name:
+        subject:
+            person: person-wendel-frey
+        property: name
+        value: Wendel Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: WENDEL, Lord Walder''s nineteenth son, thirteen, a page at Seagard'

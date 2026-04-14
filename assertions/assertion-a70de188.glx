@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-snow-stays-at-wall:
+        subject:
+            person: person-jon-snow
+        property: description
+        value: Jon Snow chose to remain at the Night's Watch rather than desert to join Robb's war, after briefly attempting to desert
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-jon-ix
+        notes: 'Jon rode south from Castle Black at night to join Robb''s cause after learning of Ned''s execution. His friends from the Watch — Pyp, Grenn, Halder, Toad, Matthar, and Sam Tarly — rode after him and intercepted him, reciting his oath at him until he relented. Returned to Castle Black and pledged loyalty to Mormont. Mormont then told him the Night''s Watch would march beyond the Wall in force to find Benjen Stark and confront the threat from the Others, and asked Jon to be his steward/squire on this ranging. Jon accepted: ''I am … yours, my lord. Your man. I swear it. I will not run again.'''

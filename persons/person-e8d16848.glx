@@ -1,0 +1,11 @@
+persons:
+    person-alekyne-florent:
+        properties:
+            external_ids:
+                - MH:I449
+            gender: male
+            name:
+                fields:
+                    given: Alekyne
+                    surname: Florent
+                value: Alekyne Florent

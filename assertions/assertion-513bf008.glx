@@ -1,0 +1,12 @@
+assertions:
+    assertion-arthur-ambrose-name:
+        subject:
+            person: person-arthur-ambrose
+        property: name
+        value: Arthur Ambrose
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

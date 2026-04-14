@@ -1,0 +1,11 @@
+assertions:
+    assertion-jory-cassel-title:
+        subject:
+            person: person-jory-cassel
+        property: title
+        value: Captain of the Guard
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section.

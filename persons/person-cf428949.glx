@@ -1,0 +1,11 @@
+persons:
+    person-daeron-targaryen:
+        properties:
+            external_ids:
+                - MH:I283
+            gender: male
+            name:
+                fields:
+                    given: Daeron
+                    surname: Targaryen
+                value: Daeron Targaryen

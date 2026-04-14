@@ -1,0 +1,18 @@
+persons:
+    person-hobber-redwyne-slobber:
+        properties:
+            alias:
+                - value: Slobber
+            external_ids:
+                - MH:I391
+            gender: male
+            house: Redwyne
+            name:
+                fields:
+                    given: Hobber
+                    nickname: Slobber
+                    surname: Redwyne
+                value: Hobber Redwyne
+            title:
+                - value: Ser
+        notes: Mocked as Slobber. Twin to Horas. Son of Paxter Redwyne.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-aurane-waters-gender:
+        subject:
+            person: person-aurane-waters
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Listed under Cersei's court at King's Landing in the AFFC appendix.

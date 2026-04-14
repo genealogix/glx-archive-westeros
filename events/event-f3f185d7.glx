@@ -1,0 +1,8 @@
+events:
+    event-birth-aemon-targaryen:
+        title: Birth of Maester Aemon Targaryen
+        type: birth
+        date: "ABT 198"
+        participants:
+            - person: person-aemon-targaryen
+              role: principal

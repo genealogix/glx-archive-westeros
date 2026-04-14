@@ -1,0 +1,11 @@
+assertions:
+    assertion-malora-hightower-gender:
+        subject:
+            person: person-malora-hightower
+        property: gender
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Source text: Lord Leyton''s daughter, MALORA'

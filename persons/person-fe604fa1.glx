@@ -1,0 +1,15 @@
+persons:
+    person-rhaenys-targaryen-208:
+        properties:
+            external_ids:
+                - MH:I208
+            gender: female
+            house: Targaryen
+            name:
+                fields:
+                    given: Rhaenys
+                    surname: Targaryen
+                value: Rhaenys Targaryen
+            title:
+                - value: Queen
+        notes: Sister-wife of Aegon the Conqueror. Mother of Aenys I.

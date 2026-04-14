@@ -1,0 +1,11 @@
+assertions:
+    assertion-steffon-baratheon-name:
+        subject:
+            person: person-steffon-baratheon
+        property: name
+        value: Steffon Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'Verified against ACOK Appendix, King in the Narrow Sea section. Named as father of Stannis and Renly. Also in ASOS, AFFC, ADWD appendices with same phrasing. Source text: secondborn son of Lord Steffon Baratheon and Lady Cassana of House Estermont'

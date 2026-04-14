@@ -1,0 +1,12 @@
+assertions:
+    assertion-melisandre-ruby-immunity:
+        subject:
+            person: person-melisandre
+        property: description
+        value: Survived Cressen's poison at Dragonstone, apparently protected by her ruby and the power of R'hllor
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-prologue
+            - citation-acok-davos-i
+        notes: 'Source text (Davos I): ''He drank a cup of death to free Stannis from Melisandre, but somehow her god shielded her.'' The Prologue shows Melisandre drinking from the shared cup and surviving. Cressen''s last thought is of the ruby at her throat.'

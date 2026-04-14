@@ -1,7 +1,0 @@
-events:
-    event-birth-unknown-493:
-        title: "Birth of Unknown 493"
-        type: birth
-        participants:
-            - person: person-unknown-493
-              role: principal

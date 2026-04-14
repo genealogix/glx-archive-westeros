@@ -1,0 +1,12 @@
+assertions:
+    assertion-harmen-uller-name:
+        subject:
+            person: person-harmen-uller
+        property: name
+        value: Harmen Uller
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

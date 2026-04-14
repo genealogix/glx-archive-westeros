@@ -1,0 +1,11 @@
+assertions:
+    assertion-sansa-fails-to-testify:
+        subject:
+            person: person-sansa-stark
+        property: description
+        value: Failed to tell the truth at Arya's hearing before King Robert
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-eddard-iii
+        notes: 'Source text: ''I don''t know,'' she said tearfully, looking as though she wanted to bolt. ''I don''t remember. Everything happened so fast, I didn''t see…'' Sansa knew the truth (she was present at the Trident incident) but gave a non-answer that effectively sided with Joffrey. Arya flew at her: ''You rotten! Liar, liar, liar.'' This act damaged the sisters'' relationship. Ned chose Sansa as witness precisely because he ''had heard her version of the story the night Arya had vanished. He knew the truth.'''

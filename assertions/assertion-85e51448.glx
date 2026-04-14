@@ -1,0 +1,11 @@
+assertions:
+    assertion-allard-seaworth-killed-blackwater:
+        subject:
+            person: person-allard-seaworth
+        property: cause_of_death
+        value: Killed at the Battle of the Blackwater (wildfire)
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-davos-iii
+        notes: 'Allard commanded Lady Marya alongside Davos''s Black Betha. ACOK Davos III: ''He saw one shatter on the deck of Lady Marya, but Allard''s crew quickly beat it out.'' Lady Marya is listed among the burning ships. Confirmed dead in ADWD appendix listing.'

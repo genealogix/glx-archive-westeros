@@ -1,0 +1,13 @@
+persons:
+    person-myrielle-lannister:
+        properties:
+            external_ids:
+                - MH:I186
+            gender: female
+            house: Lannister
+            name:
+                fields:
+                    given: Myrielle
+                    surname: Lannister
+                value: Myrielle Lannister
+        notes: Daughter of Ser Stafford Lannister.

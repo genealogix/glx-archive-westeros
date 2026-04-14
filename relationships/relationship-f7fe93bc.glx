@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-tully-lysa-edmure:
+        type: sibling
+        participants:
+            - person: person-lysa-tully
+              role: sibling
+            - person: person-edmure-tully
+              role: sibling
+        properties:
+            context: Children of Hoster Tully and Minisa Whent. Full siblings.
+        notes: 'AGOT appendix: House Tully.'

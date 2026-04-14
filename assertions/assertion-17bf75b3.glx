@@ -1,0 +1,11 @@
+assertions:
+    assertion-lancel-lannister-knighted-acok:
+        subject:
+            person: person-lancel-lannister
+        property: title
+        value: Ser
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: 'From ACOK Appendix, The King on the Iron Throne section. Source text: ''SER LANCEL LANNISTER, formerly squire to King Robert, recently knighted.'' Knighted after Robert''s death.'

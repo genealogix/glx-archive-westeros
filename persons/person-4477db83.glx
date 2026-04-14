@@ -1,0 +1,10 @@
+persons:
+    person-hightower-344:
+        properties:
+            external_ids:
+                - MH:I344
+            gender: female
+            name:
+                fields:
+                    surname: Hightower
+                value: Hightower

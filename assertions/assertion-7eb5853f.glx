@@ -1,0 +1,11 @@
+assertions:
+    assertion-doran-martell-house:
+        subject:
+            person: person-doran-martell
+        property: house
+        value: Martell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Martell section.

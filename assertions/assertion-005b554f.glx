@@ -1,0 +1,12 @@
+assertions:
+    assertion-olenna-redwyne-name:
+        subject:
+            person: person-olenna-redwyne
+        property: name
+        value: Olenna Redwyne
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Tyrell section. Mace''s widowed mother, known as the Queen of Thorns. Source text: his widowed mother, LADY OLENNA of House Redwyne, called THE QUEEN OF THORNS'

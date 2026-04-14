@@ -1,0 +1,12 @@
+assertions:
+    assertion-arianne-martell-name:
+        subject:
+            person: person-arianne-martell
+        property: name
+        value: Arianne Martell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT and AFFC Appendix, House Martell section. Eldest daughter and heir to Sunspear. Source text: PRINCESS ARIANNE, heir to Sunspear'

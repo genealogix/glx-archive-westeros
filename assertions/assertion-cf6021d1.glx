@@ -1,0 +1,11 @@
+assertions:
+    assertion-stafford-lannister-name:
+        subject:
+            person: person-stafford-lannister
+        property: name
+        value: Stafford Lannister
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Lannister section. Cousin to Tywin, brother of Lady Joanna. Source text: their cousin, SER STA FFORD LA NNISTER, brother to the late Lady Joanna'

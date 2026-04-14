@@ -1,0 +1,12 @@
+assertions:
+    assertion-sandor-frey-name:
+        subject:
+            person: person-sandor-frey
+        property: name
+        value: Sandor Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. ASOS specifies squire to Ser Donnel Waynwood. Source text: Geremy''s son, SANDOR, a boy of twelve, a squire'

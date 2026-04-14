@@ -1,0 +1,11 @@
+assertions:
+    assertion-wendel-manderly-killed-crossbow:
+        subject:
+            person: person-wendel-manderly
+        property: cause_of_death
+        value: Crossbow quarrel through the mouth and out the back of the neck
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-catelyn-vii
+        notes: 'Ser Wendel Manderly rose to his feet holding a leg of lamb when the massacre began. A quarrel went in his open mouth and came out the back of his neck. Direct text: ''Ser Wendel Manderly rose ponderously to his feet, holding his leg of lamb. A quarrel went in his open mouth and came out the back of his neck.'''

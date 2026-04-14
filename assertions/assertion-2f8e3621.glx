@@ -1,0 +1,12 @@
+assertions:
+    assertion-hosteen-frey-name:
+        subject:
+            person: person-hosteen-frey
+        property: name
+        value: Hosteen Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Eldest son by third wife Lady Amarei of House Crakehall. Source text: SER HOSTEEN, m. Bellena Hawick'

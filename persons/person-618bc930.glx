@@ -1,0 +1,20 @@
+persons:
+    person-garlan-tyrell:
+        properties:
+            alias:
+                - value: The Gallant
+            external_ids:
+                - MH:I377
+            gender: male
+            house: Tyrell
+            name:
+                fields:
+                    given: Garlan
+                    prefix: Ser
+                    surname: Tyrell
+                value: Ser Garlan Tyrell
+            title:
+                - value: Ser
+                - date: FROM 300
+                  value: Lord of Brightwater
+        notes: Second son of Mace Tyrell. Called the Gallant. Newly raised to Lord of Brightwater (formerly House Florent's seat, awarded after their attainder for supporting Stannis) per AFFC appendix. Wife is Lady Leonette of House Fossoway.

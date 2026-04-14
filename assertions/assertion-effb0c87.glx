@@ -1,0 +1,12 @@
+assertions:
+    assertion-jenny-oldstones-died:
+        subject:
+            event: event-f9a1748d
+        property: date
+        value: ABT 259
+        confidence: medium
+        status: speculative
+        citations:
+            - citation-twoiaf-aegon-v
+            - citation-awoiaf-jenny-of-oldstones
+        notes: Jenny's fate is uncertain. King Aegon V and Prince Duncan died in the tragedy at Summerhall in 259 AC. The song 'Jenny of Oldstones' speaks of Jenny dancing with ghosts in the hall of kings, which may refer to Summerhall or to her earlier life at Oldstones. AWOIAF notes the uncertainty.

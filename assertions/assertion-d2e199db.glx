@@ -1,0 +1,11 @@
+assertions:
+    assertion-kevan-lannister-title:
+        subject:
+            person: person-kevan-lannister
+        property: title
+        value: Ser
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Lannister section. Source text: SER KEVA N, his eldest brother'

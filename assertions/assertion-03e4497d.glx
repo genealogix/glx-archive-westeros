@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-baratheon-name:
+        subject:
+            person: person-joffrey-baratheon
+        property: name
+        value: Joffrey Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Baratheon section. Listed as Prince and heir. Source text: PRINCE JOFFREY, heir to the Iron Throne, twelve'

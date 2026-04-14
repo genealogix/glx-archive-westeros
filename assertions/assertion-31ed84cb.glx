@@ -1,0 +1,11 @@
+assertions:
+    assertion-bran-beyond-wall-adwd:
+        subject:
+            person: person-brandon-stark-bran
+        property: title
+        value: Prince of Winterfell
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''BRANDON STARK, called BRAN, Prince of Winterfell and heir to the North, a crippled boy of nine'' — in the Haunted Forest beyond the Wall'

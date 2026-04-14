@@ -1,0 +1,11 @@
+assertions:
+    assertion-rickon-born-winterfell:
+        subject:
+            event: event-birth-rickon-stark
+        property: place
+        value: place-winterfell
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-appendix
+        notes: Born at Winterfell.

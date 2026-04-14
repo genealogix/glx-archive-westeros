@@ -1,0 +1,8 @@
+places:
+    place-griffins-roost:
+        name: Griffin's Roost
+        parent: place-the-stormlands
+        type: castle
+        properties:
+            seat_of: House Connington
+        notes: Seat of House Connington in the Stormlands. Forfeited after the Battle of the Bells when Jon Connington was exiled. Reclaimed in ADWD.

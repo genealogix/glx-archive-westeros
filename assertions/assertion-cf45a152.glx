@@ -1,0 +1,12 @@
+assertions:
+    assertion-walder-frey-red-walder-name:
+        subject:
+            person: person-walder-frey-red-walder
+        property: name
+        value: Walder 'Red Walder' Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Emmon''s son, WALDER, called RED WALDER, fourteen, a page at Casterly Rock'

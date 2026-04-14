@@ -1,0 +1,11 @@
+assertions:
+    assertion-denys-arryn-name:
+        subject:
+            person: person-denys-arryn
+        property: name
+        value: Denys Arryn
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Denys Arryn (the Darling of the Vale, killed during Robert's Rebellion) appears only in chapter text. May require chapter-level citation.

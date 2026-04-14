@@ -1,0 +1,12 @@
+assertions:
+    assertion-bran-climbing:
+        subject:
+            person: person-brandon-stark-bran
+        property: description
+        value: Seven years old; could climb before he could walk; beloved hobby was climbing castle walls and roofs of Winterfell; age seven at AGOT
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-bran-i
+            - citation-agot-bran-ii
+        notes: 'Source text (Catelyn I): ''He is only seven.'' Source text (Bran I): ''It was the ninth year of summer, and the seventh of Bran''s life.'' Source text (Bran II): ''His mother often said that Bran could climb before he could walk.'''

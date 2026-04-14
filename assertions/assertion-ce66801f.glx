@@ -1,0 +1,11 @@
+assertions:
+    assertion-orys-baratheon-gender:
+        subject:
+            person: person-orys-baratheon
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Baratheon section. Referred to as brother and he.

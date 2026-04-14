@@ -1,0 +1,12 @@
+assertions:
+    assertion-ryger-rivers-name:
+        subject:
+            person: person-ryger-rivers
+        property: name
+        value: Ryger Rivers
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,7 +1,0 @@
-events:
-    event-birth-genna-lannister:
-        title: "Birth of Genna Lannister"
-        type: birth
-        participants:
-            - person: person-genna-lannister
-              role: principal

@@ -1,0 +1,11 @@
+assertions:
+    assertion-euron-greyjoy-alias:
+        subject:
+            person: person-euron-greyjoy
+        property: alias
+        value: Crow's Eye
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Called Crow's Eye in the AFFC appendix.

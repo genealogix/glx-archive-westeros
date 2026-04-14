@@ -1,0 +1,11 @@
+assertions:
+    assertion-rickon-believed-dead-adwd:
+        subject:
+            person: person-rickon-stark
+        property: status
+        value: believed dead
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''RICKON, a boy of four, believed dead'''

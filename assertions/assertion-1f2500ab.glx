@@ -1,0 +1,11 @@
+assertions:
+    assertion-shireen-baratheon-name:
+        subject:
+            person: person-shireen-baratheon
+        property: name
+        value: Shireen Baratheon
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Baratheon section. Daughter of Stannis and Selyse. Source text: their daughter, SHIREEN, a girl of nine'

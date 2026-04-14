@@ -1,0 +1,13 @@
+events:
+    event-doom-valyria:
+        title: The Doom
+        type: event
+        place: place-valyria
+        date: "ABT 114 BEF 1"
+        participants:
+            - person: person-daenys-targaryen
+              role: witness
+        properties:
+            also_known_as: The Doom
+            description: The Doom of Valyria — a cataclysmic volcanic event that destroyed the Valyrian Freehold, shattering the Valyrian peninsula and killing most dragonlords. Only House Targaryen survived, having relocated to Dragonstone twelve years prior on the warning of Daenys the Dreamer.
+        notes: The exact date is uncertain. The Doom occurred approximately a century before Aegon's Conquest. House Targaryen escaped because Daenys the Dreamer foresaw the destruction.

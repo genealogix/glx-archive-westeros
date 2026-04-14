@@ -1,0 +1,11 @@
+assertions:
+    assertion-gregor-alias-robert-strong:
+        subject:
+            person: person-gregor-clegane
+        property: alias
+        value: Robert Strong
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: Reanimated by Qyburn as Ser Robert Strong, a monstrous silent Kingsguard.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-ilyn-payne-title:
+        subject:
+            person: person-ilyn-payne
+        property: title
+        value: Ser, The King's Justice
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon section.

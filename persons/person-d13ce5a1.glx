@@ -1,0 +1,20 @@
+persons:
+    person-brynden-tully-blackfish:
+        properties:
+            alias:
+                - value: The Blackfish
+            external_ids:
+                - MH:I256
+            gender: male
+            house: Tully
+            name:
+                fields:
+                    given: Brynden
+                    nickname: Blackfish
+                    prefix: Ser
+                    surname: Tully
+                value: Ser Brynden Tully
+            title:
+                - value: Ser
+                - value: Knight of the Gate
+        notes: Brother of Hoster Tully. Uncle to Lady Lysa. Knight of the Gate at the Eyrie.

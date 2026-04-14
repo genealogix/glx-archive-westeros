@@ -1,0 +1,11 @@
+assertions:
+    assertion-loras-tyrell-alias:
+        subject:
+            person: person-loras-tyrell
+        property: alias
+        value: The Knight of Flowers
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Tyrell section.

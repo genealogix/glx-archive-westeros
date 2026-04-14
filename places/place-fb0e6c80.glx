@@ -1,0 +1,6 @@
+places:
+    place-norvos:
+        name: Norvos
+        parent: place-essos
+        type: free_city
+        notes: One of the Free Cities of Essos, located inland along the upper Noyne. Known for its bearded priests who rule the city.

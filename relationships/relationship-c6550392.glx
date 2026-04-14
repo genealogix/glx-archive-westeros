@@ -1,0 +1,11 @@
+relationships:
+    rel-sibling-baratheon-stannis-renly:
+        type: sibling
+        participants:
+            - person: person-stannis-baratheon
+              role: sibling
+            - person: person-renly-baratheon
+              role: sibling
+        properties:
+            context: Sons of Steffon Baratheon and Cassana Estermont. Full brothers.
+        notes: 'AGOT appendix: House Baratheon. Stannis and Renly were estranged and eventually at war with each other during the War of the Five Kings.'

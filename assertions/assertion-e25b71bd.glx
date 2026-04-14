@@ -1,0 +1,11 @@
+assertions:
+    assertion-varys-alias:
+        subject:
+            person: person-varys
+        property: alias
+        value: The Spider
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Baratheon section. Source text: VA RYS, a eunuch, called the Spider'

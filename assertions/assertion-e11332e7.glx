@@ -1,0 +1,12 @@
+assertions:
+    assertion-lyonel-frey-name:
+        subject:
+            person: person-lyonel-frey
+        property: name
+        value: Lyonel Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Emmon''s son, SER LYONEL, m. Melesa Crakehall'

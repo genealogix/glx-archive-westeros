@@ -1,0 +1,11 @@
+assertions:
+    assertion-illyrio-role-daenerys-i:
+        subject:
+            person: person-illyrio-mopatis
+        property: description
+        value: Magister of Pentos; dealer in spices, gemstones, dragonbone; massively fat; yellow forked beard oiled like real gold; gemstones on every finger
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-daenerys-i
+        notes: 'Source text (Daenerys I): ''Magister Illyrio was a dealer in spices, gemstones, dragonbone, and other, less savory things. He had friends in all of the Nine Free Cities... Beneath loose garments of flame-colored silk, rolls of fat jiggled as he walked. Gemstones glittered on every finger, and his man had oiled his forked yellow beard until it shone like real gold.'''

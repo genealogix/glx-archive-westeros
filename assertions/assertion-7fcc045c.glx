@@ -1,0 +1,12 @@
+assertions:
+    assertion-tywin-lannister-title-hand:
+        subject:
+            person: person-tywin-lannister
+        property: title
+        value: Hand of the King
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+            - citation-asos-appendix
+        notes: 'First appears in ACOK appendix: ''TYWIN LANNISTER, Lord of Casterly Rock, Warden of the West, Shield of Lannisport, and Hand of the King, commanding the Lannister host at Harrenhal.'' Continues in ASOS.'

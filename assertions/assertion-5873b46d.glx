@@ -1,0 +1,12 @@
+assertions:
+    assertion-danwell-frey-name:
+        subject:
+            person: person-danwell-frey
+        property: name
+        value: Danwell Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER DANWELL, Lord Walder''s eighth son, m. Wynafrei Whent'

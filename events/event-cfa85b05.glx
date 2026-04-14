@@ -1,0 +1,7 @@
+events:
+    event-2cd3f192:
+        type: birth
+        date: "ABT 287"
+        participants:
+            - person: person-denyo-terys
+              role: principal

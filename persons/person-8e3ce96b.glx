@@ -1,0 +1,12 @@
+persons:
+    person-aemon-targaryen-the-dragonknight:
+        properties:
+            external_ids:
+                - MH:I307
+            gender: male
+            name:
+                fields:
+                    given: Aemon
+                    nickname: The Dragonknight
+                    surname: Targaryen
+                value: Aemon Targaryen

@@ -1,7 +1,0 @@
-events:
-    event-death-daella-targaryen:
-        title: "Death of Daella Targaryen"
-        type: death
-        participants:
-            - person: person-daella-targaryen
-              role: principal

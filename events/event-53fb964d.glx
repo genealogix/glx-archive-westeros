@@ -1,0 +1,8 @@
+events:
+    event-birth-aegon-targaryen-i-the-conqueror:
+        title: Birth of Aegon Targaryen I
+        type: birth
+        date: "27 BC"
+        participants:
+            - person: person-aegon-targaryen-i-the-conqueror
+              role: principal

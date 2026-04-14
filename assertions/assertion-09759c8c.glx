@@ -1,0 +1,11 @@
+assertions:
+    assertion-talla-tarly-name:
+        subject:
+            person: person-talla-tarly
+        property: name
+        value: Talla Tarly
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: From GEDCOM. Talla Tarly is mentioned in AFFC prose (Sam's sister) but does not appear by name in any novel appendix. Retained at medium confidence based on prose references.

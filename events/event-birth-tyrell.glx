@@ -1,7 +1,0 @@
-events:
-    event-birth-tyrell:
-        title: "Birth of Tyrell"
-        type: birth
-        participants:
-            - person: person-tyrell
-              role: principal

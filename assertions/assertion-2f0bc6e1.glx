@@ -1,0 +1,11 @@
+assertions:
+    assertion-denyse-hightower-name:
+        subject:
+            person: person-denyse-hightower
+        property: name
+        value: Denyse Hightower
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Married to Ser Desmond Redwyne. Source text: Lord Leyton''s daughter, DENYSE, m. Ser Desmond Redwyne'

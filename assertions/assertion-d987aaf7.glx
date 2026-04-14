@@ -1,0 +1,12 @@
+assertions:
+    assertion-maekar-targaryen-i-name:
+        subject:
+            person: person-maekar-targaryen-i
+        property: name
+        value: Maekar Targaryen I
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. AGOT Appendix lists ''221-233 Maekar I fourth son of Daeron II''. Source text: MAEKAR WAS AN energetic king and a warrior of note, but also a harsh man, quick to judge and to condemn. He had never possessed his brother Baelor''s gifts that made friends and allies come easily'

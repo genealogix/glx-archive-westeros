@@ -1,0 +1,11 @@
+assertions:
+    assertion-jeyne-royce-name:
+        subject:
+            person: person-jeyne-royce
+        property: name
+        value: Jeyne Royce
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Arryn section. Jon Arryn''s first wife, deceased (indicated by braces). Source text: his first wife, {LADY JEYNE, of House Royce}, died in childbed, her daughter stillborn'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-elbert-arryn-name:
+        subject:
+            person: person-elbert-arryn
+        property: name
+        value: Elbert Arryn
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Elbert Arryn (Jon Arryn's nephew, killed by Aerys II) is mentioned in chapter text. May require chapter-level citation.

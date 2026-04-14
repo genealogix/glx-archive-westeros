@@ -1,0 +1,11 @@
+assertions:
+    assertion-rorge-biter-jaqen-wagon:
+        subject:
+            person: person-rorge
+        property: description
+        value: Caged with Jaqen H'ghar and Biter in Yoren's wagon
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-arya-vi
+        notes: Rorge, Biter, and Jaqen H'ghar were three criminals locked in a wagon as Yoren's recruits for the Night's Watch. Arya released them from the burning wagon, creating Jaqen's debt. Rorge is noseless and violent; Biter is near-mute and feral. Both later join the Brave Companions.

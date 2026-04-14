@@ -1,0 +1,11 @@
+assertions:
+    assertion-grey-worm-unsullied-adwd:
+        subject:
+            person: person-grey-worm
+        property: title
+        value: Commander of the Unsullied
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-appendix
+        notes: 'ADWD Appendix: ''GREY WORM, a eunuch, commander of the Unsullied, a company of eunuch infantry'''

@@ -1,0 +1,7 @@
+events:
+    event-birth-luceon-frey:
+        title: Birth of Septon Luceon Frey
+        type: birth
+        participants:
+            - person: person-luceon-frey
+              role: principal

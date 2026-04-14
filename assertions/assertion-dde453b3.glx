@@ -1,0 +1,11 @@
+assertions:
+    assertion-robb-born-riverrun:
+        subject:
+            event: event-birth-robb-stark
+        property: place
+        value: place-riverrun
+        confidence: high
+        status: proven
+        citations:
+            - citation-agot-catelyn-ii
+        notes: Born at Riverrun while Ned was at war.

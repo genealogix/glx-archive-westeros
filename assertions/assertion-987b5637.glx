@@ -1,0 +1,11 @@
+assertions:
+    assertion-paxter-redwyne-gender:
+        subject:
+            person: person-paxter-redwyne
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: PAXTER REDWYNE, Lord of the Arbor'

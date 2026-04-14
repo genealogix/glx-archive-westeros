@@ -1,0 +1,12 @@
+assertions:
+    assertion-kyra-frey-name:
+        subject:
+            person: person-kyra-frey
+        property: name
+        value: Kyra Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Husband alive in ASOS, slain at Red Wedding by AFFC. Source text: Jared''s daughter, KYRA, m. {Ser Garse Goodbrook}, slain during the Red Wedding'

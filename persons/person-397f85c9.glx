@@ -1,0 +1,11 @@
+persons:
+    person-colmar-frey:
+        properties:
+            external_ids:
+                - MH:I138
+            gender: male
+            name:
+                fields:
+                    given: Colmar
+                    surname: Frey
+                value: Colmar Frey

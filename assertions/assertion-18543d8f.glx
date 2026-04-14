@@ -1,0 +1,11 @@
+assertions:
+    assertion-sandor-mortally-wounded:
+        subject:
+            person: person-sandor-clegane
+        property: description
+        value: Left dying of fever and infected wounds near the Trident after Arya abandoned him
+        confidence: high
+        status: proven
+        citations:
+            - citation-asos-arya-hound
+        notes: 'Sandor''s wounds from the inn fight: ear sliced off, thigh gashed, face cut badly. He fell into fever; his thigh wound smelled of rot. Arya treated him with boiling wine and bandages but could not continue. She drew Needle over him but could not deliver the mercy kill. She left him alive. Text: ''She wondered if he would still be alive when she reached Saltpans.'' Sandor is later revealed to be alive on the Quiet Isle in AFFC.'

@@ -1,0 +1,12 @@
+assertions:
+    assertion-doran-martell-name:
+        subject:
+            person: person-doran-martell
+        property: name
+        value: Doran Martell
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-affc-appendix
+        notes: 'Verified against AGOT Appendix and AFFC Appendix, House Martell section. Full style: Doran Nymeros Martell. Source text: DORAN NYMEROS MARTELL, Lord of Sunspear, Prince of Dorne'

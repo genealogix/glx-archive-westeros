@@ -1,0 +1,11 @@
+assertions:
+    assertion-aerys-targaryen-ii-cause-of-death:
+        subject:
+            person: person-aerys-targaryen-ii
+        property: cause_of_death
+        value: Slain by Jaime Lannister during the Sack of King's Landing
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix. Source text: {KING A ERYS TA RGA RYEN}, the Second of His Name, slain by Jaime Lannister during the Sack of King''s Landing'

@@ -1,0 +1,12 @@
+assertions:
+    assertion-aegon-targaryen-v-gender:
+        subject:
+            person: person-aegon-targaryen-v
+        property: gender
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Youngest of the king''s sons was Prince Aegon, who had served as squire to a hedge knight'

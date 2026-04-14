@@ -1,0 +1,12 @@
+assertions:
+    assertion-alyssa-blackwood-name:
+        subject:
+            person: person-alyssa-blackwood
+        property: name
+        value: Alyssa Blackwood
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

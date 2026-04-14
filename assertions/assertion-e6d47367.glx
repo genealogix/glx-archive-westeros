@@ -1,0 +1,12 @@
+assertions:
+    assertion-barristan-selmy-conspires-against-hizdahr:
+        subject:
+            person: person-barristan-selmy
+        property: description
+        value: Arrested or imprisoned Hizdahr zo Loraq on suspicion of poisoning Daenerys at the fighting pits
+        confidence: high
+        status: proven
+        citations:
+            - citation-adwd-the-queens-hand
+            - citation-adwd-the-queensguard
+        notes: By 'The Queen's Hand,' Hizdahr zo Loraq is described as being 'in chains.' Skahaz mo Kandaq presented evidence that Hizdahr's confectioner (a catspaw of the Sons of the Harpy) poisoned the honeyed locusts at Daznak's Pit. Barristan had demanded proof before acting against Hizdahr. The Shavepate implicated Hizdahr as the Harpy or the Harpy's son. Barristan planned to question the confectioner himself before committing. By the time of The Queen's Hand, Hizdahr is imprisoned.

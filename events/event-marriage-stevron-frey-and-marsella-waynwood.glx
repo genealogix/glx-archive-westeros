@@ -1,9 +1,0 @@
-events:
-    event-marriage-stevron-frey-and-marsella-waynwood:
-        title: "Marriage of Stevron Frey and Marsella Waynwood"
-        type: marriage
-        participants:
-            - person: person-stevron-frey
-              role: subject
-            - person: person-marsella-waynwood
-              role: subject

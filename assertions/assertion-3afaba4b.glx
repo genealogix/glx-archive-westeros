@@ -1,0 +1,12 @@
+assertions:
+    assertion-rhaegar-frey-name:
+        subject:
+            person: person-rhaegar-frey
+        property: name
+        value: Rhaegar Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Jeyne Beesbury alive in ASOS, dead of illness by AFFC. Source text: Aenys''s son, RHAEGAR, m. {Jeyne Beesbury}, died of a wasting illness'

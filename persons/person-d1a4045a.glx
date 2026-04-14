@@ -1,0 +1,11 @@
+persons:
+    person-jorelle-mormont:
+        properties:
+            external_ids:
+                - MH:I434
+            gender: female
+            name:
+                fields:
+                    given: Jorelle
+                    surname: Mormont
+                value: Jorelle Mormont

@@ -1,0 +1,11 @@
+assertions:
+    assertion-qhorin-chooses-jon:
+        subject:
+            person: person-jon-snow
+        property: night_watch_assignment
+        value: Selected by Qhorin Halfhand to range into the Frostfangs
+        confidence: high
+        status: proven
+        citations:
+            - citation-acok-jon-vii
+        notes: 'Qhorin Halfhand arrives at the Fist of the First Men and selects Jon Snow to accompany him on a small ranging party into the Frostfangs to scout Mance Rayder''s position. Source text: ''Qhorin Halfhand turned his head. His eyes met Jon''s, and held them for a long moment. Very well. I choose Jon Snow.'' He also reports that Alfyn Crowkiller has been killed.'

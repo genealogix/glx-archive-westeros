@@ -1,0 +1,11 @@
+assertions:
+    assertion-jon-arryn-title:
+        subject:
+            person: person-jon-arryn
+        property: title
+        value: Lord of the Eyrie, Defender of the Vale, Warden of the East, Hand of the King
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Arryn section.

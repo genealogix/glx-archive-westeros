@@ -1,0 +1,7 @@
+citations:
+    citation-myheritage-gedcom:
+        source: source-myheritage-tree
+        properties:
+            accessed: "2013-05-31"
+            locator: GEDCOM Export
+        notes: Complete GEDCOM 5.5 export of the ASOIAF family tree from MyHeritage, dated 31 MAY 2013

@@ -1,0 +1,7 @@
+events:
+    event-birth-denys-arryn:
+        title: Birth of Denys Arryn
+        type: birth
+        participants:
+            - person: person-denys-arryn
+              role: principal

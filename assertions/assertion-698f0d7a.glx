@@ -1,0 +1,11 @@
+assertions:
+    assertion-jonos-bracken-name:
+        subject:
+            person: person-jonos-bracken
+        property: name
+        value: Jonos Bracken
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'From AGOT Appendix, House Tully section. Source text: JONOS BRA CKEN, Lord of the Stone Hedge'

@@ -1,0 +1,14 @@
+events:
+    event-birth-robb-stark:
+        title: Birth of Robb Stark
+        type: birth
+        place: place-riverrun
+        date: "283"
+        participants:
+            - person: person-robb-stark
+              role: principal
+            - person: person-eddard-stark
+              role: parent
+            - person: person-catelyn-tully
+              role: parent
+        notes: Eldest son of Eddard and Catelyn Stark. Born during Robert's Rebellion.

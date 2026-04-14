@@ -1,0 +1,12 @@
+assertions:
+    assertion-walda-frey-111-name:
+        subject:
+            person: person-walda-frey-111
+        property: name
+        value: Walda Frey
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. ASOS lists age four, AFFC five. Daughter of Lame Lothar. Source text: Lothar''s daughter, WALDA, a girl of five'

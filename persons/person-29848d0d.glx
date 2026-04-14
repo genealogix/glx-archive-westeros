@@ -1,0 +1,11 @@
+persons:
+    person-amarei-crakehall:
+        properties:
+            external_ids:
+                - MH:I61
+            gender: female
+            name:
+                fields:
+                    given: Amarei
+                    surname: Crakehall
+                value: Amarei Crakehall
