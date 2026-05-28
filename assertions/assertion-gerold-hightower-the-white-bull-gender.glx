@@ -1,0 +1,11 @@
+assertions:
+    assertion-gerold-hightower-the-white-bull-gender:
+        subject:
+            person: person-gerold-hightower-the-white-bull
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-appendix
+        notes: 'Verified against TWOIAF. Source text: Ser Gerold Hightower, called the White Bull'

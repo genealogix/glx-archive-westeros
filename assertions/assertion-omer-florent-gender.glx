@@ -1,0 +1,11 @@
+assertions:
+    assertion-omer-florent-gender:
+        subject:
+            person: person-omer-florent
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix, House Florent section. Listed as son.

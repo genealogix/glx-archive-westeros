@@ -1,0 +1,30 @@
+persons:
+    person-tywin-lannister:
+        properties:
+            alias:
+                - value: The Old Lion
+                - value: The Great Lion of the Rock
+            cause_of_death: Killed by crossbow bolt, shot by his son Tyrion
+            culture: Westermen
+            external_ids:
+                - MH:I159
+            house: Lannister
+            name:
+                fields:
+                    given: Tywin
+                    surname: Lannister
+                value: Tywin Lannister
+            religion: Faith of the Seven
+            sex: male
+            title:
+                - value: Ser
+                - value: Lord of Casterly Rock
+                - value: Shield of Lannisport
+                - value: Warden of the West
+                - date: FROM 262 TO 281
+                  value: Hand of the King
+                - date: FROM 299 TO 300
+                  value: Hand of the King
+                - date: FROM 299
+                  value: Savior of the City
+        notes: Head of House Lannister and one of the most powerful men in Westeros. Son of Tytos Lannister and Jeyne Marbrand. Tall, broad-shouldered, bald with thick golden sideburns. Served as Hand of the King to Aerys II for twenty years, effectively ruling the realm. Married his cousin Joanna Lannister, who died giving birth to Tyrion. Orchestrated the Red Wedding and the fall of House Stark. Killed by Tyrion with a crossbow while on the privy in the Tower of the Hand at the end of ASOS.

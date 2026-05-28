@@ -1,0 +1,6 @@
+persons:
+    person-unknown-492:
+        properties:
+            external_ids:
+                - MH:I492
+            sex: unknown

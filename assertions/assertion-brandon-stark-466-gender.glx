@@ -1,0 +1,11 @@
+assertions:
+    assertion-brandon-stark-466-gender:
+        subject:
+            person: person-brandon-stark-466
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. Historical Brandon Stark from GEDCOM import.

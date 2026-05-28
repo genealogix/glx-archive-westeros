@@ -1,0 +1,11 @@
+assertions:
+    assertion-olyvar-martell-gender:
+        subject:
+            person: person-olyvar-martell
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Not verified against novel appendices.

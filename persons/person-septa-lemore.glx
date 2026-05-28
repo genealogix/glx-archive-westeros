@@ -1,0 +1,7 @@
+persons:
+    person-septa-lemore:
+        properties:
+            name:
+                value: Septa Lemore
+            sex: female
+        notes: A woman of the Faith, companion to Young Griff on the Rhoyne (ADWD Appendix).

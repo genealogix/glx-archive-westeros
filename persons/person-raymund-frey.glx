@@ -1,0 +1,11 @@
+persons:
+    person-raymund-frey:
+        properties:
+            external_ids:
+                - MH:I68
+            name:
+                fields:
+                    given: Raymund
+                    surname: Frey
+                value: Raymund Frey
+            sex: male

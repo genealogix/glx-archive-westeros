@@ -1,0 +1,11 @@
+assertions:
+    assertion-alysane-mormont-gender:
+        subject:
+            person: person-alysane-mormont
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Verified against AFFC Appendix. Listed as daughter.

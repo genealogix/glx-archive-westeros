@@ -1,0 +1,12 @@
+assertions:
+    assertion-robert-brax-122-gender:
+        subject:
+            person: person-robert-brax-122
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenerys-targaryen-304-gender:
+        subject:
+            person: person-daenerys-targaryen-304
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix. Source text: PRINCESS DAENERYS, called Daenerys Stormborn, a maid of thirteen years.'

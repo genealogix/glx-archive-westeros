@@ -1,0 +1,11 @@
+persons:
+    person-cyrenna-swann:
+        properties:
+            external_ids:
+                - MH:I49
+            name:
+                fields:
+                    given: Cyrenna
+                    surname: Swann
+                value: Cyrenna Swann
+            sex: female

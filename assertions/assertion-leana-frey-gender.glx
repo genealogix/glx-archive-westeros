@@ -1,0 +1,11 @@
+assertions:
+    assertion-leana-frey-gender:
+        subject:
+            person: person-leana-frey
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Frey section. Not present in ASOS appendix (born between ASOS and AFFC). Source text: Lothar''s daughter, LEANA, a newborn babe'

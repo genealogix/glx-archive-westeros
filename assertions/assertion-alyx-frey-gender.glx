@@ -1,0 +1,12 @@
+assertions:
+    assertion-alyx-frey-gender:
+        subject:
+            person: person-alyx-frey
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Symond''s daughter, ALYX, a maid of seventeen'

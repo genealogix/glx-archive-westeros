@@ -1,0 +1,11 @@
+assertions:
+    assertion-tygett-lannister-gender:
+        subject:
+            person: person-tygett-lannister
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Lannister section. Listed as Ser and brother.

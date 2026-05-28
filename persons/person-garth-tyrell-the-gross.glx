@@ -1,0 +1,12 @@
+persons:
+    person-garth-tyrell-the-gross:
+        properties:
+            external_ids:
+                - MH:I383
+            name:
+                fields:
+                    given: Garth
+                    nickname: The Gross
+                    surname: Tyrell
+                value: Garth Tyrell
+            sex: male

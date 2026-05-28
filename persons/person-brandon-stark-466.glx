@@ -1,0 +1,11 @@
+persons:
+    person-brandon-stark-466:
+        properties:
+            external_ids:
+                - MH:I466
+            name:
+                fields:
+                    given: Brandon
+                    surname: Stark
+                value: Brandon Stark
+            sex: male

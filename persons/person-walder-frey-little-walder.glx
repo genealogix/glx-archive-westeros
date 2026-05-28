@@ -1,0 +1,12 @@
+persons:
+    person-walder-frey-little-walder:
+        properties:
+            external_ids:
+                - MH:I91
+            name:
+                fields:
+                    given: Walder
+                    nickname: Little Walder
+                    surname: Frey
+                value: Walder Frey
+            sex: male

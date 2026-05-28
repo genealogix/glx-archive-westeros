@@ -1,0 +1,10 @@
+persons:
+    person-waynwood-250:
+        properties:
+            external_ids:
+                - MH:I250
+            name:
+                fields:
+                    surname: Waynwood
+                value: Waynwood
+            sex: unknown

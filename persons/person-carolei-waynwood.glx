@@ -1,0 +1,11 @@
+persons:
+    person-carolei-waynwood:
+        properties:
+            external_ids:
+                - MH:I92
+            name:
+                fields:
+                    given: Carolei
+                    surname: Waynwood
+                value: Carolei Waynwood
+            sex: female

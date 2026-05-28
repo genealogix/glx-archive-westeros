@@ -1,0 +1,12 @@
+persons:
+    person-tytos-frey:
+        properties:
+            external_ids:
+                - MH:I53
+            name:
+                fields:
+                    given: Tytos
+                    prefix: Ser
+                    surname: Frey
+                value: Ser Tytos Frey
+            sex: male

@@ -1,0 +1,11 @@
+persons:
+    person-gunthor-hightower:
+        properties:
+            external_ids:
+                - MH:I417
+            name:
+                fields:
+                    given: Gunthor
+                    surname: Hightower
+                value: Gunthor Hightower
+            sex: male

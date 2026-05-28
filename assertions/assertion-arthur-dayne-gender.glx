@@ -1,0 +1,11 @@
+assertions:
+    assertion-arthur-dayne-gender:
+        subject:
+            person: person-arthur-dayne
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: From GEDCOM. Referenced as Ser in prose. Not found in novel appendices.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-janna-tyrell-gender:
+        subject:
+            person: person-janna-tyrell
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: JANNA, wed to Ser Jon Fossoway'

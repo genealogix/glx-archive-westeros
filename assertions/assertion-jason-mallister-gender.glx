@@ -1,0 +1,11 @@
+assertions:
+    assertion-jason-mallister-gender:
+        subject:
+            person: person-jason-mallister
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Tully section. Listed as Lord.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-myriah-martell-gender:
+        subject:
+            person: person-myriah-martell
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Martell introductory text. Source text: the Dornish princess Myriah'

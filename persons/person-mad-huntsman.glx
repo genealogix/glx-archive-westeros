@@ -1,0 +1,11 @@
+persons:
+    person-mad-huntsman:
+        properties:
+            alias:
+                - value: The Mad Huntsman
+            name:
+                fields:
+                    given: unknown
+                value: The Mad Huntsman
+            sex: male
+        notes: A stocky, balding, weak-chinned, quarrelsome member of the Brotherhood Without Banners. Famous for his hounds. He captures Sandor Clegane sleeping drunk under a willow tree and brings him to Lord Beric for judgment. First appears ASOS Arya VI.

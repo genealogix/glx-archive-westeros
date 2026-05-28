@@ -1,0 +1,11 @@
+persons:
+    person-gendry-waters:
+        properties:
+            external_ids:
+                - MH:I193
+            name:
+                fields:
+                    given: Gendry
+                    surname: Waters
+                value: Gendry Waters
+            sex: male

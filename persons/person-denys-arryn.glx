@@ -1,0 +1,11 @@
+persons:
+    person-denys-arryn:
+        properties:
+            external_ids:
+                - MH:I235
+            name:
+                fields:
+                    given: Denys
+                    surname: Arryn
+                value: Denys Arryn
+            sex: male

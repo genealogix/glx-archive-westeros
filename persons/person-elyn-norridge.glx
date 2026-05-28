@@ -1,0 +1,11 @@
+persons:
+    person-elyn-norridge:
+        properties:
+            external_ids:
+                - MH:I398
+            name:
+                fields:
+                    given: Elyn
+                    surname: Norridge
+                value: Elyn Norridge
+            sex: female

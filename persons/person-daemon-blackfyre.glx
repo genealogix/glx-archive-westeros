@@ -1,0 +1,11 @@
+persons:
+    person-daemon-blackfyre:
+        properties:
+            external_ids:
+                - MH:I312
+            name:
+                fields:
+                    given: Daemon
+                    surname: Blackfyre
+                value: Daemon Blackfyre
+            sex: male

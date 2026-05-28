@@ -1,0 +1,11 @@
+persons:
+    person-robert-brax-155:
+        properties:
+            external_ids:
+                - MH:I155
+            name:
+                fields:
+                    given: Robert
+                    surname: Brax
+                value: Robert Brax
+            sex: male

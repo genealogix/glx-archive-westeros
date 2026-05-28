@@ -1,0 +1,11 @@
+assertions:
+    assertion-daemon-blackfyre-ii-gender:
+        subject:
+            person: person-daemon-blackfyre-ii
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Daemon Blackfyre''s eldest surviving son, Daemon the Younger'

@@ -1,0 +1,11 @@
+persons:
+    person-alesander-frey:
+        properties:
+            external_ids:
+                - MH:I82
+            name:
+                fields:
+                    given: Alesander
+                    surname: Frey
+                value: Alesander Frey
+            sex: male

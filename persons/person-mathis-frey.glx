@@ -1,0 +1,11 @@
+persons:
+    person-mathis-frey:
+        properties:
+            external_ids:
+                - MH:I117
+            name:
+                fields:
+                    given: Mathis
+                    surname: Frey
+                value: Mathis Frey
+            sex: male

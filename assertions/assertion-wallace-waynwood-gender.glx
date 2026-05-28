@@ -1,0 +1,11 @@
+assertions:
+    assertion-wallace-waynwood-gender:
+        subject:
+            person: person-wallace-waynwood
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-adwd-appendix
+        notes: Verified against ADWD Appendix, House Arryn section. Listed as 'her youngest son'.

@@ -1,0 +1,11 @@
+persons:
+    person-alyx-frey:
+        properties:
+            external_ids:
+                - MH:I83
+            name:
+                fields:
+                    given: Alyx
+                    surname: Frey
+                value: Alyx Frey
+            sex: female

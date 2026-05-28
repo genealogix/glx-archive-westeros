@@ -1,0 +1,11 @@
+assertions:
+    assertion-daemon-targaryen-gender:
+        subject:
+            person: person-daemon-targaryen
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: his own brother, Prince Daemon Targaryen'

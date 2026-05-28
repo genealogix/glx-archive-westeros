@@ -1,0 +1,15 @@
+persons:
+    person-daven-lannister:
+        properties:
+            external_ids:
+                - MH:I184
+            house: Lannister
+            name:
+                fields:
+                    given: Daven
+                    surname: Lannister
+                value: Daven Lannister
+            sex: male
+            title:
+                - value: Ser
+        notes: Son of Ser Stafford Lannister.

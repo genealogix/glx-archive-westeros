@@ -1,0 +1,11 @@
+assertions:
+    assertion-tregar-ormollen-gender:
+        subject:
+            person: person-tregar-ormollen
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Verified against AFFC Appendix. Implied male by context (Lynesse is his concubine).

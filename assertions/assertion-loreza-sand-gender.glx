@@ -1,0 +1,11 @@
+assertions:
+    assertion-loreza-sand-gender:
+        subject:
+            person: person-loreza-sand
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Martell section. Source text: LOREZA, six, his daughter by Ellaria Sand'

@@ -1,0 +1,11 @@
+persons:
+    person-leonella-lefford:
+        properties:
+            external_ids:
+                - MH:I109
+            name:
+                fields:
+                    given: Leonella
+                    surname: Lefford
+                value: Leonella Lefford
+            sex: female

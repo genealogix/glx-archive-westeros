@@ -1,6 +1,0 @@
-persons:
-    person-unknown-325:
-        properties:
-            external_ids:
-                - MH:I325
-            gender: male

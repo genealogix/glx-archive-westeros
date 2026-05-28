@@ -1,0 +1,11 @@
+persons:
+    person-robert-frey-96:
+        properties:
+            external_ids:
+                - MH:I96
+            name:
+                fields:
+                    given: Robert
+                    surname: Frey
+                value: Robert Frey
+            sex: male

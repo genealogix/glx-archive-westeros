@@ -1,0 +1,10 @@
+persons:
+    person-tarly-460:
+        properties:
+            external_ids:
+                - MH:I460
+            name:
+                fields:
+                    surname: Tarly
+                value: Tarly
+            sex: female

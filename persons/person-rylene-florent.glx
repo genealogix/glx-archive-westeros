@@ -1,0 +1,11 @@
+persons:
+    person-rylene-florent:
+        properties:
+            external_ids:
+                - MH:I446
+            name:
+                fields:
+                    given: Rylene
+                    surname: Florent
+                value: Rylene Florent
+            sex: female

@@ -1,0 +1,12 @@
+assertions:
+    assertion-walda-frey-12-gender:
+        subject:
+            person: person-walda-frey-12
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Edwyn''s daughter, WALDA, a girl of nine'

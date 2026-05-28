@@ -1,0 +1,11 @@
+persons:
+    person-garse-goodbrook:
+        properties:
+            external_ids:
+                - MH:I58
+            name:
+                fields:
+                    given: Garse
+                    surname: Goodbrook
+                value: Garse Goodbrook
+            sex: male

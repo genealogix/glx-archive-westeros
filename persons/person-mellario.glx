@@ -1,0 +1,11 @@
+persons:
+    person-mellario:
+        properties:
+            external_ids:
+                - MH:I276
+            name:
+                fields:
+                    given: Mellario
+                value: Mellario
+            sex: female
+        notes: Wife of Prince Doran Martell. Of the Free City of Norvos.

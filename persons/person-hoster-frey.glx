@@ -1,0 +1,11 @@
+persons:
+    person-hoster-frey:
+        properties:
+            external_ids:
+                - MH:I119
+            name:
+                fields:
+                    given: Hoster
+                    surname: Frey
+                value: Hoster Frey
+            sex: male

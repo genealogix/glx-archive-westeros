@@ -1,0 +1,11 @@
+persons:
+    person-jammos-frey:
+        properties:
+            external_ids:
+                - MH:I105
+            name:
+                fields:
+                    given: Jammos
+                    surname: Frey
+                value: Jammos Frey
+            sex: male

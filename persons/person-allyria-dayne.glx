@@ -1,0 +1,11 @@
+persons:
+    person-allyria-dayne:
+        properties:
+            external_ids:
+                - MH:I485
+            name:
+                fields:
+                    given: Allyria
+                    surname: Dayne
+                value: Allyria Dayne
+            sex: female

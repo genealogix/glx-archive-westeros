@@ -1,0 +1,11 @@
+assertions:
+    assertion-tytos-lannister-gender:
+        subject:
+            person: person-tytos-lannister
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in any novel appendix. Sourced from GEDCOM import.

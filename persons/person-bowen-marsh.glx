@@ -1,0 +1,12 @@
+persons:
+    person-bowen-marsh:
+        properties:
+            name:
+                fields:
+                    given: Bowen
+                    surname: Marsh
+                value: Bowen Marsh
+            sex: male
+            title:
+                - value: Lord Steward of the Night's Watch
+        notes: Lord Steward of the Night's Watch at Castle Black (ADWD Appendix).

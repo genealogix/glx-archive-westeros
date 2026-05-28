@@ -1,0 +1,11 @@
+persons:
+    person-dickon-frey:
+        properties:
+            external_ids:
+                - MH:I116
+            name:
+                fields:
+                    given: Dickon
+                    surname: Frey
+                value: Dickon Frey
+            sex: male

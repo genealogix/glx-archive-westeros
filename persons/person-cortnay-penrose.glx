@@ -1,0 +1,13 @@
+persons:
+    person-cortnay-penrose:
+        properties:
+            name:
+                fields:
+                    given: Cortnay
+                    prefix: Ser
+                    surname: Penrose
+                value: Ser Cortnay Penrose
+            sex: male
+            title:
+                - value: Castellan of Storm's End
+        notes: Castellan of Storm's End under Renly Baratheon. Ward of Edric Storm. First appears in ACOK appendix.

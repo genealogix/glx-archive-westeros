@@ -1,0 +1,11 @@
+persons:
+    person-jeor-mormont:
+        properties:
+            external_ids:
+                - MH:I488
+            name:
+                fields:
+                    given: Jeor
+                    surname: Mormont
+                value: Jeor Mormont
+            sex: male

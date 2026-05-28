@@ -1,0 +1,12 @@
+persons:
+    person-ferrego-antaryon:
+        properties:
+            name:
+                fields:
+                    given: Ferrego
+                    surname: Antaryon
+                value: Ferrego Antaryon
+            sex: male
+            title:
+                - value: Sealord of Braavos
+        notes: Sealord of Braavos, sickly and failing. His protector is Qarro Volentin, First Sword of Braavos (ADWD Appendix).

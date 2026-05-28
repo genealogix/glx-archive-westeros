@@ -1,0 +1,12 @@
+persons:
+    person-tywin-frey-ty:
+        properties:
+            external_ids:
+                - MH:I34
+            name:
+                fields:
+                    given: Tywin
+                    nickname: Ty
+                    surname: Frey
+                value: Tywin Frey
+            sex: male

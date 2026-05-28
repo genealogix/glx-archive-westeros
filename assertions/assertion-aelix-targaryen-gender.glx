@@ -1,0 +1,11 @@
+assertions:
+    assertion-aelix-targaryen-gender:
+        subject:
+            person: person-aelix-targaryen
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Aerys''s sons, Aelyx, Baelon, and Daemion'

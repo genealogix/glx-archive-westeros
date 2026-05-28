@@ -1,0 +1,16 @@
+persons:
+    person-melisandre:
+        properties:
+            alias:
+                - value: The Red Woman
+                - value: The Red Witch
+                - value: Lady Red
+                - value: Melisandre of Asshai
+                - value: Melony
+            name:
+                fields:
+                    given: Melisandre
+                value: Melisandre
+            religion: R'hllor
+            sex: female
+        notes: A red priestess of R'hllor, the Lord of Light. Originally from Asshai-by-the-Shadow. Red hair, red eyes, and a heart-shaped face of unearthly beauty. Wears a ruby choker at her throat that pulses with light. Claims Stannis is Azor Ahai reborn. Powers include seeing visions in the flames, birthing shadow assassins, and glamoring appearances. Her ADWD POV chapter reveals she was once a slave girl named Melony who was sold to the Red Temple. She requires no sleep and little food. At Castle Black as of ADWD, where she sees Jon Snow surrounded by danger in her flames.

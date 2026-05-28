@@ -1,0 +1,12 @@
+persons:
+    person-jon-cupps:
+        properties:
+            external_ids:
+                - MH:I420
+            name:
+                fields:
+                    given: Jon
+                    prefix: Ser
+                    surname: Cupps
+                value: Ser Jon Cupps
+            sex: male

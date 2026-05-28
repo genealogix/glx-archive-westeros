@@ -1,0 +1,11 @@
+assertions:
+    assertion-tytos-blackwood-gender:
+        subject:
+            person: person-tytos-blackwood
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Tully section. Listed as Lord.

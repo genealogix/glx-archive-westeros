@@ -1,0 +1,13 @@
+persons:
+    person-ellaria-sand:
+        properties:
+            external_ids:
+                - MH:I264
+            house: Uller
+            name:
+                fields:
+                    given: Ellaria
+                    surname: Sand
+                value: Ellaria Sand
+            sex: female
+        notes: 'Paramour of Prince Oberyn Martell. Natural daughter of Lord Harmen Uller of Hellholt. Mother of four of Oberyn''s Sand Snakes: Elia, Obella, Dorea, and Loreza. Listed in the AFFC appendix.'

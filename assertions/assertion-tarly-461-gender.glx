@@ -1,0 +1,11 @@
+assertions:
+    assertion-tarly-461-gender:
+        subject:
+            person: person-tarly-461
+        property: sex
+        value: female
+        confidence: low
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Not found in novel appendices. Gender from GEDCOM only.

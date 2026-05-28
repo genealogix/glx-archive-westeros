@@ -1,0 +1,11 @@
+persons:
+    person-aemon-blackfyre:
+        properties:
+            external_ids:
+                - MH:I314
+            name:
+                fields:
+                    given: Aemon
+                    surname: Blackfyre
+                value: Aemon Blackfyre
+            sex: male

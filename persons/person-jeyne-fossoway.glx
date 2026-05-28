@@ -1,0 +1,11 @@
+persons:
+    person-jeyne-fossoway:
+        properties:
+            external_ids:
+                - MH:I418
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Fossoway
+                value: Jeyne Fossoway
+            sex: female

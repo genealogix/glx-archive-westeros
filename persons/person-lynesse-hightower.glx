@@ -1,0 +1,11 @@
+persons:
+    person-lynesse-hightower:
+        properties:
+            external_ids:
+                - MH:I422
+            name:
+                fields:
+                    given: Lynesse
+                    surname: Hightower
+                value: Lynesse Hightower
+            sex: female

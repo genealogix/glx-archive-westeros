@@ -1,0 +1,11 @@
+assertions:
+    assertion-selyse-florent-gender:
+        subject:
+            person: person-selyse-florent
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Baratheon section. Listed as Lady and wife.

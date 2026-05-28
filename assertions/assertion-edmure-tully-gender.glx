@@ -1,0 +1,11 @@
+assertions:
+    assertion-edmure-tully-gender:
+        subject:
+            person: person-edmure-tully
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Tully section. Listed as 'Ser' and 'heir to Riverrun'.

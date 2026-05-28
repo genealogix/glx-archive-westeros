@@ -1,0 +1,11 @@
+assertions:
+    assertion-olenna-redwyne-gender:
+        subject:
+            person: person-olenna-redwyne
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: his widowed mother, LADY OLENNA of House Redwyne, called the Queen of Thorns'

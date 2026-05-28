@@ -1,0 +1,11 @@
+persons:
+    person-jyanna-frey:
+        properties:
+            external_ids:
+                - MH:I132
+            name:
+                fields:
+                    given: Jyanna
+                    surname: Frey
+                value: Jyanna Frey
+            sex: female

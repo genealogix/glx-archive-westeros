@@ -1,0 +1,19 @@
+persons:
+    person-aerys-targaryen-ii:
+        properties:
+            alias:
+                - value: The Mad King
+            cause_of_death: Slain by Jaime Lannister during the Sack of King's Landing
+            external_ids:
+                - MH:I202
+            house: Targaryen
+            name:
+                fields:
+                    given: Aerys
+                    suffix: II
+                    surname: Targaryen
+                value: Aerys Targaryen II
+            sex: male
+            title:
+                - date: FROM 262 TO 283
+                  value: King of the Andals and the Rhoynar and the First Men

@@ -1,0 +1,11 @@
+persons:
+    person-cersei-frey:
+        properties:
+            external_ids:
+                - MH:I100
+            name:
+                fields:
+                    given: Cersei
+                    surname: Frey
+                value: Cersei Frey
+            sex: female

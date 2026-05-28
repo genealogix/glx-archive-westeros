@@ -1,0 +1,11 @@
+persons:
+    person-ronnel-arryn:
+        properties:
+            external_ids:
+                - MH:I232
+            name:
+                fields:
+                    given: Ronnel
+                    surname: Arryn
+                value: Ronnel Arryn
+            sex: male

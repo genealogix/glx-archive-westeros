@@ -1,0 +1,13 @@
+persons:
+    person-rickard-karstark:
+        properties:
+            house: Karstark
+            name:
+                fields:
+                    given: Rickard
+                    surname: Karstark
+                value: Rickard Karstark
+            sex: male
+            title:
+                - value: Lord of Karhold
+        notes: Lord of Karhold. A principal lord bannerman of House Stark.

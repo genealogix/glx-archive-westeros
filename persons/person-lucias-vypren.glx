@@ -1,0 +1,11 @@
+persons:
+    person-lucias-vypren:
+        properties:
+            external_ids:
+                - MH:I76
+            name:
+                fields:
+                    given: Lucias
+                    surname: Vypren
+                value: Lucias Vypren
+            sex: male

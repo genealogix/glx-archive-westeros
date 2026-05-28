@@ -1,0 +1,11 @@
+persons:
+    person-tytos-brax:
+        properties:
+            external_ids:
+                - MH:I154
+            name:
+                fields:
+                    given: Tytos
+                    surname: Brax
+                value: Tytos Brax
+            sex: male

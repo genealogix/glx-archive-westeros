@@ -1,0 +1,13 @@
+persons:
+    person-meldred-merlyn:
+        properties:
+            house: Merlyn
+            name:
+                fields:
+                    given: Meldred
+                    surname: Merlyn
+                value: Meldred Merlyn
+            sex: male
+            title:
+                - value: Lord of Pebbleton
+        notes: Lord of Pebbleton on Great Wyk (styles himself 'Lord' in the manner of the green lands rather than the ironborn way). He is bald, round, and fleshy. He seeks guidance from Aeron Damphair on whether to send his longships to Pyke (Euron's summons) or somewhere else. After Aeron blesses him with seawater, Aeron calls for the kingsmoot on Old Wyk and Lord Meldred agrees to spread the word. (AFFC The Prophet I)

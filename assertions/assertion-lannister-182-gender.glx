@@ -1,0 +1,11 @@
+assertions:
+    assertion-lannister-182-gender:
+        subject:
+            person: person-lannister-182
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Unnamed Lannister placeholder from GEDCOM import. Not found in any novel appendix.

@@ -1,0 +1,11 @@
+persons:
+    person-hosman-norcross:
+        properties:
+            external_ids:
+                - MH:I454
+            name:
+                fields:
+                    given: Hosman
+                    surname: Norcross
+                value: Hosman Norcross
+            sex: male

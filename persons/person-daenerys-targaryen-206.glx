@@ -1,0 +1,11 @@
+persons:
+    person-daenerys-targaryen-206:
+        properties:
+            external_ids:
+                - MH:I206
+            name:
+                fields:
+                    given: Daenerys
+                    surname: Targaryen
+                value: Daenerys Targaryen
+            sex: female

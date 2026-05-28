@@ -1,0 +1,11 @@
+assertions:
+    assertion-brandon-stark-bran-gender:
+        subject:
+            person: person-brandon-stark-bran
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Stark section. Listed among Eddard's children.

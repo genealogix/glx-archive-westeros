@@ -1,0 +1,11 @@
+assertions:
+    assertion-axell-florent-gender:
+        subject:
+            person: person-axell-florent
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix. Listed as Ser.

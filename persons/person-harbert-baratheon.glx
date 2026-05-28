@@ -1,0 +1,12 @@
+persons:
+    person-harbert-baratheon:
+        properties:
+            external_ids:
+                - MH:I501
+            name:
+                fields:
+                    given: Harbert
+                    prefix: Ser
+                    surname: Baratheon
+                value: Ser Harbert Baratheon
+            sex: male

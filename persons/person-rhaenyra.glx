@@ -1,0 +1,10 @@
+persons:
+    person-rhaenyra:
+        properties:
+            external_ids:
+                - MH:I339
+            name:
+                fields:
+                    given: Rhaenyra
+                value: Rhaenyra
+            sex: female

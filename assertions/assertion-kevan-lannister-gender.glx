@@ -1,0 +1,11 @@
+assertions:
+    assertion-kevan-lannister-gender:
+        subject:
+            person: person-kevan-lannister
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Lannister section. Listed as Ser.

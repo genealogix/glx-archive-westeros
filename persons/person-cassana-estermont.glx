@@ -1,0 +1,11 @@
+persons:
+    person-cassana-estermont:
+        properties:
+            external_ids:
+                - MH:I188
+            name:
+                fields:
+                    given: Cassana
+                    surname: Estermont
+                value: Cassana Estermont
+            sex: female

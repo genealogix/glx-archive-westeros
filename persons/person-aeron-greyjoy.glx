@@ -1,0 +1,14 @@
+persons:
+    person-aeron-greyjoy:
+        properties:
+            alias:
+                - value: Damphair
+            house: Greyjoy
+            name:
+                fields:
+                    given: Aeron
+                    surname: Greyjoy
+                value: Aeron Greyjoy
+            religion: Drowned God
+            sex: male
+        notes: The fifth son of Quellon Greyjoy by his second wife (a Sunderly of Saltcliffe). Brother of Balon, Euron, Victarion, and the deceased Urrigon. A priest of the Drowned God called the Damphair — so named because it is said he has seen the god's watery halls and returned. He is described as gaunt and tall, with a nose like a shark's fin and eyes like iron. His black hair and beard are uncut since his rebirth and hang in ropy tangles past his waist, woven with strands of seaweed. He never sleeps under a castle roof and seldom far from the sea. Before his conversion he was a notorious drunkard and reveler. His near-drowning (details not fully specified, occurred after Balon's first rebellion) transformed him utterly. He feels guilt for his brother Urrigon's death — a flying axe he swung during the finger dance cut off Urri's hand, and Urri died when a maester's attempt to reattach the fingers led to mortification and fever. He performs the 'true drowning' rite — holding converts underwater until dead, then kissing life back into them. He has never lost a man in this rite. His drowned men include Norjen, Rus, and others. In AFFC he calls the Kingsmoot on Old Wyk after Balon's death, and presides over it. He opposes Euron as 'godless.' He greeted Theon at Lordsport in 299 AC. (ACOK Theon I; AFFC The Prophet I, The Iron Captain I, The Drowned Man; citation-affc-the-prophet-i)

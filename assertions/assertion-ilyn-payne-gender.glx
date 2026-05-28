@@ -1,0 +1,11 @@
+assertions:
+    assertion-ilyn-payne-gender:
+        subject:
+            person: person-ilyn-payne
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Baratheon section. Listed as Ser.

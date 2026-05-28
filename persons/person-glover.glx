@@ -1,0 +1,10 @@
+persons:
+    person-glover:
+        properties:
+            external_ids:
+                - MH:I428
+            name:
+                fields:
+                    surname: Glover
+                value: Glover
+            sex: female

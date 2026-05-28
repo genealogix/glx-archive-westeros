@@ -1,0 +1,11 @@
+persons:
+    person-lythene-frey:
+        properties:
+            external_ids:
+                - MH:I63
+            name:
+                fields:
+                    given: Lythene
+                    surname: Frey
+                value: Lythene Frey
+            sex: female

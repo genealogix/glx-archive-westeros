@@ -1,0 +1,12 @@
+persons:
+    person-rhaena-targaryen:
+        properties:
+            external_ids:
+                - MH:I324
+            name:
+                fields:
+                    given: Rhaena
+                    prefix: Septa
+                    surname: Targaryen
+                value: Septa Rhaena Targaryen
+            sex: female

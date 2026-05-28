@@ -1,0 +1,11 @@
+persons:
+    person-arwyn-frey:
+        properties:
+            external_ids:
+                - MH:I136
+            name:
+                fields:
+                    given: Arwyn
+                    surname: Frey
+                value: Arwyn Frey
+            sex: female

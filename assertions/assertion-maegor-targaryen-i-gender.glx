@@ -1,0 +1,12 @@
+assertions:
+    assertion-maegor-targaryen-i-gender:
+        subject:
+            person: person-maegor-targaryen-i
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: the younger Prince Maegor by Visenya'

@@ -1,0 +1,11 @@
+persons:
+    person-tytos-lannister:
+        properties:
+            external_ids:
+                - MH:I158
+            name:
+                fields:
+                    given: Tytos
+                    surname: Lannister
+                value: Tytos Lannister
+            sex: male

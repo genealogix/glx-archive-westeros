@@ -1,0 +1,11 @@
+assertions:
+    assertion-quentyn-martell-gender:
+        subject:
+            person: person-quentyn-martell
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Martell section. Source text: PRINCE QUENTYN, their elder son'

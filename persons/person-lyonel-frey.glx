@@ -1,0 +1,11 @@
+persons:
+    person-lyonel-frey:
+        properties:
+            external_ids:
+                - MH:I30
+            name:
+                fields:
+                    given: Lyonel
+                    surname: Frey
+                value: Lyonel Frey
+            sex: male

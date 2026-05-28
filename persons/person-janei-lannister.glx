@@ -1,0 +1,13 @@
+persons:
+    person-janei-lannister:
+        properties:
+            external_ids:
+                - MH:I175
+            house: Lannister
+            name:
+                fields:
+                    given: Janei
+                    surname: Lannister
+                value: Janei Lannister
+            sex: female
+        notes: Infant daughter of Ser Kevan Lannister and Dorna Swyft.

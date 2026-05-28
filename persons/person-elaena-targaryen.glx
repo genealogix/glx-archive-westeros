@@ -1,0 +1,11 @@
+persons:
+    person-elaena-targaryen:
+        properties:
+            external_ids:
+                - MH:I323
+            name:
+                fields:
+                    given: Elaena
+                    surname: Targaryen
+                value: Elaena Targaryen
+            sex: female

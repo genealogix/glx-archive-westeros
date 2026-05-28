@@ -1,0 +1,12 @@
+assertions:
+    assertion-ryman-frey-gender:
+        subject:
+            person: person-ryman-frey
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Stevron''s eldest son, SER RYMAN, heir to the Twins'

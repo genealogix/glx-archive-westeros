@@ -1,0 +1,11 @@
+persons:
+    person-walder-haigh:
+        properties:
+            external_ids:
+                - MH:I48
+            name:
+                fields:
+                    given: Walder
+                    surname: Haigh
+                value: Walder Haigh
+            sex: male

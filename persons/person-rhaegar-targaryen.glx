@@ -1,0 +1,16 @@
+persons:
+    person-rhaegar-targaryen:
+        properties:
+            cause_of_death: Slain by Robert Baratheon on the Trident
+            external_ids:
+                - MH:I204
+            house: Targaryen
+            name:
+                fields:
+                    given: Rhaegar
+                    surname: Targaryen
+                value: Rhaegar Targaryen
+            sex: male
+            title:
+                - value: Prince
+        notes: Heir to the Iron Throne. Slain by Robert Baratheon on the Trident.

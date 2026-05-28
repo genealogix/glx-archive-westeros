@@ -1,0 +1,11 @@
+assertions:
+    assertion-areo-hotah-gender:
+        subject:
+            person: person-areo-hotah
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Listed as captain of the guards at Prince Doran's court.

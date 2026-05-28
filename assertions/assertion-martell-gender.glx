@@ -1,0 +1,11 @@
+assertions:
+    assertion-martell-gender:
+        subject:
+            person: person-martell
+        property: sex
+        value: unknown
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Unidentified placeholder person.

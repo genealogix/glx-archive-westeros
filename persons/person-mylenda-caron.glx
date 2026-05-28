@@ -1,0 +1,11 @@
+persons:
+    person-mylenda-caron:
+        properties:
+            external_ids:
+                - MH:I13
+            name:
+                fields:
+                    given: Mylenda
+                    surname: Caron
+                value: Mylenda Caron
+            sex: female

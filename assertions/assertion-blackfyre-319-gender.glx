@@ -1,0 +1,12 @@
+assertions:
+    assertion-blackfyre-319-gender:
+        subject:
+            person: person-blackfyre-319
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Unnamed son of Daemon Blackfyre.

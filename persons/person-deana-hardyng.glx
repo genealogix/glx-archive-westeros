@@ -1,0 +1,11 @@
+persons:
+    person-deana-hardyng:
+        properties:
+            external_ids:
+                - MH:I24
+            name:
+                fields:
+                    given: Deana
+                    surname: Hardyng
+                value: Deana Hardyng
+            sex: female

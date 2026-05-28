@@ -1,0 +1,15 @@
+persons:
+    person-stafford-lannister:
+        properties:
+            external_ids:
+                - MH:I183
+            house: Lannister
+            name:
+                fields:
+                    given: Stafford
+                    surname: Lannister
+                value: Stafford Lannister
+            sex: male
+            title:
+                - value: Ser
+        notes: Cousin of Tywin Lannister. Brother to the late Lady Joanna.

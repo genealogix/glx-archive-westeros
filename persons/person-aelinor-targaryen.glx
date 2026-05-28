@@ -1,0 +1,11 @@
+persons:
+    person-aelinor-targaryen:
+        properties:
+            external_ids:
+                - MH:I294
+            name:
+                fields:
+                    given: Aelinor
+                    surname: Targaryen
+                value: Aelinor Targaryen
+            sex: female

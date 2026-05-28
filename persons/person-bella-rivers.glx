@@ -1,0 +1,11 @@
+persons:
+    person-bella-rivers:
+        properties:
+            external_ids:
+                - MH:I194
+            name:
+                fields:
+                    given: Bella
+                    surname: Rivers
+                value: Bella Rivers
+            sex: female

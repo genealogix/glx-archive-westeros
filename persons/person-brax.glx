@@ -1,0 +1,10 @@
+persons:
+    person-brax:
+        properties:
+            external_ids:
+                - MH:I156
+            name:
+                fields:
+                    surname: Brax
+                value: Brax
+            sex: male

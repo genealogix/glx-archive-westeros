@@ -1,0 +1,11 @@
+persons:
+    person-perwyn-frey:
+        properties:
+            external_ids:
+                - MH:I127
+            name:
+                fields:
+                    given: Perwyn
+                    surname: Frey
+                value: Perwyn Frey
+            sex: male

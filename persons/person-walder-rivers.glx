@@ -1,0 +1,11 @@
+persons:
+    person-walder-rivers:
+        properties:
+            external_ids:
+                - MH:I144
+            name:
+                fields:
+                    given: Walder
+                    surname: Rivers
+                value: Walder Rivers
+            sex: male

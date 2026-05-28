@@ -1,0 +1,11 @@
+persons:
+    person-leonette-fossoway:
+        properties:
+            external_ids:
+                - MH:I381
+            name:
+                fields:
+                    given: Leonette
+                    surname: Fossoway
+                value: Leonette Fossoway
+            sex: female

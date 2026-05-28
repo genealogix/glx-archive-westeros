@@ -1,0 +1,11 @@
+persons:
+    person-aemond-targaryen:
+        properties:
+            external_ids:
+                - MH:I346
+            name:
+                fields:
+                    given: Aemond
+                    surname: Targaryen
+                value: Aemond Targaryen
+            sex: male

@@ -1,0 +1,11 @@
+persons:
+    person-baelon-targaryen:
+        properties:
+            external_ids:
+                - MH:I367
+            name:
+                fields:
+                    given: Baelon
+                    surname: Targaryen
+                value: Baelon Targaryen
+            sex: male

@@ -1,0 +1,11 @@
+persons:
+    person-rhaelle-targaryen-288:
+        properties:
+            external_ids:
+                - MH:I288
+            name:
+                fields:
+                    given: Rhaelle
+                    surname: Targaryen
+                value: Rhaelle Targaryen
+            sex: female

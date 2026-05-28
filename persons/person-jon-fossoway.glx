@@ -1,0 +1,11 @@
+persons:
+    person-jon-fossoway:
+        properties:
+            external_ids:
+                - MH:I388
+            name:
+                fields:
+                    given: Jon
+                    surname: Fossoway
+                value: Jon Fossoway
+            sex: male

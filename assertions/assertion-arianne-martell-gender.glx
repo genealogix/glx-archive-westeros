@@ -1,0 +1,11 @@
+assertions:
+    assertion-arianne-martell-gender:
+        subject:
+            person: person-arianne-martell
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Martell section. Source text: PRINCESS ARIANNE, their eldest daughter, heir to Sunspear'

@@ -1,0 +1,11 @@
+persons:
+    person-shirei-frey:
+        properties:
+            external_ids:
+                - MH:I141
+            name:
+                fields:
+                    given: Shirei
+                    surname: Frey
+                value: Shirei Frey
+            sex: female

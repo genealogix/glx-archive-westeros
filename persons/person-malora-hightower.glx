@@ -1,0 +1,11 @@
+persons:
+    person-malora-hightower:
+        properties:
+            external_ids:
+                - MH:I415
+            name:
+                fields:
+                    given: Malora
+                    surname: Hightower
+                value: Malora Hightower
+            sex: female

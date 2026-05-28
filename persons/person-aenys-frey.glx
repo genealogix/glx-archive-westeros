@@ -1,0 +1,11 @@
+persons:
+    person-aenys-frey:
+        properties:
+            external_ids:
+                - MH:I5
+            name:
+                fields:
+                    given: Aenys
+                    surname: Frey
+                value: Aenys Frey
+            sex: male

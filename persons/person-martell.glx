@@ -1,0 +1,10 @@
+persons:
+    person-martell:
+        properties:
+            external_ids:
+                - MH:I258
+            name:
+                fields:
+                    surname: Martell
+                value: Martell
+            sex: unknown

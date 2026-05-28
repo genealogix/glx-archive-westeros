@@ -1,0 +1,11 @@
+persons:
+    person-olene-tyrell:
+        properties:
+            external_ids:
+                - MH:I400
+            name:
+                fields:
+                    given: Olene
+                    surname: Tyrell
+                value: Olene Tyrell
+            sex: female

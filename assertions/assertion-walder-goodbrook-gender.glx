@@ -1,0 +1,12 @@
+assertions:
+    assertion-walder-goodbrook-gender:
+        subject:
+            person: person-walder-goodbrook
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,11 @@
+persons:
+    person-others-concept:
+        properties:
+            canon_track: novel
+            culture: Other
+            name:
+                fields:
+                    given: The Others
+                value: The Others
+            sex: unknown
+        notes: The Others (White Walkers in the show) — ancient supernatural beings from the Land of Always Winter. Not human persons but referenced in assertions about their nature and capabilities.

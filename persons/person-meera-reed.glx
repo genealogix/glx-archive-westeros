@@ -1,0 +1,11 @@
+persons:
+    person-meera-reed:
+        properties:
+            house: Reed
+            name:
+                fields:
+                    given: Meera
+                    surname: Reed
+                value: Meera Reed
+            sex: female
+        notes: Daughter of Howland Reed of Greywater Watch, a crannogman. A maid of fifteen. Eldest daughter and heir. First appears in ACOK appendix.

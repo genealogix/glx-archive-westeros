@@ -1,0 +1,11 @@
+persons:
+    person-runceford-redwyne:
+        properties:
+            external_ids:
+                - MH:I439
+            name:
+                fields:
+                    given: Runceford
+                    surname: Redwyne
+                value: Runceford Redwyne
+            sex: male

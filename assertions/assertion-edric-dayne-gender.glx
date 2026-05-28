@@ -1,0 +1,11 @@
+assertions:
+    assertion-edric-dayne-gender:
+        subject:
+            person: person-edric-dayne
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Martell section. Listed as Lord.

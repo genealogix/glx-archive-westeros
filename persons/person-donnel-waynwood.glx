@@ -1,0 +1,11 @@
+persons:
+    person-donnel-waynwood:
+        properties:
+            external_ids:
+                - MH:I253
+            name:
+                fields:
+                    given: Donnel
+                    surname: Waynwood
+                value: Donnel Waynwood
+            sex: male

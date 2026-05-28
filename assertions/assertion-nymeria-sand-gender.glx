@@ -1,0 +1,11 @@
+assertions:
+    assertion-nymeria-sand-gender:
+        subject:
+            person: person-nymeria-sand
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Martell section. Source text: NYMERIA, called LADY NYM, five-and-twenty, his daughter by a noblewoman of Volantis'

@@ -1,0 +1,11 @@
+persons:
+    person-argella-durrendon:
+        properties:
+            external_ids:
+                - MH:I362
+            name:
+                fields:
+                    given: Argella
+                    surname: Durrendon
+                value: Argella Durrendon
+            sex: female

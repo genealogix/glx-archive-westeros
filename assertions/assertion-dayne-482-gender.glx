@@ -1,0 +1,11 @@
+assertions:
+    assertion-dayne-482-gender:
+        subject:
+            person: person-dayne-482
+        property: sex
+        value: male
+        confidence: low
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Not found in novel appendices. Gender from GEDCOM only.

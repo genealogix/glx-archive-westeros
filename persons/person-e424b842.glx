@@ -1,6 +1,0 @@
-persons:
-    person-unknown-495:
-        properties:
-            external_ids:
-                - MH:I495
-            gender: unknown

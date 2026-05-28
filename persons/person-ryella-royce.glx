@@ -1,0 +1,11 @@
+persons:
+    person-ryella-royce:
+        properties:
+            external_ids:
+                - MH:I71
+            name:
+                fields:
+                    given: Ryella
+                    surname: Royce
+                value: Ryella Royce
+            sex: female

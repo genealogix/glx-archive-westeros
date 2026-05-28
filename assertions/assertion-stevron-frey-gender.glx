@@ -1,0 +1,12 @@
+assertions:
+    assertion-stevron-frey-gender:
+        subject:
+            person: person-stevron-frey
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: {SER STEVRON}, their eldest son, died after the Battle of Oxcross'

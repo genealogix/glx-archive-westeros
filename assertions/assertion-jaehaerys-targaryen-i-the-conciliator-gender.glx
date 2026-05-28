@@ -1,0 +1,12 @@
+assertions:
+    assertion-jaehaerys-targaryen-i-the-conciliator-gender:
+        subject:
+            person: person-jaehaerys-targaryen-i-the-conciliator
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: JAEHAERYS CAME TO the throne in 48 AC, in a time when the realm had been torn asunder... Crowned at four-and-ten by the High Septon with his father''s own crown, he began his reign under the regency of his mother'

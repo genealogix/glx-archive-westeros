@@ -1,0 +1,11 @@
+persons:
+    person-malwyn-frey:
+        properties:
+            external_ids:
+                - MH:I97
+            name:
+                fields:
+                    given: Malwyn
+                    surname: Frey
+                value: Malwyn Frey
+            sex: male

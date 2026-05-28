@@ -1,0 +1,10 @@
+persons:
+    person-stark-465:
+        properties:
+            external_ids:
+                - MH:I465
+            name:
+                fields:
+                    surname: Stark
+                value: Stark
+            sex: male

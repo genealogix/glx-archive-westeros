@@ -1,0 +1,11 @@
+assertions:
+    assertion-aemon-estermont-gender:
+        subject:
+            person: person-aemon-estermont
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix, King in Highgarden section. Listed as Ser.

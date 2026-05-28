@@ -1,0 +1,11 @@
+persons:
+    person-daemon-targaryen:
+        properties:
+            external_ids:
+                - MH:I364
+            name:
+                fields:
+                    given: Daemon
+                    surname: Targaryen
+                value: Daemon Targaryen
+            sex: male

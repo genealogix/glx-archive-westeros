@@ -1,0 +1,12 @@
+persons:
+    person-vayon-poole:
+        properties:
+            name:
+                fields:
+                    given: Vayon
+                    surname: Poole
+                value: Vayon Poole
+            sex: male
+            title:
+                - value: Steward
+        notes: Steward of Eddard Stark. Accompanied Ned south to King's Landing when Ned became Hand of the King. Reported to Ned that Arya had been found and was being taken before the king. Father of Jeyne Poole, Sansa Stark's companion.

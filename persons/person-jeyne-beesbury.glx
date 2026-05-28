@@ -1,0 +1,11 @@
+persons:
+    person-jeyne-beesbury:
+        properties:
+            external_ids:
+                - MH:I39
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Beesbury
+                value: Jeyne Beesbury
+            sex: female

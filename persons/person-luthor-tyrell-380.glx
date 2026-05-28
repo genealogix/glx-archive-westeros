@@ -1,0 +1,11 @@
+persons:
+    person-luthor-tyrell-380:
+        properties:
+            external_ids:
+                - MH:I380
+            name:
+                fields:
+                    given: Luthor
+                    surname: Tyrell
+                value: Luthor Tyrell
+            sex: male

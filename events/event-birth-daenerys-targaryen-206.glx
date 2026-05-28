@@ -1,0 +1,9 @@
+events:
+    event-birth-daenerys-targaryen-206:
+        title: Birth of Daenerys Targaryen
+        type: birth
+        place: place-dragonstone
+        date: "ABT 284"
+        participants:
+            - person: person-daenerys-targaryen-206
+              role: principal

@@ -1,0 +1,16 @@
+persons:
+    person-leyton-hightower:
+        properties:
+            external_ids:
+                - MH:I406
+            house: Hightower
+            name:
+                fields:
+                    given: Leyton
+                    surname: Hightower
+                value: Leyton Hightower
+            sex: male
+            title:
+                - value: Voice of Oldtown
+                - value: Lord of the Port
+        notes: Voice of Oldtown, Lord of the Port. Listed in AGOT Appendix under House Tyrell.

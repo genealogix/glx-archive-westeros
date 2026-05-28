@@ -1,0 +1,11 @@
+persons:
+    person-willem-frey:
+        properties:
+            external_ids:
+                - MH:I35
+            name:
+                fields:
+                    given: Willem
+                    surname: Frey
+                value: Willem Frey
+            sex: male

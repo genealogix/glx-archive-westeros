@@ -1,0 +1,7 @@
+persons:
+    person-reznak-mo-reznak:
+        properties:
+            name:
+                value: Reznak mo Reznak
+            sex: male
+        notes: Daenerys's seneschal in Meereen. Bald and unctuous (ADWD Appendix).

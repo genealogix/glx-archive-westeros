@@ -1,0 +1,11 @@
+persons:
+    person-merianne-frey:
+        properties:
+            external_ids:
+                - MH:I120
+            name:
+                fields:
+                    given: Merianne
+                    surname: Frey
+                value: Merianne Frey
+            sex: female

@@ -1,0 +1,12 @@
+persons:
+    person-axell-florent:
+        properties:
+            external_ids:
+                - MH:I445
+            name:
+                fields:
+                    given: Axell
+                    prefix: Ser
+                    surname: Florent
+                value: Ser Axell Florent
+            sex: male

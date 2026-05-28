@@ -1,0 +1,13 @@
+persons:
+    person-willas-tyrell:
+        properties:
+            external_ids:
+                - MH:I378
+            house: Tyrell
+            name:
+                fields:
+                    given: Willas
+                    surname: Tyrell
+                value: Willas Tyrell
+            sex: male
+        notes: Eldest son of Mace Tyrell, heir to Highgarden.

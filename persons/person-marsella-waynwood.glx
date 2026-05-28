@@ -1,0 +1,11 @@
+persons:
+    person-marsella-waynwood:
+        properties:
+            external_ids:
+                - MH:I22
+            name:
+                fields:
+                    given: Marsella
+                    surname: Waynwood
+                value: Marsella Waynwood
+            sex: female

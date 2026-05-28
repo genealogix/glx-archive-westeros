@@ -1,0 +1,12 @@
+assertions:
+    assertion-royce-470-gender:
+        subject:
+            person: person-royce-470
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

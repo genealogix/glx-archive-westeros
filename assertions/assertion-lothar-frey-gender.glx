@@ -1,0 +1,12 @@
+assertions:
+    assertion-lothar-frey-gender:
+        subject:
+            person: person-lothar-frey
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: LOTHAR, their eldest son, called LAME LOTHAR, m. Leonella Lefford'

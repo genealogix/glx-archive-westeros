@@ -1,0 +1,12 @@
+assertions:
+    assertion-amerei-frey-gatehouse-ami-gender:
+        subject:
+            person: person-amerei-frey-gatehouse-ami
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Merrett''s daughter, AMEREI, called AMI, a widow of sixteen'

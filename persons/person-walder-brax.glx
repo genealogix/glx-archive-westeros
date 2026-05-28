@@ -1,0 +1,11 @@
+persons:
+    person-walder-brax:
+        properties:
+            external_ids:
+                - MH:I123
+            name:
+                fields:
+                    given: Walder
+                    surname: Brax
+                value: Walder Brax
+            sex: male
