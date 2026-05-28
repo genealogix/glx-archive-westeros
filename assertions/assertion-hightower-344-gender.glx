@@ -1,0 +1,11 @@
+assertions:
+    assertion-hightower-344-gender:
+        subject:
+            person: person-hightower-344
+        property: sex
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Female based on relationship as wife of Viserys I.

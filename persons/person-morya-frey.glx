@@ -1,0 +1,11 @@
+persons:
+    person-morya-frey:
+        properties:
+            external_ids:
+                - MH:I107
+            name:
+                fields:
+                    given: Morya
+                    surname: Frey
+                value: Morya Frey
+            sex: female

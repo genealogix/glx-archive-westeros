@@ -1,0 +1,12 @@
+persons:
+    person-harys-haigh:
+        properties:
+            external_ids:
+                - MH:I45
+            name:
+                fields:
+                    given: Harys
+                    prefix: Ser
+                    surname: Haigh
+                value: Ser Harys Haigh
+            sex: male

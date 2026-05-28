@@ -1,0 +1,17 @@
+persons:
+    person-kevan-lannister:
+        properties:
+            external_ids:
+                - MH:I160
+            house: Lannister
+            name:
+                fields:
+                    given: Kevan
+                    surname: Lannister
+                value: Kevan Lannister
+            sex: male
+            title:
+                - value: Ser
+                - date: FROM 300
+                  value: Master of Laws
+        notes: Ser Kevan Lannister, Tywin's eldest brother. ASOS appendix lists him as 'SER KEVAN LANNISTER' and as 'master of laws' on the small council. Father of Lancel (wounded at Blackwater, near death), Willem, Martyn, and Janei.

@@ -1,0 +1,11 @@
+persons:
+    person-walda-frey-111:
+        properties:
+            external_ids:
+                - MH:I111
+            name:
+                fields:
+                    given: Walda
+                    surname: Frey
+                value: Walda Frey
+            sex: female

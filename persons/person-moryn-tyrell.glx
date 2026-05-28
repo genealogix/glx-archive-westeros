@@ -1,0 +1,12 @@
+persons:
+    person-moryn-tyrell:
+        properties:
+            external_ids:
+                - MH:I384
+            name:
+                fields:
+                    given: Moryn
+                    prefix: Ser
+                    surname: Tyrell
+                value: Ser Moryn Tyrell
+            sex: male

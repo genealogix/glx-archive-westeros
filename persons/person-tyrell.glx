@@ -1,0 +1,10 @@
+persons:
+    person-tyrell:
+        properties:
+            external_ids:
+                - MH:I393
+            name:
+                fields:
+                    surname: Tyrell
+                value: Tyrell
+            sex: male

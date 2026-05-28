@@ -1,0 +1,11 @@
+persons:
+    person-ronel-rivers:
+        properties:
+            external_ids:
+                - MH:I149
+            name:
+                fields:
+                    given: Ronel
+                    surname: Rivers
+                value: Ronel Rivers
+            sex: male

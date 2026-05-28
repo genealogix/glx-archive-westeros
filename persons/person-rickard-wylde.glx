@@ -1,0 +1,11 @@
+persons:
+    person-rickard-wylde:
+        properties:
+            external_ids:
+                - MH:I80
+            name:
+                fields:
+                    given: Rickard
+                    surname: Wylde
+                value: Rickard Wylde
+            sex: male

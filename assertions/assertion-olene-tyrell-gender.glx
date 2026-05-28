@@ -1,0 +1,11 @@
+assertions:
+    assertion-olene-tyrell-gender:
+        subject:
+            person: person-olene-tyrell
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Tyrell section. Source text: Luthor''s daughter, OLENE, m. Ser Leo Blackbar'

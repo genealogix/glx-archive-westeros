@@ -1,0 +1,11 @@
+persons:
+    person-jaime-frey:
+        properties:
+            external_ids:
+                - MH:I102
+            name:
+                fields:
+                    given: Jaime
+                    surname: Frey
+                value: Jaime Frey
+            sex: male

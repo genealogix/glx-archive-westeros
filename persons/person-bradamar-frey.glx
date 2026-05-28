@@ -1,0 +1,11 @@
+persons:
+    person-bradamar-frey:
+        properties:
+            external_ids:
+                - MH:I84
+            name:
+                fields:
+                    given: Bradamar
+                    surname: Frey
+                value: Bradamar Frey
+            sex: male

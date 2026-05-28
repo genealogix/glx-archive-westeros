@@ -1,0 +1,11 @@
+persons:
+    person-janna-tyrell:
+        properties:
+            external_ids:
+                - MH:I386
+            name:
+                fields:
+                    given: Janna
+                    surname: Tyrell
+                value: Janna Tyrell
+            sex: female

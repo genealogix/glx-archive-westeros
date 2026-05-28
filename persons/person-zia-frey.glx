@@ -1,0 +1,11 @@
+persons:
+    person-zia-frey:
+        properties:
+            external_ids:
+                - MH:I56
+            name:
+                fields:
+                    given: Zia
+                    surname: Frey
+                value: Zia Frey
+            sex: female

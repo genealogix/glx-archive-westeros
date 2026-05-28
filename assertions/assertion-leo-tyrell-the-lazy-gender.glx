@@ -1,0 +1,11 @@
+assertions:
+    assertion-leo-tyrell-the-lazy-gender:
+        subject:
+            person: person-leo-tyrell-the-lazy
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Tyrell section. Source text: Moryn''s son, LEO, called LEO THE LAZY'

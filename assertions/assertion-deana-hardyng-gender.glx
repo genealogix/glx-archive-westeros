@@ -1,0 +1,12 @@
+assertions:
+    assertion-deana-hardyng-gender:
+        subject:
+            person: person-deana-hardyng
+        property: sex
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-hobber-redwyne-slobber-gender:
+        subject:
+            person: person-hobber-redwyne-slobber
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: SER HOBBER, mocked as Slobber, twin to Horas'

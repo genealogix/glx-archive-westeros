@@ -1,0 +1,16 @@
+persons:
+    person-stevron-frey:
+        properties:
+            cause_of_death: Died after the Battle of Oxcross
+            external_ids:
+                - MH:I3
+            house: Frey
+            name:
+                fields:
+                    given: Stevron
+                    surname: Frey
+                value: Stevron Frey
+            sex: male
+            title:
+                - value: Ser
+        notes: 'Eldest son of Lord Walder Frey and Lady Perra Royce. Heir to the Twins. ASOS appendix marks him as dead: ''{SER STEVRON}, their eldest son, died after the Battle of Oxcross''.'

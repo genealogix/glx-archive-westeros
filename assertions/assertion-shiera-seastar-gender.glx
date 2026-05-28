@@ -1,0 +1,11 @@
+assertions:
+    assertion-shiera-seastar-gender:
+        subject:
+            person: person-shiera-seastar
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: a girl called Shiera Seastar who became the greatest beauty in the Seven Kingdoms'

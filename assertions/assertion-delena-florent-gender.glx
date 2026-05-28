@@ -1,0 +1,11 @@
+assertions:
+    assertion-delena-florent-gender:
+        subject:
+            person: person-delena-florent
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix, House Florent section. Listed as daughter of Ser Colin.

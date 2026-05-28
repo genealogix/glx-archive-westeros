@@ -1,0 +1,12 @@
+persons:
+    person-medwick-tyrell:
+        properties:
+            external_ids:
+                - MH:I401
+            name:
+                fields:
+                    given: Medwick
+                    prefix: Maester
+                    surname: Tyrell
+                value: Maester Medwick Tyrell
+            sex: male

@@ -1,0 +1,11 @@
+persons:
+    person-renly-norcross:
+        properties:
+            external_ids:
+                - MH:I456
+            name:
+                fields:
+                    given: Renly
+                    surname: Norcross
+                value: Renly Norcross
+            sex: male

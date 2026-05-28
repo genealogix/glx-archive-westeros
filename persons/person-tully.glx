@@ -1,0 +1,10 @@
+persons:
+    person-tully:
+        properties:
+            external_ids:
+                - MH:I255
+            name:
+                fields:
+                    surname: Tully
+                value: Tully
+            sex: male

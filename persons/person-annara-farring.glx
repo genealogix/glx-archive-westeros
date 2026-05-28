@@ -1,0 +1,11 @@
+persons:
+    person-annara-farring:
+        properties:
+            external_ids:
+                - MH:I135
+            name:
+                fields:
+                    given: Annara
+                    surname: Farring
+                value: Annara Farring
+            sex: female

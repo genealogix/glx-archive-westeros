@@ -1,0 +1,11 @@
+persons:
+    person-sylwa-paege:
+        properties:
+            external_ids:
+                - MH:I118
+            name:
+                fields:
+                    given: Sylwa
+                    surname: Paege
+                value: Sylwa Paege
+            sex: female

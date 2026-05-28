@@ -1,0 +1,11 @@
+persons:
+    person-jeyne-rivers:
+        properties:
+            external_ids:
+                - MH:I146
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Rivers
+                value: Jeyne Rivers
+            sex: female

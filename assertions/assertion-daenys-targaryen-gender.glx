@@ -1,0 +1,11 @@
+assertions:
+    assertion-daenys-targaryen-gender:
+        subject:
+            person: person-daenys-targaryen
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: his maiden daughter Daenys the Dreamer'

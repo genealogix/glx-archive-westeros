@@ -1,0 +1,11 @@
+persons:
+    person-marianne-vance:
+        properties:
+            external_ids:
+                - MH:I19
+            name:
+                fields:
+                    given: Marianne
+                    surname: Vance
+                value: Marianne Vance
+            sex: female

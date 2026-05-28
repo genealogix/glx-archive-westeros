@@ -1,0 +1,11 @@
+persons:
+    person-martyn-rivers:
+        properties:
+            external_ids:
+                - MH:I147
+            name:
+                fields:
+                    given: Martyn
+                    surname: Rivers
+                value: Martyn Rivers
+            sex: male

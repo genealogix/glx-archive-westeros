@@ -1,0 +1,11 @@
+persons:
+    person-merrell-florent:
+        properties:
+            external_ids:
+                - MH:I452
+            name:
+                fields:
+                    given: Merrell
+                    surname: Florent
+                value: Merrell Florent
+            sex: male

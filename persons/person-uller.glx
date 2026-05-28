@@ -1,0 +1,10 @@
+persons:
+    person-uller:
+        properties:
+            external_ids:
+                - MH:I274
+            name:
+                fields:
+                    surname: Uller
+                value: Uller
+            sex: unknown

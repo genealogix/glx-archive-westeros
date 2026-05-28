@@ -1,0 +1,42 @@
+persons:
+    person-daenerys-targaryen-304:
+        properties:
+            alias:
+                - value: Daenerys Stormborn
+                - value: Dany
+                - value: The Unburnt
+                - value: Mother of Dragons
+                - value: Khaleesi of the Dothraki
+                - value: Breaker of Shackles
+                - value: Breaker of Chains
+                - value: Mhysa
+                - value: The Silver Queen
+                - value: Silver Lady
+                - value: The Dragon Queen
+                - value: The Queen Across the Waters
+                - value: Dragonmother
+                - value: Daughter of Death
+                - value: Bride of Fire
+                - value: Slayer of Lies
+                - value: Child of Three
+            culture: Valyrian
+            external_ids:
+                - MH:I304
+            house: Targaryen
+            name:
+                fields:
+                    given: Daenerys
+                    surname: Targaryen
+                value: Daenerys Targaryen
+            sex: female
+            title:
+                - date: FROM 284
+                  value: Princess of Dragonstone
+                - date: FROM 298
+                  value: Khaleesi of the Great Grass Sea
+                - date: FROM 299
+                  value: Queen of Meereen
+                - value: Queen of the Andals and the Rhoynar and the First Men
+                - value: Lord of the Seven Kingdoms
+                - value: Protector of the Realm
+        notes: The First of Her Name. Last known surviving child of King Aerys II Targaryen and Queen Rhaella. Born on Dragonstone during a great storm that destroyed the Targaryen fleet, hence 'Stormborn.' Silver-gold hair and violet eyes. Her dragons are Drogon (black), Viserion (cream-and-gold), and Rhaegal (green). Married first to Khal Drogo, then to Hizdahr zo Loraq. Queen of Meereen as of ADWD. Flew away on Drogon from the fighting pits of Daznak and was found by the khalasar of Khal Jhaqo in the Dothraki Sea.

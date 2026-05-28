@@ -1,0 +1,12 @@
+assertions:
+    assertion-jared-frey-gender:
+        subject:
+            person: person-jared-frey
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: SER JARED, their eldest son, m. {Alys Frey}'

@@ -1,0 +1,11 @@
+persons:
+    person-aemon-estermont:
+        properties:
+            external_ids:
+                - MH:I477
+            name:
+                fields:
+                    given: Aemon
+                    surname: Estermont
+                value: Aemon Estermont
+            sex: male

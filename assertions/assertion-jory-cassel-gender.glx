@@ -1,0 +1,11 @@
+assertions:
+    assertion-jory-cassel-gender:
+        subject:
+            person: person-jory-cassel
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: From AGOT Appendix, House Stark section.

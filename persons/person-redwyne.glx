@@ -1,0 +1,10 @@
+persons:
+    person-redwyne:
+        properties:
+            external_ids:
+                - MH:I438
+            name:
+                fields:
+                    surname: Redwyne
+                value: Redwyne
+            sex: male

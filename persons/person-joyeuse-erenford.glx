@@ -1,0 +1,11 @@
+persons:
+    person-joyeuse-erenford:
+        properties:
+            external_ids:
+                - MH:I142
+            name:
+                fields:
+                    given: Joyeuse
+                    surname: Erenford
+                value: Joyeuse Erenford
+            sex: female

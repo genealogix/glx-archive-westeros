@@ -1,0 +1,11 @@
+persons:
+    person-melara-crane:
+        properties:
+            external_ids:
+                - MH:I448
+            name:
+                fields:
+                    given: Melara
+                    surname: Crane
+                value: Melara Crane
+            sex: female

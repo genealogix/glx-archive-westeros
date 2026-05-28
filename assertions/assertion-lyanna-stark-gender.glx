@@ -1,0 +1,11 @@
+assertions:
+    assertion-lyanna-stark-gender:
+        subject:
+            person: person-lyanna-stark
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Stark section. Listed as 'his younger sister'.

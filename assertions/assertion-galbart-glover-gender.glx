@@ -1,0 +1,11 @@
+assertions:
+    assertion-galbart-glover-gender:
+        subject:
+            person: person-galbart-glover
+        property: sex
+        value: male
+        confidence: high
+        status: proven
+        citations:
+            - citation-awoiaf-galbart-glover
+        notes: Galbart Glover is male; head of House Glover and Master of Deepwood Motte.

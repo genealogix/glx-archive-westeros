@@ -1,0 +1,14 @@
+persons:
+    person-ser-manfrey-martell:
+        properties:
+            house: Martell
+            name:
+                fields:
+                    given: Manfrey
+                    surname: Martell
+                value: Manfrey Martell
+            sex: male
+            title:
+                - value: Ser
+                - value: Castellan of Sunspear
+        notes: Ser Manfrey Martell, the castellan of Sunspear. He greets Prince Doran on his return from the Water Gardens in AFFC. A knight of House Martell. (AFFC The Captain of Guards I)

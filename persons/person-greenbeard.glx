@@ -1,0 +1,11 @@
+persons:
+    person-greenbeard:
+        properties:
+            alias:
+                - value: Greenbeard
+            name:
+                fields:
+                    given: Greenbeard
+                value: Greenbeard
+            sex: male
+        notes: A member of the Brotherhood Without Banners, described as Tyroshi. Large enough to look Sandor Clegane in the eye. Calls Arya 'skinny squirrel.' First appears with Arya in ASOS Arya IV.

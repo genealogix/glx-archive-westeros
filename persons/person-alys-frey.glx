@@ -1,0 +1,11 @@
+persons:
+    person-alys-frey:
+        properties:
+            external_ids:
+                - MH:I52
+            name:
+                fields:
+                    given: Alys
+                    surname: Frey
+                value: Alys Frey
+            sex: female

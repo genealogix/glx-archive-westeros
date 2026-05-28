@@ -1,0 +1,11 @@
+assertions:
+    assertion-lomas-estermont-gender:
+        subject:
+            person: person-lomas-estermont
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-acok-appendix
+        notes: Verified against ACOK Appendix, King in the Narrow Sea section. Listed as Ser.

@@ -1,0 +1,11 @@
+persons:
+    person-jeyne-goodbrook:
+        properties:
+            external_ids:
+                - MH:I60
+            name:
+                fields:
+                    given: Jeyne
+                    surname: Goodbrook
+                value: Jeyne Goodbrook
+            sex: female

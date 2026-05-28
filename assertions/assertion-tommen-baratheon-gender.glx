@@ -1,0 +1,11 @@
+assertions:
+    assertion-tommen-baratheon-gender:
+        subject:
+            person: person-tommen-baratheon
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Baratheon section. Listed as Prince.

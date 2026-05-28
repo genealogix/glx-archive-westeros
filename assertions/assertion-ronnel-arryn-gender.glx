@@ -1,0 +1,11 @@
+assertions:
+    assertion-ronnel-arryn-gender:
+        subject:
+            person: person-ronnel-arryn
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. May appear only in TWOIAF.

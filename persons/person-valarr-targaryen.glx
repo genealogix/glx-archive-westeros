@@ -1,0 +1,11 @@
+persons:
+    person-valarr-targaryen:
+        properties:
+            external_ids:
+                - MH:I298
+            name:
+                fields:
+                    given: Valarr
+                    surname: Targaryen
+                value: Valarr Targaryen
+            sex: male

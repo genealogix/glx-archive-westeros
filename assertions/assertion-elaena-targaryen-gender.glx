@@ -1,0 +1,11 @@
+assertions:
+    assertion-elaena-targaryen-gender:
+        subject:
+            person: person-elaena-targaryen
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, Sisters of Baelor I section. Source text: Elaena, the youngest'

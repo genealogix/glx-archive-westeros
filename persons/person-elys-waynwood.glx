@@ -1,0 +1,11 @@
+persons:
+    person-elys-waynwood:
+        properties:
+            external_ids:
+                - MH:I233
+            name:
+                fields:
+                    given: Elys
+                    surname: Waynwood
+                value: Elys Waynwood
+            sex: male

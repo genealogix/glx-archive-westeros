@@ -1,0 +1,11 @@
+persons:
+    person-jon-wylde:
+        properties:
+            external_ids:
+                - MH:I79
+            name:
+                fields:
+                    given: Jon
+                    surname: Wylde
+                value: Jon Wylde
+            sex: male

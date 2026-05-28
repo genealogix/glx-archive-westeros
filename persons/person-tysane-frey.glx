@@ -1,0 +1,11 @@
+persons:
+    person-tysane-frey:
+        properties:
+            external_ids:
+                - MH:I110
+            name:
+                fields:
+                    given: Tysane
+                    surname: Frey
+                value: Tysane Frey
+            sex: female

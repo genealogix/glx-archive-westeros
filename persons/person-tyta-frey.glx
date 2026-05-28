@@ -1,0 +1,11 @@
+persons:
+    person-tyta-frey:
+        properties:
+            external_ids:
+                - MH:I108
+            name:
+                fields:
+                    given: Tyta
+                    surname: Frey
+                value: Tyta Frey
+            sex: female

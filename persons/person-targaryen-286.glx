@@ -1,0 +1,10 @@
+persons:
+    person-targaryen-286:
+        properties:
+            external_ids:
+                - MH:I286
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen
+            sex: male

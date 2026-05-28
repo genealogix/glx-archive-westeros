@@ -1,0 +1,11 @@
+persons:
+    person-denyse-hightower:
+        properties:
+            external_ids:
+                - MH:I412
+            name:
+                fields:
+                    given: Denyse
+                    surname: Hightower
+                value: Denyse Hightower
+            sex: female

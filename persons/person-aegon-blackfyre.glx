@@ -1,0 +1,11 @@
+persons:
+    person-aegon-blackfyre:
+        properties:
+            external_ids:
+                - MH:I313
+            name:
+                fields:
+                    given: Aegon
+                    surname: Blackfyre
+                value: Aegon Blackfyre
+            sex: male

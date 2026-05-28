@@ -1,0 +1,11 @@
+assertions:
+    assertion-gerold-dayne-gender:
+        subject:
+            person: person-gerold-dayne-darkstar
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Listed as Ser in the AFFC appendix.

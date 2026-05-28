@@ -1,0 +1,12 @@
+persons:
+    person-erren-florent:
+        properties:
+            external_ids:
+                - MH:I442
+            name:
+                fields:
+                    given: Erren
+                    prefix: Ser
+                    surname: Florent
+                value: Ser Erren Florent
+            sex: male

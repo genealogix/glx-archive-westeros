@@ -1,0 +1,11 @@
+persons:
+    person-corenna-swann:
+        properties:
+            external_ids:
+                - MH:I6
+            name:
+                fields:
+                    given: Corenna
+                    surname: Swann
+                value: Corenna Swann
+            sex: female

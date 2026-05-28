@@ -1,0 +1,12 @@
+assertions:
+    assertion-leonella-lefford-gender:
+        subject:
+            person: person-leonella-lefford
+        property: sex
+        value: female
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

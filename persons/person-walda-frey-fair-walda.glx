@@ -1,0 +1,12 @@
+persons:
+    person-walda-frey-fair-walda:
+        properties:
+            external_ids:
+                - MH:I26
+            name:
+                fields:
+                    given: Walda
+                    nickname: Fair Walda
+                    surname: Frey
+                value: Walda Frey
+            sex: female

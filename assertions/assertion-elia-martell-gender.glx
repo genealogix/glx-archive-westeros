@@ -1,0 +1,11 @@
+assertions:
+    assertion-elia-martell-gender:
+        subject:
+            person: person-elia-martell
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Martell section. Source text: his sister, {PRINCESS ELIA}, wed to Prince Rhaegar Targaryen, slain during the Sack of King''s Landing'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-jeyne-fossoway-gender:
+        subject:
+            person: person-jeyne-fossoway
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Source text: Jeyne Fossoway, of the green apple Fossoways'

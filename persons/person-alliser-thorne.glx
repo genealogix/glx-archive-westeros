@@ -1,0 +1,16 @@
+persons:
+    person-alliser-thorne:
+        properties:
+            house: Thorne
+            name:
+                fields:
+                    given: Alliser
+                    prefix: Ser
+                    surname: Thorne
+                value: Ser Alliser Thorne
+            sex: male
+            title:
+                - value: Ser
+                - date: FROM 298
+                  value: Master-at-arms at Castle Black
+        notes: Knight of House Thorne from the Crownlands. Fought for House Targaryen during Robert's Rebellion; after the Sack of King's Landing, given the choice by Tywin Lannister between death and taking the black. Served as master-at-arms at Castle Black and later Eastwatch-by-the-Sea, training Night's Watch recruits. Bitter rival of Jon Snow. Sent on a ranging beyond the Wall by Lord Commander Jon Snow in ADWD.

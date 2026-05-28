@@ -1,0 +1,13 @@
+persons:
+    person-martyn-lannister:
+        properties:
+            external_ids:
+                - MH:I174
+            house: Lannister
+            name:
+                fields:
+                    given: Martyn
+                    surname: Lannister
+                value: Martyn Lannister
+            sex: male
+        notes: Twin son of Ser Kevan Lannister and Dorna Swyft. Twin to Willem.

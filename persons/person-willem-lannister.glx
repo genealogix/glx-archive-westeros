@@ -1,0 +1,13 @@
+persons:
+    person-willem-lannister:
+        properties:
+            external_ids:
+                - MH:I173
+            house: Lannister
+            name:
+                fields:
+                    given: Willem
+                    surname: Lannister
+                value: Willem Lannister
+            sex: male
+        notes: Twin son of Ser Kevan Lannister and Dorna Swyft. Twin to Martyn.

@@ -1,0 +1,12 @@
+assertions:
+    assertion-willem-frey-gender:
+        subject:
+            person: person-willem-frey
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. Source text: Cleos''s son, WILLEM, a page at Ashemark, nine'

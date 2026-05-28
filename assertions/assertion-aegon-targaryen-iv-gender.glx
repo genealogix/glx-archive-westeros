@@ -1,0 +1,12 @@
+assertions:
+    assertion-aegon-targaryen-iv-gender:
+        subject:
+            person: person-aegon-targaryen-iv
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: The eldest was Aegon, born in the Red Keep in 135 AC after Viserys''s return from Lys. He was a robust lad who grew to be handsome and charming, and also irresponsible and capricious'

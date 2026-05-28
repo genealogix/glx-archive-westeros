@@ -1,0 +1,11 @@
+assertions:
+    assertion-victarion-greyjoy-gender:
+        subject:
+            person: person-victarion-greyjoy
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Listed as brother of King Balon in the AFFC appendix.

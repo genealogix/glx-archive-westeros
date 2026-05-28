@@ -1,0 +1,11 @@
+persons:
+    person-jasper-waynwood:
+        properties:
+            external_ids:
+                - MH:I246
+            name:
+                fields:
+                    given: Jasper
+                    surname: Waynwood
+                value: Jasper Waynwood
+            sex: male

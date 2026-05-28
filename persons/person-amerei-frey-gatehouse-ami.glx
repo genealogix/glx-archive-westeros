@@ -1,0 +1,12 @@
+persons:
+    person-amerei-frey-gatehouse-ami:
+        properties:
+            external_ids:
+                - MH:I87
+            name:
+                fields:
+                    given: Amerei
+                    nickname: Gatehouse Ami
+                    surname: Frey
+                value: Amerei Frey
+            sex: female

@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-300-gender:
+        subject:
+            person: person-targaryen-300
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Unnamed child of Valarr Targaryen.

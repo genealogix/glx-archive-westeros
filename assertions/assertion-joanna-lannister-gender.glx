@@ -1,0 +1,11 @@
+assertions:
+    assertion-joanna-lannister-gender:
+        subject:
+            person: person-joanna-lannister
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Lannister section. Listed as wife of Tywin.

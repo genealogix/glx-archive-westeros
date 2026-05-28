@@ -1,0 +1,11 @@
+assertions:
+    assertion-aegon-targaryen-gender:
+        subject:
+            person: person-aegon-targaryen
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Gaemon''s son Aegon'

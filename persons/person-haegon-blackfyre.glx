@@ -1,0 +1,11 @@
+persons:
+    person-haegon-blackfyre:
+        properties:
+            external_ids:
+                - MH:I316
+            name:
+                fields:
+                    given: Haegon
+                    surname: Blackfyre
+                value: Haegon Blackfyre
+            sex: male

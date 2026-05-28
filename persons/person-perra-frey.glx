@@ -1,0 +1,11 @@
+persons:
+    person-perra-frey:
+        properties:
+            external_ids:
+                - MH:I14
+            name:
+                fields:
+                    given: Perra
+                    surname: Frey
+                value: Perra Frey
+            sex: female

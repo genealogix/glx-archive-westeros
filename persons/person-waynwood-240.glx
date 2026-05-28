@@ -1,0 +1,10 @@
+persons:
+    person-waynwood-240:
+        properties:
+            external_ids:
+                - MH:I240
+            name:
+                fields:
+                    surname: Waynwood
+                value: Waynwood
+            sex: female

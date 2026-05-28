@@ -1,0 +1,11 @@
+assertions:
+    assertion-aenar-targaryen-gender:
+        subject:
+            person: person-aenar-targaryen
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Aenar Targaryen sold his holdings in the Freehold'

@@ -1,0 +1,12 @@
+assertions:
+    assertion-visenya-targaryen-gender:
+        subject:
+            person: person-visenya-targaryen
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: an elder sister, Visenya'

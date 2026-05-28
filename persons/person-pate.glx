@@ -1,0 +1,11 @@
+persons:
+    person-pate:
+        properties:
+            external_ids:
+                - MH:I88
+            name:
+                fields:
+                    given: Pate
+                    prefix: Ser
+                value: Ser Pate
+            sex: male

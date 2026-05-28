@@ -1,0 +1,11 @@
+persons:
+    person-denys-redwyne:
+        properties:
+            external_ids:
+                - MH:I414
+            name:
+                fields:
+                    given: Denys
+                    surname: Redwyne
+                value: Denys Redwyne
+            sex: male

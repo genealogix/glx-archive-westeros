@@ -1,0 +1,11 @@
+assertions:
+    assertion-trystane-martell-gender:
+        subject:
+            person: person-trystane-martell
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Martell section. Source text: PRINCE TRYSTANE, their younger son'

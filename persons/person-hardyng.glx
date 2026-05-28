@@ -1,0 +1,11 @@
+persons:
+    person-hardyng:
+        properties:
+            external_ids:
+                - MH:I238
+            name:
+                fields:
+                    prefix: Ser
+                    surname: Hardyng
+                value: Ser Hardyng
+            sex: male

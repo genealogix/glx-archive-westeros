@@ -1,0 +1,11 @@
+persons:
+    person-walton-frey:
+        properties:
+            external_ids:
+                - MH:I23
+            name:
+                fields:
+                    given: Walton
+                    surname: Frey
+                value: Walton Frey
+            sex: male

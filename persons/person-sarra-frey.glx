@@ -1,0 +1,11 @@
+persons:
+    person-sarra-frey:
+        properties:
+            external_ids:
+                - MH:I98
+            name:
+                fields:
+                    given: Sarra
+                    surname: Frey
+                value: Sarra Frey
+            sex: female

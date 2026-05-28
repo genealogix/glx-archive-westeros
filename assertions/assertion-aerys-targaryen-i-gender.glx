@@ -1,0 +1,12 @@
+assertions:
+    assertion-aerys-targaryen-i-gender:
+        subject:
+            person: person-aerys-targaryen-i
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Daeron''s second son, Aerys, had never imagined he would be king'

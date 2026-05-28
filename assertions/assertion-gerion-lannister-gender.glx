@@ -1,0 +1,11 @@
+assertions:
+    assertion-gerion-lannister-gender:
+        subject:
+            person: person-gerion-lannister
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Lannister section. Listed as brother.

@@ -1,0 +1,11 @@
+assertions:
+    assertion-medwick-tyrell-gender:
+        subject:
+            person: person-medwick-tyrell
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Tyrell section. Source text: Luthor''s son, MAESTER MEDWICK'

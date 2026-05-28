@@ -1,0 +1,11 @@
+persons:
+    person-sallei-paege:
+        properties:
+            external_ids:
+                - MH:I114
+            name:
+                fields:
+                    given: Sallei
+                    surname: Paege
+                value: Sallei Paege
+            sex: female

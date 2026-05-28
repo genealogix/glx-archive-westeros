@@ -1,0 +1,11 @@
+persons:
+    person-leslyn-haigh:
+        properties:
+            external_ids:
+                - MH:I44
+            name:
+                fields:
+                    given: Leslyn
+                    surname: Haigh
+                value: Leslyn Haigh
+            sex: male

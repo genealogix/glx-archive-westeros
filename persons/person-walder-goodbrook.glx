@@ -1,0 +1,11 @@
+persons:
+    person-walder-goodbrook:
+        properties:
+            external_ids:
+                - MH:I59
+            name:
+                fields:
+                    given: Walder
+                    surname: Goodbrook
+                value: Walder Goodbrook
+            sex: male

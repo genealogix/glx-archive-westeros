@@ -1,0 +1,11 @@
+persons:
+    person-kyra-frey:
+        properties:
+            external_ids:
+                - MH:I54
+            name:
+                fields:
+                    given: Kyra
+                    surname: Frey
+                value: Kyra Frey
+            sex: female

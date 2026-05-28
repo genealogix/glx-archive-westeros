@@ -1,0 +1,11 @@
+assertions:
+    assertion-rickon-stark-gender:
+        subject:
+            person: person-rickon-stark
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Stark section. Listed as 'a boy'.

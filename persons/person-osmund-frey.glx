@@ -1,0 +1,11 @@
+persons:
+    person-osmund-frey:
+        properties:
+            external_ids:
+                - MH:I134
+            name:
+                fields:
+                    given: Osmund
+                    surname: Frey
+                value: Osmund Frey
+            sex: male

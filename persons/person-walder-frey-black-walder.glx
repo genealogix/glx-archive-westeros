@@ -1,0 +1,12 @@
+persons:
+    person-walder-frey-black-walder:
+        properties:
+            external_ids:
+                - MH:I9
+            name:
+                fields:
+                    given: Walder
+                    nickname: Black Walder
+                    surname: Frey
+                value: Walder Frey
+            sex: male

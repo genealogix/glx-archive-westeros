@@ -1,0 +1,11 @@
+persons:
+    person-ryella-frey:
+        properties:
+            external_ids:
+                - MH:I72
+            name:
+                fields:
+                    given: Ryella
+                    surname: Frey
+                value: Ryella Frey
+            sex: female

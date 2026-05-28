@@ -1,0 +1,11 @@
+assertions:
+    assertion-willas-tyrell-gender:
+        subject:
+            person: person-willas-tyrell
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: 'Verified against AGOT Appendix, House Tyrell section. Source text: WILLAS, their eldest son, heir to Highgarden'

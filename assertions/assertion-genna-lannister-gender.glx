@@ -1,0 +1,11 @@
+assertions:
+    assertion-genna-lannister-gender:
+        subject:
+            person: person-genna-lannister
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Lannister section. Listed as sister.

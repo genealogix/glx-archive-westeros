@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-281-gender:
+        subject:
+            person: person-targaryen-281
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Unnamed male child of Aegon V.

@@ -1,0 +1,11 @@
+persons:
+    person-walda-rivers-152:
+        properties:
+            external_ids:
+                - MH:I152
+            name:
+                fields:
+                    given: Walda
+                    surname: Rivers
+                value: Walda Rivers
+            sex: female

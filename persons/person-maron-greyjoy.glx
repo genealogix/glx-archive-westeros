@@ -1,0 +1,12 @@
+persons:
+    person-maron-greyjoy:
+        properties:
+            cause_of_death: Slain during Balon's first rebellion
+            house: Greyjoy
+            name:
+                fields:
+                    given: Maron
+                    surname: Greyjoy
+                value: Maron Greyjoy
+            sex: male
+        notes: Son of Balon Greyjoy. Killed during Balon's first rebellion against the Iron Throne. Listed as deceased in the AFFC appendix.

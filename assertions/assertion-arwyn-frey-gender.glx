@@ -1,0 +1,12 @@
+assertions:
+    assertion-arwyn-frey-gender:
+        subject:
+            person: person-arwyn-frey
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-asos-appendix
+            - citation-affc-appendix
+        notes: 'Verified against ASOS and AFFC Appendix, House Frey section. CORRECTED from male to female based on appendix listing as ''a maid''. Source text: ARWYN, a maid of fourteen'

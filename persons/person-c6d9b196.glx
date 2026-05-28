@@ -1,9 +1,0 @@
-persons:
-    person-quaithe:
-        properties:
-            gender: female
-            name:
-                fields:
-                    given: Quaithe
-                value: Quaithe
-        notes: A masked shadowbinder of Asshai. One of the three seekers who found Daenerys. First appears in ACOK appendix.

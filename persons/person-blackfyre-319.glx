@@ -1,0 +1,10 @@
+persons:
+    person-blackfyre-319:
+        properties:
+            external_ids:
+                - MH:I319
+            name:
+                fields:
+                    surname: Blackfyre
+                value: Blackfyre
+            sex: male

@@ -1,0 +1,11 @@
+persons:
+    person-ashara-dayne:
+        properties:
+            external_ids:
+                - MH:I481
+            name:
+                fields:
+                    given: Ashara
+                    surname: Dayne
+                value: Ashara Dayne
+            sex: female

@@ -1,0 +1,11 @@
+persons:
+    person-emmon-frey:
+        properties:
+            external_ids:
+                - MH:I4
+            name:
+                fields:
+                    given: Emmon
+                    surname: Frey
+                value: Emmon Frey
+            sex: male

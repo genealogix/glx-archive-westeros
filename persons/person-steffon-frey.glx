@@ -1,0 +1,11 @@
+persons:
+    person-steffon-frey:
+        properties:
+            external_ids:
+                - MH:I25
+            name:
+                fields:
+                    given: Steffon
+                    surname: Frey
+                value: Steffon Frey
+            sex: male

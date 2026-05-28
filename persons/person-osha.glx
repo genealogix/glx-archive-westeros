@@ -1,0 +1,9 @@
+persons:
+    person-osha:
+        properties:
+            name:
+                fields:
+                    given: Osha
+                value: Osha
+            sex: female
+        notes: A wildling woman taken captive in the wolfswood, serving as kitchen drudge at Winterfell. First appears in AGOT but first listed in appendix in ACOK.

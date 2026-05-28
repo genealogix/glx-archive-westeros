@@ -1,0 +1,12 @@
+assertions:
+    assertion-rupert-brax-gender:
+        subject:
+            person: person-rupert-brax
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-agot-appendix
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Verify against novel appendix.

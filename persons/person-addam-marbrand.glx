@@ -1,0 +1,14 @@
+persons:
+    person-addam-marbrand:
+        properties:
+            house: Marbrand
+            name:
+                fields:
+                    given: Addam
+                    prefix: Ser
+                    surname: Marbrand
+                value: Ser Addam Marbrand
+            sex: male
+            title:
+                - value: Ser
+        notes: A chief knight and bannerman of House Lannister.

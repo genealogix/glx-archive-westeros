@@ -1,0 +1,6 @@
+persons:
+    person-unknown-360:
+        properties:
+            external_ids:
+                - MH:I360
+            sex: unknown

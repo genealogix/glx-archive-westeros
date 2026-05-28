@@ -1,0 +1,12 @@
+persons:
+    person-daemon-blackfyre-ii:
+        properties:
+            external_ids:
+                - MH:I315
+            name:
+                fields:
+                    given: Daemon
+                    suffix: II
+                    surname: Blackfyre
+                value: Daemon Blackfyre II
+            sex: male

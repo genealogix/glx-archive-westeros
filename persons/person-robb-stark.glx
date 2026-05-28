@@ -1,0 +1,24 @@
+persons:
+    person-robb-stark:
+        properties:
+            alias:
+                - value: The Young Wolf
+            cause_of_death: Murdered at the Red Wedding
+            external_ids:
+                - MH:I217
+            house: Stark
+            name:
+                fields:
+                    given: Robb
+                    surname: Stark
+                value: Robb Stark
+            religion: Old Gods
+            sex: male
+            title:
+                - date: FROM 298 TO 299
+                  value: Lord of Winterfell
+                - date: FROM 298 TO 299
+                  value: King in the North
+                - date: FROM 299 TO 299
+                  value: King of the Trident
+        notes: Eldest son of Eddard Stark and Catelyn Tully. Auburn hair (Tully coloring) and blue eyes. His direwolf is Grey Wind. Never lost a battle — defeated Jaime Lannister at the Whispering Wood, won the Battle of the Camps, invaded the Westerlands. Crowned King in the North by his bannermen after Ned's execution. Married Jeyne Westerling after taking her maidenhead (a matter of honor). This broke his marriage pact with Walder Frey. Murdered at the Twins during the Red Wedding along with his mother, Grey Wind, and most of his host. Shot with crossbow bolts and stabbed by Roose Bolton ('Jaime Lannister sends his regards').

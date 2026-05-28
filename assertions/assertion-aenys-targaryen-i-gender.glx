@@ -1,0 +1,12 @@
+assertions:
+    assertion-aenys-targaryen-i-gender:
+        subject:
+            person: person-aenys-targaryen-i
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-agot-appendix
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: He had given the realm both ''an heir and a spare'' by his two wives: the elder Prince Aenys by Rhaenys (long dead) and the younger Prince Maegor by Visenya.'

@@ -1,0 +1,11 @@
+persons:
+    person-whalen-frey:
+        properties:
+            external_ids:
+                - MH:I106
+            name:
+                fields:
+                    given: Whalen
+                    surname: Frey
+                value: Whalen Frey
+            sex: male

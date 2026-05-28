@@ -1,0 +1,12 @@
+persons:
+    person-donnel-haigh:
+        properties:
+            external_ids:
+                - MH:I46
+            name:
+                fields:
+                    given: Donnel
+                    prefix: Ser
+                    surname: Haigh
+                value: Ser Donnel Haigh
+            sex: male

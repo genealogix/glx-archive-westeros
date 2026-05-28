@@ -1,0 +1,11 @@
+assertions:
+    assertion-joffrey-baratheon-gender:
+        subject:
+            person: person-joffrey-baratheon
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Baratheon section. Listed as Prince.

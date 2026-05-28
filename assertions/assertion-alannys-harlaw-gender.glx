@@ -1,0 +1,11 @@
+assertions:
+    assertion-alannys-harlaw-gender:
+        subject:
+            person: person-alannys-harlaw
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: Listed as Queen in the AFFC appendix.

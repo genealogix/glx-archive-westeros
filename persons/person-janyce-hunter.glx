@@ -1,0 +1,11 @@
+persons:
+    person-janyce-hunter:
+        properties:
+            external_ids:
+                - MH:I11
+            name:
+                fields:
+                    given: Janyce
+                    surname: Hunter
+                value: Janyce Hunter
+            sex: female

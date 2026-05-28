@@ -1,0 +1,19 @@
+persons:
+    person-aegon-targaryen-vi:
+        properties:
+            alias:
+                - value: Young Griff
+                - value: The Prince That Was Promised
+            external_ids:
+                - MH:I209
+            house: Targaryen
+            name:
+                fields:
+                    given: Aegon
+                    suffix: VI
+                    surname: Targaryen
+                value: Aegon Targaryen VI
+            sex: male
+            title:
+                - value: Prince
+        notes: Son of Rhaegar Targaryen and Elia Martell. Officially murdered as a babe during the Sack of King's Landing — Gregor Clegane dashed the infant's head against a wall. However, according to Jon Connington and Varys, the child was secretly swapped with a tanner's son and smuggled to Essos. Raised in hiding by Jon Connington (as 'Griff' and 'Young Griff') and educated by Haldon Halfmaester. Blue-dyed hair to conceal his Targaryen silver. Whether he is truly Aegon or a Blackfyre pretender is one of the great mysteries — Tyrion suspects him, and the Golden Company's historical Blackfyre allegiance is suggestive. Landed at Griffin's Roost with the Golden Company and took Storm's End. Marching on King's Landing as of ADWD.

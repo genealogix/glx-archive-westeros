@@ -1,0 +1,11 @@
+assertions:
+    assertion-denyse-hightower-gender:
+        subject:
+            person: person-denyse-hightower
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Hightower section. Source text: Lord Leyton''s daughter, DENYSE'

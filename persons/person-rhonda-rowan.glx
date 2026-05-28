@@ -1,0 +1,11 @@
+persons:
+    person-rhonda-rowan:
+        properties:
+            external_ids:
+                - MH:I409
+            name:
+                fields:
+                    given: Rhonda
+                    surname: Rowan
+                value: Rhonda Rowan
+            sex: female

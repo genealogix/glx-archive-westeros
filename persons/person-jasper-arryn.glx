@@ -1,0 +1,11 @@
+persons:
+    person-jasper-arryn:
+        properties:
+            external_ids:
+                - MH:I230
+            name:
+                fields:
+                    given: Jasper
+                    surname: Arryn
+                value: Jasper Arryn
+            sex: male

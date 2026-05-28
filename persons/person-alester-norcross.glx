@@ -1,0 +1,11 @@
+persons:
+    person-alester-norcross:
+        properties:
+            external_ids:
+                - MH:I455
+            name:
+                fields:
+                    given: Alester
+                    surname: Norcross
+                value: Alester Norcross
+            sex: male

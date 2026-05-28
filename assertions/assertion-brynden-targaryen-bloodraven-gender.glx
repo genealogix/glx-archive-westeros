@@ -1,0 +1,11 @@
+assertions:
+    assertion-brynden-targaryen-bloodraven-gender:
+        subject:
+            person: person-brynden-targaryen-bloodraven
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: the boy Brynden Rivers (born 175), later called Bloodraven'

@@ -1,0 +1,11 @@
+persons:
+    person-marissa-frey:
+        properties:
+            external_ids:
+                - MH:I90
+            name:
+                fields:
+                    given: Marissa
+                    surname: Frey
+                value: Marissa Frey
+            sex: female

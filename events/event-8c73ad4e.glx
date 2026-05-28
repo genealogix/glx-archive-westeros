@@ -1,0 +1,7 @@
+events:
+    event-8c73ad4e:
+        type: birth
+        participants:
+            - person: person-chett
+              role: principal
+        notes: "Born at Hag's Mire (no place entity yet)"

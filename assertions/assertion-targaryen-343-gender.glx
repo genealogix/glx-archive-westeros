@@ -1,0 +1,12 @@
+assertions:
+    assertion-targaryen-343-gender:
+        subject:
+            person: person-targaryen-343
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Unnamed child of Viserys I.

@@ -1,0 +1,11 @@
+persons:
+    person-desmera-redwyne:
+        properties:
+            external_ids:
+                - MH:I392
+            name:
+                fields:
+                    given: Desmera
+                    surname: Redwyne
+                value: Desmera Redwyne
+            sex: female

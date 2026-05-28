@@ -1,0 +1,13 @@
+persons:
+    person-tyrek-lannister:
+        properties:
+            external_ids:
+                - MH:I177
+            house: Lannister
+            name:
+                fields:
+                    given: Tyrek
+                    surname: Lannister
+                value: Tyrek Lannister
+            sex: male
+        notes: Son of Ser Tygett Lannister. Squire to King Robert.

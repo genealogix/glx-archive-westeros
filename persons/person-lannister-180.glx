@@ -1,0 +1,10 @@
+persons:
+    person-lannister-180:
+        properties:
+            external_ids:
+                - MH:I180
+            name:
+                fields:
+                    surname: Lannister
+                value: Lannister
+            sex: male

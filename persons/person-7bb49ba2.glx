@@ -1,9 +1,0 @@
-persons:
-    person-doreah:
-        properties:
-            gender: female
-            name:
-                fields:
-                    given: Doreah
-                value: Doreah
-        notes: A Lysene handmaid given to Daenerys Targaryen by Magister Illyrio in Pentos. She taught Daenerys 'pillow tricks.' Viserys Targaryen had bedded her in Pentos and was nicer to her than to Daenerys's Dothraki handmaids. Qotho left bruises on her soft white skin. She sent word to Viserys to come to Daenerys's supper and he struck her for it.

@@ -1,0 +1,9 @@
+persons:
+    person-val:
+        properties:
+            alias:
+                - value: The wildling princess
+            name:
+                value: Val
+            sex: female
+        notes: Dalla's younger sister, called 'the wildling princess.' A captive at Castle Black. Her lover Jarl was killed in a fall (ADWD Appendix).

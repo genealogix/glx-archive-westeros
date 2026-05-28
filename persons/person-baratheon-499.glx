@@ -1,0 +1,10 @@
+persons:
+    person-baratheon-499:
+        properties:
+            external_ids:
+                - MH:I499
+            name:
+                fields:
+                    surname: Baratheon
+                value: Baratheon
+            sex: male

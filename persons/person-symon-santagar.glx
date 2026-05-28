@@ -1,0 +1,12 @@
+persons:
+    person-symon-santagar:
+        properties:
+            external_ids:
+                - MH:I480
+            name:
+                fields:
+                    given: Symon
+                    prefix: Ser
+                    surname: Santagar
+                value: Ser Symon Santagar
+            sex: male

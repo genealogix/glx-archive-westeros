@@ -1,0 +1,11 @@
+persons:
+    person-maron-martell:
+        properties:
+            external_ids:
+                - MH:I305
+            name:
+                fields:
+                    given: Maron
+                    surname: Martell
+                value: Maron Martell
+            sex: male

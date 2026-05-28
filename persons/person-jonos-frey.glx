@@ -1,0 +1,11 @@
+persons:
+    person-jonos-frey:
+        properties:
+            external_ids:
+                - MH:I42
+            name:
+                fields:
+                    given: Jonos
+                    surname: Frey
+                value: Jonos Frey
+            sex: male

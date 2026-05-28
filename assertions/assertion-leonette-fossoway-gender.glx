@@ -1,0 +1,11 @@
+assertions:
+    assertion-leonette-fossoway-gender:
+        subject:
+            person: person-leonette-fossoway
+        property: sex
+        value: female
+        confidence: high
+        status: accepted
+        citations:
+            - citation-affc-appendix
+        notes: 'Verified against AFFC Appendix, House Tyrell section. Source text: Garlan''s wife, LADY LEONETTE of House Fossoway'

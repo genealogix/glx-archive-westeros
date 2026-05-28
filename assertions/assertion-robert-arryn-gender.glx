@@ -1,0 +1,11 @@
+assertions:
+    assertion-robert-arryn-gender:
+        subject:
+            person: person-robert-arryn
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-agot-appendix
+        notes: Verified against AGOT Appendix, House Arryn section. Listed as 'a sickly boy'.

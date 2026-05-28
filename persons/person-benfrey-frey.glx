@@ -1,0 +1,11 @@
+persons:
+    person-benfrey-frey:
+        properties:
+            external_ids:
+                - MH:I128
+            name:
+                fields:
+                    given: Benfrey
+                    surname: Frey
+                value: Benfrey Frey
+            sex: male

@@ -1,0 +1,11 @@
+persons:
+    person-elinor-tyrell:
+        properties:
+            external_ids:
+                - MH:I403
+            name:
+                fields:
+                    given: Elinor
+                    surname: Tyrell
+                value: Elinor Tyrell
+            sex: female

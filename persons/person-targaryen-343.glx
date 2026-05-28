@@ -1,0 +1,10 @@
+persons:
+    person-targaryen-343:
+        properties:
+            external_ids:
+                - MH:I343
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen
+            sex: male

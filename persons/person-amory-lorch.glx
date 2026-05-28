@@ -1,0 +1,13 @@
+persons:
+    person-amory-lorch:
+        properties:
+            name:
+                fields:
+                    given: Amory
+                    prefix: Ser
+                    surname: Lorch
+                value: Ser Amory Lorch
+            sex: male
+            title:
+                - value: Captain of foragers
+        notes: A captain of foragers in the service of Tywin Lannister. Listed in ACOK appendix under House Lannister. Known for brutality.

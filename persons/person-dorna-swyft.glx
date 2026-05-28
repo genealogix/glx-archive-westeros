@@ -1,0 +1,13 @@
+persons:
+    person-dorna-swyft:
+        properties:
+            external_ids:
+                - MH:I171
+            house: Swyft
+            name:
+                fields:
+                    given: Dorna
+                    surname: Swyft
+                value: Dorna Swyft
+            sex: female
+        notes: Wife of Ser Kevan Lannister. Of House Swyft.

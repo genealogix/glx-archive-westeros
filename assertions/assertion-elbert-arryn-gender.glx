@@ -1,0 +1,11 @@
+assertions:
+    assertion-elbert-arryn-gender:
+        subject:
+            person: person-elbert-arryn
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Not found in novel appendices. May appear only in chapter text.

@@ -1,0 +1,11 @@
+persons:
+    person-melessa-florent:
+        properties:
+            external_ids:
+                - MH:I450
+            name:
+                fields:
+                    given: Melessa
+                    surname: Florent
+                value: Melessa Florent
+            sex: female

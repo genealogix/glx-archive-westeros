@@ -1,7 +1,0 @@
-events:
-    event-8c73ad4e:
-        type: birth
-        place: Hag's Mire
-        participants:
-            - person: person-chett
-              role: principal

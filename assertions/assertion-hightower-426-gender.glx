@@ -1,0 +1,11 @@
+assertions:
+    assertion-hightower-426-gender:
+        subject:
+            person: person-hightower-426
+        property: sex
+        value: male
+        confidence: medium
+        status: accepted
+        citations:
+            - citation-myheritage-gedcom
+        notes: Imported from GEDCOM. Male based on relationships.

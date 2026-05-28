@@ -1,0 +1,15 @@
+persons:
+    person-loreza-sand:
+        properties:
+            alias:
+                - value: Sand Snake
+            external_ids:
+                - MH:I272
+            house: Martell
+            name:
+                fields:
+                    given: Loreza
+                    surname: Sand
+                value: Loreza Sand
+            sex: female
+        notes: Youngest Sand Snake. Bastard daughter of Prince Oberyn Martell and Ellaria Sand. Six years old at the time of AFFC. Listed in the AFFC appendix.

@@ -1,0 +1,11 @@
+persons:
+    person-rhaegar-frey:
+        properties:
+            external_ids:
+                - MH:I38
+            name:
+                fields:
+                    given: Rhaegar
+                    surname: Frey
+                value: Rhaegar Frey
+            sex: male

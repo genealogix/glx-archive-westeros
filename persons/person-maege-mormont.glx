@@ -1,0 +1,15 @@
+persons:
+    person-maege-mormont:
+        properties:
+            external_ids:
+                - MH:I430
+            house: Mormont
+            name:
+                fields:
+                    given: Maege
+                    surname: Mormont
+                value: Maege Mormont
+            sex: female
+            title:
+                - value: Lady of Bear Island
+        notes: The Lady of Bear Island.

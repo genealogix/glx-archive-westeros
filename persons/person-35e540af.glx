@@ -1,6 +1,0 @@
-persons:
-    person-unknown-467:
-        properties:
-            external_ids:
-                - MH:I467
-            gender: female

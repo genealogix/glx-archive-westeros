@@ -1,0 +1,11 @@
+persons:
+    person-perra-royce:
+        properties:
+            external_ids:
+                - MH:I2
+            name:
+                fields:
+                    given: Perra
+                    surname: Royce
+                value: Perra Royce
+            sex: female

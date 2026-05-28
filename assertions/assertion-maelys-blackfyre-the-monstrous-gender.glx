@@ -1,0 +1,11 @@
+assertions:
+    assertion-maelys-blackfyre-the-monstrous-gender:
+        subject:
+            person: person-maelys-blackfyre-the-monstrous
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Maelys the Monstrous was the fifth and last of the Blackfyre Pretenders; with his death, the curse that Aegon the Unworthy had inflicted on the Seven Kingdoms by giving his sword to his bastard son was finally ended.'

@@ -1,0 +1,11 @@
+persons:
+    person-wynafrei-whent:
+        properties:
+            external_ids:
+                - MH:I85
+            name:
+                fields:
+                    given: Wynafrei
+                    surname: Whent
+                value: Wynafrei Whent
+            sex: female

@@ -1,0 +1,11 @@
+persons:
+    person-lyra-mormont:
+        properties:
+            external_ids:
+                - MH:I433
+            name:
+                fields:
+                    given: Lyra
+                    surname: Mormont
+                value: Lyra Mormont
+            sex: female

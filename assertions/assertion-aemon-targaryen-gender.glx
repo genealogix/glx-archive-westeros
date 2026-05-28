@@ -1,0 +1,11 @@
+assertions:
+    assertion-aemon-targaryen-gender:
+        subject:
+            person: person-aemon-targaryen
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Maekar''s third son, Aemon, was a bookish boy'

@@ -1,0 +1,11 @@
+assertions:
+    assertion-daemon-blackfyre-gender:
+        subject:
+            person: person-daemon-blackfyre
+        property: sex
+        value: male
+        confidence: high
+        status: accepted
+        citations:
+            - citation-twoiaf-targaryen
+        notes: 'Verified against TWOIAF, The Targaryen Kings section. Source text: Daemon Waters was his full name when he was born in 170 AC'

@@ -1,0 +1,14 @@
+persons:
+    person-gerion-lannister:
+        properties:
+            cause_of_death: Lost at sea
+            external_ids:
+                - MH:I162
+            house: Lannister
+            name:
+                fields:
+                    given: Gerion
+                    surname: Lannister
+                value: Gerion Lannister
+            sex: male
+        notes: Youngest brother of Tywin Lannister. Lost at sea.

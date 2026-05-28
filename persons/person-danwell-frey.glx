@@ -1,0 +1,12 @@
+persons:
+    person-danwell-frey:
+        properties:
+            external_ids:
+                - MH:I65
+            name:
+                fields:
+                    given: Danwell
+                    prefix: Ser
+                    surname: Frey
+                value: Ser Danwell Frey
+            sex: male

@@ -1,0 +1,10 @@
+persons:
+    person-targaryen-347:
+        properties:
+            external_ids:
+                - MH:I347
+            name:
+                fields:
+                    surname: Targaryen
+                value: Targaryen
+            sex: male

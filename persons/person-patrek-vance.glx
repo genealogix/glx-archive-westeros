@@ -1,0 +1,11 @@
+persons:
+    person-patrek-vance:
+        properties:
+            external_ids:
+                - MH:I21
+            name:
+                fields:
+                    given: Patrek
+                    surname: Vance
+                value: Patrek Vance
+            sex: male

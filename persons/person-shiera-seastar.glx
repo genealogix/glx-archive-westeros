@@ -1,0 +1,11 @@
+persons:
+    person-shiera-seastar:
+        properties:
+            external_ids:
+                - MH:I311
+            name:
+                fields:
+                    given: Shiera
+                    surname: Seastar
+                value: Shiera Seastar
+            sex: female

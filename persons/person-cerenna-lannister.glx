@@ -1,0 +1,13 @@
+persons:
+    person-cerenna-lannister:
+        properties:
+            external_ids:
+                - MH:I185
+            house: Lannister
+            name:
+                fields:
+                    given: Cerenna
+                    surname: Lannister
+                value: Cerenna Lannister
+            sex: female
+        notes: Daughter of Ser Stafford Lannister.
