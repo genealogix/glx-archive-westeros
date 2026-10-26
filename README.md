@@ -175,7 +175,7 @@ The supported `glx migrate` command found no remaining birth/death/burial, gende
 
 See the [GLX CLI](https://genealogix.io/quickstart) for installation. To reproduce the archive checks, run `GLX=/path/to/glx sh scripts/check-archive.sh`.
 
-**Vocabulary preservation:** beta.12's `glx migrate` and `glx split` rewrite standard vocabulary files. Back up `vocabularies/` before running them and reconcile or restore custom definitions afterward. A plain join/split roundtrip otherwise reintroduces the 698 missing-vocabulary errors. The check script restores these definitions and compares the joined archives byte-for-byte. `glx publish` also succeeds with this archive.
+**Vocabulary preservation:** beta.12's `glx migrate` and `glx split` rewrite standard vocabulary files. Back up `vocabularies/` before running them and reconcile or restore custom definitions afterward. A plain join/split roundtrip otherwise reintroduces the 698 missing-vocabulary errors. The check script first compares the raw joined/split/rejoined archive, reports vocabulary-file differences and raw validation failure, then explicitly repairs vocabulary files and compares again byte-for-byte. A successful repaired comparison does not imply raw roundtrip preservation. Both beta.12 and main `54459106` reproduce this loss; the broader safe-write preservation contract is tracked in [GLX #1247](https://github.com/genealogix/glx/issues/1247). `glx publish` also succeeds with this archive.
 
 ## Data lineage
 
