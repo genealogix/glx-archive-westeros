@@ -83,3 +83,68 @@ place_types:
     description: "Cemetery or burial ground"
     category: "institution"
 
+
+  # Westeros-specific terms already used by the archive.
+  battlefield:
+    label: "Battlefield"
+    description: "Archive-specific place_type term: battlefield."
+  bay:
+    label: "Bay"
+    description: "Archive-specific place_type term: bay."
+  castle:
+    label: "Castle"
+    description: "Archive-specific place_type term: castle."
+  continent:
+    label: "Continent"
+    description: "Archive-specific place_type term: continent."
+  crypt:
+    label: "Crypt"
+    description: "Archive-specific place_type term: crypt."
+  forest:
+    label: "Forest"
+    description: "Archive-specific place_type term: forest."
+  free_city:
+    label: "Free city"
+    description: "Archive-specific place_type term: free city."
+  inn:
+    label: "Inn"
+    description: "Archive-specific place_type term: inn."
+  island:
+    label: "Island"
+    description: "Archive-specific place_type term: island."
+  keep:
+    label: "Keep"
+    description: "Archive-specific place_type term: keep."
+  kingdom:
+    label: "Kingdom"
+    description: "Archive-specific place_type term: kingdom."
+  lake:
+    label: "Lake"
+    description: "Archive-specific place_type term: lake."
+  landmark:
+    label: "Landmark"
+    description: "Archive-specific place_type term: landmark."
+  river:
+    label: "River"
+    description: "Archive-specific place_type term: river."
+  road:
+    label: "Road"
+    description: "Archive-specific place_type term: road."
+  ruin:
+    label: "Ruin"
+    description: "Archive-specific place_type term: ruin."
+  sept:
+    label: "Sept"
+    description: "Archive-specific place_type term: sept."
+  slave_city:
+    label: "Slave city"
+    description: "Archive-specific place_type term: slave city."
+  swamp:
+    label: "Swamp"
+    description: "Archive-specific place_type term: swamp."
+  temple:
+    label: "Temple"
+    description: "Archive-specific place_type term: temple."
+  tower:
+    label: "Tower"
+    description: "Archive-specific place_type term: tower."

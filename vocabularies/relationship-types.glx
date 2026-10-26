@@ -7,7 +7,17 @@ relationship_types:
     label: "Marriage"
     description: "Legal or religious union of two people"
     gedcom: "MARR"
-  
+
+  civil_union:
+    label: "Civil Union"
+    description: "Legally recognized union distinct from marriage in its jurisdiction (GEDCOM X CivilUnion, Gramps CIVIL UNION)"
+    # No direct GEDCOM equivalent — GEDCOM 7.0 expresses this as MARR with TYPE "civil union", which rounds back to a marriage relationship in this implementation; no gedcom mapping is declared so the reverse MARR lookup stays unambiguous
+
+  common_law_marriage:
+    label: "Common-Law Marriage"
+    description: "Marriage established by cohabitation and repute rather than ceremony or registration, where the jurisdiction recognizes it (GEDCOM X CommonLawMarriage)"
+    # No direct GEDCOM equivalent — GEDCOM 7.0 expresses this as MARR with TYPE "common law", which rounds back to a marriage relationship in this implementation; no gedcom mapping is declared so the reverse MARR lookup stays unambiguous
+
   parent_child:
     label: "Parent-Child"
     description: "Parent-child relationship (unspecified type)"
@@ -112,3 +122,44 @@ relationship_types:
     description: "Asymmetric household-membership relationship between a head of household and a dependent — boarder, lodger, ward, or servant — as recorded in census or household records. Pair participants with the household_head and boarder roles. Distinct from `housemate` (symmetric cohabitation) and `apprenticeship` (trade-training)."
     # No direct GEDCOM equivalent
 
+
+  # Westeros-specific terms already used by the archive.
+  bastard_parent:
+    label: "Bastard parent"
+    description: "Archive-specific relationship_type term: bastard parent."
+  betrothal:
+    label: "Betrothal"
+    description: "Archive-specific relationship_type term: betrothal."
+  commander:
+    label: "Commander"
+    description: "Archive-specific relationship_type term: commander."
+  hand_of_the_king:
+    label: "Hand of the king"
+    description: "Archive-specific relationship_type term: hand of the king."
+  hostage:
+    label: "Hostage"
+    description: "Archive-specific relationship_type term: hostage."
+  kingsguard:
+    label: "Kingsguard"
+    description: "Archive-specific relationship_type term: kingsguard."
+  maester:
+    label: "Maester"
+    description: "Archive-specific relationship_type term: maester."
+  prisoner:
+    label: "Prisoner"
+    description: "Archive-specific relationship_type term: prisoner."
+  queensguard:
+    label: "Queensguard"
+    description: "Archive-specific relationship_type term: queensguard."
+  red_priest:
+    label: "Red priest"
+    description: "Archive-specific relationship_type term: red priest."
+  secret_lover:
+    label: "Secret lover"
+    description: "Archive-specific relationship_type term: secret lover."
+  sworn_sword:
+    label: "Sworn sword"
+    description: "Archive-specific relationship_type term: sworn sword."
+  ward:
+    label: "Ward"
+    description: "Archive-specific relationship_type term: ward."

@@ -55,3 +55,17 @@ repository_types:
   other: # Intentionally no `gedcom:` mapping; used as fallback for unrecognized GEDCOM REPO.TYPE values.
     label: "Other"
     description: "Other institution type"
+
+  # Westeros-specific terms already used by the archive.
+  broadcast_series:
+    label: "Broadcast series"
+    description: "Archive-specific repository_type term: broadcast series."
+  digital_archive:
+    label: "Digital archive"
+    description: "Archive-specific repository_type term: digital archive."
+  fan_wiki:
+    label: "Fan wiki"
+    description: "Archive-specific repository_type term: fan wiki."
+  published_series:
+    label: "Published series"
+    description: "Archive-specific repository_type term: published series."

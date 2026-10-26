@@ -53,3 +53,17 @@ place_properties:
         label: "Identifier Type"
         description: "Authority or system that issued this identifier (e.g., geonames, wikidata, openstreetmap, familysearch). Often a URI, especially when imported from GEDCOM 7 EXID.TYPE."
 
+
+  # Existing Westeros archive properties; values are preserved as recorded.
+  also_known_as:
+    label: "Also known as"
+    description: "Also known as as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  seat_of:
+    label: "Seat of"
+    description: "Seat of as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true

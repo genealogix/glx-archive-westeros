@@ -225,6 +225,8 @@ Beyond standard genealogical relationships, Westeros has political and feudal bo
 
 ### Person
 
+Birth, death, and burial dates and places belong on events, not person properties. Use `sex` for legacy biological-sex values; `gender` is a distinct gender-identity property.
+
 ```yaml
 persons:
   person-walder-frey:
@@ -235,8 +237,7 @@ persons:
           type: "birth"
           given: "Walder"
           surname: "Frey"
-      gender: "male"
-      born_on: "ABT 208"
+      sex: "male"
       title:
         - value: "Lord of the Crossing"
           date: "FROM 250"
@@ -578,7 +579,7 @@ Create the person entity with known properties. Create the full evidence chain f
 
 ```
 1. Check if the person already exists in the archive (search persons/)
-2. Create person file with name, gender, dates, titles, house, aliases
+2. Create person file with name, sex, titles, house, aliases; record dates on events
 3. Create place entities for any locations mentioned
 4. Create birth/death events linking person to places and dates
 5. Create source → citation → assertion chain (cite the novel chapter or episode)
