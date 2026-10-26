@@ -1,0 +1,5 @@
+metadata:
+  language: en
+  notes:
+    - "Compatibility target: GLX CLI v0.0.0-beta.12, schema/v1; checked 2026-10-26."
+    - "Dates use the fictional Westeros Before/After Conquest calendar. Existing BC, negative-year, and year-zero expressions are preserved, including validator warnings."

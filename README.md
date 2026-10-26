@@ -1,6 +1,6 @@
 # GLX Archive — Westeros
 
-A demonstration [GENEALOGIX](https://genealogix.io) archive covering the families and dynasties of **A Song of Ice and Fire** by George R.R. Martin. This archive showcases every feature of the [GLX specification](https://genealogix.io/specification/) through the rich genealogical and political world of Westeros.
+A demonstration [GENEALOGIX](https://genealogix.io) archive covering the families and dynasties of **A Song of Ice and Fire** by George R.R. Martin. This archive demonstrates core features of the [GLX specification](https://genealogix.io/specification/) through the rich genealogical and political world of Westeros.
 
 ## Why Westeros?
 
@@ -10,22 +10,22 @@ The ASOIAF universe is an ideal stress-test for a genealogical data format:
 - **Unreliable narrators** — the books are told through biased POV characters, making evidence chains and competing assertions essential
 - **Disputed facts** — is Joffrey a Baratheon or a Lannister? Is Young Griff a Targaryen or a Blackfyre? Is Jon Snow Ned's bastard or Rhaegar's son?
 - **Book vs. show canon divergence** — separate evidence tracks for two versions of the same story
-- **Complex non-genealogical relationships** — wards, sworn swords, hostages, liege-vassal bonds, kingsguard oaths, betrothals, regencies
+- **Complex non-genealogical relationships** — wards, sworn swords, hostages, liege-vassal bonds, kingsguard oaths, betrothals
 - **Deep temporal data** — events spanning thousands of years from the Age of Heroes through the War of the Five Kings
 
 ## Archive at a glance
 
 | Entity | Count | Description |
 |--------|------:|-------------|
-| [Persons](https://genealogix.io/specification/4-entity-types/person) | 790 | Characters across 73+ houses and surnames |
-| [Events](https://genealogix.io/specification/4-entity-types/event) | 961 | Births, deaths, battles, executions, coronations, rebellions, and more |
-| [Relationships](https://genealogix.io/specification/4-entity-types/relationship) | 807 | Parent-child, marriage, betrothal, ward, sworn sword, and political bonds |
-| [Assertions](https://genealogix.io/specification/4-entity-types/assertion) | 820+ | Source-backed conclusions with full evidence chains |
-| [Citations](https://genealogix.io/specification/4-entity-types/citation) | 260+ | Specific chapter, episode, and appendix references |
-| [Places](https://genealogix.io/specification/4-entity-types/place) | 108 | Castles, cities, kingdoms, regions, landmarks, rivers |
+| [Persons](https://genealogix.io/specification/4-entity-types/person) | 792 | Characters across 73+ houses and surnames |
+| [Events](https://genealogix.io/specification/4-entity-types/event) | 986 | Births, deaths, battles, executions, coronations, rebellions, and more |
+| [Relationships](https://genealogix.io/specification/4-entity-types/relationship) | 822 | Parent-child, marriage, betrothal, ward, sworn sword, and political bonds |
+| [Assertions](https://genealogix.io/specification/4-entity-types/assertion) | 1,929 | Source-backed conclusions with full evidence chains |
+| [Citations](https://genealogix.io/specification/4-entity-types/citation) | 269 | Specific chapter, episode, and appendix references |
+| [Places](https://genealogix.io/specification/4-entity-types/place) | 107 | Castles, cities, kingdoms, regions, landmarks, rivers |
 | [Sources](https://genealogix.io/specification/4-entity-types/source) | 11 | Novels, companion books, HBO series, author statements |
 | [Repositories](https://genealogix.io/specification/4-entity-types/repository) | 4 | ASOIAF novels, HBO series, wiki references, legacy imports |
-| [Vocabularies](https://genealogix.io/specification/4-entity-types/vocabularies) | 16 | Controlled type definitions for all entity categories |
+| [Vocabularies](https://genealogix.io/specification/4-entity-types/vocabularies) | 25 | Controlled type definitions for all entity categories |
 
 ### Houses represented
 
@@ -35,13 +35,13 @@ Frey (91), Targaryen (70), Lannister (23), Tyrell (19), Waynwood (18), Stark (16
 
 ### Entity types
 
-Every [GLX entity type](https://genealogix.io/specification/4-entity-types/) is exercised:
+The following [GLX entity types](https://genealogix.io/specification/4-entity-types/) are represented (media is described for context):
 
 | Entity type | Spec link | How it's used in this archive |
 |-------------|-----------|-------------------------------|
 | **Person** | [spec](https://genealogix.io/specification/4-entity-types/person) | Characters with temporal properties — titles that change over time (`Lord of Winterfell` → `King in the North`), multiple name types (birth, alias, married), houses, religions, causes of death |
-| **Event** | [spec](https://genealogix.io/specification/4-entity-types/event) | 102 custom event types: battles, assassinations, coronations, trials by combat, kingsmoots, rebellions, dragon hatchings, walks of atonement. Participants with typed roles. |
-| **Relationship** | [spec](https://genealogix.io/specification/4-entity-types/relationship) | Standard genealogical (parent-child, marriage, sibling) plus 16 Westeros-specific types: ward, sworn sword, liege-vassal, kingsguard, betrothal, secret lover, hostage, regent, hand of the king, and more |
+| **Event** | [spec](https://genealogix.io/specification/4-entity-types/event) | 72 defined event types, including battles, assassinations, coronations, trials by combat, kingsmoots, rebellions, dragon hatchings. Participants with typed roles. |
+| **Relationship** | [spec](https://genealogix.io/specification/4-entity-types/relationship) | Standard genealogical (parent-child, marriage, sibling) plus Westeros-specific types: ward, sworn sword, kingsguard, betrothal, secret lover, hostage, regent, hand of the king, and more |
 | **Place** | [spec](https://genealogix.io/specification/4-entity-types/place) | Hierarchical geography — `place-winterfell` (castle) → `place-the-north` (kingdom) → `place-westeros` (continent). Types include continent, kingdom, castle, city, town, region, landmark, battlefield |
 | **Source** | [spec](https://genealogix.io/specification/4-entity-types/source) | 5 novels, companion texts, HBO series, AWOIAF wiki, author statement collections |
 | **Citation** | [spec](https://genealogix.io/specification/4-entity-types/citation) | Specific chapter references (`ASOS Catelyn VII`), episode references (`S06E10 — The Winds of Winter`), appendix entries, and manuscript annotations with `text_from_source` quotes |
@@ -63,8 +63,8 @@ Repository → Source → Citation → Assertion → Entity Property
 repository-asoiaf-novels
   └─ source-asos (A Storm of Swords)
        └─ citation-asos-catelyn-vii (Catelyn VII — "The crossbow bolt drove him to his knees.")
-            └─ assertion-robb-stark-death-red-wedding
-                 └─ person-robb-stark (died_on: "299", cause_of_death: "Homicide")
+            └─ assertion-robb-death-red-wedding
+                 └─ event-death-robb-stark (date: "299", participant: person-robb-stark)
 ```
 
 **Example: Joffrey's parentage — competing evidence chains**
@@ -106,10 +106,10 @@ The (f)Aegon / Blackfyre theory similarly sits at `confidence: low, status: spec
 
 This archive extends the [standard GLX vocabularies](https://genealogix.io/specification/5-standard-vocabularies/) with types specific to Westerosi society:
 
-- **102 event types** — standard lifecycle events plus `battle`, `rebellion`, `sack`, `assassination`, `trial_by_combat`, `kingsmoot`, `mutiny`, `dragon_hatching`, `walk_of_atonement`, and more
-- **65 relationship types** — standard genealogical types plus `ward`, `sworn_sword`, `liege_vassal`, `kingsguard`, `betrothal`, `secret_lover`, `hostage`, `regent`, `hand_of_the_king`
-- **123 participant roles** — `perpetrator`, `victim`, `commander`, `defender`, `betrayer`, `hostage`, `cupbearer`, and domain-specific roles
-- **61 place types** — `continent`, `kingdom`, `castle`, `city`, `battlefield`, `ruin`, and more
+- **72 event types** — lifecycle events plus `battle`, `rebellion`, `sack`, `assassination`, `trial_by_combat`, `kingsmoot`, `mutiny`, and `dragon_hatching`
+- **35 relationship types** — genealogical types plus `ward`, `sworn_sword`, `kingsguard`, `betrothal`, `secret_lover`, `hostage`, and `hand_of_the_king`
+- **104 participant roles** — including `perpetrator`, `victim`, `commander`, `defender`, `betrayer`, and `hostage`
+- **37 place types** — including `continent`, `kingdom`, `castle`, `city`, `battlefield`, and `ruin`
 
 Vocabulary files live in `vocabularies/` and are validated by `glx validate`.
 
@@ -128,7 +128,7 @@ title:
     date: "FROM 299"
 ```
 
-Dates use the AC (After Conquest) calendar, which maps directly to GLX's standard date format with qualifiers like `ABT` (about), `BEF` (before), `BET ... AND ...` (between), `FROM` (from), and `TO` (to).
+Dates record the fictional AC (After Conquest) calendar using qualifiers like `ABT` (about), `BEF` (before), `BET ... AND ...` (between), `FROM` (from), and `TO` (to).
 
 ### Place hierarchy
 
@@ -144,15 +144,15 @@ place-westeros (continent)
 ## Archive structure
 
 ```
-├── persons/          # One .glx file per character (790 files)
-├── events/           # Births, deaths, battles, coronations (961 files)
-├── relationships/    # Genealogical and political bonds (807 files)
-├── assertions/       # Source-backed conclusions, evidence chains (820+ files)
-├── citations/        # Chapter/episode/appendix references (260+ files)
+├── persons/          # One .glx file per character (792 files)
+├── events/           # Births, deaths, battles, coronations (986 files)
+├── relationships/    # Genealogical and political bonds (822 files)
+├── assertions/       # Source-backed conclusions, evidence chains (1,929 files)
+├── citations/        # Chapter/episode/appendix references (269 files)
 ├── sources/          # Source records for novels, show, wikis (11 files)
 ├── repositories/     # Source repositories (4 files)
-├── places/           # Hierarchical geography (108 files)
-├── vocabularies/     # Controlled type definitions (16 files)
+├── places/           # Hierarchical geography (107 files)
+├── vocabularies/     # Controlled type definitions (25 files)
 └── metadata.glx      # Archive metadata
 ```
 
@@ -165,7 +165,17 @@ glx validate          # validate entire archive
 glx validate file.glx # validate a single file
 ```
 
-The archive validates clean (0 errors). See the [GLX CLI](https://genealogix.io/quickstart) for installation.
+The compatibility target is [GLX CLI v0.0.0-beta.12](https://github.com/genealogix/glx/releases/tag/v0.0.0-beta.12), the latest published release as of 2026-10-26. It uses the specification's `schema/v1` family (JSON Schema 2020-12); the CLI beta number is not a separate archive-format field. Archive metadata does not accept a `glx_version` key.
+
+Validation passes with **0 errors and 12 existing date warnings**. These concern Westeros BC dates, negative years, `ABT 0`, and `ABT 114 BEF 1`. They are retained verbatim: BC means Before Conquest here, and converting it to historical BCE or choosing a year-zero convention would change the recorded meaning. Date sorting and chronological analysis of these expressions may be incomplete. The two existing Doom of Valyria dates also remain independent recorded claims.
+
+Current GLX main (`544591068ed1524a7750bf8e2112ea14d22cad2b`) also validates successfully, with 13 date warnings (including its additional warning on the negative-year range). The archive tracks the published release, not unreleased main behavior.
+
+The supported `glx migrate` command found no remaining birth/death/burial, gender, confidence, or source/media-description conversions. Its `--rename-ssn-to-national-id` migration updated one unused property definition and refreshed standard vocabularies. Custom definitions were added afterward because migration rewrites vocabulary files. No entity data or IDs changed. `--strip-event-title-year` was intentionally omitted: hand-written fictional titles can match its import heuristic.
+
+See the [GLX CLI](https://genealogix.io/quickstart) for installation. To reproduce the archive checks, run `GLX=/path/to/glx sh scripts/check-archive.sh`.
+
+**Vocabulary preservation:** beta.12's `glx migrate` and `glx split` rewrite standard vocabulary files. Back up `vocabularies/` before running them and reconcile or restore custom definitions afterward. A plain join/split roundtrip otherwise reintroduces the 698 missing-vocabulary errors. The check script restores these definitions and compares the joined archives byte-for-byte. `glx publish` also succeeds with this archive.
 
 ## Data lineage
 

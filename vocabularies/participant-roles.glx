@@ -9,12 +9,14 @@ participant_roles:
     description: "Primary person in the event. Canonical role for the event's subject; tooling also accepts 'subject' as a synonym."
     applies_to:
       - event
+      - relationship
 
   subject:
     label: "Subject"
     description: "Synonym of 'principal'. Both terms are accepted by tooling; 'principal' is canonical and is what 'glx init' and GEDCOM import emit."
     applies_to:
       - event
+      - relationship
 
   witness:
     label: "Witness"
@@ -57,6 +59,7 @@ participant_roles:
     label: "Parent"
     description: "Parent in parent-child relationship"
     applies_to:
+      - event
       - relationship
   
   child:
@@ -127,3 +130,341 @@ participant_roles:
     applies_to:
       - relationship
 
+
+  # Westeros-specific terms already used by the archive.
+  absent:
+    label: "Absent"
+    description: "Archive-specific participant_role term: absent."
+    applies_to: [event, relationship]
+  accused:
+    label: "Accused"
+    description: "Archive-specific participant_role term: accused."
+    applies_to: [event, relationship]
+  accuser:
+    label: "Accuser"
+    description: "Archive-specific participant_role term: accuser."
+    applies_to: [event, relationship]
+  advisor:
+    label: "Advisor"
+    description: "Archive-specific participant_role term: advisor."
+    applies_to: [event, relationship]
+  agent:
+    label: "Agent"
+    description: "Archive-specific participant_role term: agent."
+    applies_to: [event, relationship]
+  announcer:
+    label: "Announcer"
+    description: "Archive-specific participant_role term: announcer."
+    applies_to: [event, relationship]
+  attacker:
+    label: "Attacker"
+    description: "Archive-specific participant_role term: attacker."
+    applies_to: [event, relationship]
+  attendee:
+    label: "Attendee"
+    description: "Archive-specific participant_role term: attendee."
+    applies_to: [event, relationship]
+  authority:
+    label: "Authority"
+    description: "Archive-specific participant_role term: authority."
+    applies_to: [event, relationship]
+  banished:
+    label: "Banished"
+    description: "Archive-specific participant_role term: banished."
+    applies_to: [event, relationship]
+  bannerman:
+    label: "Bannerman"
+    description: "Archive-specific participant_role term: bannerman."
+    applies_to: [event, relationship]
+  beneficiary:
+    label: "Beneficiary"
+    description: "Archive-specific participant_role term: beneficiary."
+    applies_to: [event, relationship]
+  besieger:
+    label: "Besieger"
+    description: "Archive-specific participant_role term: besieger."
+    applies_to: [event, relationship]
+  betrayer:
+    label: "Betrayer"
+    description: "Archive-specific participant_role term: betrayer."
+    applies_to: [event, relationship]
+  betrothed:
+    label: "Betrothed"
+    description: "Archive-specific participant_role term: betrothed."
+    applies_to: [event, relationship]
+  bloodrider:
+    label: "Bloodrider"
+    description: "Archive-specific participant_role term: bloodrider."
+    applies_to: [event, relationship]
+  buyer:
+    label: "Buyer"
+    description: "Archive-specific participant_role term: buyer."
+    applies_to: [event, relationship]
+  captive:
+    label: "Captive"
+    description: "Archive-specific participant_role term: captive."
+    applies_to: [event, relationship]
+  captor:
+    label: "Captor"
+    description: "Archive-specific participant_role term: captor."
+    applies_to: [event, relationship]
+  champion:
+    label: "Champion"
+    description: "Archive-specific participant_role term: champion."
+    applies_to: [event, relationship]
+  champion_for_accused:
+    label: "Champion for accused"
+    description: "Archive-specific participant_role term: champion for accused."
+    applies_to: [event, relationship]
+  champion_for_crown:
+    label: "Champion for crown"
+    description: "Archive-specific participant_role term: champion for crown."
+    applies_to: [event, relationship]
+  combatant:
+    label: "Combatant"
+    description: "Archive-specific participant_role term: combatant."
+    applies_to: [event, relationship]
+  commander:
+    label: "Commander"
+    description: "Archive-specific participant_role term: commander."
+    applies_to: [event, relationship]
+  condemned:
+    label: "Condemned"
+    description: "Archive-specific participant_role term: condemned."
+    applies_to: [event, relationship]
+  conspirator:
+    label: "Conspirator"
+    description: "Archive-specific participant_role term: conspirator."
+    applies_to: [event, relationship]
+  crown_champion:
+    label: "Crown champion"
+    description: "Archive-specific participant_role term: crown champion."
+    applies_to: [event, relationship]
+  crowning_authority:
+    label: "Crowning authority"
+    description: "Archive-specific participant_role term: crowning authority."
+    applies_to: [event, relationship]
+  defendant:
+    label: "Defendant"
+    description: "Archive-specific participant_role term: defendant."
+    applies_to: [event, relationship]
+  defender:
+    label: "Defender"
+    description: "Archive-specific participant_role term: defender."
+    applies_to: [event, relationship]
+  enemy_commander:
+    label: "Enemy commander"
+    description: "Archive-specific participant_role term: enemy commander."
+    applies_to: [event, relationship]
+  escort:
+    label: "Escort"
+    description: "Archive-specific participant_role term: escort."
+    applies_to: [event, relationship]
+  executioner:
+    label: "Executioner"
+    description: "Archive-specific participant_role term: executioner."
+    applies_to: [event, relationship]
+  executor:
+    label: "Executor"
+    description: "Archive-specific participant_role term: executor."
+    applies_to: [event, relationship]
+  first_acclaimer:
+    label: "First acclaimer"
+    description: "Archive-specific participant_role term: first acclaimer."
+    applies_to: [event, relationship]
+  guardian:
+    label: "Guardian"
+    description: "Archive-specific participant_role term: guardian."
+    applies_to: [event, relationship]
+  guest:
+    label: "Guest"
+    description: "Archive-specific participant_role term: guest."
+    applies_to: [event, relationship]
+  guide:
+    label: "Guide"
+    description: "Archive-specific participant_role term: guide."
+    applies_to: [event, relationship]
+  hand:
+    label: "Hand"
+    description: "Archive-specific participant_role term: hand."
+    applies_to: [event, relationship]
+  host:
+    label: "Host"
+    description: "Archive-specific participant_role term: host."
+    applies_to: [event, relationship]
+  hostage:
+    label: "Hostage"
+    description: "Archive-specific participant_role term: hostage."
+    applies_to: [event, relationship]
+  instigator:
+    label: "Instigator"
+    description: "Archive-specific participant_role term: instigator."
+    applies_to: [event, relationship]
+  intermediary:
+    label: "Intermediary"
+    description: "Archive-specific participant_role term: intermediary."
+    applies_to: [event, relationship]
+  judge:
+    label: "Judge"
+    description: "Archive-specific participant_role term: judge."
+    applies_to: [event, relationship]
+  khal:
+    label: "Khal"
+    description: "Archive-specific participant_role term: khal."
+    applies_to: [event, relationship]
+  killer:
+    label: "Killer"
+    description: "Archive-specific participant_role term: killer."
+    applies_to: [event, relationship]
+  king:
+    label: "King"
+    description: "Archive-specific participant_role term: king."
+    applies_to: [event, relationship]
+  leader:
+    label: "Leader"
+    description: "Archive-specific participant_role term: leader."
+    applies_to: [event, relationship]
+  liege:
+    label: "Liege"
+    description: "Archive-specific participant_role term: liege."
+    applies_to: [event, relationship]
+  lord:
+    label: "Lord"
+    description: "Archive-specific participant_role term: lord."
+    applies_to: [event, relationship]
+  losing_candidate:
+    label: "Losing candidate"
+    description: "Archive-specific participant_role term: losing candidate."
+    applies_to: [event, relationship]
+  lover:
+    label: "Lover"
+    description: "Archive-specific participant_role term: lover."
+    applies_to: [event, relationship]
+  maester:
+    label: "Maester"
+    description: "Archive-specific participant_role term: maester."
+    applies_to: [event, relationship]
+  member:
+    label: "Member"
+    description: "Archive-specific participant_role term: member."
+    applies_to: [event, relationship]
+  monarch:
+    label: "Monarch"
+    description: "Archive-specific participant_role term: monarch."
+    applies_to: [event, relationship]
+  negotiator:
+    label: "Negotiator"
+    description: "Archive-specific participant_role term: negotiator."
+    applies_to: [event, relationship]
+  nominator:
+    label: "Nominator"
+    description: "Archive-specific participant_role term: nominator."
+    applies_to: [event, relationship]
+  opponent:
+    label: "Opponent"
+    description: "Archive-specific participant_role term: opponent."
+    applies_to: [event, relationship]
+  organizer:
+    label: "Organizer"
+    description: "Archive-specific participant_role term: organizer."
+    applies_to: [event, relationship]
+  owner:
+    label: "Owner"
+    description: "Archive-specific participant_role term: owner."
+    applies_to: [event, relationship]
+  participant:
+    label: "Participant"
+    description: "Archive-specific participant_role term: participant."
+    applies_to: [event, relationship]
+  patron:
+    label: "Patron"
+    description: "Archive-specific participant_role term: patron."
+    applies_to: [event, relationship]
+  perpetrator:
+    label: "Perpetrator"
+    description: "Archive-specific participant_role term: perpetrator."
+    applies_to: [event, relationship]
+  physician:
+    label: "Physician"
+    description: "Archive-specific participant_role term: physician."
+    applies_to: [event, relationship]
+  presiding_judge:
+    label: "Presiding judge"
+    description: "Archive-specific participant_role term: presiding judge."
+    applies_to: [event, relationship]
+  priest:
+    label: "Priest"
+    description: "Archive-specific participant_role term: priest."
+    applies_to: [event, relationship]
+  prisoner:
+    label: "Prisoner"
+    description: "Archive-specific participant_role term: prisoner."
+    applies_to: [event, relationship]
+  protector:
+    label: "Protector"
+    description: "Archive-specific participant_role term: protector."
+    applies_to: [event, relationship]
+  queen:
+    label: "Queen"
+    description: "Archive-specific participant_role term: queen."
+    applies_to: [event, relationship]
+  recipient:
+    label: "Recipient"
+    description: "Archive-specific participant_role term: recipient."
+    applies_to: [event, relationship]
+  scribe:
+    label: "Scribe"
+    description: "Archive-specific participant_role term: scribe."
+    applies_to: [event, relationship]
+  seller:
+    label: "Seller"
+    description: "Archive-specific participant_role term: seller."
+    applies_to: [event, relationship]
+  spectator:
+    label: "Spectator"
+    description: "Archive-specific participant_role term: spectator."
+    applies_to: [event, relationship]
+  squire:
+    label: "Squire"
+    description: "Archive-specific participant_role term: squire."
+    applies_to: [event, relationship]
+  student:
+    label: "Student"
+    description: "Archive-specific participant_role term: student."
+    applies_to: [event, relationship]
+  survivor:
+    label: "Survivor"
+    description: "Archive-specific participant_role term: survivor."
+    applies_to: [event, relationship]
+  sworn_knight:
+    label: "Sworn knight"
+    description: "Archive-specific participant_role term: sworn knight."
+    applies_to: [event, relationship]
+  sworn_sword:
+    label: "Sworn sword"
+    description: "Archive-specific participant_role term: sworn sword."
+    applies_to: [event, relationship]
+  teacher:
+    label: "Teacher"
+    description: "Archive-specific participant_role term: teacher."
+    applies_to: [event, relationship]
+  translator:
+    label: "Translator"
+    description: "Archive-specific participant_role term: translator."
+    applies_to: [event, relationship]
+  victim:
+    label: "Victim"
+    description: "Archive-specific participant_role term: victim."
+    applies_to: [event, relationship]
+  ward:
+    label: "Ward"
+    description: "Archive-specific participant_role term: ward."
+    applies_to: [event, relationship]
+  withdrawing_candidate:
+    label: "Withdrawing candidate"
+    description: "Archive-specific participant_role term: withdrawing candidate."
+    applies_to: [event, relationship]
+  witness_against:
+    label: "Witness against"
+    description: "Archive-specific participant_role term: witness against."
+    applies_to: [event, relationship]

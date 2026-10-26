@@ -242,3 +242,104 @@ event_types:
     category: "other"
     gedcom: "EVEN"
 
+
+  # Westeros-specific terms already used by the archive.
+  abdication:
+    label: "Abdication"
+    description: "Archive-specific event_type term: abdication."
+  alliance:
+    label: "Alliance"
+    description: "Archive-specific event_type term: alliance."
+  announcement:
+    label: "Announcement"
+    description: "Archive-specific event_type term: announcement."
+  arrival:
+    label: "Arrival"
+    description: "Archive-specific event_type term: arrival."
+  assassination:
+    label: "Assassination"
+    description: "Archive-specific event_type term: assassination."
+  battle:
+    label: "Battle"
+    description: "Archive-specific event_type term: battle."
+  betrothal_ceremony:
+    label: "Betrothal ceremony"
+    description: "Archive-specific event_type term: betrothal ceremony."
+  captivity:
+    label: "Captivity"
+    description: "Archive-specific event_type term: captivity."
+  cataclysm:
+    label: "Cataclysm"
+    description: "Archive-specific event_type term: cataclysm."
+  conquest:
+    label: "Conquest"
+    description: "Archive-specific event_type term: conquest."
+  conspiracy:
+    label: "Conspiracy"
+    description: "Archive-specific event_type term: conspiracy."
+  coronation:
+    label: "Coronation"
+    description: "Archive-specific event_type term: coronation."
+  council:
+    label: "Council"
+    description: "Archive-specific event_type term: council."
+  departure:
+    label: "Departure"
+    description: "Archive-specific event_type term: departure."
+  dragon_hatching:
+    label: "Dragon hatching"
+    description: "Archive-specific event_type term: dragon hatching."
+  election:
+    label: "Election"
+    description: "Archive-specific event_type term: election."
+  execution:
+    label: "Execution"
+    description: "Archive-specific event_type term: execution."
+  exile:
+    label: "Exile"
+    description: "Archive-specific event_type term: exile."
+  guest_right_violation:
+    label: "Guest right violation"
+    description: "Archive-specific event_type term: guest right violation."
+  kingsmoot:
+    label: "Kingsmoot"
+    description: "Archive-specific event_type term: kingsmoot."
+  knighting:
+    label: "Knighting"
+    description: "Archive-specific event_type term: knighting."
+  marriage_ceremony:
+    label: "Marriage ceremony"
+    description: "Archive-specific event_type term: marriage ceremony."
+  mutiny:
+    label: "Mutiny"
+    description: "Archive-specific event_type term: mutiny."
+  poisoning:
+    label: "Poisoning"
+    description: "Archive-specific event_type term: poisoning."
+  raid:
+    label: "Raid"
+    description: "Archive-specific event_type term: raid."
+  rebellion:
+    label: "Rebellion"
+    description: "Archive-specific event_type term: rebellion."
+  sack:
+    label: "Sack"
+    description: "Archive-specific event_type term: sack."
+  separation:
+    label: "Separation"
+    description: "Archive-specific event_type term: separation."
+  siege:
+    label: "Siege"
+    description: "Archive-specific event_type term: siege."
+  tournament:
+    label: "Tournament"
+    description: "Archive-specific event_type term: tournament."
+  trial:
+    label: "Trial"
+    description: "Archive-specific event_type term: trial."
+  trial_by_combat:
+    label: "Trial by combat"
+    description: "Archive-specific event_type term: trial by combat."
+  war:
+    label: "War"
+    description: "Archive-specific event_type term: war."

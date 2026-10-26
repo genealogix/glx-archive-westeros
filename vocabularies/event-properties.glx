@@ -60,3 +60,47 @@ event_properties:
         label: "Suffix"
         description: "Generational suffix (Jr., Sr., III)"
 
+
+  # Existing Westeros archive properties; values are preserved as recorded.
+  also_known_as:
+    label: "Also known as"
+    description: "Also known as as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  context:
+    label: "Context"
+    description: "Context as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  forces_involved:
+    label: "Forces involved"
+    description: "Forces involved as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  outcome:
+    label: "Outcome"
+    description: "Outcome as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  poison_used:
+    label: "Poison used"
+    description: "Poison used as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  signal:
+    label: "Signal"
+    description: "Signal as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  weapon:
+    label: "Weapon"
+    description: "Weapon as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true

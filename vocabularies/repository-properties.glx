@@ -49,3 +49,59 @@ repository_properties:
       type:
         label: "Identifier Type"
         description: "Authority or system that issued this identifier (e.g., familysearch, ancestry, wikitree). Often a URI, especially when imported from GEDCOM 7 EXID.TYPE."
+
+  # Existing Westeros archive properties; values are preserved as recorded.
+  author:
+    label: "Author"
+    description: "Author as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  export_date:
+    label: "Export date"
+    description: "Export date as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  export_format:
+    label: "Export format"
+    description: "Export format as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  maintainer:
+    label: "Maintainer"
+    description: "Maintainer as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  network:
+    label: "Network"
+    description: "Network as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  publisher:
+    label: "Publisher"
+    description: "Publisher as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  software:
+    label: "Software"
+    description: "Software as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  url:
+    label: "Url"
+    description: "Url as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  years:
+    label: "Years"
+    description: "Years as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true

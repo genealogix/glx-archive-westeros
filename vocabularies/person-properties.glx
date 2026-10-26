@@ -110,9 +110,9 @@ person_properties:
     temporal: true
     gedcom: "CAST"
 
-  ssn:
-    label: "Social Security Number"
-    description: "National identification number"
+  national_id:
+    label: "National Identification Number"
+    description: "National identification number (e.g., US SSN, UK NI number, Canadian SIN, Australian TFN). The GEDCOM SSN tag (a US Social Security Number) maps here on import/export."
     value_type: string
     gedcom: "SSN"
 
@@ -139,3 +139,41 @@ person_properties:
     value_type: boolean
     # No GEDCOM equivalent — GLX-specific privacy marker.
 
+
+  # Existing Westeros archive properties; values are preserved as recorded.
+  alias:
+    label: "Alias"
+    description: "Alias as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  bastard_name:
+    label: "Bastard name"
+    description: "Bastard name as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  canon_track:
+    label: "Canon track"
+    description: "Canon track as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  cause_of_death:
+    label: "Cause of death"
+    description: "Cause of death as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  culture:
+    label: "Culture"
+    description: "Culture as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
+  house:
+    label: "House"
+    description: "House as recorded in this archive."
+    value_type: string
+    temporal: true
+    multi_value: true
